@@ -60,22 +60,22 @@ export const kanjiData = [
     "kanji": "万",
     "level": "N5",
     "meanings": [
-      "10.000",
-      "sepuluh ribu"
+      "sepuluh ribu",
+      "10.000"
     ],
     "kunyomi": [
       "よろず"
     ],
     "onyomi": [
-      "バン",
-      "マン"
+      "マン",
+      "バン"
     ],
     "strokes": 3,
     "examples": [
       {
-        "word": "万",
-        "reading": "よろず",
-        "meaning": "10.000"
+        "word": "万年筆",
+        "reading": "まんねんひつ",
+        "meaning": "pulpen"
       }
     ]
   },
@@ -98,6 +98,11 @@ export const kanjiData = [
     "examples": [
       {
         "word": "三日月",
+        "reading": "みかづき",
+        "meaning": "bulan baru, bulan sabit"
+      },
+      {
+        "word": "三日月",
         "reading": "みかずき",
         "meaning": "bulan baru;"
       }
@@ -111,26 +116,26 @@ export const kanjiData = [
       "ke atas"
     ],
     "kunyomi": [
-      "-あ.がり",
-      "-あ.がる",
-      "-あ.げる",
-      "-うえ",
-      "あ.がり",
-      "あ.がる",
-      "あ.げる",
       "うえ",
+      "-うえ",
       "うわ-",
       "かみ",
-      "たてまつ.る",
-      "のぼ.す",
-      "のぼ.せる",
+      "あ.げる",
+      "-あ.げる",
+      "あ.がる",
+      "-あ.がる",
+      "あ.がり",
+      "-あ.がり",
+      "のぼ.る",
       "のぼ.り",
-      "のぼ.る"
+      "のぼ.せる",
+      "のぼ.す",
+      "たてまつ.る"
     ],
     "onyomi": [
-      "シャン",
+      "ジョウ",
       "ショウ",
-      "ジョウ"
+      "シャン"
     ],
     "strokes": 3,
     "examples": [
@@ -159,22 +164,22 @@ export const kanjiData = [
       "turun",
       "turun",
       "memberi",
-      "lebih rendah",
-      "rendah"
+      "rendah",
+      "lebih rendah"
     ],
     "kunyomi": [
-      "-くだ.す",
-      "お.りる",
-      "お.ろす",
-      "くだ.さる",
-      "くだ.す",
-      "くだ.り",
-      "くだ.る",
-      "さ.がる",
-      "さ.げる",
       "した",
       "しも",
-      "もと"
+      "もと",
+      "さ.げる",
+      "さ.がる",
+      "くだ.る",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
     ],
     "onyomi": [
       "カ",
@@ -186,6 +191,16 @@ export const kanjiData = [
         "word": "廊下",
         "reading": "ろうか",
         "meaning": "koridor"
+      },
+      {
+        "word": "下手",
+        "reading": "へた",
+        "meaning": "tidak terampil"
+      },
+      {
+        "word": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "kereta bawah tanah"
       }
     ]
   },
@@ -193,16 +208,16 @@ export const kanjiData = [
     "kanji": "中",
     "level": "N5",
     "meanings": [
+      "di dalam",
+      "di dalam",
       "tengah",
-      "di dalam",
-      "di dalam",
       "berarti",
       "tengah"
     ],
     "kunyomi": [
-      "あた.る",
+      "なか",
       "うち",
-      "なか"
+      "あた.る"
     ],
     "onyomi": [
       "チュウ"
@@ -262,8 +277,8 @@ export const kanjiData = [
       "ふたたび"
     ],
     "onyomi": [
-      "ジ",
-      "ニ"
+      "ニ",
+      "ジ"
     ],
     "strokes": 2,
     "examples": [
@@ -290,8 +305,8 @@ export const kanjiData = [
     "strokes": 4,
     "examples": [
       {
-        "word": "五",
-        "reading": "いつ",
+        "word": "五つ",
+        "reading": "いつつ",
         "meaning": "lima"
       }
     ]
@@ -303,9 +318,9 @@ export const kanjiData = [
       "orang"
     ],
     "kunyomi": [
-      "-と",
+      "ひと",
       "-り",
-      "ひと"
+      "-と"
     ],
     "onyomi": [
       "ジン",
@@ -319,9 +334,14 @@ export const kanjiData = [
         "meaning": "kekasih, sayang"
       },
       {
-        "word": "女の人",
-        "reading": "おんなのひと",
-        "meaning": "wanita"
+        "word": "人気",
+        "reading": "にんき",
+        "meaning": "tanda kehidupan"
+      },
+      {
+        "word": "人工",
+        "reading": "じんこう",
+        "meaning": "buatan, buatan manusia, pekerjaan manusia, ketrampilan manusia, kepalsuan"
       }
     ]
   },
@@ -335,15 +355,15 @@ export const kanjiData = [
       "いま"
     ],
     "onyomi": [
-      "キン",
-      "コン"
+      "コン",
+      "キン"
     ],
     "strokes": 4,
     "examples": [
       {
-        "word": "今",
-        "reading": "いま",
-        "meaning": "Sekarang"
+        "word": "今年",
+        "reading": "ことし",
+        "meaning": "tahun ini"
       }
     ]
   },
@@ -351,14 +371,14 @@ export const kanjiData = [
     "kanji": "休",
     "level": "N5",
     "meanings": [
-      "hari libur",
       "istirahat",
+      "hari libur",
       "pensiun",
       "tidur"
     ],
     "kunyomi": [
-      "やす.まる",
       "やす.む",
+      "やす.まる",
       "やす.める"
     ],
     "onyomi": [
@@ -367,14 +387,19 @@ export const kanjiData = [
     "strokes": 6,
     "examples": [
       {
+        "word": "休み",
+        "reading": "やすみ",
+        "meaning": "istirahat, liburan"
+      },
+      {
+        "word": "昼休み",
+        "reading": "ひるやすみ",
+        "meaning": "istirahat siang"
+      },
+      {
         "word": "休業",
         "reading": "きゅうぎょう",
         "meaning": "tutup (misalnya toko), bisnis ditangguhkan, tutup, hari libur"
-      },
-      {
-        "word": "休講",
-        "reading": "きゅうこう",
-        "meaning": "kuliah dibatalkan"
       }
     ]
   },
@@ -386,8 +411,8 @@ export const kanjiData = [
     ],
     "kunyomi": [
       "なに",
-      "なに-",
       "なん",
+      "なに-",
       "なん-"
     ],
     "onyomi": [
@@ -404,6 +429,11 @@ export const kanjiData = [
         "word": "何処か",
         "reading": "どこか",
         "meaning": "suatu tempat;"
+      },
+      {
+        "word": "如何にも",
+        "reading": "いかにも",
+        "meaning": "Memang;"
       }
     ]
   },
@@ -411,11 +441,11 @@ export const kanjiData = [
     "kanji": "先",
     "level": "N5",
     "meanings": [
-      "di depan",
       "sebelum",
+      "di depan",
+      "sebelumnya",
       "masa depan",
-      "hak lebih tinggi",
-      "sebelumnya"
+      "hak lebih tinggi"
     ],
     "kunyomi": [
       "さき",
@@ -451,23 +481,33 @@ export const kanjiData = [
       "menyisipkan"
     ],
     "kunyomi": [
-      "-い.り",
-      "-い.る",
-      "-い.れ",
       "い.る",
+      "-い.る",
+      "-い.り",
       "い.れる",
+      "-い.れ",
       "はい.る"
     ],
     "onyomi": [
-      "ジュ",
-      "ニュウ"
+      "ニュウ",
+      "ジュ"
     ],
     "strokes": 2,
     "examples": [
       {
+        "word": "押し入れ",
+        "reading": "おしいれ",
+        "meaning": "lemari"
+      },
+      {
         "word": "手入れ",
         "reading": "ていれ",
         "meaning": "perbaikan, pemeliharaan"
+      },
+      {
+        "word": "投入",
+        "reading": "とうにゅう",
+        "meaning": "melemparkan;"
       }
     ]
   },
@@ -506,12 +546,12 @@ export const kanjiData = [
     "kunyomi": [
       "む",
       "む.つ",
-      "むい",
-      "むっ.つ"
+      "むっ.つ",
+      "むい"
     ],
     "onyomi": [
-      "リク",
-      "ロク"
+      "ロク",
+      "リク"
     ],
     "strokes": 4,
     "examples": [
@@ -527,14 +567,14 @@ export const kanjiData = [
     "level": "N5",
     "meanings": [
       "lingkaran",
-      "bulat",
-      "yen"
+      "yen",
+      "bulat"
     ],
     "kunyomi": [
+      "まる.い",
+      "まる",
       "まど",
       "まど.か",
-      "まる",
-      "まる.い",
       "まろ.やか"
     ],
     "onyomi": [
@@ -544,7 +584,7 @@ export const kanjiData = [
     "examples": [
       {
         "word": "円",
-        "reading": "まど",
+        "reading": "まる.い",
         "meaning": "lingkaran"
       }
     ]
@@ -553,20 +593,20 @@ export const kanjiData = [
     "kanji": "出",
     "level": "N5",
     "meanings": [
-      "keluar",
       "KELUAR",
-      "keluar",
       "meninggalkan",
-      "menonjol",
-      "mengeluarkan"
+      "keluar",
+      "keluar",
+      "mengeluarkan",
+      "menonjol"
     ],
     "kunyomi": [
-      "-だ.す",
+      "で.る",
       "-で",
-      "い.だす",
-      "い.でる",
       "だ.す",
-      "で.る"
+      "-だ.す",
+      "い.でる",
+      "い.だす"
     ],
     "onyomi": [
       "シュツ",
@@ -574,6 +614,11 @@ export const kanjiData = [
     ],
     "strokes": 5,
     "examples": [
+      {
+        "word": "出席",
+        "reading": "しゅっせき・する",
+        "meaning": "untuk menghadiri"
+      },
       {
         "word": "輸出",
         "reading": "ゆしゅつ",
@@ -585,12 +630,12 @@ export const kanjiData = [
     "kanji": "前",
     "level": "N5",
     "meanings": [
-      "sebelum",
-      "di depan"
+      "di depan",
+      "sebelum"
     ],
     "kunyomi": [
-      "-まえ",
-      "まえ"
+      "まえ",
+      "-まえ"
     ],
     "onyomi": [
       "ゼン"
@@ -599,8 +644,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "前",
-        "reading": "-まえ",
-        "meaning": "sebelum"
+        "reading": "まえ",
+        "meaning": "di depan"
       }
     ]
   },
@@ -619,9 +664,9 @@ export const kanjiData = [
     "strokes": 5,
     "examples": [
       {
-        "word": "北",
-        "reading": "きた",
-        "meaning": "utara"
+        "word": "南北",
+        "reading": "なんぼく",
+        "meaning": "selatan dan utara"
       }
     ]
   },
@@ -632,20 +677,20 @@ export const kanjiData = [
       "sepuluh"
     ],
     "kunyomi": [
-      "そ",
+      "とお",
       "と",
-      "とお"
+      "そ"
     ],
     "onyomi": [
-      "ジッ",
       "ジュウ",
+      "ジッ",
       "ジュッ"
     ],
     "strokes": 2,
     "examples": [
       {
         "word": "十",
-        "reading": "そ",
+        "reading": "とお",
         "meaning": "sepuluh"
       }
     ]
@@ -675,10 +720,10 @@ export const kanjiData = [
     "kanji": "午",
     "level": "N5",
     "meanings": [
-      "11.00-13.00",
       "siang",
-      "tanda ketujuh zodiak Cina",
-      "tanda kuda"
+      "tanda kuda",
+      "11.00-13.00",
+      "tanda ketujuh zodiak Cina"
     ],
     "kunyomi": [
       "うま"
@@ -691,7 +736,7 @@ export const kanjiData = [
       {
         "word": "午",
         "reading": "うま",
-        "meaning": "11.00-13.00"
+        "meaning": "siang"
       }
     ]
   },
@@ -702,8 +747,8 @@ export const kanjiData = [
       "setengah",
       "tengah",
       "angka ganjil",
-      "bagian-",
-      "semi"
+      "semi",
+      "bagian-"
     ],
     "kunyomi": [
       "なか.ば"
@@ -730,15 +775,15 @@ export const kanjiData = [
       "みなみ"
     ],
     "onyomi": [
-      "ナ",
-      "ナン"
+      "ナン",
+      "ナ"
     ],
     "strokes": 9,
     "examples": [
       {
-        "word": "南",
-        "reading": "みなみ",
-        "meaning": "selatan"
+        "word": "南北",
+        "reading": "なんぼく",
+        "meaning": "selatan dan utara"
       }
     ]
   },
@@ -789,18 +834,18 @@ export const kanjiData = [
     "kanji": "名",
     "level": "N5",
     "meanings": [
-      "terpandang",
       "nama",
       "dicatat",
+      "terpandang",
       "reputasi"
     ],
     "kunyomi": [
-      "-な",
-      "な"
+      "な",
+      "-な"
     ],
     "onyomi": [
-      "ミョウ",
-      "メイ"
+      "メイ",
+      "ミョウ"
     ],
     "strokes": 6,
     "examples": [
@@ -808,6 +853,595 @@ export const kanjiData = [
         "word": "題名",
         "reading": "だいめい",
         "meaning": "judul"
+      },
+      {
+        "word": "本名",
+        "reading": "ほんみょう",
+        "meaning": "nama asli"
+      },
+      {
+        "word": "名誉",
+        "reading": "めいよ",
+        "meaning": "menghormati;"
+      }
+    ]
+  },
+  {
+    "kanji": "四",
+    "level": "N5",
+    "meanings": [
+      "empat"
+    ],
+    "kunyomi": [
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "四季",
+        "reading": "しき",
+        "meaning": "empat musim"
+      }
+    ]
+  },
+  {
+    "kanji": "国",
+    "level": "N5",
+    "meanings": [
+      "negara"
+    ],
+    "kunyomi": [
+      "くに"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "国境",
+        "reading": "こっきょう",
+        "meaning": "batas negara atau negara"
+      }
+    ]
+  },
+  {
+    "kanji": "土",
+    "level": "N5",
+    "meanings": [
+      "tanah",
+      "bumi",
+      "tanah",
+      "Turki"
+    ],
+    "kunyomi": [
+      "つち"
+    ],
+    "onyomi": [
+      "ド",
+      "ト"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "土木",
+        "reading": "どぼく",
+        "meaning": "pekerjaan Umum"
+      }
+    ]
+  },
+  {
+    "kanji": "外",
+    "level": "N5",
+    "meanings": [
+      "di luar"
+    ],
+    "kunyomi": [
+      "そと",
+      "ほか",
+      "はず.す",
+      "はず.れる",
+      "と-"
+    ],
+    "onyomi": [
+      "ガイ",
+      "ゲ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "外",
+        "reading": "そと",
+        "meaning": "di luar"
+      }
+    ]
+  },
+  {
+    "kanji": "大",
+    "level": "N5",
+    "meanings": [
+      "besar",
+      "besar"
+    ],
+    "kunyomi": [
+      "おお-",
+      "おお.きい",
+      "-おお.いに"
+    ],
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "大きな",
+        "reading": "おおきな",
+        "meaning": "besar"
+      },
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "universitas"
+      },
+      {
+        "word": "大分",
+        "reading": "だいぶ",
+        "meaning": "sangat"
+      }
+    ]
+  },
+  {
+    "kanji": "天",
+    "level": "N5",
+    "meanings": [
+      "surga",
+      "langit",
+      "imperial"
+    ],
+    "kunyomi": [
+      "あまつ",
+      "あめ",
+      "あま-"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "天",
+        "reading": "あまつ",
+        "meaning": "surga"
+      }
+    ]
+  },
+  {
+    "kanji": "女",
+    "level": "N5",
+    "meanings": [
+      "wanita",
+      "perempuan"
+    ],
+    "kunyomi": [
+      "おんな",
+      "め"
+    ],
+    "onyomi": [
+      "ジョ",
+      "ニョ",
+      "ニョウ"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "女の人",
+        "reading": "おんなのひと",
+        "meaning": "wanita"
+      }
+    ]
+  },
+  {
+    "kanji": "子",
+    "level": "N5",
+    "meanings": [
+      "anak",
+      "tanda tikus",
+      "23.00-01.00",
+      "tanda pertama zodiak Cina"
+    ],
+    "kunyomi": [
+      "こ",
+      "-こ",
+      "ね"
+    ],
+    "onyomi": [
+      "シ",
+      "ス",
+      "ツ"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "男の子",
+        "reading": "おとこのこ",
+        "meaning": "anak laki-laki"
+      },
+      {
+        "word": "迷子",
+        "reading": "まいご",
+        "meaning": "anak hilang (nyasar)."
+      }
+    ]
+  },
+  {
+    "kanji": "学",
+    "level": "N5",
+    "meanings": [
+      "belajar",
+      "sedang belajar",
+      "sains"
+    ],
+    "kunyomi": [
+      "まな.ぶ"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "universitas"
+      },
+      {
+        "word": "高等学校",
+        "reading": "こうとうがっこう",
+        "meaning": "sekolah menengah atas"
+      },
+      {
+        "word": "文学",
+        "reading": "ぶんがく",
+        "meaning": "literatur"
+      }
+    ]
+  },
+  {
+    "kanji": "小",
+    "level": "N5",
+    "meanings": [
+      "kecil",
+      "kecil"
+    ],
+    "kunyomi": [
+      "ちい.さい",
+      "こ-",
+      "お-",
+      "さ-"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "小鳥",
+        "reading": "ことり",
+        "meaning": "burung kecil"
+      },
+      {
+        "word": "小学生",
+        "reading": "しょうがくせい",
+        "meaning": "siswa sekolah dasar"
+      },
+      {
+        "word": "大小",
+        "reading": "だいしょう",
+        "meaning": "ukuran"
+      }
+    ]
+  },
+  {
+    "kanji": "山",
+    "level": "N5",
+    "meanings": [
+      "gunung"
+    ],
+    "kunyomi": [
+      "やま"
+    ],
+    "onyomi": [
+      "サン",
+      "セン"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "山林",
+        "reading": "さんりん",
+        "meaning": "hutan pegunungan, pegunungan dan hutan"
+      }
+    ]
+  },
+  {
+    "kanji": "川",
+    "level": "N5",
+    "meanings": [
+      "sungai kecil",
+      "sungai",
+      "radikal sungai atau sungai tiga tak (no. 47)"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "川",
+        "reading": "かわ",
+        "meaning": "sungai kecil"
+      }
+    ]
+  },
+  {
+    "kanji": "左",
+    "level": "N5",
+    "meanings": [
+      "kiri"
+    ],
+    "kunyomi": [
+      "ひだり"
+    ],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "左",
+        "reading": "ひだり",
+        "meaning": "kiri"
+      }
+    ]
+  },
+  {
+    "kanji": "年",
+    "level": "N5",
+    "meanings": [
+      "tahun",
+      "kontra selama bertahun-tahun"
+    ],
+    "kunyomi": [
+      "とし"
+    ],
+    "onyomi": [
+      "ネン"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "今年",
+        "reading": "ことし",
+        "meaning": "tahun ini"
+      },
+      {
+        "word": "万年筆",
+        "reading": "まんねんひつ",
+        "meaning": "pulpen"
+      },
+      {
+        "word": "少年",
+        "reading": "しょうねん",
+        "meaning": "anak laki-laki, remaja"
+      }
+    ]
+  },
+  {
+    "kanji": "後",
+    "level": "N5",
+    "meanings": [
+      "di belakang",
+      "kembali",
+      "Nanti"
+    ],
+    "kunyomi": [
+      "のち",
+      "うし.ろ",
+      "うしろ",
+      "あと",
+      "おく.れる"
+    ],
+    "onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "後悔",
+        "reading": "こうかい",
+        "meaning": "menyesali;"
+      }
+    ]
+  },
+  {
+    "kanji": "日",
+    "level": "N5",
+    "meanings": [
+      "hari",
+      "matahari",
+      "Jepang",
+      "counter selama berhari-hari"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "六日",
+        "reading": "むいか",
+        "meaning": "enam hari, hari keenam setiap bulannya"
+      },
+      {
+        "word": "日記",
+        "reading": "にっき",
+        "meaning": "jurnal"
+      },
+      {
+        "word": "曜日",
+        "reading": "ようび",
+        "meaning": "hari dalam seminggu"
+      }
+    ]
+  },
+  {
+    "kanji": "時",
+    "level": "N5",
+    "meanings": [
+      "waktu",
+      "jam"
+    ],
+    "kunyomi": [
+      "とき",
+      "-どき"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "時々",
+        "reading": "ときどき",
+        "meaning": "Kadang-kadang"
+      },
+      {
+        "word": "一時",
+        "reading": "いちじ",
+        "meaning": "saat, waktu"
+      },
+      {
+        "word": "時間割",
+        "reading": "じかんわり",
+        "meaning": "jadwal, jadwal"
+      }
+    ]
+  },
+  {
+    "kanji": "書",
+    "level": "N5",
+    "meanings": [
+      "menulis"
+    ],
+    "kunyomi": [
+      "か.く",
+      "-が.き",
+      "-がき"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "葉書",
+        "reading": "はがき",
+        "meaning": "kartu pos"
+      },
+      {
+        "word": "辞書",
+        "reading": "じしょ",
+        "meaning": "kamus"
+      },
+      {
+        "word": "書籍",
+        "reading": "しょせき",
+        "meaning": "buku, publikasi"
+      }
+    ]
+  },
+  {
+    "kanji": "月",
+    "level": "N5",
+    "meanings": [
+      "bulan",
+      "bulan"
+    ],
+    "kunyomi": [
+      "つき"
+    ],
+    "onyomi": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "一月",
+        "reading": "ひとつき",
+        "meaning": "satu bulan"
+      },
+      {
+        "word": "毎月",
+        "reading": "まいげつ / まいつき",
+        "meaning": "setiap bulan"
+      },
+      {
+        "word": "さ来月",
+        "reading": "さらいげつ",
+        "meaning": "bulan berikutnya"
+      }
+    ]
+  },
+  {
+    "kanji": "木",
+    "level": "N5",
+    "meanings": [
+      "pohon",
+      "kayu"
+    ],
+    "kunyomi": [
+      "き",
+      "こ-"
+    ],
+    "onyomi": [
+      "ボク",
+      "モク"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "木材",
+        "reading": "もくざい",
+        "meaning": "kayu, kayu, kayu"
+      },
+      {
+        "word": "並木",
+        "reading": "なみき",
+        "meaning": "pohon pinggir jalan, deretan pohon"
+      },
+      {
+        "word": "土木",
+        "reading": "どぼく",
+        "meaning": "pekerjaan Umum"
       }
     ]
   },
@@ -815,11 +1449,11 @@ export const kanjiData = [
     "kanji": "不",
     "level": "N4",
     "meanings": [
-      "buruk",
-      "kikuk",
       "negatif",
       "non-",
-      "jelek"
+      "buruk",
+      "jelek",
+      "kikuk"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -837,6 +1471,11 @@ export const kanjiData = [
         "word": "不当",
         "reading": "ふとう",
         "meaning": "ketidakadilan;"
+      },
+      {
+        "word": "不良",
+        "reading": "ふりょう",
+        "meaning": "kejahatan;"
       }
     ]
   },
@@ -845,16 +1484,16 @@ export const kanjiData = [
     "level": "N4",
     "meanings": [
       "generasi",
-      "publik",
+      "dunia",
       "masyarakat",
-      "dunia"
+      "publik"
     ],
     "kunyomi": [
       "よ"
     ],
     "onyomi": [
-      "セ",
       "セイ",
+      "セ",
       "ソウ"
     ],
     "strokes": 5,
@@ -863,6 +1502,11 @@ export const kanjiData = [
         "word": "世話",
         "reading": "せわ・する",
         "meaning": "untuk menjaga"
+      },
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "dunia"
       },
       {
         "word": "中世",
@@ -875,28 +1519,28 @@ export const kanjiData = [
     "kanji": "主",
     "level": "N4",
     "meanings": [
-      "ketua",
       "yang mulia",
-      "hal utama",
+      "ketua",
       "menguasai",
+      "hal utama",
       "kepala sekolah"
     ],
     "kunyomi": [
-      "あるじ",
+      "ぬし",
       "おも",
-      "ぬし"
+      "あるじ"
     ],
     "onyomi": [
       "シュ",
-      "シュウ",
-      "ス"
+      "ス",
+      "シュウ"
     ],
     "strokes": 5,
     "examples": [
       {
         "word": "主",
-        "reading": "あるじ",
-        "meaning": "ketua"
+        "reading": "ぬし",
+        "meaning": "yang mulia"
       }
     ]
   },
@@ -904,12 +1548,12 @@ export const kanjiData = [
     "kanji": "事",
     "level": "N4",
     "meanings": [
-      "bisnis",
-      "fakta",
       "urusan",
-      "mungkin",
+      "benda",
+      "fakta",
+      "bisnis",
       "alasan",
-      "benda"
+      "mungkin"
     ],
     "kunyomi": [
       "こと",
@@ -923,9 +1567,19 @@ export const kanjiData = [
     "strokes": 8,
     "examples": [
       {
-        "word": "事",
-        "reading": "こと",
-        "meaning": "bisnis"
+        "word": "食事",
+        "reading": "しょくじ・する",
+        "meaning": "untuk makan"
+      },
+      {
+        "word": "火事",
+        "reading": "かじ",
+        "meaning": "api"
+      },
+      {
+        "word": "事情",
+        "reading": "じじょう",
+        "meaning": "keadaan, pertimbangan, kondisi, situasi, alasan"
       }
     ]
   },
@@ -933,23 +1587,23 @@ export const kanjiData = [
     "kanji": "京",
     "level": "N4",
     "meanings": [
-      "10**16",
-      "modal"
+      "modal",
+      "10**16"
     ],
     "kunyomi": [
       "みやこ"
     ],
     "onyomi": [
       "キョウ",
-      "キン",
-      "ケイ"
+      "ケイ",
+      "キン"
     ],
     "strokes": 8,
     "examples": [
       {
         "word": "京",
         "reading": "みやこ",
-        "meaning": "10**16"
+        "meaning": "modal"
       }
     ]
   },
@@ -972,6 +1626,11 @@ export const kanjiData = [
     "strokes": 5,
     "examples": [
       {
+        "word": "仕方",
+        "reading": "しかた",
+        "meaning": "metode"
+      },
+      {
         "word": "仕上げ",
         "reading": "しあげ",
         "meaning": "akhir;"
@@ -982,32 +1641,32 @@ export const kanjiData = [
     "kanji": "代",
     "level": "N4",
     "meanings": [
-      "usia",
+      "pengganti",
       "mengubah",
-      "mengenakan biaya",
       "mengubah",
-      "counter selama beberapa dekade usia, era, dll.",
-      "biaya",
-      "generasi",
-      "periode",
-      "kecepatan",
       "mengganti",
-      "pengganti"
+      "periode",
+      "usia",
+      "counter selama beberapa dekade usia, era, dll.",
+      "generasi",
+      "mengenakan biaya",
+      "kecepatan",
+      "biaya"
     ],
     "kunyomi": [
-      "-が.わり",
-      "-がわ.り",
-      "か.える",
-      "か.わり",
       "か.わる",
-      "かわ.り",
       "かわ.る",
-      "しろ",
-      "よ"
+      "かわ.り",
+      "か.わり",
+      "-がわ.り",
+      "-が.わり",
+      "か.える",
+      "よ",
+      "しろ"
     ],
     "onyomi": [
-      "タイ",
-      "ダイ"
+      "ダイ",
+      "タイ"
     ],
     "strokes": 5,
     "examples": [
@@ -1027,10 +1686,10 @@ export const kanjiData = [
     "kanji": "以",
     "level": "N4",
     "meanings": [
-      "Karena",
       "melalui",
-      "dibandingkan dengan",
-      "mengingat"
+      "Karena",
+      "mengingat",
+      "dibandingkan dengan"
     ],
     "kunyomi": [
       "もっ.て"
@@ -1044,6 +1703,11 @@ export const kanjiData = [
         "word": "以上",
         "reading": "いじょう",
         "meaning": "lebih dari itu, ini saja"
+      },
+      {
+        "word": "以下",
+        "reading": "いか",
+        "meaning": "kurang dari"
       }
     ]
   },
@@ -1051,12 +1715,12 @@ export const kanjiData = [
     "kanji": "会",
     "level": "N4",
     "meanings": [
+      "pertemuan",
+      "bertemu",
+      "berpesta",
       "asosiasi",
       "wawancara",
-      "bergabung",
-      "bertemu",
-      "pertemuan",
-      "berpesta"
+      "bergabung"
     ],
     "kunyomi": [
       "あ.う",
@@ -1064,20 +1728,25 @@ export const kanjiData = [
       "あつ.まる"
     ],
     "onyomi": [
-      "エ",
-      "カイ"
+      "カイ",
+      "エ"
     ],
     "strokes": 6,
     "examples": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "perusahaan"
+      },
       {
         "word": "会話",
         "reading": "かいわ",
         "meaning": "percakapan"
       },
       {
-        "word": "学会",
-        "reading": "がっかい",
-        "meaning": "masyarakat ilmiah, pertemuan akademik"
+        "word": "機会",
+        "reading": "きかい",
+        "meaning": "peluang"
       }
     ]
   },
@@ -1086,26 +1755,26 @@ export const kanjiData = [
     "level": "N4",
     "meanings": [
       "tinggal",
-      "menghuni",
+      "tinggal",
       "hidup",
-      "tinggal"
+      "menghuni"
     ],
     "kunyomi": [
-      "-ず.まい",
+      "す.む",
       "す.まう",
-      "す.む"
+      "-ず.まい"
     ],
     "onyomi": [
       "ジュウ",
-      "チュウ",
-      "ヂュウ"
+      "ヂュウ",
+      "チュウ"
     ],
     "strokes": 7,
     "examples": [
       {
-        "word": "住",
-        "reading": "-ず.まい",
-        "meaning": "tinggal"
+        "word": "住所",
+        "reading": "じゅうしょ",
+        "meaning": "alamat, tempat tinggal"
       }
     ]
   },
@@ -1114,14 +1783,14 @@ export const kanjiData = [
     "level": "N4",
     "meanings": [
       "tubuh",
-      "penghitung untuk gambar",
+      "zat",
       "obyek",
       "realitas",
-      "zat"
+      "penghitung untuk gambar"
     ],
     "kunyomi": [
-      "かたち",
-      "からだ"
+      "からだ",
+      "かたち"
     ],
     "onyomi": [
       "タイ",
@@ -1130,9 +1799,9 @@ export const kanjiData = [
     "strokes": 7,
     "examples": [
       {
-        "word": "体",
-        "reading": "かたち",
-        "meaning": "tubuh"
+        "word": "大体",
+        "reading": "だいたい",
+        "meaning": "umumnya"
       }
     ]
   },
@@ -1140,19 +1809,19 @@ export const kanjiData = [
     "kanji": "作",
     "level": "N4",
     "meanings": [
-      "membangun",
       "membuat",
+      "produksi",
       "mempersiapkan",
-      "produksi"
+      "membangun"
     ],
     "kunyomi": [
-      "-づく.り",
+      "つく.る",
       "つく.り",
-      "つく.る"
+      "-づく.り"
     ],
     "onyomi": [
-      "サ",
-      "サク"
+      "サク",
+      "サ"
     ],
     "strokes": 7,
     "examples": [
@@ -1160,6 +1829,11 @@ export const kanjiData = [
         "word": "作文",
         "reading": "さくぶん",
         "meaning": "komposisi, menulis"
+      },
+      {
+        "word": "作る",
+        "reading": "つくる",
+        "meaning": "untuk membuat"
       },
       {
         "word": "制作",
@@ -1172,19 +1846,19 @@ export const kanjiData = [
     "kanji": "使",
     "level": "N4",
     "meanings": [
-      "duta besar",
-      "menyebabkan",
-      "utusan",
-      "kurir",
-      "memesan",
+      "menggunakan",
       "mengirim misi",
-      "menggunakan"
+      "memesan",
+      "kurir",
+      "utusan",
+      "duta besar",
+      "menyebabkan"
     ],
     "kunyomi": [
-      "-つか.い",
-      "-づか.い",
+      "つか.う",
       "つか.い",
-      "つか.う"
+      "-つか.い",
+      "-づか.い"
     ],
     "onyomi": [
       "シ"
@@ -1232,8 +1906,8 @@ export const kanjiData = [
       "もと"
     ],
     "onyomi": [
-      "ガン",
-      "ゲン"
+      "ゲン",
+      "ガン"
     ],
     "strokes": 4,
     "examples": [
@@ -1248,22 +1922,22 @@ export const kanjiData = [
     "kanji": "兄",
     "level": "N4",
     "meanings": [
-      "kakak laki-laki",
-      "kakak"
+      "kakak",
+      "kakak laki-laki"
     ],
     "kunyomi": [
       "あに"
     ],
     "onyomi": [
-      "キョウ",
-      "ケイ"
+      "ケイ",
+      "キョウ"
     ],
     "strokes": 5,
     "examples": [
       {
         "word": "兄",
         "reading": "あに",
-        "meaning": "kakak laki-laki"
+        "meaning": "kakak"
       }
     ]
   },
@@ -1271,24 +1945,24 @@ export const kanjiData = [
     "kanji": "公",
     "level": "N4",
     "meanings": [
-      "pemerintahan",
-      "resmi",
+      "publik",
       "pangeran",
-      "publik"
+      "resmi",
+      "pemerintahan"
     ],
     "kunyomi": [
       "おおやけ"
     ],
     "onyomi": [
-      "ク",
-      "コウ"
+      "コウ",
+      "ク"
     ],
     "strokes": 4,
     "examples": [
       {
-        "word": "公",
-        "reading": "おおやけ",
-        "meaning": "pemerintahan"
+        "word": "公務員",
+        "reading": "こうむいん",
+        "meaning": "pekerja pemerintah"
       }
     ]
   },
@@ -1296,15 +1970,15 @@ export const kanjiData = [
     "kanji": "写",
     "level": "N4",
     "meanings": [
-      "difoto",
       "menyalin",
+      "difoto",
       "menggambarkan"
     ],
     "kunyomi": [
-      "うつ-",
-      "うつ.し",
       "うつ.す",
-      "うつ.る"
+      "うつ.る",
+      "うつ-",
+      "うつ.し"
     ],
     "onyomi": [
       "シャ",
@@ -1314,8 +1988,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "写",
-        "reading": "うつ-",
-        "meaning": "difoto"
+        "reading": "うつ.す",
+        "meaning": "menyalin"
       }
     ]
   },
@@ -1344,32 +2018,32 @@ export const kanjiData = [
     "kanji": "切",
     "level": "N4",
     "meanings": [
-      "menjadi tajam",
       "memotong",
-      "pemotongan"
+      "pemotongan",
+      "menjadi tajam"
     ],
     "kunyomi": [
-      "-き.り",
-      "-き.る",
-      "-き.れ",
-      "-き.れる",
-      "-ぎ.り",
-      "-ぎ.れ",
-      "き.り",
       "き.る",
+      "-き.る",
+      "き.り",
+      "-き.り",
+      "-ぎ.り",
+      "き.れる",
+      "-き.れる",
       "き.れ",
-      "き.れる"
+      "-き.れ",
+      "-ぎ.れ"
     ],
     "onyomi": [
-      "サイ",
-      "セツ"
+      "セツ",
+      "サイ"
     ],
     "strokes": 4,
     "examples": [
       {
-        "word": "切",
-        "reading": "-き.り",
-        "meaning": "menjadi tajam"
+        "word": "思いっ切り",
+        "reading": "おもいっきり",
+        "meaning": ""
       }
     ]
   },
@@ -1377,17 +2051,17 @@ export const kanjiData = [
     "kanji": "別",
     "level": "N4",
     "meanings": [
-      "lain",
+      "memisahkan",
       "bercabang",
       "menyimpang",
-      "tambahan",
       "garpu",
-      "memisahkan",
+      "lain",
+      "tambahan",
       "khususnya"
     ],
     "kunyomi": [
-      "わ.ける",
-      "わか.れる"
+      "わか.れる",
+      "わ.ける"
     ],
     "onyomi": [
       "ベツ"
@@ -1396,8 +2070,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "別",
-        "reading": "わ.ける",
-        "meaning": "lain"
+        "reading": "わか.れる",
+        "meaning": "memisahkan"
       }
     ]
   },
@@ -1405,27 +2079,27 @@ export const kanjiData = [
     "kanji": "力",
     "level": "N4",
     "meanings": [
-      "bertahan",
-      "menggunakan",
       "kekuatan",
+      "kekuatan",
+      "kuat",
       "tekanan",
-      "kekuatan",
-      "kuat"
+      "bertahan",
+      "menggunakan"
     ],
     "kunyomi": [
       "ちから"
     ],
     "onyomi": [
-      "リイ",
+      "リョク",
       "リキ",
-      "リョク"
+      "リイ"
     ],
     "strokes": 2,
     "examples": [
       {
-        "word": "力",
-        "reading": "ちから",
-        "meaning": "bertahan"
+        "word": "有力",
+        "reading": "ゆうりょく",
+        "meaning": "1. pengaruh;"
       }
     ]
   },
@@ -1433,12 +2107,12 @@ export const kanjiData = [
     "kanji": "勉",
     "level": "N4",
     "meanings": [
-      "rajin",
-      "mendorong",
-      "berusaha keras",
       "pengerahan tenaga",
+      "berusaha keras",
+      "mendorong",
+      "berjuang",
       "berusaha",
-      "berjuang"
+      "rajin"
     ],
     "kunyomi": [
       "つと.める"
@@ -1451,7 +2125,7 @@ export const kanjiData = [
       {
         "word": "勉",
         "reading": "つと.める",
-        "meaning": "rajin"
+        "meaning": "pengerahan tenaga"
       }
     ]
   },
@@ -1459,16 +2133,16 @@ export const kanjiData = [
     "kanji": "動",
     "level": "N4",
     "meanings": [
+      "bergerak",
+      "gerakan",
       "mengubah",
       "kebingungan",
-      "gerakan",
-      "bergerak",
-      "menggoyang",
-      "menggeser"
+      "menggeser",
+      "menggoyang"
     ],
     "kunyomi": [
-      "うご.かす",
-      "うご.く"
+      "うご.く",
+      "うご.かす"
     ],
     "onyomi": [
       "ドウ"
@@ -1490,8 +2164,8 @@ export const kanjiData = [
       "obat"
     ],
     "kunyomi": [
-      "い.する",
       "い.やす",
+      "い.する",
       "くすし"
     ],
     "onyomi": [
@@ -1500,9 +2174,9 @@ export const kanjiData = [
     "strokes": 7,
     "examples": [
       {
-        "word": "医",
-        "reading": "い.する",
-        "meaning": "dokter"
+        "word": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "dokter gigi"
       }
     ]
   },
@@ -1510,17 +2184,17 @@ export const kanjiData = [
     "kanji": "去",
     "level": "N4",
     "meanings": [
-      "perceraian",
+      "hilang",
+      "masa lalu",
+      "berhenti",
+      "meninggalkan",
       "berlalu",
       "menghapuskan",
-      "hilang",
-      "meninggalkan",
-      "masa lalu",
-      "berhenti"
+      "perceraian"
     ],
     "kunyomi": [
-      "-さ.る",
-      "さ.る"
+      "さ.る",
+      "-さ.る"
     ],
     "onyomi": [
       "キョ",
@@ -1545,8 +2219,8 @@ export const kanjiData = [
       "くち"
     ],
     "onyomi": [
-      "ク",
-      "コウ"
+      "コウ",
+      "ク"
     ],
     "strokes": 3,
     "examples": [
@@ -1559,6 +2233,11 @@ export const kanjiData = [
         "word": "無口",
         "reading": "むくち",
         "meaning": "sikap diam"
+      },
+      {
+        "word": "閉口",
+        "reading": "へいこう",
+        "meaning": "tutup mulut"
       }
     ]
   },
@@ -1569,9 +2248,9 @@ export const kanjiData = [
       "tua"
     ],
     "kunyomi": [
-      "-ふる.す",
+      "ふる.い",
       "ふる-",
-      "ふる.い"
+      "-ふる.す"
     ],
     "onyomi": [
       "コ"
@@ -1580,7 +2259,7 @@ export const kanjiData = [
     "examples": [
       {
         "word": "古",
-        "reading": "-ふる.す",
+        "reading": "ふる.い",
         "meaning": "tua"
       }
     ]
@@ -1589,18 +2268,18 @@ export const kanjiData = [
     "kanji": "台",
     "level": "N4",
     "meanings": [
+      "alas",
       "sebuah pendirian",
-      "counter untuk mesin dan kendaraan",
-      "alas"
+      "counter untuk mesin dan kendaraan"
     ],
     "kunyomi": [
       "うてな",
-      "つかさ",
-      "われ"
+      "われ",
+      "つかさ"
     ],
     "onyomi": [
-      "タイ",
-      "ダイ"
+      "ダイ",
+      "タイ"
     ],
     "strokes": 5,
     "examples": [
@@ -1615,9 +2294,9 @@ export const kanjiData = [
     "kanji": "同",
     "level": "N4",
     "meanings": [
+      "sama",
       "setuju",
-      "setara",
-      "sama"
+      "setara"
     ],
     "kunyomi": [
       "おな.じ"
@@ -1628,6 +2307,11 @@ export const kanjiData = [
     "strokes": 6,
     "examples": [
       {
+        "word": "同格",
+        "reading": "どうかく",
+        "meaning": "kedudukan, persamaan, kedudukan yang sama"
+      },
+      {
         "word": "同感",
         "reading": "どうかん",
         "meaning": "perjanjian;"
@@ -1635,22 +2319,555 @@ export const kanjiData = [
     ]
   },
   {
+    "kanji": "味",
+    "level": "N4",
+    "meanings": [
+      "rasa",
+      "mencicipi"
+    ],
+    "kunyomi": [
+      "あじ",
+      "あじ.わう"
+    ],
+    "onyomi": [
+      "ミ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "味方",
+        "reading": "みかた",
+        "meaning": "teman, sekutu, pendukung"
+      },
+      {
+        "word": "味わう",
+        "reading": "あじわう",
+        "meaning": "untuk merasakan, untuk menikmati, untuk menikmati"
+      },
+      {
+        "word": "調味料",
+        "reading": "ちょうみりょう",
+        "meaning": "bumbu, bumbu"
+      }
+    ]
+  },
+  {
+    "kanji": "品",
+    "level": "N4",
+    "meanings": [
+      "barang-barang",
+      "perbaikan",
+      "harga diri",
+      "artikel",
+      "konter untuk kursus makan"
+    ],
+    "kunyomi": [
+      "しな"
+    ],
+    "onyomi": [
+      "ヒン",
+      "ホン"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "食料品",
+        "reading": "しょくりょうひん",
+        "meaning": "bahan makanan"
+      },
+      {
+        "word": "必需品",
+        "reading": "ひつじゅひん",
+        "meaning": "kebutuhan, barang perlu, syarat, penting"
+      }
+    ]
+  },
+  {
+    "kanji": "員",
+    "level": "N4",
+    "meanings": [
+      "karyawan",
+      "anggota",
+      "nomor",
+      "yang bertanggung jawab"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "イン"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "公務員",
+        "reading": "こうむいん",
+        "meaning": "pekerja pemerintah"
+      },
+      {
+        "word": "定員",
+        "reading": "ていいん",
+        "meaning": "jumlah tetap personel reguler, kapasitas (perahu, dll.)"
+      }
+    ]
+  },
+  {
+    "kanji": "問",
+    "level": "N4",
+    "meanings": [
+      "pertanyaan",
+      "bertanya",
+      "masalah"
+    ],
+    "kunyomi": [
+      "と.う",
+      "と.い",
+      "とん"
+    ],
+    "onyomi": [
+      "モン"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "masalah"
+      }
+    ]
+  },
+  {
+    "kanji": "図",
+    "level": "N4",
+    "meanings": [
+      "peta",
+      "menggambar",
+      "rencana",
+      "luar biasa",
+      "berani"
+    ],
+    "kunyomi": [
+      "え",
+      "はか.る"
+    ],
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "合図",
+        "reading": "あいず",
+        "meaning": "tanda, isyarat"
+      }
+    ]
+  },
+  {
+    "kanji": "地",
+    "level": "N4",
+    "meanings": [
+      "tanah",
+      "bumi"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "kereta bawah tanah"
+      },
+      {
+        "word": "地球",
+        "reading": "ちきゅう",
+        "meaning": "bumi"
+      },
+      {
+        "word": "生地",
+        "reading": "きじ",
+        "meaning": "tempat lahir"
+      }
+    ]
+  },
+  {
+    "kanji": "堂",
+    "level": "N4",
+    "meanings": [
+      "ruang publik",
+      "aula"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "ドウ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "堂",
+        "reading": "ドウ",
+        "meaning": "ruang publik"
+      }
+    ]
+  },
+  {
+    "kanji": "場",
+    "level": "N4",
+    "meanings": [
+      "lokasi",
+      "tempat"
+    ],
+    "kunyomi": [
+      "ば"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "チョウ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "場",
+        "reading": "ば",
+        "meaning": "lokasi"
+      }
+    ]
+  },
+  {
+    "kanji": "売",
+    "level": "N4",
+    "meanings": [
+      "menjual"
+    ],
+    "kunyomi": [
+      "う.る",
+      "う.れる"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "売る",
+        "reading": "うる",
+        "meaning": "untuk menjual"
+      },
+      {
+        "word": "売れる",
+        "reading": "うれる",
+        "meaning": "untuk dijual"
+      },
+      {
+        "word": "売行き",
+        "reading": "うれゆき",
+        "meaning": "penjualan"
+      }
+    ]
+  },
+  {
+    "kanji": "夏",
+    "level": "N4",
+    "meanings": [
+      "musim panas"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "onyomi": [
+      "カ",
+      "ガ",
+      "ゲ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "meaning": "musim panas"
+      }
+    ]
+  },
+  {
+    "kanji": "夕",
+    "level": "N4",
+    "meanings": [
+      "malam"
+    ],
+    "kunyomi": [
+      "ゆう"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "malam"
+      }
+    ]
+  },
+  {
+    "kanji": "多",
+    "level": "N4",
+    "meanings": [
+      "banyak",
+      "sering",
+      "banyak"
+    ],
+    "kunyomi": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "onyomi": [
+      "タ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "多",
+        "reading": "おお.い",
+        "meaning": "banyak"
+      }
+    ]
+  },
+  {
+    "kanji": "夜",
+    "level": "N4",
+    "meanings": [
+      "malam",
+      "malam"
+    ],
+    "kunyomi": [
+      "よ",
+      "よる"
+    ],
+    "onyomi": [
+      "ヤ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "夜中",
+        "reading": "やちゅう",
+        "meaning": "sepanjang malam;"
+      }
+    ]
+  },
+  {
+    "kanji": "妹",
+    "level": "N4",
+    "meanings": [
+      "adik"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "onyomi": [
+      "マイ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "従姉妹",
+        "reading": "いとこ",
+        "meaning": "sepupu (perempuan)"
+      }
+    ]
+  },
+  {
+    "kanji": "姉",
+    "level": "N4",
+    "meanings": [
+      "kakak perempuan"
+    ],
+    "kunyomi": [
+      "あね",
+      "はは"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "従姉妹",
+        "reading": "いとこ",
+        "meaning": "sepupu (perempuan)"
+      }
+    ]
+  },
+  {
+    "kanji": "始",
+    "level": "N4",
+    "meanings": [
+      "memulai",
+      "mulai"
+    ],
+    "kunyomi": [
+      "はじ.める",
+      "-はじ.める",
+      "はじ.まる"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "始まる",
+        "reading": "はじまる",
+        "meaning": "untuk memulai"
+      }
+    ]
+  },
+  {
+    "kanji": "字",
+    "level": "N4",
+    "meanings": [
+      "karakter",
+      "surat",
+      "kata",
+      "bagian desa"
+    ],
+    "kunyomi": [
+      "あざ",
+      "あざな",
+      "-な"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "字",
+        "reading": "あざ",
+        "meaning": "karakter"
+      }
+    ]
+  },
+  {
+    "kanji": "安",
+    "level": "N4",
+    "meanings": [
+      "santai",
+      "murah",
+      "rendah",
+      "diam",
+      "beristirahat",
+      "puas",
+      "tenang"
+    ],
+    "kunyomi": [
+      "やす.い",
+      "やす.まる",
+      "やす",
+      "やす.らか"
+    ],
+    "onyomi": [
+      "アン"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "meaning": "murah"
+      },
+      {
+        "word": "目安",
+        "reading": "めやす",
+        "meaning": "kriteria, tujuan"
+      }
+    ]
+  },
+  {
+    "kanji": "室",
+    "level": "N4",
+    "meanings": [
+      "ruang",
+      "apartemen",
+      "ruangan",
+      "rumah kaca",
+      "gudang di bawah tanah"
+    ],
+    "kunyomi": [
+      "むろ"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "研究室",
+        "reading": "けんきゅうしつ",
+        "meaning": "ruang belajar, laboratorium"
+      }
+    ]
+  },
+  {
+    "kanji": "家",
+    "level": "N4",
+    "meanings": [
+      "rumah",
+      "rumah",
+      "keluarga",
+      "profesional",
+      "pakar",
+      "pemain"
+    ],
+    "kunyomi": [
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "keluarga"
+      },
+      {
+        "word": "一家",
+        "reading": "いっか",
+        "meaning": "rumah, rumah, keluarga, rumah tangga"
+      },
+      {
+        "word": "家具",
+        "reading": "かぐ",
+        "meaning": "mebel"
+      }
+    ]
+  },
+  {
     "kanji": "与",
     "level": "N3",
     "meanings": [
-      "menghadiahkan",
       "memberikan",
+      "berpartisipasi dalam",
+      "memberi",
+      "menghadiahkan",
+      "memberi",
+      "menyediakan",
       "menyebabkan",
       "hadiah",
-      "memberi",
-      "rahmat",
-      "memberi",
-      "berpartisipasi dalam",
-      "menyediakan"
+      "rahmat"
     ],
     "kunyomi": [
-      "あずか.る",
       "あた.える",
+      "あずか.る",
       "くみ.する",
       "ともに"
     ],
@@ -1661,8 +2878,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "与",
-        "reading": "あずか.る",
-        "meaning": "menghadiahkan"
+        "reading": "あた.える",
+        "meaning": "memberikan"
       }
     ]
   },
@@ -1671,8 +2888,8 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "keduanya",
-      "loket untuk gerbong (misalnya, di kereta)",
       "koin Jepang kuno",
+      "loket untuk gerbong (misalnya, di kereta)",
       "dua"
     ],
     "kunyomi": [
@@ -1685,6 +2902,11 @@ export const kanjiData = [
     "strokes": 6,
     "examples": [
       {
+        "word": "両親",
+        "reading": "りょうしん",
+        "meaning": "kedua orang tuanya"
+      },
+      {
         "word": "両替",
         "reading": "りょうがえ",
         "meaning": "kembalian, penukaran uang"
@@ -1695,23 +2917,23 @@ export const kanjiData = [
     "kanji": "乗",
     "level": "N3",
     "meanings": [
-      "papan",
-      "counter untuk kendaraan",
-      "bergabung",
-      "gunung",
-      "perkalian",
+      "mengendarai",
       "kekuatan",
+      "perkalian",
       "catatan",
-      "mengendarai"
+      "counter untuk kendaraan",
+      "papan",
+      "gunung",
+      "bergabung"
     ],
     "kunyomi": [
+      "の.る",
       "-の.り",
-      "の.せる",
-      "の.る"
+      "の.せる"
     ],
     "onyomi": [
-      "ショウ",
-      "ジョウ"
+      "ジョウ",
+      "ショウ"
     ],
     "strokes": 9,
     "examples": [
@@ -1726,24 +2948,24 @@ export const kanjiData = [
     "kanji": "予",
     "level": "N3",
     "meanings": [
-      "SAYA",
+      "sebelumnya",
       "sebelumnya",
       "saya sendiri",
-      "sebelumnya"
+      "SAYA"
     ],
     "kunyomi": [
       "あらかじ.め"
     ],
     "onyomi": [
-      "シャ",
-      "ヨ"
+      "ヨ",
+      "シャ"
     ],
     "strokes": 4,
     "examples": [
       {
-        "word": "予",
-        "reading": "あらかじ.め",
-        "meaning": "SAYA"
+        "word": "予定",
+        "reading": "よてい",
+        "meaning": "pengaturan"
       }
     ]
   },
@@ -1751,9 +2973,9 @@ export const kanjiData = [
     "kanji": "争",
     "level": "N3",
     "meanings": [
-      "membantah",
       "bersaing",
-      "sengketa"
+      "sengketa",
+      "membantah"
     ],
     "kunyomi": [
       "あらそ.う",
@@ -1767,7 +2989,7 @@ export const kanjiData = [
       {
         "word": "争",
         "reading": "あらそ.う",
-        "meaning": "membantah"
+        "meaning": "bersaing"
       }
     ]
   },
@@ -1780,8 +3002,8 @@ export const kanjiData = [
       "bersama"
     ],
     "kunyomi": [
-      "かたみ.に",
-      "たが.い"
+      "たが.い",
+      "かたみ.に"
     ],
     "onyomi": [
       "ゴ"
@@ -1790,7 +3012,7 @@ export const kanjiData = [
     "examples": [
       {
         "word": "互",
-        "reading": "かたみ.に",
+        "reading": "たが.い",
         "meaning": "saling"
       }
     ]
@@ -1800,9 +3022,9 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "almarhum",
+      "terlambat",
       "sekarat",
-      "tewas",
-      "terlambat"
+      "tewas"
     ],
     "kunyomi": [
       "な.い",
@@ -1828,22 +3050,22 @@ export const kanjiData = [
     "kanji": "交",
     "level": "N3",
     "meanings": [
-      "asosiasi",
-      "datang & pergi",
       "membaur",
-      "percampuran"
+      "percampuran",
+      "asosiasi",
+      "datang & pergi"
     ],
     "kunyomi": [
+      "まじ.わる",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
       "-か.う",
       "か.わす",
       "かわ.す",
-      "こもごも",
-      "ま.ざる",
-      "ま.じる",
-      "ま.ぜる",
-      "まじ.える",
-      "まじ.る",
-      "まじ.わる"
+      "こもごも"
     ],
     "onyomi": [
       "コウ"
@@ -1852,8 +3074,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "交",
-        "reading": "-か.う",
-        "meaning": "asosiasi"
+        "reading": "まじ.わる",
+        "meaning": "membaur"
       }
     ]
   },
@@ -1861,8 +3083,8 @@ export const kanjiData = [
     "kanji": "他",
     "level": "N3",
     "meanings": [
-      "lain",
       "lainnya",
+      "lain",
       "yang lain"
     ],
     "kunyomi": [
@@ -1876,7 +3098,7 @@ export const kanjiData = [
       {
         "word": "他",
         "reading": "ほか",
-        "meaning": "lain"
+        "meaning": "lainnya"
       }
     ]
   },
@@ -1885,26 +3107,26 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "mengikuti",
-      "menambahkan",
       "menempel",
-      "lihat"
+      "lihat",
+      "menambahkan"
     ],
     "kunyomi": [
-      "-つ.き",
-      "-つ.け",
+      "つ.ける",
       "-つ.ける",
-      "-つき",
-      "-づ.き",
-      "-づ.く",
-      "-づ.け",
       "-づ.ける",
-      "-づき",
-      "-づけ",
-      "つ.き",
-      "つ.く",
       "つ.け",
       "つ.け-",
-      "つ.ける"
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "つ.く",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
     ],
     "onyomi": [
       "フ"
@@ -1920,6 +3142,11 @@ export const kanjiData = [
         "word": "受付",
         "reading": "うけつけ",
         "meaning": "kuitansi"
+      },
+      {
+        "word": "名付ける",
+        "reading": "なづける",
+        "meaning": "untuk memberi nama (seseorang)"
       }
     ]
   },
@@ -1929,8 +3156,8 @@ export const kanjiData = [
     "meanings": [
       "perselingkuhan",
       "kasus",
-      "barang",
-      "urusan"
+      "urusan",
+      "barang"
     ],
     "kunyomi": [
       "くだん"
@@ -1951,15 +3178,15 @@ export const kanjiData = [
     "kanji": "任",
     "level": "N3",
     "meanings": [
-      "menunjuk",
-      "tugas",
-      "mempercayakan kepada",
       "tanggung jawab",
-      "ketentuan"
+      "tugas",
+      "ketentuan",
+      "mempercayakan kepada",
+      "menunjuk"
     ],
     "kunyomi": [
-      "まか.す",
-      "まか.せる"
+      "まか.せる",
+      "まか.す"
     ],
     "onyomi": [
       "ニン"
@@ -1972,6 +3199,11 @@ export const kanjiData = [
         "meaning": "tugas, tanggung jawab"
       },
       {
+        "word": "任せる",
+        "reading": "まかせる",
+        "meaning": "untuk mempercayakan kepada orang lain, untuk menyerahkan kepada"
+      },
+      {
         "word": "任務",
         "reading": "にんむ",
         "meaning": "tugas;"
@@ -1982,26 +3214,26 @@ export const kanjiData = [
     "kanji": "伝",
     "level": "N3",
     "meanings": [
-      "menyampaikan",
-      "mengikuti",
-      "ikut",
-      "legenda",
-      "laporan",
-      "tradisi",
       "mengirimkan",
-      "berjalan bersama"
+      "ikut",
+      "berjalan bersama",
+      "mengikuti",
+      "laporan",
+      "menyampaikan",
+      "legenda",
+      "tradisi"
     ],
     "kunyomi": [
-      "-づた.い",
-      "つた.う",
-      "つた.える",
       "つた.わる",
+      "つた.える",
+      "つた.う",
       "つだ.う",
+      "-づた.い",
       "つて"
     ],
     "onyomi": [
-      "テン",
-      "デン"
+      "デン",
+      "テン"
     ],
     "strokes": 6,
     "examples": [
@@ -2022,9 +3254,9 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "menjadi",
+      "mirip",
       "palsu",
       "meniru",
-      "mirip",
       "sesuai"
     ],
     "kunyomi": [
@@ -2047,12 +3279,12 @@ export const kanjiData = [
     "kanji": "位",
     "level": "N3",
     "meanings": [
-      "tentang",
-      "mahkota",
-      "nilai",
       "pangkat",
-      "beberapa",
-      "takhta"
+      "nilai",
+      "takhta",
+      "mahkota",
+      "tentang",
+      "beberapa"
     ],
     "kunyomi": [
       "くらい",
@@ -2066,7 +3298,7 @@ export const kanjiData = [
       {
         "word": "位",
         "reading": "くらい",
-        "meaning": "tentang"
+        "meaning": "pangkat"
       }
     ]
   },
@@ -2074,16 +3306,16 @@ export const kanjiData = [
     "kanji": "余",
     "level": "N3",
     "meanings": [
+      "terlalu banyak",
       "saya sendiri",
-      "lainnya",
-      "sisa",
       "kelebihan",
-      "terlalu banyak"
+      "lainnya",
+      "sisa"
     ],
     "kunyomi": [
-      "あま.す",
-      "あま.り",
       "あま.る",
+      "あま.り",
+      "あま.す",
       "あんま.り"
     ],
     "onyomi": [
@@ -2100,6 +3332,11 @@ export const kanjiData = [
         "word": "余程",
         "reading": "よっぽど",
         "meaning": "sangat;"
+      },
+      {
+        "word": "余り",
+        "reading": "あんまり",
+        "meaning": "tidak terlalu (bentuk ini hanya digunakan sebagai kata keterangan);"
       }
     ]
   },
@@ -2107,10 +3344,10 @@ export const kanjiData = [
     "kanji": "例",
     "level": "N3",
     "meanings": [
-      "kebiasaan",
       "contoh",
-      "preseden",
-      "penggunaan"
+      "kebiasaan",
+      "penggunaan",
+      "preseden"
     ],
     "kunyomi": [
       "たと.える"
@@ -2123,7 +3360,7 @@ export const kanjiData = [
       {
         "word": "例",
         "reading": "たと.える",
-        "meaning": "kebiasaan"
+        "meaning": "contoh"
       }
     ]
   },
@@ -2131,16 +3368,16 @@ export const kanjiData = [
     "kanji": "供",
     "level": "N3",
     "meanings": [
-      "menemani",
+      "kirim",
       "menawarkan",
       "hadiah",
       "menyajikan (makan)",
-      "kirim"
+      "menemani"
     ],
     "kunyomi": [
-      "-ども",
       "そな.える",
-      "とも"
+      "とも",
+      "-ども"
     ],
     "onyomi": [
       "キョウ",
@@ -2152,8 +3389,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "供",
-        "reading": "-ども",
-        "meaning": "menemani"
+        "reading": "そな.える",
+        "meaning": "kirim"
       }
     ]
   },
@@ -2161,19 +3398,19 @@ export const kanjiData = [
     "kanji": "便",
     "level": "N3",
     "meanings": [
-      "peluang",
       "kenyamanan",
-      "kotoran",
       "fasilitas",
       "kotoran",
-      "surat"
+      "kotoran",
+      "surat",
+      "peluang"
     ],
     "kunyomi": [
       "たよ.り"
     ],
     "onyomi": [
-      "ビン",
-      "ベン"
+      "ベン",
+      "ビン"
     ],
     "strokes": 9,
     "examples": [
@@ -2188,16 +3425,16 @@ export const kanjiData = [
     "kanji": "係",
     "level": "N3",
     "meanings": [
-      "berminat",
+      "orang yang bertanggung jawab",
       "koneksi",
       "tugas",
-      "orang yang bertanggung jawab"
+      "berminat"
     ],
     "kunyomi": [
-      "-がかり",
       "かか.る",
-      "かか.わる",
-      "かかり"
+      "かかり",
+      "-がかり",
+      "かか.わる"
     ],
     "onyomi": [
       "ケイ"
@@ -2206,8 +3443,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "係",
-        "reading": "-がかり",
-        "meaning": "berminat"
+        "reading": "かか.る",
+        "meaning": "orang yang bertanggung jawab"
       }
     ]
   },
@@ -2216,9 +3453,9 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "keyakinan",
+      "kebenaran",
       "kesetiaan",
-      "memercayai",
-      "kebenaran"
+      "memercayai"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -2237,19 +3474,19 @@ export const kanjiData = [
     "kanji": "倒",
     "level": "N3",
     "meanings": [
-      "perincian",
+      "menggulingkan",
+      "jatuh",
       "runtuh",
       "menjatuhkan",
-      "jatuh",
-      "menggulingkan"
+      "perincian"
     ],
     "kunyomi": [
+      "たお.れる",
       "-だお.れ",
-      "さかさ",
-      "さかさま",
-      "さかしま",
       "たお.す",
-      "たお.れる"
+      "さかさま",
+      "さかさ",
+      "さかしま"
     ],
     "onyomi": [
       "トウ"
@@ -2258,8 +3495,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "倒",
-        "reading": "-だお.れ",
-        "meaning": "perincian"
+        "reading": "たお.れる",
+        "meaning": "menggulingkan"
       }
     ]
   },
@@ -2268,10 +3505,10 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "iklim",
-      "mengharapkan",
       "musim",
+      "cuaca",
       "tunggu",
-      "cuaca"
+      "mengharapkan"
     ],
     "kunyomi": [
       "そうろう"
@@ -2292,13 +3529,13 @@ export const kanjiData = [
     "kanji": "値",
     "level": "N3",
     "meanings": [
-      "biaya",
       "harga",
+      "biaya",
       "nilai"
     ],
     "kunyomi": [
-      "あたい",
-      "ね"
+      "ね",
+      "あたい"
     ],
     "onyomi": [
       "チ"
@@ -2306,9 +3543,9 @@ export const kanjiData = [
     "strokes": 10,
     "examples": [
       {
-        "word": "値",
-        "reading": "あたい",
-        "meaning": "biaya"
+        "word": "値段",
+        "reading": "ねだん",
+        "meaning": "harga, biaya"
       }
     ]
   },
@@ -2317,11 +3554,11 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "terpuji",
-      "sombong",
-      "bagus sekali",
-      "terkenal",
       "kebesaran",
-      "luar biasa"
+      "luar biasa",
+      "sombong",
+      "terkenal",
+      "bagus sekali"
     ],
     "kunyomi": [
       "えら.い"
@@ -2342,10 +3579,10 @@ export const kanjiData = [
     "kanji": "側",
     "level": "N3",
     "meanings": [
+      "samping",
       "bersandar",
       "menolak",
-      "menyesali",
-      "samping"
+      "menyesali"
     ],
     "kunyomi": [
       "かわ",
@@ -2360,7 +3597,7 @@ export const kanjiData = [
       {
         "word": "側",
         "reading": "かわ",
-        "meaning": "bersandar"
+        "meaning": "samping"
       }
     ]
   },
@@ -2369,8 +3606,8 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "secara tidak sengaja",
-      "pasangan",
       "bilangan genap",
+      "pasangan",
       "pria & istri",
       "jenis yang sama"
     ],
@@ -2394,8 +3631,8 @@ export const kanjiData = [
     "level": "N3",
     "meanings": [
       "melengkapi",
-      "persiapan",
-      "persediaan"
+      "persediaan",
+      "persiapan"
     ],
     "kunyomi": [
       "そな.える",
@@ -2423,8 +3660,8 @@ export const kanjiData = [
     "kanji": "働",
     "level": "N3",
     "meanings": [
-      "(kokuji)",
-      "bekerja"
+      "bekerja",
+      "(kokuji)"
     ],
     "kunyomi": [
       "はたら.く"
@@ -2437,7 +3674,7 @@ export const kanjiData = [
       {
         "word": "働",
         "reading": "はたら.く",
-        "meaning": "(kokuji)"
+        "meaning": "bekerja"
       }
     ]
   },
@@ -2445,24 +3682,34 @@ export const kanjiData = [
     "kanji": "優",
     "level": "N3",
     "meanings": [
-      "aktor",
+      "kelembutan",
       "unggul",
-      "kelemah-lembutan",
-      "keunggulan",
       "melampaui",
-      "kelembutan"
+      "aktor",
+      "keunggulan",
+      "kelemah-lembutan"
     ],
     "kunyomi": [
+      "やさ.しい",
       "すぐ.れる",
-      "まさ.る",
-      "やさ.しい"
+      "まさ.る"
     ],
     "onyomi": [
-      "ウ",
-      "ユウ"
+      "ユウ",
+      "ウ"
     ],
     "strokes": 17,
     "examples": [
+      {
+        "word": "優しい",
+        "reading": "やさしい",
+        "meaning": "baik"
+      },
+      {
+        "word": "俳優",
+        "reading": "はいゆう",
+        "meaning": "aktor, aktris, pemain, pemain"
+      },
       {
         "word": "優越",
         "reading": "ゆうえつ",
@@ -2471,24 +3718,579 @@ export const kanjiData = [
     ]
   },
   {
+    "kanji": "光",
+    "level": "N3",
+    "meanings": [
+      "sinar",
+      "lampu"
+    ],
+    "kunyomi": [
+      "ひか.る",
+      "ひかり"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "光",
+        "reading": "ひか.る",
+        "meaning": "sinar"
+      }
+    ]
+  },
+  {
+    "kanji": "全",
+    "level": "N3",
+    "meanings": [
+      "utuh",
+      "seluruh",
+      "semua",
+      "menyelesaikan",
+      "memenuhi"
+    ],
+    "kunyomi": [
+      "まった.く",
+      "すべ.て"
+    ],
+    "onyomi": [
+      "ゼン"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "全く",
+        "reading": "まったく",
+        "meaning": "sungguh, sungguh, seluruhnya, sepenuhnya"
+      },
+      {
+        "word": "完全",
+        "reading": "かんぜん",
+        "meaning": "kesempurnaan, kelengkapan"
+      }
+    ]
+  },
+  {
+    "kanji": "共",
+    "level": "N3",
+    "meanings": [
+      "bersama",
+      "keduanya",
+      "juga tidak",
+      "semua",
+      "Dan",
+      "sama",
+      "dengan"
+    ],
+    "kunyomi": [
+      "とも",
+      "とも.に",
+      "-ども"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "共",
+        "reading": "とも",
+        "meaning": "bersama"
+      }
+    ]
+  },
+  {
+    "kanji": "具",
+    "level": "N3",
+    "meanings": [
+      "alat",
+      "perkakas",
+      "cara",
+      "memiliki",
+      "bahan-bahan",
+      "counter untuk baju besi, jas, set furnitur"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "つぶさ.に"
+    ],
+    "onyomi": [
+      "グ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "家具",
+        "reading": "かぐ",
+        "meaning": "mebel"
+      }
+    ]
+  },
+  {
+    "kanji": "内",
+    "level": "N3",
+    "meanings": [
+      "di dalam",
+      "di dalam",
+      "di antara",
+      "di antara",
+      "rumah",
+      "rumah"
+    ],
+    "kunyomi": [
+      "うち"
+    ],
+    "onyomi": [
+      "ナイ",
+      "ダイ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "内閣",
+        "reading": "ないかく",
+        "meaning": "kabinet;"
+      }
+    ]
+  },
+  {
+    "kanji": "冷",
+    "level": "N3",
+    "meanings": [
+      "Dingin",
+      "dingin (bir, orang)",
+      "santai"
+    ],
+    "kunyomi": [
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "冷蔵庫",
+        "reading": "れいぞうこ",
+        "meaning": "lemari es"
+      }
+    ]
+  },
+  {
+    "kanji": "処",
+    "level": "N3",
+    "meanings": [
+      "membuang",
+      "mengelola",
+      "menghadapi",
+      "kalimat",
+      "memvonis",
+      "bertindak",
+      "berperilaku baik",
+      "tempat"
+    ],
+    "kunyomi": [
+      "ところ",
+      "-こ",
+      "お.る"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "何処か",
+        "reading": "どこか",
+        "meaning": "suatu tempat;"
+      },
+      {
+        "word": "処分",
+        "reading": "しょぶん",
+        "meaning": "pembuangan;"
+      },
+      {
+        "word": "何処",
+        "reading": "どこ",
+        "meaning": "Di mana;"
+      }
+    ]
+  },
+  {
+    "kanji": "列",
+    "level": "N3",
+    "meanings": [
+      "mengajukan",
+      "baris",
+      "pangkat",
+      "tingkat",
+      "kolom"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "レツ",
+      "レ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "配列",
+        "reading": "はいれつ",
+        "meaning": "pengaturan;"
+      }
+    ]
+  },
+  {
+    "kanji": "初",
+    "level": "N3",
+    "meanings": [
+      "pertama kali",
+      "awal"
+    ],
+    "kunyomi": [
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "初めて",
+        "reading": "はじめて",
+        "meaning": "untuk pertama kalinya"
+      },
+      {
+        "word": "最初",
+        "reading": "さいしょ",
+        "meaning": "mulai, pertama"
+      }
+    ]
+  },
+  {
+    "kanji": "判",
+    "level": "N3",
+    "meanings": [
+      "keputusan",
+      "keputusan",
+      "tanda tangan",
+      "perangko",
+      "segel"
+    ],
+    "kunyomi": [
+      "わか.る"
+    ],
+    "onyomi": [
+      "ハン",
+      "バン"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "批判",
+        "reading": "ひはん",
+        "meaning": "kritik, penilaian, komentar"
+      }
+    ]
+  },
+  {
+    "kanji": "利",
+    "level": "N3",
+    "meanings": [
+      "laba",
+      "keuntungan",
+      "keuntungan"
+    ],
+    "kunyomi": [
+      "き.く"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "便利",
+        "reading": "べんり",
+        "meaning": "berguna, nyaman"
+      },
+      {
+        "word": "利口",
+        "reading": "りこう",
+        "meaning": "pandai, lihai, cemerlang, tajam, bijaksana, cerdas"
+      }
+    ]
+  },
+  {
+    "kanji": "到",
+    "level": "N3",
+    "meanings": [
+      "kedatangan",
+      "melanjutkan",
+      "mencapai",
+      "mencapai",
+      "menghasilkan"
+    ],
+    "kunyomi": [
+      "いた.る"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "到",
+        "reading": "いた.る",
+        "meaning": "kedatangan"
+      }
+    ]
+  },
+  {
+    "kanji": "制",
+    "level": "N3",
+    "meanings": [
+      "sistem",
+      "hukum",
+      "aturan"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "セイ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "制作",
+        "reading": "せいさく",
+        "meaning": "karya (film, buku)"
+      }
+    ]
+  },
+  {
+    "kanji": "刻",
+    "level": "N3",
+    "meanings": [
+      "mengukir",
+      "potong dengan baik",
+      "mencacah",
+      "hash",
+      "cincang",
+      "waktu",
+      "ukiran"
+    ],
+    "kunyomi": [
+      "きざ.む",
+      "きざ.み"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "刻",
+        "reading": "きざ.む",
+        "meaning": "mengukir"
+      }
+    ]
+  },
+  {
+    "kanji": "割",
+    "level": "N3",
+    "meanings": [
+      "proporsi",
+      "relatif",
+      "membagi",
+      "memotong",
+      "memisahkan",
+      "membelah"
+    ],
+    "kunyomi": [
+      "わ.る",
+      "わり",
+      "わ.り",
+      "わ.れる",
+      "さ.く"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "時間割",
+        "reading": "じかんわり",
+        "meaning": "jadwal, jadwal"
+      }
+    ]
+  },
+  {
+    "kanji": "加",
+    "level": "N3",
+    "meanings": [
+      "menambahkan",
+      "tambahan",
+      "meningkatkan",
+      "bergabung",
+      "termasuk",
+      "Kanada"
+    ],
+    "kunyomi": [
+      "くわ.える",
+      "くわ.わる"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "加",
+        "reading": "くわ.える",
+        "meaning": "menambahkan"
+      }
+    ]
+  },
+  {
+    "kanji": "助",
+    "level": "N3",
+    "meanings": [
+      "membantu",
+      "menyelamatkan",
+      "membantu"
+    ],
+    "kunyomi": [
+      "たす.ける",
+      "たす.かる",
+      "す.ける",
+      "すけ"
+    ],
+    "onyomi": [
+      "ジョ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "助かる",
+        "reading": "たすかる",
+        "meaning": "untuk diselamatkan, untuk diselamatkan, untuk bertahan hidup, untuk membantu"
+      }
+    ]
+  },
+  {
+    "kanji": "努",
+    "level": "N3",
+    "meanings": [
+      "bekerja keras",
+      "rajin",
+      "sebanyak mungkin"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "onyomi": [
+      "ド"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "努",
+        "reading": "つと.める",
+        "meaning": "bekerja keras"
+      }
+    ]
+  },
+  {
+    "kanji": "労",
+    "level": "N3",
+    "meanings": [
+      "tenaga kerja",
+      "terima kasih untuk",
+      "hadiah untuk",
+      "bekerja keras",
+      "masalah"
+    ],
+    "kunyomi": [
+      "ろう.する",
+      "いたわ.る",
+      "いた.ずき",
+      "ねぎら",
+      "つか.れる",
+      "ねぎら.う"
+    ],
+    "onyomi": [
+      "ロウ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "労",
+        "reading": "ろう.する",
+        "meaning": "tenaga kerja"
+      }
+    ]
+  },
+  {
+    "kanji": "務",
+    "level": "N3",
+    "meanings": [
+      "tugas",
+      "tugas"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "onyomi": [
+      "ム"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "公務員",
+        "reading": "こうむいん",
+        "meaning": "pekerja pemerintah"
+      },
+      {
+        "word": "任務",
+        "reading": "にんむ",
+        "meaning": "tugas;"
+      }
+    ]
+  },
+  {
     "kanji": "並",
     "level": "N2",
     "meanings": [
+      "baris",
       "Dan",
-      "maupun",
       "di samping itu",
-      "setara",
+      "maupun",
       "berbaris",
       "peringkat dengan",
       "menyaingi",
-      "baris"
+      "setara"
     ],
     "kunyomi": [
       "な.み",
       "なみ",
-      "なら.びに",
+      "なら.べる",
       "なら.ぶ",
-      "なら.べる"
+      "なら.びに"
     ],
     "onyomi": [
       "ヘイ",
@@ -2500,6 +4302,11 @@ export const kanjiData = [
         "word": "並ぶ",
         "reading": "ならぶ",
         "meaning": "untuk berbaris, untuk berdiri dalam barisan"
+      },
+      {
+        "word": "並木",
+        "reading": "なみき",
+        "meaning": "pohon pinggir jalan, deretan pohon"
       }
     ]
   },
@@ -2507,21 +4314,21 @@ export const kanjiData = [
     "kanji": "丸",
     "level": "N2",
     "meanings": [
-      "-mengirimkan",
-      "menggulung",
-      "jelaskan",
-      "penuh (bulan)",
-      "membuat putaran",
-      "kesempurnaan",
-      "pil",
-      "menggulung",
       "bulat",
-      "menggoda"
+      "penuh (bulan)",
+      "kesempurnaan",
+      "-mengirimkan",
+      "pil",
+      "membuat putaran",
+      "menggulung",
+      "menggulung",
+      "menggoda",
+      "jelaskan"
     ],
     "kunyomi": [
       "まる",
-      "まる.い",
-      "まる.める"
+      "まる.める",
+      "まる.い"
     ],
     "onyomi": [
       "ガン"
@@ -2531,7 +4338,7 @@ export const kanjiData = [
       {
         "word": "丸",
         "reading": "まる",
-        "meaning": "-mengirimkan"
+        "meaning": "bulat"
       }
     ]
   },
@@ -2562,17 +4369,17 @@ export const kanjiData = [
     "kanji": "乱",
     "level": "N2",
     "meanings": [
-      "kekacauan",
-      "mengganggu",
       "kerusuhan",
-      "perang"
+      "perang",
+      "kekacauan",
+      "mengganggu"
     ],
     "kunyomi": [
-      "おさ.める",
-      "みだ",
-      "みだ.す",
-      "みだ.る",
       "みだ.れる",
+      "みだ.る",
+      "みだ.す",
+      "みだ",
+      "おさ.める",
       "わた.る"
     ],
     "onyomi": [
@@ -2583,8 +4390,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "乱",
-        "reading": "おさ.める",
-        "meaning": "kekacauan"
+        "reading": "みだ.れる",
+        "meaning": "kerusuhan"
       }
     ]
   },
@@ -2592,12 +4399,12 @@ export const kanjiData = [
     "kanji": "乳",
     "level": "N2",
     "meanings": [
-      "payudara",
-      "susu"
+      "susu",
+      "payudara"
     ],
     "kunyomi": [
-      "ち",
-      "ちち"
+      "ちち",
+      "ち"
     ],
     "onyomi": [
       "ニュウ"
@@ -2606,8 +4413,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "乳",
-        "reading": "ち",
-        "meaning": "payudara"
+        "reading": "ちち",
+        "meaning": "susu"
       }
     ]
   },
@@ -2615,19 +4422,19 @@ export const kanjiData = [
     "kanji": "乾",
     "level": "N2",
     "meanings": [
-      "mengeringkan",
-      "minum habis",
       "kekeringan",
       "kering",
-      "kaisar",
-      "surga"
+      "mengeringkan",
+      "minum habis",
+      "surga",
+      "kaisar"
     ],
     "kunyomi": [
-      "いぬい",
-      "かわ.かす",
       "かわ.く",
+      "かわ.かす",
+      "ほ.す",
       "ひ.る",
-      "ほ.す"
+      "いぬい"
     ],
     "onyomi": [
       "カン",
@@ -2636,9 +4443,14 @@ export const kanjiData = [
     "strokes": 11,
     "examples": [
       {
-        "word": "乾",
-        "reading": "いぬい",
-        "meaning": "mengeringkan"
+        "word": "乾く",
+        "reading": "かわく",
+        "meaning": "menjadi kering"
+      },
+      {
+        "word": "乾電池",
+        "reading": "かんでんち",
+        "meaning": "sel kering, baterai"
       }
     ]
   },
@@ -2656,9 +4468,9 @@ export const kanjiData = [
     "strokes": 2,
     "examples": [
       {
-        "word": "了",
-        "reading": "リョウ",
-        "meaning": "menyelesaikan"
+        "word": "終了",
+        "reading": "しゅうりょう",
+        "meaning": "akhir, penutupan, penghentian"
       }
     ]
   },
@@ -2666,10 +4478,10 @@ export const kanjiData = [
     "kanji": "介",
     "level": "N2",
     "meanings": [
-      "menyibukkan diri dengan",
       "macet",
+      "kerang",
       "menengahi",
-      "kerang"
+      "menyibukkan diri dengan"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -2689,15 +4501,15 @@ export const kanjiData = [
     "level": "N2",
     "meanings": [
       "Budha",
-      "Perancis",
-      "orang mati"
+      "orang mati",
+      "Perancis"
     ],
     "kunyomi": [
       "ほとけ"
     ],
     "onyomi": [
-      "フツ",
-      "ブツ"
+      "ブツ",
+      "フツ"
     ],
     "strokes": 4,
     "examples": [
@@ -2712,11 +4524,11 @@ export const kanjiData = [
     "kanji": "令",
     "level": "N2",
     "meanings": [
+      "pesanan",
+      "hukum",
       "memerintah",
       "dekrit",
-      "Bagus",
-      "hukum",
-      "pesanan"
+      "Bagus"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -2727,7 +4539,7 @@ export const kanjiData = [
       {
         "word": "令",
         "reading": "レイ",
-        "meaning": "memerintah"
+        "meaning": "pesanan"
       }
     ]
   },
@@ -2758,16 +4570,16 @@ export const kanjiData = [
     "level": "N2",
     "meanings": [
       "memperluas",
+      "menggeliat",
       "memperpanjang",
-      "meningkatkan",
       "memperpanjang",
-      "menggeliat"
+      "meningkatkan"
     ],
     "kunyomi": [
-      "の.す",
-      "の.ばす",
       "の.びる",
-      "の.べる"
+      "の.ばす",
+      "の.べる",
+      "の.す"
     ],
     "onyomi": [
       "シン"
@@ -2785,12 +4597,12 @@ export const kanjiData = [
     "kanji": "伺",
     "level": "N2",
     "meanings": [
-      "bertanya",
-      "mohon",
-      "menanyakan",
       "memberi hormat",
+      "mengunjungi",
+      "bertanya",
+      "menanyakan",
       "pertanyaan",
-      "mengunjungi"
+      "mohon"
     ],
     "kunyomi": [
       "うかが.う"
@@ -2803,7 +4615,7 @@ export const kanjiData = [
       {
         "word": "伺う",
         "reading": "うかがう",
-        "meaning": "(hon) mengunjungi, bertanya, menanyakan"
+        "meaning": "(hon) mengunjungi, bertanya, bertanya"
       }
     ]
   },
@@ -2811,14 +4623,14 @@ export const kanjiData = [
     "kanji": "低",
     "level": "N2",
     "meanings": [
-      "rendah hati",
       "lebih rendah",
-      "pendek"
+      "pendek",
+      "rendah hati"
     ],
     "kunyomi": [
       "ひく.い",
-      "ひく.まる",
-      "ひく.める"
+      "ひく.める",
+      "ひく.まる"
     ],
     "onyomi": [
       "テイ"
@@ -2828,7 +4640,7 @@ export const kanjiData = [
       {
         "word": "低",
         "reading": "ひく.い",
-        "meaning": "rendah hati"
+        "meaning": "lebih rendah"
       }
     ]
   },
@@ -2836,11 +4648,11 @@ export const kanjiData = [
     "kanji": "依",
     "level": "N2",
     "meanings": [
-      "akibatnya",
-      "bergantung pada",
-      "karena",
       "bergantung",
-      "Karena itu"
+      "bergantung pada",
+      "akibatnya",
+      "Karena itu",
+      "karena"
     ],
     "kunyomi": [
       "よ.る"
@@ -2854,7 +4666,7 @@ export const kanjiData = [
       {
         "word": "依",
         "reading": "よ.る",
-        "meaning": "akibatnya"
+        "meaning": "bergantung"
       }
     ]
   },
@@ -2862,20 +4674,20 @@ export const kanjiData = [
     "kanji": "個",
     "level": "N2",
     "meanings": [
-      "counter untuk artikel",
-      "individu"
+      "individu",
+      "counter untuk artikel"
     ],
     "kunyomi": [],
     "onyomi": [
-      "カ",
-      "コ"
+      "コ",
+      "カ"
     ],
     "strokes": 10,
     "examples": [
       {
         "word": "個",
-        "reading": "カ",
-        "meaning": "counter untuk artikel"
+        "reading": "コ",
+        "meaning": "individu"
       }
     ]
   },
@@ -2884,9 +4696,9 @@ export const kanjiData = [
     "level": "N2",
     "meanings": [
       "dobel",
-      "melipat",
+      "dua kali",
       "kali",
-      "dua kali"
+      "melipat"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -2909,8 +4721,8 @@ export const kanjiData = [
       "henti"
     ],
     "kunyomi": [
-      "と.まる",
-      "と.める"
+      "と.める",
+      "と.まる"
     ],
     "onyomi": [
       "テイ"
@@ -2919,7 +4731,7 @@ export const kanjiData = [
     "examples": [
       {
         "word": "停",
-        "reading": "と.まる",
+        "reading": "と.める",
         "meaning": "berhenti"
       }
     ]
@@ -2928,21 +4740,21 @@ export const kanjiData = [
     "kanji": "傾",
     "level": "N2",
     "meanings": [
-      "bias",
-      "lereng",
       "bersandar",
-      "menghancurkan",
-      "tenggelam",
+      "lereng",
       "memiringkan",
       "kecenderungan",
-      "menyusut"
+      "menyusut",
+      "tenggelam",
+      "menghancurkan",
+      "bias"
     ],
     "kunyomi": [
-      "かし.げる",
-      "かた.げる",
-      "かたぶ.く",
       "かたむ.く",
-      "かたむ.ける"
+      "かたむ.ける",
+      "かたぶ.く",
+      "かた.げる",
+      "かし.げる"
     ],
     "onyomi": [
       "ケイ"
@@ -2951,8 +4763,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "傾",
-        "reading": "かし.げる",
-        "meaning": "bias"
+        "reading": "かたむ.く",
+        "meaning": "bersandar"
       }
     ]
   },
@@ -2960,11 +4772,11 @@ export const kanjiData = [
     "kanji": "像",
     "level": "N2",
     "meanings": [
+      "patung",
+      "gambar",
+      "gambar",
       "angka",
-      "gambar",
-      "gambar",
-      "potret",
-      "patung"
+      "potret"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -2983,8 +4795,8 @@ export const kanjiData = [
     "kanji": "億",
     "level": "N2",
     "meanings": [
-      "10**8",
-      "ratus juta"
+      "ratus juta",
+      "10**8"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -2995,7 +4807,7 @@ export const kanjiData = [
       {
         "word": "億",
         "reading": "オク",
-        "meaning": "10**8"
+        "meaning": "ratus juta"
       }
     ]
   },
@@ -3003,16 +4815,16 @@ export const kanjiData = [
     "kanji": "兆",
     "level": "N2",
     "meanings": [
+      "tanda",
       "10**12",
+      "triliun",
+      "tanda",
       "pertanda",
-      "tanda",
-      "tanda",
-      "gejala",
-      "triliun"
+      "gejala"
     ],
     "kunyomi": [
-      "きざ.し",
-      "きざ.す"
+      "きざ.す",
+      "きざ.し"
     ],
     "onyomi": [
       "チョウ"
@@ -3021,8 +4833,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "兆",
-        "reading": "きざ.し",
-        "meaning": "10**12"
+        "reading": "きざ.す",
+        "meaning": "tanda"
       }
     ]
   },
@@ -3030,26 +4842,26 @@ export const kanjiData = [
     "kanji": "児",
     "level": "N2",
     "meanings": [
-      "anak",
       "sayang yang baru lahir",
+      "anak",
       "hewan muda"
     ],
     "kunyomi": [
+      "こ",
       "-こ",
-      "-っこ",
-      "こ"
+      "-っこ"
     ],
     "onyomi": [
-      "ゲイ",
       "ジ",
-      "ニ"
+      "ニ",
+      "ゲイ"
     ],
     "strokes": 7,
     "examples": [
       {
         "word": "児",
-        "reading": "-こ",
-        "meaning": "anak"
+        "reading": "こ",
+        "meaning": "sayang yang baru lahir"
       }
     ]
   },
@@ -3057,9 +4869,9 @@ export const kanjiData = [
     "kanji": "党",
     "level": "N2",
     "meanings": [
-      "klik",
+      "berpesta",
       "fraksi",
-      "berpesta"
+      "klik"
     ],
     "kunyomi": [
       "なかま",
@@ -3083,18 +4895,18 @@ export const kanjiData = [
     "meanings": [
       "tentara",
       "pribadi",
-      "tentara",
-      "strategi",
-      "taktik",
       "pasukan",
-      "perang"
+      "tentara",
+      "perang",
+      "strategi",
+      "taktik"
     ],
     "kunyomi": [
       "つわもの"
     ],
     "onyomi": [
-      "ヒョウ",
-      "ヘイ"
+      "ヘイ",
+      "ヒョウ"
     ],
     "strokes": 7,
     "examples": [
@@ -3109,23 +4921,23 @@ export const kanjiData = [
     "kanji": "冊",
     "level": "N2",
     "meanings": [
-      "konter untuk buku",
       "jilid",
+      "konter untuk buku",
       "volume"
     ],
     "kunyomi": [
       "ふみ"
     ],
     "onyomi": [
-      "サク",
-      "サツ"
+      "サツ",
+      "サク"
     ],
     "strokes": 5,
     "examples": [
       {
         "word": "冊",
         "reading": "ふみ",
-        "meaning": "konter untuk buku"
+        "meaning": "jilid"
       }
     ]
   },
@@ -3134,15 +4946,15 @@ export const kanjiData = [
     "level": "N2",
     "meanings": [
       "lagi",
-      "kedua kalinya",
-      "dua kali"
+      "dua kali",
+      "kedua kalinya"
     ],
     "kunyomi": [
       "ふたた.び"
     ],
     "onyomi": [
-      "サ",
-      "サイ"
+      "サイ",
+      "サ"
     ],
     "strokes": 6,
     "examples": [
@@ -3157,15 +4969,15 @@ export const kanjiData = [
     "kanji": "凍",
     "level": "N2",
     "meanings": [
-      "mengentalkan",
       "beku",
+      "mengentalkan",
       "mendinginkan"
     ],
     "kunyomi": [
-      "い.てる",
       "こお.る",
       "こご.える",
       "こご.る",
+      "い.てる",
       "し.みる"
     ],
     "onyomi": [
@@ -3175,8 +4987,8 @@ export const kanjiData = [
     "examples": [
       {
         "word": "凍",
-        "reading": "い.てる",
-        "meaning": "mengentalkan"
+        "reading": "こお.る",
+        "meaning": "beku"
       }
     ]
   },
@@ -3184,9 +4996,9 @@ export const kanjiData = [
     "kanji": "刊",
     "level": "N2",
     "meanings": [
+      "menerbitkan",
       "mengukir",
-      "mengukir",
-      "menerbitkan"
+      "mengukir"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -3197,7 +5009,7 @@ export const kanjiData = [
       {
         "word": "刊",
         "reading": "カン",
-        "meaning": "mengukir"
+        "meaning": "menerbitkan"
       }
     ]
   },
@@ -3205,14 +5017,14 @@ export const kanjiData = [
     "kanji": "刷",
     "level": "N2",
     "meanings": [
-      "sikat",
+      "pencetakan",
       "mencetak",
-      "pencetakan"
+      "sikat"
     ],
     "kunyomi": [
+      "す.る",
       "-ず.り",
       "-ずり",
-      "す.る",
       "は.く"
     ],
     "onyomi": [
@@ -3221,9 +5033,527 @@ export const kanjiData = [
     "strokes": 8,
     "examples": [
       {
-        "word": "刷",
-        "reading": "-ず.り",
-        "meaning": "sikat"
+        "word": "刷る",
+        "reading": "する",
+        "meaning": "untuk mencetak"
+      }
+    ]
+  },
+  {
+    "kanji": "券",
+    "level": "N2",
+    "meanings": [
+      "tiket"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "ケン"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "券",
+        "reading": "ケン",
+        "meaning": "tiket"
+      }
+    ]
+  },
+  {
+    "kanji": "刺",
+    "level": "N2",
+    "meanings": [
+      "duri",
+      "menembus",
+      "menusuk",
+      "tusukan",
+      "menyengat",
+      "kartu panggil"
+    ],
+    "kunyomi": [
+      "さ.す",
+      "さ.さる",
+      "さ.し",
+      "さし",
+      "とげ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "刺",
+        "reading": "さ.す",
+        "meaning": "duri"
+      }
+    ]
+  },
+  {
+    "kanji": "則",
+    "level": "N2",
+    "meanings": [
+      "aturan",
+      "hukum",
+      "mengikuti",
+      "berdasarkan",
+      "model setelahnya"
+    ],
+    "kunyomi": [
+      "のっと.る",
+      "のり",
+      "すなわち"
+    ],
+    "onyomi": [
+      "ソク"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "規則",
+        "reading": "きそく",
+        "meaning": "peraturan"
+      }
+    ]
+  },
+  {
+    "kanji": "副",
+    "level": "N2",
+    "meanings": [
+      "keburukan-",
+      "asisten",
+      "pembantu",
+      "duplikat",
+      "menyalin"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "フク"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "副",
+        "reading": "フク",
+        "meaning": "keburukan-"
+      }
+    ]
+  },
+  {
+    "kanji": "劇",
+    "level": "N2",
+    "meanings": [
+      "drama",
+      "bermain"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "ゲキ"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "劇",
+        "reading": "ゲキ",
+        "meaning": "drama"
+      }
+    ]
+  },
+  {
+    "kanji": "効",
+    "level": "N2",
+    "meanings": [
+      "kemampuan",
+      "kemanjuran",
+      "efisiensi",
+      "keuntungan"
+    ],
+    "kunyomi": [
+      "き.く",
+      "ききめ",
+      "なら.う"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "効く",
+        "reading": "きく",
+        "meaning": "menjadi efektif"
+      },
+      {
+        "word": "有効",
+        "reading": "ゆうこう",
+        "meaning": "validitas, ketersediaan, efektivitas"
+      },
+      {
+        "word": "効率",
+        "reading": "こうりつ",
+        "meaning": "efisiensi"
+      }
+    ]
+  },
+  {
+    "kanji": "勇",
+    "level": "N2",
+    "meanings": [
+      "keberanian",
+      "semangat!",
+      "berada dalam semangat yang tinggi",
+      "keberanian",
+      "kepahlawanan"
+    ],
+    "kunyomi": [
+      "いさ.む"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "勇",
+        "reading": "いさ.む",
+        "meaning": "keberanian"
+      }
+    ]
+  },
+  {
+    "kanji": "募",
+    "level": "N2",
+    "meanings": [
+      "rekrut",
+      "kampanye",
+      "mengumpulkan (kontribusi)",
+      "mendapatkan",
+      "menjadi ganas"
+    ],
+    "kunyomi": [
+      "つの.る"
+    ],
+    "onyomi": [
+      "ボ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "募",
+        "reading": "つの.る",
+        "meaning": "rekrut"
+      }
+    ]
+  },
+  {
+    "kanji": "勢",
+    "level": "N2",
+    "meanings": [
+      "kekuatan",
+      "energi",
+      "kekuatan militer"
+    ],
+    "kunyomi": [
+      "いきお.い",
+      "はずみ"
+    ],
+    "onyomi": [
+      "セイ",
+      "ゼイ"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "勢",
+        "reading": "いきお.い",
+        "meaning": "kekuatan"
+      }
+    ]
+  },
+  {
+    "kanji": "包",
+    "level": "N2",
+    "meanings": [
+      "membungkus",
+      "berkemas",
+      "menutupi",
+      "menutupi"
+    ],
+    "kunyomi": [
+      "つつ.む",
+      "くる.む"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "包",
+        "reading": "つつ.む",
+        "meaning": "membungkus"
+      }
+    ]
+  },
+  {
+    "kanji": "匹",
+    "level": "N2",
+    "meanings": [
+      "setara",
+      "kepala",
+      "counter untuk hewan kecil",
+      "gulungan kain"
+    ],
+    "kunyomi": [
+      "ひき"
+    ],
+    "onyomi": [
+      "ヒツ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "匹",
+        "reading": "ひき",
+        "meaning": "setara"
+      }
+    ]
+  },
+  {
+    "kanji": "区",
+    "level": "N2",
+    "meanings": [
+      "bangsal",
+      "daerah"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "ク",
+      "オウ",
+      "コウ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "地区",
+        "reading": "ちく",
+        "meaning": "distrik, bagian, sektor"
+      }
+    ]
+  },
+  {
+    "kanji": "卒",
+    "level": "N2",
+    "meanings": [
+      "lulus",
+      "tentara",
+      "pribadi",
+      "mati"
+    ],
+    "kunyomi": [
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "onyomi": [
+      "ソツ",
+      "シュツ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "卒",
+        "reading": "そっ.する",
+        "meaning": "lulus"
+      }
+    ]
+  },
+  {
+    "kanji": "協",
+    "level": "N2",
+    "meanings": [
+      "bersama",
+      "kerja sama"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "キョウ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "協",
+        "reading": "キョウ",
+        "meaning": "bersama"
+      }
+    ]
+  },
+  {
+    "kanji": "占",
+    "level": "N2",
+    "meanings": [
+      "meramal",
+      "meramalkan",
+      "peramalan",
+      "menempati",
+      "memegang",
+      "memiliki",
+      "mendapatkan",
+      "mengambil"
+    ],
+    "kunyomi": [
+      "し.める",
+      "うらな.う"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "占める",
+        "reading": "しめる",
+        "meaning": "(1) terdiri, memperhitungkan, membuat (dari), (2) memegang, menduduki"
+      }
+    ]
+  },
+  {
+    "kanji": "印",
+    "level": "N2",
+    "meanings": [
+      "perangko",
+      "segel",
+      "tanda",
+      "jejak",
+      "simbol",
+      "lambang",
+      "merek dagang",
+      "bukti",
+      "suvenir",
+      "India"
+    ],
+    "kunyomi": [
+      "しるし",
+      "-じるし",
+      "しる.す"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "矢印",
+        "reading": "やじるし",
+        "meaning": "mengarahkan panah"
+      },
+      {
+        "word": "印鑑",
+        "reading": "いんかん",
+        "meaning": "perangko;"
+      }
+    ]
+  },
+  {
+    "kanji": "卵",
+    "level": "N2",
+    "meanings": [
+      "telur",
+      "telur",
+      "menelurkan",
+      "kijang"
+    ],
+    "kunyomi": [
+      "たまご"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "卵",
+        "reading": "たまご",
+        "meaning": "telur"
+      }
+    ]
+  },
+  {
+    "kanji": "厚",
+    "level": "N2",
+    "meanings": [
+      "tebal",
+      "berat",
+      "kaya",
+      "baik",
+      "ramah",
+      "kurang ajar",
+      "tak tahu malu"
+    ],
+    "kunyomi": [
+      "あつ.い",
+      "あか"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "厚い",
+        "reading": "あつい",
+        "meaning": "baik, dalam, tebal"
+      }
+    ]
+  },
+  {
+    "kanji": "双",
+    "level": "N2",
+    "meanings": [
+      "pasangan",
+      "mengatur",
+      "perbandingan",
+      "counter untuk berpasangan"
+    ],
+    "kunyomi": [
+      "ふた",
+      "たぐい",
+      "ならぶ",
+      "ふたつ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "双",
+        "reading": "ふた",
+        "meaning": "pasangan"
+      }
+    ]
+  },
+  {
+    "kanji": "叫",
+    "level": "N2",
+    "meanings": [
+      "berteriak",
+      "berseru",
+      "berteriak"
+    ],
+    "kunyomi": [
+      "さけ.ぶ"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "叫",
+        "reading": "さけ.ぶ",
+        "meaning": "berteriak"
       }
     ]
   },
@@ -3231,22 +5561,22 @@ export const kanjiData = [
     "kanji": "丁",
     "level": "N1",
     "meanings": [
-      "tanda kalender ke-4",
+      "jalan",
+      "bangsal",
+      "kota",
       "counter untuk senjata, peralatan, daun atau kue sesuatu",
       "bilangan genap",
-      "jalan",
-      "kota",
-      "bangsal"
+      "tanda kalender ke-4"
     ],
     "kunyomi": [
       "ひのと"
     ],
     "onyomi": [
-      "チ",
       "チョウ",
-      "チン",
       "テイ",
-      "トウ"
+      "チン",
+      "トウ",
+      "チ"
     ],
     "strokes": 2,
     "examples": [
@@ -3261,9 +5591,9 @@ export const kanjiData = [
     "kanji": "丑",
     "level": "N1",
     "meanings": [
+      "tanda lembu atau sapi",
       "1-3 pagi",
-      "tanda kedua zodiak Cina",
-      "tanda lembu atau sapi"
+      "tanda kedua zodiak Cina"
     ],
     "kunyomi": [
       "うし"
@@ -3276,7 +5606,7 @@ export const kanjiData = [
       {
         "word": "丑",
         "reading": "うし",
-        "meaning": "1-3 pagi"
+        "meaning": "tanda lembu atau sapi"
       }
     ]
   },
@@ -3284,8 +5614,8 @@ export const kanjiData = [
     "kanji": "且",
     "level": "N1",
     "meanings": [
-      "Juga",
       "lebih-lebih lagi",
+      "Juga",
       "lebih-lebih lagi"
     ],
     "kunyomi": [
@@ -3293,15 +5623,15 @@ export const kanjiData = [
     ],
     "onyomi": [
       "ショ",
-      "ショウ",
-      "ソ"
+      "ソ",
+      "ショウ"
     ],
     "strokes": 5,
     "examples": [
       {
         "word": "且",
         "reading": "か.つ",
-        "meaning": "Juga"
+        "meaning": "lebih-lebih lagi"
       }
     ]
   },
@@ -3331,9 +5661,9 @@ export const kanjiData = [
     "kanji": "丙",
     "level": "N1",
     "meanings": [
+      "kelas tiga",
       "ke-3",
-      "tanda kalender ke-3",
-      "kelas tiga"
+      "tanda kalender ke-3"
     ],
     "kunyomi": [
       "ひのえ"
@@ -3346,7 +5676,7 @@ export const kanjiData = [
       {
         "word": "丙",
         "reading": "ひのえ",
-        "meaning": "ke-3"
+        "meaning": "kelas tiga"
       }
     ]
   },
@@ -3361,8 +5691,8 @@ export const kanjiData = [
       "たす.ける"
     ],
     "onyomi": [
-      "ショウ",
-      "ジョウ"
+      "ジョウ",
+      "ショウ"
     ],
     "strokes": 6,
     "examples": [
@@ -3377,10 +5707,10 @@ export const kanjiData = [
     "kanji": "丹",
     "level": "N1",
     "meanings": [
-      "pil",
+      "berwarna karat",
       "merah",
       "timah merah",
-      "berwarna karat",
+      "pil",
       "kejujuran"
     ],
     "kunyomi": [
@@ -3394,7 +5724,7 @@ export const kanjiData = [
       {
         "word": "丹",
         "reading": "に",
-        "meaning": "pil"
+        "meaning": "berwarna karat"
       }
     ]
   },
@@ -3402,28 +5732,28 @@ export const kanjiData = [
     "kanji": "乃",
     "level": "N1",
     "meanings": [
-      "demikian",
       "dari",
       "partikel posesif",
-      "dimana"
+      "dimana",
+      "demikian"
     ],
     "kunyomi": [
+      "の",
       "すなわ.ち",
-      "なんじ",
-      "の"
+      "なんじ"
     ],
     "onyomi": [
-      "アイ",
-      "ダイ",
       "ナイ",
-      "ノ"
+      "ダイ",
+      "ノ",
+      "アイ"
     ],
     "strokes": 2,
     "examples": [
       {
         "word": "乃",
-        "reading": "すなわ.ち",
-        "meaning": "demikian"
+        "reading": "の",
+        "meaning": "dari"
       }
     ]
   },
@@ -3435,10 +5765,10 @@ export const kanjiData = [
       "ini"
     ],
     "kunyomi": [
-      "この",
-      "これ",
       "の",
-      "ゆく"
+      "これ",
+      "ゆく",
+      "この"
     ],
     "onyomi": [
       "シ"
@@ -3447,7 +5777,7 @@ export const kanjiData = [
     "examples": [
       {
         "word": "之",
-        "reading": "この",
+        "reading": "の",
         "meaning": "dari"
       }
     ]
@@ -3457,8 +5787,8 @@ export const kanjiData = [
     "level": "N1",
     "meanings": [
       "kemiskinan",
-      "terbatas",
-      "langka"
+      "langka",
+      "terbatas"
     ],
     "kunyomi": [
       "とぼ.しい",
@@ -3480,26 +5810,26 @@ export const kanjiData = [
     "kanji": "乙",
     "level": "N1",
     "meanings": [
-      "duplikat",
-      "radikal kail (no. 5)",
-      "aneh",
       "yang terakhir",
-      "cerdas"
+      "duplikat",
+      "aneh",
+      "cerdas",
+      "radikal kail (no. 5)"
     ],
     "kunyomi": [
       "おと-",
       "きのと"
     ],
     "onyomi": [
-      "イツ",
-      "オツ"
+      "オツ",
+      "イツ"
     ],
     "strokes": 1,
     "examples": [
       {
         "word": "乙",
         "reading": "おと-",
-        "meaning": "duplikat"
+        "meaning": "yang terakhir"
       }
     ]
   },
@@ -3510,19 +5840,19 @@ export const kanjiData = [
       "menjadi (klasik)"
     ],
     "kunyomi": [
-      "か",
       "なり",
+      "か",
       "また"
     ],
     "onyomi": [
-      "エ",
-      "ヤ"
+      "ヤ",
+      "エ"
     ],
     "strokes": 3,
     "examples": [
       {
         "word": "也",
-        "reading": "か",
+        "reading": "なり",
         "meaning": "menjadi (klasik)"
       }
     ]
@@ -3555,24 +5885,24 @@ export const kanjiData = [
     "kanji": "井",
     "level": "N1",
     "meanings": [
-      "masyarakat",
-      "kota",
       "Sehat",
-      "baik tempat tidur bayi"
+      "baik tempat tidur bayi",
+      "kota",
+      "masyarakat"
     ],
     "kunyomi": [
       "い"
     ],
     "onyomi": [
-      "ショウ",
-      "セイ"
+      "セイ",
+      "ショウ"
     ],
     "strokes": 4,
     "examples": [
       {
         "word": "井",
         "reading": "い",
-        "meaning": "masyarakat"
+        "meaning": "Sehat"
       }
     ]
   },
@@ -3580,25 +5910,25 @@ export const kanjiData = [
     "kanji": "亘",
     "level": "N1",
     "meanings": [
-      "memperpanjang",
+      "menjangkau",
       "jangkauan",
-      "menjangkau"
+      "memperpanjang"
     ],
     "kunyomi": [
-      "もと.める",
-      "わた.る"
+      "わた.る",
+      "もと.める"
     ],
     "onyomi": [
-      "カン",
       "コウ",
+      "カン",
       "セン"
     ],
     "strokes": 6,
     "examples": [
       {
         "word": "亘",
-        "reading": "もと.める",
-        "meaning": "memperpanjang"
+        "reading": "わた.る",
+        "meaning": "menjangkau"
       }
     ]
   },
@@ -3606,10 +5936,10 @@ export const kanjiData = [
     "kanji": "亜",
     "level": "N1",
     "meanings": [
-      "-ous",
       "Asia",
+      "peringkat berikutnya",
       "datang setelahnya",
-      "peringkat berikutnya"
+      "-ous"
     ],
     "kunyomi": [
       "つ.ぐ"
@@ -3622,7 +5952,7 @@ export const kanjiData = [
       {
         "word": "亜",
         "reading": "つ.ぐ",
-        "meaning": "-ous"
+        "meaning": "Asia"
       }
     ]
   },
@@ -3630,23 +5960,23 @@ export const kanjiData = [
     "kanji": "亥",
     "level": "N1",
     "meanings": [
-      "9-11 malam",
       "tanda babi",
+      "9-11 malam",
       "tanda kedua belas dari zodiak Cina"
     ],
     "kunyomi": [
       "い"
     ],
     "onyomi": [
-      "カイ",
-      "ガイ"
+      "ガイ",
+      "カイ"
     ],
     "strokes": 6,
     "examples": [
       {
         "word": "亥",
         "reading": "い",
-        "meaning": "9-11 malam"
+        "meaning": "tanda babi"
       }
     ]
   },
@@ -3654,8 +5984,8 @@ export const kanjiData = [
     "kanji": "亦",
     "level": "N1",
     "meanings": [
-      "lagi",
-      "Juga"
+      "Juga",
+      "lagi"
     ],
     "kunyomi": [
       "また"
@@ -3669,7 +5999,7 @@ export const kanjiData = [
       {
         "word": "亦",
         "reading": "また",
-        "meaning": "lagi"
+        "meaning": "Juga"
       }
     ]
   },
@@ -3677,15 +6007,15 @@ export const kanjiData = [
     "kanji": "亨",
     "level": "N1",
     "meanings": [
-      "berjalan lancar",
-      "melewati"
+      "melewati",
+      "berjalan lancar"
     ],
     "kunyomi": [
       "とお.る"
     ],
     "onyomi": [
-      "キョウ",
       "コウ",
+      "キョウ",
       "ホウ"
     ],
     "strokes": 7,
@@ -3693,7 +6023,7 @@ export const kanjiData = [
       {
         "word": "亨",
         "reading": "とお.る",
-        "meaning": "berjalan lancar"
+        "meaning": "melewati"
       }
     ]
   },
@@ -3701,13 +6031,13 @@ export const kanjiData = [
     "kanji": "享",
     "level": "N1",
     "meanings": [
-      "jawaban (telepon)",
-      "menangkap",
       "menikmati",
-      "mendapatkan",
       "menerima",
+      "menjalani",
+      "jawaban (telepon)",
       "mengambil",
-      "menjalani"
+      "mendapatkan",
+      "menangkap"
     ],
     "kunyomi": [
       "う.ける"
@@ -3721,7 +6051,7 @@ export const kanjiData = [
       {
         "word": "享",
         "reading": "う.ける",
-        "meaning": "jawaban (telepon)"
+        "meaning": "menikmati"
       }
     ]
   },
@@ -3729,26 +6059,26 @@ export const kanjiData = [
     "kanji": "亭",
     "level": "N1",
     "meanings": [
-      "punjung",
-      "pondok",
-      "rumah besar",
-      "aula musik",
       "paviliun",
       "restoran",
-      "nama panggung",
-      "vaudeville"
+      "rumah besar",
+      "punjung",
+      "pondok",
+      "vaudeville",
+      "aula musik",
+      "nama panggung"
     ],
     "kunyomi": [],
     "onyomi": [
-      "チン",
-      "テイ"
+      "テイ",
+      "チン"
     ],
     "strokes": 9,
     "examples": [
       {
         "word": "亭",
-        "reading": "チン",
-        "meaning": "punjung"
+        "reading": "テイ",
+        "meaning": "paviliun"
       }
     ]
   },
@@ -3778,12 +6108,12 @@ export const kanjiData = [
     "kanji": "仁",
     "level": "N1",
     "meanings": [
+      "kemanusiaan",
+      "kebajikan",
       "kebajikan",
       "amal",
-      "kemanusiaan",
-      "inti",
       "pria",
-      "kebajikan"
+      "inti"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -3796,7 +6126,7 @@ export const kanjiData = [
       {
         "word": "仁",
         "reading": "ジン",
-        "meaning": "kebajikan"
+        "meaning": "kemanusiaan"
       }
     ]
   },
@@ -3804,9 +6134,9 @@ export const kanjiData = [
     "kanji": "仙",
     "level": "N1",
     "meanings": [
-      "sen",
       "pertapa",
-      "penyihir"
+      "penyihir",
+      "sen"
     ],
     "kunyomi": [],
     "onyomi": [
@@ -3818,7 +6148,7 @@ export const kanjiData = [
       {
         "word": "仙",
         "reading": "セン",
-        "meaning": "sen"
+        "meaning": "pertapa"
       }
     ]
   },
@@ -3826,11 +6156,11 @@ export const kanjiData = [
     "kanji": "仮",
     "level": "N1",
     "meanings": [
-      "diasumsikan (nama)",
-      "tidak resmi",
-      "interim",
       "palsu",
-      "sementara"
+      "sementara",
+      "interim",
+      "diasumsikan (nama)",
+      "tidak resmi"
     ],
     "kunyomi": [
       "かり",
@@ -3843,9 +6173,9 @@ export const kanjiData = [
     "strokes": 6,
     "examples": [
       {
-        "word": "仮",
-        "reading": "かり",
-        "meaning": "diasumsikan (nama)"
+        "word": "仮定",
+        "reading": "かてい",
+        "meaning": "asumsi, anggapan, hipotesis"
       }
     ]
   },
@@ -3853,19 +6183,19 @@ export const kanjiData = [
     "kanji": "仰",
     "level": "N1",
     "meanings": [
-      "bergantung",
-      "minum",
       "menghadap ke atas",
       "menengadah",
+      "bergantung",
+      "mencari",
       "menghormati",
       "memuja",
-      "mencari",
+      "minum",
       "mengambil"
     ],
     "kunyomi": [
       "あお.ぐ",
-      "お.っしゃる",
       "おお.せ",
+      "お.っしゃる",
       "おっしゃ.る"
     ],
     "onyomi": [
@@ -3877,7 +6207,7 @@ export const kanjiData = [
       {
         "word": "仰",
         "reading": "あお.ぐ",
-        "meaning": "bergantung"
+        "meaning": "menghadap ke atas"
       }
     ]
   },
@@ -3885,11 +6215,11 @@ export const kanjiData = [
     "kanji": "企",
     "level": "N1",
     "meanings": [
-      "percobaan",
-      "desain",
-      "rencana",
+      "melakukan",
       "skema",
-      "melakukan"
+      "desain",
+      "percobaan",
+      "rencana"
     ],
     "kunyomi": [
       "くわだ.てる",
@@ -3903,7 +6233,7 @@ export const kanjiData = [
       {
         "word": "企",
         "reading": "くわだ.てる",
-        "meaning": "percobaan"
+        "meaning": "melakukan"
       }
     ]
   },
@@ -3933,9 +6263,9 @@ export const kanjiData = [
     "kanji": "伍",
     "level": "N1",
     "meanings": [
-      "mengajukan",
       "lima",
       "pasukan lima orang",
+      "mengajukan",
       "garis"
     ],
     "kunyomi": [
@@ -3949,7 +6279,7 @@ export const kanjiData = [
       {
         "word": "伍",
         "reading": "いつつ",
-        "meaning": "mengajukan"
+        "meaning": "lima"
       }
     ]
   },
@@ -3965,8 +6295,8 @@ export const kanjiData = [
       "わざおぎ"
     ],
     "onyomi": [
-      "キ",
-      "ギ"
+      "ギ",
+      "キ"
     ],
     "strokes": 6,
     "examples": [
@@ -3974,6 +6304,482 @@ export const kanjiData = [
         "word": "伎",
         "reading": "わざ",
         "meaning": "akta"
+      }
+    ]
+  },
+  {
+    "kanji": "伏",
+    "level": "N1",
+    "meanings": [
+      "bersujud",
+      "membungkuk",
+      "busur",
+      "menutupi",
+      "berbaring (pipa)"
+    ],
+    "kunyomi": [
+      "ふ.せる",
+      "ふ.す"
+    ],
+    "onyomi": [
+      "フク"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "伏",
+        "reading": "ふ.せる",
+        "meaning": "bersujud"
+      }
+    ]
+  },
+  {
+    "kanji": "伐",
+    "level": "N1",
+    "meanings": [
+      "menjatuhkan",
+      "memukul",
+      "menyerang",
+      "menghukum"
+    ],
+    "kunyomi": [
+      "き.る",
+      "そむ.く",
+      "う.つ"
+    ],
+    "onyomi": [
+      "バツ",
+      "ハツ",
+      "カ",
+      "ボチ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "伐",
+        "reading": "き.る",
+        "meaning": "menjatuhkan"
+      }
+    ]
+  },
+  {
+    "kanji": "伯",
+    "level": "N1",
+    "meanings": [
+      "ketua",
+      "menghitung",
+      "pangeran",
+      "paman",
+      "Brazil"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "ハク"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "伯",
+        "reading": "ハク",
+        "meaning": "ketua"
+      }
+    ]
+  },
+  {
+    "kanji": "伴",
+    "level": "N1",
+    "meanings": [
+      "istri",
+      "menemani",
+      "bawa",
+      "pendamping"
+    ],
+    "kunyomi": [
+      "ともな.う"
+    ],
+    "onyomi": [
+      "ハン",
+      "バン"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "伴",
+        "reading": "ともな.う",
+        "meaning": "istri"
+      }
+    ]
+  },
+  {
+    "kanji": "伶",
+    "level": "N1",
+    "meanings": [
+      "aktor"
+    ],
+    "kunyomi": [
+      "わざおぎ"
+    ],
+    "onyomi": [
+      "レイ",
+      "リョウ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "伶",
+        "reading": "わざおぎ",
+        "meaning": "aktor"
+      }
+    ]
+  },
+  {
+    "kanji": "伽",
+    "level": "N1",
+    "meanings": [
+      "perawatan",
+      "hadir",
+      "penghibur"
+    ],
+    "kunyomi": [
+      "とぎ"
+    ],
+    "onyomi": [
+      "カ",
+      "ガ",
+      "キャ",
+      "ギャ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "伽",
+        "reading": "とぎ",
+        "meaning": "perawatan"
+      }
+    ]
+  },
+  {
+    "kanji": "但",
+    "level": "N1",
+    "meanings": [
+      "Namun",
+      "Tetapi"
+    ],
+    "kunyomi": [
+      "ただ.し"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "但",
+        "reading": "ただ.し",
+        "meaning": "Namun"
+      }
+    ]
+  },
+  {
+    "kanji": "佐",
+    "level": "N1",
+    "meanings": [
+      "asisten",
+      "membantu"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "サ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "佐",
+        "reading": "サ",
+        "meaning": "asisten"
+      }
+    ]
+  },
+  {
+    "kanji": "佑",
+    "level": "N1",
+    "meanings": [
+      "membantu",
+      "membantu"
+    ],
+    "kunyomi": [
+      "たす.ける"
+    ],
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "佑",
+        "reading": "たす.ける",
+        "meaning": "membantu"
+      }
+    ]
+  },
+  {
+    "kanji": "佳",
+    "level": "N1",
+    "meanings": [
+      "bagus sekali",
+      "cantik",
+      "Bagus",
+      "menyenangkan",
+      "terampil"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "カ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "佳",
+        "reading": "カ",
+        "meaning": "bagus sekali"
+      }
+    ]
+  },
+  {
+    "kanji": "併",
+    "level": "N1",
+    "meanings": [
+      "bergabung",
+      "berkumpul",
+      "bersatu",
+      "kolektif"
+    ],
+    "kunyomi": [
+      "あわ.せる"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "併",
+        "reading": "あわ.せる",
+        "meaning": "bergabung"
+      }
+    ]
+  },
+  {
+    "kanji": "侃",
+    "level": "N1",
+    "meanings": [
+      "kuat",
+      "hanya",
+      "adil",
+      "yg cinta akan perdamaian"
+    ],
+    "kunyomi": [
+      "つよ.い"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "侃",
+        "reading": "つよ.い",
+        "meaning": "kuat"
+      }
+    ]
+  },
+  {
+    "kanji": "侍",
+    "level": "N1",
+    "meanings": [
+      "pelayan",
+      "samurai",
+      "tunggu",
+      "melayani"
+    ],
+    "kunyomi": [
+      "さむらい",
+      "はべ.る"
+    ],
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "侍",
+        "reading": "さむらい",
+        "meaning": "pelayan"
+      }
+    ]
+  },
+  {
+    "kanji": "侑",
+    "level": "N1",
+    "meanings": [
+      "dorongan untuk makan"
+    ],
+    "kunyomi": [
+      "すす.める",
+      "たす.ける"
+    ],
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "侑",
+        "reading": "すす.める",
+        "meaning": "dorongan untuk makan"
+      }
+    ]
+  },
+  {
+    "kanji": "価",
+    "level": "N1",
+    "meanings": [
+      "nilai",
+      "harga"
+    ],
+    "kunyomi": [
+      "あたい"
+    ],
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "価",
+        "reading": "あたい",
+        "meaning": "nilai"
+      }
+    ]
+  },
+  {
+    "kanji": "侮",
+    "level": "N1",
+    "meanings": [
+      "cemooh",
+      "membenci",
+      "meringankan",
+      "penghinaan"
+    ],
+    "kunyomi": [
+      "あなど.る",
+      "あなず.る"
+    ],
+    "onyomi": [
+      "ブ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "侮",
+        "reading": "あなど.る",
+        "meaning": "cemooh"
+      }
+    ]
+  },
+  {
+    "kanji": "侯",
+    "level": "N1",
+    "meanings": [
+      "marquis",
+      "yang mulia",
+      "daimyo"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "侯",
+        "reading": "コウ",
+        "meaning": "marquis"
+      }
+    ]
+  },
+  {
+    "kanji": "侵",
+    "level": "N1",
+    "meanings": [
+      "mengganggu",
+      "menyerbu",
+      "serangan",
+      "pelanggaran",
+      "melanggar"
+    ],
+    "kunyomi": [
+      "おか.す"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "侵",
+        "reading": "おか.す",
+        "meaning": "mengganggu"
+      }
+    ]
+  },
+  {
+    "kanji": "促",
+    "level": "N1",
+    "meanings": [
+      "merangsang",
+      "keinginan",
+      "tekan",
+      "tuntutan",
+      "menghasut"
+    ],
+    "kunyomi": [
+      "うなが.す"
+    ],
+    "onyomi": [
+      "ソク"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "催促",
+        "reading": "さいそく",
+        "meaning": "permintaan, permintaan, klaim, desakan (tindakan), tekan untuk"
+      }
+    ]
+  },
+  {
+    "kanji": "俊",
+    "level": "N1",
+    "meanings": [
+      "cerdas",
+      "jenius",
+      "keunggulan"
+    ],
+    "kunyomi": [],
+    "onyomi": [
+      "シュン"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "俊",
+        "reading": "シュン",
+        "meaning": "cerdas"
       }
     ]
   }

@@ -200,6 +200,49 @@ body {
   box-shadow: 0 4px 12px var(--accent-primary-glow);
 }
 
+.level-mastery-row {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.75rem;
+}
+
+.level-mastery-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.level-mastery-bar {
+  height: 6px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.06);
+  overflow: hidden;
+}
+
+.level-mastery-fill {
+  height: 100%;
+  border-radius: 30px;
+  background: linear-gradient(90deg, var(--accent-primary) 0%, var(--accent-cyan) 100%);
+  transition: width 0.4s ease;
+}
+
+.level-mastery-label {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .level-mastery-row {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.4rem;
+  }
+
+  .level-mastery-label {
+    font-size: 0.6rem;
+  }
+}
+
 /* Dashboard Styles */
 .dashboard-grid {
   display: grid;
@@ -290,8 +333,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
+  cursor: default;
   transition: all 0.2s ease;
+  flex-shrink: 0;
 }
 
 .checkbox-custom.checked {
@@ -312,6 +356,12 @@ body {
   align-items: center;
   justify-content: center;
   padding: 2rem;
+}
+
+.progress-ring-wrapper {
+  position: relative;
+  width: 150px;
+  height: 150px;
 }
 
 .circle-svg {
@@ -336,9 +386,13 @@ body {
 
 .progress-text {
   position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
 .progress-percent {
@@ -364,8 +418,9 @@ body {
 /* Vocab 3D Card */
 .vocab-card-container {
   perspective: 1000px;
-  height: 200px;
+  height: 340px;
   cursor: pointer;
+  overflow: hidden;
 }
 
 .vocab-card {
@@ -396,6 +451,7 @@ body {
   justify-content: space-between;
   border-radius: var(--border-radius);
   border: 1px solid var(--glass-border);
+  overflow-y: auto;
 }
 
 .card-front {
@@ -453,6 +509,85 @@ body {
   color: var(--accent-rose);
   background: rgba(244, 63, 94, 0.1);
   transform: scale(1.1);
+}
+
+/* Mastery / Spaced-Repetition Badges */
+.mastery-badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 30px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+.mastery-badge.new {
+  background: rgba(148, 163, 184, 0.15);
+  color: var(--text-secondary);
+}
+
+.mastery-badge.learning {
+  background: rgba(6, 182, 212, 0.15);
+  color: var(--accent-cyan);
+}
+
+.mastery-badge.due {
+  background: rgba(244, 63, 94, 0.15);
+  color: var(--accent-rose);
+}
+
+.mastery-badge.mastered {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--accent-emerald);
+}
+
+.review-buttons {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.review-btn {
+  flex: 1;
+  padding: 0.55rem 0.5rem;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.review-btn-no {
+  background: rgba(244, 63, 94, 0.12);
+  color: #fda4af;
+  border-color: rgba(244, 63, 94, 0.3);
+}
+
+.review-btn-no:hover {
+  background: var(--accent-rose);
+  color: white;
+}
+
+.review-btn-yes {
+  background: rgba(16, 185, 129, 0.12);
+  color: #6ee7b7;
+  border-color: rgba(16, 185, 129, 0.3);
+}
+
+.review-btn-yes:hover {
+  background: var(--accent-emerald);
+  color: white;
+}
+
+.due-count-pill {
+  background: var(--accent-rose);
+  color: white;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 1px 7px;
+  border-radius: 30px;
+  margin-left: 0.35rem;
 }
 
 /* Kana Chart Layout */
@@ -532,7 +667,7 @@ body {
 
 .search-input {
   flex: 1;
-  padding: 0.8rem 1.2rem;
+  padding: 0.8rem 2.5rem 0.8rem 1.2rem;
   border-radius: 12px;
   border: 1px solid var(--glass-border);
   background: var(--bg-secondary);
@@ -545,6 +680,31 @@ body {
   outline: none;
   border-color: var(--accent-primary);
   box-shadow: 0 0 10px rgba(139, 92, 246, 0.2);
+}
+
+.search-bar {
+  position: relative;
+}
+
+.search-clear-btn {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 50%;
+  transition: all 0.2s ease;
+}
+
+.search-clear-btn:hover {
+  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.08);
 }
 
 .kanji-grid {
@@ -844,6 +1004,45 @@ body {
   color: #fecdd3;
 }
 
+.quiz-option-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.quiz-option-icon {
+  font-weight: 700;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.quiz-option-icon.correct {
+  color: var(--accent-emerald);
+}
+
+.quiz-option-icon.wrong {
+  color: var(--accent-rose);
+}
+
+.quiz-exit-btn {
+  background: transparent;
+  border: 1px solid var(--glass-border);
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.4rem 0.9rem;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.quiz-exit-btn:hover {
+  color: var(--accent-rose);
+  border-color: rgba(244, 63, 94, 0.3);
+  background: rgba(244, 63, 94, 0.08);
+}
+
 .quiz-option-btn:disabled {
   cursor: not-allowed;
 }
@@ -934,5 +1133,51 @@ body {
 
   .modal-layout {
     grid-template-columns: 1fr;
+  }
+
+  .stats-row {
+    grid-template-columns: 1fr;
+  }
+
+  .kana-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .welcome-banner {
+    padding: 1.5rem;
+  }
+
+  .quiz-welcome {
+    margin: 1rem auto;
+    padding: 1.75rem;
+  }
+
+  .quiz-container {
+    margin: 0.5rem auto;
+    padding: 1.5rem;
+  }
+
+  .kanji-modal {
+    padding: 1.5rem;
+  }
+
+  .checklist-container,
+  .progress-container {
+    padding: 1.25rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .kana-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .mobile-nav-item {
+    font-size: 0.65rem;
+  }
+
+  .mobile-nav-item svg {
+    width: 18px;
+    height: 18px;
   }
 }

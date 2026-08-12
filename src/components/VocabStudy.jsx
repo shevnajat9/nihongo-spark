@@ -1,11 +1,18 @@
 import React, { useState, useEffect } from 'react';
 import { vocabData } from '../data/vocab';
+import { loadProgress, saveProgress, reviewItem, isDue, getMasteryStatus, MASTERY_LABELS } from '../utils/srs';
+import { markChecklistDone } from '../utils/checklist';
 
-export default function VocabStudy({ currentLevel }) {
+const PROGRESS_KEY = 'nihongo_spark_vocab_progress';
+const DAILY_GOAL = 5;
+const getVocabId = (item) => `${item.level}__${item.word}`;
+
+export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) {
   const [searchQuery, setSearchQuery] = useState('');
-  const [filterMode, setFilterMode] = useState('all'); // 'all' or 'bookmarked'
+  const [filterMode, setFilterMode] = useState('all'); // 'all', 'bookmarked', or 'due'
   const [bookmarks, setBookmarks] = useState([]);
   const [flippedCards, setFlippedCards] = useState({}); // tracking flipped status of cards by index
+  const [progress, setProgress] = useState({});
 
   useEffect(() => {
     // Load bookmarked words from localStorage
@@ -13,7 +20,34 @@ export default function VocabStudy({ currentLevel }) {
     if (saved) {
       setBookmarks(JSON.parse(saved));
     }
+    setProgress(loadProgress(PROGRESS_KEY));
   }, []);
+
+  const handleReview = (item, remembered, e) => {
+    e.stopPropagation();
+    const id = getVocabId(item);
+    const updated = reviewItem(progress, id, remembered);
+    setProgress(updated);
+    saveProgress(PROGRESS_KEY, updated);
+
+    // Lacak jumlah kosakata yang direview hari ini untuk menyelesaikan
+    // checklist "Pelajari 5 Kosakata" secara otomatis berdasarkan aktivitas nyata.
+    if (setStudyStats && studyStats) {
+      const today = new Date().toDateString();
+      const sameDay = studyStats.vocabReviewDate === today;
+      const newCount = (sameDay ? (studyStats.vocabReviewCount || 0) : 0) + 1;
+      let updatedStats = { ...studyStats, vocabReviewDate: today, vocabReviewCount: newCount };
+
+      if (newCount >= DAILY_GOAL) {
+        updatedStats = markChecklistDone(updatedStats, 'vocab');
+      }
+
+      setStudyStats(updatedStats);
+      localStorage.setItem('nihongo_spark_stats', JSON.stringify(updatedStats));
+    }
+  };
+
+  const dueCount = vocabData.filter(v => isDue(progress, getVocabId(v))).length;
 
   const toggleBookmark = (wordObj, e) => {
     e.stopPropagation(); // prevent card flip when clicking bookmark
@@ -48,7 +82,7 @@ export default function VocabStudy({ currentLevel }) {
     }));
   };
 
-  // Filter vocabulary by current JLPT level, search query, and bookmark status
+  // Filter vocabulary by current JLPT level, search query, bookmark, or review status
   const filteredVocab = vocabData.filter(item => {
     // Level check
     if (filterMode === 'all' && item.level !== currentLevel) return false;
@@ -58,6 +92,9 @@ export default function VocabStudy({ currentLevel }) {
       const isBookmarked = bookmarks.some(b => b.word === item.word);
       if (!isBookmarked) return false;
     }
+
+    // Due-for-review check (spans all levels)
+    if (filterMode === 'due' && !isDue(progress, getVocabId(item))) return false;
 
     // Search query check
     if (searchQuery.trim() !== '') {
@@ -83,14 +120,28 @@ export default function VocabStudy({ currentLevel }) {
           <p style={{ color: 'var(--text-secondary)' }}>
             Belajar kosakata menggunakan kartu flashcard interaktif. Klik kartu untuk melihat terjemahan dan kalimat contoh.
           </p>
+          {studyStats && (
+            <p style={{ fontSize: '0.85rem', color: 'var(--accent-cyan)', marginTop: '0.5rem' }}>
+              {studyStats.vocabReviewDate === new Date().toDateString()
+                ? `Progres hari ini: ${Math.min(studyStats.vocabReviewCount || 0, DAILY_GOAL)}/${DAILY_GOAL} kosakata direview`
+                : `Progres hari ini: 0/${DAILY_GOAL} kosakata direview`}
+            </p>
+          )}
         </div>
 
-        <div style={{ display: 'flex', gap: '0.75rem' }}>
+        <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
           <button
             className={`kana-tab-btn ${filterMode === 'all' ? 'active' : ''}`}
             onClick={() => { setFilterMode('all'); setSearchQuery(''); }}
           >
             Semua Kata
+          </button>
+          <button
+            className={`kana-tab-btn ${filterMode === 'due' ? 'active' : ''}`}
+            onClick={() => { setFilterMode('due'); setSearchQuery(''); }}
+            style={{ display: 'flex', alignItems: 'center' }}
+          >
+            🔁 Perlu Diulang {dueCount > 0 && <span className="due-count-pill">{dueCount}</span>}
           </button>
           <button
             className={`kana-tab-btn ${filterMode === 'bookmarked' ? 'active' : ''}`}
@@ -111,6 +162,16 @@ export default function VocabStudy({ currentLevel }) {
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
         />
+        {searchQuery && (
+          <button
+            className="search-clear-btn"
+            onClick={() => setSearchQuery('')}
+            aria-label="Hapus pencarian"
+            title="Hapus pencarian"
+          >
+            ×
+          </button>
+        )}
       </div>
 
       {filteredVocab.length === 0 ? (
@@ -123,6 +184,8 @@ export default function VocabStudy({ currentLevel }) {
           <p style={{ fontSize: '0.9rem', marginTop: '0.25rem' }}>
             {filterMode === 'bookmarked' 
               ? 'Anda belum menandai kata apa pun di level ini.' 
+              : filterMode === 'due'
+              ? 'Tidak ada kata yang perlu diulang saat ini. Kerja bagus!'
               : 'Cobalah gunakan kata kunci pencarian yang berbeda.'}
           </p>
         </div>
@@ -131,6 +194,8 @@ export default function VocabStudy({ currentLevel }) {
           {filteredVocab.map((item, index) => {
             const isFlipped = !!flippedCards[index];
             const isBookmarked = bookmarks.some(b => b.word === item.word);
+            const vocabId = getVocabId(item);
+            const mastery = getMasteryStatus(progress, vocabId);
 
             return (
               <div 
@@ -143,20 +208,25 @@ export default function VocabStudy({ currentLevel }) {
                   {/* CARD FRONT */}
                   <div className="card-front glass-panel">
                     <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%' }}>
-                      <span style={{ 
-                        fontSize: '0.75rem', 
-                        padding: '3px 8px', 
-                        borderRadius: '30px', 
-                        background: 'rgba(255, 255, 255, 0.05)', 
-                        color: 'var(--text-secondary)',
-                        border: '1px solid var(--glass-border)'
-                      }}>
-                        {item.partOfSpeech}
-                      </span>
+                      <div style={{ display: 'flex', gap: '0.4rem', alignItems: 'center', flexWrap: 'wrap' }}>
+                        <span style={{ 
+                          fontSize: '0.75rem', 
+                          padding: '3px 8px', 
+                          borderRadius: '30px', 
+                          background: 'rgba(255, 255, 255, 0.05)', 
+                          color: 'var(--text-secondary)',
+                          border: '1px solid var(--glass-border)'
+                        }}>
+                          {item.partOfSpeech}
+                        </span>
+                        <span className={`mastery-badge ${mastery}`}>{MASTERY_LABELS[mastery]}</span>
+                      </div>
                       <button
                         className={`bookmark-btn ${isBookmarked ? 'active' : ''}`}
                         onClick={(e) => toggleBookmark(item, e)}
                         title={isBookmarked ? 'Hapus bookmark' : 'Simpan kata'}
+                        aria-label={isBookmarked ? `Hapus bookmark untuk ${item.word}` : `Simpan kata ${item.word}`}
+                        aria-pressed={isBookmarked}
                       >
                         <svg width="20" height="20" fill={isBookmarked ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                           <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
@@ -172,6 +242,7 @@ export default function VocabStudy({ currentLevel }) {
                         className="audio-btn"
                         onClick={(e) => speak(item.word, e)}
                         title="Dengarkan pengucapan"
+                        aria-label={`Dengarkan pengucapan ${item.word}`}
                       >
                         <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                           <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
@@ -207,6 +278,7 @@ export default function VocabStudy({ currentLevel }) {
                         className="audio-btn"
                         onClick={(e) => speak(item.example, e)}
                         title="Dengarkan kalimat"
+                        aria-label="Dengarkan kalimat contoh"
                       >
                         <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                           <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
@@ -214,6 +286,21 @@ export default function VocabStudy({ currentLevel }) {
                         </svg>
                       </button>
                       <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Klik untuk balik</span>
+                    </div>
+
+                    <div className="review-buttons" style={{ marginTop: '0.6rem' }}>
+                      <button
+                        className="review-btn review-btn-no"
+                        onClick={(e) => handleReview(item, false, e)}
+                      >
+                        Belum Hafal
+                      </button>
+                      <button
+                        className="review-btn review-btn-yes"
+                        onClick={(e) => handleReview(item, true, e)}
+                      >
+                        Sudah Hafal
+                      </button>
                     </div>
                   </div>
 

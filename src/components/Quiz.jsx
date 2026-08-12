@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { vocabData } from '../data/vocab';
 import { kanjiData } from '../data/kanji';
 import { grammarData } from '../data/grammar';
+import { markChecklistDone } from '../utils/checklist';
 
 export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
   const [isPlaying, setIsPlaying] = useState(false);
@@ -185,31 +186,8 @@ export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
     setQuizFinished(true);
     setIsPlaying(false);
 
-    // Save stats & trigger daily goal checklist check for quiz
-    const today = new Date().toDateString();
-    const updatedStats = { ...studyStats };
-    updatedStats.totalQuizzes = (updatedStats.totalQuizzes || 0) + 1;
-
-    // Check if streak needs updating
-    if (studyStats.lastStudyDate !== today) {
-      const yesterday = new Date();
-      yesterday.setDate(yesterday.getDate() - 1);
-      const isStreakContinued = studyStats.lastStudyDate === yesterday.toDateString();
-      updatedStats.streak = isStreakContinued ? (studyStats.streak || 0) + 1 : 1;
-      updatedStats.lastStudyDate = today;
-      
-      const history = [...(studyStats.history || [])];
-      if (!history.includes(today)) {
-        history.push(today);
-      }
-      updatedStats.history = history;
-    }
-
-    // Set daily checklist item 'quiz' to true
-    const updatedChecklist = studyStats.todayChecklist 
-      ? { ...studyStats.todayChecklist, quiz: true }
-      : { vocab: false, grammar: false, quiz: true };
-    updatedStats.todayChecklist = updatedChecklist;
+    let updatedStats = { ...studyStats, totalQuizzes: (studyStats.totalQuizzes || 0) + 1 };
+    updatedStats = markChecklistDone(updatedStats, 'quiz');
 
     setStudyStats(updatedStats);
     localStorage.setItem('nihongo_spark_stats', JSON.stringify(updatedStats));
@@ -238,9 +216,18 @@ export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
             <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)', fontWeight: 'bold' }}>
               PERTANYAAN {currentIdx + 1} DARI {questions.length}
             </span>
-            <span style={{ fontSize: '0.85rem', color: 'var(--accent-primary)', fontWeight: 'bold' }}>
-              Level {currentLevel}
-            </span>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+              <span style={{ fontSize: '0.85rem', color: 'var(--accent-primary)', fontWeight: 'bold' }}>
+                Level {currentLevel}
+              </span>
+              <button
+                className="quiz-exit-btn"
+                onClick={() => { setIsPlaying(false); setQuestions([]); }}
+                aria-label="Batalkan kuis"
+              >
+                Batalkan
+              </button>
+            </div>
           </div>
 
           <div className="quiz-progress-bar">
@@ -273,7 +260,9 @@ export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
                   onClick={() => handleOptionSelect(option)}
                   disabled={isAnswered}
                 >
-                  {option}
+                  <span>{option}</span>
+                  {btnClass === 'correct' && <span className="quiz-option-icon correct" aria-label="Jawaban benar">✓</span>}
+                  {btnClass === 'wrong' && <span className="quiz-option-icon wrong" aria-label="Jawaban salah">✗</span>}
                 </button>
               );
             })}

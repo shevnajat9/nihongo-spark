@@ -6,9 +6,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "setiap pagi",
-    "example": "毎朝を使う例文です。",
-    "exampleReading": "まいあさをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"setiap pagi\"."
+    "example": "毎朝ジョギングをします。",
+    "exampleReading": "まいあさジョギングをします。",
+    "exampleMeaning": "Setiap pagi saya joging."
   },
   {
     "word": "問題",
@@ -17,9 +17,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "masalah",
-    "example": "問題を使う例文です。",
-    "exampleReading": "もんだいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"masalah\"."
+    "example": "この問題は難しいです。",
+    "exampleReading": "このもんだいはむずかしいです。",
+    "exampleMeaning": "Soal ini sulit."
   },
   {
     "word": "お茶",
@@ -28,9 +28,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "teh hijau",
-    "example": "お茶を使う例文です。",
-    "exampleReading": "おちゃをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"teh hijau\"."
+    "example": "お茶を一杯ください。",
+    "exampleReading": "おちゃをいっぱいください。",
+    "exampleMeaning": "Tolong berikan satu cangkir teh hijau."
   },
   {
     "word": "黒",
@@ -39,9 +39,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "hitam",
-    "example": "黒を使う例文です。",
-    "exampleReading": "くろをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hitam\"."
+    "example": "黒が好きです。",
+    "exampleReading": "くろがすきです。",
+    "exampleMeaning": "Saya suka warna hitam."
   },
   {
     "word": "台所",
@@ -50,9 +50,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "dapur",
-    "example": "台所を使う例文です。",
-    "exampleReading": "だいどころをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"dapur\"."
+    "example": "台所で料理を作ります。",
+    "exampleReading": "だいどころでりょうりをつくります。",
+    "exampleMeaning": "Saya memasak di dapur."
   },
   {
     "word": "葉書",
@@ -61,9 +61,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "kartu pos",
-    "example": "葉書を使う例文です。",
-    "exampleReading": "はがきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kartu pos\"."
+    "example": "葉書を書きました。",
+    "exampleReading": "はがきをかきました。",
+    "exampleMeaning": "Saya menulis kartu pos."
   },
   {
     "word": "ペン",
@@ -72,9 +72,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "pena",
-    "example": "ペンを使う例文です。",
-    "exampleReading": "ペンをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pena\"."
+    "example": "このペンを使ってください。",
+    "exampleReading": "このペンをつかってください。",
+    "exampleMeaning": "Tolong gunakan pena ini."
   },
   {
     "word": "ニュース",
@@ -83,9 +83,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "berita",
-    "example": "ニュースを使う例文です。",
-    "exampleReading": "ニュースをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"berita\"."
+    "example": "毎晩ニュースを見ます。",
+    "exampleReading": "まいばんニュースをみます。",
+    "exampleMeaning": "Saya menonton berita setiap malam."
   },
   {
     "word": "花瓶",
@@ -94,9 +94,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "sebuah vas",
-    "example": "花瓶を使う例文です。",
-    "exampleReading": "かびんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sebuah vas\"."
+    "example": "花瓶に花を入れます。",
+    "exampleReading": "かびんにはなをいれます。",
+    "exampleMeaning": "Saya memasukkan bunga ke dalam vas."
   },
   {
     "word": "フォーク",
@@ -105,9 +105,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "garpu",
-    "example": "フォークを使う例文です。",
-    "exampleReading": "フォークをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"garpu\"."
+    "example": "フォークで食べます。",
+    "exampleReading": "フォークでたべます。",
+    "exampleMeaning": "Saya makan menggunakan garpu."
   },
   {
     "word": "引く",
@@ -116,9 +116,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menarik",
-    "example": "引くを使う例文です。",
-    "exampleReading": "ひくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menarik\"."
+    "example": "ドアを引いてください。",
+    "exampleReading": "ドアをひいてください。",
+    "exampleMeaning": "Tolong tarik pintunya."
   },
   {
     "word": "フィルム",
@@ -127,9 +127,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "gulungan film",
-    "example": "フィルムを使う例文です。",
-    "exampleReading": "フィルムをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"gulungan film\"."
+    "example": "古いフィルムを見つけました。",
+    "exampleReading": "ふるいフィルムをみつけました。",
+    "exampleMeaning": "Saya menemukan gulungan film lama."
   },
   {
     "word": "磨く",
@@ -138,9 +138,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menyikat gigi, untuk memoles",
-    "example": "磨くを使う例文です。",
-    "exampleReading": "みがくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menyikat gigi, untuk memoles\"."
+    "example": "毎日歯を磨きます。",
+    "exampleReading": "まいにちはをみがきます。",
+    "exampleMeaning": "Saya menyikat gigi setiap hari."
   },
   {
     "word": "押す",
@@ -149,9 +149,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk mendorong, untuk menginjak sesuatu",
-    "example": "押すを使う例文です。",
-    "exampleReading": "おすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mendorong, untuk menginjak sesuatu\"."
+    "example": "ボタンを押してください。",
+    "exampleReading": "ボタンをおしてください。",
+    "exampleMeaning": "Tolong tekan tombolnya."
   },
   {
     "word": "売る",
@@ -160,9 +160,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menjual",
-    "example": "売るを使う例文です。",
-    "exampleReading": "うるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menjual\"."
+    "example": "花屋で花を売っています。",
+    "exampleReading": "はなやではなをうっています。",
+    "exampleMeaning": "Toko bunga menjual bunga."
   },
   {
     "word": "電気",
@@ -171,9 +171,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "listrik, lampu listrik",
-    "example": "電気を使う例文です。",
-    "exampleReading": "でんきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"listrik, lampu listrik\"."
+    "example": "電気を消してください。",
+    "exampleReading": "でんきをけしてください。",
+    "exampleMeaning": "Tolong matikan lampunya."
   },
   {
     "word": "並ぶ",
@@ -182,9 +182,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk berbaris, untuk berdiri dalam barisan",
-    "example": "並ぶを使う例文です。",
-    "exampleReading": "ならぶをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk berbaris, untuk berdiri dalam barisan\"."
+    "example": "バス停で並んでいます。",
+    "exampleReading": "バスていでならんでいます。",
+    "exampleMeaning": "Kami mengantre di halte bus."
   },
   {
     "word": "病気",
@@ -193,9 +193,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "penyakit",
-    "example": "病気を使う例文です。",
-    "exampleReading": "びょうきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"penyakit\"."
+    "example": "彼は病気で休んでいます。",
+    "exampleReading": "かれはびょうきでやすんでいます。",
+    "exampleMeaning": "Dia sedang libur karena sakit."
   },
   {
     "word": "ポケット",
@@ -204,9 +204,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "saku",
-    "example": "ポケットを使う例文です。",
-    "exampleReading": "ポケットをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"saku\"."
+    "example": "ポケットにお金を入れます。",
+    "exampleReading": "ポケットにおかねをいれます。",
+    "exampleMeaning": "Saya memasukkan uang ke dalam saku."
   },
   {
     "word": "頭",
@@ -215,9 +215,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "kepala",
-    "example": "頭を使う例文です。",
-    "exampleReading": "あたまをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kepala\"."
+    "example": "頭が痛いです。",
+    "exampleReading": "あたまがいたいです。",
+    "exampleMeaning": "Kepala saya sakit."
   },
   {
     "word": "はし",
@@ -226,9 +226,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "sumpit",
-    "example": "はしを使う例文です。",
-    "exampleReading": "はしをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sumpit\"."
+    "example": "はしで食べます。",
+    "exampleReading": "はしでたべます。",
+    "exampleMeaning": "Saya makan menggunakan sumpit."
   },
   {
     "word": "英語",
@@ -237,9 +237,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "bahasa Inggris",
-    "example": "英語を使う例文です。",
-    "exampleReading": "えいごをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bahasa Inggris\"."
+    "example": "英語を勉強しています。",
+    "exampleReading": "えいごをべんきょうしています。",
+    "exampleMeaning": "Saya sedang belajar bahasa Inggris."
   },
   {
     "word": "家",
@@ -248,9 +248,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "rumah",
-    "example": "家を使う例文です。",
-    "exampleReading": "いえをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"rumah\"."
+    "example": "家に帰ります。",
+    "exampleReading": "いえにかえります。",
+    "exampleMeaning": "Saya pulang ke rumah."
   },
   {
     "word": "一月",
@@ -259,9 +259,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "satu bulan",
-    "example": "一月を使う例文です。",
-    "exampleReading": "ひとつきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"satu bulan\"."
+    "example": "一月で終わります。",
+    "exampleReading": "ひとつきでおわります。",
+    "exampleMeaning": "Akan selesai dalam satu bulan."
   },
   {
     "word": "暑い",
@@ -270,9 +270,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "panas",
-    "example": "暑いを使う例文です。",
-    "exampleReading": "あついをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"panas\"."
+    "example": "今日は暑いです。",
+    "exampleReading": "きょうはあついです。",
+    "exampleMeaning": "Hari ini panas."
   },
   {
     "word": "遊ぶ",
@@ -281,9 +281,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk bermain, berkunjung",
-    "example": "遊ぶを使う例文です。",
-    "exampleReading": "あそぶをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk bermain, berkunjung\"."
+    "example": "公園で遊びます。",
+    "exampleReading": "こうえんであそびます。",
+    "exampleMeaning": "Saya bermain di taman."
   },
   {
     "word": "取る",
@@ -292,9 +292,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mengambil sesuatu",
-    "example": "取るを使う例文です。",
-    "exampleReading": "とるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mengambil sesuatu\"."
+    "example": "塩を取ってください。",
+    "exampleReading": "しおをとってください。",
+    "exampleMeaning": "Tolong ambilkan garam."
   },
   {
     "word": "九",
@@ -303,9 +303,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "sembilan",
-    "example": "九を使う例文です。",
-    "exampleReading": "きゅう / くをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sembilan\"."
+    "example": "九時に始まります。",
+    "exampleReading": "くじにはじまります。",
+    "exampleMeaning": "Dimulai pukul sembilan."
   },
   {
     "word": "閉める",
@@ -314,9 +314,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menutup sesuatu",
-    "example": "閉めるを使う例文です。",
-    "exampleReading": "しめるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menutup sesuatu\"."
+    "example": "窓を閉めてください。",
+    "exampleReading": "まどをしめてください。",
+    "exampleMeaning": "Tolong tutup jendelanya."
   },
   {
     "word": "たいへん",
@@ -325,9 +325,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "sangat",
-    "example": "たいへんを使う例文です。",
-    "exampleReading": "たいへんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sangat\"."
+    "example": "今日はたいへん忙しいです。",
+    "exampleReading": "きょうはたいへんいそがしいです。",
+    "exampleMeaning": "Hari ini sangat sibuk."
   },
   {
     "word": "奥さん",
@@ -336,9 +336,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "istri (terhormat).",
-    "example": "奥さんを使う例文です。",
-    "exampleReading": "おくさんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"istri (terhormat).\"."
+    "example": "奥さんはお元気ですか。",
+    "exampleReading": "おくさんはおげんきですか。",
+    "exampleMeaning": "Apakah istri Anda sehat?"
   },
   {
     "word": "作文",
@@ -347,9 +347,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "komposisi, menulis",
-    "example": "作文を使う例文です。",
-    "exampleReading": "さくぶんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"komposisi, menulis\"."
+    "example": "作文を書きました。",
+    "exampleReading": "さくぶんをかきました。",
+    "exampleMeaning": "Saya menulis esai."
   },
   {
     "word": "便利",
@@ -358,9 +358,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "berguna, nyaman",
-    "example": "便利を使う例文です。",
-    "exampleReading": "べんりをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"berguna, nyaman\"."
+    "example": "このアプリは便利です。",
+    "exampleReading": "このアプリはべんりです。",
+    "exampleMeaning": "Aplikasi ini praktis."
   },
   {
     "word": "右",
@@ -369,9 +369,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "sisi kanan",
-    "example": "右を使う例文です。",
-    "exampleReading": "みぎをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sisi kanan\"."
+    "example": "右に曲がってください。",
+    "exampleReading": "みぎにまがってください。",
+    "exampleMeaning": "Tolong belok ke kanan."
   },
   {
     "word": "寒い",
@@ -380,9 +380,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "dingin",
-    "example": "寒いを使う例文です。",
-    "exampleReading": "さむいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"dingin\"."
+    "example": "冬は寒いです。",
+    "exampleReading": "ふゆはさむいです。",
+    "exampleMeaning": "Musim dingin itu dingin."
   },
   {
     "word": "あびる",
@@ -391,9 +391,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mandi, mandi",
-    "example": "あびるを使う例文です。",
-    "exampleReading": "あびるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mandi, mandi\"."
+    "example": "シャワーをあびます。",
+    "exampleReading": "シャワーをあびます。",
+    "exampleMeaning": "Saya mandi shower."
   },
   {
     "word": "十",
@@ -402,9 +402,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "sepuluh",
-    "example": "十を使う例文です。",
-    "exampleReading": "じゅう  とおをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sepuluh\"."
+    "example": "十まで数えます。",
+    "exampleReading": "じゅうまでかぞえます。",
+    "exampleMeaning": "Saya menghitung sampai sepuluh."
   },
   {
     "word": "中",
@@ -413,9 +413,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "tengah",
-    "example": "中を使う例文です。",
-    "exampleReading": "なかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tengah\"."
+    "example": "箱の中を見ます。",
+    "exampleReading": "はこのなかをみます。",
+    "exampleMeaning": "Saya melihat ke dalam kotak."
   },
   {
     "word": "消す",
@@ -424,9 +424,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk menghapus, untuk mematikan daya",
-    "example": "消すを使う例文です。",
-    "exampleReading": "けすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menghapus, untuk mematikan daya\"."
+    "example": "電気を消します。",
+    "exampleReading": "でんきをけします。",
+    "exampleMeaning": "Saya mematikan lampu."
   },
   {
     "word": "近く",
@@ -435,9 +435,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "di dekat",
-    "example": "近くを使う例文です。",
-    "exampleReading": "ちかくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"di dekat\"."
+    "example": "駅の近くに住んでいます。",
+    "exampleReading": "えきのちかくにすんでいます。",
+    "exampleMeaning": "Saya tinggal di dekat stasiun."
   },
   {
     "word": "七つ",
@@ -446,9 +446,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "tujuh",
-    "example": "七つを使う例文です。",
-    "exampleReading": "ななつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tujuh\"."
+    "example": "りんごを七つ買いました。",
+    "exampleReading": "りんごをななつかいました。",
+    "exampleMeaning": "Saya membeli tujuh apel."
   },
   {
     "word": "テープレコーダー",
@@ -457,9 +457,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "perekam pita",
-    "example": "テープレコーダーを使う例文です。",
-    "exampleReading": "テープレコーダーをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"perekam pita\"."
+    "example": "テープレコーダーで録音します。",
+    "exampleReading": "テープレコーダーでろくおんします。",
+    "exampleMeaning": "Saya merekam dengan tape recorder."
   },
   {
     "word": "目",
@@ -468,9 +468,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "mata",
-    "example": "目を使う例文です。",
-    "exampleReading": "めをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mata\"."
+    "example": "目が大きいです。",
+    "exampleReading": "めがおおきいです。",
+    "exampleMeaning": "Matanya besar."
   },
   {
     "word": "空",
@@ -479,9 +479,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "langit",
-    "example": "空を使う例文です。",
-    "exampleReading": "そらをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"langit\"."
+    "example": "空が青いです。",
+    "exampleReading": "そらがあおいです。",
+    "exampleMeaning": "Langitnya biru."
   },
   {
     "word": "六日",
@@ -490,9 +490,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "enam hari, hari keenam setiap bulannya",
-    "example": "六日を使う例文です。",
-    "exampleReading": "むいかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"enam hari, hari keenam setiap bulannya\"."
+    "example": "六日に会いましょう。",
+    "exampleReading": "むいかにあいましょう。",
+    "exampleMeaning": "Ayo bertemu tanggal enam."
   },
   {
     "word": "座る",
@@ -501,9 +501,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk duduk",
-    "example": "座るを使う例文です。",
-    "exampleReading": "すわるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk duduk\"."
+    "example": "ここに座ってください。",
+    "exampleReading": "ここにすわってください。",
+    "exampleMeaning": "Tolong duduk di sini."
   },
   {
     "word": "年",
@@ -512,9 +512,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "tahun",
-    "example": "年を使う例文です。",
-    "exampleReading": "としをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tahun\"."
+    "example": "年をとりました。",
+    "exampleReading": "としをとりました。",
+    "exampleMeaning": "Saya sudah bertambah tua (usia)."
   },
   {
     "word": "男の子",
@@ -523,9 +523,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "anak laki-laki",
-    "example": "男の子を使う例文です。",
-    "exampleReading": "おとこのこをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"anak laki-laki\"."
+    "example": "男の子が公園で遊んでいます。",
+    "exampleReading": "おとこのこがこうえんであそんでいます。",
+    "exampleMeaning": "Anak laki-laki itu bermain di taman."
   },
   {
     "word": "狭い",
@@ -534,9 +534,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "sempit",
-    "example": "狭いを使う例文です。",
-    "exampleReading": "せまいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sempit\"."
+    "example": "この部屋は狭いです。",
+    "exampleReading": "このへやはせまいです。",
+    "exampleMeaning": "Kamar ini sempit."
   },
   {
     "word": "冷蔵庫",
@@ -545,9 +545,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "lemari es",
-    "example": "冷蔵庫を使う例文です。",
-    "exampleReading": "れいぞうこをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lemari es\"."
+    "example": "冷蔵庫に牛乳があります。",
+    "exampleReading": "れいぞうこにぎゅうにゅうがあります。",
+    "exampleMeaning": "Ada susu di dalam kulkas."
   },
   {
     "word": "カメラ",
@@ -556,9 +556,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "kamera",
-    "example": "カメラを使う例文です。",
-    "exampleReading": "カメラをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kamera\"."
+    "example": "新しいカメラを買いました。",
+    "exampleReading": "あたらしいカメラをかいました。",
+    "exampleMeaning": "Saya membeli kamera baru."
   },
   {
     "word": "玄関",
@@ -567,9 +567,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "aula masuk",
-    "example": "玄関を使う例文です。",
-    "exampleReading": "げんかんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"aula masuk\"."
+    "example": "玄関で靴を脱ぎます。",
+    "exampleReading": "げんかんでくつをぬぎます。",
+    "exampleMeaning": "Saya melepas sepatu di genkan (pintu masuk)."
   },
   {
     "word": "違う",
@@ -578,9 +578,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "berbeda",
-    "example": "違うを使う例文です。",
-    "exampleReading": "ちがうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"berbeda\"."
+    "example": "答えが違います。",
+    "exampleReading": "こたえがちがいます。",
+    "exampleMeaning": "Jawabannya berbeda/salah."
   },
   {
     "word": "危ない",
@@ -589,9 +589,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "berbahaya",
-    "example": "危ないを使う例文です。",
-    "exampleReading": "あぶないをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"berbahaya\"."
+    "example": "この道は危ないです。",
+    "exampleReading": "このみちはあぶないです。",
+    "exampleMeaning": "Jalan ini berbahaya."
   },
   {
     "word": "分かる",
@@ -600,9 +600,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk dipahami",
-    "example": "分かるを使う例文です。",
-    "exampleReading": "わかるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk dipahami\"."
+    "example": "意味が分かりません。",
+    "exampleReading": "いみがわかりません。",
+    "exampleMeaning": "Saya tidak mengerti artinya."
   },
   {
     "word": "言う",
@@ -611,9 +611,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mengatakan",
-    "example": "言うを使う例文です。",
-    "exampleReading": "いうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mengatakan\"."
+    "example": "名前を言ってください。",
+    "exampleReading": "なまえをいってください。",
+    "exampleMeaning": "Tolong sebutkan nama Anda."
   },
   {
     "word": "飲む",
@@ -622,9 +622,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk minum",
-    "example": "飲むを使う例文です。",
-    "exampleReading": "のむをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk minum\"."
+    "example": "コーヒーを飲みます。",
+    "exampleReading": "コーヒーをのみます。",
+    "exampleMeaning": "Saya minum kopi."
   },
   {
     "word": "練習",
@@ -633,9 +633,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk berlatih",
-    "example": "練習を使う例文です。",
-    "exampleReading": "れんしゅうするをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk berlatih\"."
+    "example": "毎日ピアノを練習します。",
+    "exampleReading": "まいにちピアノをれんしゅうします。",
+    "exampleMeaning": "Saya berlatih piano setiap hari."
   },
   {
     "word": "何",
@@ -644,9 +644,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "Apa",
-    "example": "何を使う例文です。",
-    "exampleReading": "なん / なにをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"Apa\"."
+    "example": "これは何ですか。",
+    "exampleReading": "これはなんですか。",
+    "exampleMeaning": "Ini apa?"
   },
   {
     "word": "厚い",
@@ -655,9 +655,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "baik, dalam, tebal",
-    "example": "厚いを使う例文です。",
-    "exampleReading": "あついをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"baik, dalam, tebal\"."
+    "example": "この本は厚いです。",
+    "exampleReading": "このほんはあついです。",
+    "exampleMeaning": "Buku ini tebal."
   },
   {
     "word": "毎月",
@@ -666,9 +666,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "setiap bulan",
-    "example": "毎月を使う例文です。",
-    "exampleReading": "まいげつ / まいつきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"setiap bulan\"."
+    "example": "毎月本を買います。",
+    "exampleReading": "まいつきほんをかいます。",
+    "exampleMeaning": "Setiap bulan saya membeli buku."
   },
   {
     "word": "閉まる",
@@ -677,9 +677,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menutup, untuk ditutup",
-    "example": "閉まるを使う例文です。",
-    "exampleReading": "しまるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menutup, untuk ditutup\"."
+    "example": "店は九時に閉まります。",
+    "exampleReading": "みせはくじにしまります。",
+    "exampleMeaning": "Toko tutup pukul sembilan."
   },
   {
     "word": "脱ぐ",
@@ -688,9 +688,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk melepas pakaian",
-    "example": "脱ぐを使う例文です。",
-    "exampleReading": "ぬぐをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk melepas pakaian\"."
+    "example": "コートを脱ぎます。",
+    "exampleReading": "コートをぬぎます。",
+    "exampleMeaning": "Saya melepas jaket."
   },
   {
     "word": "黒い",
@@ -699,9 +699,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "hitam",
-    "example": "黒いを使う例文です。",
-    "exampleReading": "くろいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hitam\"."
+    "example": "黒い猫がいます。",
+    "exampleReading": "くろいねこがいます。",
+    "exampleMeaning": "Ada kucing hitam."
   },
   {
     "word": "登る",
@@ -710,9 +710,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mendaki",
-    "example": "登るを使う例文です。",
-    "exampleReading": "のぼるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mendaki\"."
+    "example": "山に登ります。",
+    "exampleReading": "やまにのぼります。",
+    "exampleMeaning": "Saya mendaki gunung."
   },
   {
     "word": "汚い",
@@ -721,9 +721,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "kotor",
-    "example": "汚いを使う例文です。",
-    "exampleReading": "きたないをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kotor\"."
+    "example": "部屋が汚いです。",
+    "exampleReading": "へやがきたないです。",
+    "exampleMeaning": "Kamarnya kotor."
   },
   {
     "word": "雨",
@@ -732,9 +732,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "hujan",
-    "example": "雨を使う例文です。",
-    "exampleReading": "あめをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hujan\"."
+    "example": "雨が降っています。",
+    "exampleReading": "あめがふっています。",
+    "exampleMeaning": "Sedang turun hujan."
   },
   {
     "word": "お皿",
@@ -743,9 +743,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "piring, piring",
-    "example": "お皿を使う例文です。",
-    "exampleReading": "おさらをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"piring, piring\"."
+    "example": "お皿を洗います。",
+    "exampleReading": "おさらをあらいます。",
+    "exampleMeaning": "Saya mencuci piring."
   },
   {
     "word": "速い",
@@ -754,9 +754,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "cepat",
-    "example": "速いを使う例文です。",
-    "exampleReading": "はやいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"cepat\"."
+    "example": "彼は足が速いです。",
+    "exampleReading": "かれはあしがはやいです。",
+    "exampleMeaning": "Dia cepat larinya."
   },
   {
     "word": "お風呂",
@@ -765,9 +765,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "mandi",
-    "example": "お風呂を使う例文です。",
-    "exampleReading": "おふろをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mandi\"."
+    "example": "お風呂に入ります。",
+    "exampleReading": "おふろにはいります。",
+    "exampleMeaning": "Saya mandi (berendam)."
   },
   {
     "word": "新しい",
@@ -776,9 +776,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "baru",
-    "example": "新しいを使う例文です。",
-    "exampleReading": "あたらしいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"baru\"."
+    "example": "新しい靴を買いました。",
+    "exampleReading": "あたらしいくつをかいました。",
+    "exampleMeaning": "Saya membeli sepatu baru."
   },
   {
     "word": "廊下",
@@ -787,9 +787,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "koridor",
-    "example": "廊下を使う例文です。",
-    "exampleReading": "ろうかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"koridor\"."
+    "example": "廊下を歩きます。",
+    "exampleReading": "ろうかをあるきます。",
+    "exampleMeaning": "Saya berjalan di koridor."
   },
   {
     "word": "茶色",
@@ -798,9 +798,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "cokelat",
-    "example": "茶色を使う例文です。",
-    "exampleReading": "ちゃいろをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"cokelat\"."
+    "example": "茶色のかばんが欲しいです。",
+    "exampleReading": "ちゃいろのかばんがほしいです。",
+    "exampleMeaning": "Saya ingin tas berwarna cokelat."
   },
   {
     "word": "コート",
@@ -809,9 +809,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "mantel, lapangan tenis",
-    "example": "コートを使う例文です。",
-    "exampleReading": "コートをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mantel, lapangan tenis\"."
+    "example": "コートを着ます。",
+    "exampleReading": "コートをきます。",
+    "exampleMeaning": "Saya memakai jaket/mantel."
   },
   {
     "word": "手紙",
@@ -820,9 +820,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "surat",
-    "example": "手紙を使う例文です。",
-    "exampleReading": "てがみをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"surat\"."
+    "example": "友達に手紙を書きます。",
+    "exampleReading": "ともだちにてがみをかきます。",
+    "exampleMeaning": "Saya menulis surat untuk teman."
   },
   {
     "word": "要る",
@@ -831,9 +831,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Kerja",
     "meaning": "membutuhkan",
-    "example": "要るを使う例文です。",
-    "exampleReading": "いるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"membutuhkan\"."
+    "example": "お金が要ります。",
+    "exampleReading": "おかねがいります。",
+    "exampleMeaning": "Saya membutuhkan uang."
   },
   {
     "word": "こっち",
@@ -842,9 +842,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "orang atau cara ini",
-    "example": "こっちを使う例文です。",
-    "exampleReading": "こっちをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"orang atau cara ini\"."
+    "example": "こっちに来てください。",
+    "exampleReading": "こっちにきてください。",
+    "exampleMeaning": "Tolong ke sini."
   },
   {
     "word": "スプーン",
@@ -853,9 +853,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "sendok",
-    "example": "スプーンを使う例文です。",
-    "exampleReading": "スプーンをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sendok\"."
+    "example": "スプーンでスープを飲みます。",
+    "exampleReading": "スプーンでスープをのみます。",
+    "exampleMeaning": "Saya makan sup dengan sendok."
   },
   {
     "word": "時々",
@@ -864,9 +864,9 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "Kadang-kadang",
-    "example": "時々を使う例文です。",
-    "exampleReading": "ときどきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"Kadang-kadang\"."
+    "example": "時々映画を見ます。",
+    "exampleReading": "ときどきえいがをみます。",
+    "exampleMeaning": "Kadang-kadang saya menonton film."
   },
   {
     "word": "傘",
@@ -875,9 +875,779 @@ export const vocabData = [
     "level": "N5",
     "partOfSpeech": "Kata Benda",
     "meaning": "payung",
-    "example": "傘を使う例文です。",
-    "exampleReading": "かさをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"payung\"."
+    "example": "傘を持っていきます。",
+    "exampleReading": "かさをもっていきます。",
+    "exampleMeaning": "Saya membawa payung."
+  },
+  {
+    "word": "いい / よい",
+    "reading": "いい / よい",
+    "romaji": "ii / yoi",
+    "level": "N5",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "Bagus",
+    "example": "この本はいいです。",
+    "exampleReading": "このほんはいいです。",
+    "exampleMeaning": "Buku ini bagus."
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "romaji": "denwa",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "telepon",
+    "example": "母に電話をかけます。",
+    "exampleReading": "ははにでんわをかけます。",
+    "exampleMeaning": "Saya menelepon ibu."
+  },
+  {
+    "word": "勤める",
+    "reading": "つとめる",
+    "romaji": "tsutomeru",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk bekerja pada seseorang",
+    "example": "銀行に勤めています。",
+    "exampleReading": "ぎんこうにつとめています。",
+    "exampleMeaning": "Saya bekerja di bank."
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "romaji": "yasui",
+    "level": "N5",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "murah",
+    "example": "この店は安いです。",
+    "exampleReading": "このみせはやすいです。",
+    "exampleMeaning": "Toko ini murah."
+  },
+  {
+    "word": "どう",
+    "reading": "どう",
+    "romaji": "dō",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "bagaimana, dengan cara apa",
+    "example": "このコーヒーはどうですか。",
+    "exampleReading": "このコーヒーはどうですか。",
+    "exampleMeaning": "Bagaimana dengan kopi ini?"
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "romaji": "michi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "jalan",
+    "example": "この道をまっすぐ行ってください。",
+    "exampleReading": "このみちをまっすぐいってください。",
+    "exampleMeaning": "Tolong lurus terus di jalan ini."
+  },
+  {
+    "word": "バス",
+    "reading": "バス",
+    "romaji": "basu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bis",
+    "example": "バスに乗ります。",
+    "exampleReading": "バスにのります。",
+    "exampleMeaning": "Saya naik bus."
+  },
+  {
+    "word": "クラス",
+    "reading": "クラス",
+    "romaji": "kurasu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kelas",
+    "example": "私のクラスは楽しいです。",
+    "exampleReading": "わたしのクラスはたのしいです。",
+    "exampleMeaning": "Kelas saya menyenangkan."
+  },
+  {
+    "word": "差す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mengulurkan tangan, mengangkat payung",
+    "example": "傘を差します。",
+    "exampleReading": "かさをさします。",
+    "exampleMeaning": "Saya membuka/memegang payung."
+  },
+  {
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "romaji": "supōtsu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "olahraga",
+    "example": "スポーツが好きです。",
+    "exampleReading": "スポーツがすきです。",
+    "exampleMeaning": "Saya suka olahraga."
+  },
+  {
+    "word": "どっち",
+    "reading": "どっち",
+    "romaji": "dotchi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "yang",
+    "example": "どっちがいいですか。",
+    "exampleReading": "どっちがいいですか。",
+    "exampleMeaning": "Mana yang lebih baik?"
+  },
+  {
+    "word": "そば",
+    "reading": "そば",
+    "romaji": "soba",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "dekat, di samping",
+    "example": "駅のそばに住んでいます。",
+    "exampleReading": "えきのそばにすんでいます。",
+    "exampleMeaning": "Saya tinggal di dekat stasiun."
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "romaji": "shinbun",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "koran",
+    "example": "新聞を読みます。",
+    "exampleReading": "しんぶんをよみます。",
+    "exampleMeaning": "Saya membaca koran."
+  },
+  {
+    "word": "どうして",
+    "reading": "どうして",
+    "romaji": "dōshite",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "untuk alasan apa",
+    "example": "どうして遅れたのですか。",
+    "exampleReading": "どうしておくれたのですか。",
+    "exampleMeaning": "Mengapa Anda terlambat?"
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "romaji": "niwa",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kebun",
+    "example": "庭に花を植えます。",
+    "exampleReading": "にわにはなをうえます。",
+    "exampleMeaning": "Saya menanam bunga di taman."
+  },
+  {
+    "word": "大きな",
+    "reading": "おおきな",
+    "romaji": "ōkina",
+    "level": "N5",
+    "partOfSpeech": "Kata Sifat Na",
+    "meaning": "besar",
+    "example": "大きな家に住んでいます。",
+    "exampleReading": "おおきないえにすんでいます。",
+    "exampleMeaning": "Saya tinggal di rumah yang besar."
+  },
+  {
+    "word": "辺",
+    "reading": "へん",
+    "romaji": "hen",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "daerah",
+    "example": "この辺にコンビニがありますか。",
+    "exampleReading": "このへんにコンビニがありますか。",
+    "exampleMeaning": "Apakah ada minimarket di sekitar sini?"
+  },
+  {
+    "word": "番号",
+    "reading": "ばんごう",
+    "romaji": "bangō",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "nomor",
+    "example": "電話番号を教えてください。",
+    "exampleReading": "でんわばんごうをおしえてください。",
+    "exampleMeaning": "Tolong beri tahu nomor telepon Anda."
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "romaji": "kazoku",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "keluarga",
+    "example": "家族と旅行します。",
+    "exampleReading": "かぞくとりょこうします。",
+    "exampleMeaning": "Saya berpergian dengan keluarga."
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "romaji": "heta",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tidak terampil",
+    "example": "私は歌が下手です。",
+    "exampleReading": "わたしはうたがへたです。",
+    "exampleMeaning": "Saya tidak pandai menyanyi."
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "romaji": "ryōri",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "masakan",
+    "example": "料理を作ります。",
+    "exampleReading": "りょうりをつくります。",
+    "exampleMeaning": "Saya memasak."
+  },
+  {
+    "word": "カレー",
+    "reading": "カレー",
+    "romaji": "karē",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kari",
+    "example": "カレーが好きです。",
+    "exampleReading": "カレーがすきです。",
+    "exampleMeaning": "Saya suka kari."
+  },
+  {
+    "word": "六",
+    "reading": "ろく",
+    "romaji": "roku",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "enam",
+    "example": "六時に起きます。",
+    "exampleReading": "ろくじにおきます。",
+    "exampleMeaning": "Saya bangun pukul enam."
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "romaji": "kotoshi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tahun ini",
+    "example": "今年は忙しいです。",
+    "exampleReading": "ことしはいそがしいです。",
+    "exampleMeaning": "Tahun ini sibuk."
+  },
+  {
+    "word": "初めて",
+    "reading": "はじめて",
+    "romaji": "hajimete",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "untuk pertama kalinya",
+    "example": "初めて日本に行きました。",
+    "exampleReading": "はじめてにほんにいきました。",
+    "exampleMeaning": "Saya pergi ke Jepang untuk pertama kalinya."
+  },
+  {
+    "word": "風邪",
+    "reading": "かぜ",
+    "romaji": "kaze",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pilek",
+    "example": "風邪をひきました。",
+    "exampleReading": "かぜをひきました。",
+    "exampleMeaning": "Saya terkena pilek."
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "romaji": "akai",
+    "level": "N5",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "merah",
+    "example": "赤いりんごを食べます。",
+    "exampleReading": "あかいりんごをたべます。",
+    "exampleMeaning": "Saya makan apel merah."
+  },
+  {
+    "word": "甘い",
+    "reading": "あまい",
+    "romaji": "amai",
+    "level": "N5",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "manis",
+    "example": "このケーキは甘いです。",
+    "exampleReading": "このケーキはあまいです。",
+    "exampleMeaning": "Kue ini manis."
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "romaji": "nishi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "Barat",
+    "example": "西の空が赤いです。",
+    "exampleReading": "にしのそらがあかいです。",
+    "exampleMeaning": "Langit di sebelah barat berwarna merah."
+  },
+  {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "romaji": "maishū",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "setiap minggu",
+    "example": "毎週テニスをします。",
+    "exampleReading": "まいしゅうテニスをします。",
+    "exampleMeaning": "Setiap minggu saya bermain tenis."
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "romaji": "itsumo",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "selalu",
+    "example": "いつも忙しいです。",
+    "exampleReading": "いつもいそがしいです。",
+    "exampleMeaning": "Saya selalu sibuk."
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "romaji": "itsutsu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "lima",
+    "example": "みかんを五つ食べました。",
+    "exampleReading": "みかんをいつつたべました。",
+    "exampleMeaning": "Saya makan lima jeruk."
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "romaji": "tatemono",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bangunan",
+    "example": "あの建物は学校です。",
+    "exampleReading": "あのたてものはがっこうです。",
+    "exampleMeaning": "Bangunan itu adalah sekolah."
+  },
+  {
+    "word": "なる",
+    "reading": "なる",
+    "romaji": "naru",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "menjadi",
+    "example": "医者になりたいです。",
+    "exampleReading": "いしゃになりたいです。",
+    "exampleMeaning": "Saya ingin menjadi dokter."
+  },
+  {
+    "word": "まっすぐ",
+    "reading": "まっすぐ",
+    "romaji": "massugu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "lurus ke depan, langsung",
+    "example": "まっすぐ行ってください。",
+    "exampleReading": "まっすぐいってください。",
+    "exampleMeaning": "Tolong pergi lurus terus."
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "romaji": "tsukuru",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk membuat",
+    "example": "晩ご飯を作ります。",
+    "exampleReading": "ばんごはんをつくります。",
+    "exampleMeaning": "Saya membuat makan malam."
+  },
+  {
+    "word": "風",
+    "reading": "かぜ",
+    "romaji": "kaze",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "angin",
+    "example": "強い風が吹いています。",
+    "exampleReading": "つよいかぜがふいています。",
+    "exampleMeaning": "Angin kencang sedang bertiup."
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "romaji": "sukoshi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sedikit",
+    "example": "少し休みましょう。",
+    "exampleReading": "すこしやすみましょう。",
+    "exampleMeaning": "Ayo istirahat sebentar."
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "romaji": "daigaku",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "universitas",
+    "example": "大学で勉強しています。",
+    "exampleReading": "だいがくでべんきょうしています。",
+    "exampleMeaning": "Saya belajar di universitas."
+  },
+  {
+    "word": "シャツ",
+    "reading": "シャツ",
+    "romaji": "shatsu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kemeja",
+    "example": "白いシャツを着ています。",
+    "exampleReading": "しろいシャツをきています。",
+    "exampleMeaning": "Saya memakai kemeja putih."
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "romaji": "byōin",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "RSUD",
+    "example": "病院に行きます。",
+    "exampleReading": "びょういんにいきます。",
+    "exampleMeaning": "Saya pergi ke rumah sakit."
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "romaji": "kaisha",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "perusahaan",
+    "example": "会社に行きます。",
+    "exampleReading": "かいしゃにいきます。",
+    "exampleMeaning": "Saya pergi ke kantor (perusahaan)."
+  },
+  {
+    "word": "無くす",
+    "reading": "なくす",
+    "romaji": "nakusu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kehilangan sesuatu",
+    "example": "鍵を無くしました。",
+    "exampleReading": "かぎをなくしました。",
+    "exampleMeaning": "Saya kehilangan kunci."
+  },
+  {
+    "word": "スリッパ",
+    "reading": "スリッパ",
+    "romaji": "surippa",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sandal",
+    "example": "スリッパを履きます。",
+    "exampleReading": "スリッパをはきます。",
+    "exampleMeaning": "Saya memakai sandal rumah."
+  },
+  {
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "romaji": "chikatetsu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kereta bawah tanah",
+    "example": "地下鉄で行きます。",
+    "exampleReading": "ちかてつでいきます。",
+    "exampleMeaning": "Saya pergi menggunakan kereta bawah tanah."
+  },
+  {
+    "word": "ページ",
+    "reading": "ページ",
+    "romaji": "pēji",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "halaman",
+    "example": "このページを見てください。",
+    "exampleReading": "このページをみてください。",
+    "exampleMeaning": "Tolong lihat halaman ini."
+  },
+  {
+    "word": "曇る",
+    "reading": "くもる",
+    "romaji": "kumoru",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "menjadi berawan, menjadi redup",
+    "example": "天気が曇っています。",
+    "exampleReading": "てんきがくもっています。",
+    "exampleMeaning": "Cuacanya berawan."
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "romaji": "jisho",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kamus",
+    "example": "辞書で言葉を調べます。",
+    "exampleReading": "じしょでことばをしらべます。",
+    "exampleMeaning": "Saya mencari kata di kamus."
+  },
+  {
+    "word": "万年筆",
+    "reading": "まんねんひつ",
+    "romaji": "mannenhitsu",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pulpen",
+    "example": "万年筆で書きます。",
+    "exampleReading": "まんねんひつでかきます。",
+    "exampleMeaning": "Saya menulis dengan pulpen."
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "romaji": "umi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "laut",
+    "example": "海で泳ぎます。",
+    "exampleReading": "うみでおよぎます。",
+    "exampleMeaning": "Saya berenang di laut."
+  },
+  {
+    "word": "エレベーター",
+    "reading": "エレベーター",
+    "romaji": "erebētā",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "lift",
+    "example": "エレベーターに乗ります。",
+    "exampleReading": "エレベーターにのります。",
+    "exampleMeaning": "Saya naik lift."
+  },
+  {
+    "word": "たぶん",
+    "reading": "たぶん",
+    "romaji": "tabun",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mungkin",
+    "example": "たぶん明日雨が降ります。",
+    "exampleReading": "たぶんあしたあめがふります。",
+    "exampleMeaning": "Mungkin besok akan turun hujan."
+  },
+  {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "romaji": "yūgata",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "malam",
+    "example": "夕方に散歩します。",
+    "exampleReading": "ゆうがたにさんぽします。",
+    "exampleMeaning": "Saya jalan-jalan sore."
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "romaji": "higashi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "timur",
+    "example": "東から風が吹きます。",
+    "exampleReading": "ひがしからかぜがふきます。",
+    "exampleMeaning": "Angin bertiup dari timur."
+  },
+  {
+    "word": "声",
+    "reading": "こえ",
+    "romaji": "koe",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "suara",
+    "example": "大きい声で話してください。",
+    "exampleReading": "おおきいこえではなしてください。",
+    "exampleMeaning": "Tolong bicara dengan suara keras."
+  },
+  {
+    "word": "撮る",
+    "reading": "とる",
+    "romaji": "toru",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mengambil foto atau merekam film",
+    "example": "写真を撮ります。",
+    "exampleReading": "しゃしんをとります。",
+    "exampleMeaning": "Saya mengambil foto."
+  },
+  {
+    "word": "私",
+    "reading": "わたくし",
+    "romaji": "watakushi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(rendah hati) Saya sendiri",
+    "example": "私は学生です。",
+    "exampleReading": "わたくしはがくせいです。",
+    "exampleMeaning": "Saya adalah seorang siswa."
+  },
+  {
+    "word": "両親",
+    "reading": "りょうしん",
+    "romaji": "ryōshin",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kedua orang tuanya",
+    "example": "両親と住んでいます。",
+    "exampleReading": "りょうしんとすんでいます。",
+    "exampleMeaning": "Saya tinggal dengan kedua orang tua."
+  },
+  {
+    "word": "きれい",
+    "reading": "きれい",
+    "romaji": "kirei",
+    "level": "N5",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "cantik, bersih",
+    "example": "この花はきれいです。",
+    "exampleReading": "このはなはきれいです。",
+    "exampleMeaning": "Bunga ini cantik."
+  },
+  {
+    "word": "どうぞ",
+    "reading": "どうぞ",
+    "romaji": "dōzo",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "Tolong",
+    "example": "どうぞ、お入りください。",
+    "exampleReading": "どうぞ、おはいりください。",
+    "exampleMeaning": "Silakan, masuklah."
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "romaji": "suki",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "menyenangkan",
+    "example": "音楽が好きです。",
+    "exampleReading": "おんがくがすきです。",
+    "exampleMeaning": "Saya suka musik."
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "romaji": "shizuka",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "diam",
+    "example": "この部屋は静かです。",
+    "exampleReading": "このへやはしずかです。",
+    "exampleMeaning": "Kamar ini tenang."
+  },
+  {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "romaji": "otōsan",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(yang terhormat) ayah",
+    "example": "お父さんは会社員です。",
+    "exampleReading": "おとうさんはかいしゃいんです。",
+    "exampleMeaning": "Ayahnya adalah seorang karyawan perusahaan."
+  },
+  {
+    "word": "人",
+    "reading": "ひと",
+    "romaji": "hito",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "orang",
+    "example": "あの人は誰ですか。",
+    "exampleReading": "あのひとはだれですか。",
+    "exampleMeaning": "Siapakah orang itu?"
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "romaji": "oboeru",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk diingat",
+    "example": "単語を覚えます。",
+    "exampleReading": "たんごをおぼえます。",
+    "exampleMeaning": "Saya menghafal kosakata."
+  },
+  {
+    "word": "休み",
+    "reading": "やすみ",
+    "romaji": "yasumi",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "istirahat, liburan",
+    "example": "明日は休みです。",
+    "exampleReading": "あしたはやすみです。",
+    "exampleMeaning": "Besok libur."
+  },
+  {
+    "word": "池",
+    "reading": "いけ",
+    "romaji": "ike",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kolam",
+    "example": "公園に池があります。",
+    "exampleReading": "こうえんにいけがあります。",
+    "exampleMeaning": "Ada kolam di taman."
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "romaji": "hajimaru",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk memulai",
+    "example": "授業が始まります。",
+    "exampleReading": "じゅぎょうがはじまります。",
+    "exampleMeaning": "Pelajaran akan dimulai."
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "romaji": "komaru",
+    "level": "N5",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "menjadi khawatir",
+    "example": "お金がなくて困っています。",
+    "exampleReading": "おかねがなくてこまっています。",
+    "exampleMeaning": "Saya kesulitan karena tidak punya uang."
+  },
+  {
+    "word": "ほか",
+    "reading": "ほか",
+    "romaji": "hoka",
+    "level": "N5",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "lainnya, sisanya",
+    "example": "ほかに質問がありますか。",
+    "exampleReading": "ほかにしつもんがありますか。",
+    "exampleMeaning": "Apakah ada pertanyaan lain?"
   },
   {
     "word": "雲",
@@ -886,9 +1656,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "awan",
-    "example": "雲を使う例文です。",
-    "exampleReading": "くもをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"awan\"."
+    "example": "空に雲がたくさんあります。",
+    "exampleReading": "そらにくもがたくさんあります。",
+    "exampleMeaning": "Ada banyak awan di langit."
   },
   {
     "word": "サンドイッチ",
@@ -897,9 +1667,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "sandwich",
-    "example": "サンドイッチを使う例文です。",
-    "exampleReading": "サンドイッチをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sandwich\"."
+    "example": "サンドイッチを作りました。",
+    "exampleReading": "サンドイッチをつくりました。",
+    "exampleMeaning": "Saya membuat sandwich."
   },
   {
     "word": "故障",
@@ -908,9 +1678,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk mogok",
-    "example": "故障を使う例文です。",
-    "exampleReading": "こしょう・するをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mogok\"."
+    "example": "エレベーターが故障しました。",
+    "exampleReading": "エレベーターがこしょうしました。",
+    "exampleMeaning": "Liftnya rusak."
   },
   {
     "word": "怖い",
@@ -919,9 +1689,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "menakutkan",
-    "example": "怖いを使う例文です。",
-    "exampleReading": "こわいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menakutkan\"."
+    "example": "このお化け屋敷は怖いです。",
+    "exampleReading": "このおばけやしきはこわいです。",
+    "exampleMeaning": "Rumah hantu ini menakutkan."
   },
   {
     "word": "エスカレーター",
@@ -930,9 +1700,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "eskalator",
-    "example": "エスカレーターを使う例文です。",
-    "exampleReading": "エスカレーターをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"eskalator\"."
+    "example": "エスカレーターで上がります。",
+    "exampleReading": "エスカレーターであがります。",
+    "exampleMeaning": "Saya naik menggunakan eskalator."
   },
   {
     "word": "運ぶ",
@@ -941,9 +1711,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk mengangkut",
-    "example": "運ぶを使う例文です。",
-    "exampleReading": "はこぶをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mengangkut\"."
+    "example": "荷物を運びます。",
+    "exampleReading": "にもつをはこびます。",
+    "exampleMeaning": "Saya mengangkut barang."
   },
   {
     "word": "受ける",
@@ -952,9 +1722,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mengikuti pelajaran atau ujian",
-    "example": "受けるを使う例文です。",
-    "exampleReading": "うけるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mengikuti pelajaran atau ujian\"."
+    "example": "試験を受けます。",
+    "exampleReading": "しけんをうけます。",
+    "exampleMeaning": "Saya mengikuti ujian."
   },
   {
     "word": "お嬢さん",
@@ -963,9 +1733,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "wanita muda",
-    "example": "お嬢さんを使う例文です。",
-    "exampleReading": "おじょうさんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"wanita muda\"."
+    "example": "お嬢さんはピアノが上手ですね。",
+    "exampleReading": "おじょうさんはピアノがじょうずですね。",
+    "exampleMeaning": "Putri Anda pandai bermain piano ya."
   },
   {
     "word": "首",
@@ -974,9 +1744,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "leher",
-    "example": "首を使う例文です。",
-    "exampleReading": "くびをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"leher\"."
+    "example": "首が痛いです。",
+    "exampleReading": "くびがいたいです。",
+    "exampleMeaning": "Leher saya sakit."
   },
   {
     "word": "市民",
@@ -985,9 +1755,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "warga negara",
-    "example": "市民を使う例文です。",
-    "exampleReading": "しみんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"warga negara\"."
+    "example": "市民のための公園です。",
+    "exampleReading": "しみんのためのこうえんです。",
+    "exampleMeaning": "Ini taman untuk warga."
   },
   {
     "word": "付く",
@@ -996,9 +1766,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk dilampirkan",
-    "example": "付くを使う例文です。",
-    "exampleReading": "つくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk dilampirkan\"."
+    "example": "服にインクが付きました。",
+    "exampleReading": "ふくにインクがつきました。",
+    "exampleMeaning": "Tinta menempel di baju."
   },
   {
     "word": "すく",
@@ -1007,9 +1777,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "menjadi kosong",
-    "example": "すくを使う例文です。",
-    "exampleReading": "すくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menjadi kosong\"."
+    "example": "電車がすいています。",
+    "exampleReading": "でんしゃがすいています。",
+    "exampleMeaning": "Keretanya sepi (tidak penuh)."
   },
   {
     "word": "こと",
@@ -1018,9 +1788,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "hal, penting",
-    "example": "ことを使う例文です。",
-    "exampleReading": "ことをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hal, penting\"."
+    "example": "忘れてはいけないことがあります。",
+    "exampleReading": "わすれてはいけないことがあります。",
+    "exampleMeaning": "Ada hal yang tidak boleh dilupakan."
   },
   {
     "word": "訪ねる",
@@ -1029,9 +1799,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk dikunjungi",
-    "example": "訪ねるを使う例文です。",
-    "exampleReading": "たずねるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk dikunjungi\"."
+    "example": "友達の家を訪ねました。",
+    "exampleReading": "ともだちのいえをたずねました。",
+    "exampleMeaning": "Saya mengunjungi rumah teman."
   },
   {
     "word": "お祝い",
@@ -1040,9 +1810,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "selamat",
-    "example": "お祝いを使う例文です。",
-    "exampleReading": "おいわいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"selamat\"."
+    "example": "結婚のお祝いを渡しました。",
+    "exampleReading": "けっこんのおいわいをわたしました。",
+    "exampleMeaning": "Saya memberikan hadiah pernikahan."
   },
   {
     "word": "一生懸命",
@@ -1051,9 +1821,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "dengan usaha sekuat tenaga",
-    "example": "一生懸命を使う例文です。",
-    "exampleReading": "いっしょうけんめいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"dengan usaha sekuat tenaga\"."
+    "example": "一生懸命勉強しました。",
+    "exampleReading": "いっしょうけんめいべんきょうしました。",
+    "exampleMeaning": "Saya belajar dengan sekuat tenaga."
   },
   {
     "word": "済む",
@@ -1062,9 +1832,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menyelesaikan",
-    "example": "済むを使う例文です。",
-    "exampleReading": "すむをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menyelesaikan\"."
+    "example": "仕事が済みました。",
+    "exampleReading": "しごとがすみました。",
+    "exampleMeaning": "Pekerjaan sudah selesai."
   },
   {
     "word": "アメリカ",
@@ -1073,9 +1843,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "Amerika",
-    "example": "アメリカを使う例文です。",
-    "exampleReading": "アメリカをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"Amerika\"."
+    "example": "来年アメリカへ行きます。",
+    "exampleReading": "らいねんアメリカへいきます。",
+    "exampleMeaning": "Tahun depan saya akan pergi ke Amerika."
   },
   {
     "word": "復習",
@@ -1084,9 +1854,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "revisi",
-    "example": "復習を使う例文です。",
-    "exampleReading": "ふくしゅうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"revisi\"."
+    "example": "授業の後で復習します。",
+    "exampleReading": "じゅぎょうのあとでふくしゅうします。",
+    "exampleMeaning": "Saya mengulang pelajaran setelah kelas."
   },
   {
     "word": "急",
@@ -1095,9 +1865,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "mendesak, curam",
-    "example": "急を使う例文です。",
-    "exampleReading": "きゅうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mendesak, curam\"."
+    "example": "急な用事ができました。",
+    "exampleReading": "きゅうなようじができました。",
+    "exampleMeaning": "Ada urusan mendadak."
   },
   {
     "word": "これから",
@@ -1106,9 +1876,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "setelah ini",
-    "example": "これからを使う例文です。",
-    "exampleReading": "これからをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"setelah ini\"."
+    "example": "これから会議が始まります。",
+    "exampleReading": "これからかいぎがはじまります。",
+    "exampleMeaning": "Rapat akan mulai dari sekarang."
   },
   {
     "word": "指輪",
@@ -1117,9 +1887,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "cincin jari",
-    "example": "指輪を使う例文です。",
-    "exampleReading": "ゆびわをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"cincin jari\"."
+    "example": "指輪をプレゼントしました。",
+    "exampleReading": "ゆびわをプレゼントしました。",
+    "exampleMeaning": "Saya memberikan cincin sebagai hadiah."
   },
   {
     "word": "美しい",
@@ -1128,9 +1898,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "cantik",
-    "example": "美しいを使う例文です。",
-    "exampleReading": "うつくしいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"cantik\"."
+    "example": "美しい景色ですね。",
+    "exampleReading": "うつくしいけしきですね。",
+    "exampleMeaning": "Pemandangannya indah ya."
   },
   {
     "word": "直る",
@@ -1139,9 +1909,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk diperbaiki, untuk diperbaiki",
-    "example": "直るを使う例文です。",
-    "exampleReading": "なおるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk diperbaiki, untuk diperbaiki\"."
+    "example": "壊れたパソコンが直りました。",
+    "exampleReading": "こわれたパソコンがなおりました。",
+    "exampleMeaning": "Komputer yang rusak sudah diperbaiki."
   },
   {
     "word": "水泳",
@@ -1150,9 +1920,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "renang",
-    "example": "水泳を使う例文です。",
-    "exampleReading": "すいえいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"renang\"."
+    "example": "夏は水泳が好きです。",
+    "exampleReading": "なつはすいえいがすきです。",
+    "exampleMeaning": "Musim panas, saya suka berenang."
   },
   {
     "word": "真中",
@@ -1161,9 +1931,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "tengah",
-    "example": "真中を使う例文です。",
-    "exampleReading": "まんなかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tengah\"."
+    "example": "部屋の真中にテーブルがあります。",
+    "exampleReading": "へやのまんなかにテーブルがあります。",
+    "exampleMeaning": "Ada meja di tengah-tengah ruangan."
   },
   {
     "word": "発音",
@@ -1172,9 +1942,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "pengucapan",
-    "example": "発音を使う例文です。",
-    "exampleReading": "はつおんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pengucapan\"."
+    "example": "発音を練習します。",
+    "exampleReading": "はつおんをれんしゅうします。",
+    "exampleMeaning": "Saya berlatih pengucapan."
   },
   {
     "word": "手伝う",
@@ -1183,9 +1953,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk membantu",
-    "example": "手伝うを使う例文です。",
-    "exampleReading": "てつだうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk membantu\"."
+    "example": "母を手伝います。",
+    "exampleReading": "ははをてつだいます。",
+    "exampleMeaning": "Saya membantu ibu."
   },
   {
     "word": "折れる",
@@ -1194,9 +1964,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk pecah atau terlipat",
-    "example": "折れるを使う例文です。",
-    "exampleReading": "おれるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk pecah atau terlipat\"."
+    "example": "木の枝が折れました。",
+    "exampleReading": "きのえだがおれました。",
+    "exampleMeaning": "Ranting pohon itu patah."
   },
   {
     "word": "一度",
@@ -1205,9 +1975,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "sekali",
-    "example": "一度を使う例文です。",
-    "exampleReading": "いちどをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sekali\"."
+    "example": "もう一度言ってください。",
+    "exampleReading": "もういちどいってください。",
+    "exampleMeaning": "Tolong katakan sekali lagi."
   },
   {
     "word": "高等学校",
@@ -1216,9 +1986,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "sekolah menengah atas",
-    "example": "高等学校を使う例文です。",
-    "exampleReading": "こうとうがっこうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sekolah menengah atas\"."
+    "example": "高等学校で日本語を学びました。",
+    "exampleReading": "こうとうがっこうでにほんごをまなびました。",
+    "exampleMeaning": "Saya belajar bahasa Jepang di SMA."
   },
   {
     "word": "アルコール",
@@ -1227,9 +1997,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "alkohol",
-    "example": "アルコールを使う例文です。",
-    "exampleReading": "アルコールをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"alkohol\"."
+    "example": "アルコールは飲みません。",
+    "exampleReading": "アルコールはのみません。",
+    "exampleMeaning": "Saya tidak minum alkohol."
   },
   {
     "word": "アナウンサー",
@@ -1238,9 +2008,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "penyiar",
-    "example": "アナウンサーを使う例文です。",
-    "exampleReading": "アナウンサーをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"penyiar\"."
+    "example": "彼女はアナウンサーです。",
+    "exampleReading": "かのじょはアナウンサーです。",
+    "exampleMeaning": "Dia adalah seorang penyiar."
   },
   {
     "word": "最初",
@@ -1249,9 +2019,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "mulai, pertama",
-    "example": "最初を使う例文です。",
-    "exampleReading": "さいしょをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mulai, pertama\"."
+    "example": "最初に自己紹介をします。",
+    "exampleReading": "さいしょにじこしょうかいをします。",
+    "exampleMeaning": "Pertama-tama saya akan memperkenalkan diri."
   },
   {
     "word": "投げる",
@@ -1260,9 +2030,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk membuang atau membuang",
-    "example": "投げるを使う例文です。",
-    "exampleReading": "なげるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk membuang atau membuang\"."
+    "example": "ボールを投げます。",
+    "exampleReading": "ボールをなげます。",
+    "exampleMeaning": "Saya melempar bola."
   },
   {
     "word": "変える",
@@ -1271,9 +2041,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk berubah",
-    "example": "変えるを使う例文です。",
-    "exampleReading": "かえるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk berubah\"."
+    "example": "予定を変えました。",
+    "exampleReading": "よていをかえました。",
+    "exampleMeaning": "Saya mengubah rencana."
   },
   {
     "word": "昼間",
@@ -1282,9 +2052,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "siang hari, siang hari",
-    "example": "昼間を使う例文です。",
-    "exampleReading": "ひるまをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"siang hari, siang hari\"."
+    "example": "昼間は暑いです。",
+    "exampleReading": "ひるまはあついです。",
+    "exampleMeaning": "Siang hari panas."
   },
   {
     "word": "神社",
@@ -1293,9 +2063,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "kuil Shinto",
-    "example": "神社を使う例文です。",
-    "exampleReading": "じんじゃをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kuil Shinto\"."
+    "example": "神社にお参りします。",
+    "exampleReading": "じんじゃにおまいりします。",
+    "exampleMeaning": "Saya berdoa di kuil Shinto."
   },
   {
     "word": "食料品",
@@ -1304,9 +2074,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "bahan makanan",
-    "example": "食料品を使う例文です。",
-    "exampleReading": "しょくりょうひんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bahan makanan\"."
+    "example": "食料品を買いに行きます。",
+    "exampleReading": "しょくりょうひんをかいにいきます。",
+    "exampleMeaning": "Saya pergi membeli bahan makanan."
   },
   {
     "word": "丁寧",
@@ -1315,9 +2085,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "sopan",
-    "example": "丁寧を使う例文です。",
-    "exampleReading": "ていねいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sopan\"."
+    "example": "丁寧に話してください。",
+    "exampleReading": "ていねいにはなしてください。",
+    "exampleMeaning": "Tolong bicara dengan sopan."
   },
   {
     "word": "規則",
@@ -1326,9 +2096,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "peraturan",
-    "example": "規則を使う例文です。",
-    "exampleReading": "きそくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"peraturan\"."
+    "example": "学校の規則を守ります。",
+    "exampleReading": "がっこうのきそくをまもります。",
+    "exampleMeaning": "Saya mematuhi peraturan sekolah."
   },
   {
     "word": "もうすぐ",
@@ -1337,9 +2107,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "segera",
-    "example": "もうすぐを使う例文です。",
-    "exampleReading": "もうすぐをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"segera\"."
+    "example": "もうすぐ春が来ます。",
+    "exampleReading": "もうすぐはるがきます。",
+    "exampleMeaning": "Sebentar lagi musim semi akan datang."
   },
   {
     "word": "絹",
@@ -1348,9 +2118,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "sutra",
-    "example": "絹を使う例文です。",
-    "exampleReading": "きぬをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sutra\"."
+    "example": "このシャツは絹でできています。",
+    "exampleReading": "このシャツはきぬでできています。",
+    "exampleMeaning": "Kemeja ini terbuat dari sutra."
   },
   {
     "word": "怒る",
@@ -1359,9 +2129,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "menjadi marah, menjadi marah",
-    "example": "怒るを使う例文です。",
-    "exampleReading": "おこるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menjadi marah, menjadi marah\"."
+    "example": "先生が怒りました。",
+    "exampleReading": "せんせいがおこりました。",
+    "exampleMeaning": "Guru itu marah."
   },
   {
     "word": "用",
@@ -1370,9 +2140,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "menggunakan",
-    "example": "用を使う例文です。",
-    "exampleReading": "ようをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menggunakan\"."
+    "example": "何か用ですか。",
+    "exampleReading": "なにかようですか。",
+    "exampleMeaning": "Ada keperluan apa?"
   },
   {
     "word": "致す",
@@ -1381,9 +2151,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "(rendah hati) untuk melakukan",
-    "example": "致すを使う例文です。",
-    "exampleReading": "いたすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(rendah hati) untuk melakukan\"."
+    "example": "よろしくお願い致します。",
+    "exampleReading": "よろしくおねがいいたします。",
+    "exampleMeaning": "Mohon bantuannya (formal)."
   },
   {
     "word": "海岸",
@@ -1392,9 +2162,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "pesisir",
-    "example": "海岸を使う例文です。",
-    "exampleReading": "かいがんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pesisir\"."
+    "example": "海岸を散歩します。",
+    "exampleReading": "かいがんをさんぽします。",
+    "exampleMeaning": "Saya berjalan-jalan di pantai."
   },
   {
     "word": "経済",
@@ -1403,9 +2173,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "keuangan, ekonomi",
-    "example": "経済を使う例文です。",
-    "exampleReading": "けいざいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"keuangan, ekonomi\"."
+    "example": "経済を勉強しています。",
+    "exampleReading": "けいざいをべんきょうしています。",
+    "exampleMeaning": "Saya belajar ekonomi."
   },
   {
     "word": "以上",
@@ -1414,9 +2184,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "lebih dari itu, ini saja",
-    "example": "以上を使う例文です。",
-    "exampleReading": "いじょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lebih dari itu, ini saja\"."
+    "example": "二十歳以上の人が使えます。",
+    "exampleReading": "はたちいじょうのひとがつかえます。",
+    "exampleMeaning": "Bisa digunakan oleh orang berusia 20 tahun ke atas."
   },
   {
     "word": "掛ける",
@@ -1425,9 +2195,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menggantung sesuatu",
-    "example": "掛けるを使う例文です。",
-    "exampleReading": "かけるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menggantung sesuatu\"."
+    "example": "壁に写真を掛けます。",
+    "exampleReading": "かべにしゃしんをかけます。",
+    "exampleMeaning": "Saya menggantung foto di dinding."
   },
   {
     "word": "届ける",
@@ -1436,9 +2206,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mencapai",
-    "example": "届けるを使う例文です。",
-    "exampleReading": "とどけるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mencapai\"."
+    "example": "荷物を届けます。",
+    "exampleReading": "にもつをとどけます。",
+    "exampleMeaning": "Saya mengirimkan paket."
   },
   {
     "word": "適当",
@@ -1447,9 +2217,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "kesesuaian",
-    "example": "適当を使う例文です。",
-    "exampleReading": "てきとうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kesesuaian\"."
+    "example": "適当な返事はやめてください。",
+    "exampleReading": "てきとうなへんじはやめてください。",
+    "exampleMeaning": "Tolong hentikan jawaban yang sembarangan."
   },
   {
     "word": "祖父",
@@ -1458,9 +2228,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "kakek",
-    "example": "祖父を使う例文です。",
-    "exampleReading": "そふをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kakek\"."
+    "example": "祖父は元気です。",
+    "exampleReading": "そふはげんきです。",
+    "exampleMeaning": "Kakek saya sehat."
   },
   {
     "word": "研究室",
@@ -1469,9 +2239,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "ruang belajar, laboratorium",
-    "example": "研究室を使う例文です。",
-    "exampleReading": "けんきゅうしつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ruang belajar, laboratorium\"."
+    "example": "研究室で実験します。",
+    "exampleReading": "けんきゅうしつでじっけんします。",
+    "exampleMeaning": "Saya melakukan eksperimen di laboratorium."
   },
   {
     "word": "文学",
@@ -1480,9 +2250,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "literatur",
-    "example": "文学を使う例文です。",
-    "exampleReading": "ぶんがくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"literatur\"."
+    "example": "日本文学が好きです。",
+    "exampleReading": "にほんぶんがくがすきです。",
+    "exampleMeaning": "Saya suka sastra Jepang."
   },
   {
     "word": "生きる",
@@ -1491,9 +2261,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk hidup",
-    "example": "生きるを使う例文です。",
-    "exampleReading": "いきるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk hidup\"."
+    "example": "長く生きたいです。",
+    "exampleReading": "ながくいきたいです。",
+    "exampleMeaning": "Saya ingin hidup panjang."
   },
   {
     "word": "それほど",
@@ -1502,9 +2272,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "sejauh itu",
-    "example": "それほどを使う例文です。",
-    "exampleReading": "それほどをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sejauh itu\"."
+    "example": "それほど難しくないです。",
+    "exampleReading": "それほどむずかしくないです。",
+    "exampleMeaning": "Tidak sesulit itu."
   },
   {
     "word": "うまい",
@@ -1513,9 +2283,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "lezat",
-    "example": "うまいを使う例文です。",
-    "exampleReading": "うまいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lezat\"."
+    "example": "この店の料理はうまいです。",
+    "exampleReading": "このみせのりょうりはうまいです。",
+    "exampleMeaning": "Masakan toko ini enak."
   },
   {
     "word": "ずいぶん",
@@ -1524,9 +2294,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "sangat",
-    "example": "ずいぶんを使う例文です。",
-    "exampleReading": "ずいぶんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sangat\"."
+    "example": "ずいぶん大きくなりましたね。",
+    "exampleReading": "ずいぶんおおきくなりましたね。",
+    "exampleMeaning": "Kamu sudah tumbuh besar sekali ya."
   },
   {
     "word": "お・金持ち",
@@ -1535,9 +2305,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "orang kaya",
-    "example": "お・金持ちを使う例文です。",
-    "exampleReading": "かねもち / おかねもちをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"orang kaya\"."
+    "example": "彼はお金持ちです。",
+    "exampleReading": "かれはおかねもちです。",
+    "exampleMeaning": "Dia orang kaya."
   },
   {
     "word": "続く",
@@ -1546,9 +2316,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk dilanjutkan",
-    "example": "続くを使う例文です。",
-    "exampleReading": "つづくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk dilanjutkan\"."
+    "example": "雨が三日間続きました。",
+    "exampleReading": "あめがみっかんつづきました。",
+    "exampleMeaning": "Hujan berlanjut selama tiga hari."
   },
   {
     "word": "受付",
@@ -1557,9 +2327,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "kuitansi",
-    "example": "受付を使う例文です。",
-    "exampleReading": "うけつけをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kuitansi\"."
+    "example": "受付で名前を書いてください。",
+    "exampleReading": "うけつけでなまえをかいてください。",
+    "exampleMeaning": "Tolong tulis nama Anda di resepsionis."
   },
   {
     "word": "代わり",
@@ -1568,9 +2338,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "pengganti, alternatif",
-    "example": "代わりを使う例文です。",
-    "exampleReading": "かわりをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pengganti, alternatif\"."
+    "example": "私の代わりに行ってください。",
+    "exampleReading": "わたしのかわりにいってください。",
+    "exampleMeaning": "Tolong pergi sebagai pengganti saya."
   },
   {
     "word": "残る",
@@ -1579,9 +2349,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk tetap",
-    "example": "残るを使う例文です。",
-    "exampleReading": "のこるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk tetap\"."
+    "example": "料理が少し残りました。",
+    "exampleReading": "りょうりがすこしのこりました。",
+    "exampleMeaning": "Makanannya masih tersisa sedikit."
   },
   {
     "word": "世話",
@@ -1590,9 +2360,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk menjaga",
-    "example": "世話を使う例文です。",
-    "exampleReading": "せわ・するをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menjaga\"."
+    "example": "子供の世話をします。",
+    "exampleReading": "こどものせわをします。",
+    "exampleMeaning": "Saya merawat anak."
   },
   {
     "word": "スーツケース",
@@ -1601,9 +2371,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "koper",
-    "example": "スーツケースを使う例文です。",
-    "exampleReading": "スーツケースをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"koper\"."
+    "example": "スーツケースに荷物を入れます。",
+    "exampleReading": "スーツケースににもつをいれます。",
+    "exampleMeaning": "Saya memasukkan barang ke dalam koper."
   },
   {
     "word": "くれる",
@@ -1612,9 +2382,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk memberi",
-    "example": "くれるを使う例文です。",
-    "exampleReading": "くれるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk memberi\"."
+    "example": "友達がプレゼントをくれました。",
+    "exampleReading": "ともだちがプレゼントをくれました。",
+    "exampleMeaning": "Teman saya memberi hadiah."
   },
   {
     "word": "会話",
@@ -1623,9 +2393,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "percakapan",
-    "example": "会話を使う例文です。",
-    "exampleReading": "かいわをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"percakapan\"."
+    "example": "英語で会話します。",
+    "exampleReading": "えいごでかいわします。",
+    "exampleMeaning": "Saya bercakap-cakap dalam bahasa Inggris."
   },
   {
     "word": "向かう",
@@ -1634,9 +2404,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menghadapi",
-    "example": "向かうを使う例文です。",
-    "exampleReading": "むかうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menghadapi\"."
+    "example": "駅に向かいます。",
+    "exampleReading": "えきにむかいます。",
+    "exampleMeaning": "Saya menuju ke stasiun."
   },
   {
     "word": "増える",
@@ -1645,9 +2415,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk meningkat",
-    "example": "増えるを使う例文です。",
-    "exampleReading": "ふえるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk meningkat\"."
+    "example": "人口が増えました。",
+    "exampleReading": "じんこうがふえました。",
+    "exampleMeaning": "Populasinya bertambah."
   },
   {
     "word": "紹介",
@@ -1656,9 +2426,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "perkenalan",
-    "example": "紹介を使う例文です。",
-    "exampleReading": "しょうかいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"perkenalan\"."
+    "example": "友達を紹介します。",
+    "exampleReading": "ともだちをしょうかいします。",
+    "exampleMeaning": "Saya memperkenalkan teman saya."
   },
   {
     "word": "だから",
@@ -1667,9 +2437,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "jadi, oleh karena itu",
-    "example": "だからを使う例文です。",
-    "exampleReading": "だからをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"jadi, oleh karena itu\"."
+    "example": "雨です。だから傘を持ちます。",
+    "exampleReading": "あめです。だからかさをもちます。",
+    "exampleMeaning": "Sedang hujan. Karena itu saya membawa payung."
   },
   {
     "word": "季節",
@@ -1678,9 +2448,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "musim",
-    "example": "季節を使う例文です。",
-    "exampleReading": "きせつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"musim\"."
+    "example": "好きな季節は秋です。",
+    "exampleReading": "すきなきせつはあきです。",
+    "exampleMeaning": "Musim favorit saya adalah musim gugur."
   },
   {
     "word": "そんなに",
@@ -1689,9 +2459,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "sangat banyak, seperti itu",
-    "example": "そんなにを使う例文です。",
-    "exampleReading": "そんなにをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sangat banyak, seperti itu\"."
+    "example": "そんなに心配しないでください。",
+    "exampleReading": "そんなにしんぱいしないでください。",
+    "exampleMeaning": "Jangan khawatir sebegitu banyak."
   },
   {
     "word": "このあいだ",
@@ -1700,9 +2470,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "beberapa hari yang lalu, baru-baru ini",
-    "example": "このあいだを使う例文です。",
-    "exampleReading": "このあいだをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"beberapa hari yang lalu, baru-baru ini\"."
+    "example": "このあいだ映画を見ました。",
+    "exampleReading": "このあいだえいがをみました。",
+    "exampleMeaning": "Beberapa hari lalu saya menonton film."
   },
   {
     "word": "虫",
@@ -1711,9 +2481,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "serangga",
-    "example": "虫を使う例文です。",
-    "exampleReading": "むしをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"serangga\"."
+    "example": "虫が嫌いです。",
+    "exampleReading": "むしがきらいです。",
+    "exampleMeaning": "Saya tidak suka serangga."
   },
   {
     "word": "祖母",
@@ -1722,9 +2492,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "nenek",
-    "example": "祖母を使う例文です。",
-    "exampleReading": "そぼをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"nenek\"."
+    "example": "祖母と料理を作りました。",
+    "exampleReading": "そぼとりょうりをつくりました。",
+    "exampleMeaning": "Saya memasak bersama nenek."
   },
   {
     "word": "いらっしゃる",
@@ -1733,9 +2503,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "(dengan hormat) menjadi, datang atau pergi",
-    "example": "いらっしゃるを使う例文です。",
-    "exampleReading": "いらっしゃるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(dengan hormat) menjadi, datang atau pergi\"."
+    "example": "先生はもういらっしゃいました。",
+    "exampleReading": "せんせいはもういらっしゃいました。",
+    "exampleMeaning": "Guru sudah datang (bentuk sopan)."
   },
   {
     "word": "変",
@@ -1744,9 +2514,9 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Benda",
     "meaning": "aneh",
-    "example": "変を使う例文です。",
-    "exampleReading": "へんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"aneh\"."
+    "example": "その話は変ですね。",
+    "exampleReading": "そのはなしはへんですね。",
+    "exampleMeaning": "Cerita itu aneh ya."
   },
   {
     "word": "ぶどう",
@@ -1755,9 +2525,779 @@ export const vocabData = [
     "level": "N4",
     "partOfSpeech": "Kata Kerja",
     "meaning": "anggur",
-    "example": "ぶどうを使う例文です。",
-    "exampleReading": "ぶどうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"anggur\"."
+    "example": "ぶどうを食べました。",
+    "exampleReading": "ぶどうをたべました。",
+    "exampleMeaning": "Saya makan anggur."
+  },
+  {
+    "word": "直す",
+    "reading": "なおす",
+    "romaji": "naosu",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "untuk memperbaiki, untuk memperbaiki",
+    "example": "間違いを直します。",
+    "exampleReading": "まちがいをなおします。",
+    "exampleMeaning": "Saya memperbaiki kesalahan."
+  },
+  {
+    "word": "世界",
+    "reading": "せかい",
+    "romaji": "sekai",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "dunia",
+    "example": "世界を旅行したいです。",
+    "exampleReading": "せかいをりょこうしたいです。",
+    "exampleMeaning": "Saya ingin berkeliling dunia."
+  },
+  {
+    "word": "食事",
+    "reading": "しょくじ・する",
+    "romaji": "shokuji-suru",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "untuk makan",
+    "example": "家族と食事をします。",
+    "exampleReading": "かぞくとしょくじをします。",
+    "exampleMeaning": "Saya makan bersama keluarga."
+  },
+  {
+    "word": "うそ",
+    "reading": "うそ",
+    "romaji": "uso",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sebuah kebohongan",
+    "example": "うそを言わないでください。",
+    "exampleReading": "うそをいわないでください。",
+    "exampleMeaning": "Jangan berbohong."
+  },
+  {
+    "word": "合う",
+    "reading": "あう",
+    "romaji": "au",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mencocokkan",
+    "example": "この色は服に合います。",
+    "exampleReading": "このいろはふくにあいます。",
+    "exampleMeaning": "Warna ini cocok dengan bajunya."
+  },
+  {
+    "word": "小鳥",
+    "reading": "ことり",
+    "romaji": "kotori",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "burung kecil",
+    "example": "小鳥が鳴いています。",
+    "exampleReading": "ことりがないています。",
+    "exampleMeaning": "Burung kecil itu berkicau."
+  },
+  {
+    "word": "電報",
+    "reading": "でんぽう",
+    "romaji": "denpō",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "telegram",
+    "example": "電報を送りました。",
+    "exampleReading": "でんぽうをおくりました。",
+    "exampleMeaning": "Saya mengirim telegram."
+  },
+  {
+    "word": "星",
+    "reading": "ほし",
+    "romaji": "hoshi",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bintang",
+    "example": "星がきれいに見えます。",
+    "exampleReading": "ほしがきれいにみえます。",
+    "exampleMeaning": "Bintangnya terlihat indah."
+  },
+  {
+    "word": "申す",
+    "reading": "もうす",
+    "romaji": "mōsu",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(rendah hati) untuk dipanggil, untuk mengatakan",
+    "example": "田中と申します。",
+    "exampleReading": "たなかともうします。",
+    "exampleMeaning": "Nama saya Tanaka (bentuk rendah hati)."
+  },
+  {
+    "word": "失敗",
+    "reading": "しっぱい",
+    "romaji": "shippai",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kegagalan, kesalahan",
+    "example": "テストに失敗しました。",
+    "exampleReading": "テストにしっぱいしました。",
+    "exampleMeaning": "Saya gagal dalam tes."
+  },
+  {
+    "word": "汽車",
+    "reading": "きしゃ",
+    "romaji": "kisha",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kereta uap",
+    "example": "汽車に乗りました。",
+    "exampleReading": "きしゃにのりました。",
+    "exampleMeaning": "Saya naik kereta uap."
+  },
+  {
+    "word": "下宿",
+    "reading": "げしゅく",
+    "romaji": "geshuku",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "penginapan",
+    "example": "大学の近くで下宿しています。",
+    "exampleReading": "だいがくのちかくでげしゅくしています。",
+    "exampleMeaning": "Saya tinggal di kos dekat universitas."
+  },
+  {
+    "word": "思う",
+    "reading": "おもう",
+    "romaji": "omō",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk berpikir, merasakan",
+    "example": "明日は雨だと思います。",
+    "exampleReading": "あしたはあめだとおもいます。",
+    "exampleMeaning": "Saya pikir besok akan hujan."
+  },
+  {
+    "word": "機会",
+    "reading": "きかい",
+    "romaji": "kikai",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "peluang",
+    "example": "いい機会だと思います。",
+    "exampleReading": "いいきかいだとおもいます。",
+    "exampleMeaning": "Saya pikir ini kesempatan yang bagus."
+  },
+  {
+    "word": "皆",
+    "reading": "みな",
+    "romaji": "mina",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "semua orang",
+    "example": "皆で写真を撮りましょう。",
+    "exampleReading": "みなでしゃしんをとりましょう。",
+    "exampleMeaning": "Ayo kita berfoto bersama-sama."
+  },
+  {
+    "word": "苦い",
+    "reading": "にがい",
+    "romaji": "nigai",
+    "level": "N4",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "pahit",
+    "example": "この薬は苦いです。",
+    "exampleReading": "このくすりはにがいです。",
+    "exampleMeaning": "Obat ini pahit."
+  },
+  {
+    "word": "特に",
+    "reading": "とくに",
+    "romaji": "tokuni",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "khususnya, khususnya",
+    "example": "特にこの映画が好きです。",
+    "exampleReading": "とくにこのえいががすきです。",
+    "exampleMeaning": "Saya khususnya suka film ini."
+  },
+  {
+    "word": "乾く",
+    "reading": "かわく",
+    "romaji": "kawaku",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "menjadi kering",
+    "example": "洗濯物が乾きました。",
+    "exampleReading": "せんたくものがかわきました。",
+    "exampleMeaning": "Cucian sudah kering."
+  },
+  {
+    "word": "葉",
+    "reading": "は",
+    "romaji": "ha",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "daun",
+    "example": "葉が緑色です。",
+    "exampleReading": "はがみどりいろです。",
+    "exampleMeaning": "Daunnya berwarna hijau."
+  },
+  {
+    "word": "かっこう",
+    "reading": "かっこう",
+    "romaji": "kakkō",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "penampilan",
+    "example": "変なかっこうをしています。",
+    "exampleReading": "へんなかっこうをしています。",
+    "exampleMeaning": "Dia berpenampilan aneh."
+  },
+  {
+    "word": "昼休み",
+    "reading": "ひるやすみ",
+    "romaji": "hiruyasumi",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "istirahat siang",
+    "example": "昼休みに散歩します。",
+    "exampleReading": "ひるやすみにさんぽします。",
+    "exampleMeaning": "Saya jalan-jalan saat istirahat siang."
+  },
+  {
+    "word": "以下",
+    "reading": "いか",
+    "romaji": "ika",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kurang dari",
+    "example": "千円以下で買えます。",
+    "exampleReading": "せんえんいかでかえます。",
+    "exampleMeaning": "Bisa dibeli dengan seribu yen ke bawah."
+  },
+  {
+    "word": "彼ら",
+    "reading": "かれら",
+    "romaji": "karera",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mereka",
+    "example": "彼らは友達です。",
+    "exampleReading": "かれらはともだちです。",
+    "exampleMeaning": "Mereka adalah teman-teman."
+  },
+  {
+    "word": "寄る",
+    "reading": "よる",
+    "romaji": "yoru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk dikunjungi",
+    "example": "帰りに本屋に寄ります。",
+    "exampleReading": "かえりにほんやによります。",
+    "exampleMeaning": "Saya mampir ke toko buku saat pulang."
+  },
+  {
+    "word": "字",
+    "reading": "じ",
+    "romaji": "ji",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "karakter",
+    "example": "字が小さいです。",
+    "exampleReading": "じがちいさいです。",
+    "exampleMeaning": "Hurufnya kecil."
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "romaji": "kibishii",
+    "level": "N4",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "ketat",
+    "example": "父は厳しいです。",
+    "exampleReading": "ちちはきびしいです。",
+    "exampleMeaning": "Ayah saya tegas."
+  },
+  {
+    "word": "優しい",
+    "reading": "やさしい",
+    "romaji": "yasashii",
+    "level": "N4",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "baik",
+    "example": "彼は優しい人です。",
+    "exampleReading": "かれはやさしいひとです。",
+    "exampleMeaning": "Dia orang yang baik."
+  },
+  {
+    "word": "たいてい",
+    "reading": "たいてい",
+    "romaji": "taitei",
+    "level": "N4",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "biasanya",
+    "example": "たいてい七時に起きます。",
+    "exampleReading": "たいていしちじにおきます。",
+    "exampleMeaning": "Biasanya saya bangun pukul tujuh."
+  },
+  {
+    "word": "花見",
+    "reading": "はなみ",
+    "romaji": "hanami",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "melihat bunga sakura",
+    "example": "花見に行きましょう。",
+    "exampleReading": "はなみにいきましょう。",
+    "exampleMeaning": "Ayo pergi melihat bunga sakura."
+  },
+  {
+    "word": "注射",
+    "reading": "ちゅうしゃ",
+    "romaji": "chūsha",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "injeksi",
+    "example": "注射をしました。",
+    "exampleReading": "ちゅうしゃをしました。",
+    "exampleMeaning": "Saya disuntik."
+  },
+  {
+    "word": "大分",
+    "reading": "だいぶ",
+    "romaji": "daibu",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sangat",
+    "example": "大分暖かくなりました。",
+    "exampleReading": "だいぶあたたかくなりました。",
+    "exampleMeaning": "Sudah cukup menghangat."
+  },
+  {
+    "word": "ベル",
+    "reading": "ベル",
+    "romaji": "beru",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bel",
+    "example": "ベルが鳴りました。",
+    "exampleReading": "ベルがなりました。",
+    "exampleMeaning": "Belnya berbunyi."
+  },
+  {
+    "word": "景色",
+    "reading": "けしき",
+    "romaji": "keshiki",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pemandangan, lanskap",
+    "example": "ここからの景色はきれいです。",
+    "exampleReading": "ここからのけしきはきれいです。",
+    "exampleMeaning": "Pemandangan dari sini indah."
+  },
+  {
+    "word": "しかる",
+    "reading": "しかる",
+    "romaji": "shikaru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "tertentu",
+    "example": "子供をしかりました。",
+    "exampleReading": "こどもをしかりました。",
+    "exampleMeaning": "Saya menegur anak itu."
+  },
+  {
+    "word": "日記",
+    "reading": "にっき",
+    "romaji": "nikki",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "jurnal",
+    "example": "毎日日記を書きます。",
+    "exampleReading": "まいにちにっきをかきます。",
+    "exampleMeaning": "Saya menulis jurnal setiap hari."
+  },
+  {
+    "word": "お礼",
+    "reading": "おれい",
+    "romaji": "orei",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "ungkapan rasa terima kasih",
+    "example": "お礼のメールを送りました。",
+    "exampleReading": "おれいのメールをおくりました。",
+    "exampleMeaning": "Saya mengirim email ucapan terima kasih."
+  },
+  {
+    "word": "集る",
+    "reading": "あつまる",
+    "romaji": "atsumaru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk berkumpul",
+    "example": "みんなが公園に集まりました。",
+    "exampleReading": "みんながこうえんにあつまりました。",
+    "exampleMeaning": "Semua orang berkumpul di taman."
+  },
+  {
+    "word": "大体",
+    "reading": "だいたい",
+    "romaji": "daitai",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "umumnya",
+    "example": "大体分かりました。",
+    "exampleReading": "だいたいわかりました。",
+    "exampleMeaning": "Saya sudah mengerti secara garis besar."
+  },
+  {
+    "word": "なるほど",
+    "reading": "なるほど",
+    "romaji": "naruhodo",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sekarang saya mengerti",
+    "example": "なるほど、そうですね。",
+    "exampleReading": "なるほど、そうですね。",
+    "exampleMeaning": "Oh begitu, benar juga."
+  },
+  {
+    "word": "公務員",
+    "reading": "こうむいん",
+    "romaji": "kōmuin",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pekerja pemerintah",
+    "example": "兄は公務員です。",
+    "exampleReading": "あにはこうむいんです。",
+    "exampleMeaning": "Kakak laki-laki saya adalah PNS."
+  },
+  {
+    "word": "警察",
+    "reading": "けいさつ",
+    "romaji": "keisatsu",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "POLISI",
+    "example": "警察に電話しました。",
+    "exampleReading": "けいさつにでんわしました。",
+    "exampleMeaning": "Saya menelepon polisi."
+  },
+  {
+    "word": "空気",
+    "reading": "くうき",
+    "romaji": "kūki",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "udara, atmosfer",
+    "example": "空気がきれいです。",
+    "exampleReading": "くうきがきれいです。",
+    "exampleMeaning": "Udaranya bersih."
+  },
+  {
+    "word": "周り",
+    "reading": "まわり",
+    "romaji": "mawari",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "lingkungan",
+    "example": "家の周りを歩きます。",
+    "exampleReading": "いえのまわりをあるきます。",
+    "exampleMeaning": "Saya berjalan di sekitar rumah."
+  },
+  {
+    "word": "汚れる",
+    "reading": "よごれる",
+    "romaji": "yogoreru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "menjadi kotor",
+    "example": "シャツが汚れました。",
+    "exampleReading": "シャツがよごれました。",
+    "exampleMeaning": "Kemejanya jadi kotor."
+  },
+  {
+    "word": "約束",
+    "reading": "やくそく",
+    "romaji": "yakusoku",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "janji",
+    "example": "友達と約束をしました。",
+    "exampleReading": "ともだちとやくそくをしました。",
+    "exampleMeaning": "Saya membuat janji dengan teman."
+  },
+  {
+    "word": "砂",
+    "reading": "すな",
+    "romaji": "suna",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pasir",
+    "example": "砂で遊びます。",
+    "exampleReading": "すなであそびます。",
+    "exampleMeaning": "Saya bermain pasir."
+  },
+  {
+    "word": "笑う",
+    "reading": "わらう",
+    "romaji": "warau",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "tertawa, tersenyum",
+    "example": "みんなで笑いました。",
+    "exampleReading": "みんなでわらいました。",
+    "exampleMeaning": "Kami semua tertawa bersama."
+  },
+  {
+    "word": "しっかり",
+    "reading": "しっかり",
+    "romaji": "shikkari",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tegas, mantap",
+    "example": "しっかり勉強してください。",
+    "exampleReading": "しっかりべんきょうしてください。",
+    "exampleMeaning": "Tolong belajar dengan sungguh-sungguh."
+  },
+  {
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "romaji": "jūsho",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "alamat, tempat tinggal",
+    "example": "住所を教えてください。",
+    "exampleReading": "じゅうしょをおしえてください。",
+    "exampleMeaning": "Tolong beri tahu alamat Anda."
+  },
+  {
+    "word": "すり",
+    "reading": "すり",
+    "romaji": "suri",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pencopet",
+    "example": "すりに気をつけてください。",
+    "exampleReading": "すりにきをつけてください。",
+    "exampleMeaning": "Waspadalah terhadap pencopet."
+  },
+  {
+    "word": "注意",
+    "reading": "ちゅうい",
+    "romaji": "chūi",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "peringatan",
+    "example": "車に注意してください。",
+    "exampleReading": "くるまにちゅういしてください。",
+    "exampleMeaning": "Tolong hati-hati dengan mobil."
+  },
+  {
+    "word": "仕方",
+    "reading": "しかた",
+    "romaji": "shikata",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "metode",
+    "example": "仕方がありません。",
+    "exampleReading": "しかたがありません。",
+    "exampleMeaning": "Tidak ada cara lain (tidak bisa dihindari)."
+  },
+  {
+    "word": "無理",
+    "reading": "むり",
+    "romaji": "muri",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mustahil",
+    "example": "今日は無理です。",
+    "exampleReading": "きょうはむりです。",
+    "exampleMeaning": "Hari ini tidak memungkinkan."
+  },
+  {
+    "word": "触る",
+    "reading": "さわる",
+    "romaji": "sawaru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk menyentuh",
+    "example": "展示品に触らないでください。",
+    "exampleReading": "てんじひんにさわらないでください。",
+    "exampleMeaning": "Tolong jangan menyentuh barang pameran."
+  },
+  {
+    "word": "押し入れ",
+    "reading": "おしいれ",
+    "romaji": "oshiire",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "lemari",
+    "example": "押し入れに布団をしまいます。",
+    "exampleReading": "おしいれにふとんをしまいます。",
+    "exampleMeaning": "Saya menyimpan futon di lemari built-in."
+  },
+  {
+    "word": "さ来月",
+    "reading": "さらいげつ",
+    "romaji": "saraigetsu",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bulan berikutnya",
+    "example": "さ来月引っ越します。",
+    "exampleReading": "さらいげつひっこします。",
+    "exampleMeaning": "Saya akan pindah rumah bulan depan-depan."
+  },
+  {
+    "word": "ビル",
+    "reading": "ビル",
+    "romaji": "biru",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bangunan atau tagihan",
+    "example": "高いビルが建ちました。",
+    "exampleReading": "たかいビルがたちました。",
+    "exampleMeaning": "Gedung tinggi telah dibangun."
+  },
+  {
+    "word": "歯医者",
+    "reading": "はいしゃ",
+    "romaji": "haisha",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "dokter gigi",
+    "example": "歯医者に行きます。",
+    "exampleReading": "はいしゃにいきます。",
+    "exampleMeaning": "Saya pergi ke dokter gigi."
+  },
+  {
+    "word": "知らせる",
+    "reading": "しらせる",
+    "romaji": "shiraseru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk memberi tahu",
+    "example": "結果を知らせます。",
+    "exampleReading": "けっかをしらせます。",
+    "exampleMeaning": "Saya akan memberi tahu hasilnya."
+  },
+  {
+    "word": "点",
+    "reading": "てん",
+    "romaji": "ten",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "titik, titik",
+    "example": "試験で百点を取りました。",
+    "exampleReading": "しけんでひゃくてんをとりました。",
+    "exampleMeaning": "Saya mendapat nilai seratus dalam ujian."
+  },
+  {
+    "word": "予定",
+    "reading": "よてい",
+    "romaji": "yotei",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pengaturan",
+    "example": "明日の予定を確認します。",
+    "exampleReading": "あしたのよていをかくにんします。",
+    "exampleMeaning": "Saya memeriksa rencana untuk besok."
+  },
+  {
+    "word": "火事",
+    "reading": "かじ",
+    "romaji": "kaji",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "api",
+    "example": "火事がありました。",
+    "exampleReading": "かじがありました。",
+    "exampleMeaning": "Ada kebakaran."
+  },
+  {
+    "word": "出席",
+    "reading": "しゅっせき・する",
+    "romaji": "shusseki-suru",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "untuk menghadiri",
+    "example": "会議に出席します。",
+    "exampleReading": "かいぎにしゅっせきします。",
+    "exampleMeaning": "Saya menghadiri rapat."
+  },
+  {
+    "word": "壁",
+    "reading": "かべ",
+    "romaji": "kabe",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "dinding",
+    "example": "壁に絵をかけます。",
+    "exampleReading": "かべにえをかけます。",
+    "exampleMeaning": "Saya menggantung lukisan di dinding."
+  },
+  {
+    "word": "植える",
+    "reading": "うえる",
+    "romaji": "ueru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "menanam, tumbuh",
+    "example": "庭に木を植えます。",
+    "exampleReading": "にわにきをうえます。",
+    "exampleMeaning": "Saya menanam pohon di halaman."
+  },
+  {
+    "word": "生産",
+    "reading": "せいさん・する",
+    "romaji": "seisan-suru",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "untuk menghasilkan",
+    "example": "この工場で車を生産します。",
+    "exampleReading": "このこうじょうでくるまをせいさんします。",
+    "exampleMeaning": "Pabrik ini memproduksi mobil."
+  },
+  {
+    "word": "法律",
+    "reading": "ほうりつ",
+    "romaji": "hōritsu",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "hukum",
+    "example": "法律を守らなければなりません。",
+    "exampleReading": "ほうりつをまもらなければなりません。",
+    "exampleMeaning": "Kita harus mematuhi hukum."
+  },
+  {
+    "word": "見つかる",
+    "reading": "みつかる",
+    "romaji": "mitsukaru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk ditemukan",
+    "example": "鍵が見つかりました。",
+    "exampleReading": "かぎがみつかりました。",
+    "exampleMeaning": "Kuncinya sudah ditemukan."
+  },
+  {
+    "word": "港",
+    "reading": "みなと",
+    "romaji": "minato",
+    "level": "N4",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pelabuhan",
+    "example": "港に船が着きました。",
+    "exampleReading": "みなとにふねがつきました。",
+    "exampleMeaning": "Kapal tiba di pelabuhan."
+  },
+  {
+    "word": "連れる",
+    "reading": "つれる",
+    "romaji": "tsureru",
+    "level": "N4",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk memimpin",
+    "example": "子供を動物園に連れて行きます。",
+    "exampleReading": "こどもをどうぶつえんにつれていきます。",
+    "exampleMeaning": "Saya membawa anak ke kebun binatang."
   },
   {
     "word": "合図",
@@ -1766,9 +3306,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tanda, isyarat",
-    "example": "合図を使う例文です。",
-    "exampleReading": "あいずをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tanda, isyarat\"."
+    "example": "出発の合図を送りました。",
+    "exampleReading": "しゅっぱつのあいずをおくりました。",
+    "exampleMeaning": "Saya memberikan tanda keberangkatan."
   },
   {
     "word": "清潔",
@@ -1777,9 +3317,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "membersihkan",
-    "example": "清潔を使う例文です。",
-    "exampleReading": "せいけつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"membersihkan\"."
+    "example": "部屋を清潔に保ちます。",
+    "exampleReading": "へやをせいけつにたもちます。",
+    "exampleMeaning": "Saya menjaga kamar agar tetap bersih."
   },
   {
     "word": "願い",
@@ -1788,9 +3328,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "keinginan, keinginan, permintaan",
-    "example": "願いを使う例文です。",
-    "exampleReading": "ねがいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"keinginan, keinginan, permintaan\"."
+    "example": "願いが叶いました。",
+    "exampleReading": "ねがいがかないました。",
+    "exampleMeaning": "Keinginan saya terwujud."
   },
   {
     "word": "幕",
@@ -1799,9 +3339,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tirai, bendera, akting (dalam permainan)",
-    "example": "幕を使う例文です。",
-    "exampleReading": "まくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tirai, bendera, akting (dalam permainan)\"."
+    "example": "芝居の幕が開きました。",
+    "exampleReading": "しばいのまくがあきました。",
+    "exampleMeaning": "Layar pertunjukan dibuka."
   },
   {
     "word": "馬",
@@ -1810,9 +3350,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "(1) kuda, (2) uskup yang dipromosikan (shogi)",
-    "example": "馬を使う例文です。",
-    "exampleReading": "うまをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(1) kuda, (2) uskup yang dipromosikan (shogi)\"."
+    "example": "馬に乗ります。",
+    "exampleReading": "うまにのります。",
+    "exampleMeaning": "Saya menaiki kuda."
   },
   {
     "word": "除く",
@@ -1821,9 +3361,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menghapus, mengecualikan, kecuali",
-    "example": "除くを使う例文です。",
-    "exampleReading": "のぞくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menghapus, mengecualikan, kecuali\"."
+    "example": "この問題を除いて全部できました。",
+    "exampleReading": "このもんだいをのぞいてぜんぶできました。",
+    "exampleMeaning": "Saya bisa mengerjakan semua kecuali soal ini."
   },
   {
     "word": "香り",
@@ -1832,9 +3372,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "aroma, wewangian, aroma, bau",
-    "example": "香りを使う例文です。",
-    "exampleReading": "かおりをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"aroma, wewangian, aroma, bau\"."
+    "example": "いい香りがします。",
+    "exampleReading": "いいかおりがします。",
+    "exampleMeaning": "Tercium aroma yang enak."
   },
   {
     "word": "歩道",
@@ -1843,9 +3383,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "jalan setapak, jalan setapak, trotoar",
-    "example": "歩道を使う例文です。",
-    "exampleReading": "ほどうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"jalan setapak, jalan setapak, trotoar\"."
+    "example": "歩道を歩いてください。",
+    "exampleReading": "ほどうをあるいてください。",
+    "exampleMeaning": "Tolong berjalan di trotoar."
   },
   {
     "word": "想像",
@@ -1854,9 +3394,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "imajinasi, tebak",
-    "example": "想像を使う例文です。",
-    "exampleReading": "そうぞうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"imajinasi, tebak\"."
+    "example": "未来を想像します。",
+    "exampleReading": "みらいをそうぞうします。",
+    "exampleMeaning": "Saya membayangkan masa depan."
   },
   {
     "word": "備える",
@@ -1865,9 +3405,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk melengkapi, menyediakan, melengkapi, memasang",
-    "example": "備えるを使う例文です。",
-    "exampleReading": "そなえるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk melengkapi, menyediakan, melengkapi, memasang\"."
+    "example": "地震に備えます。",
+    "exampleReading": "じしんにそなえます。",
+    "exampleMeaning": "Saya bersiap menghadapi gempa bumi."
   },
   {
     "word": "便",
@@ -1876,9 +3416,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "cara, berarti",
-    "example": "便を使う例文です。",
-    "exampleReading": "びんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"cara, berarti\"."
+    "example": "次の便に乗ります。",
+    "exampleReading": "つぎのびんにのります。",
+    "exampleMeaning": "Saya naik penerbangan berikutnya."
   },
   {
     "word": "ライター",
@@ -1887,9 +3427,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "lebih ringan, pengendara, penulis",
-    "example": "ライターを使う例文です。",
-    "exampleReading": "ライターをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lebih ringan, pengendara, penulis\"."
+    "example": "ライターで火をつけます。",
+    "exampleReading": "ライターでひをつけます。",
+    "exampleMeaning": "Saya menyalakan api dengan pemantik."
   },
   {
     "word": "平均",
@@ -1898,9 +3438,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "keseimbangan, keseimbangan, rata-rata, mean",
-    "example": "平均を使う例文です。",
-    "exampleReading": "へいきんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"keseimbangan, keseimbangan, rata-rata, mean\"."
+    "example": "平均点は七十点です。",
+    "exampleReading": "へいきんてんはななじゅってんです。",
+    "exampleMeaning": "Nilai rata-ratanya adalah tujuh puluh."
   },
   {
     "word": "革",
@@ -1909,9 +3449,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "kulit",
-    "example": "革を使う例文です。",
-    "exampleReading": "かわをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kulit\"."
+    "example": "革のバッグを買いました。",
+    "exampleReading": "かわのバッグをかいました。",
+    "exampleMeaning": "Saya membeli tas kulit."
   },
   {
     "word": "去る",
@@ -1920,9 +3460,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk pergi, untuk pergi",
-    "example": "去るを使う例文です。",
-    "exampleReading": "さるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk pergi, untuk pergi\"."
+    "example": "彼は町を去りました。",
+    "exampleReading": "かれはまちをさりました。",
+    "exampleMeaning": "Dia meninggalkan kota."
   },
   {
     "word": "礼儀",
@@ -1931,9 +3471,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "sopan santun, sopan santun, etiket",
-    "example": "礼儀を使う例文です。",
-    "exampleReading": "れいぎをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sopan santun, sopan santun, etiket\"."
+    "example": "礼儀を守ることが大切です。",
+    "exampleReading": "れいぎをまもることがたいせつです。",
+    "exampleMeaning": "Penting untuk menjaga sopan santun."
   },
   {
     "word": "意思",
@@ -1942,9 +3482,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "niat, tujuan",
-    "example": "意思を使う例文です。",
-    "exampleReading": "いしをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"niat, tujuan\"."
+    "example": "自分の意思を伝えます。",
+    "exampleReading": "じぶんのいしをつたえます。",
+    "exampleMeaning": "Saya menyampaikan maksud saya sendiri."
   },
   {
     "word": "全く",
@@ -1953,9 +3493,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "sungguh, sungguh, seluruhnya, sepenuhnya",
-    "example": "全くを使う例文です。",
-    "exampleReading": "まったくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sungguh, sungguh, seluruhnya, sepenuhnya\"."
+    "example": "全く分かりません。",
+    "exampleReading": "まったくわかりません。",
+    "exampleMeaning": "Saya benar-benar tidak mengerti."
   },
   {
     "word": "中央",
@@ -1964,9 +3504,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tengah, tengah, tengah, tengah",
-    "example": "中央を使う例文です。",
-    "exampleReading": "ちゅうおうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tengah, tengah, tengah, tengah\"."
+    "example": "駅の中央に時計があります。",
+    "exampleReading": "えきのちゅうおうにとけいがあります。",
+    "exampleMeaning": "Ada jam di tengah stasiun."
   },
   {
     "word": "歓迎",
@@ -1975,9 +3515,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "selamat datang, resepsi",
-    "example": "歓迎を使う例文です。",
-    "exampleReading": "かんげいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"selamat datang, resepsi\"."
+    "example": "新入生を歓迎します。",
+    "exampleReading": "しんにゅうせいをかんげいします。",
+    "exampleMeaning": "Kami menyambut siswa baru."
   },
   {
     "word": "輸出",
@@ -1986,9 +3526,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "ekspor",
-    "example": "輸出を使う例文です。",
-    "exampleReading": "ゆしゅつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ekspor\"."
+    "example": "車を海外に輸出します。",
+    "exampleReading": "くるまをかいがいにゆしゅつします。",
+    "exampleMeaning": "Kami mengekspor mobil ke luar negeri."
   },
   {
     "word": "喉",
@@ -1997,9 +3537,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tenggorokan",
-    "example": "喉を使う例文です。",
-    "exampleReading": "のどをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tenggorokan\"."
+    "example": "喉が痛いです。",
+    "exampleReading": "のどがいたいです。",
+    "exampleMeaning": "Tenggorokan saya sakit."
   },
   {
     "word": "間",
@@ -2008,9 +3548,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "ruang, ruangan, waktu, jeda",
-    "example": "間を使う例文です。",
-    "exampleReading": "まをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ruang, ruangan, waktu, jeda\"."
+    "example": "会議までまだ間があります。",
+    "exampleReading": "かいぎまでまだまがあります。",
+    "exampleMeaning": "Masih ada waktu sebelum rapat."
   },
   {
     "word": "修正",
@@ -2019,9 +3559,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "amandemen, koreksi, revisi, modifikasi",
-    "example": "修正を使う例文です。",
-    "exampleReading": "しゅうせいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"amandemen, koreksi, revisi, modifikasi\"."
+    "example": "文章を修正します。",
+    "exampleReading": "ぶんしょうをしゅうせいします。",
+    "exampleMeaning": "Saya merevisi teks."
   },
   {
     "word": "記念",
@@ -2030,9 +3570,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "peringatan, kenangan",
-    "example": "記念を使う例文です。",
-    "exampleReading": "きねんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"peringatan, kenangan\"."
+    "example": "結婚記念日を祝います。",
+    "exampleReading": "けっこんきねんびをいわいます。",
+    "exampleMeaning": "Kami merayakan hari jadi pernikahan."
   },
   {
     "word": "震える",
@@ -2041,9 +3581,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "menggigil, gemetar, gemetar",
-    "example": "震えるを使う例文です。",
-    "exampleReading": "ふるえるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menggigil, gemetar, gemetar\"."
+    "example": "寒くて体が震えます。",
+    "exampleReading": "さむくてからだがふるえます。",
+    "exampleMeaning": "Tubuh saya menggigil karena dingin."
   },
   {
     "word": "一家",
@@ -2052,9 +3592,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "rumah, rumah, keluarga, rumah tangga",
-    "example": "一家を使う例文です。",
-    "exampleReading": "いっかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"rumah, rumah, keluarga, rumah tangga\"."
+    "example": "一家で旅行に行きます。",
+    "exampleReading": "いっかでりょこうにいきます。",
+    "exampleMeaning": "Kami pergi berlibur sekeluarga."
   },
   {
     "word": "活動",
@@ -2063,9 +3603,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tindakan, aktivitas",
-    "example": "活動を使う例文です。",
-    "exampleReading": "かつどうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tindakan, aktivitas\"."
+    "example": "環境保護の活動に参加します。",
+    "exampleReading": "かんきょうほごのかつどうにさんかします。",
+    "exampleMeaning": "Saya berpartisipasi dalam kegiatan pelestarian lingkungan."
   },
   {
     "word": "少年",
@@ -2074,9 +3614,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "anak laki-laki, remaja",
-    "example": "少年を使う例文です。",
-    "exampleReading": "しょうねんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"anak laki-laki, remaja\"."
+    "example": "その少年はサッカーが好きです。",
+    "exampleReading": "そのしょうねんはサッカーがすきです。",
+    "exampleMeaning": "Anak laki-laki itu suka sepak bola."
   },
   {
     "word": "ダンス",
@@ -2085,9 +3625,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "menari",
-    "example": "ダンスを使う例文です。",
-    "exampleReading": "ダンスをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menari\"."
+    "example": "ダンスを習っています。",
+    "exampleReading": "ダンスをならっています。",
+    "exampleMeaning": "Saya sedang belajar menari."
   },
   {
     "word": "違い",
@@ -2096,9 +3636,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "perbedaan, kesenjangan",
-    "example": "違いを使う例文です。",
-    "exampleReading": "ちがいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"perbedaan, kesenjangan\"."
+    "example": "二つの意見に違いがあります。",
+    "exampleReading": "ふたつのいけんにちがいがあります。",
+    "exampleMeaning": "Ada perbedaan di antara dua pendapat itu."
   },
   {
     "word": "週",
@@ -2107,9 +3647,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "pekan",
-    "example": "週を使う例文です。",
-    "exampleReading": "しゅうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pekan\"."
+    "example": "週に二回運動します。",
+    "exampleReading": "しゅうにかいうんどうします。",
+    "exampleMeaning": "Saya berolahraga dua kali dalam seminggu."
   },
   {
     "word": "だが",
@@ -2118,9 +3658,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "",
-    "example": "だがを使う例文です。",
-    "exampleReading": "だがをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"\"."
+    "example": "高いです。だが、質がいいです。",
+    "exampleReading": "たかいです。だが、しつがいいです。",
+    "exampleMeaning": "Mahal. Tetapi, kualitasnya bagus."
   },
   {
     "word": "適用",
@@ -2129,9 +3669,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "melamar",
-    "example": "適用を使う例文です。",
-    "exampleReading": "てきようをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"melamar\"."
+    "example": "新しい規則が適用されます。",
+    "exampleReading": "あたらしいきそくがてきようされます。",
+    "exampleMeaning": "Peraturan baru akan diterapkan."
   },
   {
     "word": "刈る",
@@ -2140,9 +3680,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "memotong (rambut), memotong (rumput), memanen",
-    "example": "刈るを使う例文です。",
-    "exampleReading": "かるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"memotong (rambut), memotong (rumput), memanen\"."
+    "example": "庭の草を刈ります。",
+    "exampleReading": "にわのくさをかります。",
+    "exampleMeaning": "Saya memotong rumput di halaman."
   },
   {
     "word": "批判",
@@ -2151,9 +3691,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "kritik, penilaian, komentar",
-    "example": "批判を使う例文です。",
-    "exampleReading": "ひはんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kritik, penilaian, komentar\"."
+    "example": "政府を批判します。",
+    "exampleReading": "せいふをひはんします。",
+    "exampleMeaning": "Mereka mengkritik pemerintah."
   },
   {
     "word": "場",
@@ -2162,9 +3702,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tempat, bidang (fisika)",
-    "example": "場を使う例文です。",
-    "exampleReading": "ばをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tempat, bidang (fisika)\"."
+    "example": "その場で決めます。",
+    "exampleReading": "そのばできめます。",
+    "exampleMeaning": "Saya memutuskan di tempat itu juga."
   },
   {
     "word": "何か",
@@ -2173,9 +3713,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "sesuatu",
-    "example": "何かを使う例文です。",
-    "exampleReading": "なにかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sesuatu\"."
+    "example": "何か食べたいです。",
+    "exampleReading": "なにかたべたいです。",
+    "exampleMeaning": "Saya ingin makan sesuatu."
   },
   {
     "word": "利口",
@@ -2184,9 +3724,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "pandai, lihai, cemerlang, tajam, bijaksana, cerdas",
-    "example": "利口を使う例文です。",
-    "exampleReading": "りこうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pandai, lihai, cemerlang, tajam, bijaksana, cerdas\"."
+    "example": "あの犬は利口です。",
+    "exampleReading": "あのいぬはりこうです。",
+    "exampleMeaning": "Anjing itu pandai."
   },
   {
     "word": "ちょうだい",
@@ -2195,9 +3735,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "(1) tolong lakukan untuk saya (didahului dengan -te), (2) penerimaan, diberikan, dapatkan",
-    "example": "ちょうだいを使う例文です。",
-    "exampleReading": "ちょうだいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(1) tolong lakukan untuk saya (didahului dengan -te), (2) penerimaan, diberikan, dapatkan\"."
+    "example": "それ、ちょうだい。",
+    "exampleReading": "それ、ちょうだい。",
+    "exampleMeaning": "Tolong berikan itu."
   },
   {
     "word": "味方",
@@ -2206,9 +3746,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "teman, sekutu, pendukung",
-    "example": "味方を使う例文です。",
-    "exampleReading": "みかたをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"teman, sekutu, pendukung\"."
+    "example": "彼はいつも私の味方です。",
+    "exampleReading": "かれはいつもわたしのみかたです。",
+    "exampleMeaning": "Dia selalu berada di pihak saya."
   },
   {
     "word": "局",
@@ -2217,9 +3757,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "nyonya istana, nyonya yang menunggu",
-    "example": "局を使う例文です。",
-    "exampleReading": "きょくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"nyonya istana, nyonya yang menunggu\"."
+    "example": "そのニュースはテレビ局から発表されました。",
+    "exampleReading": "そのニュースはテレビきょくからはっぴょうされました。",
+    "exampleMeaning": "Berita itu diumumkan oleh stasiun televisi."
   },
   {
     "word": "恋人",
@@ -2228,9 +3768,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "kekasih, sayang",
-    "example": "恋人を使う例文です。",
-    "exampleReading": "こいびとをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kekasih, sayang\"."
+    "example": "彼女は私の恋人です。",
+    "exampleReading": "かのじょはわたしのこいびとです。",
+    "exampleMeaning": "Dia adalah pacar saya."
   },
   {
     "word": "カー",
@@ -2239,9 +3779,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "mobil",
-    "example": "カーを使う例文です。",
-    "exampleReading": "カーをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mobil\"."
+    "example": "レンタカーを借りました。",
+    "exampleReading": "レンタカーをかりました。",
+    "exampleMeaning": "Saya menyewa mobil sewaan."
   },
   {
     "word": "軍隊",
@@ -2250,9 +3790,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tentara, pasukan",
-    "example": "軍隊を使う例文です。",
-    "exampleReading": "ぐんたいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tentara, pasukan\"."
+    "example": "軍隊に入りました。",
+    "exampleReading": "ぐんたいにはいりました。",
+    "exampleMeaning": "Dia masuk militer."
   },
   {
     "word": "運",
@@ -2261,9 +3801,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "keberuntungan, keberuntungan",
-    "example": "運を使う例文です。",
-    "exampleReading": "うんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"keberuntungan, keberuntungan\"."
+    "example": "今日は運がいいです。",
+    "exampleReading": "きょうはうんがいいです。",
+    "exampleMeaning": "Hari ini keberuntungan saya baik."
   },
   {
     "word": "責任",
@@ -2272,9 +3812,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tugas, tanggung jawab",
-    "example": "責任を使う例文です。",
-    "exampleReading": "せきにんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tugas, tanggung jawab\"."
+    "example": "自分の責任を果たします。",
+    "exampleReading": "じぶんのせきにんをはたします。",
+    "exampleMeaning": "Saya menjalankan tanggung jawab saya."
   },
   {
     "word": "両替",
@@ -2283,9 +3823,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "kembalian, penukaran uang",
-    "example": "両替を使う例文です。",
-    "exampleReading": "りょうがえをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kembalian, penukaran uang\"."
+    "example": "お金を両替します。",
+    "exampleReading": "おかねをりょうがえします。",
+    "exampleMeaning": "Saya menukar uang."
   },
   {
     "word": "伸びる",
@@ -2294,9 +3834,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk meregangkan, untuk memperpanjang, untuk membuat kemajuan, untuk tumbuh (jenggot, tinggi badan)",
-    "example": "伸びるを使う例文です。",
-    "exampleReading": "のびるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk meregangkan, untuk memperpanjang, untuk membuat kemajuan, untuk tumbuh (jenggot, tinggi badan)\"."
+    "example": "髪が伸びました。",
+    "exampleReading": "かみがのびました。",
+    "exampleMeaning": "Rambutnya sudah tumbuh panjang."
   },
   {
     "word": "平和",
@@ -2305,9 +3845,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "kedamaian, harmoni",
-    "example": "平和を使う例文です。",
-    "exampleReading": "へいわをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kedamaian, harmoni\"."
+    "example": "世界の平和を願います。",
+    "exampleReading": "せかいのへいわをねがいます。",
+    "exampleMeaning": "Saya berharap perdamaian dunia."
   },
   {
     "word": "サービス",
@@ -2316,9 +3856,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "(1) jasa, sistem pendukung, (2) barang atau jasa tanpa dipungut biaya",
-    "example": "サービスを使う例文です。",
-    "exampleReading": "サービスをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(1) jasa, sistem pendukung, (2) barang atau jasa tanpa dipungut biaya\"."
+    "example": "このホテルのサービスはいいです。",
+    "exampleReading": "このホテルのサービスはいいです。",
+    "exampleMeaning": "Layanan hotel ini bagus."
   },
   {
     "word": "伺う",
@@ -2326,10 +3866,10 @@ export const vocabData = [
     "romaji": "ukagau",
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
-    "meaning": "(hon) mengunjungi, bertanya, menanyakan",
-    "example": "伺うを使う例文です。",
-    "exampleReading": "うかがうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(hon) mengunjungi, bertanya, menanyakan\"."
+    "meaning": "(hon) mengunjungi, bertanya, bertanya",
+    "example": "お宅に伺います。",
+    "exampleReading": "おたくにうかがいます。",
+    "exampleMeaning": "Saya akan berkunjung ke rumah Anda."
   },
   {
     "word": "経由",
@@ -2338,9 +3878,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "omong-omong, melalui",
-    "example": "経由を使う例文です。",
-    "exampleReading": "けいゆをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"omong-omong, melalui\"."
+    "example": "東京経由で大阪に行きます。",
+    "exampleReading": "とうきょうけいゆでおおさかにいきます。",
+    "exampleMeaning": "Saya pergi ke Osaka melalui Tokyo."
   },
   {
     "word": "浴びる",
@@ -2349,9 +3889,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "mandi, berjemur di bawah sinar matahari, mandi",
-    "example": "浴びるを使う例文です。",
-    "exampleReading": "あびるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mandi, berjemur di bawah sinar matahari, mandi\"."
+    "example": "日光を浴びます。",
+    "exampleReading": "にっこうをあびます。",
+    "exampleMeaning": "Saya berjemur di bawah sinar matahari."
   },
   {
     "word": "売れる",
@@ -2360,9 +3900,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk dijual",
-    "example": "売れるを使う例文です。",
-    "exampleReading": "うれるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk dijual\"."
+    "example": "この本はよく売れています。",
+    "exampleReading": "このほんはよくうれています。",
+    "exampleMeaning": "Buku ini terjual dengan baik."
   },
   {
     "word": "国境",
@@ -2371,9 +3911,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "batas negara atau negara",
-    "example": "国境を使う例文です。",
-    "exampleReading": "こっきょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"batas negara atau negara\"."
+    "example": "二つの国境を越えました。",
+    "exampleReading": "ふたつのこっきょうをこえました。",
+    "exampleMeaning": "Saya melewati perbatasan dua negara."
   },
   {
     "word": "昼食",
@@ -2382,9 +3922,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "makan siang, makan siang",
-    "example": "昼食を使う例文です。",
-    "exampleReading": "ちゅうしょくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"makan siang, makan siang\"."
+    "example": "昼食を食べましょう。",
+    "exampleReading": "ちゅうしょくをたべましょう。",
+    "exampleMeaning": "Ayo kita makan siang."
   },
   {
     "word": "クラシック",
@@ -2393,9 +3933,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "klasik",
-    "example": "クラシックを使う例文です。",
-    "exampleReading": "クラシックをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"klasik\"."
+    "example": "クラシック音楽を聞きます。",
+    "exampleReading": "クラシックおんがくをききます。",
+    "exampleMeaning": "Saya mendengarkan musik klasik."
   },
   {
     "word": "弁当",
@@ -2404,9 +3944,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "kotak makan siang",
-    "example": "弁当を使う例文です。",
-    "exampleReading": "べんとうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kotak makan siang\"."
+    "example": "弁当を持って行きます。",
+    "exampleReading": "べんとうをもっていきます。",
+    "exampleMeaning": "Saya membawa bekal makan siang."
   },
   {
     "word": "飽きる",
@@ -2415,9 +3955,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "menjadi lelah, kehilangan minat, merasa cukup",
-    "example": "飽きるを使う例文です。",
-    "exampleReading": "あきるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menjadi lelah, kehilangan minat, merasa cukup\"."
+    "example": "同じ食べ物に飽きました。",
+    "exampleReading": "おなじたべものにあきました。",
+    "exampleMeaning": "Saya bosan dengan makanan yang sama."
   },
   {
     "word": "手間",
@@ -2426,9 +3966,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "waktu, tenaga kerja",
-    "example": "手間を使う例文です。",
-    "exampleReading": "てまをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"waktu, tenaga kerja\"."
+    "example": "この料理は手間がかかります。",
+    "exampleReading": "このりょうりはてまがかかります。",
+    "exampleMeaning": "Masakan ini membutuhkan banyak usaha."
   },
   {
     "word": "効く",
@@ -2437,9 +3977,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Kerja",
     "meaning": "menjadi efektif",
-    "example": "効くを使う例文です。",
-    "exampleReading": "きくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menjadi efektif\"."
+    "example": "この薬はよく効きます。",
+    "exampleReading": "このくすりはよくききます。",
+    "exampleMeaning": "Obat ini sangat efektif."
   },
   {
     "word": "逮捕",
@@ -2448,9 +3988,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "penangkapan, penangkapan, penangkapan",
-    "example": "逮捕を使う例文です。",
-    "exampleReading": "たいほをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"penangkapan, penangkapan, penangkapan\"."
+    "example": "犯人が逮捕されました。",
+    "exampleReading": "はんにんがたいほされました。",
+    "exampleMeaning": "Pelakunya telah ditangkap."
   },
   {
     "word": "批評",
@@ -2459,9 +3999,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "kritik, ulasan, komentar",
-    "example": "批評を使う例文です。",
-    "exampleReading": "ひひょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kritik, ulasan, komentar\"."
+    "example": "映画の批評を読みました。",
+    "exampleReading": "えいがのひひょうをよみました。",
+    "exampleMeaning": "Saya membaca ulasan film itu."
   },
   {
     "word": "のんびり",
@@ -2470,9 +4010,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "riang, di waktu senggang",
-    "example": "のんびりを使う例文です。",
-    "exampleReading": "のんびりをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"riang, di waktu senggang\"."
+    "example": "休みの日はのんびり過ごします。",
+    "exampleReading": "やすみのひはのんびりすごします。",
+    "exampleMeaning": "Di hari libur saya bersantai."
   },
   {
     "word": "管",
@@ -2481,9 +4021,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "pipa, tabung",
-    "example": "管を使う例文です。",
-    "exampleReading": "くだをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pipa, tabung\"."
+    "example": "水の管が壊れました。",
+    "exampleReading": "みずのくだがこわれました。",
+    "exampleMeaning": "Pipa air itu rusak."
   },
   {
     "word": "回す",
@@ -2492,9 +4032,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk berputar, berputar",
-    "example": "回すを使う例文です。",
-    "exampleReading": "まわすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk berputar, berputar\"."
+    "example": "ハンドルを回します。",
+    "exampleReading": "ハンドルをまわします。",
+    "exampleMeaning": "Saya memutar setir."
   },
   {
     "word": "板",
@@ -2503,9 +4043,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "papan, papan",
-    "example": "板を使う例文です。",
-    "exampleReading": "いたをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"papan, papan\"."
+    "example": "木の板で作ります。",
+    "exampleReading": "きのいたでつくります。",
+    "exampleMeaning": "Saya membuatnya dari papan kayu."
   },
   {
     "word": "冒険",
@@ -2514,9 +4054,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "risiko, usaha, petualangan",
-    "example": "冒険を使う例文です。",
-    "exampleReading": "ぼうけんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"risiko, usaha, petualangan\"."
+    "example": "冒険が好きです。",
+    "exampleReading": "ぼうけんがすきです。",
+    "exampleMeaning": "Saya suka petualangan."
   },
   {
     "word": "周囲",
@@ -2525,9 +4065,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "lingkungan sekitar, keliling, lingkungan sekitar",
-    "example": "周囲を使う例文です。",
-    "exampleReading": "しゅういをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lingkungan sekitar, keliling, lingkungan sekitar\"."
+    "example": "周囲の意見を聞きます。",
+    "exampleReading": "しゅういのいけんをききます。",
+    "exampleMeaning": "Saya mendengarkan pendapat orang-orang sekitar."
   },
   {
     "word": "わがまま",
@@ -2536,9 +4076,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "keegoisan, keegoisan, kepalsuan, ketidaktaatan, tingkah",
-    "example": "わがままを使う例文です。",
-    "exampleReading": "わがままをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"keegoisan, keegoisan, kepalsuan, ketidaktaatan, tingkah\"."
+    "example": "わがままを言わないでください。",
+    "exampleReading": "わがままをいわないでください。",
+    "exampleMeaning": "Tolong jangan bersikap egois."
   },
   {
     "word": "乗客",
@@ -2547,9 +4087,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "penumpang",
-    "example": "乗客を使う例文です。",
-    "exampleReading": "じょうきゃくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"penumpang\"."
+    "example": "乗客が電車に乗ります。",
+    "exampleReading": "じょうきゃくがでんしゃにのります。",
+    "exampleMeaning": "Para penumpang naik kereta."
   },
   {
     "word": "勝ち",
@@ -2558,9 +4098,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "menang, kemenangan",
-    "example": "勝ちを使う例文です。",
-    "exampleReading": "かちをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menang, kemenangan\"."
+    "example": "今日の試合は私たちの勝ちです。",
+    "exampleReading": "きょうのしあいはわたしたちのかちです。",
+    "exampleMeaning": "Pertandingan hari ini adalah kemenangan kami."
   },
   {
     "word": "曜日",
@@ -2569,9 +4109,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "hari dalam seminggu",
-    "example": "曜日を使う例文です。",
-    "exampleReading": "ようびをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hari dalam seminggu\"."
+    "example": "今日は何曜日ですか。",
+    "exampleReading": "きょうはなんようびですか。",
+    "exampleMeaning": "Hari ini hari apa?"
   },
   {
     "word": "関心",
@@ -2580,9 +4120,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "kekhawatiran, minat",
-    "example": "関心を使う例文です。",
-    "exampleReading": "かんしんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kekhawatiran, minat\"."
+    "example": "政治に関心があります。",
+    "exampleReading": "せいじにかんしんがあります。",
+    "exampleMeaning": "Saya tertarik pada politik."
   },
   {
     "word": "棒",
@@ -2591,9 +4131,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "tiang, batang, tongkat",
-    "example": "棒を使う例文です。",
-    "exampleReading": "ぼうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tiang, batang, tongkat\"."
+    "example": "棒で叩きます。",
+    "exampleReading": "ぼうでたたきます。",
+    "exampleMeaning": "Saya memukul dengan tongkat."
   },
   {
     "word": "更に",
@@ -2602,9 +4142,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "lebih jauh lagi, sekali lagi, lagi pula, lebih dan lebih lagi",
-    "example": "更にを使う例文です。",
-    "exampleReading": "さらにをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lebih jauh lagi, sekali lagi, lagi pula, lebih dan lebih lagi\"."
+    "example": "更に努力します。",
+    "exampleReading": "さらにどりょくします。",
+    "exampleMeaning": "Saya akan berusaha lebih keras lagi."
   },
   {
     "word": "いえ",
@@ -2613,9 +4153,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "TODO sama dengan いいえ?",
-    "example": "いえを使う例文です。",
-    "exampleReading": "いえをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"TODO sama dengan いいえ?\"."
+    "example": "いえ、違います。",
+    "exampleReading": "いえ、ちがいます。",
+    "exampleMeaning": "Bukan, itu salah."
   },
   {
     "word": "地球",
@@ -2624,9 +4164,9 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "bumi",
-    "example": "地球を使う例文です。",
-    "exampleReading": "ちきゅうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bumi\"."
+    "example": "地球は丸いです。",
+    "exampleReading": "ちきゅうはまるいです。",
+    "exampleMeaning": "Bumi itu bulat."
   },
   {
     "word": "担当",
@@ -2635,9 +4175,779 @@ export const vocabData = [
     "level": "N3",
     "partOfSpeech": "Kata Benda",
     "meaning": "(dalam) biaya",
-    "example": "担当を使う例文です。",
-    "exampleReading": "たんとうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(dalam) biaya\"."
+    "example": "この仕事は私が担当します。",
+    "exampleReading": "このしごとはわたしがたんとうします。",
+    "exampleMeaning": "Saya yang bertanggung jawab atas pekerjaan ini."
+  },
+  {
+    "word": "直",
+    "reading": "じき",
+    "romaji": "jiki",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sungguh-sungguh, segera, tepat",
+    "example": "直に帰ります。",
+    "exampleReading": "じきにかえります。",
+    "exampleMeaning": "Saya akan segera pulang."
+  },
+  {
+    "word": "お昼",
+    "reading": "おひる",
+    "romaji": "ohiru",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "makan siang, siang",
+    "example": "お昼を食べましたか。",
+    "exampleReading": "おひるをたべましたか。",
+    "exampleMeaning": "Apakah Anda sudah makan siang?"
+  },
+  {
+    "word": "建設",
+    "reading": "けんせつ",
+    "romaji": "kensetsu",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "konstruksi, pendirian",
+    "example": "新しいビルを建設します。",
+    "exampleReading": "あたらしいビルをけんせつします。",
+    "exampleMeaning": "Mereka membangun gedung baru."
+  },
+  {
+    "word": "頬",
+    "reading": "ほほ",
+    "romaji": "hoho",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pipi (wajah)",
+    "example": "頬が赤くなりました。",
+    "exampleReading": "ほほがあかくなりました。",
+    "exampleMeaning": "Pipinya menjadi merah."
+  },
+  {
+    "word": "人気",
+    "reading": "にんき",
+    "romaji": "ninki",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tanda kehidupan",
+    "example": "このアイドルは人気があります。",
+    "exampleReading": "このアイドルはにんきがあります。",
+    "exampleMeaning": "Idola ini populer."
+  },
+  {
+    "word": "消防",
+    "reading": "しょうぼう",
+    "romaji": "shōbō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pemadaman kebakaran, pemadam kebakaran",
+    "example": "消防車が来ました。",
+    "exampleReading": "しょうぼうしゃがきました。",
+    "exampleMeaning": "Mobil pemadam kebakaran telah datang."
+  },
+  {
+    "word": "やや",
+    "reading": "やや",
+    "romaji": "yaya",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sedikit, sebagian, agak, waktu yang singkat, beberapa saat",
+    "example": "やや高いです。",
+    "exampleReading": "ややたかいです。",
+    "exampleMeaning": "Agak mahal."
+  },
+  {
+    "word": "いわゆる",
+    "reading": "いわゆる",
+    "romaji": "iwayuru",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "yang disebut, bisa dikatakan begitu",
+    "example": "これがいわゆる天才です。",
+    "exampleReading": "これがいわゆるてんさいです。",
+    "exampleMeaning": "Ini yang disebut jenius."
+  },
+  {
+    "word": "すてき",
+    "reading": "すてき",
+    "romaji": "suteki",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "indah, melamun, indah, hebat",
+    "example": "すてきな服ですね。",
+    "exampleReading": "すてきなふくですね。",
+    "exampleMeaning": "Baju yang bagus ya."
+  },
+  {
+    "word": "単に",
+    "reading": "たんに",
+    "romaji": "tanni",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sederhananya, hanya saja, hanya saja",
+    "example": "単に興味があるだけです。",
+    "exampleReading": "たんにきょうみがあるだけです。",
+    "exampleMeaning": "Hanya sekadar tertarik saja."
+  },
+  {
+    "word": "コード",
+    "reading": "コード",
+    "romaji": "kōdo",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kode, kabel, akord",
+    "example": "パソコンのコードをつなぎます。",
+    "exampleReading": "パソコンのコードをつなぎます。",
+    "exampleMeaning": "Saya menyambungkan kabel komputer."
+  },
+  {
+    "word": "値段",
+    "reading": "ねだん",
+    "romaji": "nedan",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "harga, biaya",
+    "example": "この靴の値段はいくらですか。",
+    "exampleReading": "このくつのねだんはいくらですか。",
+    "exampleMeaning": "Berapa harga sepatu ini?"
+  },
+  {
+    "word": "諦める",
+    "reading": "あきらめる",
+    "romaji": "akirameru",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk menyerah, untuk meninggalkan",
+    "example": "夢を諦めません。",
+    "exampleReading": "ゆめをあきらめません。",
+    "exampleMeaning": "Saya tidak akan menyerah pada mimpi."
+  },
+  {
+    "word": "様々",
+    "reading": "さまざま",
+    "romaji": "samazama",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bervariasi, beragam",
+    "example": "様々な意見があります。",
+    "exampleReading": "さまざまないけんがあります。",
+    "exampleMeaning": "Ada berbagai macam pendapat."
+  },
+  {
+    "word": "生地",
+    "reading": "きじ",
+    "romaji": "kiji",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tempat lahir",
+    "example": "このドレスの生地は柔らかいです。",
+    "exampleReading": "このドレスのきじはやわらかいです。",
+    "exampleMeaning": "Kain gaun ini lembut."
+  },
+  {
+    "word": "欠ける",
+    "reading": "かける",
+    "romaji": "kakeru",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "menjadi kurang",
+    "example": "お皿の一部が欠けています。",
+    "exampleReading": "おさらのいちぶがかけています。",
+    "exampleMeaning": "Sebagian piring itu pecah."
+  },
+  {
+    "word": "なお",
+    "reading": "なお",
+    "romaji": "nao",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "lurus, nakal, biasa, biasa",
+    "example": "なお、詳しくは後で説明します。",
+    "exampleReading": "なお、くわしくはあとでせつめいします。",
+    "exampleMeaning": "Selain itu, akan saya jelaskan lebih detail nanti."
+  },
+  {
+    "word": "容易",
+    "reading": "ようい",
+    "romaji": "yōi",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mudah, sederhana, polos",
+    "example": "この問題は容易に解けます。",
+    "exampleReading": "このもんだいはよういにとけます。",
+    "exampleMeaning": "Soal ini bisa dipecahkan dengan mudah."
+  },
+  {
+    "word": "基づく",
+    "reading": "もとづく",
+    "romaji": "motozuku",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk didasarkan pada, berdasarkan, karena, berasal dari",
+    "example": "この映画は実話に基づいています。",
+    "exampleReading": "このえいがはじつわにもとづいています。",
+    "exampleMeaning": "Film ini berdasarkan kisah nyata."
+  },
+  {
+    "word": "事情",
+    "reading": "じじょう",
+    "romaji": "jijō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "keadaan, pertimbangan, kondisi, situasi, alasan",
+    "example": "家庭の事情で休みます。",
+    "exampleReading": "かていのじじょうでやすみます。",
+    "exampleMeaning": "Saya libur karena keadaan keluarga."
+  },
+  {
+    "word": "一時",
+    "reading": "いちじ",
+    "romaji": "ichiji",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "saat, waktu",
+    "example": "一時的に休みます。",
+    "exampleReading": "いちじてきにやすみます。",
+    "exampleMeaning": "Saya istirahat untuk sementara waktu."
+  },
+  {
+    "word": "ね",
+    "reading": "（感）",
+    "romaji": "()",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "nilai, harga, biaya, nilai, manfaat",
+    "example": "今日はいい天気ですね。",
+    "exampleReading": "きょうはいいてんきですね。",
+    "exampleMeaning": "Hari ini cuacanya bagus ya."
+  },
+  {
+    "word": "文明",
+    "reading": "ぶんめい",
+    "romaji": "bunmei",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "peradaban, budaya",
+    "example": "古代文明を研究します。",
+    "exampleReading": "こだいぶんめいをけんきゅうします。",
+    "exampleMeaning": "Saya meneliti peradaban kuno."
+  },
+  {
+    "word": "貸し",
+    "reading": "かし",
+    "romaji": "kashi",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pinjaman, pinjaman",
+    "example": "彼に貸しがあります。",
+    "exampleReading": "かれにかしがあります。",
+    "exampleMeaning": "Dia berhutang budi pada saya."
+  },
+  {
+    "word": "ボール",
+    "reading": "ボール",
+    "romaji": "bōru",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bola, mangkuk",
+    "example": "ボールを投げます。",
+    "exampleReading": "ボールをなげます。",
+    "exampleMeaning": "Saya melempar bola."
+  },
+  {
+    "word": "ここ",
+    "reading": "ここ",
+    "romaji": "koko",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "Di Sini",
+    "example": "ここに座ってください。",
+    "exampleReading": "ここにすわってください。",
+    "exampleMeaning": "Tolong duduk di sini."
+  },
+  {
+    "word": "要するに",
+    "reading": "ようするに",
+    "romaji": "yōsuruni",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "singkatnya, intinya adalah.., singkatnya..",
+    "example": "要するに、時間がないということです。",
+    "exampleReading": "ようするに、じかんがないということです。",
+    "exampleMeaning": "Singkatnya, artinya tidak ada waktu."
+  },
+  {
+    "word": "実験",
+    "reading": "じっけん",
+    "romaji": "jikken",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "percobaan",
+    "example": "化学の実験をします。",
+    "exampleReading": "かがくのじっけんをします。",
+    "exampleMeaning": "Saya melakukan eksperimen kimia."
+  },
+  {
+    "word": "徹底",
+    "reading": "てってい",
+    "romaji": "tettei",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "ketelitian, kelengkapan",
+    "example": "徹底的に調べます。",
+    "exampleReading": "てっていてきにしらべます。",
+    "exampleMeaning": "Saya memeriksa secara menyeluruh."
+  },
+  {
+    "word": "尊敬",
+    "reading": "そんけい",
+    "romaji": "sonkei",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "rasa hormat, penghargaan, penghormatan, kehormatan",
+    "example": "先生を尊敬しています。",
+    "exampleReading": "せんせいをそんけいしています。",
+    "exampleMeaning": "Saya menghormati guru saya."
+  },
+  {
+    "word": "逆らう",
+    "reading": "さからう",
+    "romaji": "sakarau",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk menentang, menentang, tidak menaati, menentang",
+    "example": "親に逆らいます。",
+    "exampleReading": "おやにさからいます。",
+    "exampleMeaning": "Dia melawan orang tuanya."
+  },
+  {
+    "word": "心臓",
+    "reading": "しんぞう",
+    "romaji": "shinzō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "jantung",
+    "example": "心臓がどきどきします。",
+    "exampleReading": "しんぞうがどきどきします。",
+    "exampleMeaning": "Jantung saya berdegup kencang."
+  },
+  {
+    "word": "完全",
+    "reading": "かんぜん",
+    "romaji": "kanzen",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kesempurnaan, kelengkapan",
+    "example": "完全に理解しました。",
+    "exampleReading": "かんぜんにりかいしました。",
+    "exampleMeaning": "Saya sudah memahami sepenuhnya."
+  },
+  {
+    "word": "家具",
+    "reading": "かぐ",
+    "romaji": "kagu",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mebel",
+    "example": "新しい家具を買いました。",
+    "exampleReading": "あたらしいかぐをかいました。",
+    "exampleMeaning": "Saya membeli furnitur baru."
+  },
+  {
+    "word": "試し",
+    "reading": "ためし",
+    "romaji": "tameshi",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "percobaan, ujian",
+    "example": "試しにやってみます。",
+    "exampleReading": "ためしにやってみます。",
+    "exampleMeaning": "Saya akan mencobanya sebagai percobaan."
+  },
+  {
+    "word": "才能",
+    "reading": "さいのう",
+    "romaji": "sainō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bakat, kemampuan",
+    "example": "音楽の才能があります。",
+    "exampleReading": "おんがくのさいのうがあります。",
+    "exampleMeaning": "Dia berbakat dalam musik."
+  },
+  {
+    "word": "有効",
+    "reading": "ゆうこう",
+    "romaji": "yūkō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "validitas, ketersediaan, efektivitas",
+    "example": "このチケットは今日まで有効です。",
+    "exampleReading": "このチケットはきょうまでゆうこうです。",
+    "exampleMeaning": "Tiket ini berlaku sampai hari ini."
+  },
+  {
+    "word": "笑い",
+    "reading": "わらい",
+    "romaji": "warai",
+    "level": "N3",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "tertawa, tertawa, tersenyum",
+    "example": "彼の話はいつも笑いを誘います。",
+    "exampleReading": "かれのはなしはいつもわらいをさそいます。",
+    "exampleMeaning": "Ceritanya selalu memancing tawa."
+  },
+  {
+    "word": "大家",
+    "reading": "おおや",
+    "romaji": "ōya",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "keluarga kaya, keluarga terpandang",
+    "example": "大家に家賃を払います。",
+    "exampleReading": "おおやにやちんをはらいます。",
+    "exampleMeaning": "Saya membayar sewa kepada pemilik rumah."
+  },
+  {
+    "word": "貧しい",
+    "reading": "まずしい",
+    "romaji": "mazushii",
+    "level": "N3",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "miskin, membutuhkan",
+    "example": "昔は貧しい生活をしていました。",
+    "exampleReading": "むかしはまずしいせいかつをしていました。",
+    "exampleMeaning": "Dahulu saya menjalani hidup yang miskin."
+  },
+  {
+    "word": "突然",
+    "reading": "とつぜん",
+    "romaji": "totsuzen",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tiba-tiba, tiba-tiba, tanpa diduga, sekaligus",
+    "example": "突然雨が降ってきました。",
+    "exampleReading": "とつぜんあめがふってきました。",
+    "exampleMeaning": "Tiba-tiba hujan turun."
+  },
+  {
+    "word": "指す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "menunjuk, memasang payung, bermain",
+    "example": "地図で場所を指します。",
+    "exampleReading": "ちずでばしょをさします。",
+    "exampleMeaning": "Saya menunjuk lokasi di peta."
+  },
+  {
+    "word": "券",
+    "reading": "けん",
+    "romaji": "ken",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tiket, kupon, obligasi, sertifikat",
+    "example": "入場券を買います。",
+    "exampleReading": "にゅうじょうけんをかいます。",
+    "exampleMeaning": "Saya membeli tiket masuk."
+  },
+  {
+    "word": "結ぶ",
+    "reading": "むすぶ",
+    "romaji": "musubu",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mengikat, mengikat, menghubungkan",
+    "example": "靴のひもを結びます。",
+    "exampleReading": "くつのひもをむすびます。",
+    "exampleMeaning": "Saya mengikat tali sepatu."
+  },
+  {
+    "word": "たびたび",
+    "reading": "たびたび",
+    "romaji": "tabitabi",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sering, berulang kali, sering",
+    "example": "たびたび遅れます。",
+    "exampleReading": "たびたびおくれます。",
+    "exampleMeaning": "Dia sering terlambat berulang kali."
+  },
+  {
+    "word": "遂に",
+    "reading": "ついに",
+    "romaji": "tsuini",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "akhirnya, akhirnya",
+    "example": "遂に完成しました。",
+    "exampleReading": "ついにかんせいしました。",
+    "exampleMeaning": "Akhirnya selesai."
+  },
+  {
+    "word": "占める",
+    "reading": "しめる",
+    "romaji": "shimeru",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "(1) terdiri, memperhitungkan, membuat (dari), (2) memegang, menduduki",
+    "example": "女性が半分を占めています。",
+    "exampleReading": "じょせいがはんぶんをしめています。",
+    "exampleMeaning": "Perempuan menempati setengah bagian."
+  },
+  {
+    "word": "墓",
+    "reading": "はか",
+    "romaji": "haka",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kuburan, makam",
+    "example": "お墓にお花を置きます。",
+    "exampleReading": "おはかにおはなをおきます。",
+    "exampleMeaning": "Saya meletakkan bunga di makam."
+  },
+  {
+    "word": "選択",
+    "reading": "せんたく",
+    "romaji": "sentaku",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "seleksi, pilihan",
+    "example": "正しい選択をします。",
+    "exampleReading": "ただしいせんたくをします。",
+    "exampleMeaning": "Saya membuat pilihan yang benar."
+  },
+  {
+    "word": "気の毒",
+    "reading": "きのどく",
+    "romaji": "kinodoku",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "menyedihkan, sayang sekali",
+    "example": "それは気の毒ですね。",
+    "exampleReading": "それはきのどくですね。",
+    "exampleMeaning": "Itu menyedihkan ya."
+  },
+  {
+    "word": "内",
+    "reading": "うち",
+    "romaji": "uchi",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "di dalam",
+    "example": "家の内で遊びます。",
+    "exampleReading": "いえのうちであそびます。",
+    "exampleMeaning": "Saya bermain di dalam rumah."
+  },
+  {
+    "word": "組",
+    "reading": "くみ",
+    "romaji": "kumi",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kelas, kelompok, tim, set",
+    "example": "同じ組の友達です。",
+    "exampleReading": "おなじくみのともだちです。",
+    "exampleMeaning": "Dia teman dari kelompok yang sama."
+  },
+  {
+    "word": "まさに",
+    "reading": "まさに",
+    "romaji": "masani",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "benar, tentu saja",
+    "example": "これはまさに芸術です。",
+    "exampleReading": "これはまさにげいじゅつです。",
+    "exampleMeaning": "Ini benar-benar seni."
+  },
+  {
+    "word": "任せる",
+    "reading": "まかせる",
+    "romaji": "makaseru",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mempercayakan kepada orang lain, untuk menyerahkan kepada",
+    "example": "この仕事はあなたに任せます。",
+    "exampleReading": "このしごとはあなたにまかせます。",
+    "exampleMeaning": "Saya mempercayakan pekerjaan ini kepada Anda."
+  },
+  {
+    "word": "迷子",
+    "reading": "まいご",
+    "romaji": "maigo",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "anak hilang (nyasar).",
+    "example": "子供が迷子になりました。",
+    "exampleReading": "こどもがまいごになりました。",
+    "exampleMeaning": "Anak itu tersesat."
+  },
+  {
+    "word": "注目",
+    "reading": "ちゅうもく",
+    "romaji": "chūmoku",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "perhatian, perhatian, pengamatan",
+    "example": "世界の注目を集めています。",
+    "exampleReading": "せかいのちゅうもくをあつめています。",
+    "exampleMeaning": "Ini menarik perhatian dunia."
+  },
+  {
+    "word": "方",
+    "reading": "ほう",
+    "romaji": "hō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "samping",
+    "example": "こちらの方が安いです。",
+    "exampleReading": "こちらのほうがやすいです。",
+    "exampleMeaning": "Yang ini lebih murah."
+  },
+  {
+    "word": "タイプライター",
+    "reading": "タイプライター",
+    "romaji": "taipuraitā",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mesin tik",
+    "example": "タイプライターで文章を打ちます。",
+    "exampleReading": "タイプライターでぶんしょうをうちます。",
+    "exampleMeaning": "Saya mengetik teks dengan mesin tik."
+  },
+  {
+    "word": "うなる",
+    "reading": "うなる",
+    "romaji": "unaru",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "mengerang, mengerang",
+    "example": "犬がうなっています。",
+    "exampleReading": "いぬがうなっています。",
+    "exampleMeaning": "Anjing itu menggeram."
+  },
+  {
+    "word": "預ける",
+    "reading": "あずける",
+    "romaji": "azukeru",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk menyerahkan ke dalam tahanan, untuk mempercayakan, untuk menyimpan",
+    "example": "荷物を預けます。",
+    "exampleReading": "にもつをあずけます。",
+    "exampleMeaning": "Saya menitipkan barang."
+  },
+  {
+    "word": "地区",
+    "reading": "ちく",
+    "romaji": "chiku",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "distrik, bagian, sektor",
+    "example": "この地区は静かです。",
+    "exampleReading": "このちくはしずかです。",
+    "exampleMeaning": "Distrik ini tenang."
+  },
+  {
+    "word": "人工",
+    "reading": "じんこう",
+    "romaji": "jinkō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "buatan, buatan manusia, pekerjaan manusia, ketrampilan manusia, kepalsuan",
+    "example": "人工衛星を作りました。",
+    "exampleReading": "じんこうえいせいをつくりました。",
+    "exampleMeaning": "Mereka membuat satelit buatan."
+  },
+  {
+    "word": "火曜",
+    "reading": "かよう",
+    "romaji": "kayō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(abbr) Selasa",
+    "example": "火曜に会いましょう。",
+    "exampleReading": "かようにあいましょう。",
+    "exampleMeaning": "Ayo bertemu hari Selasa."
+  },
+  {
+    "word": "俳優",
+    "reading": "はいゆう",
+    "romaji": "haiyū",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "aktor, aktris, pemain, pemain",
+    "example": "彼は有名な俳優です。",
+    "exampleReading": "かれはゆうめいなはいゆうです。",
+    "exampleMeaning": "Dia adalah aktor terkenal."
+  },
+  {
+    "word": "歌手",
+    "reading": "かしゅ",
+    "romaji": "kashu",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "penyanyi",
+    "example": "彼女は人気の歌手です。",
+    "exampleReading": "かのじょはにんきのかしゅです。",
+    "exampleMeaning": "Dia penyanyi yang populer."
+  },
+  {
+    "word": "特徴",
+    "reading": "とくちょう",
+    "romaji": "tokuchō",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "fitur, karakteristik",
+    "example": "この製品の特徴を説明します。",
+    "exampleReading": "このせいひんのとくちょうをせつめいします。",
+    "exampleMeaning": "Saya menjelaskan karakteristik produk ini."
+  },
+  {
+    "word": "銀",
+    "reading": "ぎん",
+    "romaji": "gin",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(1) perak, koin perak, cat perak",
+    "example": "銀の指輪を買いました。",
+    "exampleReading": "ぎんのゆびわをかいました。",
+    "exampleMeaning": "Saya membeli cincin perak."
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "romaji": "shinpo",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kemajuan, perkembangan",
+    "example": "技術が進歩しました。",
+    "exampleReading": "ぎじゅつがしんぽしました。",
+    "exampleMeaning": "Teknologi telah berkembang."
+  },
+  {
+    "word": "雰囲気",
+    "reading": "ふんいき",
+    "romaji": "fun'iki",
+    "level": "N3",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "suasana (misalnya musik), suasana hati, suasana",
+    "example": "このカフェは雰囲気がいいです。",
+    "exampleReading": "このカフェはふんいきがいいです。",
+    "exampleMeaning": "Kafe ini suasananya bagus."
+  },
+  {
+    "word": "そう",
+    "reading": "そう",
+    "romaji": "sō",
+    "level": "N3",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "Jadi",
+    "example": "私もそう思います。",
+    "exampleReading": "わたしもそうおもいます。",
+    "exampleMeaning": "Saya juga berpikir begitu."
   },
   {
     "word": "題名",
@@ -2646,9 +4956,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "judul",
-    "example": "題名を使う例文です。",
-    "exampleReading": "だいめいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"judul\"."
+    "example": "この本の題名は何ですか。",
+    "exampleReading": "このほんのだいめいはなんですか。",
+    "exampleMeaning": "Apa judul buku ini?"
   },
   {
     "word": "でたらめ",
@@ -2657,9 +4967,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "(1) ucapan yang tidak bertanggung jawab, tidak masuk akal, tidak masuk akal, (2) asal-asalan",
-    "example": "でたらめを使う例文です。",
-    "exampleReading": "でたらめをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(1) ucapan yang tidak bertanggung jawab, tidak masuk akal, tidak masuk akal, (2) asal-asalan\"."
+    "example": "でたらめなことを言わないでください。",
+    "exampleReading": "でたらめなことをいわないでください。",
+    "exampleMeaning": "Tolong jangan berkata sembarangan."
   },
   {
     "word": "目上",
@@ -2668,9 +4978,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "atasan, senior",
-    "example": "目上を使う例文です。",
-    "exampleReading": "めうえをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"atasan, senior\"."
+    "example": "目上の人には敬語を使います。",
+    "exampleReading": "めうえのひとにはけいごをつかいます。",
+    "exampleMeaning": "Kita memakai bahasa sopan kepada orang yang lebih senior."
   },
   {
     "word": "成分",
@@ -2679,9 +4989,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "bahan, komponen, komposisi",
-    "example": "成分を使う例文です。",
-    "exampleReading": "せいぶんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bahan, komponen, komposisi\"."
+    "example": "この薬の成分を確認します。",
+    "exampleReading": "このくすりのせいぶんをかくにんします。",
+    "exampleMeaning": "Saya memeriksa komposisi obat ini."
   },
   {
     "word": "サイレン",
@@ -2690,9 +5000,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "sirene",
-    "example": "サイレンを使う例文です。",
-    "exampleReading": "サイレンをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sirene\"."
+    "example": "消防車のサイレンが聞こえます。",
+    "exampleReading": "しょうぼうしゃのサイレンがきこえます。",
+    "exampleMeaning": "Terdengar sirene mobil pemadam kebakaran."
   },
   {
     "word": "毛糸",
@@ -2701,9 +5011,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "merajut wol",
-    "example": "毛糸を使う例文です。",
-    "exampleReading": "けいとをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"merajut wol\"."
+    "example": "毛糸でマフラーを編みます。",
+    "exampleReading": "けいとでマフラーをあみます。",
+    "exampleMeaning": "Saya merajut syal dengan benang wol."
   },
   {
     "word": "酌む",
@@ -2712,9 +5022,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menyajikan sake",
-    "example": "酌むを使う例文です。",
-    "exampleReading": "くむをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menyajikan sake\"."
+    "example": "お酒を酌みます。",
+    "exampleReading": "おさけをくみます。",
+    "exampleMeaning": "Saya menuangkan sake."
   },
   {
     "word": "中世",
@@ -2723,9 +5033,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "Abad Pertengahan, zaman pertengahan",
-    "example": "中世を使う例文です。",
-    "exampleReading": "ちゅうせいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"Abad Pertengahan, zaman pertengahan\"."
+    "example": "中世の歴史を学びます。",
+    "exampleReading": "ちゅうせいのれきしをまなびます。",
+    "exampleMeaning": "Saya belajar sejarah abad pertengahan."
   },
   {
     "word": "雨戸",
@@ -2734,9 +5044,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "pintu badai geser",
-    "example": "雨戸を使う例文です。",
-    "exampleReading": "あまどをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pintu badai geser\"."
+    "example": "雨戸を閉めます。",
+    "exampleReading": "あまどをしめます。",
+    "exampleMeaning": "Saya menutup pintu geser hujan."
   },
   {
     "word": "矢印",
@@ -2745,9 +5055,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "mengarahkan panah",
-    "example": "矢印を使う例文です。",
-    "exampleReading": "やじるしをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mengarahkan panah\"."
+    "example": "矢印の方向に進みます。",
+    "exampleReading": "やじるしのほうこうにすすみます。",
+    "exampleMeaning": "Saya berjalan mengikuti arah panah."
   },
   {
     "word": "御中",
@@ -2756,9 +5066,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "dan Perusahaan, Tuan.",
-    "example": "御中を使う例文です。",
-    "exampleReading": "おんちゅうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"dan Perusahaan, Tuan.\"."
+    "example": "会社御中とあてます。",
+    "exampleReading": "かいしゃおんちゅうとあてます。",
+    "exampleMeaning": "Ditujukan kepada perusahaan (bentuk formal)."
   },
   {
     "word": "目安",
@@ -2767,9 +5077,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "kriteria, tujuan",
-    "example": "目安を使う例文です。",
-    "exampleReading": "めやすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kriteria, tujuan\"."
+    "example": "一週間を目安にしてください。",
+    "exampleReading": "いっしゅうかんをめやすにしてください。",
+    "exampleMeaning": "Jadikan satu minggu sebagai patokan waktunya."
   },
   {
     "word": "架空",
@@ -2778,9 +5088,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "udara, di atas kepala, fiksi, khayalan",
-    "example": "架空を使う例文です。",
-    "exampleReading": "かくうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"udara, di atas kepala, fiksi, khayalan\"."
+    "example": "これは架空の人物です。",
+    "exampleReading": "これはかくうのじんぶつです。",
+    "exampleMeaning": "Ini adalah tokoh fiktif."
   },
   {
     "word": "詰まる",
@@ -2789,9 +5099,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk diblokir, untuk dikemas",
-    "example": "詰まるを使う例文です。",
-    "exampleReading": "つまるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk diblokir, untuk dikemas\"."
+    "example": "道が詰まっています。",
+    "exampleReading": "みちがつまっています。",
+    "exampleMeaning": "Jalannya macet."
   },
   {
     "word": "売行き",
@@ -2800,9 +5110,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "penjualan",
-    "example": "売行きを使う例文です。",
-    "exampleReading": "うれゆきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"penjualan\"."
+    "example": "新製品の売行きがいいです。",
+    "exampleReading": "しんせいひんのうれゆきがいいです。",
+    "exampleMeaning": "Penjualan produk baru itu bagus."
   },
   {
     "word": "民謡",
@@ -2811,9 +5121,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "lagu daerah, lagu populer",
-    "example": "民謡を使う例文です。",
-    "exampleReading": "みんようをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lagu daerah, lagu populer\"."
+    "example": "民謡を歌います。",
+    "exampleReading": "みんようをうたいます。",
+    "exampleMeaning": "Saya menyanyikan lagu daerah."
   },
   {
     "word": "発つ",
@@ -2822,9 +5132,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk berangkat (dengan pesawat, kereta api, dll.)",
-    "example": "発つを使う例文です。",
-    "exampleReading": "たつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk berangkat (dengan pesawat, kereta api, dll.)\"."
+    "example": "明日の朝、東京を発ちます。",
+    "exampleReading": "あしたのあさ、とうきょうをたちます。",
+    "exampleMeaning": "Besok pagi saya akan berangkat dari Tokyo."
   },
   {
     "word": "真っ暗",
@@ -2832,10 +5142,10 @@ export const vocabData = [
     "romaji": "makkura",
     "level": "N2",
     "partOfSpeech": "Kata Benda",
-    "meaning": "kegelapan total, rabun dekat, gelap gulita",
-    "example": "真っ暗を使う例文です。",
-    "exampleReading": "まっくらをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kegelapan total, rabun dekat, gelap gulita\"."
+    "meaning": "kegelapan total, rabun jauh, gelap gulita",
+    "example": "部屋が真っ暗になりました。",
+    "exampleReading": "へやがまっくらになりました。",
+    "exampleMeaning": "Kamar itu menjadi gelap gulita."
   },
   {
     "word": "ぜひとも",
@@ -2844,9 +5154,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "dengan segala cara (dengan perasaan tidak menerima jawaban tidak)",
-    "example": "ぜひともを使う例文です。",
-    "exampleReading": "ぜひともをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"dengan segala cara (dengan perasaan tidak menerima jawaban tidak)\"."
+    "example": "ぜひとも参加したいです。",
+    "exampleReading": "ぜひともさんかしたいです。",
+    "exampleMeaning": "Saya sangat ingin berpartisipasi."
   },
   {
     "word": "小学生",
@@ -2855,9 +5165,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "siswa sekolah dasar",
-    "example": "小学生を使う例文です。",
-    "exampleReading": "しょうがくせいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"siswa sekolah dasar\"."
+    "example": "小学生の妹がいます。",
+    "exampleReading": "しょうがくせいのいもうとがいます。",
+    "exampleMeaning": "Saya punya adik perempuan yang masih siswa SD."
   },
   {
     "word": "手入れ",
@@ -2866,9 +5176,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "perbaikan, pemeliharaan",
-    "example": "手入れを使う例文です。",
-    "exampleReading": "ていれをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"perbaikan, pemeliharaan\"."
+    "example": "庭の手入れをします。",
+    "exampleReading": "にわのていれをします。",
+    "exampleMeaning": "Saya merawat taman."
   },
   {
     "word": "文献",
@@ -2877,9 +5187,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "sastra, buku (referensi)",
-    "example": "文献を使う例文です。",
-    "exampleReading": "ぶんけんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sastra, buku (referensi)\"."
+    "example": "参考文献を調べます。",
+    "exampleReading": "さんこうぶんけんをしらべます。",
+    "exampleMeaning": "Saya memeriksa referensi literatur."
   },
   {
     "word": "休業",
@@ -2888,9 +5198,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "tutup (misalnya toko), bisnis ditangguhkan, tutup, hari libur",
-    "example": "休業を使う例文です。",
-    "exampleReading": "きゅうぎょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tutup (misalnya toko), bisnis ditangguhkan, tutup, hari libur\"."
+    "example": "本日は休業です。",
+    "exampleReading": "ほんじつはきゅうぎょうです。",
+    "exampleMeaning": "Hari ini tutup (tidak buka)."
   },
   {
     "word": "軟らかい",
@@ -2899,9 +5209,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "lembut, empuk, lemas",
-    "example": "軟らかいを使う例文です。",
-    "exampleReading": "やわらかいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lembut, empuk, lemas\"."
+    "example": "このパンは軟らかいです。",
+    "exampleReading": "このパンはやわらかいです。",
+    "exampleMeaning": "Roti ini lembut."
   },
   {
     "word": "呼び掛ける",
@@ -2910,9 +5220,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk berseru, menyapa, menyapa (kerumunan), mengajukan banding",
-    "example": "呼び掛けるを使う例文です。",
-    "exampleReading": "よびかけるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk berseru, menyapa, menyapa (kerumunan), mengajukan banding\"."
+    "example": "参加を呼び掛けます。",
+    "exampleReading": "さんかをよびかけます。",
+    "exampleMeaning": "Kami menyerukan partisipasi."
   },
   {
     "word": "意義",
@@ -2921,9 +5231,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "makna, signifikansi",
-    "example": "意義を使う例文です。",
-    "exampleReading": "いぎをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"makna, signifikansi\"."
+    "example": "この研究には意義があります。",
+    "exampleReading": "このけんきゅうにはいぎがあります。",
+    "exampleMeaning": "Penelitian ini memiliki makna penting."
   },
   {
     "word": "蒸し暑い",
@@ -2932,9 +5242,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "lembab, gerah",
-    "example": "蒸し暑いを使う例文です。",
-    "exampleReading": "むしあついをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lembab, gerah\"."
+    "example": "今日は蒸し暑いです。",
+    "exampleReading": "きょうはむしあついです。",
+    "exampleMeaning": "Hari ini lembab dan panas."
   },
   {
     "word": "殖える",
@@ -2943,9 +5253,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Kerja",
     "meaning": "bertambah, bertambah banyak",
-    "example": "殖えるを使う例文です。",
-    "exampleReading": "ふえるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bertambah, bertambah banyak\"."
+    "example": "ネズミが殖えました。",
+    "exampleReading": "ネズミがふえました。",
+    "exampleMeaning": "Populasi tikus bertambah banyak."
   },
   {
     "word": "基準",
@@ -2954,9 +5264,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "standar, dasar, kriteria, norma",
-    "example": "基準を使う例文です。",
-    "exampleReading": "きじゅんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"standar, dasar, kriteria, norma\"."
+    "example": "安全基準を守ります。",
+    "exampleReading": "あんぜんきじゅんをまもります。",
+    "exampleMeaning": "Kami mematuhi standar keselamatan."
   },
   {
     "word": "先端",
@@ -2965,9 +5275,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "ujung runcing, ujung, titik halus",
-    "example": "先端を使う例文です。",
-    "exampleReading": "せんたんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ujung runcing, ujung, titik halus\"."
+    "example": "最先端の技術です。",
+    "exampleReading": "さいせんたんのぎじゅつです。",
+    "exampleMeaning": "Ini adalah teknologi paling mutakhir."
   },
   {
     "word": "中性",
@@ -2976,9 +5286,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "gender netral, netral (kimia), ketidakpedulian, kemandulan",
-    "example": "中性を使う例文です。",
-    "exampleReading": "ちゅうせいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"gender netral, netral (kimia), ketidakpedulian, kemandulan\"."
+    "example": "中性の洗剤を使います。",
+    "exampleReading": "ちゅうせいのせんざいをつかいます。",
+    "exampleMeaning": "Saya menggunakan deterjen netral."
   },
   {
     "word": "比較的",
@@ -2987,9 +5297,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "secara komparatif, relatif",
-    "example": "比較的を使う例文です。",
-    "exampleReading": "ひかくてきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"secara komparatif, relatif\"."
+    "example": "比較的簡単な問題です。",
+    "exampleReading": "ひかくてきかんたんなもんだいです。",
+    "exampleMeaning": "Ini soal yang relatif mudah."
   },
   {
     "word": "書籍",
@@ -2998,9 +5308,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "buku, publikasi",
-    "example": "書籍を使う例文です。",
-    "exampleReading": "しょせきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"buku, publikasi\"."
+    "example": "書籍を注文します。",
+    "exampleReading": "しょせきをちゅうもんします。",
+    "exampleMeaning": "Saya memesan buku."
   },
   {
     "word": "芯",
@@ -3009,9 +5319,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "inti, jantung, sumbu, sumsum",
-    "example": "芯を使う例文です。",
-    "exampleReading": "しんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"inti, jantung, sumbu, sumsum\"."
+    "example": "鉛筆の芯が折れました。",
+    "exampleReading": "えんぴつのしんがおれました。",
+    "exampleMeaning": "Isi pensilnya patah."
   },
   {
     "word": "琴",
@@ -3020,9 +5330,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "Koto (kecapi Jepang)",
-    "example": "琴を使う例文です。",
-    "exampleReading": "ことをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"Koto (kecapi Jepang)\"."
+    "example": "琴を演奏します。",
+    "exampleReading": "ことをえんそうします。",
+    "exampleMeaning": "Saya memainkan koto."
   },
   {
     "word": "お代わり",
@@ -3031,9 +5341,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "bantuan kedua, secangkir lagi",
-    "example": "お代わりを使う例文です。",
-    "exampleReading": "おかわりをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bantuan kedua, secangkir lagi\"."
+    "example": "ご飯のお代わりをください。",
+    "exampleReading": "ごはんのおかわりをください。",
+    "exampleMeaning": "Tolong tambah nasinya lagi."
   },
   {
     "word": "卸す",
@@ -3042,9 +5352,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk menjual grosir, parut (sayuran)",
-    "example": "卸すを使う例文です。",
-    "exampleReading": "おろすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menjual grosir, parut (sayuran)\"."
+    "example": "商品を卸します。",
+    "exampleReading": "しょうひんをおろします。",
+    "exampleMeaning": "Kami menjual barang secara grosir."
   },
   {
     "word": "ブラシ",
@@ -3053,9 +5363,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "sikat, sikat",
-    "example": "ブラシを使う例文です。",
-    "exampleReading": "ブラシをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sikat, sikat\"."
+    "example": "ブラシで髪をとかします。",
+    "exampleReading": "ブラシでかみをとかします。",
+    "exampleMeaning": "Saya menyisir rambut dengan sikat."
   },
   {
     "word": "ふざける",
@@ -3064,9 +5374,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Kerja",
     "meaning": "bermain-main, berjudi, bermain-main, bercanda",
-    "example": "ふざけるを使う例文です。",
-    "exampleReading": "ふざけるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bermain-main, berjudi, bermain-main, bercanda\"."
+    "example": "ふざけないでください。",
+    "exampleReading": "ふざけないでください。",
+    "exampleMeaning": "Tolong jangan bercanda."
   },
   {
     "word": "基盤",
@@ -3075,9 +5385,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "landasan, landasan",
-    "example": "基盤を使う例文です。",
-    "exampleReading": "きばんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"landasan, landasan\"."
+    "example": "経済の基盤を作ります。",
+    "exampleReading": "けいざいのきばんをつくります。",
+    "exampleMeaning": "Kami membangun dasar ekonomi."
   },
   {
     "word": "先々週",
@@ -3086,9 +5396,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "",
-    "example": "先々週を使う例文です。",
-    "exampleReading": "せんせんしゅうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"\"."
+    "example": "先々週、京都に行きました。",
+    "exampleReading": "せんせんしゅう、きょうとにいきました。",
+    "exampleMeaning": "Dua minggu lalu saya pergi ke Kyoto."
   },
   {
     "word": "響く",
@@ -3097,9 +5407,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Kerja",
     "meaning": "bergema",
-    "example": "響くを使う例文です。",
-    "exampleReading": "ひびくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bergema\"."
+    "example": "音が部屋に響きます。",
+    "exampleReading": "おとがへやにひびきます。",
+    "exampleMeaning": "Suaranya bergema di dalam kamar."
   },
   {
     "word": "真っ黒",
@@ -3108,9 +5418,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "hitam pekat",
-    "example": "真っ黒を使う例文です。",
-    "exampleReading": "まっくろをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hitam pekat\"."
+    "example": "顔が真っ黒に焼けました。",
+    "exampleReading": "かおがまっくろにやけました。",
+    "exampleMeaning": "Wajahnya menjadi hitam legam terbakar matahari."
   },
   {
     "word": "水平",
@@ -3119,9 +5429,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "ketinggian air, cakrawala",
-    "example": "水平を使う例文です。",
-    "exampleReading": "すいへいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ketinggian air, cakrawala\"."
+    "example": "水平線が見えます。",
+    "exampleReading": "すいへいせんがみえます。",
+    "exampleMeaning": "Terlihat garis horizon."
   },
   {
     "word": "危うい",
@@ -3130,9 +5440,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Sifat I",
     "meaning": "berbahaya, kritis, serius",
-    "example": "危ういを使う例文です。",
-    "exampleReading": "あやういをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"berbahaya, kritis, serius\"."
+    "example": "危うく事故になりそうでした。",
+    "exampleReading": "あやうくじこになりそうでした。",
+    "exampleMeaning": "Hampir saja terjadi kecelakaan."
   },
   {
     "word": "着々",
@@ -3141,9 +5451,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "terus-menerus",
-    "example": "着々を使う例文です。",
-    "exampleReading": "ちゃくちゃくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"terus-menerus\"."
+    "example": "計画が着々と進んでいます。",
+    "exampleReading": "けいかくがちゃくちゃくとすすんでいます。",
+    "exampleMeaning": "Rencananya berjalan dengan lancar."
   },
   {
     "word": "記号",
@@ -3152,9 +5462,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "simbol, kode",
-    "example": "記号を使う例文です。",
-    "exampleReading": "きごうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"simbol, kode\"."
+    "example": "数学の記号を覚えます。",
+    "exampleReading": "すうがくのきごうをおぼえます。",
+    "exampleMeaning": "Saya menghafal simbol matematika."
   },
   {
     "word": "催促",
@@ -3163,9 +5473,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "permintaan, permintaan, klaim, desakan (tindakan), tekan untuk",
-    "example": "催促を使う例文です。",
-    "exampleReading": "さいそくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"permintaan, permintaan, klaim, desakan (tindakan), tekan untuk\"."
+    "example": "返事を催促します。",
+    "exampleReading": "へんじをさいそくします。",
+    "exampleMeaning": "Saya mendesak untuk mendapatkan balasan."
   },
   {
     "word": "平気",
@@ -3174,9 +5484,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "kesejukan, ketenangan, ketenangan, tidak peduli",
-    "example": "平気を使う例文です。",
-    "exampleReading": "へいきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kesejukan, ketenangan, ketenangan, tidak peduli\"."
+    "example": "一人でも平気です。",
+    "exampleReading": "ひとりでもへいきです。",
+    "exampleMeaning": "Sendirian juga tidak masalah bagi saya."
   },
   {
     "word": "学級",
@@ -3185,9 +5495,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "kelas di sekolah",
-    "example": "学級を使う例文です。",
-    "exampleReading": "がっきゅうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kelas di sekolah\"."
+    "example": "学級委員に選ばれました。",
+    "exampleReading": "がっきゅういいんにえらばれました。",
+    "exampleMeaning": "Saya dipilih sebagai ketua kelas."
   },
   {
     "word": "制作",
@@ -3196,9 +5506,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "karya (film, buku)",
-    "example": "制作を使う例文です。",
-    "exampleReading": "せいさくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"karya (film, buku)\"."
+    "example": "映画を制作します。",
+    "exampleReading": "えいがをせいさくします。",
+    "exampleMeaning": "Mereka memproduksi film."
   },
   {
     "word": "特売",
@@ -3207,9 +5517,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "penjualan khusus",
-    "example": "特売を使う例文です。",
-    "exampleReading": "とくばいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"penjualan khusus\"."
+    "example": "特売のセールがあります。",
+    "exampleReading": "とくばいのセールがあります。",
+    "exampleMeaning": "Ada penjualan obral khusus."
   },
   {
     "word": "休講",
@@ -3218,9 +5528,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "kuliah dibatalkan",
-    "example": "休講を使う例文です。",
-    "exampleReading": "きゅうこうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kuliah dibatalkan\"."
+    "example": "今日の授業は休講です。",
+    "exampleReading": "きょうのじゅぎょうはきゅうこうです。",
+    "exampleMeaning": "Kelas hari ini dibatalkan."
   },
   {
     "word": "おかず",
@@ -3229,9 +5539,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "lauk pauk, pendamping lauk nasi",
-    "example": "おかずを使う例文です。",
-    "exampleReading": "おかずをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lauk pauk, pendamping lauk nasi\"."
+    "example": "おかずを作ります。",
+    "exampleReading": "おかずをつくります。",
+    "exampleMeaning": "Saya membuat lauk."
   },
   {
     "word": "鉱物",
@@ -3240,9 +5550,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "mineral",
-    "example": "鉱物を使う例文です。",
-    "exampleReading": "こうぶつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mineral\"."
+    "example": "鉱物を採集します。",
+    "exampleReading": "こうぶつをさいしゅうします。",
+    "exampleMeaning": "Saya mengumpulkan mineral."
   },
   {
     "word": "山林",
@@ -3251,9 +5561,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "hutan pegunungan, pegunungan dan hutan",
-    "example": "山林を使う例文です。",
-    "exampleReading": "さんりんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hutan pegunungan, pegunungan dan hutan\"."
+    "example": "山林を保護します。",
+    "exampleReading": "さんりんをほごします。",
+    "exampleMeaning": "Kami melindungi hutan pegunungan."
   },
   {
     "word": "粒",
@@ -3262,9 +5572,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "bulir",
-    "example": "粒を使う例文です。",
-    "exampleReading": "つぶをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bulir\"."
+    "example": "米粒を数えます。",
+    "exampleReading": "こめつぶをかぞえます。",
+    "exampleMeaning": "Saya menghitung butir beras."
   },
   {
     "word": "速達",
@@ -3273,9 +5583,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "ekspres, pengiriman khusus",
-    "example": "速達を使う例文です。",
-    "exampleReading": "そくたつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ekspres, pengiriman khusus\"."
+    "example": "速達で送ります。",
+    "exampleReading": "そくたつでおくります。",
+    "exampleMeaning": "Saya mengirimnya dengan pos kilat."
   },
   {
     "word": "ずらり",
@@ -3284,9 +5594,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "",
-    "example": "ずらりを使う例文です。",
-    "exampleReading": "ずらりをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"\"."
+    "example": "商品がずらりと並んでいます。",
+    "exampleReading": "しょうひんがずらりとならんでいます。",
+    "exampleMeaning": "Barang-barang berjejer rapi."
   },
   {
     "word": "必需品",
@@ -3295,9 +5605,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "kebutuhan, barang perlu, syarat, penting",
-    "example": "必需品を使う例文です。",
-    "exampleReading": "ひつじゅひんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kebutuhan, barang perlu, syarat, penting\"."
+    "example": "生活の必需品を買います。",
+    "exampleReading": "せいかつのひつじゅひんをかいます。",
+    "exampleMeaning": "Saya membeli kebutuhan pokok hidup."
   },
   {
     "word": "農薬",
@@ -3306,9 +5616,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "bahan kimia pertanian",
-    "example": "農薬を使う例文です。",
-    "exampleReading": "のうやくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bahan kimia pertanian\"."
+    "example": "農薬を使わない野菜です。",
+    "exampleReading": "のうやくをつかわないやさいです。",
+    "exampleMeaning": "Ini sayuran yang tidak memakai pestisida."
   },
   {
     "word": "鳴らす",
@@ -3317,9 +5627,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "berdering, bersuara, berpadu, memukul, mendengus (hidung)",
-    "example": "鳴らすを使う例文です。",
-    "exampleReading": "ならすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"berdering, bersuara, berpadu, memukul, mendengus (hidung)\"."
+    "example": "ベルを鳴らします。",
+    "exampleReading": "ベルをならします。",
+    "exampleMeaning": "Saya membunyikan bel."
   },
   {
     "word": "女の人",
@@ -3328,9 +5638,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "wanita",
-    "example": "女の人を使う例文です。",
-    "exampleReading": "おんなのひとをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"wanita\"."
+    "example": "その女の人は先生です。",
+    "exampleReading": "そのおんなのひとはせんせいです。",
+    "exampleMeaning": "Wanita itu adalah seorang guru."
   },
   {
     "word": "余計",
@@ -3339,9 +5649,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "terlalu banyak, tidak perlu, kelimpahan, kelebihan, kelebihan, kelebihan",
-    "example": "余計を使う例文です。",
-    "exampleReading": "よけいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"terlalu banyak, tidak perlu, kelimpahan, kelebihan, kelebihan, kelebihan\"."
+    "example": "余計な心配です。",
+    "exampleReading": "よけいなしんぱいです。",
+    "exampleMeaning": "Itu kekhawatiran yang tidak perlu."
   },
   {
     "word": "大通り",
@@ -3350,9 +5660,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "jalan utama",
-    "example": "大通りを使う例文です。",
-    "exampleReading": "おおどおりをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"jalan utama\"."
+    "example": "大通りを渡ります。",
+    "exampleReading": "おおどおりをわたります。",
+    "exampleMeaning": "Saya menyeberangi jalan utama."
   },
   {
     "word": "改造",
@@ -3361,9 +5671,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "(1) renovasi, (2) modding (komp)",
-    "example": "改造を使う例文です。",
-    "exampleReading": "かいぞうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"(1) renovasi, (2) modding (komp)\"."
+    "example": "部屋を改造します。",
+    "exampleReading": "へやをかいぞうします。",
+    "exampleMeaning": "Kami merenovasi kamar."
   },
   {
     "word": "大小",
@@ -3372,9 +5682,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "ukuran",
-    "example": "大小を使う例文です。",
-    "exampleReading": "だいしょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ukuran\"."
+    "example": "いろいろな大小の箱があります。",
+    "exampleReading": "いろいろなだいしょうのはこがあります。",
+    "exampleMeaning": "Ada berbagai kotak dengan berbagai ukuran."
   },
   {
     "word": "ウール",
@@ -3383,9 +5693,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "wol",
-    "example": "ウールを使う例文です。",
-    "exampleReading": "ウールをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"wol\"."
+    "example": "ウールのコートを着ます。",
+    "exampleReading": "ウールのコートをきます。",
+    "exampleMeaning": "Saya memakai jaket wol."
   },
   {
     "word": "妥当",
@@ -3394,9 +5704,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "valid, pantas, benar, pantas",
-    "example": "妥当を使う例文です。",
-    "exampleReading": "だとうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"valid, pantas, benar, pantas\"."
+    "example": "妥当な価格だと思います。",
+    "exampleReading": "だとうなかかくだとおもいます。",
+    "exampleMeaning": "Saya pikir itu harga yang wajar."
   },
   {
     "word": "整備",
@@ -3405,9 +5715,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "penyesuaian, penyelesaian, konsolidasi",
-    "example": "整備を使う例文です。",
-    "exampleReading": "せいびをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"penyesuaian, penyelesaian, konsolidasi\"."
+    "example": "車を整備します。",
+    "exampleReading": "くるまをせいびします。",
+    "exampleMeaning": "Saya merawat mobil."
   },
   {
     "word": "曲線",
@@ -3416,9 +5726,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "melengkung",
-    "example": "曲線を使う例文です。",
-    "exampleReading": "きょくせんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"melengkung\"."
+    "example": "きれいな曲線を描きます。",
+    "exampleReading": "きれいなきょくせんをかきます。",
+    "exampleMeaning": "Saya menggambar garis lengkung yang indah."
   },
   {
     "word": "ロッカー",
@@ -3427,9 +5737,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "loker",
-    "example": "ロッカーを使う例文です。",
-    "exampleReading": "ロッカーをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"loker\"."
+    "example": "ロッカーに荷物を入れます。",
+    "exampleReading": "ロッカーににもつをいれます。",
+    "exampleMeaning": "Saya memasukkan barang ke dalam loker."
   },
   {
     "word": "四季",
@@ -3438,9 +5748,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "empat musim",
-    "example": "四季を使う例文です。",
-    "exampleReading": "しきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"empat musim\"."
+    "example": "日本には四季があります。",
+    "exampleReading": "にほんにはしきがあります。",
+    "exampleMeaning": "Jepang memiliki empat musim."
   },
   {
     "word": "そのうえ",
@@ -3449,9 +5759,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "selain itu, lebih jauh lagi",
-    "example": "そのうえを使う例文です。",
-    "exampleReading": "そのうえをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"selain itu, lebih jauh lagi\"."
+    "example": "安くて、そのうえおいしいです。",
+    "exampleReading": "やすくて、そのうえおいしいです。",
+    "exampleMeaning": "Murah, dan selain itu enak juga."
   },
   {
     "word": "蕎麦",
@@ -3460,9 +5770,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "soba (mie soba)",
-    "example": "蕎麦を使う例文です。",
-    "exampleReading": "そばをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"soba (mie soba)\"."
+    "example": "蕎麦を食べに行きます。",
+    "exampleReading": "そばをたべにいきます。",
+    "exampleMeaning": "Saya pergi makan soba."
   },
   {
     "word": "機関車",
@@ -3471,9 +5781,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "lokomotif, mesin",
-    "example": "機関車を使う例文です。",
-    "exampleReading": "きかんしゃをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lokomotif, mesin\"."
+    "example": "機関車を見学します。",
+    "exampleReading": "きかんしゃをけんがくします。",
+    "exampleMeaning": "Kami mengunjungi lokomotif."
   },
   {
     "word": "留守番",
@@ -3482,9 +5792,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "merawat, menjaga, mengawasi rumah",
-    "example": "留守番を使う例文です。",
-    "exampleReading": "るすばんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"merawat, menjaga, mengawasi rumah\"."
+    "example": "家で留守番をします。",
+    "exampleReading": "いえでるすばんをします。",
+    "exampleMeaning": "Saya menjaga rumah sendirian."
   },
   {
     "word": "美容",
@@ -3493,9 +5803,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "keindahan sosok atau bentuk",
-    "example": "美容を使う例文です。",
-    "exampleReading": "びようをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"keindahan sosok atau bentuk\"."
+    "example": "美容のために運動します。",
+    "exampleReading": "びようのためにうんどうします。",
+    "exampleMeaning": "Saya berolahraga demi kecantikan."
   },
   {
     "word": "対照",
@@ -3504,9 +5814,9 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "kontras, antitesis, perbandingan",
-    "example": "対照を使う例文です。",
-    "exampleReading": "たいしょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kontras, antitesis, perbandingan\"."
+    "example": "二つのデータを対照します。",
+    "exampleReading": "ふたつのデータをたいしょうします。",
+    "exampleMeaning": "Saya membandingkan dua data itu."
   },
   {
     "word": "学会",
@@ -3515,9 +5825,779 @@ export const vocabData = [
     "level": "N2",
     "partOfSpeech": "Kata Benda",
     "meaning": "masyarakat ilmiah, pertemuan akademik",
-    "example": "学会を使う例文です。",
-    "exampleReading": "がっかいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"masyarakat ilmiah, pertemuan akademik\"."
+    "example": "学会で発表します。",
+    "exampleReading": "がっかいではっぴょうします。",
+    "exampleMeaning": "Saya melakukan presentasi di konferensi akademik."
+  },
+  {
+    "word": "木材",
+    "reading": "もくざい",
+    "romaji": "mokuzai",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kayu, kayu, kayu",
+    "example": "木材で家を作ります。",
+    "exampleReading": "もくざいでいえをつくります。",
+    "exampleMeaning": "Rumah ini dibuat dari kayu."
+  },
+  {
+    "word": "従姉妹",
+    "reading": "いとこ",
+    "romaji": "itoko",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sepupu (perempuan)",
+    "example": "従姉妹と遊びます。",
+    "exampleReading": "いとことあそびます。",
+    "exampleMeaning": "Saya bermain dengan sepupu perempuan saya."
+  },
+  {
+    "word": "論ずる",
+    "reading": "ろんずる",
+    "romaji": "ronzuru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "berdebat, berdiskusi, berdebat",
+    "example": "この問題を論じます。",
+    "exampleReading": "このもんだいをろんじます。",
+    "exampleMeaning": "Kami mendiskusikan masalah ini."
+  },
+  {
+    "word": "ゆでる",
+    "reading": "ゆでる",
+    "romaji": "yuderu",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "mendidih",
+    "example": "卵をゆでます。",
+    "exampleReading": "たまごをゆでます。",
+    "exampleMeaning": "Saya merebus telur."
+  },
+  {
+    "word": "スタート",
+    "reading": "スタート",
+    "romaji": "sutāto",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "awal",
+    "example": "新しい生活がスタートします。",
+    "exampleReading": "あたらしいせいかつがスタートします。",
+    "exampleMeaning": "Kehidupan baru akan dimulai."
+  },
+  {
+    "word": "ごぞんじですか",
+    "reading": "ごぞんじですか",
+    "romaji": "gozonjidesuka",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "",
+    "example": "この店をごぞんじですか。",
+    "exampleReading": "このみせをごぞんじですか。",
+    "exampleMeaning": "Apakah Anda mengetahui toko ini?"
+  },
+  {
+    "word": "味わう",
+    "reading": "あじわう",
+    "romaji": "ajiwau",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk merasakan, untuk menikmati, untuk menikmati",
+    "example": "料理の味を味わいます。",
+    "exampleReading": "りょうりのあじをあじわいます。",
+    "exampleMeaning": "Saya menikmati rasa masakan itu."
+  },
+  {
+    "word": "校庭",
+    "reading": "こうてい",
+    "romaji": "kōtei",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kampus",
+    "example": "校庭で遊びます。",
+    "exampleReading": "こうていであそびます。",
+    "exampleMeaning": "Kami bermain di lapangan sekolah."
+  },
+  {
+    "word": "殻",
+    "reading": "から",
+    "romaji": "kara",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "cangkang, sekam, sekam, sekam",
+    "example": "卵の殻を捨てます。",
+    "exampleReading": "たまごのからをすてます。",
+    "exampleMeaning": "Saya membuang cangkang telur."
+  },
+  {
+    "word": "碁",
+    "reading": "ご",
+    "romaji": "go",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "Go (permainan papan untuk merebut wilayah)",
+    "example": "祖父と碁を打ちます。",
+    "exampleReading": "そふとごをうちます。",
+    "exampleMeaning": "Saya bermain go dengan kakek."
+  },
+  {
+    "word": "学年",
+    "reading": "がくねん",
+    "romaji": "gakunen",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tahun di sekolah, kelas di sekolah",
+    "example": "同じ学年の友達です。",
+    "exampleReading": "おなじがくねんのともだちです。",
+    "exampleMeaning": "Dia teman satu tingkat kelas."
+  },
+  {
+    "word": "仮定",
+    "reading": "かてい",
+    "romaji": "katei",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "asumsi, anggapan, hipotesis",
+    "example": "仮定の話をします。",
+    "exampleReading": "かていのはなしをします。",
+    "exampleMeaning": "Kita membahas sebuah andaian."
+  },
+  {
+    "word": "大して",
+    "reading": "たいして",
+    "romaji": "taishite",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(tidak begitu) banyak, (tidak) sangat",
+    "example": "大して面白くないです。",
+    "exampleReading": "たいしておもしろくないです。",
+    "exampleMeaning": "Tidak begitu menarik."
+  },
+  {
+    "word": "広さ",
+    "reading": "ひろさ",
+    "romaji": "hirosa",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "cakupan",
+    "example": "この部屋の広さはどのくらいですか。",
+    "exampleReading": "このへやのひろさはどのくらいですか。",
+    "exampleMeaning": "Berapa luas kamar ini?"
+  },
+  {
+    "word": "ポスター",
+    "reading": "ポスター",
+    "romaji": "posutā",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "poster",
+    "example": "ポスターを貼ります。",
+    "exampleReading": "ポスターをはります。",
+    "exampleMeaning": "Saya menempelkan poster."
+  },
+  {
+    "word": "やっつける",
+    "reading": "やっつける",
+    "romaji": "yattsukeru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk menyerang (musuh), untuk mengalahkan, untuk menyingkirkan, untuk menghabisi",
+    "example": "相手をやっつけます。",
+    "exampleReading": "あいてをやっつけます。",
+    "exampleMeaning": "Kami mengalahkan lawan."
+  },
+  {
+    "word": "終了",
+    "reading": "しゅうりょう",
+    "romaji": "shūryō",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "akhir, penutupan, penghentian",
+    "example": "会議が終了しました。",
+    "exampleReading": "かいぎがしゅうりょうしました。",
+    "exampleMeaning": "Rapatnya sudah selesai."
+  },
+  {
+    "word": "三日月",
+    "reading": "みかづき",
+    "romaji": "mikazuki",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bulan baru, bulan sabit",
+    "example": "三日月が見えます。",
+    "exampleReading": "みかづきがみえます。",
+    "exampleMeaning": "Terlihat bulan sabit."
+  },
+  {
+    "word": "飾り",
+    "reading": "かざり",
+    "romaji": "kazari",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "dekorasi",
+    "example": "クリスマスの飾りをつけます。",
+    "exampleReading": "クリスマスのかざりをつけます。",
+    "exampleMeaning": "Saya memasang hiasan Natal."
+  },
+  {
+    "word": "塊",
+    "reading": "かたまり",
+    "romaji": "katamari",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "benjolan, massa, gumpalan, cluster",
+    "example": "雪の塊があります。",
+    "exampleReading": "ゆきのかたまりがあります。",
+    "exampleMeaning": "Ada gumpalan salju."
+  },
+  {
+    "word": "紙幣",
+    "reading": "しへい",
+    "romaji": "shihei",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "uang kertas, uang kertas, uang kertas",
+    "example": "紙幣で払います。",
+    "exampleReading": "しへいではらいます。",
+    "exampleMeaning": "Saya membayar dengan uang kertas."
+  },
+  {
+    "word": "蘇る",
+    "reading": "よみがえる",
+    "romaji": "yomigaeru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk dibangkitkan, untuk dihidupkan kembali, untuk diresusitasi, untuk direhabilitasi",
+    "example": "昔の記憶が蘇りました。",
+    "exampleReading": "むかしのきおくがよみがえりました。",
+    "exampleMeaning": "Memori lama itu kembali muncul."
+  },
+  {
+    "word": "道順",
+    "reading": "みちじゅん",
+    "romaji": "michijun",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "rencana perjalanan, rute",
+    "example": "道順を教えてください。",
+    "exampleReading": "みちじゅんをおしえてください。",
+    "exampleMeaning": "Tolong beri tahu saya arah jalannya."
+  },
+  {
+    "word": "盗難",
+    "reading": "とうなん",
+    "romaji": "tōnan",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pencurian, perampokan",
+    "example": "盗難に気をつけてください。",
+    "exampleReading": "とうなんにきをつけてください。",
+    "exampleMeaning": "Tolong waspada terhadap pencurian."
+  },
+  {
+    "word": "講師",
+    "reading": "こうし",
+    "romaji": "kōshi",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pengajar",
+    "example": "大学の講師です。",
+    "exampleReading": "だいがくのこうしです。",
+    "exampleMeaning": "Dia adalah dosen di universitas."
+  },
+  {
+    "word": "思いっ切り",
+    "reading": "おもいっきり",
+    "romaji": "omoikkiri",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "",
+    "example": "思いっ切り走ります。",
+    "exampleReading": "おもいっきりはしります。",
+    "exampleMeaning": "Saya berlari sekuat tenaga."
+  },
+  {
+    "word": "助かる",
+    "reading": "たすかる",
+    "romaji": "tasukaru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk diselamatkan, untuk diselamatkan, untuk bertahan hidup, untuk membantu",
+    "example": "助けてくれて助かりました。",
+    "exampleReading": "たすけてくれてたすかりました。",
+    "exampleMeaning": "Sangat terbantu karena Anda menolong saya."
+  },
+  {
+    "word": "生意気",
+    "reading": "なまいき",
+    "romaji": "namaiki",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kurang ajar, cakep, kurang ajar, sombong, berani, kurang ajar",
+    "example": "生意気な子供です。",
+    "exampleReading": "なまいきなこどもです。",
+    "exampleMeaning": "Anak itu kurang ajar."
+  },
+  {
+    "word": "堅い",
+    "reading": "かたい",
+    "romaji": "katai",
+    "level": "N2",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "tulisan yang keras (khususnya kayu), kokoh, terhormat, pengap",
+    "example": "この木は堅いです。",
+    "exampleReading": "このきはかたいです。",
+    "exampleMeaning": "Kayu ini keras."
+  },
+  {
+    "word": "アンテナ",
+    "reading": "アンテナ",
+    "romaji": "antena",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "antena",
+    "example": "アンテナを立てます。",
+    "exampleReading": "アンテナをたてます。",
+    "exampleMeaning": "Saya memasang antena."
+  },
+  {
+    "word": "折角",
+    "reading": "せっかく",
+    "romaji": "sekkaku",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "dengan kesulitan, dengan susah payah, telah lama ditunggu-tunggu",
+    "example": "折角来たのに会えませんでした。",
+    "exampleReading": "せっかくきたのにあえませんでした。",
+    "exampleMeaning": "Meskipun sudah jauh-jauh datang, saya tidak bisa bertemu dengannya."
+  },
+  {
+    "word": "パターン",
+    "reading": "パターン",
+    "romaji": "patān",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pola",
+    "example": "同じパターンです。",
+    "exampleReading": "おなじパターンです。",
+    "exampleMeaning": "Ini pola yang sama."
+  },
+  {
+    "word": "ひとまず",
+    "reading": "ひとまず",
+    "romaji": "hitomazu",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "untuk saat ini, sekali, secara garis besar",
+    "example": "ひとまず休みましょう。",
+    "exampleReading": "ひとまずやすみましょう。",
+    "exampleMeaning": "Untuk sementara, ayo kita istirahat dulu."
+  },
+  {
+    "word": "謙虚",
+    "reading": "けんきょ",
+    "romaji": "kenkyo",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kesopanan, kerendahan hati",
+    "example": "謙虚な態度が大切です。",
+    "exampleReading": "けんきょなたいどがたいせつです。",
+    "exampleMeaning": "Sikap rendah hati itu penting."
+  },
+  {
+    "word": "憎らしい",
+    "reading": "にくらしい",
+    "romaji": "nikurashii",
+    "level": "N2",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "menjijikkan, penuh kebencian",
+    "example": "あの態度が憎らしいです。",
+    "exampleReading": "あのたいどがにくらしいです。",
+    "exampleMeaning": "Sikapnya itu menyebalkan."
+  },
+  {
+    "word": "太鼓",
+    "reading": "たいこ",
+    "romaji": "taiko",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "gendang, rebana",
+    "example": "太鼓をたたきます。",
+    "exampleReading": "たいこをたたきます。",
+    "exampleMeaning": "Saya memukul gendang."
+  },
+  {
+    "word": "調味料",
+    "reading": "ちょうみりょう",
+    "romaji": "chōmiryō",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bumbu, bumbu",
+    "example": "調味料を加えます。",
+    "exampleReading": "ちょうみりょうをくわえます。",
+    "exampleMeaning": "Saya menambahkan bumbu."
+  },
+  {
+    "word": "並木",
+    "reading": "なみき",
+    "romaji": "namiki",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pohon pinggir jalan, deretan pohon",
+    "example": "並木道を歩きます。",
+    "exampleReading": "なみきみちをあるきます。",
+    "exampleMeaning": "Saya berjalan di jalan yang dipenuhi deretan pohon."
+  },
+  {
+    "word": "耕す",
+    "reading": "たがやす",
+    "romaji": "tagayasu",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mengolah, membajak, mengolah",
+    "example": "田んぼを耕します。",
+    "exampleReading": "たんぼをたがやします。",
+    "exampleMeaning": "Saya membajak sawah."
+  },
+  {
+    "word": "海洋",
+    "reading": "かいよう",
+    "romaji": "kaiyō",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "laut",
+    "example": "海洋を調査します。",
+    "exampleReading": "かいようをちょうさします。",
+    "exampleMeaning": "Kami meneliti lautan."
+  },
+  {
+    "word": "定員",
+    "reading": "ていいん",
+    "romaji": "teiin",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "jumlah tetap personel reguler, kapasitas (perahu, dll.)",
+    "example": "定員は五十人です。",
+    "exampleReading": "ていいんはごじゅうにんです。",
+    "exampleMeaning": "Kapasitasnya adalah lima puluh orang."
+  },
+  {
+    "word": "混合",
+    "reading": "こんごう",
+    "romaji": "kongō",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pencampuran, campuran",
+    "example": "二つの色を混合します。",
+    "exampleReading": "ふたつのいろをこんごうします。",
+    "exampleMeaning": "Saya mencampurkan dua warna itu."
+  },
+  {
+    "word": "採る",
+    "reading": "とる",
+    "romaji": "toru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "(1) mengadopsi (mengukur, mengusulkan), (2) memetik (buah)",
+    "example": "山できのこを採ります。",
+    "exampleReading": "やまできのこをとります。",
+    "exampleMeaning": "Saya memetik jamur di gunung."
+  },
+  {
+    "word": "汚す",
+    "reading": "よごす",
+    "romaji": "yogosu",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(1) mempermalukan, mencemarkan, (2) mencemari, mencemari, mengotori, mengotori, menodai",
+    "example": "服を汚しました。",
+    "exampleReading": "ふくをよごしました。",
+    "exampleMeaning": "Saya mengotori baju."
+  },
+  {
+    "word": "水滴",
+    "reading": "すいてき",
+    "romaji": "suiteki",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "setetes air",
+    "example": "窓に水滴がついています。",
+    "exampleReading": "まどにすいてきがついています。",
+    "exampleMeaning": "Ada tetesan air di jendela."
+  },
+  {
+    "word": "鉄砲",
+    "reading": "てっぽう",
+    "romaji": "teppō",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pistol",
+    "example": "鉄砲を持っています。",
+    "exampleReading": "てっぽうをもっています。",
+    "exampleMeaning": "Dia membawa senapan."
+  },
+  {
+    "word": "寮",
+    "reading": "りょう",
+    "romaji": "ryō",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "asrama, asrama",
+    "example": "大学の寮に住んでいます。",
+    "exampleReading": "だいがくのりょうにすんでいます。",
+    "exampleMeaning": "Saya tinggal di asrama universitas."
+  },
+  {
+    "word": "書留",
+    "reading": "かきとめ",
+    "romaji": "kakitome",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "menuliskan, mencatat, mencatat, membuat catatan, pendaftaran (surat)",
+    "example": "書留で送ります。",
+    "exampleReading": "かきとめでおくります。",
+    "exampleMeaning": "Saya mengirimnya sebagai surat tercatat."
+  },
+  {
+    "word": "花嫁",
+    "reading": "はなよめ",
+    "romaji": "hanayome",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pengantin perempuan",
+    "example": "花嫁はとても美しいです。",
+    "exampleReading": "はなよめはとてもうつくしいです。",
+    "exampleMeaning": "Pengantin wanita itu sangat cantik."
+  },
+  {
+    "word": "錆",
+    "reading": "さび",
+    "romaji": "sabi",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "karat (warna)",
+    "example": "鉄に錆がついています。",
+    "exampleReading": "てつにさびがついています。",
+    "exampleMeaning": "Besinya berkarat."
+  },
+  {
+    "word": "反省",
+    "reading": "はんせい",
+    "romaji": "hansei",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "refleksi, pertimbangan ulang, introspeksi, meditasi, kontemplasi",
+    "example": "自分の行動を反省します。",
+    "exampleReading": "じぶんのこうどうをはんせいします。",
+    "exampleMeaning": "Saya merefleksikan tindakan saya sendiri."
+  },
+  {
+    "word": "新幹線",
+    "reading": "しんかんせん",
+    "romaji": "shinkansen",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kereta peluru (kecepatan sangat tinggi), shinkansen",
+    "example": "新幹線で大阪に行きます。",
+    "exampleReading": "しんかんせんでおおさかにいきます。",
+    "exampleMeaning": "Saya pergi ke Osaka dengan shinkansen."
+  },
+  {
+    "word": "くれぐれも",
+    "reading": "くれぐれも",
+    "romaji": "kureguremo",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "berulang kali, dengan tulus, sungguh-sungguh",
+    "example": "くれぐれもお気をつけて。",
+    "exampleReading": "くれぐれもおきをつけて。",
+    "exampleMeaning": "Tolong sangat hati-hati ya."
+  },
+  {
+    "word": "怠る",
+    "reading": "おこたる",
+    "romaji": "okotaru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mengabaikan, menjadi lengah, untuk merasa lebih baik",
+    "example": "練習を怠ってはいけません。",
+    "exampleReading": "れんしゅうをおこたってはいけません。",
+    "exampleMeaning": "Jangan mengabaikan latihan."
+  },
+  {
+    "word": "おととし",
+    "reading": "おととし",
+    "romaji": "ototoshi",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tahun lalu",
+    "example": "おととし結婚しました。",
+    "exampleReading": "おととしけっこんしました。",
+    "exampleMeaning": "Saya menikah dua tahun lalu."
+  },
+  {
+    "word": "モノレール",
+    "reading": "モノレール",
+    "romaji": "monorēru",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "monorel",
+    "example": "モノレールに乗ります。",
+    "exampleReading": "モノレールにのります。",
+    "exampleMeaning": "Saya naik monorel."
+  },
+  {
+    "word": "納める",
+    "reading": "おさめる",
+    "romaji": "osameru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk memperoleh, menuai, membayar, memasok, menerima",
+    "example": "税金を納めます。",
+    "exampleReading": "ぜいきんをおさめます。",
+    "exampleMeaning": "Saya membayar pajak."
+  },
+  {
+    "word": "乾電池",
+    "reading": "かんでんち",
+    "romaji": "kandenchi",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sel kering, baterai",
+    "example": "乾電池を交換します。",
+    "exampleReading": "かんでんちをこうかんします。",
+    "exampleMeaning": "Saya mengganti baterai."
+  },
+  {
+    "word": "同格",
+    "reading": "どうかく",
+    "romaji": "dōkaku",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kedudukan, persamaan, kedudukan yang sama",
+    "example": "この二つの言葉は同格です。",
+    "exampleReading": "このふたつのことばはどうかくです。",
+    "exampleMeaning": "Kedua kata ini memiliki kedudukan yang setara."
+  },
+  {
+    "word": "南北",
+    "reading": "なんぼく",
+    "romaji": "nanboku",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "selatan dan utara",
+    "example": "南北に長い国です。",
+    "exampleReading": "なんぼくにながいくにです。",
+    "exampleMeaning": "Negara ini memanjang dari utara ke selatan."
+  },
+  {
+    "word": "おきのどくに",
+    "reading": "おきのどくに",
+    "romaji": "okinodokuni",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "",
+    "example": "おきのどくに、チケットは売り切れです。",
+    "exampleReading": "おきのどくに、チケットはうりきれです。",
+    "exampleMeaning": "Sayang sekali, tiketnya sudah habis terjual."
+  },
+  {
+    "word": "時間割",
+    "reading": "じかんわり",
+    "romaji": "jikanwari",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "jadwal, jadwal",
+    "example": "時間割を確認します。",
+    "exampleReading": "じかんわりをかくにんします。",
+    "exampleMeaning": "Saya memeriksa jadwal pelajaran."
+  },
+  {
+    "word": "そうして",
+    "reading": "そうして",
+    "romaji": "sōshite",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "dan, seperti itu",
+    "example": "そうして、二人は結婚しました。",
+    "exampleReading": "そうして、ふたりはけっこんしました。",
+    "exampleMeaning": "Dan kemudian, mereka berdua menikah."
+  },
+  {
+    "word": "干す",
+    "reading": "ほす",
+    "romaji": "hosu",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mengangin-anginkan, mengeringkan, mengeringkan, mengeringkan (mematikan), meminum",
+    "example": "洗濯物を干します。",
+    "exampleReading": "せんたくものをほします。",
+    "exampleMeaning": "Saya menjemur cucian."
+  },
+  {
+    "word": "人命",
+    "reading": "じんめい",
+    "romaji": "jinmei",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kehidupan (manusia).",
+    "example": "人命を救います。",
+    "exampleReading": "じんめいをすくいます。",
+    "exampleMeaning": "Kami menyelamatkan nyawa manusia."
+  },
+  {
+    "word": "こんばんは",
+    "reading": "こんばんは",
+    "romaji": "konbanha",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "Selamat malam",
+    "example": "こんばんは、お元気ですか。",
+    "exampleReading": "こんばんは、おげんきですか。",
+    "exampleMeaning": "Selamat malam, apa kabar?"
+  },
+  {
+    "word": "ペンチ",
+    "reading": "ペンチ",
+    "romaji": "penchi",
+    "level": "N2",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(abbr) tang (lit: penjepit)",
+    "example": "ペンチで針金を切ります。",
+    "exampleReading": "ペンチではりがねをきります。",
+    "exampleMeaning": "Saya memotong kawat dengan tang."
+  },
+  {
+    "word": "炒る",
+    "reading": "いる",
+    "romaji": "iru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "",
+    "example": "ごまを炒ります。",
+    "exampleReading": "ごまをいります。",
+    "exampleMeaning": "Saya menyangrai wijen."
+  },
+  {
+    "word": "刷る",
+    "reading": "する",
+    "romaji": "suru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mencetak",
+    "example": "名刺を刷ります。",
+    "exampleReading": "めいしをすります。",
+    "exampleMeaning": "Saya mencetak kartu nama."
+  },
+  {
+    "word": "反る",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "level": "N2",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "melengkung, melengkung, melengkung",
+    "example": "木の板が反っています。",
+    "exampleReading": "きのいたがかえっています。",
+    "exampleMeaning": "Papan kayu itu melengkung."
   },
   {
     "word": "同感",
@@ -3526,9 +6606,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "perjanjian;",
-    "example": "同感を使う例文です。",
-    "exampleReading": "どうかんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"perjanjian;\"."
+    "example": "その意見には私も同感です。",
+    "exampleReading": "そのいけんにはわたしもどうかんです。",
+    "exampleMeaning": "Saya pun sependapat dengan pendapat itu."
   },
   {
     "word": "風車",
@@ -3537,9 +6617,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "1. kincir angin;",
-    "example": "風車を使う例文です。",
-    "exampleReading": "かざぐるまをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"1. kincir angin;\"."
+    "example": "公園に大きな風車があります。",
+    "exampleReading": "こうえんにおおきなかざぐるまがあります。",
+    "exampleMeaning": "Ada kincir angin besar di taman."
   },
   {
     "word": "何処か",
@@ -3548,9 +6628,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "suatu tempat;",
-    "example": "何処かを使う例文です。",
-    "exampleReading": "どこかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"suatu tempat;\"."
+    "example": "夏休みに何処かへ旅行したいです。",
+    "exampleReading": "なつやすみにどこかへりょこうしたいです。",
+    "exampleMeaning": "Saya ingin bepergian ke suatu tempat saat liburan musim panas."
   },
   {
     "word": "早める",
@@ -3559,9 +6639,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mempercepat;",
-    "example": "早めるを使う例文です。",
-    "exampleReading": "はやめるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mempercepat;\"."
+    "example": "出発時間を一時間早めることにしました。",
+    "exampleReading": "しゅっぱつじかんをいちじかんはやめることにしました。",
+    "exampleMeaning": "Kami memutuskan untuk mempercepat waktu keberangkatan satu jam."
   },
   {
     "word": "賭け",
@@ -3570,9 +6650,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pertaruhan;",
-    "example": "賭けを使う例文です。",
-    "exampleReading": "かけをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pertaruhan;\"."
+    "example": "それは危険な賭けだった。",
+    "exampleReading": "それはきけんなかけだった。",
+    "exampleMeaning": "Itu adalah pertaruhan yang berbahaya."
   },
   {
     "word": "興じる",
@@ -3581,9 +6661,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menghibur diri sendiri;",
-    "example": "興じるを使う例文です。",
-    "exampleReading": "きょうじるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menghibur diri sendiri;\"."
+    "example": "子供たちはゲームに興じている。",
+    "exampleReading": "こどもたちはげーむにきょうじている。",
+    "exampleMeaning": "Anak-anak sedang bersenang-senang bermain game."
   },
   {
     "word": "磁気",
@@ -3592,9 +6672,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "daya tarik",
-    "example": "磁気を使う例文です。",
-    "exampleReading": "じきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"daya tarik\"."
+    "example": "このカードは磁気不良で使えません。",
+    "exampleReading": "このかーどはじきふりょうでつかえません。",
+    "exampleMeaning": "Kartu ini tidak bisa digunakan karena kerusakan magnetik."
   },
   {
     "word": "若しかして",
@@ -3603,9 +6683,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "mungkin;",
-    "example": "若しかしてを使う例文です。",
-    "exampleReading": "もしかしてをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mungkin;\"."
+    "example": "若しかして、私のこと怒ってる？",
+    "exampleReading": "もしかして、わたしのことおこってる？",
+    "exampleMeaning": "Apakah mungkin kamu marah kepadaku?"
   },
   {
     "word": "彼方此方",
@@ -3614,9 +6694,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "di sana-sini",
-    "example": "彼方此方を使う例文です。",
-    "exampleReading": "あちこちをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"di sana-sini\"."
+    "example": "部屋の彼方此方に本が散らばっている。",
+    "exampleReading": "へやのあちこちにほんがちらばっている。",
+    "exampleMeaning": "Buku-buku berserakan di sana-sini di dalam kamar."
   },
   {
     "word": "視点",
@@ -3625,9 +6705,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pendapat;",
-    "example": "視点を使う例文です。",
-    "exampleReading": "してんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pendapat;\"."
+    "example": "違う視点から問題を考えてみましょう。",
+    "exampleReading": "ちがうしてんからもんだいをかんがえてみましょう。",
+    "exampleMeaning": "Mari kita coba memikirkan masalahnya dari sudut pandang yang berbeda."
   },
   {
     "word": "開発",
@@ -3636,9 +6716,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "perkembangan;",
-    "example": "開発を使う例文です。",
-    "exampleReading": "かいはつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"perkembangan;\"."
+    "example": "新しいソフトウェアを開発しています。",
+    "exampleReading": "あたらしいそふとうぇあをかいはつしています。",
+    "exampleMeaning": "Kami sedang mengembangkan perangkat lunak baru."
   },
   {
     "word": "彼の",
@@ -3647,9 +6727,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "itu di sana",
-    "example": "彼のを使う例文です。",
-    "exampleReading": "あのをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"itu di sana\"."
+    "example": "彼の人には以前会ったことがあります。",
+    "exampleReading": "あのひとにはいぜんあったことがあります。",
+    "exampleMeaning": "Saya pernah bertemu dengan orang itu sebelumnya."
   },
   {
     "word": "滞納",
@@ -3658,9 +6738,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "non-pembayaran;",
-    "example": "滞納を使う例文です。",
-    "exampleReading": "たいのうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"non-pembayaran;\"."
+    "example": "家賃を三ヶ月も滞納している。",
+    "exampleReading": "やちんをさんかげつもたいのうしている。",
+    "exampleMeaning": "Saya menunggak uang sewa selama tiga bulan."
   },
   {
     "word": "果て",
@@ -3669,9 +6749,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "akhir;",
-    "example": "果てを使う例文です。",
-    "exampleReading": "はてをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"akhir;\"."
+    "example": "宇宙の果てはどうなっているのだろう。",
+    "exampleReading": "うちゅうのはてはどうなっているのだろう。",
+    "exampleMeaning": "Seperti apakah ujung alam semesta itu?"
   },
   {
     "word": "長閑",
@@ -3680,9 +6760,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "tenang;",
-    "example": "長閑を使う例文です。",
-    "exampleReading": "のどかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tenang;\"."
+    "example": "今日はとても長閑な天気ですね。",
+    "exampleReading": "きょうはとてものどかなてんきですね。",
+    "exampleMeaning": "Cuaca hari ini sangat tenang ya."
   },
   {
     "word": "負う",
@@ -3691,9 +6771,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menanggung;",
-    "example": "負うを使う例文です。",
-    "exampleReading": "おうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menanggung;\"."
+    "example": "彼は事故で重傷を負った。",
+    "exampleReading": "かれはじこでじゅうしょうをおった。",
+    "exampleMeaning": "Dia menderita luka berat karena kecelakaan."
   },
   {
     "word": "首脳",
@@ -3702,9 +6782,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "kepala;",
-    "example": "首脳を使う例文です。",
-    "exampleReading": "しゅのうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kepala;\"."
+    "example": "各国の首脳が会議に集まった。",
+    "exampleReading": "かっこくのしゅのうがかいぎにあつまった。",
+    "exampleMeaning": "Para pemimpin berbagai negara berkumpul untuk konferensi."
   },
   {
     "word": "一筋",
@@ -3713,9 +6793,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "sebuah garis;",
-    "example": "一筋を使う例文です。",
-    "exampleReading": "ひとすきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sebuah garis;\"."
+    "example": "彼は野球一筋の人生を送ってきた。",
+    "exampleReading": "かれはやきゅうひとすじのじんせいをおくってきた。",
+    "exampleMeaning": "Dia telah menjalani hidup yang sepenuhnya berdedikasi pada bisbol."
   },
   {
     "word": "落ち着き",
@@ -3724,9 +6804,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "tenang;",
-    "example": "落ち着きを使う例文です。",
-    "exampleReading": "おちつきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tenang;\"."
+    "example": "彼女はいつも落ち着きがある。",
+    "exampleReading": "かのじょはいつもおちつきがある。",
+    "exampleMeaning": "Dia selalu memiliki ketenangan."
   },
   {
     "word": "業者",
@@ -3735,9 +6815,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pedagang;",
-    "example": "業者を使う例文です。",
-    "exampleReading": "ぎょうしゃをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pedagang;\"."
+    "example": "専門の業者に修理を依頼した。",
+    "exampleReading": "せんもんのぎょうしゃにしゅうりをいらいした。",
+    "exampleMeaning": "Saya meminta perbaikan kepada kontraktor profesional."
   },
   {
     "word": "蛋白質",
@@ -3746,9 +6826,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "protein",
-    "example": "蛋白質を使う例文です。",
-    "exampleReading": "たんぱくしつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"protein\"."
+    "example": "肉や卵には蛋白質が豊富に含まれている。",
+    "exampleReading": "にくやたまごにはたんぱくしつがほうふにふくまれている。",
+    "exampleMeaning": "Daging dan telur kaya akan kandungan protein."
   },
   {
     "word": "タイムリー",
@@ -3757,9 +6837,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "tepat waktu;",
-    "example": "タイムリーを使う例文です。",
-    "exampleReading": "タイムリーをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tepat waktu;\"."
+    "example": "タイムリーなアドバイスに感謝します。",
+    "exampleReading": "たいむりーなあどばいすにかんしゃします。",
+    "exampleMeaning": "Terima kasih atas nasihatnya yang tepat waktu."
   },
   {
     "word": "後悔",
@@ -3768,9 +6848,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "menyesali;",
-    "example": "後悔を使う例文です。",
-    "exampleReading": "こうかいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menyesali;\"."
+    "example": "若い頃もっと勉強しなかったことを後悔している。",
+    "exampleReading": "わかいころもっとべんきょうしなかったことをこうかいしている。",
+    "exampleMeaning": "Saya menyesal karena tidak belajar lebih giat saat masih muda."
   },
   {
     "word": "購読",
@@ -3779,9 +6859,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "berlangganan (misalnya majalah)",
-    "example": "購読を使う例文です。",
-    "exampleReading": "こうどくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"berlangganan (misalnya majalah)\"."
+    "example": "毎朝新聞を購読しています。",
+    "exampleReading": "まいあさしんぶんをこうどくしています。",
+    "exampleMeaning": "Saya berlangganan koran setiap pagi."
   },
   {
     "word": "嗜好",
@@ -3790,9 +6870,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "mencicipi;",
-    "example": "嗜好を使う例文です。",
-    "exampleReading": "しこうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mencicipi;\"."
+    "example": "人によって味の嗜好は異なる。",
+    "exampleReading": "ひとによってあじのしこうはことなる。",
+    "exampleMeaning": "Selera rasa berbeda-beda pada setiap orang."
   },
   {
     "word": "診療",
@@ -3801,9 +6881,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pemeriksaan dan pengobatan kesehatan;",
-    "example": "診療を使う例文です。",
-    "exampleReading": "しんりょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pemeriksaan dan pengobatan kesehatan;\"."
+    "example": "午後は休診のため診療を行いません。",
+    "exampleReading": "ごごはきゅうしんのためしんりょうをおこないません。",
+    "exampleMeaning": "Pemeriksaan medis tidak dilakukan pada sore hari karena tutup."
   },
   {
     "word": "班",
@@ -3812,9 +6892,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "kelompok;",
-    "example": "班を使う例文です。",
-    "exampleReading": "はんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kelompok;\"."
+    "example": "クラスを５つの班に分ける。",
+    "exampleReading": "くらすをいつつのはんにわける。",
+    "exampleMeaning": "Membagi kelas menjadi 5 kelompok."
   },
   {
     "word": "保管",
@@ -3823,9 +6903,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "mengenakan biaya;",
-    "example": "保管を使う例文です。",
-    "exampleReading": "ほかんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mengenakan biaya;\"."
+    "example": "重要な書類は金庫に保管してください。",
+    "exampleReading": "じゅうようなしょるいはきんこにほかんしてください。",
+    "exampleMeaning": "Harap simpan dokumen penting di dalam brankas."
   },
   {
     "word": "スチーム",
@@ -3834,9 +6914,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "uap",
-    "example": "スチームを使う例文です。",
-    "exampleReading": "スチームをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"uap\"."
+    "example": "スチームアイロンでシワを伸ばす。",
+    "exampleReading": "すちーむあいろんでしわをのばす。",
+    "exampleMeaning": "Meratakan kerutan dengan setrika uap."
   },
   {
     "word": "配列",
@@ -3845,9 +6925,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pengaturan;",
-    "example": "配列を使う例文です。",
-    "exampleReading": "はいれつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pengaturan;\"."
+    "example": "データがアルファベット順に配列されている。",
+    "exampleReading": "でーたがあるふぁべっとじゅんにはいれつされている。",
+    "exampleMeaning": "Data disusun sesuai urutan abjad."
   },
   {
     "word": "染める",
@@ -3856,9 +6936,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mewarnai;",
-    "example": "染めるを使う例文です。",
-    "exampleReading": "そめるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mewarnai;\"."
+    "example": "髪を明るい色に染めました。",
+    "exampleReading": "かみをあかるいいろにそめました。",
+    "exampleMeaning": "Saya mewarnai rambut dengan warna terang."
   },
   {
     "word": "途上",
@@ -3867,9 +6947,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "dalam perjalanan;",
-    "example": "途上を使う例文です。",
-    "exampleReading": "とじょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"dalam perjalanan;\"."
+    "example": "帰宅の途上で雨に降られた。",
+    "exampleReading": "きたくのとじょうであめにふられた。",
+    "exampleMeaning": "Saya kehujanan dalam perjalanan pulang."
   },
   {
     "word": "店",
@@ -3878,9 +6958,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "toko;",
-    "example": "店を使う例文です。",
-    "exampleReading": "てんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"toko;\"."
+    "example": "A店とB店の売り上げを比較する。",
+    "exampleReading": "えーてんとびーてんのうりあげをひかくする。",
+    "exampleMeaning": "Membandingkan penjualan toko A dan toko B."
   },
   {
     "word": "刑",
@@ -3889,9 +6969,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "penalti;",
-    "example": "刑を使う例文です。",
-    "exampleReading": "けいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"penalti;\"."
+    "example": "彼は重い刑に処された。",
+    "exampleReading": "かれはおもいけいにしょされた。",
+    "exampleMeaning": "Dia dijatuhi hukuman berat."
   },
   {
     "word": "野党",
@@ -3900,9 +6980,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "partai oposisi",
-    "example": "野党を使う例文です。",
-    "exampleReading": "やとうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"partai oposisi\"."
+    "example": "野党が政府の法案に反対している。",
+    "exampleReading": "やとうがせいふのほうあんにはんたいしている。",
+    "exampleMeaning": "Partai oposisi menentang rancangan undang-undang pemerintah."
   },
   {
     "word": "徒歩",
@@ -3911,9 +6991,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "sedang berjalan;",
-    "example": "徒歩を使う例文です。",
-    "exampleReading": "とほをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sedang berjalan;\"."
+    "example": "駅から徒歩で５分かかります。",
+    "exampleReading": "えきからとほでごふんかかります。",
+    "exampleMeaning": "Makan waktu 5 menit berjalan kaki dari stasiun."
   },
   {
     "word": "伝来",
@@ -3922,9 +7002,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "leluhur;",
-    "example": "伝来を使う例文です。",
-    "exampleReading": "でんらいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"leluhur;\"."
+    "example": "仏教は中国から日本に伝来した。",
+    "exampleReading": "ぶっきょうはちゅうごくからにほんにでんらいした。",
+    "exampleMeaning": "Agama Buddha diwariskan ke Jepang dari Tiongkok."
   },
   {
     "word": "トーン",
@@ -3933,9 +7013,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "nada",
-    "example": "トーンを使う例文です。",
-    "exampleReading": "トーンをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"nada\"."
+    "example": "彼女は声のトーンを下げて話した。",
+    "exampleReading": "かのじょはこえのとーんをさげてはなした。",
+    "exampleMeaning": "Dia berbicara dengan merendahkan nada suaranya."
   },
   {
     "word": "カメラマン",
@@ -3944,9 +7024,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "juru kamera",
-    "example": "カメラマンを使う例文です。",
-    "exampleReading": "カメラマンをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"juru kamera\"."
+    "example": "プロのカメラマンに写真を撮ってもらった。",
+    "exampleReading": "ぷろのかめらまんにしゃしんをとってもらった。",
+    "exampleMeaning": "Saya difoto oleh juru kamera profesional."
   },
   {
     "word": "抗議",
@@ -3955,9 +7035,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "protes;",
-    "example": "抗議を使う例文です。",
-    "exampleReading": "こうぎをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"protes;\"."
+    "example": "市民が市役所の前で抗議した。",
+    "exampleReading": "しみんがしやくしょのまえでこうぎした。",
+    "exampleMeaning": "Warga memprotes di depan kantor wali kota."
   },
   {
     "word": "自惚れ",
@@ -3966,9 +7046,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pretensi;",
-    "example": "自惚れを使う例文です。",
-    "exampleReading": "うぬぼれをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pretensi;\"."
+    "example": "彼女は美貌に自惚れている。",
+    "exampleReading": "かのじょはびぼうにうぬぼれている。",
+    "exampleMeaning": "Dia sangat percaya diri dengan kecantikannya."
   },
   {
     "word": "齎らす",
@@ -3977,9 +7057,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "untuk membawa;",
-    "example": "齎らすを使う例文です。",
-    "exampleReading": "もたらすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk membawa;\"."
+    "example": "その発明は社会に大きな変化を齎らした。",
+    "exampleReading": "そのはつめいはしゃかいにおおきなへんかをもたらした。",
+    "exampleMeaning": "Penemuan tersebut membawa perubahan besar pada masyarakat."
   },
   {
     "word": "優越",
@@ -3988,9 +7068,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "supremasi;",
-    "example": "優越を使う例文です。",
-    "exampleReading": "ゆうえつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"supremasi;\"."
+    "example": "彼は他人に優越感を持っている。",
+    "exampleReading": "かれはたにんにゆうえつかんをもっている。",
+    "exampleMeaning": "Dia memiliki rasa superioritas terhadap orang lain."
   },
   {
     "word": "不服",
@@ -3999,9 +7079,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "ketidakpuasan;",
-    "example": "不服を使う例文です。",
-    "exampleReading": "ふふくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ketidakpuasan;\"."
+    "example": "裁判所の判決に不服を申し立てる。",
+    "exampleReading": "さいばんしょのはんけつにふふくをもうしたてる。",
+    "exampleMeaning": "Mengajukan keberatan atas putusan pengadilan."
   },
   {
     "word": "開催",
@@ -4010,9 +7090,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "mengadakan pertemuan;",
-    "example": "開催を使う例文です。",
-    "exampleReading": "かいさいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mengadakan pertemuan;\"."
+    "example": "オリンピックが東京で開催された。",
+    "exampleReading": "おりんぴっくがとうきょうでかいさいされた。",
+    "exampleMeaning": "Olimpiade diselenggarakan di Tokyo."
   },
   {
     "word": "内閣",
@@ -4021,9 +7101,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "kabinet;",
-    "example": "内閣を使う例文です。",
-    "exampleReading": "ないかくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kabinet;\"."
+    "example": "新しい内閣が発足した。",
+    "exampleReading": "あたらしいないかくがほっそくした。",
+    "exampleMeaning": "Kabinet baru telah diresmikan."
   },
   {
     "word": "正当",
@@ -4032,9 +7112,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "hanya;",
-    "example": "正当を使う例文です。",
-    "exampleReading": "せいとうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hanya;\"."
+    "example": "彼の主張は正当だと認められた。",
+    "exampleReading": "かれのしゅちょうはせいとうだとみとめられた。",
+    "exampleMeaning": "Klaimnya diakui sebagai sesuatu yang sah."
   },
   {
     "word": "垢",
@@ -4043,9 +7123,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "kotoran;",
-    "example": "垢を使う例文です。",
-    "exampleReading": "あかをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kotoran;\"."
+    "example": "お風呂で体の垢を落とす。",
+    "exampleReading": "おふろでからだのあかをおとす。",
+    "exampleMeaning": "Membersihkan daki dari tubuh di kamar mandi."
   },
   {
     "word": "先先月",
@@ -4054,9 +7134,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "bulan sebelumnya",
-    "example": "先先月を使う例文です。",
-    "exampleReading": "せんせんげつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bulan sebelumnya\"."
+    "example": "先先月に海外旅行へ行きました。",
+    "exampleReading": "せんせんげつにかいがいりょこうへいきました。",
+    "exampleMeaning": "Saya pergi berlibur ke luar negeri dua bulan lalu."
   },
   {
     "word": "怠慢",
@@ -4065,9 +7145,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "kelalaian;",
-    "example": "怠慢を使う例文です。",
-    "exampleReading": "たいまんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kelalaian;\"."
+    "example": "職務怠慢で解雇された。",
+    "exampleReading": "しょくむたいまんでかいこされた。",
+    "exampleMeaning": "Dia dipecat karena kelalaian tugas."
   },
   {
     "word": "無口",
@@ -4120,9 +7200,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk mencegah seseorang melakukan;",
-    "example": "阻むを使う例文です。",
-    "exampleReading": "はばむをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk mencegah seseorang melakukan;\"."
+    "example": "敵の侵入を阻む。",
+    "exampleReading": "てきのしんにゅうをはばむ。",
+    "exampleMeaning": "Mencegah invasi musuh."
   },
   {
     "word": "使命",
@@ -4131,9 +7211,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "misi;",
-    "example": "使命を使う例文です。",
-    "exampleReading": "しめいをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"misi;\"."
+    "example": "彼は重大な使命を果たした。",
+    "exampleReading": "かれはじゅうだいなしめいをはたした。",
+    "exampleMeaning": "Dia telah menjalankan misi yang penting."
   },
   {
     "word": "三日月",
@@ -4142,9 +7222,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "bulan baru;",
-    "example": "三日月を使う例文です。",
-    "exampleReading": "みかずきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bulan baru;\"."
+    "example": "空に美しい三日月が出ている。",
+    "exampleReading": "そらにうつくしいみかずきがでている。",
+    "exampleMeaning": "Bulan sabit yang indah muncul di langit."
   },
   {
     "word": "意地",
@@ -4153,9 +7233,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "watak;",
-    "example": "意地を使う例文です。",
-    "exampleReading": "いじをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"watak;\"."
+    "example": "意地を張らないで謝りなさい。",
+    "exampleReading": "いじをはらないであやまりなさい。",
+    "exampleMeaning": "Jangan keras kepala dan mintalah maaf."
   },
   {
     "word": "音",
@@ -4164,9 +7244,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "suara;",
-    "example": "音を使う例文です。",
-    "exampleReading": "ねをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"suara;\"."
+    "example": "虫の音が秋を感じさせる。",
+    "exampleReading": "むしのねがあきをかんじさせる。",
+    "exampleMeaning": "Suara serangga membuat kita merasakan musim gugur."
   },
   {
     "word": "造り",
@@ -4175,9 +7255,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "menyusun;",
-    "example": "造りを使う例文です。",
-    "exampleReading": "つくりをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"menyusun;\"."
+    "example": "この家は丈夫な造りをしている。",
+    "exampleReading": "このいえはじょうぶなつくりをしている。",
+    "exampleMeaning": "Rumah ini memiliki konstruksi yang kokoh."
   },
   {
     "word": "忠告",
@@ -4186,9 +7266,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "nasihat;",
-    "example": "忠告を使う例文です。",
-    "exampleReading": "ちゅうこくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"nasihat;\"."
+    "example": "先生の忠告を素直に聞くべきだ。",
+    "exampleReading": "せんせいのちゅうこくをすなおにきくべきだ。",
+    "exampleMeaning": "Seharusnya kamu mendengarkan nasihat guru dengan patuh."
   },
   {
     "word": "脈",
@@ -4197,9 +7277,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "detak",
-    "example": "脈を使う例文です。",
-    "exampleReading": "みゃくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"detak\"."
+    "example": "患者の脈を測る。",
+    "exampleReading": "かんじゃのみゃくをはかる。",
+    "exampleMeaning": "Mengukur denyut nadi pasien."
   },
   {
     "word": "向上",
@@ -4208,9 +7288,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "ketinggian;",
-    "example": "向上を使う例文です。",
-    "exampleReading": "こうじょうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ketinggian;\"."
+    "example": "サービスの向上に努める。",
+    "exampleReading": "さーびすのこうじょうにつとめる。",
+    "exampleMeaning": "Berusaha untuk peningkatan layanan."
   },
   {
     "word": "任務",
@@ -4219,9 +7299,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "tugas;",
-    "example": "任務を使う例文です。",
-    "exampleReading": "にんむをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"tugas;\"."
+    "example": "無事に任務を完了した。",
+    "exampleReading": "ぶじににんむをかんりょうした。",
+    "exampleMeaning": "Telah menyelesaikan tugas dengan selamat."
   },
   {
     "word": "成熟",
@@ -4230,9 +7310,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "kematangan;",
-    "example": "成熟を使う例文です。",
-    "exampleReading": "せいじゅくをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kematangan;\"."
+    "example": "彼は精神的に成熟している。",
+    "exampleReading": "かれはせいしんてきにせいじゅくしている。",
+    "exampleMeaning": "Dia sudah matang secara mental."
   },
   {
     "word": "余程",
@@ -4241,9 +7321,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "sangat;",
-    "example": "余程を使う例文です。",
-    "exampleReading": "よっぽどをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sangat;\"."
+    "example": "余程疲れていたのか、すぐに眠ってしまった。",
+    "exampleReading": "よっぽどつかれていたのか、すぐにねむってしまった。",
+    "exampleMeaning": "Mungkin dia sangat lelah, dia langsung tertidur."
   },
   {
     "word": "纏め",
@@ -4252,9 +7332,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "hunian;",
-    "example": "纏めを使う例文です。",
-    "exampleReading": "まとめをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"hunian;\"."
+    "example": "会議の纏めを資料に書く。",
+    "exampleReading": "かいぎのまとめをしりょうにかく。",
+    "exampleMeaning": "Menuliskan kesimpulan rapat ke dalam dokumen."
   },
   {
     "word": "チャンネル",
@@ -4263,9 +7343,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "sebuah saluran",
-    "example": "チャンネルを使う例文です。",
-    "exampleReading": "チャンネルをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sebuah saluran\"."
+    "example": "テレビのチャンネルを変える。",
+    "exampleReading": "てれびのちゃんねるをかえる。",
+    "exampleMeaning": "Mengganti saluran televisi."
   },
   {
     "word": "心掛け",
@@ -4274,9 +7354,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "kesiapan;",
-    "example": "心掛けを使う例文です。",
-    "exampleReading": "こころがけをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kesiapan;\"."
+    "example": "日頃の心掛けが大切です。",
+    "exampleReading": "ひごろのこころがけがたいせつです。",
+    "exampleMeaning": "Niat sehari-hari itu penting."
   },
   {
     "word": "雑談",
@@ -4285,9 +7365,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "mengobrol;",
-    "example": "雑談を使う例文です。",
-    "exampleReading": "ざつだんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"mengobrol;\"."
+    "example": "友達と喫茶店で雑談する。",
+    "exampleReading": "ともだちときっさてんでざつだんする。",
+    "exampleMeaning": "Ngobrol santai dengan teman di kedai kopi."
   },
   {
     "word": "箪笥",
@@ -4296,9 +7376,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "lemari berlaci",
-    "example": "箪笥を使う例文です。",
-    "exampleReading": "たんすをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"lemari berlaci\"."
+    "example": "服を洋服箪笥にしまう。",
+    "exampleReading": "ふくをようふくたんすにしまう。",
+    "exampleMeaning": "Menyimpan baju di lemari pakaian."
   },
   {
     "word": "処分",
@@ -4307,9 +7387,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pembuangan;",
-    "example": "処分を使う例文です。",
-    "exampleReading": "しょぶんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pembuangan;\"."
+    "example": "古い家具を処分する。",
+    "exampleReading": "ふるいかぐをしょぶんする。",
+    "exampleMeaning": "Membuang perabotan tua."
   },
   {
     "word": "風習",
@@ -4318,9 +7398,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "kebiasaan",
-    "example": "風習を使う例文です。",
-    "exampleReading": "ふうしゅうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"kebiasaan\"."
+    "example": "この村には古い風習が残っている。",
+    "exampleReading": "このむらにはふるいふうしゅうがのこっている。",
+    "exampleMeaning": "Di desa ini masih tersisa adat kebiasaan lama."
   },
   {
     "word": "取り引き",
@@ -4329,9 +7409,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "transaksi;",
-    "example": "取り引きを使う例文です。",
-    "exampleReading": "とりひきをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"transaksi;\"."
+    "example": "新しい会社と取り引きを始める。",
+    "exampleReading": "あたらしいかいしゃととりひきをはじめる。",
+    "exampleMeaning": "Memulai transaksi dengan perusahaan baru."
   },
   {
     "word": "仕上げ",
@@ -4340,9 +7420,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "akhir;",
-    "example": "仕上げを使う例文です。",
-    "exampleReading": "しあげをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"akhir;\"."
+    "example": "料理の仕上げにパセリを乗せる。",
+    "exampleReading": "りょうりのしあげにぱせりをのせる。",
+    "exampleMeaning": "Menaruh peterseli untuk penyelesaian akhir masakan."
   },
   {
     "word": "黴菌",
@@ -4351,9 +7431,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "bakteri;",
-    "example": "黴菌を使う例文です。",
-    "exampleReading": "ばいきんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bakteri;\"."
+    "example": "手を洗って黴菌を落とす。",
+    "exampleReading": "てをあらってばいきんをおとす。",
+    "exampleMeaning": "Mencuci tangan untuk menghilangkan kuman."
   },
   {
     "word": "側",
@@ -4362,9 +7442,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "samping;",
-    "example": "側を使う例文です。",
-    "exampleReading": "かわをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"samping;\"."
+    "example": "道路の反対側に渡る。",
+    "exampleReading": "どうろのはんたいがわにわたる。",
+    "exampleMeaning": "Menyeberang ke sisi jalan yang berlawanan."
   },
   {
     "word": "瞑る",
@@ -4373,9 +7453,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Kerja",
     "meaning": "untuk menutup mata",
-    "example": "瞑るを使う例文です。",
-    "exampleReading": "つぶるをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"untuk menutup mata\"."
+    "example": "目を瞑って音楽を聴く。",
+    "exampleReading": "めをつぶっておんがくをきく。",
+    "exampleMeaning": "Mendengarkan musik sambil memejamkan mata."
   },
   {
     "word": "満月",
@@ -4384,9 +7464,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "bulan purnama",
-    "example": "満月を使う例文です。",
-    "exampleReading": "まんげつをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"bulan purnama\"."
+    "example": "今夜は満月が綺麗だ。",
+    "exampleReading": "こんやはまんげつがきれいだ。",
+    "exampleMeaning": "Malam ini bulan purnama sangat indah."
   },
   {
     "word": "不当",
@@ -4395,8 +7475,778 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "ketidakadilan;",
-    "example": "不当を使う例文です。",
-    "exampleReading": "ふとうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"ketidakadilan;\"."
+    "example": "不当な扱いに抗議する。",
+    "exampleReading": "ふとうなあつかいにこうぎする。",
+    "exampleMeaning": "Memprotes perlakuan yang tidak adil."
+  },
+  {
+    "word": "度忘れ",
+    "reading": "どわすれ",
+    "romaji": "dowasure",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kehilangan ingatan;",
+    "example": "彼の名前を度忘れしてしまった。",
+    "exampleReading": "かれのなまえをどわすれしてしまった。",
+    "exampleMeaning": "Aku tiba-tiba lupa namanya."
+  },
+  {
+    "word": "行き違い",
+    "reading": "いきちがい",
+    "romaji": "ikichigai",
+    "level": "N1",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "salah paham;",
+    "example": "メールが行き違いになったようです。",
+    "exampleReading": "めーるがいきちがいになったようです。",
+    "exampleMeaning": "Sepertinya email kita saling bersilangan."
+  },
+  {
+    "word": "独創",
+    "reading": "どくそう",
+    "romaji": "dokusō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "keaslian",
+    "example": "彼女の作品は独創性に富んでいる。",
+    "exampleReading": "かのじょのさくひんはどくそうせいにとんでいる。",
+    "exampleMeaning": "Karyanya sangat kaya akan orisinalitas."
+  },
+  {
+    "word": "本名",
+    "reading": "ほんみょう",
+    "romaji": "honmyō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "nama asli",
+    "example": "彼の本名は誰も知らない。",
+    "exampleReading": "かれのほんみょうはだれもしらない。",
+    "exampleMeaning": "Tidak ada yang tahu nama aslinya."
+  },
+  {
+    "word": "名誉",
+    "reading": "めいよ",
+    "romaji": "meiyo",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "menghormati;",
+    "example": "この賞をいただき、名誉に思います。",
+    "exampleReading": "このしょうをいただき、めいよにおもいます。",
+    "exampleMeaning": "Saya merasa terhormat menerima penghargaan ini."
+  },
+  {
+    "word": "兆",
+    "reading": "きざし",
+    "romaji": "kizashi",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tanda-tanda;",
+    "example": "景気回復の兆が見える。",
+    "exampleReading": "けいきかいふくのきざしがみえる。",
+    "exampleMeaning": "Terlihat tanda-tanda pemulihan ekonomi."
+  },
+  {
+    "word": "正常",
+    "reading": "せいじょう",
+    "romaji": "seijō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "keadaan normal;",
+    "example": "機械は正常に作動している。",
+    "exampleReading": "きかいはせいじょうにさどうしている。",
+    "exampleMeaning": "Mesin beroperasi dengan normal."
+  },
+  {
+    "word": "取り締まる",
+    "reading": "とりしまる",
+    "romaji": "torishimaru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mengelola;",
+    "example": "警察が交通違反を取り締まる。",
+    "exampleReading": "けいさつがこうつういはんをとりしまる。",
+    "exampleMeaning": "Polisi menertibkan pelanggaran lalu lintas."
+  },
+  {
+    "word": "可愛がる",
+    "reading": "かわいがる",
+    "romaji": "kawaigaru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mencintai;",
+    "example": "祖父母は孫をとても可愛がる。",
+    "exampleReading": "そふぼはまごをとてもかわいがる。",
+    "exampleMeaning": "Kakek nenek sangat menyayangi cucu mereka."
+  },
+  {
+    "word": "この頃",
+    "reading": "このごろ",
+    "romaji": "konogoro",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "baru-baru ini",
+    "example": "この頃、急に寒くなりましたね。",
+    "exampleReading": "このごろ、きゅうにさむくなりましたね。",
+    "exampleMeaning": "Belakangan ini, tiba-tiba menjadi dingin ya."
+  },
+  {
+    "word": "喧しい",
+    "reading": "やかましい",
+    "romaji": "yakamashii",
+    "level": "N1",
+    "partOfSpeech": "Kata Sifat I",
+    "meaning": "bising;",
+    "example": "工事の音が喧しい。",
+    "exampleReading": "こうじのおとがやかましい。",
+    "exampleMeaning": "Suara konstruksi sangat berisik."
+  },
+  {
+    "word": "葬る",
+    "reading": "ほうむる",
+    "romaji": "hōmuru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mengubur;",
+    "example": "亡くなったペットを庭に葬る。",
+    "exampleReading": "なくなったぺっとをにわにほうむる。",
+    "exampleMeaning": "Menguburkan hewan peliharaan yang mati di taman."
+  },
+  {
+    "word": "印鑑",
+    "reading": "いんかん",
+    "romaji": "inkan",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "perangko;",
+    "example": "契約書に印鑑を押す。",
+    "exampleReading": "けいやくしょにいんかんをおす。",
+    "exampleMeaning": "Membubuhkan stempel pada surat kontrak."
+  },
+  {
+    "word": "大水",
+    "reading": "おおみず",
+    "romaji": "ōmizu",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "banjir",
+    "example": "台風で大水が出た。",
+    "exampleReading": "たいふうでおおみずがでた。",
+    "exampleMeaning": "Terjadi banjir besar karena badai topan."
+  },
+  {
+    "word": "好況",
+    "reading": "こうきょう",
+    "romaji": "kōkyō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kondisi sejahtera;",
+    "example": "好況のおかげで給料が上がった。",
+    "exampleReading": "こうきょうのおかげできゅうりょうがあがった。",
+    "exampleMeaning": "Gaji naik berkat kemakmuran ekonomi."
+  },
+  {
+    "word": "人質",
+    "reading": "ひとじち",
+    "romaji": "hitojichi",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sandera;",
+    "example": "犯人は乗客を人質に取った。",
+    "exampleReading": "はんにんはじょうきゃくをひとじちにとった。",
+    "exampleMeaning": "Pelaku menjadikan penumpang sebagai sandera."
+  },
+  {
+    "word": "掲載",
+    "reading": "けいさい",
+    "romaji": "keisai",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "penampilan (misalnya artikel di kertas)",
+    "example": "雑誌に私の書いた記事が掲載された。",
+    "exampleReading": "ざっしにわたしのかいたきじがけいさいされた。",
+    "exampleMeaning": "Artikel yang saya tulis dimuat di majalah."
+  },
+  {
+    "word": "規模",
+    "reading": "きぼ",
+    "romaji": "kibo",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "skala;",
+    "example": "大規模なイベントが開催される。",
+    "exampleReading": "だいきぼないべんとがかいさいされる。",
+    "exampleMeaning": "Acara berskala besar akan diselenggarakan."
+  },
+  {
+    "word": "疎か",
+    "reading": "おろそか",
+    "romaji": "orosoka",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "menelantarkan;",
+    "example": "勉強を疎かにしてはいけない。",
+    "exampleReading": "べんきょうをおろそかにしてはいけない。",
+    "exampleMeaning": "Tidak boleh mengabaikan pelajaran."
+  },
+  {
+    "word": "見方",
+    "reading": "みかた",
+    "romaji": "mikata",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sudut pandang",
+    "example": "物事の見方を変えてみる。",
+    "exampleReading": "ものごとのみかたをかえてみる。",
+    "exampleMeaning": "Mencoba mengubah cara melihat sesuatu."
+  },
+  {
+    "word": "異議",
+    "reading": "いぎ",
+    "romaji": "igi",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "keberatan;",
+    "example": "その提案に異議はありません。",
+    "exampleReading": "そのていあんにいぎはありません。",
+    "exampleMeaning": "Saya tidak ada keberatan terhadap usulan tersebut."
+  },
+  {
+    "word": "辞職",
+    "reading": "じしょく",
+    "romaji": "jishoku",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pengunduran diri",
+    "example": "社長は責任をとって辞職した。",
+    "exampleReading": "しゃちょうはせきにんをとってじしょくした。",
+    "exampleMeaning": "Presiden direktur mengundurkan diri untuk mengambil tanggung jawab."
+  },
+  {
+    "word": "沿う",
+    "reading": "そう",
+    "romaji": "sō",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk berlari bersama;",
+    "example": "川に沿って歩く。",
+    "exampleReading": "かわにそってあるく。",
+    "exampleMeaning": "Berjalan menyusuri sungai."
+  },
+  {
+    "word": "真ん中",
+    "reading": "まんなか",
+    "romaji": "mannaka",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tengah;",
+    "example": "部屋の真ん中にテーブルを置く。",
+    "exampleReading": "へやのまんなかにてーぶるをおく。",
+    "exampleMeaning": "Meletakkan meja di tepat tengah ruangan."
+  },
+  {
+    "word": "布巾",
+    "reading": "ふきん",
+    "romaji": "fukin",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "handuk teh;",
+    "example": "テーブルをきれいな布巾で拭いてください。",
+    "exampleReading": "テーブル を きれい な ふきん で ふいて ください。",
+    "exampleMeaning": "Tolong lap mejanya dengan kain lap yang bersih."
+  },
+  {
+    "word": "閉口",
+    "reading": "へいこう",
+    "romaji": "heikō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tutup mulut",
+    "example": "彼のわがままには全く閉口する。",
+    "exampleReading": "かれ の わがまま に は まったく へいこう する。",
+    "exampleMeaning": "Saya benar-benar kehabisan kata-kata menghadapi keegoisannya."
+  },
+  {
+    "word": "如何にも",
+    "reading": "いかにも",
+    "romaji": "ikanimo",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "Memang;",
+    "example": "彼女は如何にも嬉しそうな顔をしていた。",
+    "exampleReading": "かのじょ は いかにも うれしそう な かお を して いた。",
+    "exampleMeaning": "Dia memasang wajah yang sungguh-sungguh terlihat senang."
+  },
+  {
+    "word": "揺さぶる",
+    "reading": "ゆさぶる",
+    "romaji": "yusaburu",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mengguncang;",
+    "example": "強い風が木々を激しく揺さぶった。",
+    "exampleReading": "つよい かぜ が きぎ を はげしく ゆさぶった。",
+    "exampleMeaning": "Angin kencang mengguncang pepohonan dengan hebat."
+  },
+  {
+    "word": "設定",
+    "reading": "せってい",
+    "romaji": "settei",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pembentukan;",
+    "example": "スマホの初期設定を完了させました。",
+    "exampleReading": "スマホ の しょき せってい を かんりょう させました。",
+    "exampleMeaning": "Saya telah menyelesaikan pengaturan awal smartphone."
+  },
+  {
+    "word": "絨毯",
+    "reading": "じゅうたん",
+    "romaji": "jūtan",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "karpet",
+    "example": "部屋に新しい絨毯を敷きました。",
+    "exampleReading": "へや に あたらしい じゅうたん を しきました。",
+    "exampleMeaning": "Saya menggelar karpet baru di kamar."
+  },
+  {
+    "word": "背負う",
+    "reading": "しょう",
+    "romaji": "shō",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk dibebani;",
+    "example": "彼は家族の期待を背負って頑張っている。",
+    "exampleReading": "かれ は かぞく の きたい を せおって がんばって いる。",
+    "exampleMeaning": "Dia berjuang dengan memikul harapan keluarganya."
+  },
+  {
+    "word": "大胆",
+    "reading": "だいたん",
+    "romaji": "daitan",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "berani;",
+    "example": "彼女の大胆なアイデアにみんな驚いた。",
+    "exampleReading": "かのじょ の だいたん な アイデア に みんな おどろいた。",
+    "exampleMeaning": "Semua orang terkejut dengan ide nekatnya (beraninya)."
+  },
+  {
+    "word": "名付ける",
+    "reading": "なづける",
+    "romaji": "nazukeru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk memberi nama (seseorang)",
+    "example": "その子犬をポチと名付けました。",
+    "exampleReading": "その こいぬ を ポチ と なづけました。",
+    "exampleMeaning": "Saya memberi nama anak anjing itu Pochi."
+  },
+  {
+    "word": "ファイト",
+    "reading": "ファイト",
+    "romaji": "faito",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bertarung",
+    "example": "試合前にチーム全員でファイトと叫んだ。",
+    "exampleReading": "しあい まえ に チーム ぜんいん で ファイト と さけんだ。",
+    "exampleMeaning": "Sebelum pertandingan, seluruh tim meneriakkan 'fight' (semangat)."
+  },
+  {
+    "word": "夜中",
+    "reading": "やちゅう",
+    "romaji": "yachū",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "sepanjang malam;",
+    "example": "夜中に突然電話が鳴ってびっくりした。",
+    "exampleReading": "よなか に とつぜん でんわ が なって びっくり した。",
+    "exampleMeaning": "Saya terkejut telepon berdering tiba-tiba di tengah malam."
+  },
+  {
+    "word": "辛うじて",
+    "reading": "かろうじて",
+    "romaji": "karōjite",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "hampir tidak;",
+    "example": "最終電車に辛うじて間に合った。",
+    "exampleReading": "さいしゅう でんしゃ に かろうじて まにあった。",
+    "exampleMeaning": "Saya nyaris/hampir tidak keburu kereta terakhir."
+  },
+  {
+    "word": "しくじる",
+    "reading": "しくじる",
+    "romaji": "shikujiru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "gagal;",
+    "example": "面接で大事な質問に答えられず、しくじってしまった。",
+    "exampleReading": "めんせつ で だいじ な しつもん に こたえられず、 しくじって しまった。",
+    "exampleMeaning": "Saya gagal karena tidak bisa menjawab pertanyaan penting saat wawancara."
+  },
+  {
+    "word": "模範",
+    "reading": "もはん",
+    "romaji": "mohan",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "contoh;",
+    "example": "彼は学生たちの良い模範となっている。",
+    "exampleReading": "かれ は がくせい たち の よい もはん と なって いる。",
+    "exampleMeaning": "Dia menjadi teladan yang baik bagi para siswa."
+  },
+  {
+    "word": "余り",
+    "reading": "あんまり",
+    "romaji": "anmari",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "tidak terlalu (bentuk ini hanya digunakan sebagai kata keterangan);",
+    "example": "このケーキは余り甘くないので好きです。",
+    "exampleReading": "この ケーキ は あんまり あまくない ので すき です。",
+    "exampleMeaning": "Saya suka kue ini karena tidak terlalu manis."
+  },
+  {
+    "word": "ドライ",
+    "reading": "ドライ",
+    "romaji": "dorai",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kering",
+    "example": "彼女は仕事に対してとてもドライな考え方をする。",
+    "exampleReading": "かのじょ は しごと に たいして とても ドライ な かんがえかた を する。",
+    "exampleMeaning": "Dia memiliki cara berpikir yang sangat rasional (cuek) terhadap pekerjaan."
+  },
+  {
+    "word": "粥",
+    "reading": "かゆ",
+    "romaji": "kayu",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "(nasi) bubur",
+    "example": "風邪を引いたので、お粥を作って食べた。",
+    "exampleReading": "かぜ を ひいた ので、 おかゆ を つくって たべた。",
+    "exampleMeaning": "Karena kena flu, saya membuat dan makan bubur nasi."
+  },
+  {
+    "word": "若しも",
+    "reading": "もしも",
+    "romaji": "moshimo",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "jika",
+    "example": "若しも宝くじが当たったら、世界一周旅行に行きたい。",
+    "exampleReading": "もしも たからくじ が あたったら、 せかい いっしゅう りょこう に いきたい。",
+    "exampleMeaning": "Seandainya saya menang lotre, saya ingin pergi keliling dunia."
+  },
+  {
+    "word": "先行",
+    "reading": "せんこう",
+    "romaji": "senkō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mendahului;",
+    "example": "他社に先行して新しい商品を開発した。",
+    "exampleReading": "たしゃ に せんこう して あたらしい しょうひん を かいはつ した。",
+    "exampleMeaning": "Kami mengembangkan produk baru mendahului perusahaan lain."
+  },
+  {
+    "word": "有力",
+    "reading": "ゆうりょく",
+    "romaji": "yūryoku",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "1. pengaruh;",
+    "example": "彼が次の社長になる有力な候補者だ。",
+    "exampleReading": "かれ が つぎ の しゃちょう に なる ゆうりょく な こうほしゃ だ。",
+    "exampleMeaning": "Dia adalah kandidat terkuat untuk menjadi presiden direktur berikutnya."
+  },
+  {
+    "word": "明瞭",
+    "reading": "めいりょう",
+    "romaji": "meiryō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kejelasan",
+    "example": "彼の説明はとても簡潔で明瞭だった。",
+    "exampleReading": "かれ の せつめい は とても かんけつ で めいりょう だった。",
+    "exampleMeaning": "Penjelasannya sangat ringkas dan jelas."
+  },
+  {
+    "word": "穂",
+    "reading": "ほ",
+    "romaji": "ho",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "telinga (tanaman);",
+    "example": "秋になると、稲の穂が黄金色に輝く。",
+    "exampleReading": "あき に なる と、 いね の ほ が おうごんいろ に かがやく。",
+    "exampleMeaning": "Saat musim gugur tiba, bulir padi bersinar keemasan."
+  },
+  {
+    "word": "横綱",
+    "reading": "よこづな",
+    "romaji": "yokozuna",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "juara utama sumo",
+    "example": "彼は相撲界で最強の横綱として知られている。",
+    "exampleReading": "かれ は すもうかい で さいきょう の よこづな として しられて いる。",
+    "exampleMeaning": "Dia dikenal sebagai yokozuna terkuat di dunia sumo."
+  },
+  {
+    "word": "投入",
+    "reading": "とうにゅう",
+    "romaji": "tōnyū",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "melemparkan;",
+    "example": "会社は新しいプロジェクトに多額の資金を投入した。",
+    "exampleReading": "かいしゃ は あたらしい プロジェクト に たがく の しきん を とうにゅう した。",
+    "exampleMeaning": "Perusahaan mengerahkan/memasukkan dana dalam jumlah besar ke proyek baru tersebut."
+  },
+  {
+    "word": "察する",
+    "reading": "さっする",
+    "romaji": "sassuru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja (V3)",
+    "meaning": "menebak;",
+    "example": "彼の表情から、事情を察することができた。",
+    "exampleReading": "かれ の ひょうじょう から、 じじょう を さっする こと が できた。",
+    "exampleMeaning": "Dari ekspresi wajahnya, saya bisa memahami situasinya."
+  },
+  {
+    "word": "公",
+    "reading": "おおやけ",
+    "romaji": "ōyake",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "resmi;",
+    "example": "その事件はついに公の場で発表された。",
+    "exampleReading": "その じけん は ついに おおやけ の ば で はっぴょう された。",
+    "exampleMeaning": "Insiden itu akhirnya diumumkan di tempat publik (resmi)."
+  },
+  {
+    "word": "不良",
+    "reading": "ふりょう",
+    "romaji": "furyō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kejahatan;",
+    "example": "この製品は一部の部品が不良だったため回収された。",
+    "exampleReading": "この せいひん は いちぶ の ぶひん が ふりょう だった ため かいしゅう された。",
+    "exampleMeaning": "Produk ini ditarik karena beberapa suku cadangnya berkualitas buruk."
+  },
+  {
+    "word": "没落",
+    "reading": "ぼつらく",
+    "romaji": "botsuraku",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "menghancurkan;",
+    "example": "かつて栄えていた名家も今では完全に没落してしまった。",
+    "exampleReading": "かつて さかえて いた めいか も いま で は かんぜん に ぼつらく して しまった。",
+    "exampleMeaning": "Keluarga terpandang yang dulunya makmur kini telah mengalami kejatuhan sepenuhnya."
+  },
+  {
+    "word": "取り組む",
+    "reading": "とりくむ",
+    "romaji": "torikumu",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk mengatasi;",
+    "example": "環境問題に真剣に取り組む必要がある。",
+    "exampleReading": "かんきょう もんだい に しんけん に とりくむ ひつよう が ある。",
+    "exampleMeaning": "Kita perlu sungguh-sungguh menangani masalah lingkungan."
+  },
+  {
+    "word": "兎角",
+    "reading": "とかく",
+    "romaji": "tokaku",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "bagaimanapun;",
+    "example": "最近の若者は兎角批判されがちだ。",
+    "exampleReading": "さいきん の わかもの は とかく ひはん されがち だ。",
+    "exampleMeaning": "Anak muda zaman sekarang cenderung sering dikritik bagaimanapun juga."
+  },
+  {
+    "word": "審査",
+    "reading": "しんさ",
+    "romaji": "shinsa",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "menilai;",
+    "example": "彼の作品は厳しい審査を通過した。",
+    "exampleReading": "かれ の さくひん は きびしい しんさ を つうか した。",
+    "exampleMeaning": "Karyanya lolos seleksi/penilaian yang ketat."
+  },
+  {
+    "word": "上演",
+    "reading": "じょうえん",
+    "romaji": "jōen",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pertunjukan (misalnya musik)",
+    "example": "今夜、この劇場で新しい劇が上演される。",
+    "exampleReading": "こんや、 この げきじょう で あたらしい げき が じょうえん される。",
+    "exampleMeaning": "Malam ini, sebuah drama baru akan dipentaskan di teater ini."
+  },
+  {
+    "word": "違える",
+    "reading": "ちがえる",
+    "romaji": "chigaeru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk berubah",
+    "example": "靴を左右違えて履いてしまった。",
+    "exampleReading": "くつ を さゆう ちがえて はいて しまった。",
+    "exampleMeaning": "Saya keliru memakai sepatu kanan dan kiri terbalik."
+  },
+  {
+    "word": "重んじる",
+    "reading": "おもんじる",
+    "romaji": "omonjiru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk menghormati;",
+    "example": "日本の社会では礼儀を重んじることが大切だ。",
+    "exampleReading": "にほん の しゃかい で は れいぎ を おもんじる こと が たいせつ だ。",
+    "exampleMeaning": "Dalam masyarakat Jepang, menghargai sopan santun adalah hal yang penting."
+  },
+  {
+    "word": "捗る",
+    "reading": "はかどる",
+    "romaji": "hakadoru",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "untuk membuat kemajuan;",
+    "example": "静かな図書館では勉強がよく捗る。",
+    "exampleReading": "しずかな としょかん で は べんきょう が よく はかどる。",
+    "exampleMeaning": "Di perpustakaan yang tenang, belajar menjadi lancar."
+  },
+  {
+    "word": "ドリル",
+    "reading": "ドリル",
+    "romaji": "doriru",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mengebor",
+    "example": "毎日漢字のドリルを解いて練習している。",
+    "exampleReading": "まいにち かんじ の ドリル を といて れんしゅう して いる。",
+    "exampleMeaning": "Saya berlatih dengan mengerjakan latihan berulang kanji setiap hari."
+  },
+  {
+    "word": "登校",
+    "reading": "とうこう",
+    "romaji": "tōkō",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "kehadiran (di sekolah)",
+    "example": "彼は毎朝７時に登校する。",
+    "exampleReading": "かれ は まいあさ しちじ に とうこう する。",
+    "exampleMeaning": "Dia pergi ke sekolah pada pukul 7 setiap pagi."
+  },
+  {
+    "word": "効率",
+    "reading": "こうりつ",
+    "romaji": "kōritsu",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "efisiensi",
+    "example": "仕事の効率を上げるために新しいツールを導入した。",
+    "exampleReading": "しごと の こうりつ を あげる ため に あたらしい ツール を どうにゅう した。",
+    "exampleMeaning": "Saya memperkenalkan alat baru untuk meningkatkan efisiensi kerja."
+  },
+  {
+    "word": "懐く",
+    "reading": "なつく",
+    "romaji": "natsuku",
+    "level": "N1",
+    "partOfSpeech": "Kata Kerja",
+    "meaning": "menjadi terikat secara emosional",
+    "example": "近所の野良猫がすっかり私に懐いた。",
+    "exampleReading": "きんじょ の のらねこ が すっかり わたし に なついた。",
+    "exampleMeaning": "Kucing liar di lingkungan sekitar sudah sangat akrab dengan saya."
+  },
+  {
+    "word": "レギュラー",
+    "reading": "レギュラー",
+    "romaji": "regyurā",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "biasa",
+    "example": "彼はついにサッカーチームのレギュラーになった。",
+    "exampleReading": "かれ は ついに サッカー チーム の レギュラー に なった。",
+    "exampleMeaning": "Dia akhirnya menjadi pemain reguler (tetap) di tim sepak bola."
+  },
+  {
+    "word": "土木",
+    "reading": "どぼく",
+    "romaji": "doboku",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pekerjaan Umum",
+    "example": "彼は大学で土木工学を専攻している。",
+    "exampleReading": "かれ は だいがく で どぼく こうがく を せんこう して いる。",
+    "exampleMeaning": "Dia mengambil jurusan teknik sipil di universitas."
+  },
+  {
+    "word": "変革",
+    "reading": "へんかく",
+    "romaji": "henkaku",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "mengubah;",
+    "example": "新しい社長が会社に大きな変革をもたらした。",
+    "exampleReading": "あたらしい しゃちょう が かいしゃ に おおきな へんかく を もたらした。",
+    "exampleMeaning": "Presiden direktur yang baru membawa perubahan besar bagi perusahaan."
+  },
+  {
+    "word": "大筋",
+    "reading": "おおすじ",
+    "romaji": "ōsuji",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "garis besar;",
+    "example": "計画の大筋について、全員の合意が得られた。",
+    "exampleReading": "けいかく の おおすじ に ついて、 ぜんいん の ごうい が えられた。",
+    "exampleMeaning": "Persetujuan semua orang telah didapat mengenai garis besar rencana tersebut."
+  },
+  {
+    "word": "人",
+    "reading": "じん",
+    "romaji": "jin",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "pria;",
+    "example": "彼はアメリカ人で、日本に留学しています。",
+    "exampleReading": "かれ は アメリカじん で、 にほん に りゅうがく して います。",
+    "exampleMeaning": "Dia adalah orang Amerika dan sedang belajar di Jepang."
+  },
+  {
+    "word": "何処",
+    "reading": "どこ",
+    "romaji": "doko",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "Di mana;",
+    "example": "トイレは何処にありますか。",
+    "exampleReading": "トイレ は どこ に あります か。",
+    "exampleMeaning": "Di manakah letak toilet?"
+  },
+  {
+    "word": "フォーム",
+    "reading": "フォーム",
+    "romaji": "fōmu",
+    "level": "N1",
+    "partOfSpeech": "Kata Benda",
+    "meaning": "busa;",
+    "example": "テニスのスイングのフォームを改善した。",
+    "exampleReading": "テニス の スイング の フォーム を かいぜん した。",
+    "exampleMeaning": "Saya memperbaiki postur ayunan tenis saya."
   }
 ];

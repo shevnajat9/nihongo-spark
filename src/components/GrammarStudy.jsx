@@ -1,8 +1,18 @@
 import React, { useState } from 'react';
 import { grammarData } from '../data/grammar';
+import { markChecklistDone, getTodayChecklist } from '../utils/checklist';
 
-export default function GrammarStudy({ currentLevel }) {
+export default function GrammarStudy({ currentLevel, studyStats, setStudyStats }) {
   const [searchQuery, setSearchQuery] = useState('');
+
+  const grammarDoneToday = studyStats ? getTodayChecklist(studyStats).grammar : false;
+
+  const handleMarkRead = () => {
+    if (!setStudyStats || !studyStats) return;
+    const updatedStats = markChecklistDone(studyStats, 'grammar');
+    setStudyStats(updatedStats);
+    localStorage.setItem('nihongo_spark_stats', JSON.stringify(updatedStats));
+  };
 
   // Filter grammar by current level and search query
   const filteredGrammar = grammarData.filter(item => {
@@ -38,6 +48,11 @@ export default function GrammarStudy({ currentLevel }) {
         <p style={{ color: 'var(--text-secondary)' }}>
           Pelajari struktur kalimat bahasa Jepang tingkat {currentLevel}. Dilengkapi penjelasan rumus dan kalimat contoh interaktif.
         </p>
+        {studyStats && (
+          <p style={{ fontSize: '0.85rem', color: grammarDoneToday ? 'var(--accent-emerald)' : 'var(--accent-cyan)', marginTop: '0.5rem' }}>
+            {grammarDoneToday ? '✓ Target belajar grammar hari ini sudah selesai' : 'Tandai salah satu pola sebagai sudah dibaca untuk menyelesaikan target harian.'}
+          </p>
+        )}
       </div>
 
       {/* Search Bar */}
@@ -49,6 +64,16 @@ export default function GrammarStudy({ currentLevel }) {
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
         />
+        {searchQuery && (
+          <button
+            className="search-clear-btn"
+            onClick={() => setSearchQuery('')}
+            aria-label="Hapus pencarian"
+            title="Hapus pencarian"
+          >
+            ×
+          </button>
+        )}
       </div>
 
       {filteredGrammar.length === 0 ? (
@@ -68,7 +93,19 @@ export default function GrammarStudy({ currentLevel }) {
                 <span style={{ fontSize: '0.8rem', padding: '4px 10px', borderRadius: '30px', background: 'rgba(139, 92, 246, 0.15)', color: 'var(--accent-primary)', fontWeight: 'bold' }}>
                   JLPT {item.level}
                 </span>
-                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Pola #{idx + 1}</span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                  <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Pola #{idx + 1}</span>
+                  {studyStats && (
+                    <button
+                      className={`review-btn ${grammarDoneToday ? 'review-btn-yes' : 'review-btn-no'}`}
+                      style={{ flex: 'none', padding: '0.3rem 0.75rem', fontSize: '0.75rem' }}
+                      onClick={handleMarkRead}
+                      disabled={grammarDoneToday}
+                    >
+                      {grammarDoneToday ? '✓ Sudah Dibaca' : 'Tandai Sudah Dibaca'}
+                    </button>
+                  )}
+                </div>
               </div>
 
               <div className="grammar-pattern">{item.pattern}</div>
@@ -94,6 +131,7 @@ export default function GrammarStudy({ currentLevel }) {
                           className="audio-btn"
                           onClick={() => speak(ex.sentence)}
                           title="Dengarkan pelafalan"
+                          aria-label="Dengarkan pelafalan kalimat contoh"
                         >
                           <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                             <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />

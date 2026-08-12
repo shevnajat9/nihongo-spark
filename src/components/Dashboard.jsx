@@ -1,18 +1,47 @@
 import React, { useState, useEffect } from 'react';
+import { vocabData } from '../data/vocab';
+import { kanjiData } from '../data/kanji';
+import { loadProgress, isDue, getMasteryStatus } from '../utils/srs';
+import { getTodayChecklist } from '../utils/checklist';
+
+const LEVELS = ['N5', 'N4', 'N3', 'N2', 'N1'];
 
 export default function Dashboard({ 
   currentLevel, 
   setCurrentLevel, 
   studyStats, 
-  setStudyStats, 
-  completedTasks, 
-  setCompletedTasks 
+  setActiveTab
 }) {
-  const [checklist, setChecklist] = useState({
-    vocab: false,
-    grammar: false,
-    quiz: false
-  });
+  const [dueVocab, setDueVocab] = useState(0);
+  const [dueKanji, setDueKanji] = useState(0);
+  const [levelMastery, setLevelMastery] = useState({});
+
+  useEffect(() => {
+    const vocabProgress = loadProgress('nihongo_spark_vocab_progress');
+    const kanjiProgress = loadProgress('nihongo_spark_kanji_progress');
+    setDueVocab(vocabData.filter(v => isDue(vocabProgress, `${v.level}__${v.word}`)).length);
+    setDueKanji(kanjiData.filter(k => isDue(kanjiProgress, `${k.level}__${k.kanji}`)).length);
+
+    // Hitung persentase penguasaan (mastered) per level JLPT, gabungan vocab + kanji.
+    const mastery = {};
+    LEVELS.forEach(level => {
+      const levelVocab = vocabData.filter(v => v.level === level);
+      const levelKanji = kanjiData.filter(k => k.level === level);
+      const total = levelVocab.length + levelKanji.length;
+      if (total === 0) {
+        mastery[level] = 0;
+        return;
+      }
+      const masteredVocab = levelVocab.filter(v => getMasteryStatus(vocabProgress, `${v.level}__${v.word}`) === 'mastered').length;
+      const masteredKanji = levelKanji.filter(k => getMasteryStatus(kanjiProgress, `${k.level}__${k.kanji}`) === 'mastered').length;
+      mastery[level] = Math.round(((masteredVocab + masteredKanji) / total) * 100);
+    });
+    setLevelMastery(mastery);
+  }, []);
+
+  // Checklist harian bersifat otomatis (dipicu dari aktivitas nyata di Vocab/Grammar/Quiz),
+  // bukan dicentang manual, supaya progres yang ditampilkan benar-benar mencerminkan belajar.
+  const checklist = getTodayChecklist(studyStats);
 
   // Calculate completion percentage
   const completedCount = Object.values(checklist).filter(Boolean).length;
@@ -22,48 +51,6 @@ export default function Dashboard({
   const radius = 60;
   const circumference = 2 * Math.PI * radius;
   const strokeDashoffset = circumference - (percent / 100) * circumference;
-
-  useEffect(() => {
-    // Load checklist status from studyStats if exists
-    const today = new Date().toDateString();
-    if (studyStats.lastStudyDate === today) {
-      setChecklist(studyStats.todayChecklist || { vocab: false, grammar: false, quiz: false });
-    } else {
-      // New day, reset checklist
-      setChecklist({ vocab: false, grammar: false, quiz: false });
-    }
-  }, [studyStats]);
-
-  const toggleChecklist = (key) => {
-    const updated = { ...checklist, [key]: !checklist[key] };
-    setChecklist(updated);
-
-    // Save checklist back to statistics
-    const today = new Date().toDateString();
-    let updatedStats = { ...studyStats };
-
-    // Update streak logic
-    if (Object.values(updated).some(Boolean) && studyStats.lastStudyDate !== today) {
-      // Check if last study was yesterday
-      const yesterday = new Date();
-      yesterday.setDate(yesterday.getDate() - 1);
-      const isStreakContinued = studyStats.lastStudyDate === yesterday.toDateString();
-
-      updatedStats.streak = isStreakContinued ? (studyStats.streak || 0) + 1 : 1;
-      updatedStats.lastStudyDate = today;
-
-      // Add to study calendar history
-      const history = [...(studyStats.history || [])];
-      if (!history.includes(today)) {
-        history.push(today);
-      }
-      updatedStats.history = history;
-    }
-
-    updatedStats.todayChecklist = updated;
-    setStudyStats(updatedStats);
-    localStorage.setItem('nihongo_spark_stats', JSON.stringify(updatedStats));
-  };
 
   // Generate 28 days contribution map for premium look
   const getContributionDays = () => {
@@ -90,7 +77,7 @@ export default function Dashboard({
           Tingkat JLPT Aktif
         </h3>
         <div className="jlpt-selector">
-          {['N5', 'N4', 'N3', 'N2', 'N1'].map((level) => (
+          {LEVELS.map((level) => (
             <button
               key={level}
               className={`jlpt-btn ${currentLevel === level ? 'active' : ''}`}
@@ -98,6 +85,17 @@ export default function Dashboard({
             >
               {level}
             </button>
+          ))}
+        </div>
+
+        <div className="level-mastery-row">
+          {LEVELS.map((level) => (
+            <div key={level} className="level-mastery-item" title={`${levelMastery[level] || 0}% dikuasai di level ${level}`}>
+              <div className="level-mastery-bar">
+                <div className="level-mastery-fill" style={{ width: `${levelMastery[level] || 0}%` }} />
+              </div>
+              <span className="level-mastery-label">{level} · {levelMastery[level] || 0}%</span>
+            </div>
           ))}
         </div>
       </div>
@@ -134,6 +132,34 @@ export default function Dashboard({
               </div>
             </div>
           </div>
+
+          {/* Spaced-Repetition Reminder */}
+          {(dueVocab > 0 || dueKanji > 0) && (
+            <div className="glass-panel" style={{ padding: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem', border: '1px solid rgba(244, 63, 94, 0.25)' }}>
+              <div>
+                <h2 style={{ fontSize: '1.1rem', fontWeight: '600', marginBottom: '0.3rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                  🔁 Waktunya Mengulang!
+                </h2>
+                <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
+                  {dueVocab > 0 && <span>{dueVocab} kosakata</span>}
+                  {dueVocab > 0 && dueKanji > 0 && ' dan '}
+                  {dueKanji > 0 && <span>{dueKanji} kanji</span>} menunggu untuk diulang supaya tidak lupa.
+                </p>
+              </div>
+              <div style={{ display: 'flex', gap: '0.75rem' }}>
+                {dueVocab > 0 && (
+                  <button className="canvas-btn review-btn-no" style={{ padding: '0.6rem 1.25rem', borderRadius: '30px' }} onClick={() => setActiveTab && setActiveTab('vocab')}>
+                    Ulas Kosakata
+                  </button>
+                )}
+                {dueKanji > 0 && (
+                  <button className="canvas-btn review-btn-no" style={{ padding: '0.6rem 1.25rem', borderRadius: '30px' }} onClick={() => setActiveTab && setActiveTab('kanji')}>
+                    Ulas Kanji
+                  </button>
+                )}
+              </div>
+            </div>
+          )}
 
           {/* Activity Tracker (Heatmap style) */}
           <div className="glass-panel" style={{ padding: '1.8rem' }}>
@@ -181,27 +207,29 @@ export default function Dashboard({
         {/* Sidebar Panel - Checklist and Progress Ring */}
         <div className="dashboard-side flex-col" style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
           {/* Circular Progress */}
-          <div className="glass-panel progress-container" style={{ position: 'relative' }}>
-            <svg className="circle-svg">
-              <defs>
-                <linearGradient id="progress-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stopColor="var(--accent-primary)" />
-                  <stop offset="100%" stopColor="var(--accent-cyan)" />
-                </linearGradient>
-              </defs>
-              <circle className="circle-bg" cx="75" cy="75" r={radius} />
-              <circle 
-                className="circle-progress" 
-                cx="75" 
-                cy="75" 
-                r={radius} 
-                strokeDasharray={circumference}
-                strokeDashoffset={strokeDashoffset}
-              />
-            </svg>
-            <div className="progress-text">
-              <span className="progress-percent">{percent}%</span>
-              <span className="progress-label">Harian</span>
+          <div className="glass-panel progress-container">
+            <div className="progress-ring-wrapper">
+              <svg className="circle-svg">
+                <defs>
+                  <linearGradient id="progress-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stopColor="var(--accent-primary)" />
+                    <stop offset="100%" stopColor="var(--accent-cyan)" />
+                  </linearGradient>
+                </defs>
+                <circle className="circle-bg" cx="75" cy="75" r={radius} />
+                <circle 
+                  className="circle-progress" 
+                  cx="75" 
+                  cy="75" 
+                  r={radius} 
+                  strokeDasharray={circumference}
+                  strokeDashoffset={strokeDashoffset}
+                />
+              </svg>
+              <div className="progress-text">
+                <span className="progress-percent">{percent}%</span>
+                <span className="progress-label">Harian</span>
+              </div>
             </div>
             <h3 style={{ marginTop: '1.2rem', fontSize: '1.1rem', fontWeight: '600' }}>Target Belajar Hari Ini</h3>
             <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginTop: '0.25rem', textAlign: 'center' }}>
@@ -218,11 +246,15 @@ export default function Dashboard({
               </svg>
               Tugas Belajar Harian
             </h2>
+            <p style={{ fontSize: '0.78rem', color: 'var(--text-muted)', marginTop: '-0.5rem', marginBottom: '1rem' }}>
+              Otomatis tercentang berdasarkan aktivitas belajar Anda yang sesungguhnya.
+            </p>
             
             <div className="checklist-item">
               <div 
                 className={`checkbox-custom ${checklist.vocab ? 'checked' : ''}`}
-                onClick={() => toggleChecklist('vocab')}
+                role="status"
+                aria-label={`Pelajari 5 Kosakata ${currentLevel}: ${checklist.vocab ? 'selesai' : 'belum selesai'}`}
               >
                 {checklist.vocab && '✓'}
               </div>
@@ -234,7 +266,8 @@ export default function Dashboard({
             <div className="checklist-item">
               <div 
                 className={`checkbox-custom ${checklist.grammar ? 'checked' : ''}`}
-                onClick={() => toggleChecklist('grammar')}
+                role="status"
+                aria-label={`Baca 1 Pola Tata Bahasa ${currentLevel}: ${checklist.grammar ? 'selesai' : 'belum selesai'}`}
               >
                 {checklist.grammar && '✓'}
               </div>
@@ -246,7 +279,8 @@ export default function Dashboard({
             <div className="checklist-item">
               <div 
                 className={`checkbox-custom ${checklist.quiz ? 'checked' : ''}`}
-                onClick={() => toggleChecklist('quiz')}
+                role="status"
+                aria-label={`Ikuti 1 Latihan Kuis: ${checklist.quiz ? 'selesai' : 'belum selesai'}`}
               >
                 {checklist.quiz && '✓'}
               </div>

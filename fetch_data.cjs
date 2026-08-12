@@ -11,7 +11,7 @@ async function fetchVocab() {
   for (let level = 5; level >= 1; level--) {
     console.log(`Fetching N${level} vocabulary...`);
     try {
-      const response = await fetch(`https://jlpt-vocab-api.vercel.app/api/words?level=${level}&limit=80`);
+      const response = await fetch(`https://jlpt-vocab-api.vercel.app/api/words?level=${level}&limit=150`);
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
       const data = await response.json();
       
@@ -65,8 +65,8 @@ async function fetchKanji(vocabPool) {
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
       const kanjiList = await response.json();
       
-      // Take the top 30 Kanji characters for each level
-      const targetKanji = kanjiList.slice(0, 30);
+      // Take the top 50 Kanji characters for each level
+      const targetKanji = kanjiList.slice(0, 50);
       console.log(`Fetching details for ${targetKanji.length} Kanji for N${level}...`);
       
       for (const char of targetKanji) {
