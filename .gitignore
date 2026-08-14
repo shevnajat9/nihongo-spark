@@ -18,6 +18,12 @@ MATERI JLPT/
 # Artefak Windows (redirect NUL di bash)
 nul
 
+# Dokumen plan lokal (tidak ikut repo)
+.hermes/
+
+# Data mentah hasil download (bisa di-fetch ulang)
+scripts/raw/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
