@@ -24,12 +24,12 @@ export const kanjiN5 = [
    {
     "word": "一つ",
     "reading": "ひとつ",
-    "meaning": "one"
+    "meaning": "satu"
    },
    {
     "word": "一日",
     "reading": "いちにち",
-    "meaning": "(1) one day, (2) first of month"
+    "meaning": "(1) suatu hari, (2) pertama bulan"
    }
   ]
  },
@@ -54,17 +54,17 @@ export const kanjiN5 = [
    {
     "word": "二日",
     "reading": "ふつか",
-    "meaning": "two days, second day of the month"
+    "meaning": "dua hari, hari kedua setiap bulan"
    },
    {
     "word": "二十日",
     "reading": "はつか",
-    "meaning": "twenty days,twentieth"
+    "meaning": "dua puluh hari, dua puluh"
    },
    {
     "word": "二つ",
     "reading": "ふたつ",
-    "meaning": "two"
+    "meaning": "dua"
    }
   ]
  },
@@ -87,12 +87,12 @@ export const kanjiN5 = [
    {
     "word": "九日",
     "reading": "ここのか",
-    "meaning": "nine days, ninth day"
+    "meaning": "sembilan hari, hari kesembilan"
    },
    {
     "word": "九つ",
     "reading": "ここのつ",
-    "meaning": "nine"
+    "meaning": "sembilan"
    }
   ]
  },
@@ -120,7 +120,7 @@ export const kanjiN5 = [
    {
     "word": "七日",
     "reading": "なのか",
-    "meaning": "seven days,the seventh day"
+    "meaning": "tujuh hari, hari ketujuh"
    }
   ]
  },
@@ -144,17 +144,17 @@ export const kanjiN5 = [
    {
     "word": "大人",
     "reading": "おとな",
-    "meaning": "adult"
+    "meaning": "dewasa"
    },
    {
     "word": "一人",
     "reading": "ひとり",
-    "meaning": "one person"
+    "meaning": "satu orang"
    },
    {
     "word": "二人",
     "reading": "ふたり",
-    "meaning": "two people"
+    "meaning": "dua orang"
    }
   ]
  },
@@ -182,17 +182,17 @@ export const kanjiN5 = [
    {
     "word": "入る",
     "reading": "はいる",
-    "meaning": "to enter,to contain"
+    "meaning": "untuk masuk, untuk menampung"
    },
    {
     "word": "入れる",
     "reading": "いれる",
-    "meaning": "to put in"
+    "meaning": "untuk dimasukkan"
    },
    {
     "word": "入口",
     "reading": "いりぐち",
-    "meaning": "entrance"
+    "meaning": "pintu masuk"
    }
   ]
  },
@@ -217,17 +217,17 @@ export const kanjiN5 = [
    {
     "word": "八百屋",
     "reading": "やおや",
-    "meaning": "greengrocer"
+    "meaning": "penjual sayur"
    },
    {
     "word": "八日",
     "reading": "ようか",
-    "meaning": "eight days, eighth day of the month"
+    "meaning": "delapan hari, hari kedelapan setiap bulan"
    },
    {
     "word": "八つ",
     "reading": "やっつ",
-    "meaning": "eight"
+    "meaning": "delapan"
    }
   ]
  },
@@ -251,17 +251,17 @@ export const kanjiN5 = [
    {
     "word": "二十日",
     "reading": "はつか",
-    "meaning": "twenty days,twentieth"
+    "meaning": "dua puluh hari, dua puluh"
    },
    {
     "word": "十日",
     "reading": "とおか",
-    "meaning": "ten days,the tenth day"
+    "meaning": "sepuluh hari, hari kesepuluh"
    },
    {
     "word": "二十歳",
     "reading": "はたち",
-    "meaning": "20 years old,20th year"
+    "meaning": "20 tahun, tahun ke 20"
    }
   ]
  },
@@ -285,12 +285,12 @@ export const kanjiN5 = [
    {
     "word": "三つ",
     "reading": "みっつ",
-    "meaning": "three"
+    "meaning": "tiga"
    },
    {
     "word": "三日",
     "reading": "みっか",
-    "meaning": "three days, third day of the month"
+    "meaning": "tiga hari, hari ketiga setiap bulan"
    },
    {
     "word": "三日月",
@@ -333,17 +333,17 @@ export const kanjiN5 = [
    {
     "word": "上げる",
     "reading": "あげる",
-    "meaning": "to give"
+    "meaning": "untuk memberi"
    },
    {
     "word": "上着",
     "reading": "うわぎ",
-    "meaning": "jacket"
+    "meaning": "jaket"
    },
    {
     "word": "上手",
     "reading": "じょうず",
-    "meaning": "skillful"
+    "meaning": "mahir"
    }
   ]
  },
@@ -386,7 +386,7 @@ export const kanjiN5 = [
    {
     "word": "下手",
     "reading": "へた",
-    "meaning": "tidak terampil"
+    "meaning": "tidak licin"
    },
    {
     "word": "地下鉄",
@@ -426,7 +426,7 @@ export const kanjiN5 = [
    {
     "word": "大好き",
     "reading": "だいすき",
-    "meaning": "to be very likeable"
+    "meaning": "menjadi sangat disukai"
    }
   ]
  },
@@ -451,17 +451,17 @@ export const kanjiN5 = [
    {
     "word": "女の子",
     "reading": "おんなのこ",
-    "meaning": "girl"
+    "meaning": "gadis"
    },
    {
     "word": "女性",
     "reading": "じょせい",
-    "meaning": "woman"
+    "meaning": "wanita"
    },
    {
     "word": "彼女",
     "reading": "かのじょ",
-    "meaning": "she,girlfriend"
+    "meaning": "dia, pacar"
    }
   ]
  },
@@ -483,7 +483,7 @@ export const kanjiN5 = [
    {
     "word": "登山",
     "reading": "とざん",
-    "meaning": "mountain-climbing"
+    "meaning": "pendakian gunung"
    },
    {
     "word": "山林",
@@ -511,7 +511,7 @@ export const kanjiN5 = [
    {
     "word": "川/河",
     "reading": "かわ",
-    "meaning": "river"
+    "meaning": "sungai"
    }
   ]
  },
@@ -536,17 +536,17 @@ export const kanjiN5 = [
    {
     "word": "土曜日",
     "reading": "どようび",
-    "meaning": "Saturday"
+    "meaning": "Sabtu"
    },
    {
     "word": "お土産",
     "reading": "おみやげ",
-    "meaning": "souvenir"
+    "meaning": "suvenir"
    },
    {
     "word": "土曜",
     "reading": "どよう",
-    "meaning": "Saturday"
+    "meaning": "Sabtu"
    }
   ]
  },
@@ -567,7 +567,7 @@ export const kanjiN5 = [
    {
     "word": "千",
     "reading": "せん",
-    "meaning": "thousand"
+    "meaning": "ribu"
    }
   ]
  },
@@ -600,12 +600,12 @@ export const kanjiN5 = [
    {
     "word": "お菓子",
     "reading": "おかし",
-    "meaning": "sweets, candy"
+    "meaning": "permen, permen"
    },
    {
     "word": "帽子",
     "reading": "ぼうし",
-    "meaning": "hat"
+    "meaning": "topi"
    }
   ]
  },
@@ -630,12 +630,12 @@ export const kanjiN5 = [
    {
     "word": "小さな",
     "reading": "ちいさな",
-    "meaning": "little"
+    "meaning": "kecil"
    },
    {
     "word": "小さい",
     "reading": "ちいさい",
-    "meaning": "little"
+    "meaning": "kecil"
    },
    {
     "word": "小鳥",
@@ -672,12 +672,12 @@ export const kanjiN5 = [
    {
     "word": "途中",
     "reading": "とちゅう",
-    "meaning": "on the way"
+    "meaning": "dalam perjalanan"
    },
    {
     "word": "中学校",
     "reading": "ちゅうがっこう",
-    "meaning": "junior high school,middle school"
+    "meaning": "sekolah menengah pertama, sekolah menengah pertama"
    }
   ]
  },
@@ -704,7 +704,7 @@ export const kanjiN5 = [
    {
     "word": "五日",
     "reading": "いつか",
-    "meaning": "five days, fifth day"
+    "meaning": "lima hari, hari kelima"
    }
   ]
  },
@@ -734,7 +734,7 @@ export const kanjiN5 = [
    {
     "word": "六つ",
     "reading": "むっつ",
-    "meaning": "six"
+    "meaning": "enam"
    }
   ]
  },
@@ -761,7 +761,7 @@ export const kanjiN5 = [
    {
     "word": "丸い/円い",
     "reading": "まるい",
-    "meaning": "round,circular"
+    "meaning": "bulat, melingkar"
    }
   ]
  },
@@ -786,17 +786,17 @@ export const kanjiN5 = [
    {
     "word": "天気",
     "reading": "てんき",
-    "meaning": "weather"
+    "meaning": "cuaca"
    },
    {
     "word": "天気予報",
     "reading": "てんきよほう",
-    "meaning": "weather forecast"
+    "meaning": "ramalan cuaca"
    },
    {
     "word": "天然",
     "reading": "てんねん",
-    "meaning": "nature,spontaneity"
+    "meaning": "alam, spontanitas"
    }
   ]
  },
@@ -828,12 +828,12 @@ export const kanjiN5 = [
    {
     "word": "一日",
     "reading": "いちにち",
-    "meaning": "(1) one day, (2) first of month"
+    "meaning": "(1) suatu hari, (2) pertama bulan"
    },
    {
     "word": "今日",
     "reading": "きょう",
-    "meaning": "today"
+    "meaning": "Hari ini"
    }
   ]
  },
@@ -866,7 +866,7 @@ export const kanjiN5 = [
    {
     "word": "来月",
     "reading": "らいげつ",
-    "meaning": "next month"
+    "meaning": "bulan depan"
    }
   ]
  },
@@ -890,17 +890,17 @@ export const kanjiN5 = [
    {
     "word": "木曜日",
     "reading": "もくようび",
-    "meaning": "Thursday"
+    "meaning": "Kamis"
    },
    {
     "word": "木綿",
     "reading": "もめん",
-    "meaning": "cotton"
+    "meaning": "kapas"
    },
    {
     "word": "木曜",
     "reading": "もくよう",
-    "meaning": "Thursday"
+    "meaning": "Kamis"
    }
   ]
  },
@@ -922,7 +922,7 @@ export const kanjiN5 = [
    {
     "word": "水曜日",
     "reading": "すいようび",
-    "meaning": "Wednesday"
+    "meaning": "Rabu"
    },
    {
     "word": "水泳",
@@ -932,7 +932,7 @@ export const kanjiN5 = [
    {
     "word": "水道",
     "reading": "すいどう",
-    "meaning": "water supply"
+    "meaning": "persediaan air"
    }
   ]
  },
@@ -955,7 +955,7 @@ export const kanjiN5 = [
    {
     "word": "火曜日",
     "reading": "かようび",
-    "meaning": "Tuesday"
+    "meaning": "Selasa"
    },
    {
     "word": "火事",
@@ -997,17 +997,17 @@ export const kanjiN5 = [
    {
     "word": "出す",
     "reading": "だす",
-    "meaning": "to put out"
+    "meaning": "untuk memadamkan"
    },
    {
     "word": "出口",
     "reading": "でぐち",
-    "meaning": "exit"
+    "meaning": "KELUAR"
    },
    {
     "word": "出る",
     "reading": "でる",
-    "meaning": "to appear,to leave"
+    "meaning": "untuk muncul, untuk pergi"
    }
   ]
  },
@@ -1029,7 +1029,7 @@ export const kanjiN5 = [
    {
     "word": "左右",
     "reading": "さゆう",
-    "meaning": "(1) left and right,(2) influence,control,domination"
+    "meaning": "(1) kiri dan kanan, (2) pengaruh, kendali, dominasi"
    }
   ]
  },
@@ -1053,12 +1053,12 @@ export const kanjiN5 = [
    {
     "word": "四つ",
     "reading": "よっつ",
-    "meaning": "four"
+    "meaning": "empat"
    },
    {
     "word": "四日",
     "reading": "よっか",
-    "meaning": "four days, fouth day of the month"
+    "meaning": "empat hari, hari keempat setiap bulan"
    },
    {
     "word": "四季",
@@ -1085,7 +1085,7 @@ export const kanjiN5 = [
    {
     "word": "左右",
     "reading": "さゆう",
-    "meaning": "(1) left and right,(2) influence,control,domination"
+    "meaning": "(1) kiri dan kanan, (2) pengaruh, kendali, dominasi"
    }
   ]
  },
@@ -1112,17 +1112,17 @@ export const kanjiN5 = [
    {
     "word": "本棚",
     "reading": "ほんだな",
-    "meaning": "bookshelves"
+    "meaning": "rak buku"
    },
    {
     "word": "資本",
     "reading": "しほん",
-    "meaning": "funds,capital"
+    "meaning": "dana, modal"
    },
    {
     "word": "日本",
     "reading": "にっぽん",
-    "meaning": "Japan"
+    "meaning": "Jepang"
    }
   ]
  },
@@ -1146,7 +1146,7 @@ export const kanjiN5 = [
    {
     "word": "白い",
     "reading": "しろい",
-    "meaning": "white"
+    "meaning": "putih"
    },
    {
     "word": "蛋白質",
@@ -1174,12 +1174,12 @@ export const kanjiN5 = [
    {
     "word": "万年筆",
     "reading": "まんねんひつ",
-    "meaning": "pulpen"
+    "meaning": "bubur kertas"
    },
    {
     "word": "万一",
     "reading": "まんいち",
-    "meaning": "by some chance,by some possibility,if by any chance,10E4:1 odds"
+    "meaning": "secara kebetulan, dengan kemungkinan tertentu, jika kebetulan, peluang 10E4:1"
    }
   ]
  },
@@ -1206,12 +1206,12 @@ export const kanjiN5 = [
    {
     "word": "今朝",
     "reading": "けさ",
-    "meaning": "this morning"
+    "meaning": "pagi ini"
    },
    {
     "word": "今日",
     "reading": "きょう",
-    "meaning": "today"
+    "meaning": "Hari ini"
    }
   ]
  },
@@ -1235,17 +1235,17 @@ export const kanjiN5 = [
    {
     "word": "午後",
     "reading": "ごご",
-    "meaning": "afternoon"
+    "meaning": "sore"
    },
    {
     "word": "午前",
     "reading": "ごぜん",
-    "meaning": "morning"
+    "meaning": "Pagi"
    },
    {
     "word": "正午",
     "reading": "しょうご",
-    "meaning": "noon,mid-day"
+    "meaning": "siang, tengah hari"
    }
   ]
  },
@@ -1266,17 +1266,17 @@ export const kanjiN5 = [
    {
     "word": "友達",
     "reading": "ともだち",
-    "meaning": "friend"
+    "meaning": "teman"
    },
    {
     "word": "友人",
     "reading": "ゆうじん",
-    "meaning": "friend"
+    "meaning": "teman"
    },
    {
     "word": "友情",
     "reading": "ゆうじょう",
-    "meaning": "friendship,fellowship"
+    "meaning": "persahabatan, persahabatan"
    }
   ]
  },
@@ -1302,7 +1302,7 @@ export const kanjiN5 = [
    {
     "word": "伯父/叔父",
     "reading": "おじいさん",
-    "meaning": "grandfather,male senior citizen"
+    "meaning": "kakek, warga senior laki-laki"
    },
    {
     "word": "祖父",
@@ -1353,17 +1353,17 @@ export const kanjiN5 = [
    {
     "word": "半分",
     "reading": "はんぶん",
-    "meaning": "half minute"
+    "meaning": "setengah menit"
    },
    {
     "word": "半ば",
     "reading": "なかば",
-    "meaning": "middle,half,semi,halfway,partly"
+    "meaning": "tengah, setengah, semi, setengah jalan, sebagian"
    },
    {
     "word": "大半",
     "reading": "たいはん",
-    "meaning": "majority,mostly,generally"
+    "meaning": "mayoritas, sebagian besar, umumnya"
    }
   ]
  },
@@ -1389,17 +1389,17 @@ export const kanjiN5 = [
    {
     "word": "外国",
     "reading": "がいこく",
-    "meaning": "foreign country"
+    "meaning": "negara asing"
    },
    {
     "word": "外国人",
     "reading": "がいこくじん",
-    "meaning": "foreigner"
+    "meaning": "orang asing"
    },
    {
     "word": "郊外",
     "reading": "こうがい",
-    "meaning": "outskirts"
+    "meaning": "pinggiran kota"
    }
   ]
  },
@@ -1421,12 +1421,12 @@ export const kanjiN5 = [
    {
     "word": "お母さん",
     "reading": "おかあさん",
-    "meaning": "(honorable) mother"
+    "meaning": "(terhormat) ibu"
    },
    {
     "word": "伯母さん/叔母さん",
     "reading": "おばさん",
-    "meaning": "aunt"
+    "meaning": "tante"
    },
    {
     "word": "祖母",
@@ -1462,12 +1462,12 @@ export const kanjiN5 = [
    {
     "word": "夏休み",
     "reading": "なつやすみ",
-    "meaning": "summer holiday"
+    "meaning": "liburan musim panas"
    },
    {
     "word": "休む",
     "reading": "やすむ",
-    "meaning": "to rest"
+    "meaning": "untuk beristirahat"
    }
   ]
  },
@@ -1493,17 +1493,17 @@ export const kanjiN5 = [
    {
     "word": "先週",
     "reading": "せんしゅう",
-    "meaning": "last week"
+    "meaning": "minggu lalu"
    },
    {
     "word": "先生",
     "reading": "せんせい",
-    "meaning": "teacher,doctor"
+    "meaning": "guru, dokter"
    },
    {
     "word": "先月",
     "reading": "せんげつ",
-    "meaning": "last month"
+    "meaning": "bulan lalu"
    }
   ]
  },
@@ -1529,17 +1529,17 @@ export const kanjiN5 = [
    {
     "word": "有名",
     "reading": "ゆうめい",
-    "meaning": "famous"
+    "meaning": "terkenal"
    },
    {
     "word": "名前",
     "reading": "なまえ",
-    "meaning": "name"
+    "meaning": "nama"
    },
    {
     "word": "名人",
     "reading": "めいじん",
-    "meaning": "master,expert"
+    "meaning": "tuan, ahli"
    }
   ]
  },
@@ -1566,12 +1566,12 @@ export const kanjiN5 = [
    {
     "word": "万年筆",
     "reading": "まんねんひつ",
-    "meaning": "pulpen"
+    "meaning": "bubur kertas"
    },
    {
     "word": "さ来年",
     "reading": "さらいねん",
-    "meaning": "year after next"
+    "meaning": "tahun demi tahun berikutnya"
    }
   ]
  },
@@ -1607,7 +1607,7 @@ export const kanjiN5 = [
    {
     "word": "元気",
     "reading": "げんき",
-    "meaning": "health, vitality"
+    "meaning": "kesehatan, vitalitas"
    }
   ]
  },
@@ -1629,7 +1629,7 @@ export const kanjiN5 = [
    {
     "word": "八百屋",
     "reading": "やおや",
-    "meaning": "greengrocer"
+    "meaning": "penjual sayur"
    }
   ]
  },
@@ -1657,12 +1657,12 @@ export const kanjiN5 = [
    {
     "word": "男性",
     "reading": "だんせい",
-    "meaning": "male"
+    "meaning": "pria"
    },
    {
     "word": "男子",
     "reading": "だんし",
-    "meaning": "youth,young man"
+    "meaning": "pemuda, anak muda"
    }
   ]
  },
@@ -1691,12 +1691,12 @@ export const kanjiN5 = [
    {
     "word": "見せる",
     "reading": "みせる",
-    "meaning": "to show"
+    "meaning": "untuk menunjukkan"
    },
    {
     "word": "見る  観る",
     "reading": "みる",
-    "meaning": "to see, to watch"
+    "meaning": "untuk melihat, untuk menonton"
    },
    {
     "word": "花見",
@@ -1722,17 +1722,17 @@ export const kanjiN5 = [
    {
     "word": "自転車",
     "reading": "じてんしゃ",
-    "meaning": "bicycle"
+    "meaning": "sepeda"
    },
    {
     "word": "電車",
     "reading": "でんしゃ",
-    "meaning": "electric train"
+    "meaning": "kereta listrik"
    },
    {
     "word": "自動車",
     "reading": "じどうしゃ",
-    "meaning": "automobile"
+    "meaning": "mobil"
    }
   ]
  },
@@ -1806,12 +1806,12 @@ export const kanjiN5 = [
    {
     "word": "旅行",
     "reading": "りょこう",
-    "meaning": "travel"
+    "meaning": "bepergian"
    },
    {
     "word": "行く",
     "reading": "いく",
-    "meaning": "to go"
+    "meaning": "untuk pergi"
    }
   ]
  },
@@ -1835,7 +1835,7 @@ export const kanjiN5 = [
    {
     "word": "西洋",
     "reading": "せいよう",
-    "meaning": "western countries"
+    "meaning": "negara-negara barat"
    }
   ]
  },
@@ -1864,12 +1864,12 @@ export const kanjiN5 = [
    {
     "word": "何とか",
     "reading": "なんとか",
-    "meaning": "somehow,anyhow,one way or another"
+    "meaning": "entah bagaimana, bagaimanapun, dengan satu atau lain cara"
    },
    {
     "word": "何で",
     "reading": "なんで",
-    "meaning": "Why?,What for?"
+    "meaning": "Mengapa?, Untuk apa?"
    }
   ]
  },
@@ -1901,17 +1901,17 @@ export const kanjiN5 = [
    {
     "word": "来週",
     "reading": "らいしゅう",
-    "meaning": "next week"
+    "meaning": "minggu depan"
    },
    {
     "word": "さ来年",
     "reading": "さらいねん",
-    "meaning": "year after next"
+    "meaning": "tahun demi tahun berikutnya"
    },
    {
     "word": "来月",
     "reading": "らいげつ",
-    "meaning": "next month"
+    "meaning": "bulan depan"
    }
   ]
  },
@@ -1939,12 +1939,12 @@ export const kanjiN5 = [
    {
     "word": "学校",
     "reading": "がっこう",
-    "meaning": "school"
+    "meaning": "sekolah"
    },
    {
     "word": "学生",
     "reading": "がくせい",
-    "meaning": "student"
+    "meaning": "murid"
    }
   ]
  },
@@ -1969,12 +1969,12 @@ export const kanjiN5 = [
    {
     "word": "金曜日",
     "reading": "きんようび",
-    "meaning": "Friday"
+    "meaning": "Jumat"
    },
    {
     "word": "お金",
     "reading": "おかね",
-    "meaning": "money"
+    "meaning": "uang"
    },
    {
     "word": "お・金持ち",
@@ -2002,7 +2002,7 @@ export const kanjiN5 = [
    {
     "word": "梅雨",
     "reading": "つゆ",
-    "meaning": "rainy season,rain during the rainy season"
+    "meaning": "musim hujan, hujan di musim hujan"
    },
    {
     "word": "雨戸",
@@ -2028,17 +2028,17 @@ export const kanjiN5 = [
    {
     "word": "外国",
     "reading": "がいこく",
-    "meaning": "foreign country"
+    "meaning": "negara asing"
    },
    {
     "word": "外国人",
     "reading": "がいこくじん",
-    "meaning": "foreigner"
+    "meaning": "orang asing"
    },
    {
     "word": "国際",
     "reading": "こくさい",
-    "meaning": "international"
+    "meaning": "internasional"
    }
   ]
  },
@@ -2084,17 +2084,17 @@ export const kanjiN5 = [
    {
     "word": "長い",
     "reading": "ながい",
-    "meaning": "long"
+    "meaning": "panjang"
    },
    {
     "word": "社長",
     "reading": "しゃちょう",
-    "meaning": "company president"
+    "meaning": "presiden perusahaan"
    },
    {
     "word": "部長",
     "reading": "ぶちょう",
-    "meaning": "head of a section"
+    "meaning": "kepala bagian"
    }
   ]
  },
@@ -2117,17 +2117,17 @@ export const kanjiN5 = [
    {
     "word": "午前",
     "reading": "ごぜん",
-    "meaning": "morning"
+    "meaning": "Pagi"
    },
    {
     "word": "名前",
     "reading": "なまえ",
-    "meaning": "name"
+    "meaning": "nama"
    },
    {
     "word": "以前",
     "reading": "いぜん",
-    "meaning": "ago,since,before,previous"
+    "meaning": "lalu, sejak, sebelumnya, sebelumnya"
    }
   ]
  },
@@ -2177,17 +2177,17 @@ export const kanjiN5 = [
    {
     "word": "午後",
     "reading": "ごご",
-    "meaning": "afternoon"
+    "meaning": "sore"
    },
    {
     "word": "後ろ",
     "reading": "うしろ",
-    "meaning": "behind"
+    "meaning": "di belakang"
    },
    {
     "word": "最後",
     "reading": "さいご",
-    "meaning": "last,end"
+    "meaning": "terakhir, akhir"
    }
   ]
  },
@@ -2213,17 +2213,17 @@ export const kanjiN5 = [
    {
     "word": "食べ物",
     "reading": "たべもの",
-    "meaning": "food"
+    "meaning": "makanan"
    },
    {
     "word": "食堂",
     "reading": "しょくどう",
-    "meaning": "dining hall"
+    "meaning": "ruang makan"
    },
    {
     "word": "食べる",
     "reading": "たべる",
-    "meaning": "to eat"
+    "meaning": "untuk makan"
    }
   ]
  },
@@ -2247,7 +2247,7 @@ export const kanjiN5 = [
    {
     "word": "学校",
     "reading": "がっこう",
-    "meaning": "school"
+    "meaning": "sekolah"
    },
    {
     "word": "高等学校",
@@ -2257,7 +2257,7 @@ export const kanjiN5 = [
    {
     "word": "小学校",
     "reading": "しょうがっこう",
-    "meaning": "elementary school"
+    "meaning": "sekolah dasar"
    }
   ]
  },
@@ -2285,12 +2285,12 @@ export const kanjiN5 = [
    {
     "word": "時間",
     "reading": "じかん",
-    "meaning": "time"
+    "meaning": "waktu"
    },
    {
     "word": "時計",
     "reading": "とけい",
-    "meaning": "watch,clock"
+    "meaning": "menonton, jam"
    }
   ]
  },
@@ -2317,7 +2317,7 @@ export const kanjiN5 = [
    {
     "word": "高い",
     "reading": "たかい",
-    "meaning": "tall, expensive"
+    "meaning": "tinggi, mahal"
    },
    {
     "word": "高等学校",
@@ -2327,7 +2327,7 @@ export const kanjiN5 = [
    {
     "word": "高校生",
     "reading": "こうこうせい",
-    "meaning": "high school student"
+    "meaning": "siswa sekolah menengah"
    }
   ]
  },
@@ -2352,7 +2352,7 @@ export const kanjiN5 = [
    {
     "word": "時間",
     "reading": "じかん",
-    "meaning": "time"
+    "meaning": "waktu"
    },
    {
     "word": "昼間",
@@ -2362,7 +2362,7 @@ export const kanjiN5 = [
    {
     "word": "間違える",
     "reading": "まちがえる",
-    "meaning": "to make a mistake"
+    "meaning": "untuk membuat kesalahan"
    }
   ]
  },
@@ -2390,7 +2390,7 @@ export const kanjiN5 = [
    {
     "word": "話す",
     "reading": "はなす",
-    "meaning": "to speak"
+    "meaning": "untuk berbicara"
    },
    {
     "word": "世話",
@@ -2424,7 +2424,7 @@ export const kanjiN5 = [
    {
     "word": "電車",
     "reading": "でんしゃ",
-    "meaning": "electric train"
+    "meaning": "kereta listrik"
    }
   ]
  },
@@ -2449,17 +2449,17 @@ export const kanjiN5 = [
    {
     "word": "新聞",
     "reading": "しんぶん",
-    "meaning": "koran"
+    "meaning": "Qur'an"
    },
    {
     "word": "聞く",
     "reading": "きく",
-    "meaning": "to hear,to listen to,to ask"
+    "meaning": "mendengar, mendengarkan, bertanya"
    },
    {
     "word": "聞こえる",
     "reading": "きこえる",
-    "meaning": "to be heard"
+    "meaning": "untuk didengar"
    }
   ]
  },
@@ -2488,12 +2488,12 @@ export const kanjiN5 = [
    {
     "word": "物語",
     "reading": "ものがたり",
-    "meaning": "tale,story,legend"
+    "meaning": "dongeng, cerita, legenda"
    },
    {
     "word": "語学",
     "reading": "ごがく",
-    "meaning": "language study"
+    "meaning": "studi bahasa"
    }
   ]
  },
@@ -2517,17 +2517,17 @@ export const kanjiN5 = [
    {
     "word": "読む",
     "reading": "よむ",
-    "meaning": "to read"
+    "meaning": "untuk membaca"
    },
    {
     "word": "読書",
     "reading": "どくしょ",
-    "meaning": "reading"
+    "meaning": "membaca"
    },
    {
     "word": "読み",
     "reading": "よみ",
-    "meaning": "reading"
+    "meaning": "membaca"
    }
   ]
  },
@@ -2568,17 +2568,17 @@ export const kanjiN5 = [
    {
     "word": "生徒",
     "reading": "せいと",
-    "meaning": "pupil"
+    "meaning": "murid"
    },
    {
     "word": "生まれる",
     "reading": "うまれる",
-    "meaning": "to be born"
+    "meaning": "untuk dilahirkan"
    },
    {
     "word": "学生",
     "reading": "がくせい",
-    "meaning": "student"
+    "meaning": "murid"
    }
   ]
  },
@@ -2611,7 +2611,7 @@ export const kanjiN5 = [
    {
     "word": "書く",
     "reading": "かく",
-    "meaning": "to write"
+    "meaning": "untuk menulis"
    }
   ]
  }

@@ -2,7 +2,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb → potential form",
   "level": "N4",
-  "structure": "Ichidan: drop る, add られる. Godan: u-row → e-row + る. Irregular: する → できる, くる → こられる.",
+  "structure": "Ichidan: hilangkan る, tambahkan られる.",
   "explanation": "dapat melakukan / mampu melakukan",
   "note": "The potential form expresses ability or possibility — 'can do X'. Ichidan verbs form it by dropping る and adding られる (食べる → 食べられる). Godan verbs change the final u-row kana to the corresponding e-row kana and add る (行く → 行ける, 話す → 話せる). In modern colloquial Japanese, ら is often dropped from ichidan potential forms (食べれる instead of 食べられる) — this is called ら抜き言葉 and is widely used but grammatically nonstandard. The irregular する becomes できる, and くる becomes こられる.",
   "formality": "neutral",
@@ -37,7 +37,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb → passive form",
   "level": "N4",
-  "structure": "Ichidan: drop る, add られる. Godan: u-row → a-row + れる. Irregular: する → される, くる → こられる.",
+  "structure": "Ichidan: hilangkan る, tambahkan られる.",
   "explanation": "selesai (pasif);",
   "note": "The passive form expresses that the subject receives an action. Ichidan verbs form it by dropping る and adding られる. Godan verbs change the u-row kana to the a-row and add れる. Note that ichidan passive and potential forms are homophones (食べられる can mean 'can eat' or 'is eaten'). Japanese also has a distinctive use of passive to express that something bad or unwanted happened to the speaker — the 'suffering passive' (私は雨に降られた — 'I got rained on').",
   "formality": "neutral",
@@ -71,7 +71,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb → causative form",
   "level": "N4",
-  "structure": "Ichidan: drop る, add させる. Godan: u-row → a-row + せる. Irregular: する → させる, くる → こさせる.",
+  "structure": "Ichidan: hilangkan る, tambahkan させる.",
   "explanation": "membuat / membiarkan seseorang melakukan sesuatu",
   "note": "The causative form expresses that the subject makes or lets someone else do an action. Ichidan verbs form it by dropping る and adding させる. Godan verbs change the u-row kana to the a-row and add せる. The distinction between 'make' (forced) and 'let' (permitted) depends on context and the particle marking the causee: を often implies force, に often implies permission.",
   "formality": "neutral",
@@ -105,7 +105,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb-た + ことがある",
   "level": "N4",
-  "structure": "Verb-た form + ことがある (polite: ことがあります)",
+  "structure": "Bentuk kata kerja-た + ことがある (sopan: ことがあります)",
   "explanation": "telah melakukan ___ (pengalaman)",
   "note": "Vた + ことがある expresses past experience — 'have (ever) done X'. It refers to whether the speaker has done something at any point in the past, not a specific event. The negative is ことがない ('have never done'). Combined with a question, it asks whether the listener has done something.",
   "formality": "neutral",
@@ -139,7 +139,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb (dictionary form) + つもり",
   "level": "N4",
-  "structure": "Verb (dictionary form) + つもり(です)",
+  "structure": "Kata kerja (bentuk kamus) + つもり(です)",
   "explanation": "berniat / berencana untuk ___",
   "note": "つもり attached after a dictionary-form verb expresses the speaker's intention or plan to do something. It is stronger than a vague thought — it implies the speaker has already decided. The negative can be either ないつもり ('intend not to') or つもりはない ('don't have any intention'). It is used primarily for first-person intention; for third-person, other constructions (と言っている) are preferred.",
   "formality": "neutral",
@@ -173,7 +173,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain form + と思う",
   "level": "N4",
-  "structure": "Plain-form clause + と + 思う (polite: 思います)",
+  "structure": "Klausa bentuk biasa + と + 思う (sopan: 思います)",
   "explanation": "Saya pikir (itu) ___",
   "note": "と思う attached after a plain-form clause expresses the speaker's opinion or belief — 'I think that…'. The clause before と must be in plain form, not polite (食べると思う, not 食べますと思う). It is the basic way to express opinions in Japanese and is extremely common. For past belief, use と思った.",
   "formality": "neutral",
@@ -208,7 +208,7 @@ export const grammarN4 = [
  {
   "pattern": "Quoted phrase + と言う",
   "level": "N4",
-  "structure": "Plain-form clause + と + 言う. For naming: 'Xという + noun' (e.g., 田中という人 — 'a person called Tanaka').",
+  "structure": "Klausa bentuk biasa + と + 言う.",
   "explanation": "mengatakan bahwa ___;",
   "note": "と言う has two related uses: (1) quotation — 'someone says/said that ___' — attached after a plain-form clause, and (2) naming — 'is called ___' — used to give the name of something. In the quotation use, the cited content is in plain form. The past form と言った means 'said that'. と言います is the polite form.",
   "formality": "neutral",
@@ -242,7 +242,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain form + だろう / でしょう",
   "level": "N4",
-  "structure": "Plain-form verb/い-adj/noun + だろう (plain) or でしょう (polite). For nouns and な-adjectives, attach directly without だ: 学生でしょう, not 学生だでしょう.",
+  "structure": "Kata kerja bentuk biasa/い-kata sifat/kata benda + だろう (polos) atau でしょう (sopan).",
   "explanation": "mungkin / saya kira / mungkin saja",
   "note": "だろう (plain) and でしょう (polite) express the speaker's conjecture or guess about something — 'probably', 'I think', 'I guess'. They attach to the plain form of verbs, い-adjectives, and nouns/na-adjectives. でしょう is also used with rising intonation to seek the listener's agreement or confirmation ('right?').",
   "formality": "neutral",
@@ -277,7 +277,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain form + かもしれない",
   "level": "N4",
-  "structure": "Plain-form verb/adjective/noun + かもしれない (drop だ for nouns and na-adjectives).",
+  "structure": "Kata kerja/kata sifat/kata benda bentuk biasa + かもしれない (jatuhkan だ untuk kata benda dan kata sifat na).",
   "explanation": "mungkin / mungkin / mungkin",
   "note": "かもしれない (polite かもしれません) expresses possibility — 'might', 'may', 'perhaps'. It is weaker than だろう/でしょう, indicating less certainty. It attaches to the plain form of verbs, い-adjectives, and noun/na-adjective predicates (without だ).",
   "formality": "neutral",
@@ -312,7 +312,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain form + はず",
   "level": "N4",
-  "structure": "Plain-form verb/adjective/noun + はず(です). For nouns and na-adjectives, use の before はず: 学生のはず, 静かなはず.",
+  "structure": "Kata kerja/kata sifat/kata benda bentuk biasa + はず(です).",
   "explanation": "seharusnya / seharusnya / diharapkan",
   "note": "はず expresses the speaker's expectation based on reasoning or evidence — 'it should be' or 'it ought to be'. Unlike かもしれない (possibility), はず implies stronger certainty; unlike べき (obligation), はず is about expectation rather than what someone should do morally. The negative はずがない means 'there's no way that' — a strong denial.",
   "formality": "neutral",
@@ -346,7 +346,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb-た + ら",
   "level": "N4",
-  "structure": "Verb-た + ら (食べた → 食べたら). い-adj: かった + ら (高かったら). Noun/な-adj: だった + ら (学生だったら).",
+  "structure": "Kata Kerja-た + ら (食べた → 食べたら).",
   "explanation": "jika / kapan ___ (kondisi umum)",
   "note": "たら is the most versatile Japanese conditional. It attaches to the た-form of a verb (or the かった form of an い-adjective, だった of a noun/na-adjective) and expresses 'if/when X happens'. It can refer to either a single future event ('if X happens' / 'when X happens') or a past event where the speaker discovered something ('when I did X, Y happened'). It's generally the safest conditional to use when learners aren't sure which of たら/ば/と/なら to pick.",
   "formality": "neutral",
@@ -382,7 +382,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb → ば form",
   "level": "N4",
-  "structure": "Ichidan: drop る, add れば (食べる → 食べれば). Godan: u-row → e-row + ば (行く → 行けば, 飲む → 飲めば). い-adj: drop い, add ければ (高い → 高ければ). Negative: ～なければ. Irregular: する → すれば, くる → くれば.",
+  "structure": "Ichidan: hilangkan る, tambahkan れば (食べる → 食べれば).",
   "explanation": "jika ___ (kondisi umum/hipotetis)",
   "note": "The ば-conditional expresses a hypothetical 'if' — typically generic conditions or natural laws. It tends to emphasize the condition itself and is common in proverbs, mathematical statements, and generic claims. For specific contingent plans, たら is more common.",
   "formality": "neutral",
@@ -418,7 +418,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb (dictionary form) + と",
   "level": "N4",
-  "structure": "Dictionary form of verb (or plain non-past of adjective/copula) + と",
+  "structure": "Bentuk kamus dari kata kerja (atau kata sifat/kopula yang bukan bentuk lampau) + と",
   "explanation": "kapanpun / kapan (konsekuensi alamiah)",
   "note": "The と-conditional expresses that one thing naturally or inevitably leads to another. It's used for natural laws, habitual consequences, and definite outcomes — 'when X happens, Y (always) happens'. It cannot be used with commands, requests, invitations, or volition in the main clause.",
   "formality": "neutral",
@@ -453,7 +453,7 @@ export const grammarN4 = [
  {
   "pattern": "X + なら",
   "level": "N4",
-  "structure": "Plain-form verb/adjective/noun + なら (drop だ for nouns and na-adjectives).",
+  "structure": "Kata kerja/kata sifat/kata benda bentuk biasa + なら (jatuhkan だ untuk kata benda dan kata sifat na).",
   "explanation": "jika (hal ini terjadi) ___;",
   "note": "なら is a contextual conditional — 'if it's the case that X' — typically picking up on something already mentioned by the other speaker and responding to it. Unlike たら/ば/と, なら's main clause often comes temporally before the condition (i.e., the action in the main clause happens before the condition in time, when taken at face value). It is often used to give advice or recommendations based on what someone has just said.",
   "formality": "neutral",
@@ -488,7 +488,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb → volitional form",
   "level": "N4",
-  "structure": "Ichidan: drop る, add よう (食べる → 食べよう). Godan: u-row → o-row + う (行く → 行こう, 飲む → 飲もう). Irregular: する → しよう, くる → こよう.",
+  "structure": "Ichidan: hilangkan る, tambahkan よう (食べる → 食べよう).",
   "explanation": "ayo ___;",
   "note": "The plain volitional form is the casual counterpart of ましょう. It expresses 'let's do X' or 'I shall do X'. Combined with と思う, it expresses intention ('I'm thinking of doing X'). Combined with とする, it expresses an attempt ('to try to do X' or 'to be about to do X').",
   "formality": "casual",
@@ -523,7 +523,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb-て + はいけない / はいけません",
   "level": "N4",
-  "structure": "Verb-て + はいけない (polite: はいけません). Casual contraction: ちゃいけない, ちゃだめ.",
+  "structure": "Kata Kerja-て + はいけない (sopan: はいけません).",
   "explanation": "tidak boleh ___ (larangan)",
   "note": "てはいけない attaches the て-form of a verb to はいけない (polite: はいけません) to express prohibition — 'must not do X'. Casual speech often contracts it to ちゃいけない or ちゃだめ. It is used for rules, warnings, and firm prohibitions.",
   "formality": "neutral",
@@ -558,7 +558,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb-て + もいい / もいいです",
   "level": "N4",
-  "structure": "Verb-て + もいい(です). More polite: てもよろしい(ですか).",
+  "structure": "Kata kerja-て + もいい(です).",
   "explanation": "boleh / tidak apa-apa untuk ___ (izin)",
   "note": "てもいい attaches the て-form of a verb to もいい (polite: もいいです) to express permission or that something is acceptable — 'it's okay to do X', 'you may do X'. As a question, it asks for permission — 'may I do X?'. The more polite version is てもよろしい(ですか).",
   "formality": "neutral",
@@ -592,7 +592,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb-ない stem + なければならない",
   "level": "N4",
-  "structure": "Verb-ない-stem (drop い from ない-form) + なければならない. Common casual forms: なきゃ, なくちゃ, ないと.",
+  "structure": "Kata kerja-ない-batang (jatuhkan い dari bentuk ない) + なければならない.",
   "explanation": "harus / harus / perlu",
   "note": "なければならない expresses necessity or obligation — 'must', 'have to'. It is formed from the ない-form of a verb by replacing the final い with ければならない. Many casual contractions exist: なきゃ(ならない), なくちゃ(いけない), ないといけない, etc. All of them express essentially the same meaning with varying levels of formality.",
   "formality": "neutral",
@@ -626,7 +626,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb-なく + てもいい",
   "level": "N4",
-  "structure": "Verb-ない-stem + なくてもいい(です)",
+  "structure": "Kata kerja-ない-batang + なくてもいい(です)",
   "explanation": "tidak perlu / tidak apa-apa jika tidak",
   "note": "なくてもいい expresses that something is unnecessary — 'don't have to', 'it's okay not to'. It is the negative counterpart of てもいい. The formation joins the negative stem of a verb (dropping the final い from ない-form) with the て-form construction.",
   "formality": "neutral",
@@ -661,8 +661,8 @@ export const grammarN4 = [
  {
   "pattern": "Plain form + ので",
   "level": "N4",
-  "structure": "Plain-form verb/い-adj + ので. Noun/な-adj + な + ので (学生なので, 静かなので).",
-  "explanation": "because / since ___ (softer, more objective than から)",
+  "structure": "Kata kerja bentuk biasa/い-adj + ので.",
+  "explanation": "karena / sejak ___ (lebih lembut, lebih obyektif dari から)",
   "note": "ので expresses reason/cause similar to から, but with a softer, more objective, and often more polite feeling. It is preferred in formal requests and explanations where the speaker wants to avoid sounding pushy. The preceding clause is in plain form, but for noun and na-adjective predicates, なので is used instead of だので.",
   "formality": "neutral",
   "related": [
@@ -695,7 +695,7 @@ export const grammarN4 = [
  {
   "pattern": "Clause + が / けど / けれども",
   "level": "N4",
-  "structure": "Clause (plain or polite) + が / けど / けれども + clause",
+  "structure": "Klausa (polos atau sopan) + が / けど / けれども + klausa",
   "explanation": "tapi / meskipun / namun",
   "note": "が, けど, and けれども are conjunctions meaning 'but' or 'although'. They connect two clauses with a contrastive relationship. が is slightly more formal and written; けど is casual spoken; けれども is formal. They are also often used as soft sentence openers without a strong contrastive meaning — 'well…' or 'by the way…'.",
   "formality": "neutral",
@@ -732,7 +732,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain form + んです / のです",
   "level": "N4",
-  "structure": "Plain-form verb/い-adj + んです. Noun/な-adj + な + んです (学生なんです).",
+  "structure": "Kata kerja bentuk biasa/い-adj + んです.",
   "explanation": "menjelaskan, memberi alasan, atau dengan lembut menegaskan: 'itulah ___'",
   "note": "んです (more formal: のです) attaches to a plain-form clause to give an explanation, soften a statement, or provide context. It frames the statement as information the speaker is sharing in response to implicit or explicit questions or context. A classic use is explaining why something is happening: 頭が痛いんです ('(it's that) my head hurts' — used to explain absence or slow reaction). For nouns and な-adjectives, use なんです (学生なんです, not 学生だんです).",
   "formality": "neutral",
@@ -767,7 +767,7 @@ export const grammarN4 = [
  {
   "pattern": "X + になる",
   "level": "N4",
-  "structure": "Noun/な-adj + に + なる. い-adj: drop い, add くなる.",
+  "structure": "Kata benda/な-kata sifat + に + なる.",
   "explanation": "menjadi ___",
   "note": "なる means 'to become', expressing a natural or gradual change. For nouns and な-adjectives, the pattern is X + に + なる. For い-adjectives, drop い and add くなる (高い → 高くなる). The change is framed as happening on its own, as opposed to being caused by someone (for which use する).",
   "formality": "neutral",
@@ -801,7 +801,7 @@ export const grammarN4 = [
  {
   "pattern": "X + にする",
   "level": "N4",
-  "structure": "Noun + に + する",
+  "structure": "Kata benda + に + する",
   "explanation": "putuskan / buatlah ___",
   "note": "にする expresses a decision or choice — 'I'll have X' in restaurants, 'I've decided on X' in general contexts. Literally it means 'make (it) into X' and is the active-voice counterpart to になる. It is the standard way to order food at a restaurant or make a selection.",
   "formality": "neutral",
@@ -835,7 +835,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb stem + 始める",
   "level": "N4",
-  "structure": "Verb stem (same as ます stem) + 始める. E.g., 食べ始める ('begin to eat'), 読み始める ('begin to read').",
+  "structure": "Batang kata kerja (sama dengan batang ます) + 始める.",
   "explanation": "mulai ___ / mulai ___ing",
   "note": "始める attached to a verb stem forms a compound expressing 'begin to do X'. It is an ichidan verb meaning 'to begin' in its own right, but also functions as an auxiliary when attached to another verb stem. Similar auxiliaries include 終わる ('finish'), 続ける ('continue'), 出す ('suddenly begin'), and others.",
   "formality": "neutral",
@@ -870,7 +870,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb stem + 終わる",
   "level": "N4",
-  "structure": "Verb stem + 終わる (or + 終える for transitive nuance).",
+  "structure": "Batang kata kerja + 終わる (atau + 終える untuk nuansa transitif).",
   "explanation": "selesai ___ing",
   "note": "終わる attached to a verb stem forms a compound meaning 'finish doing X'. It is the completion counterpart to 始める. The standalone verb 終わる means 'to end' or 'to be over'. Note that 終える (transitive) can also be used: verb-stem + 終える.",
   "formality": "neutral",
@@ -904,7 +904,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb stem / adj stem + すぎる",
   "level": "N4",
-  "structure": "Verb stem + すぎる. い-adj: drop い + すぎる. な-adj: + すぎる.",
+  "structure": "Batang kata kerja + すぎる.",
   "explanation": "terlalu banyak / berlebihan ___",
   "note": "すぎる attaches to verb or adjective stems to mean 'too much' or 'overly'. For verbs, attach to the stem (食べる → 食べすぎる — 'eat too much'). For い-adjectives, drop the final い (高い → 高すぎる — 'too expensive'). For な-adjectives, attach directly to the stem (静かすぎる — 'too quiet'). The resulting verb conjugates as an ichidan verb.",
   "formality": "neutral",
@@ -939,7 +939,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb stem + やすい",
   "level": "N4",
-  "structure": "Verb stem + やすい",
+  "structure": "Batang kata kerja + やすい",
   "explanation": "mudah untuk ___",
   "note": "やすい attached to a verb stem creates an い-adjective meaning 'easy to do X'. It describes the intrinsic ease of doing something, often a property of the object of the action ('this pen is easy to write with').",
   "formality": "neutral",
@@ -974,7 +974,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb stem + にくい",
   "level": "N4",
-  "structure": "Verb stem + にくい",
+  "structure": "Batang kata kerja + にくい",
   "explanation": "sulit untuk ___ / sulit untuk ___",
   "note": "にくい attached to a verb stem creates an い-adjective meaning 'hard to do X'. It is the opposite of やすい. Note that a stronger form づらい exists, sometimes with a nuance of physical or emotional difficulty.",
   "formality": "neutral",
@@ -1008,7 +1008,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain-form clause + Noun",
   "level": "N4",
-  "structure": "Plain-form clause (including any subject marked with が rather than は) + Noun. For i-adjectives, the plain form directly precedes the noun (高い本 — 'an expensive book'). For na-adjectives, insert な (静かな部屋).",
+  "structure": "Klausa bentuk biasa (termasuk subjek apa pun yang ditandai dengan が, bukan は) + Kata Benda.",
   "explanation": "klausa pengubah kata benda (atributif): 'the ___ that ___'",
   "note": "In Japanese, a full clause can modify a noun by being placed before it in plain form — there is no relative pronoun like 'which' or 'that'. For example, 昨日食べたケーキ literally 'yesterday-ate-cake' = 'the cake (that) I ate yesterday'. This is one of the most important structural differences from English and is essential for understanding longer sentences.",
   "formality": "neutral",
@@ -1042,7 +1042,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb-た + り + Verb-た + り + する",
   "level": "N4",
-  "structure": "V-た form + り: 食べた → 食べたり, 飲んだ → 飲んだり. List actions with 〜たり〜たりする.",
+  "structure": "Bentuk V-た + り: 食べた → 食べたり, 飲んだ → 飲んだり.",
   "explanation": "lakukan hal-hal seperti X dan Y (daftar tindakan tidak lengkap)",
   "note": "〜たり〜たりする lists actions non-exhaustively — 'do things like X and Y (among others)'. Unlike the sequential 〜て form, たり does not imply any particular order or timing; it just enumerates example actions. The final する carries the tense of the whole construction. A single たり is also grammatical ('do things like X'). The pattern is one of the most common N4 constructions and is essential for describing daily routines and varied activities.",
   "formality": "neutral",
@@ -1077,7 +1077,7 @@ export const grammarN4 = [
  {
   "pattern": "Transitive verb (他動詞) vs intransitive verb (自動詞) pairs",
   "level": "N4",
-  "structure": "Common pairs (transitive / intransitive): 開ける/開く, 閉める/閉まる, 始める/始まる, 出す/出る, 入れる/入る, 上げる/上がる, 下げる/下がる, 見る/見える, 聞く/聞こえる, 消す/消える, 付ける/付く, 落とす/落ちる, 止める/止まる, 集める/集まる.",
+  "structure": "Pasangan umum (transitif / intransitif): 開ける/開く, 閉める/閉まる, 始める/始まる, 出す/出る, 入れる/入る,",
   "explanation": "pasangan kata kerja yang membedakan 'X melakukan Y' (transitif) dan 'Y terjadi' (intransitif)",
   "note": "Japanese has many verb pairs where one form is transitive (an agent acts on something) and the other is intransitive (something happens on its own). The distinction is structural: transitive verbs take を for their object; intransitive verbs take が for the thing undergoing the action. Learning the pair patterns is essential to reading comprehension and to using the 〜ている / 〜てある state-of-affairs distinction correctly.",
   "formality": "neutral",
@@ -1113,7 +1113,7 @@ export const grammarN4 = [
  {
   "pattern": "i-adj stem / 〜たい stem + がる",
   "level": "N4",
-  "structure": "i-adj: drop い, add がる: 寒い → 寒がる, 嬉しい → 嬉しがる, 痛い → 痛がる. 〜たい form: drop い, add がる: 食べたい → 食べたがる (see tagaru-third-person-desire).",
+  "structure": "i-adj: hilangkan い, tambahkan がる: 寒い → 寒がる, 嬉しい → 嬉しがる, 痛い → 痛がる.",
   "explanation": "menunjukkan tanda/tampak merasakan (emosi orang ketiga)",
   "note": "〜がる attaches to an adjective or a 〜たい form to express that a third person appears to feel a certain emotion, based on their observable behavior. Japanese treats one's own inner states (〜い, 〜たい) and the inner states of others differently: you can state your own feelings directly, but you must describe others' feelings as behaviorally observable — hence 〜がる ('show signs of being X'). Conjugates as a godan u-verb.",
   "formality": "neutral",
@@ -1149,7 +1149,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb ます-stem + 方",
   "level": "N4",
-  "structure": "V ます-stem + 方: 食べ方 ('way of eating'), 読み方 ('way of reading'), 使い方 ('way of using'). Irregular: する → し方 or やり方 (both used); for suru-compounds: 勉強のし方 (の inserted before し方).",
+  "structure": "V ます-batang + 方: 食べ方 ('cara makan'), 読み方 ('cara membaca'), 使い方 ('cara menggunakan').",
   "explanation": "cara melakukan/cara melakukan",
   "note": "V ます-stem + 方 (かた) forms a noun meaning 'way of doing X' or 'how to do X'. It is the core construction for describing methods and techniques. The object of the underlying verb takes の instead of を when modifying 方 — a surprising but consistent rule: 漢字の書き方 ('how to write kanji'), NOT 漢字を書き方. Indispensable for instructions, recipes, and teaching contexts.",
   "formality": "neutral",
@@ -1184,7 +1184,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb plain non-past + ようにする / ようにしている",
   "level": "N4",
-  "structure": "V plain non-past + ようにする (decision / resolve) or + ようにしている (ongoing habit). Negative: V ない + ようにする (try not to).",
+  "structure": "V polos bukan masa lalu + ようにする (keputusan / tekad) atau + ようにしている (kebiasaan berkelanjutan).",
   "explanation": "buatlah agar / coba lakukan (biasa)",
   "note": "〜ようにする expresses making an effort to do something — either as a one-time decision ('I'll make sure to do X') or as an ongoing habit ('I try to do X'). The する form is the decision / resolve; the している form is the habitual effort. Negative 〜ないようにする means 'try not to do'. Distinct from ようになる ('come to be able to') and from ように-purpose ('in order to').",
   "formality": "neutral",
@@ -1255,7 +1255,7 @@ export const grammarN4 = [
  {
   "pattern": "V plain non-past / noun + の + 前に",
   "level": "N4",
-  "structure": "V plain non-past + 前に (always dictionary form); noun + の + 前に.",
+  "structure": "V polos bukan masa lalu + 前に (selalu dalam bentuk kamus);",
   "explanation": "sebelum melakukan X / sebelum X",
   "note": "〜前に marks a temporal 'before' clause. The verb in the 前に clause is ALWAYS in dictionary (plain non-past) form, regardless of whether the main clause describes a past, present, or future event — this is a common error point for learners who want to match tenses. For noun references, use noun + の + 前に.",
   "formality": "neutral",
@@ -1290,7 +1290,7 @@ export const grammarN4 = [
  {
   "pattern": "V-た form / noun + の + 後で",
   "level": "N4",
-  "structure": "V-た + 後で; noun + の + 後で.",
+  "structure": "V-た + 後で;",
   "explanation": "setelah melakukan X / setelah X",
   "note": "〜後で marks a temporal 'after' clause, using the past form of the verb (Vた) even when the main clause is in the future. More emphatic about the completion of the preceding action than 〜てから. For noun references, use noun + の + 後で.",
   "formality": "neutral",
@@ -1325,7 +1325,7 @@ export const grammarN4 = [
  {
   "pattern": "V plain non-past + ことができる",
   "level": "N4",
-  "structure": "V plain non-past + ことができる (polite: ことができます); negative: ことができない.",
+  "structure": "V polos bukan masa lalu + ことができる (sopan: ことができます);",
   "explanation": "dapat melakukan / mampu melakukan",
   "note": "〜ことができる is an analytic way to express ability, equivalent to the potential form of the verb (食べられる). It is slightly more formal and more common in written Japanese, while the potential form dominates in speech. Both are fully grammatical and interchangeable in meaning, though the potential form is usually more concise. Negative: 〜ことができない.",
   "formality": "neutral",
@@ -1360,7 +1360,7 @@ export const grammarN4 = [
  {
   "pattern": "V plain non-past / V ない + ことにする",
   "level": "N4",
-  "structure": "V plain non-past + ことにする (decide to); V ない + ことにする (decide not to); past: ことにした; progressive: ことにしている.",
+  "structure": "V polos bukan masa lalu + ことにする (putuskan untuk);",
   "explanation": "memutuskan untuk (keputusan pribadi aktif)",
   "note": "〜ことにする expresses an active personal decision made by the speaker — 'I decided to do X'. Distinct from its passive counterpart 〜ことになる ('it has been decided'), where the decision comes from circumstance or others. The progressive form 〜ことにしている expresses a habitual decision or self-rule ('I make it a habit to'). Past form 〜ことにした = 'decided'.",
   "formality": "neutral",
@@ -1396,7 +1396,7 @@ export const grammarN4 = [
  {
   "pattern": "V plain non-past / V ない + ことになる",
   "level": "N4",
-  "structure": "V plain non-past + ことになる; V ない + ことになる; past: ことになった; progressive: ことになっている.",
+  "structure": "V polos bukan masa lalu + ことになる;",
   "explanation": "diputuskan bahwa / menjadi seperti itu",
   "note": "〜ことになる expresses that a decision has been made by circumstance or others, without the speaker's direct agency — 'it was decided that X'. Its active counterpart is 〜ことにする ('I decided to do X'). The progressive form 〜ことになっている expresses an established rule, custom, or schedule. Past form 〜ことになった = 'it was (has been) decided'.",
   "formality": "neutral",
@@ -1432,8 +1432,8 @@ export const grammarN4 = [
  {
   "pattern": "Verb ます-stem + なさい",
   "level": "N4",
-  "structure": "V ます-stem + なさい: 食べ → 食べなさい, 見 → 見なさい, 話し → 話しなさい. Irregular: する → しなさい, くる → きなさい.",
-  "explanation": "(do it) — gentle command",
+  "structure": "V ます-batang + なさい: 食べ → 食べなさい, 見 → 見なさい, 話し → 話しなさい.",
+  "explanation": "(lakukan) — perintah yang lembut",
   "note": "〜なさい is a gentle command form, formed by adding なさい to the verb stem. It is less polite than 〜てください but not as abrupt as the bare imperative (食べろ). It is typical of parents to children, teachers to students, and written instructions ('answer the following' = 答えなさい). The form is too casual for polite adult-to-adult requests.",
   "formality": "neutral",
   "related": [
@@ -1467,7 +1467,7 @@ export const grammarN4 = [
  {
   "pattern": "V-て form + ほしい",
   "level": "N4",
-  "structure": "V-て + ほしい; negative: V ないでほしい.",
+  "structure": "V-て + ほしい;",
   "explanation": "ingin orang lain (orang lain) melakukan X",
   "note": "〜てほしい expresses the speaker's desire for another person to do something. The person being asked is typically marked with に. Distinct from 〜たい (own desire to do) and from ほしい alone (want a thing). The negative form 〜ないでほしい expresses 'want someone not to do X'.",
   "formality": "neutral",
@@ -1503,7 +1503,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain form + し (+ plain form + し + ...)",
   "level": "N4",
-  "structure": "Plain-form predicate + し; can chain multiple. Noun / na-adj + だ + し.",
+  "structure": "Predikat bentuk biasa + し;",
   "explanation": "dan / selain itu (daftar alasan atau fakta yang tidak lengkap)",
   "note": "〜し lists reasons or facts non-exhaustively — 'and moreover', 'for one thing'. The listed items are not the complete set; し implies there may be more. Often paired with a concluding clause that follows from the listed reasons. It is different from the sequential て-form in that it is for reasons/facts rather than actions in sequence.",
   "formality": "neutral",
@@ -1539,7 +1539,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb volitional form + と思う",
   "level": "N4",
-  "structure": "Ichidan: 食べる → 食べよう + と思う. Godan: 行く → 行こう + と思う. Irregular: する → しよう, くる → こよう.",
+  "structure": "Ichidan: 食べる → 食べよう + と思う.",
   "explanation": "Saya rasa saya akan/berniat melakukannya",
   "note": "〜ようと思う combines the volitional (よう/おう) form with と思う ('think'), expressing the speaker's intention at the moment of speaking — 'I think I'll do X'. Less firm than 〜つもり (settled plan) but stronger than a vague wish. The progressive form 〜ようと思っている = 'have been thinking of'. For ichidan verbs use よう; for godan verbs use おう ending.",
   "formality": "neutral",
@@ -1575,7 +1575,7 @@ export const grammarN4 = [
  {
   "pattern": "V-て form + くれる",
   "level": "N4",
-  "structure": "V-て + くれる (polite: くれます); honorific: V-て + くださる (polite: くださいます).",
+  "structure": "V-て + くれる (sopan: くれます);",
   "explanation": "(seseorang) melakukan suatu kebaikan untuk saya/kita",
   "note": "〜てくれる expresses that someone does something FOR the speaker or the speaker's in-group. The speaker benefits from the action. The honorific form 〜てくださる is used when the favor-giver is a superior. The giving-verb system (あげる / くれる / もらう) is central to Japanese expression of interpersonal kindness, and 〜てくれる captures the 'someone is kind to me' direction.",
   "formality": "neutral",
@@ -1611,7 +1611,7 @@ export const grammarN4 = [
  {
   "pattern": "V-て form + もらう",
   "level": "N4",
-  "structure": "Subject (recipient) は/が + Agent に + V-て + もらう.",
+  "structure": "Subjek (penerima) は/が + Agen に + V-て + もらう.",
   "explanation": "Saya menerima bantuan dari X melakukan Y / Saya mempunyai X melakukan Y",
   "note": "〜てもらう expresses that the speaker or in-group receives the benefit of another's action — 'I have someone do X for me'. The person performing the action takes に. The humble form 〜ていただく is used when the other party is a superior. Common as a polite request: 〜てもらえますか ('could you...?').",
   "formality": "neutral",
@@ -1648,7 +1648,7 @@ export const grammarN4 = [
  {
   "pattern": "V-て form + あげる",
   "level": "N4",
-  "structure": "V-て + あげる (polite: あげます); humble: V-て + さしあげる (polite: さしあげます).",
+  "structure": "V-て + あげる (sopan: あげます);",
   "explanation": "Saya melakukan bantuan untuk (seseorang di luar grup saya)",
   "note": "〜てあげる expresses that the speaker does something FOR someone else, usually outside the speaker's close in-group. The recipient takes に. A usage caution: saying 〜てあげる directly to the hearer can sound condescending, because it draws attention to the favor. Humble form さしあげる is used for superiors.",
   "formality": "neutral",
@@ -1684,7 +1684,7 @@ export const grammarN4 = [
  {
   "pattern": "Giver が Receiver に Object を あげる",
   "level": "N4",
-  "structure": "Plain verb あげる (polite: あげます). Particles: Giver が / は, Receiver に, Object を.",
+  "structure": "Kata kerja biasa あげる (sopan: あげます).",
   "explanation": "memberi (ke luar, dari dalam kelompok ke luar kelompok)",
   "note": "あげる is the basic verb for 'give', used when the giver is the speaker or in-group and the receiver is outside that group. Crucially, do NOT use あげる when giving TO yourself (use くれる in that direction), and do NOT use あげる for superiors (use さしあげる or reformulate). The full giving-verb system is: あげる (outward), くれる (toward speaker), もらう (receive).",
   "formality": "neutral",
@@ -1720,7 +1720,7 @@ export const grammarN4 = [
  {
   "pattern": "Giver が (Receiver に) Object を くれる",
   "level": "N4",
-  "structure": "Plain verb くれる (polite: くれます); honorific: くださる (polite: くださいます — irregular, note the final います not りまする).",
+  "structure": "Kata kerja biasa くれる (sopan: くれます);",
   "explanation": "memberi (kepada pembicara/dalam kelompok)",
   "note": "くれる is the verb 'give' used when the giver is someone else and the receiver is the speaker or in-group. The receiver (often 私) is commonly implied and omitted. The honorific form くださる is used when the giver is a superior. Parallel to あげる (outward direction) but from the opposite perspective.",
   "formality": "neutral",
@@ -1756,7 +1756,7 @@ export const grammarN4 = [
  {
   "pattern": "Receiver が Giver に / から Object を もらう",
   "level": "N4",
-  "structure": "Plain verb もらう (polite: もらいます); humble: いただく (polite: いただきます).",
+  "structure": "Kata kerja biasa もらう (sopan: もらいます);",
   "explanation": "untuk menerima",
   "note": "もらう is the verb 'receive', used from the receiver's perspective in a giving transaction. The giver takes に or から; the receiver is the subject. Humble form いただく is used when receiving from superiors. Together with あげる and くれる, もらう completes the Japanese giving-verb system — each verb takes a different perspective on the same kind of event.",
   "formality": "neutral",
@@ -1793,7 +1793,7 @@ export const grammarN4 = [
  {
   "pattern": "お + V ます-stem + ください (or ご + Sino-Japanese noun + ください)",
   "level": "N4",
-  "structure": "お + V ます-stem + ください (native verbs): お待ちください, お座りください. ご + Sino-Japanese noun + ください: ご注意ください, ご利用ください.",
+  "structure": "お + V ます-batang + ください (kata kerja asli): お待ちください, お座りください.",
   "explanation": "tolong lakukan (permintaan kehormatan yang sangat sopan)",
   "note": "お〜ください is a very polite honorific request form, more formal than 〜てください. It is the form used in customer service announcements, public signage, and formal instructions. For native Japanese verbs, use お + ます-stem; for Sino-Japanese nouns ('suru' verbs), use ご + noun. Some verbs have fixed honorific forms that replace this pattern (e.g., 来る → お越しください).",
   "formality": "formal",
@@ -1829,7 +1829,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb → passive form (honorific usage)",
   "level": "N4",
-  "structure": "Same passive conjugation: Ichidan → 〜られる; Godan → u-row → a-row + れる; Irregular する → される, くる → こられる.",
+  "structure": "Konjugasi pasif yang sama: Ichidan → 〜られる;",
   "explanation": "penggunaan bentuk pasif secara kehormatan (cara sopan untuk menggambarkan tindakan atasan)",
   "note": "The 〜れる / 〜られる form (normally the passive) is also used as an honorific (尊敬語), describing the actions of a superior politely. The conjugation is identical to the passive; context determines whether it is passive or honorific — usually clear from the subject (a superior) and the non-patient nature of the action. Less formal than dedicated honorific verbs (いらっしゃる, ご覧になる) but common in business speech.",
   "formality": "formal",
@@ -1865,7 +1865,7 @@ export const grammarN4 = [
  {
   "pattern": "お + V ます-stem + する (or ご + Sino-Japanese noun + する)",
   "level": "N4",
-  "structure": "お + V ます-stem + する (native verbs): お貸しする, お書きする. ご + Sino-Japanese noun + する: ご案内する, ご説明する.",
+  "structure": "お + V ます-batang + する (kata kerja asli): お貸しする, お書きする.",
   "explanation": "bentuk rendah hati: Saya akan melakukan X (untuk atasan)",
   "note": "お〜する is the 謙譲語 (humble) form for the speaker's own actions when speaking to or about a superior. It lowers the speaker to elevate the listener. Like the honorific お〜ください, the お vs ご distinction tracks native vs Sino-Japanese roots. Common in business contexts for everyday actions — 'I'll call you', 'I'll explain'.",
   "formality": "formal",
@@ -1900,7 +1900,7 @@ export const grammarN4 = [
  {
   "pattern": "こういう / そういう / ああいう / どういう + noun",
   "level": "N4",
-  "structure": "こういう / そういう / ああいう / どういう + noun.",
+  "structure": "こういう / そういう / ああいう / どういう + kata benda.",
   "explanation": "semacam ini / semacam itu / semacam itu (di sana) / jenis apa",
   "note": "こういう / そういう / ああいう / どういう forms a こ・そ・あ・ど series meaning 'this/that/that-over-there/what kind of N'. Structurally built from the demonstrative + いう ('say'), but functionally just a fixed demonstrative for kind/type. More casual and more common in speech than このような / そのような. どういう is the interrogative form and is very common ('どういう意味ですか' = 'what do you mean?').",
   "formality": "neutral",
@@ -1935,7 +1935,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb stem + たいと思う",
   "level": "N4",
-  "structure": "V ます-stem + たいと思う / たいと思います.",
+  "structure": "V ます-batang + たいと思う / たいと思います.",
   "explanation": "Saya (pikir saya) ingin melakukannya",
   "note": "〜たいと思う softens the direct 〜たい by framing it as something the speaker 'thinks'. Literally 'think I want to do X', functionally 'I'd like to do X'. Less direct and more polite than bare 〜たい. The progressive form 〜たいと思っている expresses a sustained wish ('I've been wanting to'). Commonly appears in self-introductions, plans, and polite expressions of preference.",
   "formality": "neutral",
@@ -1971,7 +1971,7 @@ export const grammarN4 = [
  {
   "pattern": "V plain / i-adj / na-adj な / noun の + 場合(は)",
   "level": "N4",
-  "structure": "V plain + 場合; i-adj + 場合; na-adj + な + 場合; noun + の + 場合.",
+  "structure": "V polos + 場合;",
   "explanation": "dalam kasus / jika / jika",
   "note": "〜場合 introduces a hypothetical scenario or specific case — 'in the event that X'. More formal than the basic たら/ば/と/なら conditionals and typical of instructions, warnings, rules, and documentation. The optional は after 場合 sets up the case as the topic. Very common in official signage and emergency instructions.",
   "formality": "neutral",
@@ -2006,7 +2006,7 @@ export const grammarN4 = [
  {
   "pattern": "Number + counter + ずつ",
   "level": "N4",
-  "structure": "Number + counter + ずつ: 一つずつ, 二人ずつ, 少しずつ, 一個ずつ.",
+  "structure": "Angka + penghitung + ずつ: 一つずつ, 二人ずつ, 少しずつ, 一個ずつ.",
   "explanation": "masing-masing / per / dengan tarif",
   "note": "〜ずつ attaches to a number + counter to express distribution — 'X each', 'X per unit', 'X at a time'. Common for fair distribution ('one each'), gradual progress ('little by little'), and instructing groups. Functions adverbially, modifying a verb or action.",
   "formality": "neutral",
@@ -2041,7 +2041,7 @@ export const grammarN4 = [
  {
   "pattern": "V plain non-past + つもりだった",
   "level": "N4",
-  "structure": "V plain non-past + つもりだった / つもりでした.",
+  "structure": "V polos bukan masa lalu + つもりだった / つもりでした.",
   "explanation": "bermaksud / akan melakukannya",
   "note": "〜つもりだった is the past form of つもり (intention), expressing an intention held at a past moment — 'I had intended to do X'. Often implies the intention was NOT carried out, with an adversative follow-up ('I was going to, but...'). Distinct from 〜たつもり, which means 'thought I did X' (mistaken belief about having done something).",
   "formality": "neutral",
@@ -2076,7 +2076,7 @@ export const grammarN4 = [
  {
   "pattern": "V plain / i-adj / noun の / na-adj な + はずだった",
   "level": "N4",
-  "structure": "V plain + はずだった; i-adj + はずだった; noun + の + はずだった; na-adj + な + はずだった.",
+  "structure": "V polos + はずだった;",
   "explanation": "seharusnya / seharusnya",
   "note": "〜はずだった is the past form of はず (expectation), expressing that an outcome was expected but did NOT occur. Often implies surprise, disappointment, or contradiction with reality. Commonly paired with のに or が/けど for the unexpected reality clause. Distinct from はずがない ('there's no way').",
   "formality": "neutral",
@@ -2111,7 +2111,7 @@ export const grammarN4 = [
  {
   "pattern": "Noun + でも",
   "level": "N4",
-  "structure": "Noun + でも.",
+  "structure": "Kata benda + でも.",
   "explanation": "bahkan (a) / atau sesuatu (saran biasa)",
   "note": "Noun + でも has two related senses: (1) 'even (a) X' — expressing that even unlikely cases apply ('even a child can do it'); (2) 'or something / or the like' — used for non-specific casual suggestions ('how about tea or something?'). Distinct from sentence-initial でも ('however / but') which is a conjunction.",
   "formality": "neutral",
@@ -2146,7 +2146,7 @@ export const grammarN4 = [
  {
   "pattern": "V-て form + いただく",
   "level": "N4",
-  "structure": "V-て + いただく (polite: いただきます). Request form: 〜ていただけますか / 〜ていただけませんか.",
+  "structure": "V-て + いただく (sopan: いただきます).",
   "explanation": "Saya dengan rendah hati menerima bantuan X melakukan Y (rendah hati)",
   "note": "〜ていただく is the humble-form version of 〜てもらう, used when the favor-doer is a superior or in formal contexts. It is essential in business and polite Japanese. The request form 〜ていただけますか ('could you kindly do X?') is very commonly used in customer service, formal requests, and polite inquiries — it is widely considered one of the softest/most polite ways to ask for something.",
   "formality": "formal",
@@ -2182,7 +2182,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb ば-form + いい",
   "level": "N4",
-  "structure": "V ば-form + いい / いいです. Question: どうすればいい(ですか).",
+  "structure": "Bentuk V ば + いい / いいです.",
   "explanation": "harus / hanya perlu / akan lebih baik jika",
   "note": "〜ばいい expresses advice or a sufficient condition — 'you just need to do X' or 'it would be good if X'. The question form どうすればいい is an extremely common way to ask 'what should I do?'. Softer and more suggestion-like than 〜べきだ (moral should). Distinct from 〜ばよかった, which is the past form expressing regret about an unrealized past action.",
   "formality": "neutral",
@@ -2219,7 +2219,7 @@ export const grammarN4 = [
  {
   "pattern": "Giver が Receiver に Object を やる",
   "level": "N4",
-  "structure": "Plain verb やる (polite やります). Particles: Giver が, Receiver に, Object を.",
+  "structure": "Kata kerja biasa やる (sopan やります).",
   "explanation": "untuk memberi (santai / kepada bawahan, hewan peliharaan, tanaman)",
   "note": "やる is the casual, down-ward variant of あげる — used when giving to someone or something distinctly below the speaker's social position, such as pets, plants, younger siblings, or in rough masculine speech. It can sound rude if used inappropriately. The 〜てやる auxiliary form is also very common in casual male speech as a rougher equivalent of 〜てあげる ('I'll do it for you', sometimes with threatening or dismissive tone).",
   "formality": "casual",
@@ -2255,7 +2255,7 @@ export const grammarN4 = [
  {
   "pattern": "V-て form + も",
   "level": "N4",
-  "structure": "V-て + も; i-adj drop い + くても (高くても); na-adj / noun + でも.",
+  "structure": "V-て + も;",
   "explanation": "meskipun / meskipun (kontras hipotetis atau kontrafaktual)",
   "note": "〜ても is a hypothetical concessive — 'even if X, (still) Y'. It expresses that the main clause holds regardless of the 〜ても clause. Distinct from the related 〜てもいい (permission — covered separately as te-mo-ii-permission) in that the meaning here is concessive, not permissive. Commonly paired with interrogatives or emphatic words: いくら〜ても ('no matter how much'), どんなに〜ても ('no matter how').",
   "formality": "neutral",
@@ -2292,7 +2292,7 @@ export const grammarN4 = [
  {
   "pattern": "いらっしゃる (honorific of 行く / 来る / いる)",
   "level": "N4",
-  "structure": "Plain: いらっしゃる. Polite: いらっしゃいます (note irregular — い dropped before ます). Te-form: いらっしゃって. Imperative: いらっしゃい.",
+  "structure": "Biasa: いらっしゃる.",
   "explanation": "(kehormatan) untuk pergi / datang / menjadi (di suatu tempat)",
   "note": "いらっしゃる is a dedicated honorific (尊敬語) verb that replaces all three of 行く (go), 来る (come), and いる (be at a place) when describing a superior's actions politely. It conjugates as a godan verb with one irregularity: the polite form is いらっしゃいます (not いらっしゃります). Common in customer service: いらっしゃいませ ('welcome' — literally 'please come/be').",
   "formality": "formal",
@@ -2328,7 +2328,7 @@ export const grammarN4 = [
  {
   "pattern": "おっしゃる (honorific of 言う)",
   "level": "N4",
-  "structure": "Plain: おっしゃる. Polite: おっしゃいます (irregular — い drop before ます). Te-form: おっしゃって.",
+  "structure": "Biasa: おっしゃる.",
   "explanation": "(kehormatan) untuk mengatakan",
   "note": "おっしゃる is the dedicated honorific (尊敬語) verb replacing 言う when describing a superior's speech politely. Like いらっしゃる, it has an irregular polite form: おっしゃいます (not おっしゃります). Common in business phrases like 'what did you say?' (何とおっしゃいましたか) and 'as you say' (おっしゃる通り).",
   "formality": "formal",
@@ -2364,7 +2364,7 @@ export const grammarN4 = [
  {
   "pattern": "ご覧になる (honorific of 見る)",
   "level": "N4",
-  "structure": "Base form: ご覧になる. Polite: ご覧になります. Request: ご覧ください ('please look'). Te-form: ご覧になって.",
+  "structure": "Bentuk dasar: ご覧になる.",
   "explanation": "(Kehormatan) untuk melihat / melihat",
   "note": "ご覧になる is the dedicated honorific form of 見る ('see / look at / watch'). It conjugates as a regular godan verb (ご覧になります, ご覧になって). The shortened form ご覧ください ('please look') appears frequently on signs, in announcements, and in instructions. Distinct from the simple honorific 見られる, which is the passive-as-honorific construction applied to 見る.",
   "formality": "formal",
@@ -2399,7 +2399,7 @@ export const grammarN4 = [
  {
   "pattern": "なさる (honorific of する)",
   "level": "N4",
-  "structure": "Plain: なさる. Polite: なさいます (irregular). Te-form: なさって. Request: なさってください.",
+  "structure": "Biasa: なさる.",
   "explanation": "(kehormatan) untuk dilakukan",
   "note": "なさる is the dedicated honorific (尊敬語) verb replacing する when describing a superior's actions politely. Like the other irregular honorific verbs, it has an irregular polite form: なさいます (not なさります). Common with suru-compounds: 勉強なさる, 説明なさる. The request form なさってください is a polite way to say 'please do X', though お〜ください is more common for simple requests.",
   "formality": "formal",
@@ -2434,7 +2434,7 @@ export const grammarN4 = [
  {
   "pattern": "参る (humble of 行く / 来る)",
   "level": "N4",
-  "structure": "Plain: 参る. Polite: 参ります. Te-form: 参って.",
+  "structure": "Biasa: 参る.",
   "explanation": "(rendah hati) untuk pergi / datang",
   "note": "参る is the dedicated humble (謙譲語) verb replacing both 行く and 来る when describing the speaker's own movement politely, especially toward a superior or in formal contexts. Conjugates as a regular godan verb. Common in formal announcements: 'the train is coming' (電車が参ります), and in polite business phrases: 'I'll be right there' (すぐ参ります).",
   "formality": "formal",
@@ -2469,7 +2469,7 @@ export const grammarN4 = [
  {
   "pattern": "申す (humble of 言う)",
   "level": "N4",
-  "structure": "Plain: 申す. Polite: 申します. More formal: 申し上げる / 申し上げます.",
+  "structure": "Biasa: 申す.",
   "explanation": "(rendah hati) untuk mengatakan / dipanggil (sebuah nama)",
   "note": "申す is the dedicated humble (謙譲語) verb replacing 言う for the speaker's own speech in polite contexts. The most common use is in self-introductions: 'I'm called X' (Xと申します). The more formal 申し上げる adds extra humility (お礼を申し上げます — 'I express my thanks'). Business and formal speech rely heavily on this verb.",
   "formality": "formal",
@@ -2505,7 +2505,7 @@ export const grammarN4 = [
  {
   "pattern": "いただく (humble of もらう / 食べる / 飲む)",
   "level": "N4",
-  "structure": "Plain: いただく. Polite: いただきます.",
+  "structure": "Biasa: いただく.",
   "explanation": "(rendah hati) menerima / makan / minum",
   "note": "いただく is the humble (謙譲語) verb that covers three closely related meanings: (1) to receive, as humble of もらう; (2) to eat, as humble of 食べる; (3) to drink, as humble of 飲む. The pre-meal greeting いただきます comes from sense (2) — literally 'I humbly receive / eat'. The polite form いただきます is by far the most common form. See also the auxiliary 〜ていただく covered separately.",
   "formality": "formal",
@@ -2540,7 +2540,7 @@ export const grammarN4 = [
  {
   "pattern": "くださる (honorific of くれる)",
   "level": "N4",
-  "structure": "Plain: くださる. Polite: くださいます (irregular). Imperative: ください.",
+  "structure": "Biasa: くださる.",
   "explanation": "(kehormatan) (seseorang yang lebih tinggi) memberi kepada saya/kita",
   "note": "くださる is the dedicated honorific (尊敬語) verb replacing くれる when the giver is a superior. Like other irregular honorific verbs, its polite form is irregular: くださいます (not くださります). The imperative ください ('please') is derived from this verb and is extremely common. The auxiliary 〜てくださる (honorific of 〜てくれる) describes a superior doing a favor for the speaker.",
   "formality": "formal",
@@ -2576,7 +2576,7 @@ export const grammarN4 = [
  {
   "pattern": "Noun (or V plain) + しか + negative predicate",
   "level": "N4",
-  "structure": "Noun + しか + ない / いません (negative); V plain (often potential) + しか + ない / いません.",
+  "structure": "Kata Benda + しか + ない / いません (negatif);",
   "explanation": "hanya / tidak ada kecuali (polaritas negatif 'hanya')",
   "note": "しか is a negative-polarity 'only' marker: it must be paired with a negative predicate to give a 'only X' meaning. It is more emphatic and more restrictive than だけ, often carrying a sense of 'only this (and nothing else)' or 'no more than X'. The main clause MUST be in the negative form even though the meaning in English is positive ('only').",
   "formality": "neutral",
@@ -2611,8 +2611,8 @@ export const grammarN4 = [
  {
   "pattern": "Noun + が + 好き / 嫌い",
   "level": "N4",
-  "structure": "(Subject は) + Object が + 好き / 嫌い / 大好き / 大嫌い + です / だ.",
-  "explanation": "like / dislike (object takes が, not を)",
+  "structure": "(Subjek は) + Objek が + 好き / 嫌い / 大好き / 大嫌い + です / だ.",
+  "explanation": "suka / tidak suka (objek mengambil が, bukan を)",
   "note": "In Japanese, the objects of 好き ('like') and 嫌い ('dislike') are marked with が, NOT を. This is because 好き / 嫌い are na-adjectives describing the subject's state, not transitive verbs. The full structure is [subject は / が] [object が] 好き/嫌い. 大好き ('love') and 大嫌い ('hate') are the emphatic forms.",
   "formality": "neutral",
   "related": [
@@ -2648,8 +2648,8 @@ export const grammarN4 = [
  {
   "pattern": "Noun + が + わかる",
   "level": "N4",
-  "structure": "(Subject は) + Object が + わかる / わかります. Negative: わからない / わかりません.",
-  "explanation": "understand (object takes が, not を)",
+  "structure": "(Subjek は) + Objek が + わかる / わかります.",
+  "explanation": "mengerti (objek mengambil が, bukan を)",
   "note": "わかる ('understand / know / be clear') takes its object with が, NOT を. This is because わかる is syntactically intransitive — 'X は Y が わかる' literally means 'as for X, Y is understandable'. The same が-marking applies to できる, 好き / 嫌い, 見える, and 聞こえる. Note that わかる is distinct from 知る ('know (a fact)'), which DOES take を.",
   "formality": "neutral",
   "related": [
@@ -2684,8 +2684,8 @@ export const grammarN4 = [
  {
   "pattern": "Noun + が + できる",
   "level": "N4",
-  "structure": "(Subject は) + Object が + できる / できます. Negative: できない / できません.",
-  "explanation": "can do / is possible (object takes が, not を)",
+  "structure": "(Subjek は) + Objek が + できる / できます.",
+  "explanation": "bisa melakukan / mungkin (objek membutuhkan が, bukan を)",
   "note": "できる is the 'can do' verb that takes its object with が, not を. It can express (1) ability to do X (日本語ができる 'can do (speak) Japanese'), (2) the completion / creation of something (ご飯ができた 'the meal is ready'), or (3) possibility. It is the potential form of する and can always be substituted for the より-explicit 〜することができる pattern.",
   "formality": "neutral",
   "related": [
@@ -2721,8 +2721,8 @@ export const grammarN4 = [
  {
   "pattern": "Noun + が + 聞こえる / 見える",
   "level": "N4",
-  "structure": "(Subject には) + Object が + 聞こえる / 見える.",
-  "explanation": "is audible / is visible (spontaneous perception; object takes が)",
+  "structure": "(Subjek には) + Objek が + 聞こえる / 見える.",
+  "explanation": "terdengar / terlihat (persepsi spontan; objek mengambil が)",
   "note": "聞こえる ('be audible / can be heard') and 見える ('be visible / can be seen') express spontaneous perception — something reaches the observer without active effort. They take their object (the audible / visible thing) with が. Distinct from the potential forms 聞ける / 見られる, which express ability (the ability to hear/see something). Roughly: 聞こえる = 'I can hear it (it's loud enough)'; 聞ける = 'I have the ability to hear it (e.g., my ears work)'.",
   "formality": "neutral",
   "related": [
@@ -2757,7 +2757,7 @@ export const grammarN4 = [
  {
   "pattern": "だから (sentence-initial)",
   "level": "N4",
-  "structure": "[Previous sentence]. だから [current sentence].",
+  "structure": "[Kalimat sebelumnya].",
   "explanation": "jadi / oleh karena itu / itu sebabnya",
   "note": "だから as a sentence-initial conjunction means 'so / therefore / that's why', linking a previous statement (reason) to the current statement (conclusion). It is the standalone / sentence-initial version of the causal から. In casual speech, it can sometimes imply 'that's what I'm saying' or a slight frustration. The polite equivalent is ですから.",
   "formality": "neutral",
@@ -2793,7 +2793,7 @@ export const grammarN4 = [
  {
   "pattern": "それで (sentence-initial)",
   "level": "N4",
-  "structure": "[Previous sentence]. それで [current sentence].",
+  "structure": "[Kalimat sebelumnya].",
   "explanation": "dan kemudian / jadi / sebagai hasilnya",
   "note": "それで is a sentence-initial conjunction meaning 'and then / so / as a result'. It connects a previous event or reason to a consequent event or action, but with a more narrative / sequential feel than だから. Often used to introduce the next step in a story or to prompt someone to continue ('and then?'). More neutral tone than だから.",
   "formality": "neutral",
@@ -2829,7 +2829,7 @@ export const grammarN4 = [
  {
   "pattern": "それから (sentence-initial)",
   "level": "N4",
-  "structure": "[Previous sentence]. それから [current sentence].",
+  "structure": "[Kalimat sebelumnya].",
   "explanation": "dan kemudian / setelah itu / sebagai tambahan",
   "note": "それから is a sentence-initial conjunction meaning 'and then / after that / in addition'. It is primarily temporal (sequential), but can also list additional items ('and another thing'). It is more purely sequential than それで (which carries a causal flavor). Common in narrating actions in order and in enumerating items.",
   "formality": "neutral",
@@ -2865,7 +2865,7 @@ export const grammarN4 = [
  {
   "pattern": "しかし (sentence-initial)",
   "level": "N4",
-  "structure": "[Previous sentence]. しかし [current sentence].",
+  "structure": "[Kalimat sebelumnya].",
   "explanation": "tapi / namun (formal)",
   "note": "しかし is a formal / written sentence-initial conjunction meaning 'but' or 'however'. It is more formal than でも (casual but) and carries a more emphatic contrastive feeling. Common in essays, news articles, and formal speech. In casual conversation でも is preferred.",
   "formality": "formal",
@@ -2901,7 +2901,7 @@ export const grammarN4 = [
  {
   "pattern": "けれども (mid-sentence or sentence-initial)",
   "level": "N4",
-  "structure": "Clause + けれども + clause (mid-sentence); or sentence-initial: [Previous]. けれども, [current].",
+  "structure": "Klausa + けれども + klausa (tengah kalimat);",
   "explanation": "tapi / namun (formal-netral)",
   "note": "けれども is a more formal variant of けど ('but'), used in writing or polite spoken contexts. It can appear mid-sentence as a clausal connector (similar to が) or sentence-initially as a conjunction. Less formal than しかし but more formal than けど / けれど. The casual chain けど → けれど → けれども increases in formality.",
   "formality": "formal",
@@ -2937,7 +2937,7 @@ export const grammarN4 = [
  {
   "pattern": "X とか Y (とか)",
   "level": "N4",
-  "structure": "Noun + とか (+ noun + とか) + main clause. Can also follow verbs in plain form: 食べるとか寝るとか.",
+  "structure": "Kata benda + とか (+ kata benda + とか) + klausa utama.",
   "explanation": "seperti X dan Y / hal-hal seperti (daftar kasual tidak lengkap)",
   "note": "〜とか is a casual particle for non-exhaustive listing — 'like X and Y (and others)'. It is the casual counterpart of や (which lists similar items) and も〜も (which lists together). The final とか is optional and softens the listing. Common in casual speech for giving examples without being exhaustive.",
   "formality": "casual",
@@ -2973,7 +2973,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain form / phrase + って",
   "level": "N4",
-  "structure": "Plain-form clause / phrase + って.",
+  "structure": "Klausa/frasa bentuk biasa + って.",
   "explanation": "(santai) itu... / mereka bilang... / benda itu disebut...",
   "note": "〜って is a highly versatile casual particle with three main uses: (1) casual quotation — equivalent to と (彼は来るって言った 'he said he'll come'); (2) topic marker — emphasizing or introducing a topic (日本語って難しい 'Japanese is hard'); (3) casual という ('called') for naming (佐藤って人 'a person called Sato'). It is strictly casual and should not be used in formal writing.",
   "formality": "casual",
@@ -3009,7 +3009,7 @@ export const grammarN4 = [
  {
   "pattern": "それでも (sentence-initial)",
   "level": "N4",
-  "structure": "[Previous sentence]. それでも [current sentence].",
+  "structure": "[Kalimat sebelumnya].",
   "explanation": "walaupun begitu / tetap saja / tetap saja",
   "note": "それでも is a sentence-initial conjunction meaning 'even so / nonetheless'. It concedes the previous statement and presents a contrasting main clause. More emphatic than でも when used at the start of a new sentence — it acknowledges the previous point but insists on the following. Common in arguments and opinion statements.",
   "formality": "neutral",
@@ -3045,7 +3045,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb-stem / い-adj stem / な-adj root + そう(だ/です)",
   "level": "N4",
-  "structure": "Verb ます-stem + そう; い-adj drop い + そう (高い → 高そう); な-adj root + そう (元気 → 元気そう). Exceptions: いい → よさそう, ない → なさそう.",
+  "structure": "Kata Kerja ます-batang + そう;",
   "explanation": "sepertinya / sepertinya (penilaian berdasarkan penampilan)",
   "note": "そうだ attached to a verb stem, い-adjective stem, or na-adjective root expresses a judgment based on appearance — 'it looks like', 'it seems'. The speaker is making an inference from visual or situational evidence, not reporting something they heard. This is structurally distinct from the hearsay そうだ which attaches to plain form.",
   "formality": "neutral",
@@ -3082,7 +3082,7 @@ export const grammarN4 = [
  {
   "pattern": "Plain form + そう(だ/です)",
   "level": "N4",
-  "structure": "Plain-form verb / i-adj / na-adj / noun + だ (for nouns and na-adj) + そうだ. Examples: 食べるそうだ, 食べたそうだ, 高いそうだ, 学生だそうだ, 元気だそうだ.",
+  "structure": "Kata kerja bentuk biasa / i-adj / na-adj / kata benda + だ (untuk kata benda dan na-adj) + そうだ.",
   "explanation": "Saya mendengarnya / rupanya (pidato yang dilaporkan)",
   "note": "When そうだ attaches to a plain-form predicate (not a verb stem), it expresses hearsay — 'I heard that ___'. The speaker is reporting information received from another source rather than making their own judgment. The source can be named with 〜によると ('according to ___'). Structurally distinct from appearance-based そうだ, which attaches to the verb stem.",
   "formality": "neutral",
@@ -3119,7 +3119,7 @@ export const grammarN4 = [
  {
   "pattern": "Verb volitional + かと思う",
   "level": "N4",
-  "structure": "V volitional + かと思う.",
+  "structure": "V kemauan + かと思う.",
   "explanation": "berpikir untuk melakukan / setengah mempertimbangkan",
   "note": "〜ようかと思う expresses that the speaker is considering doing X, but with some hesitation or uncertainty — 'thinking of doing X / half-considering'. Less committed than 〜ようと思う (intend to do). Often used for tentative plans. Neutral / formal register.",
   "formality": "neutral",

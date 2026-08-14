@@ -38,17 +38,17 @@ export const kanjiN3 = [
    {
     "word": "王様",
     "reading": "おうさま",
-    "meaning": "king"
+    "meaning": "raja"
    },
    {
     "word": "女王",
     "reading": "じょおう",
-    "meaning": "queen"
+    "meaning": "ratu"
    },
    {
     "word": "王子",
     "reading": "おうじ",
-    "meaning": "prince"
+    "meaning": "pangeran"
    }
   ]
  },
@@ -71,17 +71,17 @@ export const kanjiN3 = [
    {
     "word": "石油",
     "reading": "せきゆ",
-    "meaning": "oil,petroleum,kerosene"
+    "meaning": "minyak, minyak bumi, minyak tanah"
    },
    {
     "word": "石炭",
     "reading": "せきたん",
-    "meaning": "coal"
+    "meaning": "batu bara"
    },
    {
     "word": "宝石",
     "reading": "ほうせき",
-    "meaning": "gem,jewel"
+    "meaning": "permata, permata"
    }
   ]
  },
@@ -108,17 +108,17 @@ export const kanjiN3 = [
    {
     "word": "家内",
     "reading": "かない",
-    "meaning": "housewife"
+    "meaning": "ibu rumah tangga"
    },
    {
     "word": "案内",
     "reading": "あんない・する",
-    "meaning": "to guide"
+    "meaning": "untuk membimbing"
    },
    {
     "word": "以内",
     "reading": "いない",
-    "meaning": "within"
+    "meaning": "di dalam"
    }
   ]
  },
@@ -143,17 +143,17 @@ export const kanjiN3 = [
    {
     "word": "太い",
     "reading": "ふとい",
-    "meaning": "fat"
+    "meaning": "gemuk"
    },
    {
     "word": "太る",
     "reading": "ふとる",
-    "meaning": "to become fat"
+    "meaning": "menjadi gemuk"
    },
    {
     "word": "太陽",
     "reading": "たいよう",
-    "meaning": "sun,solar"
+    "meaning": "matahari, tenaga surya"
    }
   ]
  },
@@ -189,12 +189,12 @@ export const kanjiN3 = [
    {
     "word": "字引",
     "reading": "じびき",
-    "meaning": "dictionary"
+    "meaning": "kamus"
    },
    {
     "word": "引き出す",
     "reading": "ひきだす",
-    "meaning": "to withdraw"
+    "meaning": "untuk menarik diri"
    }
   ]
  },
@@ -222,12 +222,12 @@ export const kanjiN3 = [
    {
     "word": "市場",
     "reading": "いちば",
-    "meaning": "(the) market (as a concept)"
+    "meaning": "() pasar (sebagai sebuah konsep)"
    },
    {
     "word": "都市",
     "reading": "とし",
-    "meaning": "town,city,municipal,urban"
+    "meaning": "kota, kota, kotamadya, perkotaan"
    }
   ]
  },
@@ -250,7 +250,7 @@ export const kanjiN3 = [
    {
     "word": "他人",
     "reading": "たにん",
-    "meaning": "another person,unrelated person,outsider,stranger"
+    "meaning": "orang lain, orang yang tidak berhubungan, orang luar, orang asing"
    }
   ]
  },
@@ -283,7 +283,7 @@ export const kanjiN3 = [
    {
     "word": "信号",
     "reading": "しんごう",
-    "meaning": "traffic lights,signal,semaphore"
+    "meaning": "lampu lalu lintas, sinyal, semaphore"
    },
    {
     "word": "記号",
@@ -316,7 +316,7 @@ export const kanjiN3 = [
    {
     "word": "平均",
     "reading": "へいきん",
-    "meaning": "keseimbangan, keseimbangan, rata-rata, mean"
+    "meaning": "keseimbangan, keseimbangan, rata-rata, berarti"
    },
    {
     "word": "平和",
@@ -326,7 +326,7 @@ export const kanjiN3 = [
    {
     "word": "地平線",
     "reading": "ちへいせん",
-    "meaning": "horizon"
+    "meaning": "horison"
    }
   ]
  },
@@ -354,12 +354,12 @@ export const kanjiN3 = [
    {
     "word": "打つ",
     "reading": "うつ",
-    "meaning": "to hit"
+    "meaning": "untuk memukul"
    },
    {
     "word": "打つ",
     "reading": "ぶつ",
-    "meaning": "to hit,to strike"
+    "meaning": "untuk memukul, untuk menyerang"
    }
   ]
  },
@@ -390,12 +390,12 @@ export const kanjiN3 = [
    {
     "word": "申し上げる",
     "reading": "もうしあげる",
-    "meaning": "(humble) to say,to tell"
+    "meaning": "(rendah hati) untuk mengatakan, untuk memberitahu"
    },
    {
     "word": "申し訳",
     "reading": "もうしわけ",
-    "meaning": "apology,excuse"
+    "meaning": "maaf, permisi"
    }
   ]
  },
@@ -445,7 +445,7 @@ export const kanjiN3 = [
    {
     "word": "耳",
     "reading": "みみ",
-    "meaning": "ear"
+    "meaning": "telinga"
    }
   ]
  },
@@ -478,17 +478,17 @@ export const kanjiN3 = [
    {
     "word": "交差点",
     "reading": "こうさてん",
-    "meaning": "intersection"
+    "meaning": "persimpangan"
    },
    {
     "word": "交番",
     "reading": "こうばん",
-    "meaning": "police box"
+    "meaning": "kotak polisi"
    },
    {
     "word": "交通",
     "reading": "こうつう",
-    "meaning": "traffic,transportation"
+    "meaning": "lalu lintas, transportasi"
    }
   ]
  },
@@ -511,17 +511,17 @@ export const kanjiN3 = [
    {
     "word": "光る",
     "reading": "ひかる",
-    "meaning": "to shine,to glitter"
+    "meaning": "bersinar, berkilauan"
    },
    {
     "word": "観光",
     "reading": "かんこう",
-    "meaning": "sightseeing"
+    "meaning": "tamasya"
    },
    {
     "word": "日光",
     "reading": "にっこう",
-    "meaning": "sunlight"
+    "meaning": "sinar matahari"
    }
   ]
  },
@@ -555,7 +555,7 @@ export const kanjiN3 = [
    {
     "word": "回る",
     "reading": "まわる",
-    "meaning": "to go around"
+    "meaning": "untuk berkeliling"
    },
    {
     "word": "回す",
@@ -565,7 +565,7 @@ export const kanjiN3 = [
    {
     "word": "回り",
     "reading": "まわり",
-    "meaning": "circumference,surroundings,circulation"
+    "meaning": "keliling, lingkungan sekitar, sirkulasi"
    }
   ]
  },
@@ -594,12 +594,12 @@ export const kanjiN3 = [
    {
     "word": "お弁当",
     "reading": "おべんとう",
-    "meaning": "boxed lunch"
+    "meaning": "kotak makan siang"
    },
    {
     "word": "適当",
     "reading": "てきとう",
-    "meaning": "kesesuaian"
+    "meaning": "ketenangan"
    },
    {
     "word": "弁当",
@@ -630,7 +630,7 @@ export const kanjiN3 = [
    {
     "word": "米",
     "reading": "こめ",
-    "meaning": "uncooked rice"
+    "meaning": "nasi mentah"
    }
   ]
  },
@@ -680,7 +680,7 @@ export const kanjiN3 = [
    {
     "word": "人形",
     "reading": "にんぎょう",
-    "meaning": "doll, figure"
+    "meaning": "boneka, gambar"
    }
   ]
  },
@@ -708,7 +708,7 @@ export const kanjiN3 = [
    {
     "word": "草",
     "reading": "くさ",
-    "meaning": "grass"
+    "meaning": "rumput"
    }
   ]
  },
@@ -738,17 +738,17 @@ export const kanjiN3 = [
    {
     "word": "文化",
     "reading": "ぶんか",
-    "meaning": "culture"
+    "meaning": "budaya"
    },
    {
     "word": "化粧",
     "reading": "けしょう",
-    "meaning": "make-up (cosmetic)"
+    "meaning": "tata rias (kosmetik)"
    },
    {
     "word": "変化",
     "reading": "へんか",
-    "meaning": "goblin,ghost,apparition,bugbear"
+    "meaning": "goblin, hantu, penampakan, bugbear"
    }
   ]
  },
@@ -778,7 +778,7 @@ export const kanjiN3 = [
    {
     "word": "両方",
     "reading": "りょうほう",
-    "meaning": "both sides"
+    "meaning": "kedua sisi"
    },
    {
     "word": "両替",
@@ -809,12 +809,12 @@ export const kanjiN3 = [
    {
     "word": "全部",
     "reading": "ぜんぶ",
-    "meaning": "all"
+    "meaning": "semua"
    },
    {
     "word": "安全",
     "reading": "あんぜん",
-    "meaning": "safety"
+    "meaning": "keamanan"
    },
    {
     "word": "全く",
@@ -856,7 +856,7 @@ export const kanjiN3 = [
    {
     "word": "向こう",
     "reading": "むこう",
-    "meaning": "over there"
+    "meaning": "di sana"
    },
    {
     "word": "向かう",
@@ -866,7 +866,7 @@ export const kanjiN3 = [
    {
     "word": "向ける",
     "reading": "むける",
-    "meaning": "to turn towards,to point"
+    "meaning": "untuk berbalik ke arah, untuk menunjuk"
    }
   ]
  },
@@ -899,12 +899,12 @@ export const kanjiN3 = [
    {
     "word": "曲る",
     "reading": "まがる",
-    "meaning": "to turn,to bend"
+    "meaning": "untuk berbalik, membungkuk"
    },
    {
     "word": "作曲",
     "reading": "さっきょく",
-    "meaning": "composition,setting (of music)"
+    "meaning": "komposisi, setting (musik)"
    },
    {
     "word": "曲線",
@@ -934,12 +934,12 @@ export const kanjiN3 = [
    {
     "word": "次々",
     "reading": "つぎつぎ",
-    "meaning": "in succession,one by one"
+    "meaning": "berturut-turut, satu demi satu"
    },
    {
     "word": "次第",
     "reading": "しだい",
-    "meaning": "(1) order,precedence,(2) circumstances,(3) immediate(ly)"
+    "meaning": "(1) urutan, prioritas, (2) keadaan, (3) segera"
    }
   ]
  },
@@ -981,7 +981,7 @@ export const kanjiN3 = [
    {
     "word": "直ちに",
     "reading": "ただちに",
-    "meaning": "at once,immediately,directly,in person"
+    "meaning": "sekaligus, segera, secara langsung, secara langsung"
    }
   ]
  },
@@ -1007,7 +1007,7 @@ export const kanjiN3 = [
    {
     "word": "生活",
     "reading": "せいかつ・する",
-    "meaning": "to live"
+    "meaning": "untuk hidup"
    },
    {
     "word": "活動",
@@ -1017,7 +1017,7 @@ export const kanjiN3 = [
    {
     "word": "活気",
     "reading": "かっき",
-    "meaning": "energy,liveliness"
+    "meaning": "energi, keaktifan"
    }
   ]
  },
@@ -1048,17 +1048,17 @@ export const kanjiN3 = [
    {
     "word": "交差点",
     "reading": "こうさてん",
-    "meaning": "intersection"
+    "meaning": "persimpangan"
    },
    {
     "word": "欠点",
     "reading": "けってん",
-    "meaning": "faults,defect,weakness"
+    "meaning": "kesalahan, cacat, kelemahan"
    },
    {
     "word": "要点",
     "reading": "ようてん",
-    "meaning": "gist,main point"
+    "meaning": "intinya, poin utama"
    }
   ]
  },
@@ -1079,17 +1079,17 @@ export const kanjiN3 = [
    {
     "word": "科学",
     "reading": "かがく",
-    "meaning": "science"
+    "meaning": "sains"
    },
    {
     "word": "教科書",
     "reading": "きょうかしょ",
-    "meaning": "text book"
+    "meaning": "buku teks"
    },
    {
     "word": "科目",
     "reading": "かもく",
-    "meaning": "(school) subject,curriculum,course"
+    "meaning": "(sekolah) mata pelajaran, kurikulum, kursus"
    }
   ]
  },
@@ -1111,12 +1111,12 @@ export const kanjiN3 = [
    {
     "word": "首相",
     "reading": "しゅしょう",
-    "meaning": "Prime Minister"
+    "meaning": "Perdana Menteri"
    },
    {
     "word": "首都",
     "reading": "しゅと",
-    "meaning": "capital city"
+    "meaning": "ibu kota"
    },
    {
     "word": "首脳",
@@ -1152,12 +1152,12 @@ export const kanjiN3 = [
    {
     "word": "欠点",
     "reading": "けってん",
-    "meaning": "faults,defect,weakness"
+    "meaning": "kesalahan, cacat, kelemahan"
    },
    {
     "word": "欠席",
     "reading": "けっせき",
-    "meaning": "absence,non-attendance"
+    "meaning": "ketidakhadiran, ketidakhadiran"
    }
   ]
  },
@@ -1182,12 +1182,12 @@ export const kanjiN3 = [
    {
     "word": "理由",
     "reading": "りゆう",
-    "meaning": "reason"
+    "meaning": "alasan"
    },
    {
     "word": "自由",
     "reading": "じゆう",
-    "meaning": "freedom"
+    "meaning": "kebebasan"
    },
    {
     "word": "経由",
@@ -1220,12 +1220,12 @@ export const kanjiN3 = [
    {
     "word": "農民",
     "reading": "のうみん",
-    "meaning": "farmers,peasants"
+    "meaning": "petani, petani"
    },
    {
     "word": "住民",
     "reading": "じゅうみん",
-    "meaning": "citizens,inhabitants,residents,population"
+    "meaning": "warga negara, penduduk, penduduk, populasi"
    }
   ]
  },
@@ -1273,7 +1273,7 @@ export const kanjiN3 = [
    {
     "word": "片付ける",
     "reading": "かたづける",
-    "meaning": "to tidy up"
+    "meaning": "untuk merapikan"
    }
   ]
  },
@@ -1304,12 +1304,12 @@ export const kanjiN3 = [
    {
     "word": "失う",
     "reading": "うしなう",
-    "meaning": "to lose,to part with"
+    "meaning": "untuk kalah, untuk berpisah"
    },
    {
     "word": "失業",
     "reading": "しつぎょう",
-    "meaning": "unemployment"
+    "meaning": "pengangguran"
    }
   ]
  },
@@ -1332,17 +1332,17 @@ export const kanjiN3 = [
    {
     "word": "必要",
     "reading": "ひつよう",
-    "meaning": "necessary"
+    "meaning": "diperlukan"
    },
    {
     "word": "必ず",
     "reading": "かならず",
-    "meaning": "certainly,necessarily"
+    "meaning": "tentu saja, tentu saja"
    },
    {
     "word": "必死",
     "reading": "ひっし",
-    "meaning": "inevitable death,desperation,frantic,inevitable result"
+    "meaning": "kematian yang tak terelakkan, keputusasaan, kepanikan, akibat yang tak terelakkan"
    }
   ]
  },
@@ -1373,12 +1373,12 @@ export const kanjiN3 = [
    {
     "word": "未来",
     "reading": "みらい",
-    "meaning": "future (life, tense)"
+    "meaning": "masa depan (hidup, tegang)"
    },
    {
     "word": "未だ",
     "reading": "まだ",
-    "meaning": "yet,still,more,besides"
+    "meaning": "namun, masih, lebih dari itu"
    }
   ]
  },
@@ -1404,7 +1404,7 @@ export const kanjiN3 = [
    {
     "word": "粗末",
     "reading": "そまつ",
-    "meaning": "crude,rough,plain,humble"
+    "meaning": "kasar, kasar, polos, rendah hati"
    }
   ]
  },
@@ -1437,7 +1437,7 @@ export const kanjiN3 = [
    {
     "word": "記入",
     "reading": "きにゅう",
-    "meaning": "entry,filling in of forms"
+    "meaning": "masuk, mengisi formulir"
    }
   ]
  },
@@ -1467,17 +1467,17 @@ export const kanjiN3 = [
    {
     "word": "番組",
     "reading": "ばんぐみ",
-    "meaning": "television or radio program"
+    "meaning": "program televisi atau radio"
    },
    {
     "word": "組合",
     "reading": "くみあい",
-    "meaning": "association,union"
+    "meaning": "asosiasi, serikat pekerja"
    },
    {
     "word": "組む",
     "reading": "くむ",
-    "meaning": "to put together"
+    "meaning": "untuk disatukan"
    }
   ]
  },
@@ -1500,7 +1500,7 @@ export const kanjiN3 = [
    {
     "word": "船",
     "reading": "ふね",
-    "meaning": "ship,boat,watercraft,shipping,vessel,steamship"
+    "meaning": "kapal, perahu, perahu, pelayaran, kapal, kapal uap"
    }
   ]
  },
@@ -1521,7 +1521,7 @@ export const kanjiN3 = [
    {
     "word": "雪",
     "reading": "ゆき",
-    "meaning": "snow"
+    "meaning": "salju"
    }
   ]
  },
@@ -1547,17 +1547,17 @@ export const kanjiN3 = [
    {
     "word": "支度",
     "reading": "したく・する",
-    "meaning": "to prepare"
+    "meaning": "untuk mempersiapkan"
    },
    {
     "word": "支払",
     "reading": "しはらい",
-    "meaning": "payment"
+    "meaning": "pembayaran"
    },
    {
     "word": "支える",
     "reading": "ささえる",
-    "meaning": "to be blocked,to choke,to be obstructed"
+    "meaning": "untuk diblokir, untuk tersedak, untuk dihalangi"
    }
   ]
  },
@@ -1583,17 +1583,17 @@ export const kanjiN3 = [
    {
     "word": "援助",
     "reading": "えんじょ",
-    "meaning": "assistance,aid,support"
+    "meaning": "bantuan, bantuan, dukungan"
    },
    {
     "word": "助手",
     "reading": "じょしゅ",
-    "meaning": "helper,helpmeet,assistant,tutor"
+    "meaning": "pembantu, pembantu, asisten, tutor"
    },
    {
     "word": "助ける",
     "reading": "たすける",
-    "meaning": "to help,to save,to rescue"
+    "meaning": "untuk membantu, untuk menyelamatkan, untuk menyelamatkan"
    }
   ]
  },
@@ -1618,7 +1618,7 @@ export const kanjiN3 = [
    {
     "word": "君",
     "reading": "きみ",
-    "meaning": "(informal) You (used by men towards women)"
+    "meaning": "(informal) Kamu (digunakan oleh laki-laki terhadap perempuan)"
    }
   ]
  },
@@ -1651,17 +1651,17 @@ export const kanjiN3 = [
    {
     "word": "反対",
     "reading": "はんたい",
-    "meaning": "opposition"
+    "meaning": "oposisi"
    },
    {
     "word": "対象",
     "reading": "たいしょう",
-    "meaning": "target,object (of worship, study, etc),subject (of taxation, etc)"
+    "meaning": "sasaran, obyek (ibadah, belajar, dan lain-lain), subjek (pajak, dan lain-lain)"
    },
    {
     "word": "対する",
     "reading": "たいする",
-    "meaning": "to face,to confront,to oppose"
+    "meaning": "menghadapi, menghadapi, menentang"
    }
   ]
  },
@@ -1689,12 +1689,12 @@ export const kanjiN3 = [
    {
     "word": "郵便局",
     "reading": "ゆうびんきょく",
-    "meaning": "post office"
+    "meaning": "kantor Pos"
    },
    {
     "word": "結局",
     "reading": "けっきょく",
-    "meaning": "after all,eventually"
+    "meaning": "pada akhirnya"
    }
   ]
  },
@@ -1720,12 +1720,12 @@ export const kanjiN3 = [
    {
     "word": "役に立つ",
     "reading": "やくにたつ",
-    "meaning": "to be helpful"
+    "meaning": "untuk membantu"
    },
    {
     "word": "役割",
     "reading": "やくわり",
-    "meaning": "part,assigning (allotment of) parts,role,duties"
+    "meaning": "bagian, menugaskan (menjatah) bagian, peran, tugas"
    }
   ]
  },
@@ -1760,7 +1760,7 @@ export const kanjiN3 = [
    {
     "word": "投票",
     "reading": "とうひょう",
-    "meaning": "voting,poll"
+    "meaning": "pemungutan suara, jajak pendapat"
    },
    {
     "word": "投入",
@@ -1792,17 +1792,17 @@ export const kanjiN3 = [
    {
     "word": "決める",
     "reading": "きめる",
-    "meaning": "to decide"
+    "meaning": "untuk memutuskan"
    },
    {
     "word": "決る",
     "reading": "きまる",
-    "meaning": "to be decided"
+    "meaning": "untuk diputuskan"
    },
    {
     "word": "決して",
     "reading": "けっして",
-    "meaning": "never"
+    "meaning": "tidak pernah"
    }
   ]
  },
@@ -1825,7 +1825,7 @@ export const kanjiN3 = [
    {
     "word": "馬鹿",
     "reading": "ばか",
-    "meaning": "fool,idiot,trivial matter,folly"
+    "meaning": "bodoh, idiot, hal sepele, kebodohan"
    }
   ]
  },
@@ -1852,12 +1852,12 @@ export const kanjiN3 = [
    {
     "word": "交番",
     "reading": "こうばん",
-    "meaning": "police box"
+    "meaning": "kotak polisi"
    },
    {
     "word": "番組",
     "reading": "ばんぐみ",
-    "meaning": "television or radio program"
+    "meaning": "program televisi atau radio"
    }
   ]
  },
@@ -1880,7 +1880,7 @@ export const kanjiN3 = [
    {
     "word": "絵画",
     "reading": "かいが",
-    "meaning": "picture"
+    "meaning": "gambar"
    }
   ]
  },
@@ -1913,17 +1913,17 @@ export const kanjiN3 = [
    {
     "word": "数学",
     "reading": "すうがく",
-    "meaning": "mathematics,arithmetic"
+    "meaning": "matematika, aritmatika"
    },
    {
     "word": "数える",
     "reading": "かぞえる",
-    "meaning": "to count"
+    "meaning": "untuk menghitung"
    },
    {
     "word": "数字",
     "reading": "すうじ",
-    "meaning": "numeral,figure"
+    "meaning": "angka, gambar"
    }
   ]
  },
@@ -1958,7 +1958,7 @@ export const kanjiN3 = [
    {
     "word": "近所",
     "reading": "きんじょ",
-    "meaning": "neighbourhood"
+    "meaning": "lingkungan"
    }
   ]
  },
@@ -1985,12 +1985,12 @@ export const kanjiN3 = [
    {
     "word": "道具",
     "reading": "どうぐ",
-    "meaning": "tool,means"
+    "meaning": "alat, sarana"
    },
    {
     "word": "具合",
     "reading": "ぐあい",
-    "meaning": "condition,health"
+    "meaning": "kondisi, kesehatan"
    },
    {
     "word": "家具",
@@ -2034,7 +2034,7 @@ export const kanjiN3 = [
    {
     "word": "受け取る",
     "reading": "うけとる",
-    "meaning": "to receive,to get,to accept,to take"
+    "meaning": "menerima, mendapatkan, menerima, mengambil"
    }
   ]
  },
@@ -2097,12 +2097,12 @@ export const kanjiN3 = [
    {
     "word": "定期",
     "reading": "ていき",
-    "meaning": "fixed term"
+    "meaning": "jangka waktu tetap"
    },
    {
     "word": "安定",
     "reading": "あんてい",
-    "meaning": "stability,equilibrium"
+    "meaning": "stabilitas, keseimbangan"
    }
   ]
  },
@@ -2134,12 +2134,12 @@ export const kanjiN3 = [
    {
     "word": "実は",
     "reading": "じつは",
-    "meaning": "as a matter of fact,by the way"
+    "meaning": "sebenarnya"
    },
    {
     "word": "実施",
     "reading": "じっし",
-    "meaning": "enforcement,enact,put into practice,carry out,operation"
+    "meaning": "penegakan, memberlakukan, mengamalkan, melaksanakan, mengoperasikan"
    }
   ]
  },
@@ -2160,7 +2160,7 @@ export const kanjiN3 = [
    {
     "word": "泳ぐ",
     "reading": "およぐ",
-    "meaning": "to swim"
+    "meaning": "untuk berenang"
    },
    {
     "word": "水泳",
@@ -2170,7 +2170,7 @@ export const kanjiN3 = [
    {
     "word": "泳ぎ方",
     "reading": "およぎかた",
-    "meaning": "way of swimming"
+    "meaning": "cara berenang"
    }
   ]
  },
@@ -2206,12 +2206,12 @@ export const kanjiN3 = [
    {
     "word": "苦しい",
     "reading": "くるしい",
-    "meaning": "painful,difficult"
+    "meaning": "menyakitkan, sulit"
    },
    {
     "word": "苦労",
     "reading": "くろう",
-    "meaning": "troubles,hardships"
+    "meaning": "masalah, kesulitan"
    }
   ]
  },
@@ -2239,17 +2239,17 @@ export const kanjiN3 = [
    {
     "word": "表現",
     "reading": "ひょうげん",
-    "meaning": "expression,presentation,representation (math)"
+    "meaning": "ekspresi, presentasi, representasi (matematika)"
    },
    {
     "word": "発表",
     "reading": "はっぴょう",
-    "meaning": "announcement,publication"
+    "meaning": "pengumuman, publikasi"
    },
    {
     "word": "表情",
     "reading": "ひょうじょう",
-    "meaning": "facial expression"
+    "meaning": "raut wajah"
    }
   ]
  },
@@ -2277,17 +2277,17 @@ export const kanjiN3 = [
    {
     "word": "部屋",
     "reading": "へや",
-    "meaning": "room"
+    "meaning": "ruang"
    },
    {
     "word": "全部",
     "reading": "ぜんぶ",
-    "meaning": "all"
+    "meaning": "semua"
    },
    {
     "word": "部長",
     "reading": "ぶちょう",
-    "meaning": "head of a section"
+    "meaning": "kepala bagian"
    }
   ]
  },
@@ -2318,17 +2318,17 @@ export const kanjiN3 = [
    {
     "word": "乗る",
     "reading": "のる",
-    "meaning": "to get on,to ride"
+    "meaning": "untuk melanjutkan, untuk berkendara"
    },
    {
     "word": "乗り換える",
     "reading": "のりかえる",
-    "meaning": "to change between buses or trains"
+    "meaning": "untuk berpindah antara bus atau kereta api"
    },
    {
     "word": "乗り物",
     "reading": "のりもの",
-    "meaning": "vehicle"
+    "meaning": "kendaraan"
    }
   ]
  },
@@ -2356,7 +2356,7 @@ export const kanjiN3 = [
    {
     "word": "観客",
     "reading": "かんきゃく",
-    "meaning": "audience,spectator(s)"
+    "meaning": "penonton, penonton"
    }
   ]
  },
@@ -2386,17 +2386,17 @@ export const kanjiN3 = [
    {
     "word": "相談",
     "reading": "そうだん・する",
-    "meaning": "to discuss"
+    "meaning": "untuk berdiskusi"
    },
    {
     "word": "相当",
     "reading": "そうとう",
-    "meaning": "suitable,fair,tolerable,proper"
+    "meaning": "cocok, adil, dapat ditoleransi, tepat"
    },
    {
     "word": "首相",
     "reading": "しゅしょう",
-    "meaning": "Prime Minister"
+    "meaning": "Perdana Menteri"
    }
   ]
  },
@@ -2424,12 +2424,12 @@ export const kanjiN3 = [
    {
     "word": "美術館",
     "reading": "びじゅつかん",
-    "meaning": "art gallery"
+    "meaning": "galeri seni"
    },
    {
     "word": "美人",
     "reading": "びじん",
-    "meaning": "beautiful person (woman)"
+    "meaning": "orang cantik (wanita)"
    }
   ]
  },
@@ -2458,12 +2458,12 @@ export const kanjiN3 = [
    {
     "word": "負ける",
     "reading": "まける",
-    "meaning": "to lose"
+    "meaning": "untuk kalah"
    },
    {
     "word": "負け",
     "reading": "まけ",
-    "meaning": "defeat,loss,losing (a game)"
+    "meaning": "kekalahan, kekalahan, kekalahan (permainan)"
    },
    {
     "word": "負う",
@@ -2488,17 +2488,17 @@ export const kanjiN3 = [
    {
     "word": "相談",
     "reading": "そうだん・する",
-    "meaning": "to discuss"
+    "meaning": "untuk berdiskusi"
    },
    {
     "word": "相談",
     "reading": "そうだん",
-    "meaning": "consultation,discussion"
+    "meaning": "konsultasi, diskusi"
    },
    {
     "word": "冗談",
     "reading": "じょうだん",
-    "meaning": "jest,joke"
+    "meaning": "bercanda, bercanda"
    }
   ]
  },
@@ -2529,7 +2529,7 @@ export const kanjiN3 = [
    {
     "word": "必要",
     "reading": "ひつよう",
-    "meaning": "necessary"
+    "meaning": "diperlukan"
    },
    {
     "word": "要するに",
@@ -2562,7 +2562,7 @@ export const kanjiN3 = [
    {
     "word": "勝つ",
     "reading": "かつ",
-    "meaning": "to win"
+    "meaning": "untuk menang"
    },
    {
     "word": "勝ち",
@@ -2572,7 +2572,7 @@ export const kanjiN3 = [
    {
     "word": "優勝",
     "reading": "ゆうしょう",
-    "meaning": "overall victory,championship"
+    "meaning": "kemenangan keseluruhan, kejuaraan"
    }
   ]
  },
@@ -2602,12 +2602,12 @@ export const kanjiN3 = [
    {
     "word": "急速",
     "reading": "きゅうそく",
-    "meaning": "rapid (e.g. progress)"
+    "meaning": "cepat (misalnya kemajuan)"
    },
    {
     "word": "速度",
     "reading": "そくど",
-    "meaning": "speed,velocity,rate"
+    "meaning": "kecepatan, kecepatan, laju"
    }
   ]
  },
@@ -2631,17 +2631,17 @@ export const kanjiN3 = [
    {
     "word": "心配",
     "reading": "しんぱい・する",
-    "meaning": "to worry"
+    "meaning": "khawatir"
    },
    {
     "word": "心配",
     "reading": "しんぱい",
-    "meaning": "worry,concern,anxiety,care"
+    "meaning": "khawatir, khawatir, cemas, peduli"
    },
    {
     "word": "配達",
     "reading": "はいたつ",
-    "meaning": "delivery,distribution"
+    "meaning": "pengiriman, distribusi"
    }
   ]
  },
@@ -2664,7 +2664,7 @@ export const kanjiN3 = [
    {
     "word": "お酒",
     "reading": "おさけ",
-    "meaning": "alcohol, rice wine"
+    "meaning": "alkohol, anggur beras"
    }
   ]
  },
@@ -2689,7 +2689,7 @@ export const kanjiN3 = [
    {
     "word": "進む",
     "reading": "すすむ",
-    "meaning": "to make progress"
+    "meaning": "untuk membuat kemajuan"
    },
    {
     "word": "進歩",
@@ -2699,7 +2699,7 @@ export const kanjiN3 = [
    {
     "word": "前進",
     "reading": "ぜんしん",
-    "meaning": "advance,drive,progress"
+    "meaning": "maju, berkendara, maju"
    }
   ]
  },
@@ -2726,12 +2726,12 @@ export const kanjiN3 = [
    {
     "word": "落る",
     "reading": "おちる",
-    "meaning": "to fall or drop"
+    "meaning": "jatuh atau terjatuh"
    },
    {
     "word": "落す",
     "reading": "おとす",
-    "meaning": "to drop"
+    "meaning": "untuk menjatuhkan"
    },
    {
     "word": "落ち着き",
@@ -2770,7 +2770,7 @@ export const kanjiN3 = [
    {
     "word": "言葉",
     "reading": "ことば",
-    "meaning": "word,language"
+    "meaning": "kata, bahasa"
    }
   ]
  },
@@ -2796,7 +2796,7 @@ export const kanjiN3 = [
    {
     "word": "道路",
     "reading": "どうろ",
-    "meaning": "road,highway"
+    "meaning": "jalan raya, jalan raya"
    }
   ]
  },
@@ -2825,12 +2825,12 @@ export const kanjiN3 = [
    {
     "word": "鳴く",
     "reading": "なく",
-    "meaning": "animal noise. to chirp, roar or croak etc."
+    "meaning": "kebisingan binatang."
    },
    {
     "word": "鳴る",
     "reading": "なる",
-    "meaning": "to sound"
+    "meaning": "untuk berbunyi"
    },
    {
     "word": "鳴らす",
@@ -2862,12 +2862,12 @@ export const kanjiN3 = [
    {
     "word": "横切る",
     "reading": "よこぎる",
-    "meaning": "to cross (e.g. arms),to traverse"
+    "meaning": "untuk menyilangkan (misalnya lengan), untuk melintasi"
    },
    {
     "word": "横断",
     "reading": "おうだん",
-    "meaning": "crossing"
+    "meaning": "persimpangan"
    },
    {
     "word": "横綱",
@@ -2905,17 +2905,17 @@ export const kanjiN3 = [
    {
     "word": "調べる",
     "reading": "しらべる",
-    "meaning": "to investigate"
+    "meaning": "untuk menyelidiki"
    },
    {
     "word": "順調",
     "reading": "じゅんちょう",
-    "meaning": "favourable,doing well,O.K.,all right"
+    "meaning": "menguntungkan, baik-baik saja, oke, baiklah"
    },
    {
     "word": "調査",
     "reading": "ちょうさ",
-    "meaning": "investigation,examination,inquiry,survey"
+    "meaning": "penyelidikan, pemeriksaan, penyelidikan, survei"
    }
   ]
  },
@@ -2942,7 +2942,7 @@ export const kanjiN3 = [
    {
     "word": "頭痛",
     "reading": "ずつう",
-    "meaning": "headache"
+    "meaning": "sakit kepala"
    }
   ]
  },
@@ -2964,7 +2964,7 @@ export const kanjiN3 = [
    {
     "word": "笑顔",
     "reading": "えがお",
-    "meaning": "smiling face"
+    "meaning": "wajah tersenyum"
    }
   ]
  },
@@ -2994,12 +2994,12 @@ export const kanjiN3 = [
    {
     "word": "最近",
     "reading": "さいきん",
-    "meaning": "latest,nowadays"
+    "meaning": "terbaru, saat ini"
    },
    {
     "word": "最後",
     "reading": "さいご",
-    "meaning": "last,end"
+    "meaning": "terakhir, akhir"
    }
   ]
  },
@@ -3023,17 +3023,17 @@ export const kanjiN3 = [
    {
     "word": "戦争",
     "reading": "せんそう",
-    "meaning": "war"
+    "meaning": "perang"
    },
    {
     "word": "競争",
     "reading": "きょうそう",
-    "meaning": "competition"
+    "meaning": "kompetisi"
    },
    {
     "word": "論争",
     "reading": "ろんそう",
-    "meaning": "controversy,dispute"
+    "meaning": "kontroversi, perselisihan"
    }
   ]
  },
@@ -3072,12 +3072,12 @@ export const kanjiN3 = [
    {
     "word": "伝える",
     "reading": "つたえる",
-    "meaning": "to report"
+    "meaning": "untuk melaporkan"
    },
    {
     "word": "手伝い",
     "reading": "てつだい",
-    "meaning": "help,helper,assistant"
+    "meaning": "bantuan, pembantu, asisten"
    }
   ]
  },
@@ -3106,17 +3106,17 @@ export const kanjiN3 = [
    {
     "word": "共同",
     "reading": "きょうどう",
-    "meaning": "cooperation,association,collaboration,joint"
+    "meaning": "kerjasama, asosiasi, kolaborasi, bersama"
    },
    {
     "word": "共に",
     "reading": "ともに",
-    "meaning": "sharing with,participate in"
+    "meaning": "berbagi dengan, berpartisipasi dalam"
    },
    {
     "word": "共通",
     "reading": "きょうつう",
-    "meaning": "commonness,community"
+    "meaning": "kesamaan, komunitas"
    }
   ]
  },
@@ -3147,12 +3147,12 @@ export const kanjiN3 = [
    {
     "word": "大好き",
     "reading": "だいすき",
-    "meaning": "to be very likeable"
+    "meaning": "menjadi sangat disukai"
    },
    {
     "word": "好む",
     "reading": "このむ",
-    "meaning": "to like,to prefer"
+    "meaning": "untuk menyukai, untuk memilih"
    }
   ]
  },
@@ -3181,17 +3181,17 @@ export const kanjiN3 = [
    {
     "word": "成る",
     "reading": "なる",
-    "meaning": "to become"
+    "meaning": "menjadi"
    },
    {
     "word": "賛成",
     "reading": "Uӣ[い",
-    "meaning": "approval,agreement,support,favour"
+    "meaning": "persetujuan, persetujuan, dukungan, bantuan"
    },
    {
     "word": "成人",
     "reading": "せいじん",
-    "meaning": "adult"
+    "meaning": "dewasa"
    }
   ]
  },
@@ -3215,12 +3215,12 @@ export const kanjiN3 = [
    {
     "word": "老い",
     "reading": "おい",
-    "meaning": "old age,old person,the old,the aged"
+    "meaning": "usia tua, orang tua, orang tua, orang lanjut usia"
    },
    {
     "word": "老人",
     "reading": "ろうじん",
-    "meaning": "the aged,old person"
+    "meaning": "orang tua, orang tua"
    }
   ]
  },
@@ -3247,17 +3247,17 @@ export const kanjiN3 = [
    {
     "word": "位置",
     "reading": "いち",
-    "meaning": "place,situation,position,location"
+    "meaning": "tempat, situasi, posisi, lokasi"
    },
    {
     "word": "単位",
     "reading": "たんい",
-    "meaning": "unit,denomination,credit (in school)"
+    "meaning": "satuan, denominasi, kredit (di sekolah)"
    },
    {
     "word": "地位",
     "reading": "ちい",
-    "meaning": "(social) position,status"
+    "meaning": "posisi (sosial), status"
    }
   ]
  },
@@ -3290,7 +3290,7 @@ export const kanjiN3 = [
    {
     "word": "初め/始め",
     "reading": "はじめ",
-    "meaning": "beginning"
+    "meaning": "awal"
    },
    {
     "word": "最初",
@@ -3323,7 +3323,7 @@ export const kanjiN3 = [
    {
     "word": "利用",
     "reading": "りよう",
-    "meaning": "utilization"
+    "meaning": "pemanfaatan"
    },
    {
     "word": "利口",
@@ -3351,7 +3351,7 @@ export const kanjiN3 = [
    {
     "word": "努力",
     "reading": "どりょく",
-    "meaning": "great effort,exertion,endeavour,effort"
+    "meaning": "usaha besar, pengerahan tenaga, usaha keras, usaha"
    }
   ]
  },
@@ -3381,12 +3381,12 @@ export const kanjiN3 = [
    {
     "word": "苦労",
     "reading": "くろう",
-    "meaning": "troubles,hardships"
+    "meaning": "masalah, kesulitan"
    },
    {
     "word": "労働",
     "reading": "ろうどう",
-    "meaning": "manual labor,toil,work"
+    "meaning": "kerja manual, kerja keras, kerja"
    }
   ]
  },
@@ -3413,17 +3413,17 @@ export const kanjiN3 = [
    {
     "word": "一生懸命",
     "reading": "いっしょうけんめい",
-    "meaning": "dengan usaha sekuat tenaga"
+    "meaning": "dengan usaha keahlian tenaga"
    },
    {
     "word": "生命",
     "reading": "せいめい",
-    "meaning": "life,existence"
+    "meaning": "hidup, keberadaan"
    },
    {
     "word": "命令",
     "reading": "めいれい",
-    "meaning": "order,command,decree,directive,(software) instruction"
+    "meaning": "perintah, perintah, keputusan, arahan, instruksi (perangkat lunak)."
    }
   ]
  },
@@ -3455,17 +3455,17 @@ export const kanjiN3 = [
    {
     "word": "放送",
     "reading": "ほうそう・する",
-    "meaning": "to broadcast"
+    "meaning": "untuk menyiarkan"
    },
    {
     "word": "放送",
     "reading": "ほうそう",
-    "meaning": "broadcast,broadcasting"
+    "meaning": "siaran, penyiaran"
    },
    {
     "word": "放す",
     "reading": "はなす",
-    "meaning": "to separate,to set free"
+    "meaning": "untuk memisahkan, untuk membebaskan"
    }
   ]
  },
@@ -3489,7 +3489,7 @@ export const kanjiN3 = [
    {
     "word": "昔",
     "reading": "むかし",
-    "meaning": "olden days, former"
+    "meaning": "masa lalu, mantan"
    }
   ]
  },
@@ -3516,17 +3516,17 @@ export const kanjiN3 = [
    {
     "word": "教育",
     "reading": "きょういく",
-    "meaning": "education"
+    "meaning": "pendidikan"
    },
    {
     "word": "育てる",
     "reading": "そだてる",
-    "meaning": "to rear,to bring up"
+    "meaning": "ke belakang, untuk membesarkan"
    },
    {
     "word": "体育",
     "reading": "たいいく",
-    "meaning": "physical education,gymnastics,athletics"
+    "meaning": "pendidikan jasmani,senam,atletik"
    }
   ]
  },
@@ -3564,7 +3564,7 @@ export const kanjiN3 = [
    {
     "word": "指導",
     "reading": "しどう",
-    "meaning": "leadership,guidance,coaching"
+    "meaning": "kepemimpinan, bimbingan, pembinaan"
    }
   ]
  },
@@ -3595,12 +3595,12 @@ export const kanjiN3 = [
    {
     "word": "神経",
     "reading": "しんけい",
-    "meaning": "nerve,sensitivity"
+    "meaning": "saraf, sensitivitas"
    },
    {
     "word": "精神",
     "reading": "せいしん",
-    "meaning": "mind,soul,heart,spirit,intention"
+    "meaning": "pikiran, jiwa, hati, semangat, niat"
    }
   ]
  },
@@ -3625,12 +3625,12 @@ export const kanjiN3 = [
    {
     "word": "追う",
     "reading": "おう",
-    "meaning": "to chase,to run after"
+    "meaning": "untuk mengejar, untuk mengejar"
    },
    {
     "word": "追い付く",
     "reading": "おいつく",
-    "meaning": "to overtake,to catch up (with)"
+    "meaning": "untuk menyalip, untuk mengejar (dengan)"
    }
   ]
  },
@@ -3657,17 +3657,17 @@ export const kanjiN3 = [
    {
     "word": "戦争",
     "reading": "せんそう",
-    "meaning": "war"
+    "meaning": "perang"
    },
    {
     "word": "戦い",
     "reading": "たたかい",
-    "meaning": "battle,fight,struggle,conflict"
+    "meaning": "pertempuran, perkelahian, perjuangan, konflik"
    },
    {
     "word": "大戦",
     "reading": "たいせん",
-    "meaning": "great war,great battle"
+    "meaning": "perang hebat, pertempuran hebat"
    }
   ]
  },
@@ -3725,12 +3725,12 @@ export const kanjiN3 = [
    {
     "word": "郵便局",
     "reading": "ゆうびんきょく",
-    "meaning": "post office"
+    "meaning": "kantor Pos"
    },
    {
     "word": "不便",
     "reading": "ふべん",
-    "meaning": "inconvenience"
+    "meaning": "ketidaknyamanan"
    }
   ]
  },
@@ -3752,17 +3752,17 @@ export const kanjiN3 = [
    {
     "word": "働く",
     "reading": "はたらく",
-    "meaning": "to work"
+    "meaning": "untuk bekerja"
    },
    {
     "word": "働き",
     "reading": "はたらき",
-    "meaning": "work,labor"
+    "meaning": "kerja, buruh"
    },
    {
     "word": "労働",
     "reading": "ろうどう",
-    "meaning": "manual labor,toil,work"
+    "meaning": "kerja manual, kerja keras, kerja"
    }
   ]
  },
@@ -3785,7 +3785,7 @@ export const kanjiN3 = [
    {
     "word": "家庭",
     "reading": "かてい",
-    "meaning": "household"
+    "meaning": "rumah tangga"
    },
    {
     "word": "校庭",
@@ -3814,7 +3814,7 @@ export const kanjiN3 = [
    {
     "word": "息子",
     "reading": "むすこ",
-    "meaning": "(humble) son"
+    "meaning": "(rendah hati) nak"
    }
   ]
  },
@@ -3842,17 +3842,17 @@ export const kanjiN3 = [
    {
     "word": "流れる",
     "reading": "ながれる",
-    "meaning": "to stream,to flow,to run (ink),to be washed away"
+    "meaning": "mengalir, mengalir, mengalir (tinta), terhanyut"
    },
    {
     "word": "流す",
     "reading": "ながす",
-    "meaning": "to drain,to float,to shed (blood, tears),to cruise (e.g. taxi)"
+    "meaning": "mengalir, mengapung, menumpahkan (darah, air mata), berlayar (misalnya taksi)"
    },
    {
     "word": "流行",
     "reading": "りゅうこう",
-    "meaning": "fashionable,fad,in vogue,prevailing"
+    "meaning": "modis, iseng, sedang digemari, berlaku"
    }
   ]
  },
@@ -3883,12 +3883,12 @@ export const kanjiN3 = [
    {
     "word": "消える",
     "reading": "きえる",
-    "meaning": "to disappear"
+    "meaning": "menghilang"
    },
    {
     "word": "消しゴム",
     "reading": "けしゴム",
-    "meaning": "eraser"
+    "meaning": "penghapus"
    }
   ]
  },
@@ -3913,17 +3913,17 @@ export const kanjiN3 = [
    {
     "word": "都合",
     "reading": "つごう",
-    "meaning": "circumstances,convenience"
+    "meaning": "keadaan, kenyamanan"
    },
    {
     "word": "都会",
     "reading": "とかい",
-    "meaning": "city"
+    "meaning": "kota"
    },
    {
     "word": "首都",
     "reading": "しゅと",
-    "meaning": "capital city"
+    "meaning": "ibu kota"
    }
   ]
  },
@@ -3947,17 +3947,17 @@ export const kanjiN3 = [
    {
     "word": "商品",
     "reading": "しょうひん",
-    "meaning": "commodity,article of commerce,goods,stock,merchandise"
+    "meaning": "komoditas, barang dagangan, barang, stok, barang dagangan"
    },
    {
     "word": "商売",
     "reading": "しょうばい",
-    "meaning": "trade,business,commerce,transaction,occupation"
+    "meaning": "perdagangan, bisnis, perdagangan, transaksi, pekerjaan"
    },
    {
     "word": "商人",
     "reading": "しょうにん",
-    "meaning": "trader,shopkeeper,merchant"
+    "meaning": "pedagang, penjaga toko, pedagang"
    }
   ]
  },
@@ -3985,12 +3985,12 @@ export const kanjiN3 = [
    {
     "word": "深い",
     "reading": "ふかい",
-    "meaning": "deep"
+    "meaning": "dalam"
    },
    {
     "word": "深刻",
     "reading": "しんこく",
-    "meaning": "serious"
+    "meaning": "serius"
    }
   ]
  },
@@ -4038,12 +4038,12 @@ export const kanjiN3 = [
    {
     "word": "陽気",
     "reading": "ようき",
-    "meaning": "season,weather,cheerfulness"
+    "meaning": "musim, cuaca, keceriaan"
    },
    {
     "word": "太陽",
     "reading": "たいよう",
-    "meaning": "sun,solar"
+    "meaning": "matahari, tenaga surya"
    }
   ]
  },
@@ -4089,17 +4089,17 @@ export const kanjiN3 = [
    {
     "word": "悲しい",
     "reading": "かなしい",
-    "meaning": "sad"
+    "meaning": "sedih"
    },
    {
     "word": "悲しむ",
     "reading": "かなしむ",
-    "meaning": "to be sad,to mourn for,to regret"
+    "meaning": "sedih, berduka, menyesal"
    },
    {
     "word": "悲劇",
     "reading": "ひげき",
-    "meaning": "tragedy"
+    "meaning": "tragedi"
    }
   ]
  },
@@ -4122,17 +4122,17 @@ export const kanjiN3 = [
    {
     "word": "定期",
     "reading": "ていき",
-    "meaning": "fixed term"
+    "meaning": "jangka waktu tetap"
    },
    {
     "word": "期待",
     "reading": "きたい",
-    "meaning": "expectation,anticipation,hope"
+    "meaning": "harapan, antisipasi, harapan"
    },
    {
     "word": "期間",
     "reading": "きかん",
-    "meaning": "period,term"
+    "meaning": "periode, jangka waktu"
    }
   ]
  },
@@ -4162,7 +4162,7 @@ export const kanjiN3 = [
    {
     "word": "虫歯",
     "reading": "むしば",
-    "meaning": "cavity,tooth decay,decayed tooth,caries"
+    "meaning": "gigi berlubang, kerusakan gigi, gigi busuk, karies"
    }
   ]
  },
@@ -4183,7 +4183,7 @@ export const kanjiN3 = [
    {
     "word": "空港",
     "reading": "くうこう",
-    "meaning": "airport"
+    "meaning": "bandara"
    }
   ]
  },
@@ -4215,7 +4215,7 @@ export const kanjiN3 = [
    {
     "word": "登山",
     "reading": "とざん",
-    "meaning": "mountain-climbing"
+    "meaning": "pendakian gunung"
    },
    {
     "word": "登校",
@@ -4249,12 +4249,12 @@ export const kanjiN3 = [
    {
     "word": "亡くなる",
     "reading": "なくなる",
-    "meaning": "to die"
+    "meaning": "untuk mati"
    },
    {
     "word": "死亡",
     "reading": "しぼう",
-    "meaning": "death,mortality"
+    "meaning": "kematian, kematian"
    }
   ]
  },
@@ -4288,17 +4288,17 @@ export const kanjiN3 = [
    {
     "word": "合う",
     "reading": "あう",
-    "meaning": "untuk mencocokkan"
+    "meaning": "untuk terjadi"
    },
    {
     "word": "場合",
     "reading": "ばあい",
-    "meaning": "situation"
+    "meaning": "situasi"
    },
    {
     "word": "試合",
     "reading": "しあい",
-    "meaning": "match,game"
+    "meaning": "pertandingan, permainan"
    }
   ]
  },
@@ -4328,12 +4328,12 @@ export const kanjiN3 = [
    {
     "word": "天気予報",
     "reading": "てんきよほう",
-    "meaning": "weather forecast"
+    "meaning": "ramalan cuaca"
    },
    {
     "word": "予約",
     "reading": "よやく",
-    "meaning": "reservation"
+    "meaning": "reservasi"
    }
   ]
  },
@@ -4361,17 +4361,17 @@ export const kanjiN3 = [
    {
     "word": "反対",
     "reading": "はんたい",
-    "meaning": "opposition"
+    "meaning": "oposisi"
    },
    {
     "word": "反抗",
     "reading": "はんこう",
-    "meaning": "opposition,resistance"
+    "meaning": "oposisi, perlawanan"
    },
    {
     "word": "違反",
     "reading": "いはん",
-    "meaning": "violation (of law),transgression,infringement,breach"
+    "meaning": "pelanggaran (hukum), pelanggaran, pelanggaran, pelanggaran"
    }
   ]
  },
@@ -4398,17 +4398,17 @@ export const kanjiN3 = [
    {
     "word": "返す",
     "reading": "かえす",
-    "meaning": "to return something"
+    "meaning": "untuk mengembalikan sesuatu"
    },
    {
     "word": "返事",
     "reading": "へんじ",
-    "meaning": "reply"
+    "meaning": "membalas"
    },
    {
     "word": "繰り返す",
     "reading": "くりかえす",
-    "meaning": "to repeat,to do something over again"
+    "meaning": "untuk mengulangi, untuk melakukan sesuatu lagi"
    }
   ]
  },
@@ -4438,17 +4438,17 @@ export const kanjiN3 = [
    {
     "word": "宿題",
     "reading": "しゅくだい",
-    "meaning": "homework"
+    "meaning": "pekerjaan rumah"
    },
    {
     "word": "下宿",
     "reading": "げしゅく",
-    "meaning": "penginapan"
+    "meaning": "di dalam"
    },
    {
     "word": "宿泊",
     "reading": "しゅくはく",
-    "meaning": "lodging"
+    "meaning": "penginapan"
    }
   ]
  },
@@ -4483,7 +4483,7 @@ export const kanjiN3 = [
    {
     "word": "思想",
     "reading": "しそう",
-    "meaning": "thought,idea"
+    "meaning": "pikiran, ide"
    }
   ]
  },
@@ -4504,17 +4504,17 @@ export const kanjiN3 = [
    {
     "word": "感じ",
     "reading": "かんじ",
-    "meaning": "feeling,sense,impression"
+    "meaning": "perasaan, rasa, kesan"
    },
    {
     "word": "感心",
     "reading": "かんしん",
-    "meaning": "admiration,Well done!"
+    "meaning": "kekaguman,Bagus sekali!"
    },
    {
     "word": "感情",
     "reading": "かんじょう",
-    "meaning": "emotion(s),feeling(s),sentiment"
+    "meaning": "emosi, perasaan, sentimen"
    }
   ]
  },
@@ -4542,12 +4542,12 @@ export const kanjiN3 = [
    {
     "word": "暗い",
     "reading": "くらい",
-    "meaning": "gloomy"
+    "meaning": "muram"
    },
    {
     "word": "暗記",
     "reading": "あんき",
-    "meaning": "memorization,learning by heart"
+    "meaning": "menghafal, belajar dengan hati"
    },
    {
     "word": "真っ暗",
@@ -4584,12 +4584,12 @@ export const kanjiN3 = [
    {
     "word": "模様",
     "reading": "もよう",
-    "meaning": "pattern,figure,design"
+    "meaning": "pola, gambar, desain"
    },
    {
     "word": "王様",
     "reading": "おうさま",
-    "meaning": "king"
+    "meaning": "raja"
    }
   ]
  },
@@ -4611,7 +4611,7 @@ export const kanjiN3 = [
    {
     "word": "幸福",
     "reading": "こうふく",
-    "meaning": "happiness,blessedness"
+    "meaning": "kebahagiaan, berkah"
    }
   ]
  },
@@ -4643,12 +4643,12 @@ export const kanjiN3 = [
    {
     "word": "自殺",
     "reading": "じさつ",
-    "meaning": "suicide"
+    "meaning": "bunuh diri"
    },
    {
     "word": "殺す",
     "reading": "ころす",
-    "meaning": "to kill"
+    "meaning": "untuk membunuh"
    }
   ]
  },
@@ -4682,12 +4682,12 @@ export const kanjiN3 = [
    {
     "word": "全然",
     "reading": "ぜんぜん",
-    "meaning": "(1) wholly,entirely,completely,(2) not at all (with neg. verb)"
+    "meaning": "(1) seluruhnya, seluruhnya, seluruhnya, (2) tidak sama sekali (dengan kata kerja neg.)"
    },
    {
     "word": "天然",
     "reading": "てんねん",
-    "meaning": "nature,spontaneity"
+    "meaning": "alam, spontanitas"
    }
   ]
  },
@@ -4712,17 +4712,17 @@ export const kanjiN3 = [
    {
     "word": "熱い",
     "reading": "あつい",
-    "meaning": "hot to the touch"
+    "meaning": "panas saat disentuh"
    },
    {
     "word": "熱帯",
     "reading": "ねったい",
-    "meaning": "tropics"
+    "meaning": "daerah tropis"
    },
    {
     "word": "熱中",
     "reading": "ねっちゅう",
-    "meaning": "nuts!,enthusiasm,zeal,mania"
+    "meaning": "gila!,antusiasme,semangat,mania"
    }
   ]
  },
@@ -4746,7 +4746,7 @@ export const kanjiN3 = [
    {
     "word": "選ぶ",
     "reading": "えらぶ",
-    "meaning": "to choose"
+    "meaning": "untuk memilih"
    },
    {
     "word": "選択",
@@ -4756,7 +4756,7 @@ export const kanjiN3 = [
    {
     "word": "選手",
     "reading": "せんしゅ",
-    "meaning": "(1) player (in game),(2) team"
+    "meaning": "(1) pemain (dalam permainan), (2) tim"
    }
   ]
  },
@@ -4787,7 +4787,7 @@ export const kanjiN3 = [
    {
     "word": "願う",
     "reading": "ねがう",
-    "meaning": "to desire,to wish,to request"
+    "meaning": "menginginkan, berharap, meminta"
    }
   ]
  },
@@ -4819,12 +4819,12 @@ export const kanjiN3 = [
    {
     "word": "情報",
     "reading": "じょうほう",
-    "meaning": "information,(military) intelligence"
+    "meaning": "informasi, intelijen (militer)."
    },
    {
     "word": "愛情",
     "reading": "あいじょう",
-    "meaning": "love,affection"
+    "meaning": "cinta, kasih sayang"
    }
   ]
  },
@@ -4848,12 +4848,12 @@ export const kanjiN3 = [
    {
     "word": "疑問",
     "reading": "ぎもん",
-    "meaning": "question,problem,doubt,guess"
+    "meaning": "pertanyaan, masalah, keraguan, tebakan"
    },
    {
     "word": "疑う",
     "reading": "うたがう",
-    "meaning": "to doubt,to distrust,to be suspicious of,to suspect"
+    "meaning": "ragu, tidak percaya, curiga, curiga"
    }
   ]
  },
@@ -4876,7 +4876,7 @@ export const kanjiN3 = [
    {
     "word": "皆さん",
     "reading": "みなさん",
-    "meaning": "everyone"
+    "meaning": "setiap orang"
    }
   ]
  },
@@ -4900,7 +4900,7 @@ export const kanjiN3 = [
    {
     "word": "例えば",
     "reading": "たとえば",
-    "meaning": "for example"
+    "meaning": "Misalnya"
    }
   ]
  },
@@ -4935,17 +4935,17 @@ export const kanjiN3 = [
    {
     "word": "参る",
     "reading": "まいる",
-    "meaning": "(humble) to go,to come"
+    "meaning": "(rendah hati) untuk pergi, untuk datang"
    },
    {
     "word": "参考",
     "reading": "さんこう",
-    "meaning": "reference,consultation"
+    "meaning": "referensi, konsultasi"
    },
    {
     "word": "参加",
     "reading": "さんか",
-    "meaning": "participation"
+    "meaning": "partisipasi"
    }
   ]
  },
@@ -4966,17 +4966,17 @@ export const kanjiN3 = [
    {
     "word": "完全",
     "reading": "かんぜん",
-    "meaning": "kesempurnaan, kelengkapan"
+    "meaning": "kesempurnaan, kesempurnaan"
    },
    {
     "word": "完成",
     "reading": "かんせい",
-    "meaning": "(1) complete,completion,(2) perfection,accomplishment"
+    "meaning": "(1) lengkap, penyelesaian, (2) kesempurnaan, pencapaian"
    },
    {
     "word": "完了",
     "reading": "かんりょう",
-    "meaning": "completion,conclusion"
+    "meaning": "penyelesaian, kesimpulan"
    }
   ]
  },
@@ -5001,7 +5001,7 @@ export const kanjiN3 = [
    {
     "word": "残念",
     "reading": "ざんねん",
-    "meaning": "disappointment"
+    "meaning": "kekecewaan"
    },
    {
     "word": "記念",
@@ -5042,12 +5042,12 @@ export const kanjiN3 = [
    {
     "word": "折る",
     "reading": "おる",
-    "meaning": "to break or to fold"
+    "meaning": "untuk memecahkan atau melipat"
    },
    {
     "word": "骨折",
     "reading": "こっせつ",
-    "meaning": "bone fracture"
+    "meaning": "patah tulang"
    }
   ]
  },
@@ -5075,17 +5075,17 @@ export const kanjiN3 = [
    {
     "word": "望み",
     "reading": "のぞみ",
-    "meaning": "wish,desire,(a) hope"
+    "meaning": "keinginan, keinginan, (a) harapan"
    },
    {
     "word": "望む",
     "reading": "のぞむ",
-    "meaning": "to desire,to wish for,to see,to command (a view of)"
+    "meaning": "menginginkan, mengharapkan, melihat, memerintahkan (pandangan)"
    },
    {
     "word": "希望",
     "reading": "きぼう",
-    "meaning": "hope,wish,aspiration"
+    "meaning": "harapan, keinginan, aspirasi"
    }
   ]
  },
@@ -5147,12 +5147,12 @@ export const kanjiN3 = [
    {
     "word": "残念",
     "reading": "ざんねん",
-    "meaning": "disappointment"
+    "meaning": "kekecewaan"
    },
    {
     "word": "残す",
     "reading": "のこす",
-    "meaning": "to leave (behind, over),to bequeath,to save,to reserve"
+    "meaning": "untuk meninggalkan (di belakang, di atas), untuk mewariskan, untuk menyimpan, untuk memesan"
    }
   ]
  },
@@ -5178,17 +5178,17 @@ export const kanjiN3 = [
    {
     "word": "求める",
     "reading": "もとめる",
-    "meaning": "to seek,to request,to demand,to want,to wish for,to search for,to pursue (pleasure),to hunt (a job),"
+    "meaning": "mencari, meminta, menuntut, menginginkan, menginginkan, mencari, mengejar (kesenangan), berburu (pekerjaan),"
    },
    {
     "word": "請求",
     "reading": "せいきゅう",
-    "meaning": "claim,demand,application,request"
+    "meaning": "klaim, permintaan, permohonan, permintaan"
    },
    {
     "word": "要求",
     "reading": "ようきゅう",
-    "meaning": "request,demand,requisition"
+    "meaning": "permintaan, permintaan, permintaan"
    }
   ]
  },
@@ -5218,12 +5218,12 @@ export const kanjiN3 = [
    {
     "word": "予約",
     "reading": "よやく",
-    "meaning": "reservation"
+    "meaning": "reservasi"
    },
    {
     "word": "契約",
     "reading": "けいやく",
-    "meaning": "contract,compact,agreement"
+    "meaning": "kontrak, kompak, perjanjian"
    }
   ]
  },
@@ -5247,17 +5247,17 @@ export const kanjiN3 = [
    {
     "word": "男性",
     "reading": "だんせい",
-    "meaning": "male"
+    "meaning": "pria"
    },
    {
     "word": "女性",
     "reading": "じょせい",
-    "meaning": "woman"
+    "meaning": "wanita"
    },
    {
     "word": "性格",
     "reading": "せいかく",
-    "meaning": "character,personality"
+    "meaning": "karakter, kepribadian"
    }
   ]
  },
@@ -5283,17 +5283,17 @@ export const kanjiN3 = [
    {
     "word": "合格",
     "reading": "ごうかく",
-    "meaning": "success,passing (e.g. exam),eligibility"
+    "meaning": "keberhasilan, kelulusan (misalnya ujian), kelayakan"
    },
    {
     "word": "価格",
     "reading": "かかく",
-    "meaning": "price,value,cost"
+    "meaning": "harga, nilai, biaya"
    },
    {
     "word": "格好",
     "reading": "かっこう",
-    "meaning": "shape,form,posture,suitability"
+    "meaning": "bentuk, bentuk, postur, kesesuaian"
    }
   ]
  },
@@ -5322,12 +5322,12 @@ export const kanjiN3 = [
    {
     "word": "可能",
     "reading": "かのう",
-    "meaning": "possible,practicable,feasible"
+    "meaning": "mungkin, dapat dipraktikkan, dapat dilaksanakan"
    },
    {
     "word": "有能",
     "reading": "ゆうのう",
-    "meaning": "able,capable,efficient,skill"
+    "meaning": "mampu, mampu, efisien, keterampilan"
    }
   ]
  },
@@ -5354,17 +5354,17 @@ export const kanjiN3 = [
    {
     "word": "技術",
     "reading": "ぎじゅつ",
-    "meaning": "art,technology,skill"
+    "meaning": "seni, teknologi, keterampilan"
    },
    {
     "word": "美術館",
     "reading": "びじゅつかん",
-    "meaning": "art gallery"
+    "meaning": "galeri seni"
    },
    {
     "word": "芸術",
     "reading": "げいじゅつ",
-    "meaning": "(fine) art,the arts"
+    "meaning": "seni (baik), seni"
    }
   ]
  },
@@ -5389,17 +5389,17 @@ export const kanjiN3 = [
    {
     "word": "晴れる",
     "reading": "はれる",
-    "meaning": "to be sunny"
+    "meaning": "menjadi cerah"
    },
    {
     "word": "晴れ",
     "reading": "はれ",
-    "meaning": "clear weather"
+    "meaning": "cuaca cerah"
    },
    {
     "word": "素晴らしい",
     "reading": "すばらしい",
-    "meaning": "wonderful,splendid,magnificent"
+    "meaning": "luar biasa, indah, luar biasa"
    }
   ]
  },
@@ -5423,7 +5423,7 @@ export const kanjiN3 = [
    {
     "word": "列車",
     "reading": "れっしゃ",
-    "meaning": "train (ordinary)"
+    "meaning": "kereta api (biasa)"
    },
    {
     "word": "配列",
@@ -5454,7 +5454,7 @@ export const kanjiN3 = [
    {
     "word": "正式",
     "reading": "せいしき",
-    "meaning": "due form,official,formality"
+    "meaning": "bentuk hak, resmi, formalitas"
    }
   ]
  },
@@ -5476,17 +5476,17 @@ export const kanjiN3 = [
    {
     "word": "信頼",
     "reading": "しんらい",
-    "meaning": "reliance,trust,confidence"
+    "meaning": "ketergantungan, kepercayaan, keyakinan"
    },
    {
     "word": "信仰",
     "reading": "しんこう",
-    "meaning": "(religious) faith,belief,creed"
+    "meaning": "(agama) iman, keyakinan, keyakinan"
    },
    {
     "word": "通信",
     "reading": "つうしん",
-    "meaning": "correspondence,communication,news,signal"
+    "meaning": "korespondensi, komunikasi, berita, sinyal"
    }
   ]
  },
@@ -5510,7 +5510,7 @@ export const kanjiN3 = [
    {
     "word": "簡単",
     "reading": "かんたん",
-    "meaning": "simple"
+    "meaning": "sederhana"
    },
    {
     "word": "単に",
@@ -5520,7 +5520,7 @@ export const kanjiN3 = [
    {
     "word": "単なる",
     "reading": "たんなる",
-    "meaning": "mere,simple,sheer"
+    "meaning": "belaka, sederhana, belaka"
    }
   ]
  },
@@ -5550,12 +5550,12 @@ export const kanjiN3 = [
    {
     "word": "変わる",
     "reading": "かわる",
-    "meaning": "to change"
+    "meaning": "untuk berubah"
    },
    {
     "word": "大変",
     "reading": "たいへん",
-    "meaning": "awful,dreadful,terrible,very"
+    "meaning": "mengerikan, mengerikan, mengerikan, sangat"
    }
   ]
  },
@@ -5580,17 +5580,17 @@ export const kanjiN3 = [
    {
     "word": "丈夫",
     "reading": "じょうぶ",
-    "meaning": "strong,durable"
+    "meaning": "kuat, tahan lama"
    },
    {
     "word": "大丈夫",
     "reading": "だいじょうぶ",
-    "meaning": "all right"
+    "meaning": "Baiklah"
    },
    {
     "word": "夫婦",
     "reading": "ふうふ",
-    "meaning": "married couple,husband and wife"
+    "meaning": "pasangan suami istri, suami dan istri"
    }
   ]
  },
@@ -5610,17 +5610,17 @@ export const kanjiN3 = [
    {
     "word": "一昨年",
     "reading": "おととし",
-    "meaning": "year before last"
+    "meaning": "tahun lalu"
    },
    {
     "word": "一昨日",
     "reading": "おととい",
-    "meaning": "day before yesterday"
+    "meaning": "kemarin lusa"
    },
    {
     "word": "昨夜",
     "reading": "ゆうべ",
-    "meaning": "last night"
+    "meaning": "tadi malam"
    }
   ]
  },
@@ -5654,12 +5654,12 @@ export const kanjiN3 = [
    {
     "word": "文法",
     "reading": "ぶんぽう",
-    "meaning": "grammar"
+    "meaning": "tata bahasa"
    },
    {
     "word": "方法",
     "reading": "ほうほう",
-    "meaning": "method,manner,way,means,technique"
+    "meaning": "metode,cara,cara,cara,teknik"
    }
   ]
  },
@@ -5679,17 +5679,17 @@ export const kanjiN3 = [
    {
     "word": "今晩",
     "reading": "こんばん",
-    "meaning": "this evening"
+    "meaning": "malam ini"
    },
    {
     "word": "毎晩",
     "reading": "まいばん",
-    "meaning": "every night"
+    "meaning": "setiap malam"
    },
    {
     "word": "晩御飯",
     "reading": "ばんごはん",
-    "meaning": "evening meal"
+    "meaning": "makan malam"
    }
   ]
  },
@@ -5710,7 +5710,7 @@ export const kanjiN3 = [
    {
     "word": "猫",
     "reading": "ねこ",
-    "meaning": "cat"
+    "meaning": "kucing"
    }
   ]
  },
@@ -5734,12 +5734,12 @@ export const kanjiN3 = [
    {
     "word": "公園",
     "reading": "こうえん",
-    "meaning": "park"
+    "meaning": "taman"
    },
    {
     "word": "動物園",
     "reading": "どうぶつえん",
-    "meaning": "zoo"
+    "meaning": "kebun binatang"
    }
   ]
  },
@@ -5762,17 +5762,17 @@ export const kanjiN3 = [
    {
     "word": "遠い",
     "reading": "とおい",
-    "meaning": "far"
+    "meaning": "jauh"
    },
    {
     "word": "遠慮",
     "reading": "えんりょ・する",
-    "meaning": "to be reserved, to be restrained"
+    "meaning": "untuk dicadangkan, untuk ditahan"
    },
    {
     "word": "遠く",
     "reading": "とおく",
-    "meaning": "distant"
+    "meaning": "jauh"
    }
   ]
  },
@@ -5799,7 +5799,7 @@ export const kanjiN3 = [
    {
     "word": "関係",
     "reading": "かんけい",
-    "meaning": "relationship"
+    "meaning": "hubungan"
    }
   ]
  },
@@ -5831,12 +5831,12 @@ export const kanjiN3 = [
    {
     "word": "取り替える",
     "reading": "とりかえる",
-    "meaning": "to exchange"
+    "meaning": "untuk bertukar"
    },
    {
     "word": "取れる",
     "reading": "とれる",
-    "meaning": "to come off,to be taken off,to be removed"
+    "meaning": "untuk lepas, untuk dilepas, untuk disingkirkan"
    }
   ]
  },
@@ -5865,12 +5865,12 @@ export const kanjiN3 = [
    {
     "word": "留守",
     "reading": "るす",
-    "meaning": "absence"
+    "meaning": "ketiadaan"
    },
    {
     "word": "守る",
     "reading": "まもる",
-    "meaning": "to protect,to obey,to guard,to abide (by the rules)"
+    "meaning": "untuk melindungi, untuk mematuhi, untuk menjaga, untuk mematuhi (dengan aturan)"
    },
    {
     "word": "留守番",
@@ -5900,17 +5900,17 @@ export const kanjiN3 = [
    {
     "word": "幸せ",
     "reading": "しあわせ",
-    "meaning": "happiness,good fortune,luck,blessing"
+    "meaning": "kebahagiaan, nasib baik, keberuntungan, berkah"
    },
    {
     "word": "幸い",
     "reading": "さいわい",
-    "meaning": "happiness,blessedness"
+    "meaning": "kebahagiaan, berkah"
    },
    {
     "word": "不幸",
     "reading": "ふこう",
-    "meaning": "unhappiness,sorrow,misfortune,disaster,accident,death"
+    "meaning": "ketidakbahagiaan, kesedihan, kemalangan, bencana, kecelakaan, kematian"
    }
   ]
  },
@@ -5935,7 +5935,7 @@ export const kanjiN3 = [
    {
     "word": "箱",
     "reading": "はこ",
-    "meaning": "box"
+    "meaning": "kotak"
    }
   ]
  },
@@ -5962,17 +5962,17 @@ export const kanjiN3 = [
    {
     "word": "場面",
     "reading": "ばめん",
-    "meaning": "scene,setting (e.g. of novel)"
+    "meaning": "adegan, latar (misalnya novel)"
    },
    {
     "word": "面倒",
     "reading": "めんどう",
-    "meaning": "trouble,difficulty,care,attention"
+    "meaning": "masalah, kesulitan, perhatian, perhatian"
    },
    {
     "word": "表面",
     "reading": "ひょうめん",
-    "meaning": "surface,outside,face,appearance"
+    "meaning": "permukaan, luar, wajah, penampilan"
    }
   ]
  },
@@ -5995,12 +5995,12 @@ export const kanjiN3 = [
    {
     "word": "喜ぶ",
     "reading": "よろこぶ",
-    "meaning": "to be delighted"
+    "meaning": "untuk menjadi senang"
    },
    {
     "word": "喜び",
     "reading": "よろこび",
-    "meaning": "(a) joy,(a) delight,rapture,pleasure,gratification,rejoicing,congratulations,felicitations"
+    "meaning": "(a) kegembiraan, (a) kegembiraan, kegembiraan, kesenangan, kepuasan, kegembiraan, ucapan selamat, ucapan selamat"
    }
   ]
  },
@@ -6034,12 +6034,12 @@ export const kanjiN3 = [
    {
     "word": "治る",
     "reading": "なおる",
-    "meaning": "to be cured,to heal"
+    "meaning": "untuk disembuhkan, untuk disembuhkan"
    },
    {
     "word": "政治",
     "reading": "せいじ",
-    "meaning": "politics,government"
+    "meaning": "politik, pemerintahan"
    }
   ]
  },
@@ -6071,7 +6071,7 @@ export const kanjiN3 = [
    {
     "word": "笑顔",
     "reading": "えがお",
-    "meaning": "smiling face"
+    "meaning": "wajah tersenyum"
    }
   ]
  },
@@ -6101,12 +6101,12 @@ export const kanjiN3 = [
    {
     "word": "辞典",
     "reading": "じてん",
-    "meaning": "dictionary"
+    "meaning": "kamus"
    },
    {
     "word": "辞める",
     "reading": "やめる",
-    "meaning": "to retire"
+    "meaning": "untuk pensiun"
    }
   ]
  },
@@ -6140,7 +6140,7 @@ export const kanjiN3 = [
    {
     "word": "関係",
     "reading": "かんけい",
-    "meaning": "relationship"
+    "meaning": "hubungan"
    },
    {
     "word": "関心",
@@ -6169,12 +6169,12 @@ export const kanjiN3 = [
    {
     "word": "政治",
     "reading": "せいじ",
-    "meaning": "politics,government"
+    "meaning": "politik, pemerintahan"
    },
    {
     "word": "政府",
     "reading": "せいふ",
-    "meaning": "government,administration"
+    "meaning": "pemerintahan, administrasi"
    }
   ]
  },
@@ -6203,17 +6203,17 @@ export const kanjiN3 = [
    {
     "word": "留学生",
     "reading": "りゅうがくせい",
-    "meaning": "overseas student"
+    "meaning": "pelajar luar negeri"
    },
    {
     "word": "留守",
     "reading": "るす",
-    "meaning": "absence"
+    "meaning": "ketiadaan"
    },
    {
     "word": "留める",
     "reading": "とめる",
-    "meaning": "to fasten,to turn off,to detain"
+    "meaning": "untuk mengencangkan, mematikan, menahan"
    }
   ]
  },
@@ -6238,7 +6238,7 @@ export const kanjiN3 = [
    {
     "word": "危険",
     "reading": "きけん",
-    "meaning": "danger"
+    "meaning": "bahaya"
    },
    {
     "word": "冒険",
@@ -6273,7 +6273,7 @@ export const kanjiN3 = [
    {
     "word": "危険",
     "reading": "きけん",
-    "meaning": "danger"
+    "meaning": "bahaya"
    },
    {
     "word": "危うい",
@@ -6307,17 +6307,17 @@ export const kanjiN3 = [
    {
     "word": "ご存じ",
     "reading": "ごぞんじ",
-    "meaning": "knowing,acquaintance"
+    "meaning": "mengetahui, kenalan"
    },
    {
     "word": "存在",
     "reading": "そんざい",
-    "meaning": "existence,being"
+    "meaning": "keberadaan, keberadaan"
    },
    {
     "word": "保存",
     "reading": "ほぞん",
-    "meaning": "preservation,conservation,storage,maintenance"
+    "meaning": "pelestarian, konservasi, penyimpanan, pemeliharaan"
    }
   ]
  },
@@ -6345,7 +6345,7 @@ export const kanjiN3 = [
    {
     "word": "原因",
     "reading": "げんいん",
-    "meaning": "cause,source"
+    "meaning": "penyebab, sumber"
    }
   ]
  },
@@ -6425,12 +6425,12 @@ export const kanjiN3 = [
    {
     "word": "座席",
     "reading": "ざせき",
-    "meaning": "seat"
+    "meaning": "kursi"
    },
    {
     "word": "欠席",
     "reading": "けっせき",
-    "meaning": "absence,non-attendance"
+    "meaning": "ketidakhadiran, ketidakhadiran"
    }
   ]
  },
@@ -6486,17 +6486,17 @@ export const kanjiN3 = [
    {
     "word": "果物",
     "reading": "くだもの",
-    "meaning": "fruit"
+    "meaning": "buah"
    },
    {
     "word": "結果",
     "reading": "けっか",
-    "meaning": "result,consequence"
+    "meaning": "akibat, konsekuensi"
    },
    {
     "word": "効果",
     "reading": "こうか",
-    "meaning": "effect,effectiveness,efficacy,result"
+    "meaning": "efek, efektivitas, kemanjuran, hasil"
    }
   ]
  },
@@ -6522,7 +6522,7 @@ export const kanjiN3 = [
    {
     "word": "原因",
     "reading": "げんいん",
-    "meaning": "cause,source"
+    "meaning": "penyebab, sumber"
    }
   ]
  },
@@ -6551,17 +6551,17 @@ export const kanjiN3 = [
    {
     "word": "非常に",
     "reading": "ひじょうに",
-    "meaning": "extremely"
+    "meaning": "sangat"
    },
    {
     "word": "常に",
     "reading": "つねに",
-    "meaning": "always,constantly"
+    "meaning": "selalu, terus-menerus"
    },
    {
     "word": "非常",
     "reading": "ひじょう",
-    "meaning": "emergency,extraordinary,unusual"
+    "meaning": "darurat, luar biasa, tidak biasa"
    }
   ]
  },
@@ -6585,17 +6585,17 @@ export const kanjiN3 = [
    {
     "word": "意識",
     "reading": "いしき",
-    "meaning": "consciousness,senses"
+    "meaning": "kesadaran, indera"
    },
    {
     "word": "知識",
     "reading": "ちしき",
-    "meaning": "knowledge,information"
+    "meaning": "pengetahuan, informasi"
    },
    {
     "word": "常識",
     "reading": "じょうしき",
-    "meaning": "common sense"
+    "meaning": "kewajaran"
    }
   ]
  },
@@ -6620,17 +6620,17 @@ export const kanjiN3 = [
    {
     "word": "非常に",
     "reading": "ひじょうに",
-    "meaning": "extremely"
+    "meaning": "sangat"
    },
    {
     "word": "非常",
     "reading": "ひじょう",
-    "meaning": "emergency,extraordinary,unusual"
+    "meaning": "darurat, luar biasa, tidak biasa"
    },
    {
     "word": "是非",
     "reading": "ぜひ",
-    "meaning": "certainly,without fail"
+    "meaning": "tentu saja, tanpa gagal"
    }
   ]
  },
@@ -6651,7 +6651,7 @@ export const kanjiN3 = [
    {
     "word": "警官",
     "reading": "けいかん",
-    "meaning": "policeman"
+    "meaning": "polisi"
    }
   ]
  },
@@ -6679,12 +6679,12 @@ export const kanjiN3 = [
    {
     "word": "診察",
     "reading": "しんさつ",
-    "meaning": "medical examination"
+    "meaning": "pemeriksaan kesehatan"
    },
    {
     "word": "観察",
     "reading": "かんさつ",
-    "meaning": "observation,survey"
+    "meaning": "observasi, survei"
    }
   ]
  },
@@ -6711,12 +6711,12 @@ export const kanjiN3 = [
    {
     "word": "愛する",
     "reading": "あいする",
-    "meaning": "to love"
+    "meaning": "untuk mencintai"
    },
    {
     "word": "愛情",
     "reading": "あいじょう",
-    "meaning": "love,affection"
+    "meaning": "cinta, kasih sayang"
    },
    {
     "word": "可愛がる",
@@ -6743,7 +6743,7 @@ export const kanjiN3 = [
    {
     "word": "警官",
     "reading": "けいかん",
-    "meaning": "policeman"
+    "meaning": "polisi"
    },
    {
     "word": "警察",
@@ -6753,7 +6753,7 @@ export const kanjiN3 = [
    {
     "word": "警告",
     "reading": "けいこく",
-    "meaning": "warning,advice"
+    "meaning": "peringatan, saran"
    }
   ]
  },
@@ -6786,12 +6786,12 @@ export const kanjiN3 = [
    {
     "word": "覚悟",
     "reading": "かくご",
-    "meaning": "resolution,resignation,readiness,preparedness"
+    "meaning": "resolusi, pengunduran diri, kesiapan, kesiapsiagaan"
    },
    {
     "word": "覚める",
     "reading": "さめる",
-    "meaning": "to wake,to wake up"
+    "meaning": "untuk bangun, untuk bangun"
    }
   ]
  },
@@ -6821,12 +6821,12 @@ export const kanjiN3 = [
    {
     "word": "説明",
     "reading": "せつめい",
-    "meaning": "explanation"
+    "meaning": "penjelasan"
    },
    {
     "word": "演説",
     "reading": "えんぜつ",
-    "meaning": "speech,address"
+    "meaning": "pidato, alamat"
    }
   ]
  },
@@ -6850,17 +6850,17 @@ export const kanjiN3 = [
    {
     "word": "報告",
     "reading": "ほうこく",
-    "meaning": "report,information"
+    "meaning": "laporan, informasi"
    },
    {
     "word": "警告",
     "reading": "けいこく",
-    "meaning": "warning,advice"
+    "meaning": "peringatan, saran"
    },
    {
     "word": "広告",
     "reading": "こうこく",
-    "meaning": "advertisement"
+    "meaning": "iklan"
    }
   ]
  },
@@ -6886,17 +6886,17 @@ export const kanjiN3 = [
    {
     "word": "人種",
     "reading": "じんしゅ",
-    "meaning": "race (of people)"
+    "meaning": "ras (orang)"
    },
    {
     "word": "種類",
     "reading": "しゅるい",
-    "meaning": "variety,kind,type"
+    "meaning": "variasi, jenis, tipe"
    },
    {
     "word": "一種",
     "reading": "いっしゅ",
-    "meaning": "a species,a kind,a variety"
+    "meaning": "suatu spesies, suatu jenis, suatu keanekaragaman"
    }
   ]
  },
@@ -6921,17 +6921,17 @@ export const kanjiN3 = [
    {
     "word": "友達",
     "reading": "ともだち",
-    "meaning": "friend"
+    "meaning": "teman"
    },
    {
     "word": "達する",
     "reading": "たっする",
-    "meaning": "to reach,to get to"
+    "meaning": "untuk mencapai, untuk mencapai"
    },
    {
     "word": "配達",
     "reading": "はいたつ",
-    "meaning": "delivery,distribution"
+    "meaning": "pengiriman, distribusi"
    }
   ]
  },
@@ -6956,17 +6956,17 @@ export const kanjiN3 = [
    {
     "word": "書類",
     "reading": "しょるい",
-    "meaning": "documents,official papers"
+    "meaning": "dokumen, surat resmi"
    },
    {
     "word": "人類",
     "reading": "じんるい",
-    "meaning": "mankind,humanity"
+    "meaning": "umat manusia, kemanusiaan"
    },
    {
     "word": "種類",
     "reading": "しゅるい",
-    "meaning": "variety,kind,type"
+    "meaning": "variasi, jenis, tipe"
    }
   ]
  },
@@ -6995,12 +6995,12 @@ export const kanjiN3 = [
    {
     "word": "天気予報",
     "reading": "てんきよほう",
-    "meaning": "weather forecast"
+    "meaning": "ramalan cuaca"
    },
    {
     "word": "情報",
     "reading": "じょうほう",
-    "meaning": "information,(military) intelligence"
+    "meaning": "informasi, intelijen (militer)."
    }
   ]
  },
@@ -7033,12 +7033,12 @@ export const kanjiN3 = [
    {
     "word": "彼等",
     "reading": "かれら",
-    "meaning": "they (usually male)"
+    "meaning": "mereka (biasanya laki-laki)"
    },
    {
     "word": "等しい",
     "reading": "ひとしい",
-    "meaning": "equal"
+    "meaning": "setara"
    }
   ]
  },
@@ -7068,7 +7068,7 @@ export const kanjiN3 = [
    {
     "word": "座席",
     "reading": "ざせき",
-    "meaning": "seat"
+    "meaning": "kursi"
    }
   ]
  },
@@ -7089,12 +7089,12 @@ export const kanjiN3 = [
    {
     "word": "忘れる",
     "reading": "わすれる",
-    "meaning": "to forget"
+    "meaning": "untuk melupakan"
    },
    {
     "word": "忘れ物",
     "reading": "わすれもの",
-    "meaning": "lost article"
+    "meaning": "artikel yang hilang"
    },
    {
     "word": "度忘れ",
@@ -7122,17 +7122,17 @@ export const kanjiN3 = [
    {
     "word": "お手洗い",
     "reading": "おてあらい",
-    "meaning": "bathroom"
+    "meaning": "kamar mandi"
    },
    {
     "word": "洗う",
     "reading": "あらう",
-    "meaning": "to wash"
+    "meaning": "untuk mencuci"
    },
    {
     "word": "洗濯",
     "reading": "せんたく",
-    "meaning": "washing"
+    "meaning": "pencucian"
    }
   ]
  },
@@ -7155,17 +7155,17 @@ export const kanjiN3 = [
    {
     "word": "許す",
     "reading": "ゆるす",
-    "meaning": "to permit,to allow,to approve"
+    "meaning": "untuk mengizinkan, mengizinkan, menyetujui"
    },
    {
     "word": "免許",
     "reading": "めんきょ",
-    "meaning": "license,permit,licence,certificate"
+    "meaning": "lisensi, izin, lisensi, sertifikat"
    },
    {
     "word": "許可",
     "reading": "きょか",
-    "meaning": "permission,approval"
+    "meaning": "izin, persetujuan"
    }
   ]
  },
@@ -7195,7 +7195,7 @@ export const kanjiN3 = [
    {
     "word": "冷静",
     "reading": "れいせい",
-    "meaning": "calm,composure,coolness,serenity"
+    "meaning": "ketenangan, ketentraman, kesejukan, ketentraman"
    }
   ]
  },
@@ -7218,7 +7218,7 @@ export const kanjiN3 = [
    {
     "word": "禁煙",
     "reading": "きんえん",
-    "meaning": "No Smoking!"
+    "meaning": "DILARANG MEROKOK!"
    }
   ]
  },
@@ -7245,17 +7245,17 @@ export const kanjiN3 = [
    {
     "word": "加わる",
     "reading": "くわわる",
-    "meaning": "to join in,to accede to,to increase,to gain in (influence)"
+    "meaning": "untuk bergabung, untuk mengaksesi, untuk meningkatkan, untuk mendapatkan (pengaruh)"
    },
    {
     "word": "増加",
     "reading": "ぞうか",
-    "meaning": "increase,addition"
+    "meaning": "peningkatan, penambahan"
    },
    {
     "word": "参加",
     "reading": "さんか",
-    "meaning": "participation"
+    "meaning": "partisipasi"
    }
   ]
  },
@@ -7283,7 +7283,7 @@ export const kanjiN3 = [
    {
     "word": "内容",
     "reading": "ないよう",
-    "meaning": "subject,contents,matter,substance,detail,import"
+    "meaning": "subjek,isi,materi,substansi,detail,impor"
    },
    {
     "word": "美容",
@@ -7315,12 +7315,12 @@ export const kanjiN3 = [
    {
     "word": "易しい",
     "reading": "やさしい",
-    "meaning": "easy, simple"
+    "meaning": "mudah, sederhana"
    },
    {
     "word": "貿易",
     "reading": "ぼうえき",
-    "meaning": "trade"
+    "meaning": "berdagang"
    },
    {
     "word": "容易",
@@ -7351,12 +7351,12 @@ export const kanjiN3 = [
    {
     "word": "財布",
     "reading": "さいふ",
-    "meaning": "wallet"
+    "meaning": "dompet"
    },
    {
     "word": "財産",
     "reading": "ざいさん",
-    "meaning": "property,fortune,assets"
+    "meaning": "properti, kekayaan, aset"
    }
   ]
  },
@@ -7389,7 +7389,7 @@ export const kanjiN3 = [
    {
     "word": "若い",
     "reading": "わかい",
-    "meaning": "young"
+    "meaning": "muda"
    },
    {
     "word": "若しかして",
@@ -7426,7 +7426,7 @@ export const kanjiN3 = [
    {
     "word": "忙しい",
     "reading": "いそがしい",
-    "meaning": "busy,irritated"
+    "meaning": "sibuk, kesal"
    }
   ]
  },
@@ -7458,7 +7458,7 @@ export const kanjiN3 = [
    {
     "word": "生徒",
     "reading": "せいと",
-    "meaning": "pupil"
+    "meaning": "murid"
    },
    {
     "word": "徒歩",
@@ -7495,17 +7495,17 @@ export const kanjiN3 = [
    {
     "word": "納得",
     "reading": "なっとく",
-    "meaning": "consent,assent,understanding"
+    "meaning": "persetujuan, persetujuan, pengertian"
    },
    {
     "word": "得る",
     "reading": "える",
-    "meaning": "to get,to gain,to win"
+    "meaning": "untuk mendapatkan, untuk mendapatkan, untuk menang"
    },
    {
     "word": "得意",
     "reading": "とくい",
-    "meaning": "pride,triumph,prosperity"
+    "meaning": "kebanggaan, kemenangan, kemakmuran"
    }
   ]
  },
@@ -7533,17 +7533,17 @@ export const kanjiN3 = [
    {
     "word": "続く",
     "reading": "つづく",
-    "meaning": "untuk dilanjutkan"
+    "meaning": "untuk melanjutkan"
    },
    {
     "word": "続ける",
     "reading": "つづける",
-    "meaning": "to continue"
+    "meaning": "untuk melanjutkan"
    },
    {
     "word": "連続",
     "reading": "れんぞく",
-    "meaning": "serial,consecutive,continuity,continuing"
+    "meaning": "serial, berturut-turut, kontinuitas, berkelanjutan"
    }
   ]
  },
@@ -7578,12 +7578,12 @@ export const kanjiN3 = [
    {
     "word": "連絡",
     "reading": "れんらく",
-    "meaning": "contact"
+    "meaning": "kontak"
    },
    {
     "word": "連れ",
     "reading": "つれ",
-    "meaning": "companion,company"
+    "meaning": "teman, perusahaan"
    }
   ]
  },
@@ -7611,7 +7611,7 @@ export const kanjiN3 = [
    {
     "word": "困難",
     "reading": "こんなん",
-    "meaning": "difficulty,distress"
+    "meaning": "kesulitan, kesusahan"
    }
   ]
  },
@@ -7639,17 +7639,17 @@ export const kanjiN3 = [
    {
     "word": "飛行機",
     "reading": "ひこうき",
-    "meaning": "aeroplane"
+    "meaning": "pesawat terbang"
    },
    {
     "word": "機会",
     "reading": "きかい",
-    "meaning": "peluang"
+    "meaning": "."
    },
    {
     "word": "ジェット機",
     "reading": "ジェットき",
-    "meaning": "jet aeroplane"
+    "meaning": "pesawat jet"
    }
   ]
  },
@@ -7674,17 +7674,17 @@ export const kanjiN3 = [
    {
     "word": "飛ぶ",
     "reading": "とぶ",
-    "meaning": "to fly,to hop"
+    "meaning": "untuk terbang, untuk melompat"
    },
    {
     "word": "飛行機",
     "reading": "ひこうき",
-    "meaning": "aeroplane"
+    "meaning": "pesawat terbang"
    },
    {
     "word": "飛行場",
     "reading": "ひこうじょう",
-    "meaning": "airport"
+    "meaning": "bandara"
    }
   ]
  },
@@ -7704,17 +7704,17 @@ export const kanjiN3 = [
    {
     "word": "障害",
     "reading": "しょうがい",
-    "meaning": "obstacle,impediment (fault),damage"
+    "meaning": "hambatan, halangan (kesalahan), kerusakan"
    },
    {
     "word": "損害",
     "reading": "そんがい",
-    "meaning": "damage,injury,loss"
+    "meaning": "kerusakan, cedera, kehilangan"
    },
    {
     "word": "被害",
     "reading": "ひがい",
-    "meaning": "damage"
+    "meaning": "kerusakan"
    }
   ]
  },
@@ -7742,17 +7742,17 @@ export const kanjiN3 = [
    {
     "word": "余り",
     "reading": "あまり",
-    "meaning": "not very (used as adverb),not much"
+    "meaning": "tidak terlalu (digunakan sebagai kata keterangan), tidak banyak"
    },
    {
     "word": "余裕",
     "reading": "よゆう",
-    "meaning": "surplus,composure,margin,room,time,allowance,scope,rope"
+    "meaning": "surplus, ketenangan, margin, ruangan, waktu, tunjangan, ruang lingkup, tali"
    },
    {
     "word": "余分",
     "reading": "よぶん",
-    "meaning": "extra,excess,surplus"
+    "meaning": "ekstra, kelebihan, kelebihan"
    }
   ]
  },
@@ -7782,12 +7782,12 @@ export const kanjiN3 = [
    {
     "word": "難しい",
     "reading": "むずかしい",
-    "meaning": "difficult"
+    "meaning": "sulit"
    },
    {
     "word": "困難",
     "reading": "こんなん",
-    "meaning": "difficulty,distress"
+    "meaning": "kesulitan, kesusahan"
    },
    {
     "word": "盗難",
@@ -7822,17 +7822,17 @@ export const kanjiN3 = [
    {
     "word": "確か",
     "reading": "たしか",
-    "meaning": "definite"
+    "meaning": "pasti"
    },
    {
     "word": "正確",
     "reading": "せいかく",
-    "meaning": "accurate,punctuality,exactness,authenticity,veracity"
+    "meaning": "akurat, ketepatan waktu, ketepatan, keaslian, kebenaran"
    },
    {
     "word": "確実",
     "reading": "かくじつ",
-    "meaning": "certainty,reliability,soundness"
+    "meaning": "kepastian, keandalan, kesehatan"
    }
   ]
  },
@@ -7856,17 +7856,17 @@ export const kanjiN3 = [
    {
     "word": "存在",
     "reading": "そんざい",
-    "meaning": "existence,being"
+    "meaning": "keberadaan, keberadaan"
    },
    {
     "word": "滞在",
     "reading": "たいざい",
-    "meaning": "stay,sojourn"
+    "meaning": "tinggal, singgah"
    },
    {
     "word": "現在",
     "reading": "げんざい",
-    "meaning": "present,up to now,nowadays,modern times,current"
+    "meaning": "sekarang, hingga saat ini, saat ini, zaman modern, terkini"
    }
   ]
  },
@@ -7892,7 +7892,7 @@ export const kanjiN3 = [
    {
     "word": "夢中",
     "reading": "むちゅう",
-    "meaning": "daze,(in a) trance,ecstasy,delirium,engrossment"
+    "meaning": "linglung,(dalam) kesurupan, ekstasi, delirium, keasyikan"
    }
   ]
  },
@@ -7927,12 +7927,12 @@ export const kanjiN3 = [
    {
     "word": "お土産",
     "reading": "おみやげ",
-    "meaning": "souvenir"
+    "meaning": "suvenir"
    },
    {
     "word": "産業",
     "reading": "さんぎょう",
-    "meaning": "industry"
+    "meaning": "industri"
    }
   ]
  },
@@ -7962,17 +7962,17 @@ export const kanjiN3 = [
    {
     "word": "倒れる",
     "reading": "たおれる",
-    "meaning": "to break down"
+    "meaning": "untuk rusak"
    },
    {
     "word": "面倒",
     "reading": "めんどう",
-    "meaning": "trouble,difficulty,care,attention"
+    "meaning": "masalah, kesulitan, perhatian, perhatian"
    },
    {
     "word": "倒す",
     "reading": "たおす",
-    "meaning": "to throw down,to beat,to bring down,to blow down"
+    "meaning": "untuk menjatuhkan, untuk memukul, untuk menjatuhkan, untuk meledakkan"
    }
   ]
  },
@@ -7994,7 +7994,7 @@ export const kanjiN3 = [
    {
     "word": "妻",
     "reading": "つま",
-    "meaning": "(humble) wife"
+    "meaning": "istri (rendah hati)."
    }
   ]
  },
@@ -8016,17 +8016,17 @@ export const kanjiN3 = [
    {
     "word": "会議室",
     "reading": "かいぎしつ",
-    "meaning": "meeting room"
+    "meaning": "ruang pertemuan"
    },
    {
     "word": "会議",
     "reading": "かいぎ",
-    "meaning": "meeting"
+    "meaning": "pertemuan"
    },
    {
     "word": "議会",
     "reading": "ぎかい",
-    "meaning": "Diet,congress,parliament"
+    "meaning": "Diet, kongres, parlemen"
    }
   ]
  },
@@ -8050,12 +8050,12 @@ export const kanjiN3 = [
    {
     "word": "犯人",
     "reading": "はんにん",
-    "meaning": "offender,criminal"
+    "meaning": "pelaku, penjahat"
    },
    {
     "word": "犯罪",
     "reading": "はんざい",
-    "meaning": "crime"
+    "meaning": "kejahatan"
    }
   ]
  },
@@ -8081,7 +8081,7 @@ export const kanjiN3 = [
    {
     "word": "犯罪",
     "reading": "はんざい",
-    "meaning": "crime"
+    "meaning": "kejahatan"
    }
   ]
  },
@@ -8101,17 +8101,17 @@ export const kanjiN3 = [
    {
     "word": "論じる",
     "reading": "ろんじる",
-    "meaning": "to argue,to discuss,to debate"
+    "meaning": "berdebat, berdiskusi, berdebat"
    },
    {
     "word": "結論",
     "reading": "けつろん",
-    "meaning": "conclusion"
+    "meaning": "kesimpulan"
    },
    {
     "word": "論文",
     "reading": "ろんぶん",
-    "meaning": "thesis,essay,treatise,paper"
+    "meaning": "tesis, esai, risalah, makalah"
    }
   ]
  },
@@ -8147,7 +8147,7 @@ export const kanjiN3 = [
    {
     "word": "経験",
     "reading": "けいけん・する",
-    "meaning": "to experience"
+    "meaning": "untuk mengalami"
    },
    {
     "word": "経由",
@@ -8198,7 +8198,7 @@ export const kanjiN3 = [
    {
     "word": "済ませる",
     "reading": "すませる",
-    "meaning": "to be finished"
+    "meaning": "untuk diselesaikan"
    }
   ]
  },
@@ -8228,12 +8228,12 @@ export const kanjiN3 = [
    {
     "word": "裁判",
     "reading": "さいばん",
-    "meaning": "trial,judgement"
+    "meaning": "persidangan, penghakiman"
    },
    {
     "word": "評判",
     "reading": "ひょうばん",
-    "meaning": "fame,reputation,popularity,arrant"
+    "meaning": "ketenaran, reputasi, popularitas, keterlaluan"
    }
   ]
  },
@@ -8254,12 +8254,12 @@ export const kanjiN3 = [
    {
     "word": "制度",
     "reading": "せいど",
-    "meaning": "system,institution,organization"
+    "meaning": "sistem, institusi, organisasi"
    },
    {
     "word": "制限",
     "reading": "せいげん",
-    "meaning": "restriction,restraint,limitation"
+    "meaning": "pembatasan, pengekangan, pembatasan"
    },
    {
     "word": "制作",
@@ -8291,12 +8291,12 @@ export const kanjiN3 = [
    {
     "word": "事務所",
     "reading": "じむしょ",
-    "meaning": "office"
+    "meaning": "kantor"
    },
    {
     "word": "務め",
     "reading": "つとめ",
-    "meaning": "(1) service,duty,(2) Buddhist religious services"
+    "meaning": "(1) pelayanan, tugas, (2) pelayanan keagamaan Budha"
    }
   ]
  },
@@ -8321,12 +8321,12 @@ export const kanjiN3 = [
    {
     "word": "資本",
     "reading": "しほん",
-    "meaning": "funds,capital"
+    "meaning": "dana, modal"
    },
    {
     "word": "資源",
     "reading": "しげん",
-    "meaning": "resources"
+    "meaning": "sumber daya"
    }
   ]
  },
@@ -8352,7 +8352,7 @@ export const kanjiN3 = [
    {
     "word": "権利",
     "reading": "けんり",
-    "meaning": "right,privilege"
+    "meaning": "benar, hak istimewa"
    }
   ]
  },
@@ -8376,12 +8376,12 @@ export const kanjiN3 = [
    {
     "word": "条件",
     "reading": "じょうけん",
-    "meaning": "conditions,terms"
+    "meaning": "syarat, syarat"
    },
    {
     "word": "事件",
     "reading": "じけん",
-    "meaning": "event,affair,incident"
+    "meaning": "peristiwa, perselingkuhan, insiden"
    }
   ]
  },
@@ -8413,17 +8413,17 @@ export const kanjiN3 = [
    {
     "word": "断る",
     "reading": "ことわる",
-    "meaning": "to refuse,to decline,to dismiss"
+    "meaning": "menolak, menolak, memberhentikan"
    },
    {
     "word": "横断",
     "reading": "おうだん",
-    "meaning": "crossing"
+    "meaning": "persimpangan"
    },
    {
     "word": "判断",
     "reading": "はんだん",
-    "meaning": "judgement,decision"
+    "meaning": "penilaian, keputusan"
    }
   ]
  },
@@ -8487,7 +8487,7 @@ export const kanjiN3 = [
    {
     "word": "責める",
     "reading": "せめる",
-    "meaning": "to condemn,to blame,to criticize"
+    "meaning": "untuk mengutuk, menyalahkan, mengkritik"
    }
   ]
  },
@@ -8520,12 +8520,12 @@ export const kanjiN3 = [
    {
     "word": "増加",
     "reading": "ぞうか",
-    "meaning": "increase,addition"
+    "meaning": "peningkatan, penambahan"
    },
    {
     "word": "増す",
     "reading": "ます",
-    "meaning": "to increase,to grow"
+    "meaning": "untuk meningkat, untuk tumbuh"
    }
   ]
  },
@@ -8565,17 +8565,17 @@ export const kanjiN3 = [
    {
     "word": "解く",
     "reading": "とく",
-    "meaning": "to unfasten"
+    "meaning": "untuk melepaskan"
    },
    {
     "word": "誤解",
     "reading": "ごかい",
-    "meaning": "misunderstanding"
+    "meaning": "salah paham"
    },
    {
     "word": "見解",
     "reading": "けんかい",
-    "meaning": "opinion,point of view"
+    "meaning": "pendapat, sudut pandang"
    }
   ]
  },
@@ -8605,17 +8605,17 @@ export const kanjiN3 = [
    {
     "word": "国際",
     "reading": "こくさい",
-    "meaning": "international"
+    "meaning": "internasional"
    },
    {
     "word": "実際",
     "reading": "じっさい",
-    "meaning": "practical,actual condition,status quo"
+    "meaning": "praktis, kondisi aktual, status quo"
    },
    {
     "word": "交際",
     "reading": "こうさい",
-    "meaning": "company,friendship,association,society,acquaintance"
+    "meaning": "perusahaan, persahabatan, asosiasi, masyarakat, kenalan"
    }
   ]
  },
@@ -8642,17 +8642,17 @@ export const kanjiN3 = [
    {
     "word": "承認",
     "reading": "しょうにん",
-    "meaning": "recognition,acknowledgement,approval,consent,agreement"
+    "meaning": "pengakuan, pengakuan, persetujuan, persetujuan, persetujuan"
    },
    {
     "word": "確認",
     "reading": "かくにん",
-    "meaning": "affirmation,confirmation"
+    "meaning": "afirmasi, konfirmasi"
    },
    {
     "word": "認める",
     "reading": "みとめる",
-    "meaning": "to recognize,to appreciate,to approve,to admit,to notice"
+    "meaning": "mengenali, mengapresiasi, menyetujui, mengakui, memperhatikan"
    }
   ]
  },
@@ -8682,17 +8682,17 @@ export const kanjiN3 = [
    {
     "word": "過ぎる",
     "reading": "すぎる",
-    "meaning": "to exceed"
+    "meaning": "melebihi"
    },
    {
     "word": "過去",
     "reading": "かこ",
-    "meaning": "the past,bygone days,the previous"
+    "meaning": "masa lalu, masa lalu, masa lalu"
    },
    {
     "word": "通り過ぎる",
     "reading": "とおりすぎる",
-    "meaning": "to pass,to pass through"
+    "meaning": "untuk melewati, untuk melewati"
    }
   ]
  },
@@ -8721,12 +8721,12 @@ export const kanjiN3 = [
    {
     "word": "寝る",
     "reading": "ねる",
-    "meaning": "to go to bed,to sleep"
+    "meaning": "untuk pergi tidur, untuk tidur"
    },
    {
     "word": "寝坊",
     "reading": "ねぼう",
-    "meaning": "sleeping in late"
+    "meaning": "tidur larut malam"
    }
   ]
  },
@@ -8755,17 +8755,17 @@ export const kanjiN3 = [
    {
     "word": "置く",
     "reading": "おく",
-    "meaning": "to put"
+    "meaning": "untuk menempatkan"
    },
    {
     "word": "位置",
     "reading": "いち",
-    "meaning": "place,situation,position,location"
+    "meaning": "tempat, situasi, posisi, lokasi"
    },
    {
     "word": "装置",
     "reading": "そうち",
-    "meaning": "equipment,installation,apparatus"
+    "meaning": "peralatan, instalasi, peralatan"
    }
   ]
  },
@@ -8791,12 +8791,12 @@ export const kanjiN3 = [
    {
     "word": "費用",
     "reading": "ひよう",
-    "meaning": "cost,expense"
+    "meaning": "biaya, biaya"
    },
    {
     "word": "消費",
     "reading": "しょうひ",
-    "meaning": "consumption,expenditure"
+    "meaning": "konsumsi, pengeluaran"
    }
   ]
  },
@@ -8822,12 +8822,12 @@ export const kanjiN3 = [
    {
     "word": "示す",
     "reading": "しめす",
-    "meaning": "to denote,to show,to point out,to indicate"
+    "meaning": "untuk menunjukkan, untuk menunjukkan, untuk menunjukkan, untuk menunjukkan"
    },
    {
     "word": "掲示",
     "reading": "けいじ",
-    "meaning": "notice,bulletin"
+    "meaning": "perhatikan, buletin"
    }
   ]
  },
@@ -8853,17 +8853,17 @@ export const kanjiN3 = [
    {
     "word": "見る  観る",
     "reading": "みる",
-    "meaning": "to see, to watch"
+    "meaning": "untuk melihat, untuk menonton"
    },
    {
     "word": "観光",
     "reading": "かんこう",
-    "meaning": "sightseeing"
+    "meaning": "tamasya"
    },
    {
     "word": "観客",
     "reading": "かんきゃく",
-    "meaning": "audience,spectator(s)"
+    "meaning": "penonton, penonton"
    }
   ]
  },
@@ -8892,7 +8892,7 @@ export const kanjiN3 = [
    {
     "word": "価値",
     "reading": "かち",
-    "meaning": "value,worth,merit"
+    "meaning": "nilai, nilai, pahala"
    }
   ]
  },
@@ -8916,17 +8916,17 @@ export const kanjiN3 = [
    {
     "word": "吸う",
     "reading": "すう",
-    "meaning": "to smoke,to suck"
+    "meaning": "merokok, menghisap"
    },
    {
     "word": "吸収",
     "reading": "きゅうしゅう",
-    "meaning": "absorption,suction,attraction"
+    "meaning": "penyerapan, hisapan, tarikan"
    },
    {
     "word": "呼吸",
     "reading": "こきゅう",
-    "meaning": "breath,respiration"
+    "meaning": "nafas, pernafasan"
    }
   ]
  },
@@ -8949,17 +8949,17 @@ export const kanjiN3 = [
    {
     "word": "状況",
     "reading": "じょうきょう",
-    "meaning": "state of affairs,situation,circumstances"
+    "meaning": "keadaan, situasi, keadaan"
    },
    {
     "word": "現状",
     "reading": "げんじょう",
-    "meaning": "present condition,existing state,status quo"
+    "meaning": "kondisi sekarang, keadaan saat ini, status quo"
    },
    {
     "word": "症状",
     "reading": "しょうじょう",
-    "meaning": "symptoms,condition"
+    "meaning": "gejala, kondisi"
    }
   ]
  },
@@ -8986,17 +8986,17 @@ export const kanjiN3 = [
    {
     "word": "収穫",
     "reading": "しゅうかく",
-    "meaning": "harvest,crop,ingathering"
+    "meaning": "memanen, memanen, mengumpulkan"
    },
    {
     "word": "吸収",
     "reading": "きゅうしゅう",
-    "meaning": "absorption,suction,attraction"
+    "meaning": "penyerapan, hisapan, tarikan"
    },
    {
     "word": "収入",
     "reading": "しゅうにゅう",
-    "meaning": "income,receipts,revenue"
+    "meaning": "pendapatan, penerimaan, pendapatan"
    }
   ]
  },
@@ -9018,12 +9018,12 @@ export const kanjiN3 = [
    {
     "word": "就職",
     "reading": "しゅうしょく",
-    "meaning": "finding employment,inauguration"
+    "meaning": "mencari pekerjaan, pelantikan"
    },
    {
     "word": "職業",
     "reading": "しょくぎょう",
-    "meaning": "occupation,business"
+    "meaning": "pekerjaan, bisnis"
    },
    {
     "word": "辞職",
@@ -9083,17 +9083,17 @@ export const kanjiN3 = [
    {
     "word": "割れる",
     "reading": "われる",
-    "meaning": "to break"
+    "meaning": "untuk istirahat"
    },
    {
     "word": "割合",
     "reading": "わりあい",
-    "meaning": "rate,ratio,percentage"
+    "meaning": "tarif, rasio, persentase"
    },
    {
     "word": "割る",
     "reading": "わる",
-    "meaning": "to divide,to cut,to break,to halve"
+    "meaning": "untuk membagi, untuk memotong, untuk istirahat, untuk membagi dua"
    }
   ]
  },
@@ -9116,17 +9116,17 @@ export const kanjiN3 = [
    {
     "word": "演説",
     "reading": "えんぜつ",
-    "meaning": "speech,address"
+    "meaning": "pidato, alamat"
    },
    {
     "word": "演技",
     "reading": "えんぎ",
-    "meaning": "acting,performance"
+    "meaning": "akting, pertunjukan"
    },
    {
     "word": "演奏",
     "reading": "えんそう",
-    "meaning": "musical performance"
+    "meaning": "pertunjukan musik"
    }
   ]
  },
@@ -9153,17 +9153,17 @@ export const kanjiN3 = [
    {
     "word": "教師",
     "reading": "きょうし",
-    "meaning": "teacher (classroom)"
+    "meaning": "guru (kelas)"
    },
    {
     "word": "医師",
     "reading": "いし",
-    "meaning": "doctor,physician"
+    "meaning": "dokter, tabib"
    },
    {
     "word": "技師",
     "reading": "ぎし",
-    "meaning": "engineer,technician"
+    "meaning": "insinyur, teknisi"
    }
   ]
  },
@@ -9188,7 +9188,7 @@ export const kanjiN3 = [
    {
     "word": "準備",
     "reading": "じゅんび・する",
-    "meaning": "to prepare"
+    "meaning": "untuk mempersiapkan"
    },
    {
     "word": "備える",
@@ -9198,7 +9198,7 @@ export const kanjiN3 = [
    {
     "word": "準備",
     "reading": "じゅんび",
-    "meaning": "preparation,arrangements,provision,reserve"
+    "meaning": "persiapan, pengaturan, penyediaan, cadangan"
    }
   ]
  },
@@ -9237,7 +9237,7 @@ export const kanjiN3 = [
    {
     "word": "優秀",
     "reading": "ゆうしゅう",
-    "meaning": "superiority,excellence"
+    "meaning": "keunggulan, keunggulan"
    }
   ]
  },
@@ -9260,17 +9260,17 @@ export const kanjiN3 = [
    {
     "word": "お宅",
     "reading": "おたく",
-    "meaning": "(polite) your house"
+    "meaning": "(sopan) rumahmu"
    },
    {
     "word": "帰宅",
     "reading": "きたく",
-    "meaning": "returning home"
+    "meaning": "kembali ke rumah"
    },
    {
     "word": "住宅",
     "reading": "じゅうたく",
-    "meaning": "resident,housing"
+    "meaning": "penduduk, perumahan"
    }
   ]
  },
@@ -9296,17 +9296,17 @@ export const kanjiN3 = [
    {
     "word": "表現",
     "reading": "ひょうげん",
-    "meaning": "expression,presentation,representation (math)"
+    "meaning": "ekspresi, presentasi, representasi (matematika)"
    },
    {
     "word": "現れ",
     "reading": "あらわれ",
-    "meaning": "embodiment,materialization"
+    "meaning": "perwujudan, perwujudan"
    },
    {
     "word": "実現",
     "reading": "じつげん",
-    "meaning": "implementation,materialization,realization"
+    "meaning": "pelaksanaan, perwujudan, realisasi"
    }
   ]
  },
@@ -9329,12 +9329,12 @@ export const kanjiN3 = [
    {
     "word": "呼ぶ",
     "reading": "よぶ",
-    "meaning": "to call out,to invite"
+    "meaning": "untuk memanggil, untuk mengundang"
    },
    {
     "word": "呼吸",
     "reading": "こきゅう",
-    "meaning": "breath,respiration"
+    "meaning": "nafas, pernafasan"
    },
    {
     "word": "呼び掛ける",
@@ -9371,12 +9371,12 @@ export const kanjiN3 = [
    {
     "word": "間違える",
     "reading": "まちがえる",
-    "meaning": "to make a mistake"
+    "meaning": "untuk membuat kesalahan"
    },
    {
     "word": "違い",
     "reading": "ちがい",
-    "meaning": "perbedaan, kesenjangan"
+    "meaning": "perbedaan, ketidaksamaan"
    }
   ]
  },
@@ -9408,12 +9408,12 @@ export const kanjiN3 = [
    {
     "word": "交差点",
     "reading": "こうさてん",
-    "meaning": "intersection"
+    "meaning": "persimpangan"
    },
    {
     "word": "差し上げる",
     "reading": "さしあげる",
-    "meaning": "(polite) to give"
+    "meaning": "(sopan) memberi"
    }
   ]
  },
@@ -9443,12 +9443,12 @@ export const kanjiN3 = [
    {
     "word": "子供",
     "reading": "こども",
-    "meaning": "child"
+    "meaning": "anak"
    },
    {
     "word": "供給",
     "reading": "きょうきゅう",
-    "meaning": "supply,provision"
+    "meaning": "pasokan, penyediaan"
    }
   ]
  },
@@ -9473,17 +9473,17 @@ export const kanjiN3 = [
    {
     "word": "限界",
     "reading": "げんかい",
-    "meaning": "limit,bound"
+    "meaning": "batas, terikat"
    },
    {
     "word": "制限",
     "reading": "せいげん",
-    "meaning": "restriction,restraint,limitation"
+    "meaning": "pembatasan, pengekangan, pembatasan"
    },
    {
     "word": "限る",
     "reading": "かぎる",
-    "meaning": "to restrict,to limit,to confine"
+    "meaning": "untuk membatasi, membatasi, membatasi"
    }
   ]
  },
@@ -9515,7 +9515,7 @@ export const kanjiN3 = [
    {
     "word": "与える",
     "reading": "あたえる",
-    "meaning": "to give,to present,to award"
+    "meaning": "memberi, mempersembahkan, memberi penghargaan"
    }
   ]
  },
@@ -9545,12 +9545,12 @@ export const kanjiN3 = [
    {
     "word": "渡す",
     "reading": "わたす",
-    "meaning": "to hand over"
+    "meaning": "untuk menyerahkan"
    },
    {
     "word": "渡る",
     "reading": "わたる",
-    "meaning": "to go across"
+    "meaning": "untuk menyeberang"
    }
   ]
  },
@@ -9575,12 +9575,12 @@ export const kanjiN3 = [
    {
     "word": "風景",
     "reading": "ふうけい",
-    "meaning": "scenery"
+    "meaning": "pemandangan"
    },
    {
     "word": "景気",
     "reading": "けいき",
-    "meaning": "condition,state,business (condition)"
+    "meaning": "kondisi, negara bagian, bisnis (kondisi)"
    }
   ]
  },
@@ -9614,12 +9614,12 @@ export const kanjiN3 = [
    {
     "word": "抜く",
     "reading": "ぬく",
-    "meaning": "to extract,to omit,to surpass,to draw out,to unplug"
+    "meaning": "untuk mengekstrak, menghilangkan, melampaui, menarik keluar, mencabut"
    },
    {
     "word": "抜ける",
     "reading": "ぬける",
-    "meaning": "to come out,to fall out,to be omitted"
+    "meaning": "untuk keluar, rontok, dihilangkan"
    }
   ]
  },
@@ -9644,17 +9644,17 @@ export const kanjiN3 = [
    {
     "word": "気候",
     "reading": "きこう",
-    "meaning": "climate"
+    "meaning": "iklim"
    },
    {
     "word": "天候",
     "reading": "てんこう",
-    "meaning": "weather"
+    "meaning": "cuaca"
    },
    {
     "word": "候補",
     "reading": "こうほ",
-    "meaning": "candidacy"
+    "meaning": "pencalonan"
    }
   ]
  },
@@ -9678,17 +9678,17 @@ export const kanjiN3 = [
    {
     "word": "結構",
     "reading": "けっこう",
-    "meaning": "splendid,enough"
+    "meaning": "bagus sekali, cukup"
    },
    {
     "word": "構う",
     "reading": "かまう",
-    "meaning": "to mind,to care about,to be concerned about"
+    "meaning": "untuk dipikirkan, untuk dipedulikan, untuk dikhawatirkan"
    },
    {
     "word": "構成",
     "reading": "こうせい",
-    "meaning": "organization,composition"
+    "meaning": "organisasi, komposisi"
    }
   ]
  },
@@ -9716,7 +9716,7 @@ export const kanjiN3 = [
    {
     "word": "捕まえる",
     "reading": "つかまえる",
-    "meaning": "to seize"
+    "meaning": "untuk merebut"
    },
    {
     "word": "逮捕",
@@ -9726,7 +9726,7 @@ export const kanjiN3 = [
    {
     "word": "捕まる",
     "reading": "つかまる",
-    "meaning": "to be caught,to be arrested"
+    "meaning": "untuk ditangkap, untuk ditangkap"
    }
   ]
  },
@@ -9750,12 +9750,12 @@ export const kanjiN3 = [
    {
     "word": "習慣",
     "reading": "しゅうかん",
-    "meaning": "custom,manners"
+    "meaning": "adat, sopan santun"
    },
    {
     "word": "慣れる",
     "reading": "なれる",
-    "meaning": "to grow accustomed to"
+    "meaning": "untuk menjadi terbiasa"
    }
   ]
  },
@@ -9782,17 +9782,17 @@ export const kanjiN3 = [
    {
     "word": "満足",
     "reading": "まんぞく",
-    "meaning": "satisfaction"
+    "meaning": "kepuasan"
    },
    {
     "word": "不満",
     "reading": "ふまん",
-    "meaning": "dissatisfaction,displeasure,discontent,complaints,unhappiness"
+    "meaning": "ketidakpuasan, ketidaksenangan, ketidakpuasan, keluhan, ketidakbahagiaan"
    },
    {
     "word": "満ちる",
     "reading": "みちる",
-    "meaning": "to be full,to rise (tide),to mature,to expire"
+    "meaning": "menjadi penuh,meningkat (pasang),menjadi matang,kedaluwarsa"
    }
   ]
  },
@@ -9835,7 +9835,7 @@ export const kanjiN3 = [
    {
     "word": "掛かる",
     "reading": "かかる",
-    "meaning": "to take (e.g. time, money, etc),to hang"
+    "meaning": "untuk mengambil (misalnya waktu, uang, dll), untuk digantung"
    },
    {
     "word": "呼び掛ける",
@@ -9867,17 +9867,17 @@ export const kanjiN3 = [
    {
     "word": "居る",
     "reading": "いる",
-    "meaning": "to be, to have (used for people and animals)"
+    "meaning": "menjadi, memiliki (digunakan untuk manusia dan hewan)"
    },
    {
     "word": "居る",
     "reading": "おる",
-    "meaning": "to be (animate),to be,to exist"
+    "meaning": "menjadi (bernyawa),menjadi,ada"
    },
    {
     "word": "居間",
     "reading": "いま",
-    "meaning": "living room (western style)"
+    "meaning": "ruang tamu (gaya barat)"
    }
   ]
  },
@@ -9910,7 +9910,7 @@ export const kanjiN3 = [
    {
     "word": "衝突",
     "reading": "しょうとつ",
-    "meaning": "collision,conflict"
+    "meaning": "tabrakan, konflik"
    }
   ]
  },
@@ -9934,17 +9934,17 @@ export const kanjiN3 = [
    {
     "word": "招待",
     "reading": "しょうたい・する",
-    "meaning": "to invite"
+    "meaning": "untuk mengundang"
    },
    {
     "word": "招く",
     "reading": "まねく",
-    "meaning": "to invite"
+    "meaning": "untuk mengundang"
    },
    {
     "word": "招待",
     "reading": "しょうたい",
-    "meaning": "invitation"
+    "meaning": "undangan"
    }
   ]
  },
@@ -9966,7 +9966,7 @@ export const kanjiN3 = [
    {
     "word": "階段",
     "reading": "かいだん",
-    "meaning": "stairs"
+    "meaning": "tangga"
    },
    {
     "word": "値段",
@@ -9976,7 +9976,7 @@ export const kanjiN3 = [
    {
     "word": "普段",
     "reading": "ふだん",
-    "meaning": "usually,habitually,ordinarily,always"
+    "meaning": "biasanya, biasanya, biasanya, selalu"
    }
   ]
  },
@@ -9999,7 +9999,7 @@ export const kanjiN3 = [
    {
     "word": "お腹",
     "reading": "おなか",
-    "meaning": "stomach"
+    "meaning": "perut"
    }
   ]
  },
@@ -10026,17 +10026,17 @@ export const kanjiN3 = [
    {
     "word": "痛い",
     "reading": "いたい",
-    "meaning": "painful"
+    "meaning": "menyakitkan"
    },
    {
     "word": "頭痛",
     "reading": "ずつう",
-    "meaning": "headache"
+    "meaning": "sakit kepala"
    },
    {
     "word": "苦痛",
     "reading": "くつう",
-    "meaning": "pain,agony"
+    "meaning": "rasa sakit, penderitaan"
    }
   ]
  },
@@ -10068,17 +10068,17 @@ export const kanjiN3 = [
    {
     "word": "退院",
     "reading": "たいいん・する",
-    "meaning": "to leave hospital"
+    "meaning": "untuk meninggalkan rumah sakit"
    },
    {
     "word": "引退",
     "reading": "いんたい",
-    "meaning": "retire"
+    "meaning": "pensiun"
    },
    {
     "word": "退屈",
     "reading": "たいくつ",
-    "meaning": "tedium,boredom"
+    "meaning": "kebosanan, kebosanan"
    }
   ]
  },
@@ -10109,7 +10109,7 @@ export const kanjiN3 = [
    {
     "word": "迷惑",
     "reading": "めいわく",
-    "meaning": "trouble,bother,annoyance"
+    "meaning": "masalah, gangguan, gangguan"
    }
   ]
  },
@@ -10140,7 +10140,7 @@ export const kanjiN3 = [
    {
     "word": "訪問",
     "reading": "ほうもん",
-    "meaning": "call,visit"
+    "meaning": "telepon, kunjungi"
    }
   ]
  },
@@ -10188,17 +10188,17 @@ export const kanjiN3 = [
    {
     "word": "眠る",
     "reading": "ねむる",
-    "meaning": "to sleep"
+    "meaning": "untuk tidur"
    },
    {
     "word": "眠い",
     "reading": "ねむい",
-    "meaning": "sleepy"
+    "meaning": "mengantuk"
    },
    {
     "word": "居眠り",
     "reading": "いねむり",
-    "meaning": "dozing,nodding off"
+    "meaning": "tertidur, tertidur"
    }
   ]
  },
@@ -10219,7 +10219,7 @@ export const kanjiN3 = [
    {
     "word": "靴下",
     "reading": "くつした",
-    "meaning": "socks"
+    "meaning": "kaus kaki"
    }
   ]
  },
@@ -10242,12 +10242,12 @@ export const kanjiN3 = [
    {
     "word": "途中",
     "reading": "とちゅう",
-    "meaning": "on the way"
+    "meaning": "dalam perjalanan"
    },
    {
     "word": "途端",
     "reading": "とたん",
-    "meaning": "just (now, at the moment, etc.)"
+    "meaning": "hanya (sekarang, saat ini, dll.)"
    },
    {
     "word": "途上",
@@ -10280,17 +10280,17 @@ export const kanjiN3 = [
    {
     "word": "給料",
     "reading": "きゅうりょう",
-    "meaning": "salary,wages"
+    "meaning": "gaji, upah"
    },
    {
     "word": "供給",
     "reading": "きょうきゅう",
-    "meaning": "supply,provision"
+    "meaning": "pasokan, penyediaan"
    },
    {
     "word": "支給",
     "reading": "しきゅう",
-    "meaning": "payment,allowance"
+    "meaning": "pembayaran, tunjangan"
    }
   ]
  },
@@ -10325,12 +10325,12 @@ export const kanjiN3 = [
    {
     "word": "冷たい",
     "reading": "つめたい",
-    "meaning": "cold to the touch"
+    "meaning": "dingin saat disentuh"
    },
    {
     "word": "冷える",
     "reading": "ひえる",
-    "meaning": "to grow cold"
+    "meaning": "menjadi dingin"
    }
   ]
  },
@@ -10360,7 +10360,7 @@ export const kanjiN3 = [
    {
     "word": "処理",
     "reading": "しょり",
-    "meaning": "processing,dealing with,treatment,disposition,disposal"
+    "meaning": "pemrosesan, penanganan, perawatan, disposisi, pembuangan"
    },
    {
     "word": "何処か",
@@ -10394,17 +10394,17 @@ export const kanjiN3 = [
    {
     "word": "看護婦",
     "reading": "かんごふ",
-    "meaning": "female nurse"
+    "meaning": "perawat wanita"
    },
    {
     "word": "夫婦",
     "reading": "ふうふ",
-    "meaning": "married couple,husband and wife"
+    "meaning": "pasangan suami istri, suami dan istri"
    },
    {
     "word": "主婦",
     "reading": "しゅふ",
-    "meaning": "housewife,mistress"
+    "meaning": "ibu rumah tangga, nyonya"
    }
   ]
  },
@@ -10432,7 +10432,7 @@ export const kanjiN3 = [
    {
     "word": "程度",
     "reading": "ていど",
-    "meaning": "degree,amount,grade,standard,of the order of (following a number)"
+    "meaning": "derajat, jumlah, kelas, standar, urutan (mengikuti angka)"
    },
    {
     "word": "余程",
@@ -10468,12 +10468,12 @@ export const kanjiN3 = [
    {
     "word": "精々",
     "reading": "せいぜい",
-    "meaning": "at the most,at best,to the utmost,as much (far) as possible"
+    "meaning": "paling banyak, paling banter, semaksimal mungkin, sejauh (jauh) mungkin"
    },
    {
     "word": "精神",
     "reading": "せいしん",
-    "meaning": "mind,soul,heart,spirit,intention"
+    "meaning": "pikiran, jiwa, hati, semangat, niat"
    }
   ]
  },
@@ -10505,12 +10505,12 @@ export const kanjiN3 = [
    {
     "word": "絶滅",
     "reading": "ぜつめつ",
-    "meaning": "destruction,extinction"
+    "meaning": "kehancuran, kepunahan"
    },
    {
     "word": "絶対",
     "reading": "ぜったい",
-    "meaning": "absolute,unconditional,absoluteness"
+    "meaning": "mutlak, tanpa syarat, kemutlakan"
    }
   ]
  },
@@ -10565,12 +10565,12 @@ export const kanjiN3 = [
    {
     "word": "積もる",
     "reading": "つもる",
-    "meaning": "to pile up"
+    "meaning": "untuk menumpuk"
    },
    {
     "word": "積極的",
     "reading": "せっきょくてき",
-    "meaning": "positive,active,proactive"
+    "meaning": "positif, aktif, proaktif"
    }
   ]
  },
@@ -10604,12 +10604,12 @@ export const kanjiN3 = [
    {
     "word": "寄付",
     "reading": "きふ",
-    "meaning": "contribution,donation"
+    "meaning": "kontribusi, sumbangan"
    },
    {
     "word": "年寄",
     "reading": "としより",
-    "meaning": "old people,the aged"
+    "meaning": "orang tua, orang lanjut usia"
    }
   ]
  },
@@ -10632,7 +10632,7 @@ export const kanjiN3 = [
    {
     "word": "娘",
     "reading": "むすめ",
-    "meaning": "(humble) daughter"
+    "meaning": "putri (rendah hati)."
    }
   ]
  },
@@ -10664,7 +10664,7 @@ export const kanjiN3 = [
    {
     "word": "恐怖",
     "reading": "きょうふ",
-    "meaning": "be afraid,dread,dismay,terror"
+    "meaning": "takut, takut, cemas, teror"
    }
   ]
  },
@@ -10691,17 +10691,17 @@ export const kanjiN3 = [
    {
     "word": "恐ろしい",
     "reading": "おそろしい",
-    "meaning": "terrible,dreadful"
+    "meaning": "mengerikan, mengerikan"
    },
    {
     "word": "恐れる",
     "reading": "おそれる",
-    "meaning": "to fear,to be afraid of"
+    "meaning": "untuk takut, untuk ditakuti"
    },
    {
     "word": "恐怖",
     "reading": "きょうふ",
-    "meaning": "be afraid,dread,dismay,terror"
+    "meaning": "takut, takut, cemas, teror"
    }
   ]
  },
@@ -10720,17 +10720,17 @@ export const kanjiN3 = [
    {
     "word": "結婚",
     "reading": "けっこん",
-    "meaning": "marriage"
+    "meaning": "pernikahan"
    },
    {
     "word": "婚約",
     "reading": "こんやく",
-    "meaning": "engagement,betrothal"
+    "meaning": "pertunangan, pertunangan"
    },
    {
     "word": "離婚",
     "reading": "りこん",
-    "meaning": "divorce"
+    "meaning": "perceraian"
    }
   ]
  },
@@ -10758,7 +10758,7 @@ export const kanjiN3 = [
    {
     "word": "遊び",
     "reading": "あそび",
-    "meaning": "play"
+    "meaning": "bermain"
    }
   ]
  },
@@ -10806,7 +10806,7 @@ export const kanjiN3 = [
    {
     "word": "適当",
     "reading": "てきとう",
-    "meaning": "kesesuaian"
+    "meaning": "ketenangan"
    },
    {
     "word": "適用",
@@ -10816,7 +10816,7 @@ export const kanjiN3 = [
    {
     "word": "適する",
     "reading": "てきする",
-    "meaning": "to fit,to suit"
+    "meaning": "agar sesuai, sesuai"
    }
   ]
  },
@@ -10893,7 +10893,7 @@ export const kanjiN3 = [
    {
     "word": "変更",
     "reading": "へんこう",
-    "meaning": "change,modification,alteration"
+    "meaning": "perubahan, modifikasi, pengubahan"
    }
   ]
  },
@@ -10950,17 +10950,17 @@ export const kanjiN3 = [
    {
     "word": "引っ越す",
     "reading": "ひっこす",
-    "meaning": "to move house"
+    "meaning": "untuk pindah rumah"
    },
    {
     "word": "越す",
     "reading": "こす",
-    "meaning": "to go over (e.g. with audience)"
+    "meaning": "untuk pergi (misalnya dengan penonton)"
    },
    {
     "word": "越える",
     "reading": "こえる",
-    "meaning": "to exceed,to cross over,to cross"
+    "meaning": "untuk melampaui, untuk menyeberang, untuk menyeberang"
    }
   ]
  },
@@ -10991,12 +10991,12 @@ export const kanjiN3 = [
    {
     "word": "背広",
     "reading": "せびろ",
-    "meaning": "business suit"
+    "meaning": "setelan bisnis"
    },
    {
     "word": "背中",
     "reading": "せなか",
-    "meaning": "back of the body"
+    "meaning": "bagian belakang tubuh"
    },
    {
     "word": "背負う",
@@ -11025,12 +11025,12 @@ export const kanjiN3 = [
    {
     "word": "盗む",
     "reading": "ぬすむ",
-    "meaning": "to steal"
+    "meaning": "untuk mencuri"
    },
    {
     "word": "強盗",
     "reading": "ごうとう",
-    "meaning": "robbery,burglary"
+    "meaning": "perampokan, perampokan"
    },
    {
     "word": "盗難",
@@ -11063,17 +11063,17 @@ export const kanjiN3 = [
    {
     "word": "掃除",
     "reading": "そうじする",
-    "meaning": "to clean, to sweep"
+    "meaning": "membersihkan, menyapu"
    },
    {
     "word": "除く",
     "reading": "のぞく",
-    "meaning": "untuk menghapus, mengecualikan, kecuali"
+    "meaning": "Untuk menghapus, memuat, kecuali"
    },
    {
     "word": "掃除",
     "reading": "そうじ",
-    "meaning": "cleaning,sweeping"
+    "meaning": "membersihkan, menyapu"
    }
   ]
  },
@@ -11101,12 +11101,12 @@ export const kanjiN3 = [
    {
     "word": "幾ら",
     "reading": "いくら",
-    "meaning": "how much?,how many?"
+    "meaning": "berapa banyak?, berapa banyak?"
    },
    {
     "word": "幾つ",
     "reading": "いくつ",
-    "meaning": "how many?,how old?"
+    "meaning": "berapa banyak?, berapa umurnya?"
    }
   ]
  },
@@ -11137,12 +11137,12 @@ export const kanjiN3 = [
    {
     "word": "散歩",
     "reading": "さんぽする",
-    "meaning": "to stroll"
+    "meaning": "untuk berjalan-jalan"
    },
    {
     "word": "散歩",
     "reading": "さんぽ",
-    "meaning": "walk,stroll"
+    "meaning": "berjalan, berjalan-jalan"
    }
   ]
  },
@@ -11168,17 +11168,17 @@ export const kanjiN3 = [
    {
     "word": "似る",
     "reading": "にる",
-    "meaning": "to be similar"
+    "meaning": "menjadi serupa"
    },
    {
     "word": "真似",
     "reading": "まね",
-    "meaning": "mimicry,imitation,behavior,pretense"
+    "meaning": "mimikri, peniruan, perilaku, kepura-puraan"
    },
    {
     "word": "似合う",
     "reading": "にあう",
-    "meaning": "to suit,to match,to become,to be like"
+    "meaning": "menyesuaikan, mencocokkan, menjadi, menjadi seperti"
    }
   ]
  },
@@ -11203,7 +11203,7 @@ export const kanjiN3 = [
    {
     "word": "豊富",
     "reading": "ほうふ",
-    "meaning": "abundance,wealth,plenty,bounty"
+    "meaning": "kelimpahan, kekayaan, kelimpahan, karunia"
    }
   ]
  },
@@ -11227,7 +11227,7 @@ export const kanjiN3 = [
    {
     "word": "探す",
     "reading": "さがす",
-    "meaning": "to look for"
+    "meaning": "untuk mencari"
    }
   ]
  },
@@ -11250,17 +11250,17 @@ export const kanjiN3 = [
    {
     "word": "迎える",
     "reading": "むかえる",
-    "meaning": "to go out to meet"
+    "meaning": "untuk pergi keluar untuk bertemu"
    },
    {
     "word": "歓迎",
     "reading": "かんげい",
-    "meaning": "selamat datang, resepsi"
+    "meaning": "selamat datang, penerimaan"
    },
    {
     "word": "迎え",
     "reading": "むかえ",
-    "meaning": "meeting,person sent to pick up an arrival"
+    "meaning": "pertemuan, orang dikirim untuk menjemput kedatangan"
    }
   ]
  },
@@ -11309,17 +11309,17 @@ export const kanjiN3 = [
    {
     "word": "雑誌",
     "reading": "ざっし",
-    "meaning": "magazine"
+    "meaning": "majalah"
    },
    {
     "word": "複雑",
     "reading": "ふくざつ",
-    "meaning": "complexity,complication"
+    "meaning": "kompleksitas, komplikasi"
    },
    {
     "word": "混雑",
     "reading": "こんざつ",
-    "meaning": "confusion,congestion"
+    "meaning": "kebingungan, kemacetan"
    }
   ]
  },
@@ -11345,7 +11345,7 @@ export const kanjiN3 = [
    {
     "word": "賛成",
     "reading": "Uӣ[い",
-    "meaning": "approval,agreement,support,favour"
+    "meaning": "persetujuan, persetujuan, dukungan, bantuan"
    }
   ]
  },
@@ -11372,17 +11372,17 @@ export const kanjiN3 = [
    {
     "word": "込む",
     "reading": "こむ",
-    "meaning": "to be crowded"
+    "meaning": "menjadi ramai"
    },
    {
     "word": "人込み",
     "reading": "ひとごみ",
-    "meaning": "crowd of people"
+    "meaning": "kerumunan orang"
    },
    {
     "word": "申し込む",
     "reading": "もうしこむ",
-    "meaning": "to apply for,to make an application"
+    "meaning": "untuk melamar, untuk membuat aplikasi"
    }
   ]
  },
@@ -11409,12 +11409,12 @@ export const kanjiN3 = [
    {
     "word": "欲しい",
     "reading": "ほしい",
-    "meaning": "want"
+    "meaning": "ingin"
    },
    {
     "word": "食欲",
     "reading": "しょくよく",
-    "meaning": "appetite (for food)"
+    "meaning": "nafsu makan (untuk makanan)"
    }
   ]
  },
@@ -11445,12 +11445,12 @@ export const kanjiN3 = [
    {
     "word": "閉まる",
     "reading": "しまる",
-    "meaning": "untuk menutup, untuk ditutup"
+    "meaning": "untuk menutup, untuk menutup"
    },
    {
     "word": "閉じる",
     "reading": "とじる",
-    "meaning": "to close (e.g. book, eyes),to shut"
+    "meaning": "untuk menutup (misalnya buku, mata), untuk menutup"
    }
   ]
  },
@@ -11475,7 +11475,7 @@ export const kanjiN3 = [
    {
     "word": "窓",
     "reading": "まど",
-    "meaning": "window"
+    "meaning": "jendela"
    }
   ]
  },
@@ -11502,7 +11502,7 @@ export const kanjiN3 = [
    {
     "word": "否定",
     "reading": "ひてい",
-    "meaning": "negation,denial,repudiation"
+    "meaning": "negasi, penolakan, penolakan"
    }
   ]
  },
@@ -11529,17 +11529,17 @@ export const kanjiN3 = [
    {
     "word": "暮れる",
     "reading": "くれる",
-    "meaning": "to get dark,to come to an end"
+    "meaning": "menjadi gelap, untuk berakhir"
    },
    {
     "word": "暮らし",
     "reading": "くらし",
-    "meaning": "living,livelihood,subsistence,circumstances"
+    "meaning": "penghidupan, penghidupan, penghidupan, keadaan"
    },
    {
     "word": "暮らす",
     "reading": "くらす",
-    "meaning": "to live,to get along"
+    "meaning": "untuk hidup, untuk bergaul"
    }
   ]
  },
@@ -11564,12 +11564,12 @@ export const kanjiN3 = [
    {
     "word": "誤り",
     "reading": "あやまり",
-    "meaning": "error"
+    "meaning": "kesalahan"
    },
    {
     "word": "誤解",
     "reading": "ごかい",
-    "meaning": "misunderstanding"
+    "meaning": "salah paham"
    }
   ]
  },
@@ -11599,17 +11599,17 @@ export const kanjiN3 = [
    {
     "word": "降る",
     "reading": "ふる",
-    "meaning": "to fall, e.g. rain or snow"
+    "meaning": "jatuh, mis."
    },
    {
     "word": "降りる",
     "reading": "おりる",
-    "meaning": "to get off, to descend"
+    "meaning": "untuk turun, untuk turun"
    },
    {
     "word": "降り出す",
     "reading": "ふりだす",
-    "meaning": "to start to rain"
+    "meaning": "untuk mulai turun hujan"
    }
   ]
  },
@@ -11641,7 +11641,7 @@ export const kanjiN3 = [
    {
     "word": "勤め",
     "reading": "つとめ",
-    "meaning": "(1) service,duty,business,responsibility,task,(2) Buddhist religious services"
+    "meaning": "(1) pelayanan, tugas, bisnis, tanggung jawab, tugas, (2) layanan keagamaan Buddha"
    }
   ]
  },
@@ -11669,17 +11669,17 @@ export const kanjiN3 = [
    {
     "word": "深刻",
     "reading": "しんこく",
-    "meaning": "serious"
+    "meaning": "serius"
    },
    {
     "word": "時刻",
     "reading": "じこく",
-    "meaning": "instant,time,moment"
+    "meaning": "seketika, waktu, momen"
    },
    {
     "word": "遅刻",
     "reading": "ちこく",
-    "meaning": "lateness,late coming"
+    "meaning": "keterlambatan, datang terlambat"
    }
   ]
  },
@@ -11705,17 +11705,17 @@ export const kanjiN3 = [
    {
     "word": "遅い",
     "reading": "おそい",
-    "meaning": "late,slow"
+    "meaning": "terlambat, lambat"
    },
    {
     "word": "遅れる",
     "reading": "おくれる",
-    "meaning": "to be late"
+    "meaning": "terlambat"
    },
    {
     "word": "遅刻",
     "reading": "ちこく",
-    "meaning": "lateness,late coming"
+    "meaning": "keterlambatan, datang terlambat"
    }
   ]
  },
@@ -11744,12 +11744,12 @@ export const kanjiN3 = [
    {
     "word": "破産",
     "reading": "はさん",
-    "meaning": "(personal) bankruptcy"
+    "meaning": "(pribadi) kebangkrutan"
    },
    {
     "word": "破る",
     "reading": "やぶる",
-    "meaning": "to tear,to violate,to defeat,to smash,to destroy"
+    "meaning": "merobek, melanggar, mengalahkan, menghancurkan, menghancurkan"
    }
   ]
  },
@@ -11773,12 +11773,12 @@ export const kanjiN3 = [
    {
     "word": "お互い",
     "reading": "おたがい",
-    "meaning": "mutual,reciprocal,each other"
+    "meaning": "saling, timbal balik, satu sama lain"
    },
    {
     "word": "互い",
     "reading": "たがい",
-    "meaning": "mutual,reciprocal"
+    "meaning": "saling, timbal balik"
    }
   ]
  },
@@ -11808,12 +11808,12 @@ export const kanjiN3 = [
    {
     "word": "彼女",
     "reading": "かのじょ",
-    "meaning": "she,girlfriend"
+    "meaning": "dia, pacar"
    },
    {
     "word": "彼等",
     "reading": "かれら",
-    "meaning": "they (usually male)"
+    "meaning": "mereka (biasanya laki-laki)"
    }
   ]
  },
@@ -11838,7 +11838,7 @@ export const kanjiN3 = [
    {
     "word": "恥ずかしい",
     "reading": "はずかしい",
-    "meaning": "embarrassed"
+    "meaning": "malu"
    }
   ]
  },
@@ -11867,17 +11867,17 @@ export const kanjiN3 = [
    {
     "word": "払う",
     "reading": "はらう",
-    "meaning": "to pay"
+    "meaning": "untuk membayar"
    },
    {
     "word": "支払",
     "reading": "しはらい",
-    "meaning": "payment"
+    "meaning": "pembayaran"
    },
    {
     "word": "支払う",
     "reading": "しはらう",
-    "meaning": "to pay"
+    "meaning": "untuk membayar"
    }
   ]
  },
@@ -11903,17 +11903,17 @@ export const kanjiN3 = [
    {
     "word": "お見舞い",
     "reading": "おみまい",
-    "meaning": "calling on someone who is ill,enquiry"
+    "meaning": "memanggil seseorang yang sakit, bertanya"
    },
    {
     "word": "舞台",
     "reading": "ぶたい",
-    "meaning": "stage (theatre)"
+    "meaning": "panggung (teater)"
    },
    {
     "word": "見舞い",
     "reading": "みまい",
-    "meaning": "enquiry,expression of sympathy,expression of concern"
+    "meaning": "pertanyaan, ekspresi simpati, ekspresi keprihatinan"
    }
   ]
  },
@@ -11937,17 +11937,17 @@ export const kanjiN3 = [
    {
     "word": "頼む",
     "reading": "たのむ",
-    "meaning": "to ask"
+    "meaning": "untuk bertanya"
    },
    {
     "word": "信頼",
     "reading": "しんらい",
-    "meaning": "reliance,trust,confidence"
+    "meaning": "ketergantungan, kepercayaan, keyakinan"
    },
    {
     "word": "依頼",
     "reading": "いらい",
-    "meaning": "(1) request,commission,dispatch,(2) dependence,trust"
+    "meaning": "(1) permintaan, komisi, pengiriman, (2) ketergantungan, kepercayaan"
    }
   ]
  },
@@ -11974,12 +11974,12 @@ export const kanjiN3 = [
    {
     "word": "戻る",
     "reading": "もどる",
-    "meaning": "to turn back"
+    "meaning": "untuk kembali"
    },
    {
     "word": "戻す",
     "reading": "もどす",
-    "meaning": "to restore,to put back,to return"
+    "meaning": "untuk memulihkan, untuk mengembalikan, untuk mengembalikan"
    }
   ]
  },
@@ -12004,12 +12004,12 @@ export const kanjiN3 = [
    {
     "word": "抱える",
     "reading": "かかえる",
-    "meaning": "to hold or carry under or in the arms"
+    "meaning": "untuk memegang atau membawa di bawah atau di lengan"
    },
    {
     "word": "抱く",
     "reading": "いだく",
-    "meaning": "(sl) to embrace,to hug,to harbour,to entertain"
+    "meaning": "(sl) memeluk, memeluk, berlabuh, menghibur"
    }
   ]
  },
@@ -12038,7 +12038,7 @@ export const kanjiN3 = [
    {
     "word": "一緒",
     "reading": "いっしょ",
-    "meaning": "together"
+    "meaning": "bersama"
    }
   ]
  },
@@ -12066,7 +12066,7 @@ export const kanjiN3 = [
    {
     "word": "逃げる",
     "reading": "にげる",
-    "meaning": "to escape"
+    "meaning": "untuk melarikan diri"
    }
   ]
  },
@@ -12092,17 +12092,17 @@ export const kanjiN3 = [
    {
     "word": "朝御飯",
     "reading": "あさごはん",
-    "meaning": "breakfast"
+    "meaning": "sarapan"
    },
    {
     "word": "昼御飯",
     "reading": "ひるごはん",
-    "meaning": "midday meal"
+    "meaning": "makan siang"
    },
    {
     "word": "御飯",
     "reading": "ごはん",
-    "meaning": "cooked rice,meal"
+    "meaning": "nasi, makan"
    }
   ]
  },
@@ -12127,7 +12127,7 @@ export const kanjiN3 = [
    {
     "word": "吹く",
     "reading": "ふく",
-    "meaning": "to blow"
+    "meaning": "untuk meniup"
    }
   ]
  },
@@ -12152,7 +12152,7 @@ export const kanjiN3 = [
    {
     "word": "到着",
     "reading": "とうちゃく",
-    "meaning": "arrival"
+    "meaning": "kedatangan"
    }
   ]
  },
@@ -12173,7 +12173,7 @@ export const kanjiN3 = [
    {
     "word": "髪の毛",
     "reading": "かみのけ",
-    "meaning": "hair (head)"
+    "meaning": "rambut (kepala)"
    }
   ]
  },
@@ -12198,12 +12198,12 @@ export const kanjiN3 = [
    {
     "word": "疲れる",
     "reading": "つかれる",
-    "meaning": "to get tired"
+    "meaning": "menjadi lelah"
    },
    {
     "word": "疲れ",
     "reading": "つかれ",
-    "meaning": "tiredness,fatigue"
+    "meaning": "kelelahan, kelelahan"
    }
   ]
  },
@@ -12230,7 +12230,7 @@ export const kanjiN3 = [
    {
     "word": "二十歳",
     "reading": "はたち",
-    "meaning": "20 years old,20th year"
+    "meaning": "20 tahun, tahun ke 20"
    }
   ]
  },
@@ -12255,12 +12255,12 @@ export const kanjiN3 = [
    {
     "word": "偶々",
     "reading": "たまたま",
-    "meaning": "casually,unexpectedly,accidentally,by chance"
+    "meaning": "dengan santai, tanpa diduga, secara tidak sengaja, secara kebetulan"
    },
    {
     "word": "偶然",
     "reading": "ぐうぜん",
-    "meaning": "(by) chance,unexpectedly,suddenly"
+    "meaning": "(secara) kebetulan, tanpa diduga, tiba-tiba"
    }
   ]
  },
@@ -12286,7 +12286,7 @@ export const kanjiN3 = [
    {
     "word": "偉大",
     "reading": "いだい",
-    "meaning": "greatness"
+    "meaning": "kebesaran"
    }
   ]
  },
@@ -12313,12 +12313,12 @@ export const kanjiN3 = [
    {
     "word": "頂上",
     "reading": "ちょうじょう",
-    "meaning": "top,summit,peak"
+    "meaning": "puncak, puncak, puncak"
    },
    {
     "word": "頂く",
     "reading": "いただく",
-    "meaning": "to receive,to take food or drink (hum)"
+    "meaning": "untuk menerima, mengambil makanan atau minuman (bersenandung)"
    }
   ]
  }

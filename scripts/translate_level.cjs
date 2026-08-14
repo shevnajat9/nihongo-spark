@@ -37,6 +37,20 @@ async function translateText(text) {
   return text;
 }
 
+// Konkurensi terbatas: 4 terbukti kena rate-limit Google (429 → retry lama),
+// 1–2 paling stabil. Kegagalan per-item tidak fatal (resume di run berikutnya).
+const CONCURRENCY = 2;
+
+async function mapConcurrent(items, fn) {
+  const results = [];
+  for (let i = 0; i < items.length; i += CONCURRENCY) {
+    const chunk = items.slice(i, i + CONCURRENCY);
+    results.push(...(await Promise.all(chunk.map(fn))));
+    await sleep(40);
+  }
+  return results;
+}
+
 function loadJsArray(file) {
   const raw = fs.readFileSync(file, 'utf-8');
   const start = raw.indexOf('[');
@@ -51,53 +65,47 @@ function writeJsArray(file, arr, exportName) {
 async function translateVocab(lv) {
   const file = path.join(DATA, `vocab_${lv}.js`);
   const { arr, exportName } = loadJsArray(file);
-  let done = 0, skipped = 0;
-  for (const v of arr) {
-    if (!isAscii(v.meaning)) { skipped++; continue; }
+  const work = arr.filter((v) => isAscii(v.meaning));
+  await mapConcurrent(work, async (v) => {
     v.meaning = await translateText(v.meaning);
-    done++;
-    await sleep(80);
-  }
+  });
   writeJsArray(file, arr, exportName);
-  console.log(`vocab ${lv.toUpperCase()}: ${done} diterjemahkan, ${skipped} sudah ID`);
+  console.log(`vocab ${lv.toUpperCase()}: ${work.length} diterjemahkan, ${arr.length - work.length} sudah ID`);
 }
 
 async function translateKanji(lv) {
   const file = path.join(DATA, `kanji_${lv}.js`);
   const { arr, exportName } = loadJsArray(file);
-  let done = 0, skipped = 0;
-  for (const k of arr) {
-    const newMeanings = [];
-    for (const m of k.meanings || []) {
-      if (!isAscii(m)) { newMeanings.push(m); skipped++; continue; }
-      newMeanings.push(await translateText(m));
-      done++;
-      await sleep(60);
-    }
-    k.meanings = newMeanings;
-  }
+  const work = [];
+  arr.forEach((k) => {
+    k.meanings.forEach((m, i) => {
+      if (isAscii(m)) work.push({ k, i, m });
+    });
+  });
+  await mapConcurrent(work, async (item) => {
+    item.k.meanings[item.i] = await translateText(item.m);
+  });
   writeJsArray(file, arr, exportName);
-  console.log(`kanji ${lv.toUpperCase()}: ${done} arti diterjemahkan, ${skipped} sudah ID`);
+  console.log(`kanji ${lv.toUpperCase()}: ${work.length} arti diterjemahkan`);
 }
 
 async function translateGrammar(lv) {
   const file = path.join(DATA, `grammar_${lv}.js`);
   const { arr, exportName } = loadJsArray(file);
-  let done = 0, skipped = 0;
-  for (const g of arr) {
-    if (isAscii(g.explanation)) { g.explanation = await translateText(g.explanation); done++; }
-    else skipped++;
-    if (isAscii(g.structure)) { g.structure = await translateText(g.structure); done++; }
-    else skipped++;
-    await sleep(60);
-    for (const ex of g.examples || []) {
-      if (isAscii(ex.meaning)) { ex.meaning = await translateText(ex.meaning); done++; }
-      else skipped++;
-      await sleep(60);
-    }
-  }
+  const work = [];
+  arr.forEach((g) => {
+    if (isAscii(g.explanation)) work.push({ g, field: 'explanation' });
+    if (isAscii(g.structure)) work.push({ g, field: 'structure' });
+    (g.examples || []).forEach((ex) => {
+      if (isAscii(ex.meaning)) work.push({ ex, field: 'meaning' });
+    });
+  });
+  await mapConcurrent(work, async (item) => {
+    if (item.ex) item.ex.meaning = await translateText(item.ex.meaning);
+    else item.g[item.field] = await translateText(item.g[item.field]);
+  });
   writeJsArray(file, arr, exportName);
-  console.log(`grammar ${lv.toUpperCase()}: ${done} teks diterjemahkan, ${skipped} sudah ID`);
+  console.log(`grammar ${lv.toUpperCase()}: ${work.length} teks diterjemahkan`);
 }
 
 async function main() {
@@ -114,7 +122,12 @@ async function main() {
   console.log('Selesai.');
 }
 
-main().catch((e) => {
-  console.error('GAGAL:', e.message);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch((e) => {
+    console.error('GAGAL:', e.message);
+    process.exit(1);
+  });
+}
+
+// Dipakai ulang oleh translate_leftovers.cjs
+module.exports = { translateText, mapConcurrent, isAscii };

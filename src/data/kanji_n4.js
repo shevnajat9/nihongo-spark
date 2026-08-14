@@ -23,17 +23,17 @@ export const kanjiN4 = [
    {
     "word": "協力",
     "reading": "きょうりょく",
-    "meaning": "cooperation,collaboration"
+    "meaning": "kerjasama, kolaborasi"
    },
    {
     "word": "能力",
     "reading": "のうりょく",
-    "meaning": "ability,faculty"
+    "meaning": "kemampuan, fakultas"
    },
    {
     "word": "強力",
     "reading": "きょうりょく",
-    "meaning": "herculean strength,mountain carrier-guide"
+    "meaning": "kekuatan raksasa, pemandu pembawa gunung"
    }
   ]
  },
@@ -55,17 +55,17 @@ export const kanjiN4 = [
    {
     "word": "出口",
     "reading": "でぐち",
-    "meaning": "exit"
+    "meaning": "KELUAR"
    },
    {
     "word": "入口",
     "reading": "いりぐち",
-    "meaning": "entrance"
+    "meaning": "pintu masuk"
    },
    {
     "word": "人口",
     "reading": "じんこう",
-    "meaning": "population"
+    "meaning": "populasi"
    }
   ]
  },
@@ -88,12 +88,12 @@ export const kanjiN4 = [
    {
     "word": "工場",
     "reading": "こうじょう",
-    "meaning": "factory"
+    "meaning": "pabrik"
    },
    {
     "word": "工業",
     "reading": "こうぎょう",
-    "meaning": "the manufacturing industry"
+    "meaning": "industri manufaktur"
    },
    {
     "word": "人工",
@@ -124,12 +124,12 @@ export const kanjiN4 = [
    {
     "word": "夕飯",
     "reading": "ゆうはん",
-    "meaning": "dinner"
+    "meaning": "makan malam"
    },
    {
     "word": "夕べ",
     "reading": "ゆうべ",
-    "meaning": "evening"
+    "meaning": "malam"
    }
   ]
  },
@@ -159,12 +159,12 @@ export const kanjiN4 = [
    {
     "word": "下手",
     "reading": "へた",
-    "meaning": "tidak terampil"
+    "meaning": "tidak licin"
    },
    {
     "word": "お手洗い",
     "reading": "おてあらい",
-    "meaning": "bathroom"
+    "meaning": "kamar mandi"
    }
   ]
  },
@@ -199,12 +199,12 @@ export const kanjiN4 = [
    {
     "word": "文章",
     "reading": "ぶんしょう",
-    "meaning": "sentence,text"
+    "meaning": "kalimat, teks"
    },
    {
     "word": "文学",
     "reading": "ぶんがく",
-    "meaning": "literatur"
+    "meaning": "sastra"
    }
   ]
  },
@@ -226,7 +226,7 @@ export const kanjiN4 = [
    {
     "word": "犬",
     "reading": "いぬ",
-    "meaning": "dog"
+    "meaning": "anjing"
    }
   ]
  },
@@ -254,7 +254,7 @@ export const kanjiN4 = [
    {
     "word": "正しい",
     "reading": "ただしい",
-    "meaning": "correct"
+    "meaning": "benar"
    },
    {
     "word": "修正",
@@ -264,7 +264,7 @@ export const kanjiN4 = [
    {
     "word": "正確",
     "reading": "せいかく",
-    "meaning": "accurate,punctuality,exactness,authenticity,veracity"
+    "meaning": "akurat, ketepatan waktu, ketepatan, keaslian, kebenaran"
    }
   ]
  },
@@ -286,7 +286,7 @@ export const kanjiN4 = [
    {
     "word": "田舎",
     "reading": "いなか",
-    "meaning": "countryside"
+    "meaning": "pedesaan"
    }
   ]
  },
@@ -321,12 +321,12 @@ export const kanjiN4 = [
    {
     "word": "目的",
     "reading": "もくてき",
-    "meaning": "purpose,goal,aim,objective,intention"
+    "meaning": "maksud, sasaran, sasaran, sasaran, niat"
    },
    {
     "word": "駄目",
     "reading": "だめ",
-    "meaning": "useless,no good,hopeless"
+    "meaning": "tidak berguna, tidak bagus, tidak ada harapan"
    }
   ]
  },
@@ -361,17 +361,17 @@ export const kanjiN4 = [
    {
     "word": "立つ",
     "reading": "たつ",
-    "meaning": "to stand"
+    "meaning": "untuk berdiri"
    },
    {
     "word": "役に立つ",
     "reading": "やくにたつ",
-    "meaning": "to be helpful"
+    "meaning": "untuk membantu"
    },
    {
     "word": "立てる",
     "reading": "たてる",
-    "meaning": "to stand something up"
+    "meaning": "untuk berdiri sesuatu"
    }
   ]
  },
@@ -395,7 +395,7 @@ export const kanjiN4 = [
    {
     "word": "元気",
     "reading": "げんき",
-    "meaning": "health, vitality"
+    "meaning": "kesehatan, vitalitas"
    }
   ]
  },
@@ -420,7 +420,7 @@ export const kanjiN4 = [
    {
     "word": "公園",
     "reading": "こうえん",
-    "meaning": "park"
+    "meaning": "taman"
    },
    {
     "word": "公務員",
@@ -430,7 +430,7 @@ export const kanjiN4 = [
    {
     "word": "公平",
     "reading": "こうへい",
-    "meaning": "fairness,impartial,justice"
+    "meaning": "keadilan, tidak memihak, keadilan"
    }
   ]
  },
@@ -463,17 +463,17 @@ export const kanjiN4 = [
    {
     "word": "切符",
     "reading": "きっぷ",
-    "meaning": "ticket"
+    "meaning": "tiket"
    },
    {
     "word": "大切",
     "reading": "たいせつ",
-    "meaning": "important"
+    "meaning": "penting"
    },
    {
     "word": "切る",
     "reading": "きる",
-    "meaning": "to cut"
+    "meaning": "untuk memotong"
    }
   ]
  },
@@ -501,7 +501,7 @@ export const kanjiN4 = [
    {
     "word": "少ない",
     "reading": "すくない",
-    "meaning": "a few"
+    "meaning": "beberapa"
    },
    {
     "word": "少年",
@@ -531,12 +531,12 @@ export const kanjiN4 = [
    {
     "word": "心配",
     "reading": "しんぱい・する",
-    "meaning": "to worry"
+    "meaning": "khawatir"
    },
    {
     "word": "安心",
     "reading": "あんしん",
-    "meaning": "relief"
+    "meaning": "lega"
    },
    {
     "word": "関心",
@@ -576,7 +576,7 @@ export const kanjiN4 = [
    {
     "word": "両方",
     "reading": "りょうほう",
-    "meaning": "both sides"
+    "meaning": "kedua sisi"
    }
   ]
  },
@@ -597,12 +597,12 @@ export const kanjiN4 = [
    {
     "word": "牛肉",
     "reading": "ぎゅうにく",
-    "meaning": "beef"
+    "meaning": "daging sapi"
    },
    {
     "word": "牛乳",
     "reading": "ぎゅうにゅう",
-    "meaning": "milk"
+    "meaning": "susu"
    }
   ]
  },
@@ -637,17 +637,17 @@ export const kanjiN4 = [
    {
     "word": "止まる",
     "reading": "とまる",
-    "meaning": "to come to a halt"
+    "meaning": "untuk berhenti"
    },
    {
     "word": "止む",
     "reading": "やむ",
-    "meaning": "to stop"
+    "meaning": "untuk berhenti"
    },
    {
     "word": "止める",
     "reading": "とめる",
-    "meaning": "to stop something"
+    "meaning": "untuk menghentikan sesuatu"
    }
   ]
  },
@@ -670,17 +670,17 @@ export const kanjiN4 = [
    {
     "word": "お兄さん",
     "reading": "おにいさん",
-    "meaning": "(honorable) older brother"
+    "meaning": "(terhormat) kakak laki-laki"
    },
    {
     "word": "兄弟",
     "reading": "きょうだい",
-    "meaning": "(humble) siblings"
+    "meaning": "(rendah hati) saudara kandung"
    },
    {
     "word": "従兄弟",
     "reading": "いとこ",
-    "meaning": "cousin (male)"
+    "meaning": "sepupu (laki-laki)"
    }
   ]
  },
@@ -701,7 +701,7 @@ export const kanjiN4 = [
    {
     "word": "冬",
     "reading": "ふゆ",
-    "meaning": "winter"
+    "meaning": "musim dingin"
    }
   ]
  },
@@ -724,12 +724,12 @@ export const kanjiN4 = [
    {
     "word": "古い",
     "reading": "ふるい",
-    "meaning": "old (not used for people)"
+    "meaning": "tua (tidak digunakan untuk orang)"
    },
    {
     "word": "中古",
     "reading": "ちゅうこ",
-    "meaning": "(1) used,second-hand,old"
+    "meaning": "(1) bekas, bekas, lama"
    }
   ]
  },
@@ -760,12 +760,12 @@ export const kanjiN4 = [
    {
     "word": "台風",
     "reading": "たいふう",
-    "meaning": "typhoon"
+    "meaning": "topan"
    },
    {
     "word": "舞台",
     "reading": "ぶたい",
-    "meaning": "stage (theatre)"
+    "meaning": "panggung (teater)"
    }
   ]
  },
@@ -792,17 +792,17 @@ export const kanjiN4 = [
    {
     "word": "広い",
     "reading": "ひろい",
-    "meaning": "spacious,wide"
+    "meaning": "luas, lebar"
    },
    {
     "word": "背広",
     "reading": "せびろ",
-    "meaning": "business suit"
+    "meaning": "setelan bisnis"
    },
    {
     "word": "広告",
     "reading": "こうこく",
-    "meaning": "advertisement"
+    "meaning": "iklan"
    }
   ]
  },
@@ -827,17 +827,17 @@ export const kanjiN4 = [
    {
     "word": "利用",
     "reading": "りよう",
-    "meaning": "utilization"
+    "meaning": "pemanfaatan"
    },
    {
     "word": "用意",
     "reading": "ようい",
-    "meaning": "preparation"
+    "meaning": "persiapan"
    },
    {
     "word": "用事",
     "reading": "ようじ",
-    "meaning": "things to do"
+    "meaning": "hal yang harus dilakukan"
    }
   ]
  },
@@ -873,7 +873,7 @@ export const kanjiN4 = [
    {
     "word": "世紀",
     "reading": "せいき",
-    "meaning": "century,era"
+    "meaning": "abad, era"
    }
   ]
  },
@@ -902,17 +902,17 @@ export const kanjiN4 = [
    {
     "word": "御主人",
     "reading": "ごしゅじん",
-    "meaning": "(honorable) your husband"
+    "meaning": "(terhormat) suamimu"
    },
    {
     "word": "主義",
     "reading": "しゅぎ",
-    "meaning": "doctrine,rule,principle"
+    "meaning": "doktrin, aturan, prinsip"
    },
    {
     "word": "主婦",
     "reading": "しゅふ",
-    "meaning": "housewife,mistress"
+    "meaning": "ibu rumah tangga, nyonya"
    }
   ]
  },
@@ -962,7 +962,7 @@ export const kanjiN4 = [
    {
     "word": "代理",
     "reading": "だいり",
-    "meaning": "representation,agency,proxy,deputy,agent"
+    "meaning": "perwakilan, lembaga, kuasa, wakil, agen"
    }
   ]
  },
@@ -989,12 +989,12 @@ export const kanjiN4 = [
    {
     "word": "写真",
     "reading": "しゃしん",
-    "meaning": "photograph"
+    "meaning": "foto"
    },
    {
     "word": "写す",
     "reading": "うつす",
-    "meaning": "to copy or photograph"
+    "meaning": "untuk menyalin atau memotret"
    }
   ]
  },
@@ -1023,7 +1023,7 @@ export const kanjiN4 = [
    {
     "word": "去年",
     "reading": "きょねん",
-    "meaning": "last year"
+    "meaning": "tahun lalu"
    },
    {
     "word": "去る",
@@ -1033,7 +1033,7 @@ export const kanjiN4 = [
    {
     "word": "過去",
     "reading": "かこ",
-    "meaning": "the past,bygone days,the previous"
+    "meaning": "masa lalu, masa lalu, masa lalu"
    }
   ]
  },
@@ -1059,17 +1059,17 @@ export const kanjiN4 = [
    {
     "word": "漢字",
     "reading": "かんじ",
-    "meaning": "Chinese character"
+    "meaning": "karakter Cina"
    },
    {
     "word": "字引",
     "reading": "じびき",
-    "meaning": "dictionary"
+    "meaning": "kamus"
    },
    {
     "word": "文字",
     "reading": "もじ",
-    "meaning": "letter (of alphabet),character"
+    "meaning": "huruf (abjad), karakter"
    }
   ]
  },
@@ -1097,7 +1097,7 @@ export const kanjiN4 = [
    {
     "word": "早い",
     "reading": "はやい",
-    "meaning": "early"
+    "meaning": "lebih awal"
    },
    {
     "word": "早める",
@@ -1126,7 +1126,7 @@ export const kanjiN4 = [
    {
     "word": "町",
     "reading": "まち",
-    "meaning": "town,city"
+    "meaning": "kota, kota"
    }
   ]
  },
@@ -1189,12 +1189,12 @@ export const kanjiN4 = [
    {
     "word": "赤ん坊",
     "reading": "あかんぼう",
-    "meaning": "baby"
+    "meaning": "Sayang"
    },
    {
     "word": "真っ赤",
     "reading": "まっか",
-    "meaning": "deep red,flushed (of face)"
+    "meaning": "merah tua, memerah (wajah)"
    }
   ]
  },
@@ -1221,17 +1221,17 @@ export const kanjiN4 = [
    {
     "word": "足す",
     "reading": "たす",
-    "meaning": "to add a number"
+    "meaning": "untuk menambahkan nomor"
    },
    {
     "word": "足りる",
     "reading": "たりる",
-    "meaning": "to be enough"
+    "meaning": "menjadi cukup"
    },
    {
     "word": "満足",
     "reading": "まんぞく",
-    "meaning": "satisfaction"
+    "meaning": "kepuasan"
    }
   ]
  },
@@ -1255,17 +1255,17 @@ export const kanjiN4 = [
    {
     "word": "不便",
     "reading": "ふべん",
-    "meaning": "inconvenience"
+    "meaning": "ketidaknyamanan"
    },
    {
     "word": "不平",
     "reading": "ふへい",
-    "meaning": "complaint,discontent,dissatisfaction"
+    "meaning": "keluhan, ketidakpuasan, ketidakpuasan"
    },
    {
     "word": "不満",
     "reading": "ふまん",
-    "meaning": "dissatisfaction,displeasure,discontent,complaints,unhappiness"
+    "meaning": "ketidakpuasan, ketidaksenangan, ketidakpuasan, keluhan, ketidakbahagiaan"
    }
   ]
  },
@@ -1290,7 +1290,7 @@ export const kanjiN4 = [
    {
     "word": "仕事",
     "reading": "しごと",
-    "meaning": "job"
+    "meaning": "pekerjaan"
    },
    {
     "word": "仕方",
@@ -1334,12 +1334,12 @@ export const kanjiN4 = [
    {
     "word": "会う",
     "reading": "あう",
-    "meaning": "to meet"
+    "meaning": "untuk bertemu"
    },
    {
     "word": "会話",
     "reading": "かいわ",
-    "meaning": "percakapan"
+    "meaning": "Percakapan"
    }
   ]
  },
@@ -1362,17 +1362,17 @@ export const kanjiN4 = [
    {
     "word": "同じ",
     "reading": "おなじ",
-    "meaning": "same"
+    "meaning": "sama"
    },
    {
     "word": "同一",
     "reading": "どういつ",
-    "meaning": "identity,sameness,similarity"
+    "meaning": "identitas, kesamaan, kesamaan"
    },
    {
     "word": "共同",
     "reading": "きょうどう",
-    "meaning": "cooperation,association,collaboration,joint"
+    "meaning": "kerjasama, asosiasi, kolaborasi, bersama"
    }
   ]
  },
@@ -1397,17 +1397,17 @@ export const kanjiN4 = [
    {
     "word": "多い",
     "reading": "おおい",
-    "meaning": "many"
+    "meaning": "banyak"
    },
    {
     "word": "多少",
     "reading": "たしょう",
-    "meaning": "more or less,somewhat,a little,some"
+    "meaning": "kurang lebih,agak,sedikit,beberapa"
    },
    {
     "word": "滅多に",
     "reading": "めったに",
-    "meaning": "rarely (with neg. verb),seldom"
+    "meaning": "jarang (dengan kata kerja neg.),jarang"
    }
   ]
  },
@@ -1430,17 +1430,17 @@ export const kanjiN4 = [
    {
     "word": "考える",
     "reading": "かんがえる",
-    "meaning": "to consider"
+    "meaning": "untuk dipertimbangkan"
    },
    {
     "word": "参考",
     "reading": "さんこう",
-    "meaning": "reference,consultation"
+    "meaning": "referensi, konsultasi"
    },
    {
     "word": "考え",
     "reading": "かんがえ",
-    "meaning": "thinking,thought,ideas,intention"
+    "meaning": "berpikir,pikiran,ide,niat"
    }
   ]
  },
@@ -1461,17 +1461,17 @@ export const kanjiN4 = [
    {
     "word": "豚肉",
     "reading": "ぶたにく",
-    "meaning": "pork"
+    "meaning": "babi"
    },
    {
     "word": "牛肉",
     "reading": "ぎゅうにく",
-    "meaning": "beef"
+    "meaning": "daging sapi"
    },
    {
     "word": "とり肉",
     "reading": "とりにく",
-    "meaning": "chicken meat"
+    "meaning": "daging ayam"
    }
   ]
  },
@@ -1495,17 +1495,17 @@ export const kanjiN4 = [
    {
     "word": "自分",
     "reading": "じぶん",
-    "meaning": "oneself"
+    "meaning": "diri"
    },
    {
     "word": "自転車",
     "reading": "じてんしゃ",
-    "meaning": "bicycle"
+    "meaning": "sepeda"
    },
    {
     "word": "自動車",
     "reading": "じどうしゃ",
-    "meaning": "automobile"
+    "meaning": "mobil"
    }
   ]
  },
@@ -1527,17 +1527,17 @@ export const kanjiN4 = [
    {
     "word": "茶色",
     "reading": "ちゃいろ",
-    "meaning": "cokelat"
+    "meaning": "coklat"
    },
    {
     "word": "黄色",
     "reading": "きいろ",
-    "meaning": "yellow"
+    "meaning": "kuning"
    },
    {
     "word": "黄色い",
     "reading": "きいろい",
-    "meaning": "yellow"
+    "meaning": "kuning"
    }
   ]
  },
@@ -1569,12 +1569,12 @@ export const kanjiN4 = [
    {
     "word": "身体",
     "reading": "しんたい",
-    "meaning": "the body"
+    "meaning": "tubuh"
    },
    {
     "word": "体温",
     "reading": "たいおん",
-    "meaning": "temperature (body)"
+    "meaning": "suhu (tubuh)"
    }
   ]
  },
@@ -1611,7 +1611,7 @@ export const kanjiN4 = [
    {
     "word": "作品",
     "reading": "さくひん",
-    "meaning": "work,opus,performance,production"
+    "meaning": "pekerjaan, karya, pertunjukan, produksi"
    }
   ]
  },
@@ -1638,12 +1638,12 @@ export const kanjiN4 = [
    {
     "word": "地図",
     "reading": "ちず",
-    "meaning": "map"
+    "meaning": "peta"
    },
    {
     "word": "図書館",
     "reading": "としょかん",
-    "meaning": "library"
+    "meaning": "perpustakaan"
    },
    {
     "word": "合図",
@@ -1675,7 +1675,7 @@ export const kanjiN4 = [
    {
     "word": "売り場",
     "reading": "うりば",
-    "meaning": "place where things are sold"
+    "meaning": "tempat di mana barang-barang dijual"
    },
    {
     "word": "売れる",
@@ -1704,12 +1704,12 @@ export const kanjiN4 = [
    {
     "word": "兄弟",
     "reading": "きょうだい",
-    "meaning": "(humble) siblings"
+    "meaning": "(rendah hati) saudara kandung"
    },
    {
     "word": "従兄弟",
     "reading": "いとこ",
-    "meaning": "cousin (male)"
+    "meaning": "sepupu (laki-laki)"
    }
   ]
  },
@@ -1744,7 +1744,7 @@ export const kanjiN4 = [
    {
     "word": "社会",
     "reading": "しゃかい",
-    "meaning": "society,public"
+    "meaning": "masyarakat, publik"
    }
   ]
  },
@@ -1773,12 +1773,12 @@ export const kanjiN4 = [
    {
     "word": "言葉",
     "reading": "ことば",
-    "meaning": "word,language"
+    "meaning": "kata, bahasa"
    },
    {
     "word": "言わば",
     "reading": "いわば",
-    "meaning": "so to speak"
+    "meaning": "bisa dikatakan begitu"
    }
   ]
  },
@@ -1799,7 +1799,7 @@ export const kanjiN4 = [
    {
     "word": "走る",
     "reading": "はしる",
-    "meaning": "to run"
+    "meaning": "untuk berlari"
    },
    {
     "word": "ご馳走",
@@ -1834,12 +1834,12 @@ export const kanjiN4 = [
    {
     "word": "近い",
     "reading": "ちかい",
-    "meaning": "near"
+    "meaning": "di dekat"
    },
    {
     "word": "近所",
     "reading": "きんじょ",
-    "meaning": "neighbourhood"
+    "meaning": "lingkungan"
    }
   ]
  },
@@ -1876,12 +1876,12 @@ export const kanjiN4 = [
    {
     "word": "空く",
     "reading": "あく",
-    "meaning": "to open, to become empty"
+    "meaning": "untuk membuka, menjadi kosong"
    },
    {
     "word": "空港",
     "reading": "くうこう",
-    "meaning": "airport"
+    "meaning": "bandara"
    }
   ]
  },
@@ -1906,12 +1906,12 @@ export const kanjiN4 = [
    {
     "word": "青い",
     "reading": "あおい",
-    "meaning": "blue"
+    "meaning": "biru"
    },
    {
     "word": "青年",
     "reading": "せいねん",
-    "meaning": "youth,young man"
+    "meaning": "pemuda, anak muda"
    }
   ]
  },
@@ -1936,7 +1936,7 @@ export const kanjiN4 = [
    {
     "word": "音楽",
     "reading": "おんがく",
-    "meaning": "music"
+    "meaning": "musik"
    },
    {
     "word": "発音",
@@ -1946,7 +1946,7 @@ export const kanjiN4 = [
    {
     "word": "騒音",
     "reading": "そうおん",
-    "meaning": "noise"
+    "meaning": "kebisingan"
    }
   ]
  },
@@ -1972,12 +1972,12 @@ export const kanjiN4 = [
    {
     "word": "地図",
     "reading": "ちず",
-    "meaning": "map"
+    "meaning": "peta"
    },
    {
     "word": "地理",
     "reading": "ちり",
-    "meaning": "geography"
+    "meaning": "geografi"
    }
   ]
  },
@@ -2012,12 +2012,12 @@ export const kanjiN4 = [
    {
     "word": "安全",
     "reading": "あんぜん",
-    "meaning": "safety"
+    "meaning": "keamanan"
    },
    {
     "word": "安心",
     "reading": "あんしん",
-    "meaning": "relief"
+    "meaning": "lega"
    }
   ]
  },
@@ -2044,7 +2044,7 @@ export const kanjiN4 = [
    {
     "word": "有名",
     "reading": "ゆうめい",
-    "meaning": "famous"
+    "meaning": "terkenal"
    },
    {
     "word": "有効",
@@ -2054,7 +2054,7 @@ export const kanjiN4 = [
    {
     "word": "有能",
     "reading": "ゆうのう",
-    "meaning": "able,capable,efficient,skill"
+    "meaning": "mampu, mampu, efisien, keterampilan"
    }
   ]
  },
@@ -2077,17 +2077,17 @@ export const kanjiN4 = [
    {
     "word": "死ぬ",
     "reading": "しぬ",
-    "meaning": "to die"
+    "meaning": "untuk mati"
    },
    {
     "word": "必死",
     "reading": "ひっし",
-    "meaning": "inevitable death,desperation,frantic,inevitable result"
+    "meaning": "kematian yang tak terelakkan, keputusasaan, kepanikan, akibat yang tak terelakkan"
    },
    {
     "word": "死亡",
     "reading": "しぼう",
-    "meaning": "death,mortality"
+    "meaning": "kematian, kematian"
    }
   ]
  },
@@ -2111,7 +2111,7 @@ export const kanjiN4 = [
    {
     "word": "上京",
     "reading": "じょうきょう",
-    "meaning": "proceeding to the capital (Tokyo)"
+    "meaning": "melanjutkan ke ibukota (Tokyo)"
    }
   ]
  },
@@ -2134,17 +2134,17 @@ export const kanjiN4 = [
    {
     "word": "昨夜",
     "reading": "ゆうべ",
-    "meaning": "last night"
+    "meaning": "tadi malam"
    },
    {
     "word": "今夜",
     "reading": "こんや",
-    "meaning": "tonight"
+    "meaning": "malam ini"
    },
    {
     "word": "夜中",
     "reading": "よなか",
-    "meaning": "midnight,dead of night"
+    "meaning": "tengah malam, tengah malam"
    }
   ]
  },
@@ -2165,7 +2165,7 @@ export const kanjiN4 = [
    {
     "word": "姉妹",
     "reading": "しまい",
-    "meaning": "sisters"
+    "meaning": "saudara perempuan"
    },
    {
     "word": "従姉妹",
@@ -2192,12 +2192,12 @@ export const kanjiN4 = [
    {
     "word": "お姉さん",
     "reading": "おねえさん",
-    "meaning": "(honorable) older sister"
+    "meaning": "(terhormat) kakak perempuan"
    },
    {
     "word": "姉妹",
     "reading": "しまい",
-    "meaning": "sisters"
+    "meaning": "saudara perempuan"
    },
    {
     "word": "従姉妹",
@@ -2225,17 +2225,17 @@ export const kanjiN4 = [
    {
     "word": "喫茶店",
     "reading": "きっさてん",
-    "meaning": "coffee lounge"
+    "meaning": "ruang kopi"
    },
    {
     "word": "店員",
     "reading": "てんいん",
-    "meaning": "shop assistant"
+    "meaning": "asisten toko"
    },
    {
     "word": "支店",
     "reading": "してん",
-    "meaning": "branch store (office)"
+    "meaning": "toko cabang (kantor)"
    }
   ]
  },
@@ -2268,17 +2268,17 @@ export const kanjiN4 = [
    {
     "word": "明日",
     "reading": "あした",
-    "meaning": "tomorrow"
+    "meaning": "besok"
    },
    {
     "word": "明い",
     "reading": "あかるい",
-    "meaning": "bright"
+    "meaning": "terang"
    },
    {
     "word": "明日",
     "reading": "あす",
-    "meaning": "tomorrow"
+    "meaning": "besok"
    }
   ]
  },
@@ -2303,12 +2303,12 @@ export const kanjiN4 = [
    {
     "word": "散歩",
     "reading": "さんぽする",
-    "meaning": "to stroll"
+    "meaning": "untuk berjalan-jalan"
    },
    {
     "word": "歩く",
     "reading": "あるく",
-    "meaning": "to walk"
+    "meaning": "untuk berjalan"
    },
    {
     "word": "歩道",
@@ -2342,17 +2342,17 @@ export const kanjiN4 = [
    {
     "word": "映画",
     "reading": "えいが",
-    "meaning": "movie"
+    "meaning": "film"
    },
    {
     "word": "映画館",
     "reading": "えいがかん",
-    "meaning": "cinema"
+    "meaning": "bioskop"
    },
    {
     "word": "漫画",
     "reading": "まんが",
-    "meaning": "comic"
+    "meaning": "komik"
    }
   ]
  },
@@ -2375,7 +2375,7 @@ export const kanjiN4 = [
    {
     "word": "知る",
     "reading": "しる",
-    "meaning": "to know"
+    "meaning": "untuk mengetahui"
    },
    {
     "word": "知らせる",
@@ -2385,7 +2385,7 @@ export const kanjiN4 = [
    {
     "word": "承知",
     "reading": "しょうち・する",
-    "meaning": "to consent"
+    "meaning": "untuk menyetujui"
    }
   ]
  },
@@ -2410,7 +2410,7 @@ export const kanjiN4 = [
    {
     "word": "教室",
     "reading": "きょうしつ",
-    "meaning": "classroom"
+    "meaning": "kelas"
    },
    {
     "word": "研究室",
@@ -2420,7 +2420,7 @@ export const kanjiN4 = [
    {
     "word": "会議室",
     "reading": "かいぎしつ",
-    "meaning": "meeting room"
+    "meaning": "ruang pertemuan"
    }
   ]
  },
@@ -2448,7 +2448,7 @@ export const kanjiN4 = [
    {
     "word": "思い出す",
     "reading": "おもいだす",
-    "meaning": "to remember"
+    "meaning": "untuk diingat"
    },
    {
     "word": "意思",
@@ -2480,7 +2480,7 @@ export const kanjiN4 = [
    {
     "word": "海外",
     "reading": "かいがい",
-    "meaning": "foreign,abroad,overseas"
+    "meaning": "asing, luar negeri, luar negeri"
    },
    {
     "word": "海洋",
@@ -2510,12 +2510,12 @@ export const kanjiN4 = [
    {
     "word": "茶色",
     "reading": "ちゃいろ",
-    "meaning": "cokelat"
+    "meaning": "coklat"
    },
    {
     "word": "喫茶店",
     "reading": "きっさてん",
-    "meaning": "coffee lounge"
+    "meaning": "ruang kopi"
    }
   ]
  },
@@ -2549,7 +2549,7 @@ export const kanjiN4 = [
    {
     "word": "以内",
     "reading": "いない",
-    "meaning": "within"
+    "meaning": "di dalam"
    }
   ]
  },
@@ -2572,7 +2572,7 @@ export const kanjiN4 = [
    {
     "word": "夏休み",
     "reading": "なつやすみ",
-    "meaning": "summer holiday"
+    "meaning": "liburan musim panas"
    }
   ]
  },
@@ -2606,12 +2606,12 @@ export const kanjiN4 = [
    {
     "word": "家庭",
     "reading": "かてい",
-    "meaning": "household"
+    "meaning": "rumah tangga"
    },
    {
     "word": "家内",
     "reading": "かない",
-    "meaning": "housewife"
+    "meaning": "ibu rumah tangga"
    }
   ]
  },
@@ -2670,17 +2670,17 @@ export const kanjiN4 = [
    {
     "word": "通る",
     "reading": "とおる",
-    "meaning": "to go through"
+    "meaning": "untuk melewati"
    },
    {
     "word": "交通",
     "reading": "こうつう",
-    "meaning": "traffic,transportation"
+    "meaning": "lalu lintas, transportasi"
    },
    {
     "word": "普通",
     "reading": "ふつう",
-    "meaning": "usually, or a train that stops at every station"
+    "meaning": "biasanya, atau kereta yang berhenti di setiap stasiun"
    }
   ]
  },
@@ -2706,17 +2706,17 @@ export const kanjiN4 = [
    {
     "word": "勉強",
     "reading": "べんきょうする",
-    "meaning": "to study"
+    "meaning": "untuk belajar"
    },
    {
     "word": "強い",
     "reading": "つよい",
-    "meaning": "powerful"
+    "meaning": "kuat"
    },
    {
     "word": "勉強",
     "reading": "べんきょう",
-    "meaning": "study,diligence,discount,reduction"
+    "meaning": "belajar, ketekunan, diskon, pengurangan"
    }
   ]
  },
@@ -2740,17 +2740,17 @@ export const kanjiN4 = [
    {
     "word": "教える",
     "reading": "おしえる",
-    "meaning": "to teach,to tell"
+    "meaning": "untuk mengajar, untuk memberitahu"
    },
    {
     "word": "教室",
     "reading": "きょうしつ",
-    "meaning": "classroom"
+    "meaning": "kelas"
    },
    {
     "word": "教育",
     "reading": "きょういく",
-    "meaning": "education"
+    "meaning": "pendidikan"
    }
   ]
  },
@@ -2780,12 +2780,12 @@ export const kanjiN4 = [
    {
     "word": "無理",
     "reading": "むり",
-    "meaning": "mustahil"
+    "meaning": "tidak mungkin"
    },
    {
     "word": "理由",
     "reading": "りゆう",
-    "meaning": "reason"
+    "meaning": "alasan"
    }
   ]
  },
@@ -2809,12 +2809,12 @@ export const kanjiN4 = [
    {
     "word": "来週",
     "reading": "らいしゅう",
-    "meaning": "next week"
+    "meaning": "minggu depan"
    },
    {
     "word": "先週",
     "reading": "せんしゅう",
-    "meaning": "last week"
+    "meaning": "minggu lalu"
    }
   ]
  },
@@ -2837,7 +2837,7 @@ export const kanjiN4 = [
    {
     "word": "魚",
     "reading": "うお",
-    "meaning": "fish"
+    "meaning": "ikan"
    }
   ]
  },
@@ -2887,7 +2887,7 @@ export const kanjiN4 = [
    {
     "word": "黒板",
     "reading": "こくばん",
-    "meaning": "blackboard"
+    "meaning": "papan tulis"
    },
    {
     "word": "真っ黒",
@@ -2920,7 +2920,7 @@ export const kanjiN4 = [
    {
     "word": "住む",
     "reading": "すむ",
-    "meaning": "to live in"
+    "meaning": "untuk tinggal di"
    },
    {
     "word": "住所",
@@ -2930,7 +2930,7 @@ export const kanjiN4 = [
    {
     "word": "住民",
     "reading": "じゅうみん",
-    "meaning": "citizens,inhabitants,residents,population"
+    "meaning": "warga negara, penduduk, penduduk, populasi"
    }
   ]
  },
@@ -2954,7 +2954,7 @@ export const kanjiN4 = [
    {
     "word": "医者",
     "reading": "いしゃ",
-    "meaning": "medical doctor"
+    "meaning": "dokter medis"
    },
    {
     "word": "歯医者",
@@ -2964,7 +2964,7 @@ export const kanjiN4 = [
    {
     "word": "医学",
     "reading": "いがく",
-    "meaning": "medical science"
+    "meaning": "ilmu kedokteran"
    }
   ]
  },
@@ -2992,7 +2992,7 @@ export const kanjiN4 = [
    {
     "word": "研究",
     "reading": "けんきゅう",
-    "meaning": "research"
+    "meaning": "riset"
    }
   ]
  },
@@ -3014,7 +3014,7 @@ export const kanjiN4 = [
    {
     "word": "医者",
     "reading": "いしゃ",
-    "meaning": "medical doctor"
+    "meaning": "dokter medis"
    },
    {
     "word": "歯医者",
@@ -3024,7 +3024,7 @@ export const kanjiN4 = [
    {
     "word": "学者",
     "reading": "がくしゃ",
-    "meaning": "scholar"
+    "meaning": "sarjana"
    }
   ]
  },
@@ -3052,7 +3052,7 @@ export const kanjiN4 = [
    {
     "word": "研究",
     "reading": "けんきゅう",
-    "meaning": "research"
+    "meaning": "riset"
    }
   ]
  },
@@ -3075,17 +3075,17 @@ export const kanjiN4 = [
    {
     "word": "場合",
     "reading": "ばあい",
-    "meaning": "situation"
+    "meaning": "situasi"
    },
    {
     "word": "工場",
     "reading": "こうじょう",
-    "meaning": "factory"
+    "meaning": "pabrik"
    },
    {
     "word": "会場",
     "reading": "かいじょう",
-    "meaning": "assembly hall or meeting place"
+    "meaning": "balai pertemuan atau tempat pertemuan"
    }
   ]
  },
@@ -3116,12 +3116,12 @@ export const kanjiN4 = [
    {
     "word": "朝御飯",
     "reading": "あさごはん",
-    "meaning": "breakfast"
+    "meaning": "sarapan"
    },
    {
     "word": "今朝",
     "reading": "けさ",
-    "meaning": "this morning"
+    "meaning": "pagi ini"
    }
   ]
  },
@@ -3144,12 +3144,12 @@ export const kanjiN4 = [
    {
     "word": "答える",
     "reading": "こたえる",
-    "meaning": "to answer"
+    "meaning": "untuk menjawab"
    },
    {
     "word": "答案",
     "reading": "とうあん",
-    "meaning": "examination paper,examination script"
+    "meaning": "kertas ujian, naskah ujian"
    }
   ]
  },
@@ -3170,12 +3170,12 @@ export const kanjiN4 = [
    {
     "word": "買う",
     "reading": "かう",
-    "meaning": "to buy"
+    "meaning": "untuk membeli"
    },
    {
     "word": "買い物",
     "reading": "かいもの",
-    "meaning": "shopping"
+    "meaning": "belanja"
    }
   ]
  },
@@ -3204,12 +3204,12 @@ export const kanjiN4 = [
    {
     "word": "水道",
     "reading": "すいどう",
-    "meaning": "water supply"
+    "meaning": "persediaan air"
    },
    {
     "word": "道具",
     "reading": "どうぐ",
-    "meaning": "tool,means"
+    "meaning": "alat, sarana"
    },
    {
     "word": "柔道",
@@ -3241,17 +3241,17 @@ export const kanjiN4 = [
    {
     "word": "音楽",
     "reading": "おんがく",
-    "meaning": "music"
+    "meaning": "musik"
    },
    {
     "word": "楽しい",
     "reading": "たのしい",
-    "meaning": "enjoyable"
+    "meaning": "menyenangkan"
    },
    {
     "word": "楽む",
     "reading": "たのしむ",
-    "meaning": "to enjoy oneself"
+    "meaning": "untuk menikmati diri sendiri"
    }
   ]
  },
@@ -3280,7 +3280,7 @@ export const kanjiN4 = [
    {
     "word": "仕事",
     "reading": "しごと",
-    "meaning": "job"
+    "meaning": "pekerjaan"
    },
    {
     "word": "食事",
@@ -3320,17 +3320,17 @@ export const kanjiN4 = [
    {
     "word": "大使館",
     "reading": "たいしかん",
-    "meaning": "embassy"
+    "meaning": "kedutaan"
    },
    {
     "word": "使う",
     "reading": "つかう",
-    "meaning": "to use"
+    "meaning": "untuk digunakan"
    },
    {
     "word": "大使",
     "reading": "たいし",
-    "meaning": "ambassador"
+    "meaning": "duta besar"
    }
   ]
  },
@@ -3359,12 +3359,12 @@ export const kanjiN4 = [
    {
     "word": "初め/始め",
     "reading": "はじめ",
-    "meaning": "beginning"
+    "meaning": "awal"
    },
    {
     "word": "始める",
     "reading": "はじめる",
-    "meaning": "to begin"
+    "meaning": "untuk memulai"
    }
   ]
  },
@@ -3386,17 +3386,17 @@ export const kanjiN4 = [
    {
     "word": "洋服",
     "reading": "ようふく",
-    "meaning": "western-style clothes"
+    "meaning": "pakaian gaya barat"
    },
    {
     "word": "衣服",
     "reading": "いふく",
-    "meaning": "clothes"
+    "meaning": "pakaian"
    },
    {
     "word": "服装",
     "reading": "ふくそう",
-    "meaning": "garments"
+    "meaning": "pakaian"
    }
   ]
  },
@@ -3426,12 +3426,12 @@ export const kanjiN4 = [
    {
     "word": "果物",
     "reading": "くだもの",
-    "meaning": "fruit"
+    "meaning": "buah"
    },
    {
     "word": "動物",
     "reading": "どうぶつ",
-    "meaning": "animal"
+    "meaning": "hewan"
    }
   ]
  },
@@ -3456,17 +3456,17 @@ export const kanjiN4 = [
    {
     "word": "部屋",
     "reading": "へや",
-    "meaning": "room"
+    "meaning": "ruang"
    },
    {
     "word": "八百屋",
     "reading": "やおや",
-    "meaning": "greengrocer"
+    "meaning": "penjual sayur"
    },
    {
     "word": "屋上",
     "reading": "おくじょう",
-    "meaning": "rooftop"
+    "meaning": "atap"
    }
   ]
  },
@@ -3495,7 +3495,7 @@ export const kanjiN4 = [
    {
     "word": "もう一度",
     "reading": "もういちど",
-    "meaning": "again"
+    "meaning": "lagi"
    },
    {
     "word": "一度",
@@ -3505,7 +3505,7 @@ export const kanjiN4 = [
    {
     "word": "今度",
     "reading": "こんど",
-    "meaning": "now,next time"
+    "meaning": "sekarang, lain kali"
    }
   ]
  },
@@ -3528,17 +3528,17 @@ export const kanjiN4 = [
    {
     "word": "待つ",
     "reading": "まつ",
-    "meaning": "to wait"
+    "meaning": "untuk menunggu"
    },
    {
     "word": "招待",
     "reading": "しょうたい・する",
-    "meaning": "to invite"
+    "meaning": "untuk mengundang"
    },
    {
     "word": "期待",
     "reading": "きたい",
-    "meaning": "expectation,anticipation,hope"
+    "meaning": "harapan, antisipasi, harapan"
    }
   ]
  },
@@ -3562,7 +3562,7 @@ export const kanjiN4 = [
    {
     "word": "持つ",
     "reading": "もつ",
-    "meaning": "to hold"
+    "meaning": "untuk memegang"
    },
    {
     "word": "お・金持ち",
@@ -3572,7 +3572,7 @@ export const kanjiN4 = [
    {
     "word": "気持ち",
     "reading": "きもち",
-    "meaning": "feeling,mood"
+    "meaning": "perasaan, suasana hati"
    }
   ]
  },
@@ -3597,7 +3597,7 @@ export const kanjiN4 = [
    {
     "word": "限界",
     "reading": "げんかい",
-    "meaning": "limit,bound"
+    "meaning": "batas, terikat"
    }
   ]
  },
@@ -3634,12 +3634,12 @@ export const kanjiN4 = [
    {
     "word": "出発",
     "reading": "しゅっぱつ・する",
-    "meaning": "to depart"
+    "meaning": "untuk berangkat"
    },
    {
     "word": "発明",
     "reading": "はつめい",
-    "meaning": "invention"
+    "meaning": "penemuan"
    }
   ]
  },
@@ -3661,17 +3661,17 @@ export const kanjiN4 = [
    {
     "word": "放送",
     "reading": "ほうそう・する",
-    "meaning": "to broadcast"
+    "meaning": "untuk menyiarkan"
    },
    {
     "word": "送る",
     "reading": "おくる",
-    "meaning": "to send"
+    "meaning": "untuk mengirim"
    },
    {
     "word": "放送",
     "reading": "ほうそう",
-    "meaning": "broadcast,broadcasting"
+    "meaning": "siaran, penyiaran"
    }
   ]
  },
@@ -3706,17 +3706,17 @@ export const kanjiN4 = [
    {
     "word": "重い",
     "reading": "おもい",
-    "meaning": "heavy"
+    "meaning": "berat"
    },
    {
     "word": "重要",
     "reading": "じゅうよう",
-    "meaning": "important,momentous,essential,principal,major"
+    "meaning": "penting, penting, penting, utama, utama"
    },
    {
     "word": "重視",
     "reading": "じゅうし",
-    "meaning": "importance,stress,serious consideration"
+    "meaning": "kepentingan, stres, pertimbangan serius"
    }
   ]
  },
@@ -3743,17 +3743,17 @@ export const kanjiN4 = [
    {
     "word": "起きる",
     "reading": "おきる",
-    "meaning": "to get up"
+    "meaning": "untuk bangun"
    },
    {
     "word": "起す",
     "reading": "おこす",
-    "meaning": "to wake"
+    "meaning": "untuk bangun"
    },
    {
     "word": "起こる",
     "reading": "おこる",
-    "meaning": "to occur,to happen"
+    "meaning": "terjadi, terjadi"
    }
   ]
  },
@@ -3781,12 +3781,12 @@ export const kanjiN4 = [
    {
     "word": "入院",
     "reading": "にゅういん・する",
-    "meaning": "to hospitalise"
+    "meaning": "untuk dirawat di rumah sakit"
    },
    {
     "word": "退院",
     "reading": "たいいん・する",
-    "meaning": "to leave hospital"
+    "meaning": "untuk meninggalkan rumah sakit"
    }
   ]
  },
@@ -3813,17 +3813,17 @@ export const kanjiN4 = [
    {
     "word": "終る",
     "reading": "おわる",
-    "meaning": "to finish"
+    "meaning": "untuk menyelesaikan"
    },
    {
     "word": "終わり",
     "reading": "おわり",
-    "meaning": "the end"
+    "meaning": "akhir"
    },
    {
     "word": "終える",
     "reading": "おえる",
-    "meaning": "to finish"
+    "meaning": "untuk menyelesaikan"
    }
   ]
  },
@@ -3851,7 +3851,7 @@ export const kanjiN4 = [
    {
     "word": "習う",
     "reading": "ならう",
-    "meaning": "to learn"
+    "meaning": "untuk belajar"
    },
    {
     "word": "復習",
@@ -3886,17 +3886,17 @@ export const kanjiN4 = [
    {
     "word": "自転車",
     "reading": "じてんしゃ",
-    "meaning": "bicycle"
+    "meaning": "sepeda"
    },
    {
     "word": "運転手",
     "reading": "うんてんしゅ",
-    "meaning": "driver"
+    "meaning": "pengemudi"
    },
    {
     "word": "運転",
     "reading": "うんてん・する",
-    "meaning": "to drive"
+    "meaning": "untuk mengemudi"
    }
   ]
  },
@@ -3924,17 +3924,17 @@ export const kanjiN4 = [
    {
     "word": "運ぶ",
     "reading": "はこぶ",
-    "meaning": "untuk mengangkut"
+    "meaning": "untuk pengangkutan"
    },
    {
     "word": "運動",
     "reading": "うんどう・する",
-    "meaning": "to exercise"
+    "meaning": "untuk berolahraga"
    },
    {
     "word": "運転手",
     "reading": "うんてんしゅ",
-    "meaning": "driver"
+    "meaning": "pengemudi"
    }
   ]
  },
@@ -3962,17 +3962,17 @@ export const kanjiN4 = [
    {
     "word": "開く",
     "reading": "あく",
-    "meaning": "to open,to become open"
+    "meaning": "untuk membuka, menjadi terbuka"
    },
    {
     "word": "開ける",
     "reading": "あける",
-    "meaning": "to open"
+    "meaning": "untuk membuka"
    },
    {
     "word": "開く",
     "reading": "ひらく",
-    "meaning": "to open an event"
+    "meaning": "untuk membuka suatu acara"
    }
   ]
  },
@@ -4004,12 +4004,12 @@ export const kanjiN4 = [
    {
     "word": "集める",
     "reading": "あつめる",
-    "meaning": "to collect something"
+    "meaning": "untuk mengumpulkan sesuatu"
    },
    {
     "word": "集団",
     "reading": "しゅうだん",
-    "meaning": "group,mass"
+    "meaning": "kelompok, massal"
    }
   ]
  },
@@ -4039,7 +4039,7 @@ export const kanjiN4 = [
    {
     "word": "飲み物",
     "reading": "のみもの",
-    "meaning": "a drink"
+    "meaning": "minuman"
    }
   ]
  },
@@ -4064,17 +4064,17 @@ export const kanjiN4 = [
    {
     "word": "授業",
     "reading": "じゅぎょう",
-    "meaning": "lesson,class work"
+    "meaning": "pelajaran, tugas kelas"
    },
    {
     "word": "工業",
     "reading": "こうぎょう",
-    "meaning": "the manufacturing industry"
+    "meaning": "industri manufaktur"
    },
    {
     "word": "産業",
     "reading": "さんぎょう",
-    "meaning": "industry"
+    "meaning": "industri"
    }
   ]
  },
@@ -4094,7 +4094,7 @@ export const kanjiN4 = [
    {
     "word": "漢字",
     "reading": "かんじ",
-    "meaning": "Chinese character"
+    "meaning": "karakter Cina"
    }
   ]
  },
@@ -4117,7 +4117,7 @@ export const kanjiN4 = [
    {
     "word": "歌う",
     "reading": "うたう",
-    "meaning": "to sing"
+    "meaning": "untuk bernyanyi"
    },
    {
     "word": "歌手",
@@ -4155,12 +4155,12 @@ export const kanjiN4 = [
    {
     "word": "親切",
     "reading": "しんせつ",
-    "meaning": "kindness"
+    "meaning": "kebaikan"
    },
    {
     "word": "母親",
     "reading": "ははおや",
-    "meaning": "mother"
+    "meaning": "ibu"
    }
   ]
  },
@@ -4218,17 +4218,17 @@ export const kanjiN4 = [
    {
     "word": "特別",
     "reading": "とくべつ",
-    "meaning": "special"
+    "meaning": "spesial"
    },
    {
     "word": "別れる",
     "reading": "わかれる",
-    "meaning": "to separate"
+    "meaning": "untuk memisahkan"
    },
    {
     "word": "区別",
     "reading": "くべつ",
-    "meaning": "distinction,differentiation,classification"
+    "meaning": "pembedaan, diferensiasi, klasifikasi"
    }
   ]
  },
@@ -4290,12 +4290,12 @@ export const kanjiN4 = [
    {
     "word": "洋服",
     "reading": "ようふく",
-    "meaning": "western-style clothes"
+    "meaning": "pakaian gaya barat"
    },
    {
     "word": "西洋",
     "reading": "せいよう",
-    "meaning": "western countries"
+    "meaning": "negara-negara barat"
    },
    {
     "word": "海洋",
@@ -4324,12 +4324,12 @@ export const kanjiN4 = [
    {
     "word": "特急",
     "reading": "とっきゅう",
-    "meaning": "limited express train (faster than an express train)"
+    "meaning": "kereta ekspres terbatas (lebih cepat dari kereta ekspres)"
    },
    {
     "word": "特別",
     "reading": "とくべつ",
-    "meaning": "special"
+    "meaning": "spesial"
    }
   ]
  },
@@ -4355,7 +4355,7 @@ export const kanjiN4 = [
    {
     "word": "意味",
     "reading": "いみ",
-    "meaning": "meaning"
+    "meaning": "arti"
    },
    {
     "word": "注意",
@@ -4365,7 +4365,7 @@ export const kanjiN4 = [
    {
     "word": "意見",
     "reading": "いけん",
-    "meaning": "opinion"
+    "meaning": "pendapat"
    }
   ]
  },
@@ -4388,17 +4388,17 @@ export const kanjiN4 = [
    {
     "word": "意味",
     "reading": "いみ",
-    "meaning": "meaning"
+    "meaning": "arti"
    },
    {
     "word": "興味",
     "reading": "きょうみ",
-    "meaning": "an interest"
+    "meaning": "suatu minat"
    },
    {
     "word": "趣味",
     "reading": "しゅみ",
-    "meaning": "hobby"
+    "meaning": "hobi"
    }
   ]
  },
@@ -4424,12 +4424,12 @@ export const kanjiN4 = [
    {
     "word": "勉強",
     "reading": "べんきょうする",
-    "meaning": "to study"
+    "meaning": "untuk belajar"
    },
    {
     "word": "勉強",
     "reading": "べんきょう",
-    "meaning": "study,diligence,discount,reduction"
+    "meaning": "belajar, ketekunan, diskon, pengurangan"
    }
   ]
  },
@@ -4451,12 +4451,12 @@ export const kanjiN4 = [
    {
     "word": "旅行",
     "reading": "りょこう",
-    "meaning": "travel"
+    "meaning": "bepergian"
    },
    {
     "word": "旅館",
     "reading": "りょかん",
-    "meaning": "Japanese hotel"
+    "meaning": "hotel Jepang"
    }
   ]
  },
@@ -4483,12 +4483,12 @@ export const kanjiN4 = [
    {
     "word": "店員",
     "reading": "てんいん",
-    "meaning": "shop assistant"
+    "meaning": "asisten toko"
    },
    {
     "word": "全員",
     "reading": "ぜんいん",
-    "meaning": "all members (unanimity),all hands,the whole crew"
+    "meaning": "semua anggota (kebulatan suara), semua tangan, seluruh kru"
    }
   ]
  },
@@ -4515,17 +4515,17 @@ export const kanjiN4 = [
    {
     "word": "動物",
     "reading": "どうぶつ",
-    "meaning": "animal"
+    "meaning": "hewan"
    },
    {
     "word": "自動車",
     "reading": "じどうしゃ",
-    "meaning": "automobile"
+    "meaning": "mobil"
    },
    {
     "word": "運動",
     "reading": "うんどう・する",
-    "meaning": "to exercise"
+    "meaning": "untuk berolahraga"
    }
   ]
  },
@@ -4560,17 +4560,17 @@ export const kanjiN4 = [
    {
     "word": "悪い",
     "reading": "わるい",
-    "meaning": "bad"
+    "meaning": "buruk"
    },
    {
     "word": "悪口",
     "reading": "わるくち",
-    "meaning": "abuse,insult,slander,evil speaking"
+    "meaning": "pelecehan, penghinaan, fitnah, perkataan jahat"
    },
    {
     "word": "悪魔",
     "reading": "あくま",
-    "meaning": "devil,demon,evil spirit"
+    "meaning": "setan, setan, roh jahat"
    }
   ]
  },
@@ -4620,17 +4620,17 @@ export const kanjiN4 = [
    {
     "word": "上着",
     "reading": "うわぎ",
-    "meaning": "jacket"
+    "meaning": "jaket"
    },
    {
     "word": "着る",
     "reading": "きる",
-    "meaning": "to put on from the shoulders down"
+    "meaning": "untuk mengenakan dari bahu ke bawah"
    },
    {
     "word": "着く",
     "reading": "つく",
-    "meaning": "to arrive at"
+    "meaning": "untuk tiba di"
    }
   ]
  },
@@ -4656,12 +4656,12 @@ export const kanjiN4 = [
    {
     "word": "野菜",
     "reading": "やさい",
-    "meaning": "vegetable"
+    "meaning": "sayuran"
    },
    {
     "word": "分野",
     "reading": "ぶんや",
-    "meaning": "field,sphere,realm,division,branch"
+    "meaning": "bidang, bola, alam, divisi, cabang"
    },
    {
     "word": "野党",
@@ -4703,7 +4703,7 @@ export const kanjiN4 = [
    {
     "word": "台風",
     "reading": "たいふう",
-    "meaning": "typhoon"
+    "meaning": "topan"
    }
   ]
  },
@@ -4732,12 +4732,12 @@ export const kanjiN4 = [
    {
     "word": "新聞",
     "reading": "しんぶん",
-    "meaning": "koran"
+    "meaning": "Qur'an"
    },
    {
     "word": "新聞社",
     "reading": "しんぶんしゃ",
-    "meaning": "newspaper company"
+    "meaning": "perusahaan surat kabar"
    }
   ]
  },
@@ -4767,12 +4767,12 @@ export const kanjiN4 = [
    {
     "word": "質問",
     "reading": "しつもん",
-    "meaning": "question"
+    "meaning": "pertanyaan"
    },
    {
     "word": "問い",
     "reading": "とい",
-    "meaning": "question,query"
+    "meaning": "pertanyaan, pertanyaan"
    }
   ]
  },
@@ -4818,12 +4818,12 @@ export const kanjiN4 = [
    {
     "word": "宿題",
     "reading": "しゅくだい",
-    "meaning": "homework"
+    "meaning": "pekerjaan rumah"
    },
    {
     "word": "話題",
     "reading": "わだい",
-    "meaning": "topic,subject"
+    "meaning": "topik, subjek"
    }
   ]
  },
@@ -4848,17 +4848,17 @@ export const kanjiN4 = [
    {
     "word": "大使館",
     "reading": "たいしかん",
-    "meaning": "embassy"
+    "meaning": "kedutaan"
    },
    {
     "word": "映画館",
     "reading": "えいがかん",
-    "meaning": "cinema"
+    "meaning": "bioskop"
    },
    {
     "word": "図書館",
     "reading": "としょかん",
-    "meaning": "library"
+    "meaning": "perpustakaan"
    }
   ]
  },
@@ -4877,7 +4877,7 @@ export const kanjiN4 = [
    {
     "word": "駅",
     "reading": "えき",
-    "meaning": "station"
+    "meaning": "stasiun"
    }
   ]
  },
@@ -4907,7 +4907,7 @@ export const kanjiN4 = [
    {
     "word": "無料",
     "reading": "むりょう",
-    "meaning": "free,no charge"
+    "meaning": "gratis, tanpa biaya"
    }
   ]
  },
@@ -4933,12 +4933,12 @@ export const kanjiN4 = [
    {
     "word": "映画",
     "reading": "えいが",
-    "meaning": "movie"
+    "meaning": "film"
    },
    {
     "word": "映画館",
     "reading": "えいがかん",
-    "meaning": "cinema"
+    "meaning": "bioskop"
    }
   ]
  },
@@ -4989,17 +4989,17 @@ export const kanjiN4 = [
    {
     "word": "帰る",
     "reading": "かえる",
-    "meaning": "to go back"
+    "meaning": "untuk kembali"
    },
    {
     "word": "帰り",
     "reading": "かえり",
-    "meaning": "return"
+    "meaning": "kembali"
    },
    {
     "word": "帰宅",
     "reading": "きたく",
-    "meaning": "returning home"
+    "meaning": "kembali ke rumah"
    }
   ]
  },
@@ -5021,7 +5021,7 @@ export const kanjiN4 = [
    {
     "word": "春",
     "reading": "はる",
-    "meaning": "spring"
+    "meaning": "musim semi"
    }
   ]
  },
@@ -5043,7 +5043,7 @@ export const kanjiN4 = [
    {
     "word": "昼御飯",
     "reading": "ひるごはん",
-    "meaning": "midday meal"
+    "meaning": "makan siang"
    },
    {
     "word": "昼間",
@@ -5075,7 +5075,7 @@ export const kanjiN4 = [
    {
     "word": "秋",
     "reading": "あき",
-    "meaning": "autumn"
+    "meaning": "musim gugur"
    }
   ]
  },
@@ -5100,17 +5100,17 @@ export const kanjiN4 = [
    {
     "word": "時計",
     "reading": "とけい",
-    "meaning": "watch,clock"
+    "meaning": "menonton, jam"
    },
    {
     "word": "計画",
     "reading": "けいかく・する",
-    "meaning": "to plan"
+    "meaning": "untuk merencanakan"
    },
    {
     "word": "計画",
     "reading": "けいかく",
-    "meaning": "plan,project,schedule,scheme,program"
+    "meaning": "rencana, proyek, jadwal, skema, program"
    }
   ]
  },
@@ -5140,12 +5140,12 @@ export const kanjiN4 = [
    {
     "word": "二階建て",
     "reading": "にかいだて",
-    "meaning": "two storied"
+    "meaning": "dua lantai"
    },
    {
     "word": "建てる",
     "reading": "たてる",
-    "meaning": "to build"
+    "meaning": "untuk membangun"
    }
   ]
  },
@@ -5192,17 +5192,17 @@ export const kanjiN4 = [
    {
     "word": "朝御飯",
     "reading": "あさごはん",
-    "meaning": "breakfast"
+    "meaning": "sarapan"
    },
    {
     "word": "夕飯",
     "reading": "ゆうはん",
-    "meaning": "dinner"
+    "meaning": "makan malam"
    },
    {
     "word": "昼御飯",
     "reading": "ひるごはん",
-    "meaning": "midday meal"
+    "meaning": "makan siang"
    }
   ]
  },
@@ -5221,17 +5221,17 @@ export const kanjiN4 = [
    {
     "word": "木曜日",
     "reading": "もくようび",
-    "meaning": "Thursday"
+    "meaning": "Kamis"
    },
    {
     "word": "金曜日",
     "reading": "きんようび",
-    "meaning": "Friday"
+    "meaning": "Jumat"
    },
    {
     "word": "火曜日",
     "reading": "かようび",
-    "meaning": "Tuesday"
+    "meaning": "Selasa"
    }
   ]
  },
@@ -5262,12 +5262,12 @@ export const kanjiN4 = [
    {
     "word": "品物",
     "reading": "しなもの",
-    "meaning": "goods"
+    "meaning": "barang-barang"
    },
    {
     "word": "食品",
     "reading": "しょくひん",
-    "meaning": "commodity,foodstuff"
+    "meaning": "komoditas, bahan makanan"
    }
   ]
  },
@@ -5293,17 +5293,17 @@ export const kanjiN4 = [
    {
     "word": "特急",
     "reading": "とっきゅう",
-    "meaning": "limited express train (faster than an express train)"
+    "meaning": "kereta ekspres terbatas (lebih cepat dari kereta ekspres)"
    },
    {
     "word": "急行",
     "reading": "きゅうこう",
-    "meaning": "speedy, express"
+    "meaning": "cepat, ekspres"
    },
    {
     "word": "急ぐ",
     "reading": "いそぐ",
-    "meaning": "to hurry"
+    "meaning": "untuk bergegas"
    }
   ]
  },
@@ -5328,7 +5328,7 @@ export const kanjiN4 = [
    {
     "word": "写真",
     "reading": "しゃしん",
-    "meaning": "photograph"
+    "meaning": "foto"
    },
    {
     "word": "真中",
@@ -5338,7 +5338,7 @@ export const kanjiN4 = [
    {
     "word": "真っ赤",
     "reading": "まっか",
-    "meaning": "deep red,flushed (of face)"
+    "meaning": "merah tua, memerah (wajah)"
    }
   ]
  },
@@ -5358,7 +5358,7 @@ export const kanjiN4 = [
    {
     "word": "食堂",
     "reading": "しょくどう",
-    "meaning": "dining hall"
+    "meaning": "ruang makan"
    },
    {
     "word": "講堂",
@@ -5389,12 +5389,12 @@ export const kanjiN4 = [
    {
     "word": "試合",
     "reading": "しあい",
-    "meaning": "match,game"
+    "meaning": "pertandingan, permainan"
    },
    {
     "word": "試験",
     "reading": "しけん",
-    "meaning": "examination"
+    "meaning": "penyelidikan"
    },
    {
     "word": "試し",
@@ -5421,12 +5421,12 @@ export const kanjiN4 = [
    {
     "word": "借りる",
     "reading": "かりる",
-    "meaning": "to borrow"
+    "meaning": "untuk meminjam"
    },
    {
     "word": "借金",
     "reading": "しゃっきん",
-    "meaning": "debt,loan,liabilities"
+    "meaning": "hutang, pinjaman, kewajiban"
    }
   ]
  },
@@ -5453,12 +5453,12 @@ export const kanjiN4 = [
    {
     "word": "試験",
     "reading": "しけん",
-    "meaning": "examination"
+    "meaning": "penyelidikan"
    },
    {
     "word": "経験",
     "reading": "けいけん・する",
-    "meaning": "to experience"
+    "meaning": "untuk mengalami"
    },
    {
     "word": "実験",
@@ -5492,12 +5492,12 @@ export const kanjiN4 = [
    {
     "word": "質問",
     "reading": "しつもん",
-    "meaning": "question"
+    "meaning": "pertanyaan"
    },
    {
     "word": "物質",
     "reading": "ぶっしつ",
-    "meaning": "material,substance"
+    "meaning": "materi, substansi"
    },
    {
     "word": "蛋白質",
@@ -5525,7 +5525,7 @@ export const kanjiN4 = [
    {
     "word": "貸す",
     "reading": "かす",
-    "meaning": "to lend"
+    "meaning": "untuk meminjamkan"
    },
    {
     "word": "貸し",

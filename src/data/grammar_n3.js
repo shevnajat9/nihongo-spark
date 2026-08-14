@@ -2,7 +2,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + ようだ",
   "level": "N3",
-  "structure": "V plain / i-adj + ようだ. Na-adj + な + ようだ (静かなようだ). Noun + の + ようだ (学生のようだ). Past: 食べたようだ, 高かったようだ.",
+  "structure": "V polos / i-adj + ようだ.",
   "explanation": "muncul / tampak (berbasis bukti, formal)",
   "note": "ようだ expresses an inference the speaker is making based on available evidence — 'it appears that', 'it seems that'. It is more formal and more tentative than みたい (its casual equivalent). It is also used for similes ('like X') and has a highly productive adverbial form ように ('in a way such that').",
   "formality": "neutral",
@@ -39,7 +39,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form / noun + みたい(だ/です)",
   "level": "N3",
-  "structure": "Noun + みたい (学生みたい). V plain + みたい (降るみたい). i-adj + みたい (高いみたい). na-adj + みたい (静かみたい — no な). Past: 降ったみたい.",
+  "structure": "Kata benda + みたい (学生みたい).",
   "explanation": "sepertinya / sepertinya / seperti (santai)",
   "note": "みたい is the casual equivalent of ようだ, expressing inference or similarity based on appearance or evidence. Unlike ようだ, it attaches directly to nouns without の, and directly to na-adjectives without な. It can function as a na-adjective itself (みたいな + noun, みたいに adverbially).",
   "formality": "casual",
@@ -75,7 +75,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form / noun + らしい",
   "level": "N3",
-  "structure": "V plain / i-adj + らしい (来るらしい, おいしいらしい). Na-adj / noun + らしい (no connector): 元気らしい, 学生らしい. For the 'typical of' sense, only noun + らしい works.",
+  "structure": "V polos / i-adj + らしい (来るらしい, おいしいらしい).",
   "explanation": "sepertinya / rupanya / khas",
   "note": "らしい has two related uses: (1) an evidential 'seems / apparently' based on less direct evidence than ようだ — often information heard from others or inferred from circumstance; (2) with nouns, 'typical of / befitting' that category (男らしい 'manly', 学生らしい 'like a proper student'). The two senses share the same form but are pedagogically distinct.",
   "formality": "neutral",
@@ -111,7 +111,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-て form + おく",
   "level": "N3",
-  "structure": "Vて + おく (polite: おきます). Contracted colloquial form: 〜とく / 〜どく (食べておく → 食べとく; 読んでおく → 読んどく).",
+  "structure": "Vて + おく (sopan: おきます).",
   "explanation": "lakukan terlebih dahulu/tinggalkan dalam keadaan",
   "note": "Vて + おく has two related senses: (1) doing something in preparation for a future event ('do in advance'); (2) leaving something in a particular state ('leave it as is', 'leave it alone'). The verb おく literally means 'to place / to put', and the auxiliary meaning derives metaphorically from 'putting' the action's result in place for later.",
   "formality": "neutral",
@@ -148,7 +148,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-て form + しまう",
   "level": "N3",
-  "structure": "Vて + しまう (polite: しまいます; past: しまった / しまいました). Contracted casual forms: 〜ちゃう (食べてしまう → 食べちゃう), 〜じゃう (for voiced 〜で: 読んでしまう → 読んじゃう).",
+  "structure": "Vて + しまう (sopan: しまいます; lampau: しまった / しまいました).",
   "explanation": "penyelesaian / penyesalan (selesai melakukan / akhirnya melakukan)",
   "note": "Vて + しまう has two overlapping senses: (1) completion — finishing an action thoroughly ('finish doing', 'do completely'); (2) regret or unintended outcome — expressing that the speaker ended up doing something they didn't intend or that had an undesired result ('unfortunately did', 'ended up doing'). Context and tone distinguish the two.",
   "formality": "neutral",
@@ -184,7 +184,7 @@ export const grammarN3 = [
  {
   "pattern": "Transitive verb-て form + ある",
   "level": "N3",
-  "structure": "Transitive Vて + ある (polite: あります). Object of the original verb takes が, not を: 窓が開けてある (NOT 窓を開けてある).",
+  "structure": "Vて + ある transitif (sopan: あります).",
   "explanation": "telah dilakukan (menyatakan dari tindakan yang disengaja)",
   "note": "Vて + ある attaches to transitive verbs and expresses that the object has been put into a state by a (usually unspecified) intentional action, and that state still holds. The object of the original verb is marked with が, not を — because the focus is on the resulting state of the object, not on the action. Contrast with the intransitive-ている pattern for resulting states from natural changes.",
   "formality": "neutral",
@@ -220,7 +220,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-て form + みる",
   "level": "N3",
-  "structure": "Vて + みる (polite: みます). Always in hiragana when used as this auxiliary; do not write 見る.",
+  "structure": "Vて + みる (sopan: みます).",
   "explanation": "coba lakukan (untuk melihat apa yang terjadi)",
   "note": "Vて + みる expresses trying an action to see what it's like or what will result. The auxiliary みる is metaphorically related to 見る ('see') — you do the action and 'see' how it turns out — but is written in hiragana to distinguish from the literal sense of seeing. The past form みた reports the outcome of the trial.",
   "formality": "neutral",
@@ -256,7 +256,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-て form + いく",
   "level": "N3",
-  "structure": "Vて + いく (polite: いきます). Can be written 行く or いく; the auxiliary use is more commonly in hiragana.",
+  "structure": "Vて + いく (sopan: いきます).",
   "explanation": "terjadi / menjauh dari titik acuan (secara spasial atau temporal)",
   "note": "Vて + いく expresses movement or progression away from a reference point — usually the speaker's current position in space or time. Spatially, this is action moving away ('run off', 'walk away'). Temporally, it is gradual change continuing into the future from now ('will continue to X', 'will become more X'). Contrast with 〜てくる, which is the opposite direction.",
   "formality": "neutral",
@@ -291,7 +291,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-て form + くる",
   "level": "N3",
-  "structure": "Vて + くる (polite: きます). Can be written 来る or くる; the auxiliary use is more commonly in hiragana.",
+  "structure": "Vて + くる (sopan: きます).",
   "explanation": "datang ke / menjadi (menuju titik acuan)",
   "note": "Vて + くる expresses movement or progression toward a reference point — usually the speaker's current position in space or time. Spatially, action moves toward the speaker ('come running'). Temporally, it expresses gradual change from the past up to now ('has come to X', 'has been becoming X'). Also used for 'go and come back' — a round-trip sense that is very common in everyday speech.",
   "formality": "neutral",
@@ -326,7 +326,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + ながら",
   "level": "N3",
-  "structure": "V ます-stem + ながら: 食べながら ('while eating'), 歩きながら ('while walking'). Irregular: する → しながら, くる → きながら.",
+  "structure": "V ます-batang + ながら: 食べながら ('sambil makan'), 歩きながら ('sambil berjalan').",
   "explanation": "saat melakukan (dua tindakan simultan, subjek yang sama)",
   "note": "〜ながら attaches to a verb's ます-stem and expresses that two actions are performed simultaneously by the same subject. The main clause verb is the primary action; the ながら clause is the secondary/concurrent action. A less common adversative use ('although') exists but is advanced and not treated here.",
   "formality": "neutral",
@@ -362,7 +362,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain non-past / V ない-form / い-adj / noun-の / な-adj + な + うちに",
   "level": "N3",
-  "structure": "V plain non-past + うちに (若いうちに); V ない + うちに (忘れないうちに); い-adj + うちに (熱いうちに); na-adj + な + うちに (元気なうちに); noun + の + うちに (学生のうちに).",
+  "structure": "V polos bukan masa lalu + うちに (若いうちに);",
   "explanation": "while (keadaan bertahan) / sebelum (berubah)",
   "note": "〜うちに expresses 'do X while the window is still open / before the state changes.' It implies that the state or condition in the うちに clause is limited and that the speaker is acting to take advantage of it before it ends. The negative form 〜ないうちに is very common for 'before (something bad) happens'.",
   "formality": "neutral",
@@ -398,7 +398,7 @@ export const grammarN3 = [
  {
   "pattern": "V 〜ている / noun-の / adj + 間 or 間に",
   "level": "N3",
-  "structure": "Noun + の + 間(に); V 〜ている + 間(に); V plain + 間(に); i-adj + 間(に); na-adj + な + 間(に).",
+  "structure": "Kata Benda + の + 間(に);",
   "explanation": "selama / sementara (periode di mana sesuatu terjadi)",
   "note": "〜間 and 〜間に both express temporal 'during / while', but differ in scope: 〜間 (without に) covers the whole duration and is used with continuous main-clause actions that also span the whole period. 〜間に (with に) marks a point or sub-interval within the period, and is used for one-off events that happen during it. Subjects in the main clause and the 間 clause can differ.",
   "formality": "neutral",
@@ -469,7 +469,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb form + ところ",
   "level": "N3",
-  "structure": "V plain non-past + ところ (about to); V 〜ている + ところ (in the middle); V plain past + ところ (just did). All optionally followed by だ/です.",
+  "structure": "V polos bukan masa lalu + ところ (akan);",
   "explanation": "baru saja (sekarang) melakukan / baru saja akan melakukan / sedang melakukan",
   "note": "ところ combined with different verb forms expresses the aspectual 'point of doing' an action: Vる + ところ = 'just about to', V 〜ている + ところ = 'in the middle of', Vた + ところ = 'just did (right now)'. Unlike 〜たばかり (subjective recency), 〜たところ refers to the immediate, clock-objective moment.",
   "formality": "neutral",
@@ -505,7 +505,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain / noun + の + ために",
   "level": "N3",
-  "structure": "V plain non-past + ために (purpose) or V plain (often past/state) + ために (cause). Noun + の + ために: 家族のために, 試験のために.",
+  "structure": "V polos bukan masa lalu + ために (tujuan) atau V polos (seringkali masa lalu/keadaan) + ために (penyebab).",
   "explanation": "untuk tujuan / demi / karena",
   "note": "ために has two related senses: (1) purpose — 'in order to', used when the main-clause action is intentional; (2) reason/cause — 'because of', used with unintentional circumstances. Which sense applies is usually clear from whether the main clause is volitional. Contrast with ように, which is used for non-volitional goals (with potential forms or intransitive verbs).",
   "formality": "neutral",
@@ -542,7 +542,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain non-past (potential / intransitive / ない-form) + ように",
   "level": "N3",
-  "structure": "V plain non-past + ように. Typical predicates: potential verbs, intransitives, negatives. Main-clause action is what the speaker does to achieve the goal.",
+  "structure": "V polos bukan masa lalu + ように.",
   "explanation": "sehingga / agar (tujuan yang tidak disengaja)",
   "note": "ように as a purpose marker is used when the goal is a state or non-volitional outcome — typically with potential verbs (聞こえるように 'so one can hear'), intransitive verbs (雨が降らないように 'so the rain doesn't'), or the negative ない-form (忘れないように 'so I don't forget'). Contrast with ために, which is used for volitional main-clause actions.",
   "formality": "neutral",
@@ -578,7 +578,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + のに",
   "level": "N3",
-  "structure": "V plain / i-adj + のに (勉強したのに, 高いのに). Na-adj / noun + な + のに (静かなのに, 学生なのに). Note: な, not だ.",
+  "structure": "V polos / i-adj + のに (勉強したのに, 高いのに).",
   "explanation": "meskipun / meskipun (bertentangan dengan harapan)",
   "note": "〜のに expresses a contrast between expectation and reality, often with an emotional nuance of surprise, frustration, or disappointment. It is stronger than the neutral が / けど contrast. のに cannot be used before a request, command, or invitation in the main clause — in those situations, use けど instead.",
   "formality": "neutral",
@@ -614,7 +614,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain / noun-の + おかげで (positive) or せいで (negative)",
   "level": "N3",
-  "structure": "V plain / i-adj + おかげで / せいで. Na-adj + な + おかげで / せいで. Noun + の + おかげで / せいで. Past forms also allowed: 手伝ってくれたおかげで, 雨が降ったせいで.",
+  "structure": "V polos / i-adj + おかげで / せいで.",
   "explanation": "terima kasih kepada / karena (dengan atribusi positif atau negatif yang jelas)",
   "note": "おかげで and せいで both attribute a result to a cause, but with opposite polarity: おかげで ('thanks to') is used for positive outcomes, while せいで ('because of / at the fault of') is used for negative outcomes. They are structural twins — same connection patterns, opposite valence — and are typically taught as a pair.",
   "formality": "neutral",
@@ -651,7 +651,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / verb (〜て form / plain) + ばかり",
   "level": "N3",
-  "structure": "Noun + ばかり: お菓子ばかり食べる ('eat nothing but sweets'). V 〜て form + ばかりいる: 寝てばかりいる ('do nothing but sleep'). V plain + ばかり (often だ / です): 増えるばかりだ ('keeps only increasing').",
+  "structure": "Kata benda + ばかり: お菓子ばかり食べる ('tidak makan apa pun selain yang manis-manis').",
   "explanation": "hanya / tidak lain kecuali / hanya (tegas)",
   "note": "ばかり as a restrictive particle emphasizes that something is happening 'only' or 'nothing but' to an excessive or notable degree. It carries a subtle critical or exasperated nuance — 'that's all they do', 'they do nothing but'. Distinct from 〜たばかり ('just did', a temporal meaning using the same word). Contrast with だけ, which is more neutral.",
   "formality": "neutral",
@@ -687,7 +687,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + かける",
   "level": "N3",
-  "structure": "V ます-stem + かける (polite: かけます). Attributive form for nouns: 〜かけの + N (食べかけのケーキ 'half-eaten cake').",
+  "structure": "V ます-batang + かける (sopan: かけます).",
   "explanation": "setengah selesai / di tengah / hendak (aksi terputus)",
   "note": "V ます-stem + かける attaches to a verb to express that an action has been started but not completed — 'half-doing', 'about to do', or 'partway through'. The attributive form 〜かけの + noun is also productive ('a half-X thing'). With some verbs it takes on the sense 'on the verge of' (死にかける 'nearly die').",
   "formality": "neutral",
@@ -723,7 +723,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / verb plain + ほど; also A は B ほど [adj]-ない",
   "level": "N3",
-  "structure": "Noun / V plain + ほど. Negative comparison: A は B ほど + adjective-ない. Modifier form: 〜ほどの + N.",
+  "structure": "Kata Benda / V polos + ほど.",
   "explanation": "sebatas / tidak ___ seperti",
   "note": "ほど expresses degree or extent — either hyperbolically ('tired to death' = 死ぬほど疲れた) or comparatively in the negative construction A は B ほど [adj]-ない ('A is not as ___ as B'). In comparisons, ほど marks the reference against which A falls short. Hyperbolic phrases like 山ほど ('a mountain of') and 死ぬほど ('to death') are highly productive.",
   "formality": "neutral",
@@ -759,7 +759,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / verb plain + くらい / ぐらい",
   "level": "N3",
-  "structure": "Number/quantity + くらい/ぐらい: 10分くらい ('about 10 minutes'). V plain + くらい: 泣きたいくらい嬉しい ('so happy I could cry'). Noun + くらい: これくらい.",
+  "structure": "Angka/kuantitas + くらい/ぐらい: 10分くらい ('sekitar 10 menit').",
   "explanation": "tentang / kira-kira / sejauh itu",
   "note": "くらい (voiced variant ぐらい; both interchangeable) expresses approximate quantity ('about X') or degree ('to the extent that'). For numbers, it is the most common way to say 'approximately'. For degree of emotion or state, it is used hyperbolically like ほど, but with a more casual register. It also has a minimizing sense: 'at least that much' (それくらいは... expected).",
   "formality": "neutral",
@@ -794,7 +794,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb plain form / na-adj + な + こと",
   "level": "N3",
-  "structure": "V plain + こと (食べること, 勉強したこと). Na-adj + な + こと (静かなこと, 元気なこと). i-adj + こと (高いこと).",
+  "structure": "V polos + こと (食べること, 勉強したこと).",
   "explanation": "nominalizer: 'tindakan / fakta melakukan'",
   "note": "こと turns a verb or adjective phrase into a noun, expressing 'the act of doing' or 'the fact that'. It is used for abstract, general, or factual statements — in contrast to の-nominalization, which is used for more concrete / perceptual situations. Several fixed grammar patterns require こと specifically (〜ことができる, 〜ことにする, 〜ことになる, 〜ことがある).",
   "formality": "neutral",
@@ -830,7 +830,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb plain form / na-adj + な + の",
   "level": "N3",
-  "structure": "V plain + の (走るの, 食べるの). Na-adj + な + の (静かなの). i-adj + の (高いの).",
+  "structure": "V polos + の (走るの, 食べるの).",
   "explanation": "nominalizer: 'tindakan / fakta melakukan' (perseptual/konkret)",
   "note": "の turns a verb or adjective phrase into a noun, used for concrete, perceptual, or immediate situations — 'I saw him running' (走るのを見た). With perception verbs (見る, 聞く, 感じる), の is strongly preferred over こと. In more abstract or factual contexts, こと is preferred. Both are nominalizers, but their register and context of use differ.",
   "formality": "neutral",
@@ -865,7 +865,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain non-past / noun-の + たびに",
   "level": "N3",
-  "structure": "V plain non-past + たびに (会うたびに, 聞くたびに). Noun + の + たびに (旅行のたびに, 試験のたびに). Kanji 度 or kana 度 are both acceptable; both very common.",
+  "structure": "V polos bukan masa lalu + たびに (会うたびに, 聞くたびに).",
   "explanation": "setiap saat/kapanpun",
   "note": "たびに attaches to a verb or noun phrase to express 'every time X happens, Y also happens'. It implies repetition with a consistent association — each occurrence of the たびに clause triggers the main clause. More emphatic and pattern-asserting than simply using 〜ときに ('when').",
   "formality": "neutral",
@@ -899,7 +899,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form (or noun / na-adj root) + かどうか",
   "level": "N3",
-  "structure": "V / i-adj plain + かどうか (来るかどうか, 難しいかどうか). Noun / na-adj root + かどうか, NO だ (学生かどうか, 静かかどうか).",
+  "structure": "V/i-adj polos + かどうか (来るかどうか, 難しいかどうか).",
   "explanation": "apakah atau tidak",
   "note": "かどうか embeds a yes/no question inside another clause — 'whether ___ or not'. It attaches to a plain-form predicate. Crucially, the だ copula is dropped before かどうか for nouns and na-adjectives (学生かどうか, NOT 学生だかどうか). Contrast with embedded wh-questions (誰が来るか), which use か alone without どうか.",
   "formality": "neutral",
@@ -935,7 +935,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + について",
   "level": "N3",
-  "structure": "Noun + について (adverbially). Noun + についての + noun (attributively): 日本文化についての本.",
+  "structure": "Kata benda + について (kata keterangan).",
   "explanation": "tentang / mengenai",
   "note": "について is the most common, register-neutral way to express 'about' or 'regarding' a topic. It marks the subject matter of a discussion, book, lecture, investigation, etc. The modifier form についての + noun is productive ('a book about X'). Contrast with に関して (more formal), にとって (perspective), and に対して (directed at).",
   "formality": "neutral",
@@ -970,7 +970,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + にとって",
   "level": "N3",
-  "structure": "Noun + にとって (adverbially). Noun + にとっての + noun (attributively): 私にとっての家族.",
+  "structure": "Kata benda + にとって (kata keterangan).",
   "explanation": "untuk / ke / dari sudut pandang",
   "note": "にとって expresses 'from the standpoint of X' — used when stating an evaluation from a specific perspective. Typically followed by evaluative predicates (大切, 必要, 重要, 難しい). Contrast with について ('about', topical) and に対して ('directed at / toward').",
   "formality": "neutral",
@@ -1005,7 +1005,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + によって",
   "level": "N3",
-  "structure": "Noun + によって (adverbially). Noun + による + noun (attributively): 〜による研究. Variation emphasis: によっては.",
+  "structure": "Kata benda + によって (kata keterangan).",
   "explanation": "melalui / bergantung pada / oleh (agen pasif)",
   "note": "によって has three related senses: (1) means / method — 'by means of', more formal than で; (2) variation — 'depending on' (意見は人によって違う 'opinions differ by person'); (3) passive agent — marking who performed an action in passive sentences, especially in formal or written contexts. The form によっては emphasizes variability.",
   "formality": "neutral",
@@ -1041,7 +1041,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb (dictionary form) + べきだ",
   "level": "N3",
-  "structure": "V dictionary form + べきだ (polite: べきです). Negative: V dict + べきではない / べきじゃない. Past: べきだった ('should have'). Irregular: する → するべき or the more formal すべき (both accepted).",
+  "structure": "Bentuk kamus V + べきだ (sopan: べきです).",
   "explanation": "harus / seharusnya (kewajiban moral atau sosial)",
   "note": "べきだ expresses a moral or social 'should' — a normative claim that something ought to be done. It is stronger than 〜たほうがいい (suggestion / advice) and more abstract than 〜なければならない (concrete necessity). Often used in formal writing, opinion pieces, and moral advice. The negative form べきではない / べきじゃない means 'shouldn't'.",
   "formality": "neutral",
@@ -1076,7 +1076,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-た form + ほうがいい",
   "level": "N3",
-  "structure": "Vた + ほうがいい (affirmative). V ない + ほうがいい (negative). Polite: ほうがいいです. Past: ほうがよかった ('should have').",
+  "structure": "Vた + ほうがいい (afirmatif).",
   "explanation": "lebih baik / lebih baik",
   "note": "〜たほうがいい expresses advice or recommendation — 'you'd better do X'. Counterintuitively, the affirmative form uses Vた (which looks like past tense but here functions as a fixed construction). The negative form uses V ない. Softer than べきだ (moral should) and more common in everyday speech for giving advice.",
   "formality": "neutral",
@@ -1112,7 +1112,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-ない stem + なくちゃ / なきゃ (+ いけない / ならない)",
   "level": "N3",
-  "structure": "V ない-form → replace ない with: なくちゃ (from 〜なくては) or なきゃ (from 〜なければ). Examples: 食べなくちゃ / 食べなきゃ, 行かなくちゃ / 行かなきゃ. Optional trailing いけない / ならない in less casual usage.",
+  "structure": "Bentuk V ない → ganti ない dengan: なくちゃ (dari 〜なくては) atau なきゃ (dari 〜なければ).",
   "explanation": "harus / harus (kontraksi biasa)",
   "note": "なくちゃ and なきゃ are casual contractions of the formal 〜なくてはいけない / 〜なければならない ('must do'). In everyday speech, the trailing いけない / ならない is often dropped entirely, leaving just なくちゃ / なきゃ at sentence-final position. Register is strictly casual; avoid in polite or formal contexts.",
   "formality": "casual",
@@ -1147,7 +1147,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-ば form + よかった",
   "level": "N3",
-  "structure": "V ば-form + よかった: 行けばよかった ('should have gone'). Negative: V なければ + よかった: 言わなければよかった ('shouldn't have said'). Adjectives and nouns can also take the construction via their ば-forms.",
+  "structure": "Bentuk V ば + よかった: 行けばよかった ('seharusnya sudah pergi').",
   "explanation": "seharusnya / akan lebih baik jika",
   "note": "〜ばよかった expresses regret about a past action (or inaction) — 'I should have done X' or 'it would have been better if X had happened'. The structure is literally 'if (ば form) it had been good (よかった)'. The negative form 〜なければよかった means 'I shouldn't have done X'. Often paired with のに for emphasis.",
   "formality": "neutral",
@@ -1183,7 +1183,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-ば form + Verb dictionary form + ほど",
   "level": "N3",
-  "structure": "Verb: V ば + V dict + ほど (食べれば食べるほど, 考えれば考えるほど). i-adj: 〜ければ + 〜いほど (高ければ高いほど). na-adj: 〜であればあるほど (less common).",
+  "structure": "Kata Kerja: V ば + V dict + ほど (食べれば食べるほど, 考えれば考えるほど).",
   "explanation": "semakin banyak X, semakin banyak Y",
   "note": "〜ば〜ほど is a 'correlative intensifier' — 'the more X, the more Y'. The same predicate typically appears twice: once in the ば form and once in the dictionary form, followed by ほど. Works for verbs, i-adjectives, and (less commonly) na-adjectives. Highly productive and a very characteristic N3 pattern.",
   "formality": "neutral",
@@ -1218,7 +1218,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb → causative-passive form",
   "level": "N3",
-  "structure": "Ichidan: drop る, add させられる (食べる → 食べさせられる). Godan: u-row → a-row + せられる, OR contracted u-row → a-row + される (except 〜す verbs, which do not contract). Irregular: する → させられる, くる → こさせられる.",
+  "structure": "Ichidan: hilangkan る, tambahkan させられる (食べる → 食べさせられる).",
   "explanation": "dibuat untuk melakukan / dipaksa untuk melakukan",
   "note": "The causative-passive combines the causative and passive — literally 'be made to do by someone'. It almost always implies unwilling compulsion: the subject is a reluctant performer of the action. Structurally it chains the causative (させる / せる) and passive (られる) auxiliaries, with a common contracted form for godan verbs that is very frequent in speech.",
   "formality": "neutral",
@@ -1253,7 +1253,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-た / noun-の / i-adj / demonstrative + まま",
   "level": "N3",
-  "structure": "Vた + まま (つけたまま, 立ったまま). Noun + の + まま (昔のまま). i-adj + まま (若いまま). Demonstrative: そのまま, このまま, あのまま.",
+  "structure": "Vた + まま (つけたまま, 立ったまま).",
   "explanation": "tanpa mengubah / apa adanya / apa adanya",
   "note": "まま expresses that a state is being maintained without change — the action took place leaving the previous state in place. Commonly found with stative or result-retaining verbs. The demonstrative forms (そのまま, このまま, あのまま) are extremely common fixed phrases meaning 'as it is / like that'.",
   "formality": "neutral",
@@ -1288,7 +1288,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb negative stem + ずに",
   "level": "N3",
-  "structure": "V ない-form → replace ない with ずに: 食べない → 食べずに, 飲まない → 飲まずに. Irregulars: する → せずに (NOT しずに); くる → 来ずに / こずに.",
+  "structure": "Bentuk V ない → ganti ない dengan ずに: 食べない → 食べずに, 飲まない → 飲まずに.",
   "explanation": "tanpa melakukan",
   "note": "〜ずに is the formal/written equivalent of 〜ないで ('without doing'). It attaches to the verb's ない-stem, replacing ない with ず(に). Distinct から the spoken 〜ないで, it is commonly found in writing, literature, and more formal speech. The only irregularity is する → せずに (not しずに).",
   "formality": "neutral",
@@ -1323,7 +1323,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb stem + たがる / たがっている",
   "level": "N3",
-  "structure": "V ます-stem + たがる: 食べたがる, 行きたがる. Conjugates as a godan u-verb: 食べたがります, 食べたがらない, 食べたがった. Progressive form for current desire: たがっている (most common in modern usage).",
+  "structure": "V ます-batang + たがる: 食べたがる, 行きたがる.",
   "explanation": "(orang ketiga) ingin/menunjukkan tanda-tanda ingin",
   "note": "たがる expresses that a third person wants to do something — where Japanese treats one's own desires (〜たい) and others' desires differently. Others' inner states are observable only through behavior, so 〜たがる literally frames it as 'show signs of wanting'. Often used with children, pets, or people whose desires the speaker is inferring from their actions.",
   "formality": "neutral",
@@ -1359,7 +1359,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + さえ (+ negative or extreme statement)",
   "level": "N3",
-  "structure": "Noun + さえ (+ predicate). Also: V ます-stem + さえすれば ('if only one does X'); Noun + さえ + conditional.",
+  "structure": "Kata benda + さえ (+ predikat).",
   "explanation": "genap (tegas, kasus minimal)",
   "note": "さえ is an emphatic particle meaning 'even' — it highlights a minimal or unexpected case to make a point, often 'if even X (which is basic/minimal), then surely Y'. Commonly paired with conditional constructions (さえ〜ば 'if only X') or with negative statements to express surprise or disbelief ('even X doesn't Y'). More emphatic than でも in this sense.",
   "formality": "neutral",
@@ -1395,7 +1395,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + こそ",
   "level": "N3",
-  "structure": "Noun + こそ; sometimes follows other particles: からこそ ('precisely because'), のこそ.",
+  "structure": "Kata benda + こそ;",
   "explanation": "tepatnya / yang sangat / itu persis",
   "note": "こそ is an emphatic particle that highlights the preceding word as 'the very one' or 'precisely X'. It often replaces or follows は for contrastive emphasis. Common fixed phrases: 今度こそ ('this time for sure'), 今年こそ ('this year for sure'), こちらこそ ('same here / it's I who should say so'). Carries strong positive emphasis.",
   "formality": "neutral",
@@ -1466,7 +1466,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + 次第 / V ます-stem + 次第",
   "level": "N3",
-  "structure": "Noun + 次第 (depending on); V ます-stem + 次第 (as soon as).",
+  "structure": "Kata benda + 次第 (tergantung);",
   "explanation": "tergantung pada / secepatnya (formal)",
   "note": "〜次第 has two related senses: (1) 'depending on X' (attached to nouns) — 結果次第 ('depending on the result'); (2) 'as soon as X is done' (attached to verb ます-stems) — 分かり次第 ('as soon as I know'). Formal / written register, very common in business communication. Also appears as 次第です ('this is how it is'), a formal sentence-ender.",
   "formality": "formal",
@@ -1501,7 +1501,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain / i-adj / noun + である + 限り",
   "level": "N3",
-  "structure": "V plain non-past + 限り; i-adj + 限り; noun + である + 限り; na-adj + な + 限り. Negative: V ない + 限り ('unless').",
+  "structure": "V polos bukan masa lalu + 限り;",
   "explanation": "selama / sejauh / sejauh",
   "note": "〜限り has several related senses: (1) 'as long as' (as a condition continues) — V plain non-past + 限り; (2) 'to the extent that / as far as' (limit of knowledge or ability) — 知っている限り ('as far as I know'); (3) 'as long as X is the case' (condition on a state). A versatile marker for expressing scope or limit.",
   "formality": "neutral",
@@ -1537,7 +1537,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + だらけ",
   "level": "N3",
-  "structure": "Noun + だらけ (attributive: だらけの + N; predicate: だらけだ).",
+  "structure": "Kata benda + だらけ (atributif: だらけの + N; predikat: だらけだ).",
   "explanation": "penuh / ditutupi dengan (biasanya negatif)",
   "note": "〜だらけ expresses that something is covered with, full of, or marked by an excessive amount of a (usually undesirable) thing. Typical examples are dirt, blood, mistakes, scratches, or holes. The nuance is usually negative — an excessive, unpleasant amount. For positive abundance, other expressions like いっぱい or たっぷり are preferred.",
   "formality": "neutral",
@@ -1572,7 +1572,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + ふりをする",
   "level": "N3",
-  "structure": "V plain / i-adj + ふりをする; na-adj + な + ふりをする; noun + の + ふりをする.",
+  "structure": "V polos / i-adj + ふりをする;",
   "explanation": "untuk berpura-pura / bertindak seolah-olah",
   "note": "〜ふりをする expresses that the subject pretends to be or do something they actually are not or did not. ふり literally means 'appearance / pretense'. Commonly used in social situations where someone puts on a facade. The construction works with all predicate types: verbs, adjectives, and nouns (with の).",
   "formality": "neutral",
@@ -1607,7 +1607,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + くせに",
   "level": "N3",
-  "structure": "V plain / i-adj + くせに; na-adj + な + くせに; noun + の + くせに.",
+  "structure": "V polos / i-adj + くせに;",
   "explanation": "meskipun / meskipun (kontras kritis / mencela)",
   "note": "〜くせに is a contrastive marker with a strongly negative or critical nuance — 'despite X, Y', with the implication that Y is inappropriate, hypocritical, or inconsistent with X. More emotionally charged than のに, typically carrying reproach, complaint, or disdain. Used to criticize someone (rarely oneself) for contradictory behavior.",
   "formality": "casual",
@@ -1635,14 +1635,14 @@ export const grammarN3 = [
     "sentence": "男のくせに泣くな。",
     "reading": "おとこのくせになくな。",
     "romaji": "",
-    "meaning": "Don't cry — you're a man."
+    "meaning": "Jangan menangis - kamu laki-laki."
    }
   ]
  },
  {
   "pattern": "Plain form + わけだ",
   "level": "N3",
-  "structure": "V plain / i-adj + わけだ; na-adj + な + わけだ; noun + の/という + わけだ.",
+  "structure": "V polos / i-adj + わけだ;",
   "explanation": "artinya / tidak heran / itu sebabnya",
   "note": "〜わけだ expresses a logical conclusion or an 'aha' realization — 'that means X' or 'no wonder X'. It often signals that the speaker has just understood why something is the case. Distinct from わけではない ('it's not that / not necessarily'), which is treated as a separate entry. Can also express a deducible consequence: 5時に出れば、6時に着くわけだ.",
   "formality": "neutral",
@@ -1658,7 +1658,7 @@ export const grammarN3 = [
     "sentence": "雪が降っているから、寒いわけだ。",
     "reading": "ゆきがふっているから、さむいわけだ。",
     "romaji": "",
-    "meaning": "No wonder it's cold — it's snowing."
+    "meaning": "Tidak heran cuacanya dingin — sedang turun salju."
    },
    {
     "sentence": "5時間も勉強した。だから、合格したわけだ。",
@@ -1677,7 +1677,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + わけではない",
   "level": "N3",
-  "structure": "V plain / i-adj + わけではない / わけじゃない; na-adj + な + わけではない; noun + という + わけではない.",
+  "structure": "V polos / i-adj + わけではない / わけじゃない;",
   "explanation": "bukan (tentu saja) itu / bukan berarti begitu",
   "note": "〜わけではない softens a negative — 'it's not that I don't X' or 'that doesn't mean X'. It hedges an implication that the speaker wants to deny without outright rejecting the broader topic. Common in explanations when correcting a listener's assumption: 'it's not like I hate it, it's just that...'. The casual contracted form is わけじゃない.",
   "formality": "neutral",
@@ -1713,7 +1713,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + ようがない / ようもない",
   "level": "N3",
-  "structure": "V ます-stem + ようがない / ようもない.",
+  "structure": "V ます-batang + ようがない / ようもない.",
   "explanation": "tidak mungkin/tidak mungkin",
   "note": "〜ようがない expresses that there is no method, no way, or no possibility to do something — 'it's impossible to X'. Attached to the verb's ます-stem. The intensive form 〜ようもない is slightly stronger. Distinct from 〜できない (simple 'cannot') in that 〜ようがない emphasizes the absence of any method, not just the lack of ability.",
   "formality": "neutral",
@@ -1748,7 +1748,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + っぱなし",
   "level": "N3",
-  "structure": "V ます-stem + っぱなし (treated as a noun; often followed by だ or に).",
+  "structure": "V ます-stem + っぱなし (dianggap sebagai kata benda; sering diikuti oleh だ atau に).",
   "explanation": "membiarkan X dalam keadaan / terus menerus / tanpa henti",
   "note": "〜っぱなし has two related senses: (1) 'left in a state' — the action was done and the result/state was left unchanged, often with a nuance of carelessness or impropriety (電気をつけっぱなし 'left the light on'); (2) 'continuously / non-stop' — the action went on without interruption (立ちっぱなし 'stood the whole time'). Casual / colloquial register.",
   "formality": "casual",
@@ -1784,7 +1784,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + にしても",
   "level": "N3",
-  "structure": "V plain / i-adj / na-adj / noun + にしても.",
+  "structure": "V polos / i-adj / na-adj / kata benda + にしても.",
   "explanation": "bahkan jika / bahkan berasumsi / bahkan untuk",
   "note": "〜にしても is a concessive marker meaning 'even if / even assuming X' or 'even for (someone like) X'. It concedes a hypothetical or evaluative position and presents a main-clause observation regardless. Common in the fixed phrase どちらにしても / いずれにしても ('in any case / either way'). Also used to acknowledge an extreme example: 子供にしても、分かる ('even for a child, it's understandable').",
   "formality": "neutral",
@@ -1820,7 +1820,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + とは限らない",
   "level": "N3",
-  "structure": "Plain-form clause + とは限らない; noun + とは限らない.",
+  "structure": "Klausa bentuk biasa + とは限らない;",
   "explanation": "belum tentu/tidak selalu",
   "note": "〜とは限らない expresses that a general statement has exceptions — 'X is not necessarily true' or 'not always X'. It hedges a generalization by saying it doesn't hold in every case. Often contrasts with a listener's assumption: 'you might think X, but it's not always the case'. Related in nuance to わけではない but more specifically about generalizations and exceptions.",
   "formality": "neutral",
@@ -1855,7 +1855,7 @@ export const grammarN3 = [
  {
   "pattern": "V ない / i-adj くない + ことはない",
   "level": "N3",
-  "structure": "V ない + ことはない; i-adj く + ない + ことはない.",
+  "structure": "V ない + ことはない;",
   "explanation": "bukan berarti tidak/bukan tidak mungkin",
   "note": "〜ないことはない is a double negative that softens a positive statement — 'it's not that I don't X' or 'I suppose I can X'. Commonly used when the speaker is reluctantly agreeing or partially conceding. More tentative than an outright affirmative, often conveying hesitation or conditional willingness.",
   "formality": "neutral",
@@ -1890,7 +1890,7 @@ export const grammarN3 = [
  {
   "pattern": "V-て form / noun + 以来",
   "level": "N3",
-  "structure": "V-て + 以来; noun + 以来.",
+  "structure": "V-て +以来;",
   "explanation": "sejak / sejak (peristiwa tertentu di masa lalu)",
   "note": "〜以来 marks a past time point as the starting anchor for an ongoing state or repeated action — 'ever since X'. Attaches to the て-form of verbs or directly to nouns. Distinct from 〜てから (neutral 'after') in that 以来 emphasizes continuous or repeated effect from the past point up to now. Formal / written register.",
   "formality": "neutral",
@@ -1925,7 +1925,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + に対して",
   "level": "N3",
-  "structure": "Noun + に対して (adverbially). Noun + に対する + noun (attributively). For the contrast sense: Plain-form clause + のに対して.",
+  "structure": "Kata benda + に対して (kata keterangan).",
   "explanation": "ke arah / melawan / berlawanan dengan",
   "note": "〜に対して has two related senses: (1) 'toward / against' — marking the object of an attitude, action, or emotion directed at someone or something (親に対して失礼 'rude toward parents'); (2) 'in contrast to' — drawing an explicit contrast between two items (兄は静かなのに対して、弟はうるさい 'the older brother is quiet, whereas the younger one is loud'). The attributive form に対する / に対しての is productive.",
   "formality": "neutral",
@@ -1961,7 +1961,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + に関して / に関する",
   "level": "N3",
-  "structure": "Noun + に関して (adverbially). Noun + に関する + noun (attributively).",
+  "structure": "Kata benda + に関して (kata keterangan).",
   "explanation": "mengenai / mengenai (formal)",
   "note": "〜に関して is a more formal variant of について ('about / regarding'). Common in business, academic writing, news, and formal speech. The attributive form に関する + noun is productive in titles and headlines. Functionally close to について but with a more formal, topical feel.",
   "formality": "formal",
@@ -1996,7 +1996,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + にかわって / にかわり",
   "level": "N3",
-  "structure": "Noun + にかわって (neutral) / にかわり (formal).",
+  "structure": "Kata benda + にかわって (netral) / にかわり (formal).",
   "explanation": "sebagai pengganti / atas nama / sebagai pengganti",
   "note": "〜にかわって expresses substitution or representation — doing something in place of or on behalf of someone/something else. Formal variant にかわり appears in more literary contexts. Common in formal announcements ('on behalf of the company'). The attributive form にかわる + noun also exists.",
   "formality": "neutral",
@@ -2031,7 +2031,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + として",
   "level": "N3",
-  "structure": "Noun + として. Attributive: Noun + としての + noun.",
+  "structure": "Kata benda + として.",
   "explanation": "sebagai / dalam peran / dalam kapasitas",
   "note": "〜として marks the role, capacity, or identity in which someone acts or something functions — 'as X'. It can attach to professions ('as a teacher'), relationships ('as a friend'), identities ('as a Japanese person'), or purposes ('as a gift'). The negative form 〜としては + negative expresses 'for a X, unusually...'. Very common and productive.",
   "formality": "neutral",
@@ -2066,7 +2066,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + において / における",
   "level": "N3",
-  "structure": "Noun + において (adverbially). Noun + における + noun (attributively).",
+  "structure": "Kata benda + において (kata keterangan).",
   "explanation": "di / di / mengenai (formal)",
   "note": "〜において is a formal / written marker meaning 'in / at' a place, time, or domain. It is a literary equivalent of で for locations and some abstract domains. Very common in academic writing, business documents, speeches, and titles. The attributive form における + noun is especially productive in academic titles.",
   "formality": "formal",
@@ -2101,7 +2101,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + 向け(に / の)",
   "level": "N3",
-  "structure": "Noun + 向け (bare); noun + 向けに (adverbial); noun + 向けの + noun (attributive).",
+  "structure": "Kata benda + 向け (telanjang);",
   "explanation": "ditargetkan pada / untuk (audiens tertentu)",
   "note": "〜向け marks something as designed or targeted for a specific audience or group — 'for X', 'targeted at X'. Common in product descriptions, audience specifications, and market segmentation. The attributive form 向けの + noun is extremely common.",
   "formality": "neutral",
@@ -2136,7 +2136,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + 向き(の / に)",
   "level": "N3",
-  "structure": "Noun + 向きの + noun (attributive); noun + 向き (predicate).",
+  "structure": "Kata benda + 向きの + kata benda (atributif);",
   "explanation": "cocok untuk / pas secara alami",
   "note": "〜向き expresses inherent suitability or natural fit — 'well-suited for X'. Distinct from 向け, which is about intentional targeting. 向き describes a natural or inherent characteristic that makes something appropriate for a particular use or group. Common in describing personality, weather, food, and lifestyle fits.",
   "formality": "neutral",
@@ -2171,7 +2171,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain non-past / noun + につれて",
   "level": "N3",
-  "structure": "V plain non-past + につれて; noun + につれて.",
+  "structure": "V polos bukan masa lalu + につれて;",
   "explanation": "sebagai (X berkembang/meningkat), demikian pula",
   "note": "〜につれて expresses that one change happens in parallel with another — 'as X progresses, Y also progresses'. The two changes correlate or co-occur. Often used for natural, continuous processes. Similar to 〜にしたがって but with a slightly more natural / inevitable feel; both are commonly interchangeable.",
   "formality": "neutral",
@@ -2206,7 +2206,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / V plain + とともに",
   "level": "N3",
-  "structure": "Noun + とともに; V plain + とともに.",
+  "structure": "Kata Benda + とともに;",
   "explanation": "bersama dengan / saat X terjadi",
   "note": "〜とともに has two related senses: (1) 'together with' — noun + とともに, more formal than 〜と一緒に; (2) 'as X happens / simultaneously' — expressing parallel events or a relationship of co-occurrence. Literary / formal register. Can attach to noun, noun + する verb, or plain-form clause.",
   "formality": "formal",
@@ -2241,7 +2241,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / number + 切り / きり",
   "level": "N3",
-  "structure": "Noun / Number + counter + きり (or 切り).",
+  "structure": "Kata Benda / Angka + penghitung + きり (atau 切り).",
   "explanation": "hanya / eksklusif / adil",
   "note": "〜きり / 〜切り expresses exclusivity or limitation — 'only', 'just'. It combines with numbers, counters, or nouns to say 'only X (and nothing else)'. More emphatic than だけ in some contexts. Also appears in expressions like 二人きり ('just the two of us') implying intimacy or exclusivity.",
   "formality": "neutral",
@@ -2277,7 +2277,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb-た form + きり + (negative continuation)",
   "level": "N3",
-  "structure": "V-た + きり + negative / no-change clause.",
+  "structure": "V-た + きり + klausa negatif / tidak ada perubahan.",
   "explanation": "sejak terakhir melakukan X, (belum melakukan Y) / hanya melakukan X dan tidak lebih",
   "note": "〜たきり expresses that after doing X, nothing further has been done — often with a negative continuation clause. It implies an interruption or a state that has persisted since the past event. Common for describing situations that have not changed since a specific past moment. Distinct from the simple きり (exclusivity).",
   "formality": "neutral",
@@ -2313,7 +2313,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + だけに",
   "level": "N3",
-  "structure": "V plain / i-adj + だけに; na-adj + な + だけに; noun + (な / である) + だけに.",
+  "structure": "V polos / i-adj + だけに;",
   "explanation": "justru karena / menjadi X, terlebih lagi",
   "note": "〜だけに expresses a causal emphasis — 'precisely because X' or 'being X, (the consequence is) all the more (strong)'. It builds on だけ ('only / extent') but in a causal direction, implying that the degree of X corresponds to or amplifies the main clause's outcome. Often used to emphasize natural correspondence or heightened reactions.",
   "formality": "neutral",
@@ -2349,7 +2349,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + だけあって",
   "level": "N3",
-  "structure": "V plain / i-adj + だけあって; na-adj + な + だけあって; noun + (な / である) + だけあって.",
+  "structure": "V polos / i-adj + だけあって;",
   "explanation": "seperti yang diharapkan dari / dengan tepat",
   "note": "〜だけあって expresses that the main-clause quality is 'fittingly' or 'as you would expect from' the characteristic described in the だけあって clause — 'being X, of course Y'. Positive evaluative nuance: the speaker endorses the main-clause claim as natural given the premise. Often used to compliment skills, qualities, or training.",
   "formality": "neutral",
@@ -2384,7 +2384,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + ばかりに",
   "level": "N3",
-  "structure": "V plain / i-adj + ばかりに; na-adj + な / である + ばかりに; noun + である + ばかりに.",
+  "structure": "V polos / i-adj + ばかりに;",
   "explanation": "hanya karena / hanya karena (seringkali dengan hasil negatif)",
   "note": "〜ばかりに expresses that a minor or specific cause led to an (usually undesirable) consequence — 'merely because X, Y (unfortunately)'. Often used in regret or complaint contexts, emphasizing that the outcome stems from a single triggering cause. Distinct from 〜ばかり (only / nothing but).",
   "formality": "neutral",
@@ -2420,7 +2420,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + ばかりか",
   "level": "N3",
-  "structure": "V plain / i-adj + ばかりか; na-adj + な + ばかりか; noun + ばかりか.",
+  "structure": "V polos / i-adj + ばかりか;",
   "explanation": "bukan hanya X tapi juga Y",
   "note": "〜ばかりか is an additive construction meaning 'not only X, but also Y'. The Y clause usually extends the X claim, often to a more surprising or emphatic level. More formal than the casual 〜だけでなく. Common in emphatic or praiseworthy / critical descriptions. The shorter variant 〜どころか has a related but distinct use (far from X, actually Y).",
   "formality": "neutral",
@@ -2455,7 +2455,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + というより",
   "level": "N3",
-  "structure": "Plain-form clause / noun + というより (+ optionally むしろ) + alternative description.",
+  "structure": "Klausa bentuk biasa / kata benda + というより (+ opsional むしろ) + deskripsi alternatif.",
   "explanation": "daripada / lebih dari mengatakan X",
   "note": "〜というより presents a correction or refinement of a characterization — 'rather than saying X, it's more like Y'. The Y clause offers a more accurate or nuanced description. Common in explanations, corrections, and when trying to articulate something precisely. The longer form 〜というよりむしろ adds emphasis.",
   "formality": "neutral",
@@ -2491,7 +2491,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / plain form + と言えば",
   "level": "N3",
-  "structure": "Noun / plain form + と言えば.",
+  "structure": "Kata benda / bentuk biasa + と言えば.",
   "explanation": "berbicara tentang / ketika menyangkut",
   "note": "〜と言えば introduces a topic by taking the previous utterance as a jumping-off point — 'speaking of X'. Used to shift or extend a topic naturally in conversation. Distinct from 〜というと (similar, sometimes interchangeable, slightly more reflective) and from the fixed 〜といったら (emphatic 'when it comes to X').",
   "formality": "neutral",
@@ -2526,7 +2526,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + と言っても",
   "level": "N3",
-  "structure": "Plain-form clause / noun + と言っても.",
+  "structure": "Klausa bentuk biasa / kata benda + と言っても.",
   "explanation": "meskipun saya katakan / meskipun kami menyebutnya",
   "note": "〜と言っても qualifies a previous statement — 'although I say / call it X, (the reality is more modest / different from what you might think)'. It hedges an expectation by clarifying that the X claim is technically true but less grand than it might sound. Common in honest self-description and explanation.",
   "formality": "neutral",
@@ -2561,7 +2561,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + といった + noun",
   "level": "N3",
-  "structure": "Noun (+ 、 + noun) + といった + category noun.",
+  "structure": "Kata benda (+ 、 + kata benda) + といった + kata benda kategori.",
   "explanation": "seperti / hal-hal seperti",
   "note": "〜といった introduces examples as modifiers of a following noun — '(things) such as X', 'like X (and similar items)'. It is similar to 〜のような but more specifically example-oriented. More formal than 〜とか. The listed items may be a sample of a larger set or a representative pair.",
   "formality": "neutral",
@@ -2596,7 +2596,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / i-adj stem / V stem + っぽい",
   "level": "N3",
-  "structure": "Noun / i-adj stem / V ます-stem + っぽい; conjugates as an i-adjective.",
+  "structure": "Kata benda / kata sifat-i batang / V ます-batang + っぽい;",
   "explanation": "sepertinya / terlihat / -ish / cenderung",
   "note": "〜っぽい is a colloquial suffix that creates an i-adjective meaning 'seems X / looks like X / X-ish'. It can attach to nouns ('child-ish' 子供っぽい), i-adj stems (occasional), and verb stems ('easy to X' 忘れっぽい = 'forgetful'). Functions as an i-adjective and conjugates as such (〜っぽくない, 〜っぽかった).",
   "formality": "casual",
@@ -2632,7 +2632,7 @@ export const grammarN3 = [
  {
   "pattern": "i-adj / na-adj / V stem + げ",
   "level": "N3",
-  "structure": "i-adj (drop い) + げ; na-adj root + げ. Functions as a na-adjective.",
+  "structure": "i-adj (jatuhkan い) + げ;",
   "explanation": "tampak / muncul (-seperti)",
   "note": "〜げ is a suffix that converts an adjective or verb into a na-adjective meaning 'looking X' or 'appearing X'. Similar in sense to 〜そう (appearance) but more limited in use — 〜げ attaches to certain emotional adjectives and creates a feeling-appearance description. Literary / slightly old-fashioned flavor. Common ones: 悲しげ (looking sad), 嬉しげ, 不思議げ, 自信ありげ.",
   "formality": "neutral",
@@ -2668,7 +2668,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + どころか",
   "level": "N3",
-  "structure": "V plain / i-adj + どころか; na-adj + (な / である) + どころか; noun + どころか.",
+  "structure": "V polos / i-adj + どころか;",
   "explanation": "jauh dari / apalagi / sebaliknya",
   "note": "〜どころか is a strong contrastive construction meaning 'far from X, Y' — it rejects an expected or modest claim and presents a contrasting, often more intense, reality. 'Far from being X, it's actually Y'. The main clause typically presents something more extreme or opposite to what the X clause implied.",
   "formality": "neutral",
@@ -2704,7 +2704,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / V plain + どころではない",
   "level": "N3",
-  "structure": "Noun + どころではない; V plain + どころではない.",
+  "structure": "Kata Benda + どころではない;",
   "explanation": "tidak ada waktu untuk / tidak mampu / keluar dari pertanyaan",
   "note": "〜どころではない expresses that the current situation is far too serious, busy, or unfortunate to allow for the mentioned activity — 'it's not the time for X'. The speaker is too preoccupied, too stressed, or too affected to even consider X. Distinct from 〜どころか (contrastive 'far from'), though structurally related.",
   "formality": "neutral",
@@ -2732,14 +2732,14 @@ export const grammarN3 = [
     "sentence": "頭が痛くて、勉強どころではない。",
     "reading": "あたまがいたくて、べんきょうどころではない。",
     "romaji": "",
-    "meaning": "My head hurts — I can't afford to study."
+    "meaning": "Kepalaku sakit — aku tidak mampu belajar."
    }
   ]
  },
  {
   "pattern": "Plain form + 一方で",
   "level": "N3",
-  "structure": "V plain / i-adj + 一方で; na-adj + な / である + 一方で; noun + である + 一方で.",
+  "structure": "V polos / i-adj +一方で;",
   "explanation": "di sisi lain / sementara pada saat yang sama",
   "note": "〜一方で presents a contrast or parallel between two aspects, situations, or groups — 'on the one hand X, on the other Y'. The two clauses often describe complementary or contrasting facets of the same broader topic. Formal / neutral register, common in essays and balanced discussions.",
   "formality": "neutral",
@@ -2775,7 +2775,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb plain non-past + 一方だ",
   "level": "N3",
-  "structure": "V plain non-past + 一方だ. Usually with change verbs.",
+  "structure": "V polos bukan masa lalu +一方だ.",
   "explanation": "terus X-ing / terus meningkat (satu arah)",
   "note": "〜一方だ expresses that something is changing in only one direction, continuously — 'keeps only X-ing' or 'continues to X'. Typically paired with verbs of change (増える, 減る, 悪くなる, 良くなる). Often has a negative or concerned tone when the trend is undesirable. Distinct from 〜一方で ('on the other hand').",
   "formality": "neutral",
@@ -2810,7 +2810,7 @@ export const grammarN3 = [
  {
   "pattern": "V-た form / noun + の + 上で",
   "level": "N3",
-  "structure": "V-た + 上で; noun + の + 上で.",
+  "structure": "V-た + 上で;",
   "explanation": "setelah melakukan / setelah hati-hati X (sebagai prasyarat)",
   "note": "〜上で expresses that an action is taken as a careful prerequisite or foundation — 'after doing X (carefully), then Y'. It emphasizes that the X action is completed thoughtfully or officially before the main action. Common in formal contexts: 相談の上 ('after consultation'), 検討した上で ('after consideration'). Distinct from 〜上に (additive).",
   "formality": "neutral",
@@ -2845,7 +2845,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + わりに(は)",
   "level": "N3",
-  "structure": "V plain / i-adj + わりに(は); na-adj + な + わりに(は); noun + の + わりに(は).",
+  "structure": "V polos / i-adj + わりに(は);",
   "explanation": "mempertimbangkan / untuk (X), (relatif) Y",
   "note": "〜わりに(は) expresses that something is unexpected or disproportionate to a given standard — 'considering X, Y is unexpected / more (or less) than you'd think'. The comparison is relative to the X premise, and the main clause often describes something surprising in either direction. More neutral in tone than のに (contrast with frustration).",
   "formality": "neutral",
@@ -2880,7 +2880,7 @@ export const grammarN3 = [
  {
   "pattern": "V-て form / i-adj 〜くて / na-adj で + たまらない",
   "level": "N3",
-  "structure": "V-て + たまらない; i-adj 〜くて + たまらない; na-adj + で + たまらない.",
+  "structure": "V-て + たまらない;",
   "explanation": "tak tertahankan / tidak tahan bagaimana caranya",
   "note": "〜てたまらない expresses that a feeling, sensation, or desire is overwhelming — 'unbearably X'. Common with physical sensations (hungry, cold, hot), emotional states (happy, sad, worried), and strong desires. Similar in function to 〜てしょうがない and 〜てならない (see separate entry), which are near-synonyms with slightly different nuances.",
   "formality": "neutral",
@@ -2915,7 +2915,7 @@ export const grammarN3 = [
  {
   "pattern": "V-て form / i-adj 〜くて / na-adj で + ならない",
   "level": "N3",
-  "structure": "V-て + ならない; i-adj 〜くて + ならない; na-adj + で + ならない.",
+  "structure": "V-て + ならない;",
   "explanation": "tidak bisa menahan perasaan/tak terkendali",
   "note": "〜てならない expresses that the speaker can't help feeling a certain way — a feeling or sensation that arises uncontrollably and can't be suppressed. Close in meaning to 〜てたまらない but typically used for emotional states and impressions rather than physical sensations. Formal / slightly literary.",
   "formality": "neutral",
@@ -2950,7 +2950,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + 中 (ちゅう / じゅう)",
   "level": "N3",
-  "structure": "Noun + 中 (reading varies: ちゅう for ongoing, じゅう for throughout).",
+  "structure": "Kata benda + 中 (bacaannya bervariasi: ちゅう untuk yang sedang berlangsung, じゅう untuk keseluruhan).",
   "explanation": "selama / di tengah / sepanjang",
   "note": "〜中 is a suffix with two related readings and meanings: (1) ちゅう = 'during / in the middle of (an ongoing activity)' — 勉強中 ('while studying'); (2) じゅう = 'throughout / for the entire duration' — 一日中 ('all day long'), 世界中 ('throughout the world'). The reading is determined by the base noun and usage — both are common.",
   "formality": "neutral",
@@ -2985,7 +2985,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / V ます-stem + 気味",
   "level": "N3",
-  "structure": "Noun / V ます-stem + 気味; functions as na-adjective predicate; 気味な + N for attributive.",
+  "structure": "Kata Benda / V ます-batang + 気味;",
   "explanation": "muncul / cenderung / tampak sedikit",
   "note": "〜気味 is a suffix meaning 'slightly / tending toward / appearing' — it attaches to a noun or verb stem to describe a mild state or tendency. Often used for minor physical conditions ('slightly tired / under the weather') or tendencies. Functions as a na-adjective in predicate use.",
   "formality": "neutral",
@@ -3020,7 +3020,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + 続ける",
   "level": "N3",
-  "structure": "V ます-stem + 続ける (conjugates as an ichidan verb: 続けます, 続けた, 続けている).",
+  "structure": "V ます-stem + 続ける (berkonjugasi sebagai kata kerja ichidan: 続けます, 続けた, 続けている).",
   "explanation": "terus melakukan/terus melakukan",
   "note": "〜続ける is an auxiliary verb meaning 'continue doing X' — attached to the ます-stem to express persistence or continuation of an action. Often indicates sustained effort or determination. The past form 続けた expresses completion of a long-term action, and 続けている expresses current continuation.",
   "formality": "neutral",
@@ -3055,7 +3055,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + 直す",
   "level": "N3",
-  "structure": "V ます-stem + 直す (conjugates as godan: 直します, 直した, 直して).",
+  "structure": "V ます-stem + 直す (konjugasi menjadi godan: 直します, 直した, 直して).",
   "explanation": "ulangi/lakukan (X) lagi",
   "note": "〜直す is an auxiliary verb meaning 'do X again / redo X' — typically used to fix, improve, or restart an action. Common for revising, rewriting, reconsidering, rebuilding. Attaches to the ます-stem of the base verb and conjugates as a godan verb.",
   "formality": "neutral",
@@ -3090,7 +3090,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + 合う",
   "level": "N3",
-  "structure": "V ます-stem + 合う (conjugates as godan: 合います, 合った, 合って).",
+  "structure": "V ます-stem + 合う (konjugasi menjadi godan: 合います, 合った, 合って).",
   "explanation": "melakukan X secara gotong royong/timbal balik",
   "note": "〜合う is an auxiliary verb expressing mutual or reciprocal action — both parties do the action to each other. Common with interpersonal verbs: 話し合う ('talk to each other / discuss'), 助け合う ('help each other'), 愛し合う ('love each other'), 見つめ合う ('gaze at each other').",
   "formality": "neutral",
@@ -3125,7 +3125,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + 出す",
   "level": "N3",
-  "structure": "V ます-stem + 出す (conjugates as godan: 出します, 出した, 出して).",
+  "structure": "V ます-batang + 出す (konjugasi menjadi godan: 出します, 出した, 出して).",
   "explanation": "tiba-tiba mulai (melakukan X) / mulai tiba-tiba",
   "note": "〜出す is an auxiliary verb expressing a sudden or unplanned start of an action — 'suddenly X', 'burst into X'. Distinct from 〜始める (planned / deliberate start). Often used with emotional or spontaneous verbs: 泣き出す ('burst into tears'), 笑い出す ('burst out laughing'), 走り出す ('suddenly start running'), 降り出す ('start raining').",
   "formality": "neutral",
@@ -3160,7 +3160,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + 込む",
   "level": "N3",
-  "structure": "V ます-stem + 込む (conjugates as godan: 込みます, 込んだ, 込んで).",
+  "structure": "V ます-batang + 込む (konjugasi menjadi godan: 込みます, 込んだ, 込んで).",
   "explanation": "lakukan X secara menyeluruh / ke dalam (ruang atau keadaan)",
   "note": "〜込む is an auxiliary verb with two related senses: (1) 'into (a space)' — movement or action penetrating into something (飛び込む 'jump in', 書き込む 'write into'); (2) 'thoroughly / deeply' — the action is done with depth or intensity (考え込む 'think deeply', 信じ込む 'firmly believe'). Common in both physical and abstract compounds.",
   "formality": "neutral",
@@ -3195,7 +3195,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / V 〜ている + 最中",
   "level": "N3",
-  "structure": "Noun + の + 最中(に); V 〜ている + 最中(に).",
+  "structure": "Kata Benda + の + 最中(に);",
   "explanation": "di tengah / tepat di tengah",
   "note": "〜最中 (さいちゅう) expresses that an action or event is at its peak or most-intense moment — 'right in the middle of'. Often used for interruptions: 'in the middle of X, Y happened'. Distinct from 〜ているところ ('in the middle of doing') in that 最中 emphasizes the peak or core of the activity.",
   "formality": "neutral",
@@ -3231,7 +3231,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + っけ",
   "level": "N3",
-  "structure": "V plain (often past) + っけ; noun / na-adj + (だ)(った) + っけ.",
+  "structure": "V polos (sering lewat) + っけ;",
   "explanation": "apakah itu yang terjadi / aku tidak begitu ingat (santai)",
   "note": "〜っけ is a sentence-ending particle used when the speaker is trying to recall or confirm something they already knew or were told — 'was it the case that...?' / 'I can't quite remember, was it...?'. Strongly casual; typically used to oneself or to a close listener. Often attached to past-tense plain forms or to だ / だった (for nouns / na-adj).",
   "formality": "casual",
@@ -3266,7 +3266,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + もの / もん",
   "level": "N3",
-  "structure": "Plain-form clause + もの / もん; often at sentence end after a main clause.",
+  "structure": "Klausa bentuk biasa + もの / もん;",
   "explanation": "karena / sejak (emosional atau membenarkan)",
   "note": "〜もの / 〜もん used at the end of a sentence or before a main clause gives a reason with an emotional or justifying flavor — 'because, you know' / 'but I did it because...'. Common in casual speech, especially when the speaker is defending, excusing, or emotionally explaining their actions. もん is the more casual contracted form.",
   "formality": "casual",
@@ -3302,7 +3302,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + んだもん",
   "level": "N3",
-  "structure": "V plain / i-adj + んだもん; na-adj + な + んだもん; noun + な + んだもん.",
+  "structure": "V polos / i-adj + んだもん;",
   "explanation": "(itu) karena / itu sebabnya (merengek santai)",
   "note": "〜んだもん is the casual contracted form of 〜ものだから, used to give an emotionally-charged reason or excuse — 'because, I'm telling you' / 'that's why (don't blame me)'. Very common in casual speech, sometimes with a whining or defensive nuance, especially among younger speakers and in emotional contexts.",
   "formality": "casual",
@@ -3325,7 +3325,7 @@ export const grammarN3 = [
     "sentence": "知らなかったんだもん、仕方ないでしょ。",
     "reading": "しらなかったんだもん、しかたないでしょ。",
     "romaji": "",
-    "meaning": "I didn't know — it can't be helped."
+    "meaning": "Aku tidak tahu—mau bagaimana lagi."
    },
    {
     "sentence": "だって、好きなんだもん。",
@@ -3338,7 +3338,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ない-form + で",
   "level": "N3",
-  "structure": "V ない-form (without dropping い) + で: 食べないで, 行かないで, 言わないで.",
+  "structure": "Bentuk V ない (tanpa menjatuhkan い) + で: 食べないで, 行かないで, 言わないで.",
   "explanation": "tanpa melakukan / bukannya melakukan",
   "note": "〜ないで is the casual equivalent of 〜ずに, expressing 'without doing X' or 'instead of doing X'. Formed from the negative ない plus the て-form connector で. Common in both casual and neutral speech. Distinct from the polite 〜ないでください (don't do) which is already in the dataset at N5.",
   "formality": "neutral",
@@ -3374,7 +3374,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + にちがいない",
   "level": "N3",
-  "structure": "V plain / i-adj + にちがいない; na-adj / noun + にちがいない (no な / だ before).",
+  "structure": "V polos / i-adj + にちがいない;",
   "explanation": "harus / pasti / tidak diragukan lagi",
   "note": "〜にちがいない expresses the speaker's strong conviction — 'it must be X', 'there's no doubt that X'. Stronger than 〜はず (expectation) and 〜だろう (conjecture). The speaker is making a confident judgment, usually based on available evidence. More formal than 〜にきまっている (which is slightly more casual and emphatic).",
   "formality": "neutral",
@@ -3410,7 +3410,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb plain non-past + ことだ",
   "level": "N3",
-  "structure": "V plain non-past + ことだ; V ない + ことだ ('shouldn't').",
+  "structure": "V polos bukan masa lalu + ことだ;",
   "explanation": "harus melakukan / disarankan / yang penting lakukan",
   "note": "〜ことだ expresses strong advice or recommendation — 'the important thing is to do X' or 'you should definitely X'. It is firm and somewhat preachy, often used by elders, teachers, or in moralizing contexts. Distinct from the more neutral 〜たほうがいい (had better) and from 〜べきだ (should, moral duty).",
   "formality": "neutral",
@@ -3446,7 +3446,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb plain non-past + (より)ほか(は)ない",
   "level": "N3",
-  "structure": "V plain non-past + ほかない / よりほかない / よりほかはない.",
+  "structure": "V polos bukan masa lalu + ほかない / よりほかない / よりほかはない.",
   "explanation": "tidak punya pilihan selain / tidak ada pilihan kecuali",
   "note": "〜(より)ほかない expresses that there is no alternative to doing X — 'there's no choice but to X'. More formal than the casual しかない. The より is often dropped in modern usage. A resignation-flavored construction, common when acknowledging an unavoidable action.",
   "formality": "neutral",
@@ -3481,7 +3481,7 @@ export const grammarN3 = [
  {
   "pattern": "i-adj / na-adj (+ な) / V-た + ことに(は)",
   "level": "N3",
-  "structure": "i-adj + ことに; na-adj + な + ことに; V plain past + ことに.",
+  "structure": "i-kata sifat + ことに;",
   "explanation": "untuk kejutan/kegembiraan/kekecewaan X",
   "note": "〜ことに(は) expresses the speaker's emotional reaction to a fact, placed at the start of the sentence — 'to my surprise', 'to my delight', 'unfortunately'. Common adjectives: 驚いた (surprised), 嬉しい (happy), 残念な (unfortunate), 面白い (interesting). Formal / literary register, common in essays and written narratives.",
   "formality": "neutral",
@@ -3516,7 +3516,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain non-past + くらいなら",
   "level": "N3",
-  "structure": "V plain non-past + くらいなら (+ main clause preferring an alternative).",
+  "structure": "V polos bukan masa lalu + くらいなら (+ klausa utama lebih memilih alternatif).",
   "explanation": "daripada / jika menyangkut X, saya lebih memilih Y",
   "note": "〜くらいなら compares a hypothetical undesirable X with an alternative Y, where Y is preferable — 'rather than X, I'd prefer Y'. The main clause typically expresses a preferred (but often also drastic) alternative. Common in rhetorical contexts expressing strong aversion: 'I'd rather die than X'.",
   "formality": "neutral",
@@ -3551,7 +3551,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + から + Noun + にかけて",
   "level": "N3",
-  "structure": "Noun + から + Noun + にかけて; Noun + にかけて (for temporal 'toward / during').",
+  "structure": "Kata Benda + から + Kata Benda + にかけて;",
   "explanation": "dari X sampai Y / selama rentang",
   "note": "〜から〜にかけて expresses a spatial or temporal span — 'from X through Y'. The span is general and continuous, not a precise from-to, contrasting with 〜から〜まで (which specifies exact endpoints). Also used as 〜にかけて alone to mean 'during / toward' a period. A secondary, separate meaning is 'excel at / be good at' (〜にかけては).",
   "formality": "neutral",
@@ -3586,7 +3586,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + 以外(に / には / は)",
   "level": "N3",
-  "structure": "Noun + 以外 + particle (に / には / は / の); attributive form 以外の + noun.",
+  "structure": "Kata benda + 以外 + partikel (に / には / は / の);",
   "explanation": "selain / selain / kecuali",
   "note": "〜以外 attached to a noun means 'other than X' or 'besides X'. With には, it restricts the scope: 'besides X, (there is no / only)'. It is the grammatical complement of the positive だけ (only). Very common for exclusions and exceptions.",
   "formality": "neutral",
@@ -3621,7 +3621,7 @@ export const grammarN3 = [
  {
   "pattern": "Number + counter + おきに",
   "level": "N3",
-  "structure": "Number + counter + おきに.",
+  "structure": "Nomor + penghitung + おきに.",
   "explanation": "pada interval / setiap lainnya",
   "note": "〜おきに expresses regular intervals — 'every X', 'at intervals of X'. Often understood as 'every other' for short intervals: 1日おきに = 'every other day'. Note the subtle difference from 〜ごとに ('every / each'): おきに emphasizes the gap between occurrences, while ごとに emphasizes the unit of recurrence.",
   "formality": "neutral",
@@ -3656,7 +3656,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun / V plain non-past + ごとに",
   "level": "N3",
-  "structure": "Noun + ごとに; V plain non-past + ごとに.",
+  "structure": "Kata Benda + ごとに;",
   "explanation": "setiap / setiap / setiap waktu",
   "note": "〜ごとに expresses 'each / every' at regular recurring units — 'every X', 'each X'. Can attach to nouns (人ごと 'per person') or verbs (会うごとに 'every time we meet'). Compare with 〜おきに (intervals, with a gap nuance). ごとに emphasizes the unit of recurrence; おきに emphasizes the gap between occurrences.",
   "formality": "neutral",
@@ -3691,7 +3691,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain / noun + の + 代わりに",
   "level": "N3",
-  "structure": "V plain + 代わりに; noun + の + 代わりに.",
+  "structure": "V polos +代わりに;",
   "explanation": "alih-alih / sebagai gantinya",
   "note": "〜代わりに has two related senses: (1) 'instead of / in place of' (substitution) — お茶の代わりにコーヒーを飲む ('drink coffee instead of tea'); (2) 'in exchange for / to make up for' — 手伝う代わりにお金をもらう ('get money in exchange for helping'). Neutral register, very common in everyday speech.",
   "formality": "neutral",
@@ -3726,7 +3726,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + んだから",
   "level": "N3",
-  "structure": "V plain / i-adj + んだから; na-adj + な + んだから; noun + な + んだから. Polite: のですから / んですから.",
+  "structure": "V polos / i-adj + んだから;",
   "explanation": "sejak / karena (tegas)",
   "note": "〜んだから is a more emphatic form of から, combining the explanatory ん (のだ) with から. It is used to give a strong or somewhat insistent reason, often with emotional emphasis — 'since X (and you should know it)'. Common in arguments, pleas, and firm advice. The ですから form is the polite equivalent.",
   "formality": "neutral",
@@ -3762,7 +3762,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + わけがない",
   "level": "N3",
-  "structure": "V plain / i-adj + わけがない; na-adj + な + わけがない; noun + の + わけがない. Casual: わけない.",
+  "structure": "V polos / i-adj + わけがない;",
   "explanation": "tidak mungkin/tidak mungkin itu",
   "note": "〜わけがない is an emphatic negation — 'there's no way that X' / 'it's impossible for X to be the case'. Stronger than はずがない (which is expectation-based). The speaker flatly denies the possibility. The casual contracted form is わけない.",
   "formality": "neutral",
@@ -3798,7 +3798,7 @@ export const grammarN3 = [
  {
   "pattern": "しょうがない / しようがない (standalone)",
   "level": "N3",
-  "structure": "しょうがない / しようがない (standalone expression).",
+  "structure": "しょうがない / しようがない (ekspresi mandiri).",
   "explanation": "mau bagaimana lagi/tidak ada yang bisa dilakukan",
   "note": "しょうがない (contraction of しようがない, literally 'there is no way to do') is a frequently-used expression meaning 'it can't be helped / nothing can be done about it'. Used to accept an unavoidable situation with resignation. Distinct from 〜てしょうがない (which expresses an uncontrollable feeling — see te-shou-ga-nai).",
   "formality": "neutral",
@@ -3833,7 +3833,7 @@ export const grammarN3 = [
  {
   "pattern": "V-て / i-adj 〜くて / na-adj で + しょうがない",
   "level": "N3",
-  "structure": "V-て + しょうがない; i-adj 〜くて + しょうがない; na-adj + で + しょうがない.",
+  "structure": "V-て + しょうがない;",
   "explanation": "tidak bisa menahan perasaan/tak tertahankan",
   "note": "〜てしょうがない expresses an uncontrollable or unbearable feeling, very close in meaning to 〜てたまらない and 〜てしかたがない. Casual register, very common in speech. The three are near-synonyms with small register differences: しょうがない is the most casual, たまらない is neutral, しかたがない is more formal.",
   "formality": "casual",
@@ -3870,7 +3870,7 @@ export const grammarN3 = [
  {
   "pattern": "V-て / i-adj 〜くて / na-adj で + しかたがない",
   "level": "N3",
-  "structure": "V-て + しかたがない; i-adj 〜くて + しかたがない; na-adj + で + しかたがない.",
+  "structure": "V-て + しかたがない;",
   "explanation": "tidak bisa menahan perasaan / tak tertahankan (lebih formal)",
   "note": "〜てしかたがない is a more formal variant of 〜てしょうがない, expressing an uncontrollable or unbearable feeling. しかたがない literally means 'there is no way / method', mirroring しょうがない's structure. Appropriate in writing and formal speech where しょうがない would be too casual.",
   "formality": "formal",
@@ -3906,7 +3906,7 @@ export const grammarN3 = [
  {
   "pattern": "Verb ます-stem + っこない",
   "level": "N3",
-  "structure": "V ます-stem + っこない: 分かりっこない, 来っこない, 勝てっこない.",
+  "structure": "V ます-batang + っこない: 分かりっこない, 来っこない, 勝てっこない.",
   "explanation": "sama sekali tidak/tidak mungkin/tidak ada peluang",
   "note": "〜っこない is a very casual, emphatic denial of possibility — 'there's no way X will happen' / 'absolutely not'. It attaches to the verb's ます-stem. Strong colloquial flavor, common in everyday speech when refuting an assumption or prediction. More casual than 〜わけがない.",
   "formality": "casual",
@@ -3941,7 +3941,7 @@ export const grammarN3 = [
  {
   "pattern": "Phrase + なんて",
   "level": "N3",
-  "structure": "Noun / plain-form clause + なんて.",
+  "structure": "Kata benda / klausa bentuk biasa + なんて.",
   "explanation": "bagaimana / seperti (suatu hal) sebagai (sering mengejutkan, meremehkan, atau memecat)",
   "note": "〜なんて is a versatile particle that can mark (1) surprise or astonishment ('how ~!'); (2) dismissal or belittling ('(things) like ~'); (3) casual quotation ('he said ~' or 'the thing called ~'). It attaches to nouns or plain-form clauses. Register is casual. Close in function to 〜などと but more common in speech.",
   "formality": "casual",
@@ -3976,7 +3976,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + なんか",
   "level": "N3",
-  "structure": "Noun + なんか.",
+  "structure": "Kata benda + なんか.",
   "explanation": "hal-hal seperti / (meremehkan) seperti",
   "note": "〜なんか is a casual dismissive or belittling particle — 'things like X' with a note of disdain or self-deprecation. Similar in function to なんて but more common in everyday speech. Can also express humility: 私なんか... ('someone like me...'). Often found with negative predicates.",
   "formality": "casual",
@@ -4011,7 +4011,7 @@ export const grammarN3 = [
  {
   "pattern": "Time period + ぶり(に)",
   "level": "N3",
-  "structure": "Time period + ぶり(に); attributive 時間 + ぶりの + noun.",
+  "structure": "Jangka waktu + ぶり(に);",
   "explanation": "untuk pertama kalinya di / setelah X",
   "note": "〜ぶりに attaches to a time period and expresses that something is happening for the first time in that span — 'for the first time in X (years/months)'. Often used for reunions, revisits, or the resumption of activities after a long gap. The attributive form ぶりの + noun is also common.",
   "formality": "neutral",
@@ -4046,7 +4046,7 @@ export const grammarN3 = [
  {
   "pattern": "V ない-form + わけにはいかない",
   "level": "N3",
-  "structure": "V ない-form + わけにはいかない.",
+  "structure": "Bentuk V ない + わけにはいかない.",
   "explanation": "tidak bisa tidak melakukan / harus (kewajiban sosial atau moral)",
   "note": "〜ないわけにはいかない is a double-negative construction meaning 'can't not do X' — the speaker feels socially, morally, or circumstantially obligated to do something. Common for expressing obligations arising from social expectations rather than direct requirements. The positive counterpart 〜わけにはいかない ('can't afford to do') is treated as a separate entry.",
   "formality": "neutral",
@@ -4082,7 +4082,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain non-past + わけにはいかない",
   "level": "N3",
-  "structure": "V plain non-past + わけにはいかない.",
+  "structure": "V polos bukan masa lalu + わけにはいかない.",
   "explanation": "tidak mampu / tidak bisa melakukan begitu saja (karena keadaan)",
   "note": "〜わけにはいかない expresses that the speaker cannot do X for social, moral, or practical reasons — 'I can't afford to X' / 'I can't (despite wanting to)'. The main clause action is usually something the speaker might want to do, but circumstances forbid it. The negative counterpart 〜ないわけにはいかない ('have to do') is treated separately.",
   "formality": "neutral",
@@ -4118,7 +4118,7 @@ export const grammarN3 = [
  {
   "pattern": "V plain / noun + の + ついでに",
   "level": "N3",
-  "structure": "V plain / V-た + ついでに; noun + の + ついでに.",
+  "structure": "V polos / V-た + ついでに;",
   "explanation": "selagi saya melakukannya / dalam perjalanan / mengambil kesempatan",
   "note": "〜ついでに expresses that one action is done 'on the way' or 'while doing' another — the main goal is X, and Y is done opportunistically alongside it. Common for errands and convenience: 'while I'm at the store, I'll also get bread'. Can attach to verbs or nouns.",
   "formality": "neutral",
@@ -4153,7 +4153,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + をはじめ(として / とする)",
   "level": "N3",
-  "structure": "Noun + をはじめ (+ として); noun + をはじめとする + noun (attributive).",
+  "structure": "Kata Benda + をはじめ (+ として);",
   "explanation": "dimulai dengan / termasuk / seperti (contoh representatif)",
   "note": "〜をはじめ introduces a prominent or representative example from a larger group — 'starting with X (and including others)'. The X is typically the most notable member of the set. Common in formal listings, introductions, and descriptions. The fuller forms をはじめとして and をはじめとする are equivalent.",
   "formality": "neutral",
@@ -4188,7 +4188,7 @@ export const grammarN3 = [
  {
   "pattern": "V-て form + こそ",
   "level": "N3",
-  "structure": "V-て + こそ + main clause (typically present / affirmative).",
+  "structure": "V-て + こそ + klausa utama (biasanya hadir / afirmatif).",
   "explanation": "hanya dengan / justru dengan melakukan",
   "note": "〜てこそ emphasizes that only by doing X can the main-clause result be achieved — 'it's only by doing X that Y'. The てこそ clause is portrayed as the essential precondition for Y. Formal / literary register, common in moralizing or principle-stating contexts.",
   "formality": "neutral",
@@ -4224,7 +4224,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + ばかりでなく",
   "level": "N3",
-  "structure": "V plain / i-adj + ばかりでなく; na-adj + な + ばかりでなく; noun + ばかりでなく.",
+  "structure": "V polos / i-adj + ばかりでなく;",
   "explanation": "tidak hanya X tetapi juga Y (formal)",
   "note": "〜ばかりでなく is a formal additive construction meaning 'not only X but also Y'. The Y clause extends the X claim in the same direction. More formal than 〜だけでなく, common in written and formal speech. Closely related to 〜ばかりか (also additive).",
   "formality": "formal",
@@ -4260,7 +4260,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + だけでなく",
   "level": "N3",
-  "structure": "V plain / i-adj + だけでなく; na-adj + な + だけでなく; noun + だけでなく.",
+  "structure": "V polos / i-adj + だけでなく;",
   "explanation": "tidak hanya X tetapi juga Y (netral)",
   "note": "〜だけでなく is the neutral, everyday additive construction meaning 'not only X but also Y'. It is the most commonly used of the 'not only' family, appropriate for both written and spoken Japanese. Often paired with も in the main clause for emphasis: 〜だけでなく、〜も.",
   "formality": "neutral",
@@ -4296,7 +4296,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + に決まっている",
   "level": "N3",
-  "structure": "V plain / i-adj + に決まっている; na-adj / noun + に決まっている (no な / だ).",
+  "structure": "V polos / i-adj + に決まっている;",
   "explanation": "itu pasti/tentu saja/pasti",
   "note": "〜に決まっている expresses the speaker's strong conviction that something is obviously true — 'it's definitely X' / 'of course X' / 'X is a sure thing'. Somewhat casual and emphatic, often used in responses to obvious questions or to emphasize an inevitable conclusion. Stronger conviction than はず or でしょう.",
   "formality": "neutral",
@@ -4332,7 +4332,7 @@ export const grammarN3 = [
  {
   "pattern": "V negative stem + ずに済む",
   "level": "N3",
-  "structure": "V ない-stem + ずに済む (irregular: する → せずに済む). Past: ずに済んだ.",
+  "structure": "V ない-batang + ずに済む (tidak beraturan: する → せずに済む).",
   "explanation": "bertahan tanpa/mengelola tanpa harus",
   "note": "〜ずに済む expresses that something was avoided or managed without the need for a certain action — 'get by without doing X'. It combines the formal negative 〜ずに ('without doing') with 済む ('to be settled / to end'). The nuance is often one of relief — 'thankfully, I didn't have to X'.",
   "formality": "neutral",
@@ -4367,7 +4367,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + に比べて / に比べ",
   "level": "N3",
-  "structure": "Noun + に比べて (adverbial); noun + に比べ (slightly more formal variant).",
+  "structure": "Kata Benda + に比べて (kata keterangan);",
   "explanation": "dibandingkan dengan / dibandingkan dengan",
   "note": "〜に比べて (and the slightly more formal 〜に比べ) introduces a standard of comparison — 'compared to X'. The main clause describes how another item measures up against X. More explicit and formal than a simple 〜より construction. Common in statistics, descriptions of change, and formal comparisons.",
   "formality": "neutral",
@@ -4402,7 +4402,7 @@ export const grammarN3 = [
  {
   "pattern": "V-て form + 初めて",
   "level": "N3",
-  "structure": "V-て + 初めて + main clause (often past tense).",
+  "structure": "V-て + 初めて + klausa utama (seringkali dalam bentuk lampau).",
   "explanation": "hanya setelah / tidak sampai",
   "note": "〜て初めて expresses that the main-clause realization, action, or feeling happened for the first time only after the 〜て clause event — 'it was only after doing X that Y'. Common for insight, understanding, and first-time experiences that were triggered by a specific event. Formal / reflective register.",
   "formality": "neutral",
@@ -4438,7 +4438,7 @@ export const grammarN3 = [
  {
   "pattern": "Noun + に当たる",
   "level": "N3",
-  "structure": "Noun + に当たる (polite: にあたります).",
+  "structure": "Kata benda + に当たる (sopan: にあたります).",
   "explanation": "sesuai dengan / setara dengan / jatuh pada (sehari)",
   "note": "〜に当たる has several related senses: (1) correspond to / be equivalent to — used for counting equivalences (例えば Japanese in English); (2) fall on a specific day (今日は誕生日に当たる); (3) be one's family/relation. Formal / neutral register.",
   "formality": "formal",
@@ -4473,7 +4473,7 @@ export const grammarN3 = [
  {
   "pattern": "たとえ + V-て form + も",
   "level": "N3",
-  "structure": "たとえ + V-て + も; たとえ + i-adj 〜くても; たとえ + na-adj / noun + でも.",
+  "structure": "たとえ + V-て + も;",
   "explanation": "bahkan jika (tegas hipotetis)",
   "note": "たとえ〜ても is an emphatic form of 〜ても, prefixing the adverb たとえ ('even / supposing') to make the hypothetical concessive stronger — 'even if (unlikely) X, Y'. It is often used when the main clause expresses firm resolve or principle against a challenging hypothetical. The basic 〜ても pattern is the base; たとえ just adds emphasis.",
   "formality": "neutral",
@@ -4508,7 +4508,7 @@ export const grammarN3 = [
  {
   "pattern": "V-て form + ごらん(なさい)",
   "level": "N3",
-  "structure": "V-て + ごらん (casual); V-て + ごらんなさい (slightly more polite/parental).",
+  "structure": "V-て + ごらん (santai);",
   "explanation": "coba lakukan (hangat/saran orang tua)",
   "note": "〜てごらん is a casual, often parental or warm form of 'try doing X'. It overlaps with 〜てみる but carries a recommending nuance — 'give it a try, I think you'll like it'. The longer form 〜てごらんなさい is slightly more polite/instructive. Typical of parent-to-child or teacher-to-student contexts, and friends suggesting something enthusiastically.",
   "formality": "casual",
@@ -4544,7 +4544,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + ものだ",
   "level": "N3",
-  "structure": "V plain / i-adj + ものだ; na-adj + な + ものだ; noun + の + ものだ.",
+  "structure": "V polos / i-adj + ものだ;",
   "explanation": "itu wajar / seharusnya / secara umum (kebenaran atau kecenderungan umum)",
   "note": "〜ものだ expresses a general truth, an expected state of affairs, or a common tendency — 'that's just how things are'. It is used to state something that the speaker considers universally or normatively true. Distinct from ものだ expressing nostalgia about the past ('used to do X') and from ものではない ('shouldn't / isn't done'). The past-tense form ものだった can express nostalgia: 'used to ___'.",
   "formality": "neutral",
@@ -4579,7 +4579,7 @@ export const grammarN3 = [
  {
   "pattern": "Plain form + 気がする",
   "level": "N3",
-  "structure": "Plain-form predicate + 気がする. For noun/na-adj: include the copula (〜だ + 気がする or 〜な + 気がする).",
+  "structure": "Predikat bentuk biasa + 気がする.",
   "explanation": "merasa seperti / mempunyai perasaan itu",
   "note": "〜気がする expresses an intuition, premonition, or vague feeling — less firm than 〜と思う. Used for hunches, emotional impressions, and non-evidential guesses. 気がした (past) = 'had a feeling'. 気 literally means 'spirit / mind / feeling', and the full phrase is 'there is a feeling of X'.",
   "formality": "neutral",

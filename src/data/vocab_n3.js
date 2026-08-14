@@ -79,7 +79,7 @@ export const vocabN3 = [
  {
   "word": "歩道",
   "reading": "ほどう",
-  "romaji": "hodō",
+  "romaji": "hodou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jalan setapak, jalan setapak, trotoar",
@@ -90,7 +90,7 @@ export const vocabN3 = [
  {
   "word": "想像",
   "reading": "そうぞう",
-  "romaji": "sōzō",
+  "romaji": "souzou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "imajinasi, tebak",
@@ -123,7 +123,7 @@ export const vocabN3 = [
  {
   "word": "ライター",
   "reading": "ライター",
-  "romaji": "raitā",
+  "romaji": "raita",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lebih ringan, pengendara, penulis",
@@ -200,7 +200,7 @@ export const vocabN3 = [
  {
   "word": "中央",
   "reading": "ちゅうおう",
-  "romaji": "chūō",
+  "romaji": "chuuou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tengah, tengah, tengah, tengah",
@@ -255,7 +255,7 @@ export const vocabN3 = [
  {
   "word": "修正",
   "reading": "しゅうせい",
-  "romaji": "shūsei",
+  "romaji": "shuusei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "amandemen, koreksi, revisi, modifikasi",
@@ -299,7 +299,7 @@ export const vocabN3 = [
  {
   "word": "活動",
   "reading": "かつどう",
-  "romaji": "katsudō",
+  "romaji": "katsudou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tindakan, aktivitas",
@@ -310,7 +310,7 @@ export const vocabN3 = [
  {
   "word": "少年",
   "reading": "しょうねん",
-  "romaji": "shōnen",
+  "romaji": "shounen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anak laki-laki, remaja",
@@ -343,7 +343,7 @@ export const vocabN3 = [
  {
   "word": "週",
   "reading": "しゅう",
-  "romaji": "shū",
+  "romaji": "shuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekan",
@@ -365,7 +365,7 @@ export const vocabN3 = [
  {
   "word": "適用",
   "reading": "てきよう",
-  "romaji": "tekiyō",
+  "romaji": "tekiyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "melamar",
@@ -420,7 +420,7 @@ export const vocabN3 = [
  {
   "word": "利口",
   "reading": "りこう",
-  "romaji": "rikō",
+  "romaji": "rikou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pandai, lihai, cemerlang, tajam, bijaksana, cerdas",
@@ -431,7 +431,7 @@ export const vocabN3 = [
  {
   "word": "ちょうだい",
   "reading": "ちょうだい",
-  "romaji": "chōdai",
+  "romaji": "choudai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "(1) tolong lakukan untuk saya (didahului dengan -te), (2) penerimaan, diberikan, dapatkan",
@@ -475,7 +475,7 @@ export const vocabN3 = [
  {
   "word": "カー",
   "reading": "カー",
-  "romaji": "kā",
+  "romaji": "ka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mobil",
@@ -519,7 +519,7 @@ export const vocabN3 = [
  {
   "word": "両替",
   "reading": "りょうがえ",
-  "romaji": "ryōgae",
+  "romaji": "ryougae",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kembalian, penukaran uang",
@@ -552,7 +552,7 @@ export const vocabN3 = [
  {
   "word": "サービス",
   "reading": "サービス",
-  "romaji": "sābisu",
+  "romaji": "sabisu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) jasa, sistem pendukung, (2) barang atau jasa tanpa biaya tambahan",
@@ -607,7 +607,7 @@ export const vocabN3 = [
  {
   "word": "国境",
   "reading": "こっきょう",
-  "romaji": "kokkyō",
+  "romaji": "kokkyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batas negara atau negara",
@@ -618,7 +618,7 @@ export const vocabN3 = [
  {
   "word": "昼食",
   "reading": "ちゅうしょく",
-  "romaji": "chūshoku",
+  "romaji": "chuushoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makan siang, makan siang",
@@ -640,7 +640,7 @@ export const vocabN3 = [
  {
   "word": "弁当",
   "reading": "べんとう",
-  "romaji": "bentō",
+  "romaji": "bentou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kotak makan siang",
@@ -695,7 +695,7 @@ export const vocabN3 = [
  {
   "word": "批評",
   "reading": "ひひょう",
-  "romaji": "hihyō",
+  "romaji": "hihyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kritik, ulasan, komentar",
@@ -750,7 +750,7 @@ export const vocabN3 = [
  {
   "word": "冒険",
   "reading": "ぼうけん",
-  "romaji": "bōken",
+  "romaji": "bouken",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "risiko, usaha, petualangan",
@@ -761,7 +761,7 @@ export const vocabN3 = [
  {
   "word": "周囲",
   "reading": "しゅうい",
-  "romaji": "shūi",
+  "romaji": "shuui",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lingkungan sekitar, keliling, lingkungan sekitar",
@@ -783,7 +783,7 @@ export const vocabN3 = [
  {
   "word": "乗客",
   "reading": "じょうきゃく",
-  "romaji": "jōkyaku",
+  "romaji": "joukyaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penumpang",
@@ -805,7 +805,7 @@ export const vocabN3 = [
  {
   "word": "曜日",
   "reading": "ようび",
-  "romaji": "yōbi",
+  "romaji": "youbi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hari dalam seminggu",
@@ -827,7 +827,7 @@ export const vocabN3 = [
  {
   "word": "棒",
   "reading": "ぼう",
-  "romaji": "bō",
+  "romaji": "bou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tiang, batang, tongkat",
@@ -860,7 +860,7 @@ export const vocabN3 = [
  {
   "word": "地球",
   "reading": "ちきゅう",
-  "romaji": "chikyū",
+  "romaji": "chikyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bumi",
@@ -871,7 +871,7 @@ export const vocabN3 = [
  {
   "word": "担当",
   "reading": "たんとう",
-  "romaji": "tantō",
+  "romaji": "tantou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(dalam) biaya",
@@ -937,7 +937,7 @@ export const vocabN3 = [
  {
   "word": "消防",
   "reading": "しょうぼう",
-  "romaji": "shōbō",
+  "romaji": "shoubou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemadaman kebakaran, pemadaman kebakaran",
@@ -992,7 +992,7 @@ export const vocabN3 = [
  {
   "word": "コード",
   "reading": "コード",
-  "romaji": "kōdo",
+  "romaji": "kodo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kode, kabel, akord",
@@ -1069,7 +1069,7 @@ export const vocabN3 = [
  {
   "word": "容易",
   "reading": "ようい",
-  "romaji": "yōi",
+  "romaji": "youi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mudah, sederhana, polos",
@@ -1091,7 +1091,7 @@ export const vocabN3 = [
  {
   "word": "事情",
   "reading": "じじょう",
-  "romaji": "jijō",
+  "romaji": "jijou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keadaan, pertimbangan, kondisi, situasi, alasan",
@@ -1146,7 +1146,7 @@ export const vocabN3 = [
  {
   "word": "ボール",
   "reading": "ボール",
-  "romaji": "bōru",
+  "romaji": "boru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bola, mangkuk",
@@ -1168,7 +1168,7 @@ export const vocabN3 = [
  {
   "word": "要するに",
   "reading": "ようするに",
-  "romaji": "yōsuruni",
+  "romaji": "yousuruni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "singkatnya, intinya adalah.., singkatnya..",
@@ -1223,7 +1223,7 @@ export const vocabN3 = [
  {
   "word": "心臓",
   "reading": "しんぞう",
-  "romaji": "shinzō",
+  "romaji": "shinzou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jantung",
@@ -1267,7 +1267,7 @@ export const vocabN3 = [
  {
   "word": "才能",
   "reading": "さいのう",
-  "romaji": "sainō",
+  "romaji": "sainou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bakat, kemampuan",
@@ -1278,7 +1278,7 @@ export const vocabN3 = [
  {
   "word": "有効",
   "reading": "ゆうこう",
-  "romaji": "yūkō",
+  "romaji": "yuukou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "validitas, ketersediaan, efektivitas",
@@ -1300,7 +1300,7 @@ export const vocabN3 = [
  {
   "word": "大家",
   "reading": "おおや",
-  "romaji": "ōya",
+  "romaji": "ooya",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keluarga kaya, keluarga terpandang",
@@ -1487,7 +1487,7 @@ export const vocabN3 = [
  {
   "word": "注目",
   "reading": "ちゅうもく",
-  "romaji": "chūmoku",
+  "romaji": "chuumoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perhatian, perhatian, pengamatan",
@@ -1498,7 +1498,7 @@ export const vocabN3 = [
  {
   "word": "方",
   "reading": "ほう",
-  "romaji": "hō",
+  "romaji": "hou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "samping",
@@ -1509,7 +1509,7 @@ export const vocabN3 = [
  {
   "word": "タイプライター",
   "reading": "タイプライター",
-  "romaji": "taipuraitā",
+  "romaji": "taipuraita",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mesin tik",
@@ -1553,7 +1553,7 @@ export const vocabN3 = [
  {
   "word": "人工",
   "reading": "じんこう",
-  "romaji": "jinkō",
+  "romaji": "jinkou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buatan, buatan manusia, pekerjaan manusia, ketrampilan manusia, kepalsuan",
@@ -1564,7 +1564,7 @@ export const vocabN3 = [
  {
   "word": "火曜",
   "reading": "かよう",
-  "romaji": "kayō",
+  "romaji": "kayou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(abbr) Selasa",
@@ -1575,7 +1575,7 @@ export const vocabN3 = [
  {
   "word": "俳優",
   "reading": "はいゆう",
-  "romaji": "haiyū",
+  "romaji": "haiyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aktor, aktris, pemain, pemain",
@@ -1597,7 +1597,7 @@ export const vocabN3 = [
  {
   "word": "特徴",
   "reading": "とくちょう",
-  "romaji": "tokuchō",
+  "romaji": "tokuchou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "fitur, karakteristik",
@@ -1630,7 +1630,7 @@ export const vocabN3 = [
  {
   "word": "雰囲気",
   "reading": "ふんいき",
-  "romaji": "fun'iki",
+  "romaji": "funiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suasana (musikmisalnya), suasana hati, suasana",
@@ -1641,7 +1641,7 @@ export const vocabN3 = [
  {
   "word": "そう",
   "reading": "そう",
-  "romaji": "sō",
+  "romaji": "sou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "Jadi",
@@ -1652,7 +1652,7 @@ export const vocabN3 = [
  {
   "word": "嫁",
   "reading": "よめ",
-  "romaji": "",
+  "romaji": "yome",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pengantin, menantu perempuan",
@@ -1663,7 +1663,7 @@ export const vocabN3 = [
  {
   "word": "次々",
   "reading": "つぎつぎ",
-  "romaji": "",
+  "romaji": "tsugitsugi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berturut-turut, satu demi satu",
@@ -1674,7 +1674,7 @@ export const vocabN3 = [
  {
   "word": "スター",
   "reading": "すたー",
-  "romaji": "",
+  "romaji": "suta",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bintang",
@@ -1685,7 +1685,7 @@ export const vocabN3 = [
  {
   "word": "順",
   "reading": "じゅん",
-  "romaji": "",
+  "romaji": "jun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pesan, putar",
@@ -1696,7 +1696,7 @@ export const vocabN3 = [
  {
   "word": "承認",
   "reading": "しょうにん",
-  "romaji": "",
+  "romaji": "shounin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengakuan, pengakuan, persetujuan, persetujuan, persetujuan",
@@ -1707,7 +1707,7 @@ export const vocabN3 = [
  {
   "word": "向ける",
   "reading": "むける",
-  "romaji": "",
+  "romaji": "mukeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berbalik ke arah, untuk menunjuk",
@@ -1718,7 +1718,7 @@ export const vocabN3 = [
  {
   "word": "豆",
   "reading": "まめ",
-  "romaji": "",
+  "romaji": "mame",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buncis, kacang polong",
@@ -1729,7 +1729,7 @@ export const vocabN3 = [
  {
   "word": "スケート",
   "reading": "すけーと",
-  "romaji": "",
+  "romaji": "suketo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "skate, skating",
@@ -1740,7 +1740,7 @@ export const vocabN3 = [
  {
   "word": "留める",
   "reading": "とめる",
-  "romaji": "",
+  "romaji": "tomeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengencangkan, mematikan, menahan",
@@ -1751,7 +1751,7 @@ export const vocabN3 = [
  {
   "word": "合格",
   "reading": "ごうかく",
-  "romaji": "",
+  "romaji": "goukaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keberhasilan, kelulusan (misalnya ujian), kelayakan",
@@ -1762,7 +1762,7 @@ export const vocabN3 = [
  {
   "word": "以前",
   "reading": "いぜん",
-  "romaji": "",
+  "romaji": "izen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lalu, sejak, sebelumnya, sebelumnya",
@@ -1773,7 +1773,7 @@ export const vocabN3 = [
  {
   "word": "筋肉",
   "reading": "きんにく",
-  "romaji": "",
+  "romaji": "kinniku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "otot, otot",
@@ -1784,7 +1784,7 @@ export const vocabN3 = [
  {
   "word": "下",
   "reading": "げ",
-  "romaji": "",
+  "romaji": "ge",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di bawah, di bawah, di bawah",
@@ -1795,7 +1795,7 @@ export const vocabN3 = [
  {
   "word": "暮らし",
   "reading": "くらし",
-  "romaji": "",
+  "romaji": "kurashi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penghidupan, penghidupan, penghidupan, keadaan",
@@ -1806,7 +1806,7 @@ export const vocabN3 = [
  {
   "word": "パスポート",
   "reading": "ぱすぽーと",
-  "romaji": "",
+  "romaji": "pasupoto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "paspor",
@@ -1817,7 +1817,7 @@ export const vocabN3 = [
  {
   "word": "いらいら",
   "reading": "いらいら",
-  "romaji": "",
+  "romaji": "iraira",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menjadi gugup, iritasi",
@@ -1828,7 +1828,7 @@ export const vocabN3 = [
  {
   "word": "方法",
   "reading": "ほうほう",
-  "romaji": "",
+  "romaji": "houhou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "metode,cara,cara,cara,teknik",
@@ -1839,7 +1839,7 @@ export const vocabN3 = [
  {
   "word": "生産",
   "reading": "せいさん",
-  "romaji": "",
+  "romaji": "seisan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "produksi, manufaktur",
@@ -1850,7 +1850,7 @@ export const vocabN3 = [
  {
   "word": "居る",
   "reading": "おる",
-  "romaji": "",
+  "romaji": "oru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi (bernyawa),menjadi,ada",
@@ -1861,7 +1861,7 @@ export const vocabN3 = [
  {
   "word": "次第",
   "reading": "しだい",
-  "romaji": "",
+  "romaji": "shidai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) urutan, prioritas, (2) keadaan, (3) segera",
@@ -1872,7 +1872,7 @@ export const vocabN3 = [
  {
   "word": "チーム",
   "reading": "ちーむ",
-  "romaji": "",
+  "romaji": "chimu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tim",
@@ -1883,7 +1883,7 @@ export const vocabN3 = [
  {
   "word": "通す",
   "reading": "とおす",
-  "romaji": "",
+  "romaji": "toosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membiarkan berlalu, untuk mengabaikan, untuk melanjutkan",
@@ -1894,7 +1894,7 @@ export const vocabN3 = [
  {
   "word": "ワイン",
   "reading": "わいん",
-  "romaji": "",
+  "romaji": "wain",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggur",
@@ -1905,7 +1905,7 @@ export const vocabN3 = [
  {
   "word": "家事",
   "reading": "かじ",
-  "romaji": "",
+  "romaji": "kaji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekerjaan rumah tangga, pekerjaan rumah tangga",
@@ -1916,7 +1916,7 @@ export const vocabN3 = [
  {
   "word": "結局",
   "reading": "けっきょく",
-  "romaji": "",
+  "romaji": "kekkyoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pada akhirnya",
@@ -1927,7 +1927,7 @@ export const vocabN3 = [
  {
   "word": "身長",
   "reading": "しんちょう",
-  "romaji": "",
+  "romaji": "shinchou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tinggi (tubuh), perawakan",
@@ -1938,7 +1938,7 @@ export const vocabN3 = [
  {
   "word": "流れる",
   "reading": "ながれる",
-  "romaji": "",
+  "romaji": "nagareru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mengalir, mengalir, mengalir (tinta), terhanyut",
@@ -1949,7 +1949,7 @@ export const vocabN3 = [
  {
   "word": "計画",
   "reading": "けいかく",
-  "romaji": "",
+  "romaji": "keikaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rencana, proyek, jadwal, skema, program",
@@ -1960,7 +1960,7 @@ export const vocabN3 = [
  {
   "word": "物理",
   "reading": "ぶつり",
-  "romaji": "",
+  "romaji": "butsuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "fisika",
@@ -1971,7 +1971,7 @@ export const vocabN3 = [
  {
   "word": "ヨーロッパ",
   "reading": "よーろっぱ",
-  "romaji": "",
+  "romaji": "yoroppa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Eropa",
@@ -1982,7 +1982,7 @@ export const vocabN3 = [
  {
   "word": "教授",
   "reading": "きょうじゅ",
-  "romaji": "",
+  "romaji": "kyouju",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pengajaran, instruksi, profesor",
@@ -1993,7 +1993,7 @@ export const vocabN3 = [
  {
   "word": "書斎",
   "reading": "しょさい",
-  "romaji": "",
+  "romaji": "shosai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "belajar",
@@ -2004,7 +2004,7 @@ export const vocabN3 = [
  {
   "word": "避ける",
   "reading": "さける",
-  "romaji": "",
+  "romaji": "sakeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) menghindari (kontak fisik), (2) menangkal, menghindari",
@@ -2015,7 +2015,7 @@ export const vocabN3 = [
  {
   "word": "飛行",
   "reading": "ひこう",
-  "romaji": "",
+  "romaji": "hikou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penerbangan",
@@ -2026,7 +2026,7 @@ export const vocabN3 = [
  {
   "word": "必死",
   "reading": "ひっし",
-  "romaji": "",
+  "romaji": "hisshi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kematian yang tak terelakkan, keputusasaan, kepanikan, akibat yang tak terelakkan",
@@ -2037,7 +2037,7 @@ export const vocabN3 = [
  {
   "word": "カード",
   "reading": "かーど",
-  "romaji": "",
+  "romaji": "kado",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kartu, dadih",
@@ -2048,7 +2048,7 @@ export const vocabN3 = [
  {
   "word": "満足",
   "reading": "まんぞく",
-  "romaji": "",
+  "romaji": "manzoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kepuasan",
@@ -2059,7 +2059,7 @@ export const vocabN3 = [
  {
   "word": "誤り",
   "reading": "あやまり",
-  "romaji": "",
+  "romaji": "ayamari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesalahan",
@@ -2070,7 +2070,7 @@ export const vocabN3 = [
  {
   "word": "奥",
   "reading": "おく",
-  "romaji": "",
+  "romaji": "oku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "interior, bagian dalam",
@@ -2081,7 +2081,7 @@ export const vocabN3 = [
  {
   "word": "地下",
   "reading": "ちか",
-  "romaji": "",
+  "romaji": "chika",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ruang bawah tanah, bawah tanah",
@@ -2092,7 +2092,7 @@ export const vocabN3 = [
  {
   "word": "文句",
   "reading": "もんく",
-  "romaji": "",
+  "romaji": "monku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "frase, keluhan",
@@ -2103,7 +2103,7 @@ export const vocabN3 = [
  {
   "word": "食卓",
   "reading": "しょくたく",
-  "romaji": "",
+  "romaji": "shokutaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "meja makan",
@@ -2114,7 +2114,7 @@ export const vocabN3 = [
  {
   "word": "情報",
   "reading": "じょうほう",
-  "romaji": "",
+  "romaji": "jouhou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "informasi, intelijen (militer).",
@@ -2125,7 +2125,7 @@ export const vocabN3 = [
  {
   "word": "泳ぎ",
   "reading": "およぎ",
-  "romaji": "",
+  "romaji": "oyogi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "renang",
@@ -2136,7 +2136,7 @@ export const vocabN3 = [
  {
   "word": "泉",
   "reading": "いずみ",
-  "romaji": "",
+  "romaji": "izumi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "musim semi, air mancur",
@@ -2147,7 +2147,7 @@ export const vocabN3 = [
  {
   "word": "観光",
   "reading": "かんこう",
-  "romaji": "",
+  "romaji": "kankou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tamasya",
@@ -2158,7 +2158,7 @@ export const vocabN3 = [
  {
   "word": "航空",
   "reading": "こうくう",
-  "romaji": "",
+  "romaji": "koukuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penerbangan, terbang",
@@ -2169,7 +2169,7 @@ export const vocabN3 = [
  {
   "word": "嘘",
   "reading": "うそ",
-  "romaji": "",
+  "romaji": "uso",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebohongan, kepalsuan, fakta yang salah, tidak pantas",
@@ -2180,7 +2180,7 @@ export const vocabN3 = [
  {
   "word": "日付",
   "reading": "ひづけ",
-  "romaji": "",
+  "romaji": "hizuke",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kencan, berkencan",
@@ -2191,7 +2191,7 @@ export const vocabN3 = [
  {
   "word": "物語",
   "reading": "ものがたり",
-  "romaji": "",
+  "romaji": "monogatari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dongeng, cerita, legenda",
@@ -2202,7 +2202,7 @@ export const vocabN3 = [
  {
   "word": "食品",
   "reading": "しょくひん",
-  "romaji": "",
+  "romaji": "shokuhin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "komoditas, bahan makanan",
@@ -2213,7 +2213,7 @@ export const vocabN3 = [
  {
   "word": "結果",
   "reading": "けっか",
-  "romaji": "",
+  "romaji": "kekka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akibat, konsekuensi",
@@ -2224,7 +2224,7 @@ export const vocabN3 = [
  {
   "word": "騒ぎ",
   "reading": "さわぎ",
-  "romaji": "",
+  "romaji": "sawagi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keributan, gangguan",
@@ -2235,7 +2235,7 @@ export const vocabN3 = [
  {
   "word": "取れる",
   "reading": "とれる",
-  "romaji": "",
+  "romaji": "toreru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk lepas, untuk dilepas, untuk disingkirkan",
@@ -2246,7 +2246,7 @@ export const vocabN3 = [
  {
   "word": "語学",
   "reading": "ごがく",
-  "romaji": "",
+  "romaji": "gogaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "studi bahasa",
@@ -2257,7 +2257,7 @@ export const vocabN3 = [
  {
   "word": "申し訳",
   "reading": "もうしわけ",
-  "romaji": "",
+  "romaji": "moushiwake",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "maaf, permisi",
@@ -2268,7 +2268,7 @@ export const vocabN3 = [
  {
   "word": "孫",
   "reading": "まご",
-  "romaji": "",
+  "romaji": "mago",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cucu",
@@ -2279,7 +2279,7 @@ export const vocabN3 = [
  {
   "word": "肌",
   "reading": "はだ",
-  "romaji": "",
+  "romaji": "hada",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kulit",
@@ -2290,7 +2290,7 @@ export const vocabN3 = [
  {
   "word": "尤も",
   "reading": "もっとも",
-  "romaji": "",
+  "romaji": "mottomo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benar sekali, masuk akal, wajar, namun tetap saja",
@@ -2301,7 +2301,7 @@ export const vocabN3 = [
  {
   "word": "教師",
   "reading": "きょうし",
-  "romaji": "",
+  "romaji": "kyoushi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "guru (kelas)",
@@ -2312,7 +2312,7 @@ export const vocabN3 = [
  {
   "word": "裁判",
   "reading": "さいばん",
-  "romaji": "",
+  "romaji": "saiban",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persidangan, penghakiman",
@@ -2323,7 +2323,7 @@ export const vocabN3 = [
  {
   "word": "心配",
   "reading": "しんぱい",
-  "romaji": "",
+  "romaji": "shinpai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "khawatir, khawatir, cemas, peduli",
@@ -2334,7 +2334,7 @@ export const vocabN3 = [
  {
   "word": "小麦",
   "reading": "こむぎ",
-  "romaji": "",
+  "romaji": "komugi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gandum",
@@ -2345,7 +2345,7 @@ export const vocabN3 = [
  {
   "word": "混雑",
   "reading": "こんざつ",
-  "romaji": "",
+  "romaji": "konzatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kebingungan, kemacetan",
@@ -2356,7 +2356,7 @@ export const vocabN3 = [
  {
   "word": "余り",
   "reading": "あまり",
-  "romaji": "",
+  "romaji": "amari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak terlalu (digunakan sebagai kata keterangan), tidak banyak",
@@ -2367,7 +2367,7 @@ export const vocabN3 = [
  {
   "word": "岩",
   "reading": "いわ",
-  "romaji": "",
+  "romaji": "iwa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batu, karang",
@@ -2378,7 +2378,7 @@ export const vocabN3 = [
  {
   "word": "月曜",
   "reading": "げつよう",
-  "romaji": "",
+  "romaji": "getsuyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Senin",
@@ -2389,7 +2389,7 @@ export const vocabN3 = [
  {
   "word": "述べる",
   "reading": "のべる",
-  "romaji": "",
+  "romaji": "noberu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menyatakan, mengungkapkan, menyebutkan",
@@ -2400,7 +2400,7 @@ export const vocabN3 = [
  {
   "word": "前進",
   "reading": "ぜんしん",
-  "romaji": "",
+  "romaji": "zenshin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "maju, berkendara, maju",
@@ -2411,7 +2411,7 @@ export const vocabN3 = [
  {
   "word": "資本",
   "reading": "しほん",
-  "romaji": "",
+  "romaji": "shihon",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dana, modal",
@@ -2422,7 +2422,7 @@ export const vocabN3 = [
  {
   "word": "演説",
   "reading": "えんぜつ",
-  "romaji": "",
+  "romaji": "enzetsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pidato, alamat",
@@ -2433,7 +2433,7 @@ export const vocabN3 = [
  {
   "word": "見事",
   "reading": "みごと",
-  "romaji": "",
+  "romaji": "migoto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "indah, megah, indah, mengagumkan",
@@ -2444,7 +2444,7 @@ export const vocabN3 = [
  {
   "word": "論じる",
   "reading": "ろんじる",
-  "romaji": "",
+  "romaji": "ronjiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "berdebat, berdiskusi, berdebat",
@@ -2455,7 +2455,7 @@ export const vocabN3 = [
  {
   "word": "再び",
   "reading": "ふたたび",
-  "romaji": "",
+  "romaji": "futatabi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lagi, sekali lagi, untuk kedua kalinya",
@@ -2466,7 +2466,7 @@ export const vocabN3 = [
  {
   "word": "万一",
   "reading": "まんいち",
-  "romaji": "",
+  "romaji": "manichi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "secara kebetulan, dengan kemungkinan tertentu, jika kebetulan, peluang 10E4:1",
@@ -2477,7 +2477,7 @@ export const vocabN3 = [
  {
   "word": "常に",
   "reading": "つねに",
-  "romaji": "",
+  "romaji": "tsuneni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selalu, terus-menerus",
@@ -2488,7 +2488,7 @@ export const vocabN3 = [
  {
   "word": "プロ",
   "reading": "ぷろ",
-  "romaji": "",
+  "romaji": "puro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "profesional",
@@ -2499,7 +2499,7 @@ export const vocabN3 = [
  {
   "word": "飼う",
   "reading": "かう",
-  "romaji": "",
+  "romaji": "kau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memelihara, membesarkan, memberi makan",
@@ -2510,7 +2510,7 @@ export const vocabN3 = [
  {
   "word": "狂う",
   "reading": "くるう",
-  "romaji": "",
+  "romaji": "kuruu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi gila, menjadi tidak teratur",
@@ -2521,7 +2521,7 @@ export const vocabN3 = [
  {
   "word": "地平線",
   "reading": "ちへいせん",
-  "romaji": "",
+  "romaji": "chiheisen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "horison",
@@ -2532,7 +2532,7 @@ export const vocabN3 = [
  {
   "word": "この",
   "reading": "この",
-  "romaji": "",
+  "romaji": "kono",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ini",
@@ -2543,7 +2543,7 @@ export const vocabN3 = [
  {
   "word": "医師",
   "reading": "いし",
-  "romaji": "",
+  "romaji": "ishi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dokter, tabib",
@@ -2554,7 +2554,7 @@ export const vocabN3 = [
  {
   "word": "身体",
   "reading": "しんたい",
-  "romaji": "",
+  "romaji": "shintai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tubuh",
@@ -2565,7 +2565,7 @@ export const vocabN3 = [
  {
   "word": "出版",
   "reading": "しゅっぱん",
-  "romaji": "",
+  "romaji": "shuppan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "publikasi",
@@ -2576,7 +2576,7 @@ export const vocabN3 = [
  {
   "word": "技師",
   "reading": "ぎし",
-  "romaji": "",
+  "romaji": "gishi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "insinyur, teknisi",
@@ -2587,7 +2587,7 @@ export const vocabN3 = [
  {
   "word": "精々",
   "reading": "せいぜい",
-  "romaji": "",
+  "romaji": "seizei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "paling banyak, paling banter, semaksimal mungkin, sejauh (jauh) mungkin",
@@ -2598,7 +2598,7 @@ export const vocabN3 = [
  {
   "word": "だから",
   "reading": "だから",
-  "romaji": "",
+  "romaji": "dakara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jadi, oleh karena itu",
@@ -2609,7 +2609,7 @@ export const vocabN3 = [
  {
   "word": "大抵",
   "reading": "たいてい",
-  "romaji": "",
+  "romaji": "taitei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biasanya, secara umum",
@@ -2620,7 +2620,7 @@ export const vocabN3 = [
  {
   "word": "区別",
   "reading": "くべつ",
-  "romaji": "",
+  "romaji": "kubetsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pembedaan, diferensiasi, klasifikasi",
@@ -2631,7 +2631,7 @@ export const vocabN3 = [
  {
   "word": "博物館",
   "reading": "はくぶつかん",
-  "romaji": "",
+  "romaji": "hakubutsukan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "museum",
@@ -2642,7 +2642,7 @@ export const vocabN3 = [
  {
   "word": "目的",
   "reading": "もくてき",
-  "romaji": "",
+  "romaji": "mokuteki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "maksud, sasaran, sasaran, sasaran, niat",
@@ -2653,7 +2653,7 @@ export const vocabN3 = [
  {
   "word": "予算",
   "reading": "よさん",
-  "romaji": "",
+  "romaji": "yosan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perkiraan, anggaran",
@@ -2664,7 +2664,7 @@ export const vocabN3 = [
  {
   "word": "我慢",
   "reading": "がまん",
-  "romaji": "",
+  "romaji": "gaman",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kesabaran, daya tahan, ketekunan",
@@ -2675,7 +2675,7 @@ export const vocabN3 = [
  {
   "word": "底",
   "reading": "そこ",
-  "romaji": "",
+  "romaji": "soko",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bawah, sol",
@@ -2686,7 +2686,7 @@ export const vocabN3 = [
  {
   "word": "あと",
   "reading": "あと",
-  "romaji": "",
+  "romaji": "ato",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) jejak,jejak,(2) sisa-sisa,reruntuhan,(3) bekas luka",
@@ -2697,7 +2697,7 @@ export const vocabN3 = [
  {
   "word": "気候",
   "reading": "きこう",
-  "romaji": "",
+  "romaji": "kikou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "iklim",
@@ -2708,7 +2708,7 @@ export const vocabN3 = [
  {
   "word": "恐ろしい",
   "reading": "おそろしい",
-  "romaji": "",
+  "romaji": "osoroshii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "mengerikan, mengerikan",
@@ -2719,7 +2719,7 @@ export const vocabN3 = [
  {
   "word": "風呂",
   "reading": "ふろ",
-  "romaji": "",
+  "romaji": "furo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mandi",
@@ -2730,7 +2730,7 @@ export const vocabN3 = [
  {
   "word": "今日",
   "reading": "こんにち",
-  "romaji": "",
+  "romaji": "konnichi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hari ini, hari ini",
@@ -2741,7 +2741,7 @@ export const vocabN3 = [
  {
   "word": "制度",
   "reading": "せいど",
-  "romaji": "",
+  "romaji": "seido",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sistem, institusi, organisasi",
@@ -2752,7 +2752,7 @@ export const vocabN3 = [
  {
   "word": "牛",
   "reading": "うし",
-  "romaji": "",
+  "romaji": "ushi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sapi, sapi",
@@ -2763,7 +2763,7 @@ export const vocabN3 = [
  {
   "word": "栄養",
   "reading": "えいよう",
-  "romaji": "",
+  "romaji": "eiyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nutrisi, nutrisi",
@@ -2774,7 +2774,7 @@ export const vocabN3 = [
  {
   "word": "尻",
   "reading": "しり",
-  "romaji": "",
+  "romaji": "shiri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bokong, bawah",
@@ -2785,7 +2785,7 @@ export const vocabN3 = [
  {
   "word": "跡",
   "reading": "あと",
-  "romaji": "",
+  "romaji": "ato",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) jejak, jejak, tandai, tanda, (2) sisa-sisa, reruntuhan, (3) bekas luka",
@@ -2796,7 +2796,7 @@ export const vocabN3 = [
  {
   "word": "入場",
   "reading": "にゅうじょう",
-  "romaji": "",
+  "romaji": "nyuujou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "masuk, masuk, masuk",
@@ -2807,7 +2807,7 @@ export const vocabN3 = [
  {
   "word": "唯一",
   "reading": "ゆいいつ",
-  "romaji": "",
+  "romaji": "yuiitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hanya, satu-satunya, unik",
@@ -2818,7 +2818,7 @@ export const vocabN3 = [
  {
   "word": "幸せ",
   "reading": "しあわせ",
-  "romaji": "",
+  "romaji": "shiawase",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebahagiaan, nasib baik, keberuntungan, berkah",
@@ -2829,7 +2829,7 @@ export const vocabN3 = [
  {
   "word": "書類",
   "reading": "しょるい",
-  "romaji": "",
+  "romaji": "shorui",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dokumen, surat resmi",
@@ -2840,7 +2840,7 @@ export const vocabN3 = [
  {
   "word": "だって",
   "reading": "だって",
-  "romaji": "",
+  "romaji": "datte",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tapi, karena, bahkan, juga, juga",
@@ -2851,7 +2851,7 @@ export const vocabN3 = [
  {
   "word": "喧嘩",
   "reading": "けんか",
-  "romaji": "",
+  "romaji": "kenka",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertengkaran, tawuran (mabuk), kegagalan",
@@ -2862,7 +2862,7 @@ export const vocabN3 = [
  {
   "word": "成る",
   "reading": "なる",
-  "romaji": "",
+  "romaji": "naru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi",
@@ -2873,7 +2873,7 @@ export const vocabN3 = [
  {
   "word": "骨折",
   "reading": "こっせつ",
-  "romaji": "",
+  "romaji": "kossetsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "patah tulang",
@@ -2884,7 +2884,7 @@ export const vocabN3 = [
  {
   "word": "オーバー",
   "reading": "おーばー",
-  "romaji": "",
+  "romaji": "oba",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) mantel, (2) selesai",
@@ -2895,7 +2895,7 @@ export const vocabN3 = [
  {
   "word": "教科書",
   "reading": "きょうかしょ",
-  "romaji": "",
+  "romaji": "kyoukasho",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buku teks",
@@ -2906,7 +2906,7 @@ export const vocabN3 = [
  {
   "word": "説",
   "reading": "せつ",
-  "romaji": "",
+  "romaji": "setsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teori",
@@ -2917,7 +2917,7 @@ export const vocabN3 = [
  {
   "word": "相当",
   "reading": "そうとう",
-  "romaji": "",
+  "romaji": "soutou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cocok, adil, dapat ditoleransi, tepat",
@@ -2928,7 +2928,7 @@ export const vocabN3 = [
  {
   "word": "全員",
   "reading": "ぜんいん",
-  "romaji": "",
+  "romaji": "zenin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semua anggota (kebulatan suara), semua tangan, seluruh kru",
@@ -2939,7 +2939,7 @@ export const vocabN3 = [
  {
   "word": "比較",
   "reading": "ひかく",
-  "romaji": "",
+  "romaji": "hikaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perbandingan",
@@ -2950,7 +2950,7 @@ export const vocabN3 = [
  {
   "word": "契約",
   "reading": "けいやく",
-  "romaji": "",
+  "romaji": "keiyaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontrak, kompak, perjanjian",
@@ -2961,7 +2961,7 @@ export const vocabN3 = [
  {
   "word": "より",
   "reading": "より",
-  "romaji": "",
+  "romaji": "yori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "memutar, melapisi",
@@ -2972,7 +2972,7 @@ export const vocabN3 = [
  {
   "word": "気付く",
   "reading": "きづく",
-  "romaji": "",
+  "romaji": "kizuku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memperhatikan, mengenali, menyadari",
@@ -2983,7 +2983,7 @@ export const vocabN3 = [
  {
   "word": "鍵",
   "reading": "かぎ",
-  "romaji": "",
+  "romaji": "kagi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kunci",
@@ -2994,7 +2994,7 @@ export const vocabN3 = [
  {
   "word": "しかも",
   "reading": "しかも",
-  "romaji": "",
+  "romaji": "shikamo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terlebih lagi, lebih jauh lagi, namun demikian, namun",
@@ -3005,7 +3005,7 @@ export const vocabN3 = [
  {
   "word": "解く",
   "reading": "とく",
-  "romaji": "",
+  "romaji": "toku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melepaskan",
@@ -3016,7 +3016,7 @@ export const vocabN3 = [
  {
   "word": "境",
   "reading": "さかい",
-  "romaji": "",
+  "romaji": "sakai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perbatasan, batas, keadaan mental",
@@ -3027,7 +3027,7 @@ export const vocabN3 = [
  {
   "word": "場面",
   "reading": "ばめん",
-  "romaji": "",
+  "romaji": "bamen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "adegan, latar (misalnya novel)",
@@ -3038,7 +3038,7 @@ export const vocabN3 = [
  {
   "word": "環境",
   "reading": "かんきょう",
-  "romaji": "",
+  "romaji": "kankyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lingkungan, keadaan",
@@ -3049,7 +3049,7 @@ export const vocabN3 = [
  {
   "word": "気温",
   "reading": "きおん",
-  "romaji": "",
+  "romaji": "kion",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suhu",
@@ -3060,7 +3060,7 @@ export const vocabN3 = [
  {
   "word": "実は",
   "reading": "じつは",
-  "romaji": "",
+  "romaji": "jitsuha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebenarnya",
@@ -3071,7 +3071,7 @@ export const vocabN3 = [
  {
   "word": "物質",
   "reading": "ぶっしつ",
-  "romaji": "",
+  "romaji": "busshitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "materi, substansi",
@@ -3082,7 +3082,7 @@ export const vocabN3 = [
  {
   "word": "家賃",
   "reading": "やちん",
-  "romaji": "",
+  "romaji": "yachin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menyewa",
@@ -3093,7 +3093,7 @@ export const vocabN3 = [
  {
   "word": "おや",
   "reading": "おや",
-  "romaji": "",
+  "romaji": "oya",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang tua",
@@ -3104,7 +3104,7 @@ export const vocabN3 = [
  {
   "word": "回り",
   "reading": "まわり",
-  "romaji": "",
+  "romaji": "mawari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keliling, lingkungan sekitar, sirkulasi",
@@ -3115,7 +3115,7 @@ export const vocabN3 = [
  {
   "word": "全て",
   "reading": "すべて",
-  "romaji": "",
+  "romaji": "subete",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semua, keseluruhan, seluruhnya, secara umum, seluruhnya",
@@ -3126,7 +3126,7 @@ export const vocabN3 = [
  {
   "word": "不平",
   "reading": "ふへい",
-  "romaji": "",
+  "romaji": "fuhei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keluhan, ketidakpuasan, ketidakpuasan",
@@ -3137,7 +3137,7 @@ export const vocabN3 = [
  {
   "word": "硬貨",
   "reading": "こうか",
-  "romaji": "",
+  "romaji": "kouka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "koin",
@@ -3148,7 +3148,7 @@ export const vocabN3 = [
  {
   "word": "援助",
   "reading": "えんじょ",
-  "romaji": "",
+  "romaji": "enjo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bantuan, bantuan, dukungan",
@@ -3159,7 +3159,7 @@ export const vocabN3 = [
  {
   "word": "工場",
   "reading": "こうば",
-  "romaji": "",
+  "romaji": "kouba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pabrik, pabrik, pabrik, bengkel",
@@ -3170,7 +3170,7 @@ export const vocabN3 = [
  {
   "word": "偶々",
   "reading": "たまたま",
-  "romaji": "",
+  "romaji": "tamatama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan santai, tanpa diduga, secara tidak sengaja, secara kebetulan",
@@ -3181,7 +3181,7 @@ export const vocabN3 = [
  {
   "word": "永久",
   "reading": "えいきゅう",
-  "romaji": "",
+  "romaji": "eikyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keabadian, keabadian, keabadian",
@@ -3192,7 +3192,7 @@ export const vocabN3 = [
  {
   "word": "需要",
   "reading": "じゅよう",
-  "romaji": "",
+  "romaji": "juyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "permintaan, permintaan",
@@ -3203,7 +3203,7 @@ export const vocabN3 = [
  {
   "word": "デート",
   "reading": "でーと",
-  "romaji": "",
+  "romaji": "deto",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kencan, pergi berkencan",
@@ -3214,7 +3214,7 @@ export const vocabN3 = [
  {
   "word": "あらゆる",
   "reading": "あらゆる",
-  "romaji": "",
+  "romaji": "arayuru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semua, setiap",
@@ -3225,7 +3225,7 @@ export const vocabN3 = [
  {
   "word": "立派",
   "reading": "りっぱ",
-  "romaji": "",
+  "romaji": "rippa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "indah, bagus, tampan, anggun, mengesankan, menonjol, sah, sah",
@@ -3236,7 +3236,7 @@ export const vocabN3 = [
  {
   "word": "発明",
   "reading": "はつめい",
-  "romaji": "",
+  "romaji": "hatsumei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penemuan",
@@ -3247,7 +3247,7 @@ export const vocabN3 = [
  {
   "word": "火災",
   "reading": "かさい",
-  "romaji": "",
+  "romaji": "kasai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebakaran besar, kebakaran",
@@ -3258,7 +3258,7 @@ export const vocabN3 = [
  {
   "word": "酸素",
   "reading": "さんそ",
-  "romaji": "",
+  "romaji": "sanso",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "oksigen",
@@ -3269,7 +3269,7 @@ export const vocabN3 = [
  {
   "word": "質",
   "reading": "しつ",
-  "romaji": "",
+  "romaji": "shitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kualitas, sifat (orang)",
@@ -3280,7 +3280,7 @@ export const vocabN3 = [
  {
   "word": "どれ",
   "reading": "どれ",
-  "romaji": "",
+  "romaji": "dore",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nah, sekarang, coba saya lihat, yang mana (dari tiga atau lebih)",
@@ -3291,7 +3291,7 @@ export const vocabN3 = [
  {
   "word": "諺",
   "reading": "ことわざ",
-  "romaji": "",
+  "romaji": "kotowaza",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pepatah, pepatah",
@@ -3302,7 +3302,7 @@ export const vocabN3 = [
  {
   "word": "責める",
   "reading": "せめる",
-  "romaji": "",
+  "romaji": "semeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengutuk, menyalahkan, mengkritik",
@@ -3313,7 +3313,7 @@ export const vocabN3 = [
  {
   "word": "開始",
   "reading": "かいし",
-  "romaji": "",
+  "romaji": "kaishi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mulai, dimulainya, dimulai",
@@ -3324,7 +3324,7 @@ export const vocabN3 = [
  {
   "word": "幸い",
   "reading": "さいわい",
-  "romaji": "",
+  "romaji": "saiwai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebahagiaan, berkah",
@@ -3335,7 +3335,7 @@ export const vocabN3 = [
  {
   "word": "老い",
   "reading": "おい",
-  "romaji": "",
+  "romaji": "oi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "usia tua, orang tua, orang tua, orang lanjut usia",
@@ -3346,7 +3346,7 @@ export const vocabN3 = [
  {
   "word": "招く",
   "reading": "まねく",
-  "romaji": "",
+  "romaji": "maneku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengundang",
@@ -3357,7 +3357,7 @@ export const vocabN3 = [
  {
   "word": "王",
   "reading": "おう",
-  "romaji": "",
+  "romaji": "ou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "raja, penguasa, berdaulat, raja",
@@ -3368,7 +3368,7 @@ export const vocabN3 = [
  {
   "word": "済ませる",
   "reading": "すませる",
-  "romaji": "",
+  "romaji": "sumaseru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk diselesaikan",
@@ -3379,7 +3379,7 @@ export const vocabN3 = [
  {
   "word": "田",
   "reading": "た",
-  "romaji": "",
+  "romaji": "ta",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sawah",
@@ -3390,7 +3390,7 @@ export const vocabN3 = [
  {
   "word": "砂漠",
   "reading": "さばく",
-  "romaji": "",
+  "romaji": "sabaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gurun",
@@ -3401,7 +3401,7 @@ export const vocabN3 = [
  {
   "word": "支払",
   "reading": "しはらい",
-  "romaji": "",
+  "romaji": "shiharai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pembayaran",
@@ -3412,7 +3412,7 @@ export const vocabN3 = [
  {
   "word": "大した",
   "reading": "たいした",
-  "romaji": "",
+  "romaji": "taishita",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cukup besar, hebat, penting, signifikan, masalah besar",
@@ -3423,7 +3423,7 @@ export const vocabN3 = [
  {
   "word": "繰り返す",
   "reading": "くりかえす",
-  "romaji": "",
+  "romaji": "kurikaesu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengulangi, untuk melakukan sesuatu lagi",
@@ -3434,7 +3434,7 @@ export const vocabN3 = [
  {
   "word": "どうしても",
   "reading": "どうしても",
-  "romaji": "",
+  "romaji": "doushitemo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan segala cara, dengan cara apa pun, apa pun yang terjadi",
@@ -3445,7 +3445,7 @@ export const vocabN3 = [
  {
   "word": "エネルギー",
   "reading": "えねるぎー",
-  "romaji": "",
+  "romaji": "enerugi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(n) energi (de: Energie)",
@@ -3456,7 +3456,7 @@ export const vocabN3 = [
  {
   "word": "頭痛",
   "reading": "ずつう",
-  "romaji": "",
+  "romaji": "zutsuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sakit kepala",
@@ -3467,7 +3467,7 @@ export const vocabN3 = [
  {
   "word": "どうか",
   "reading": "どうか",
-  "romaji": "",
+  "romaji": "douka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "koin tembaga",
@@ -3478,7 +3478,7 @@ export const vocabN3 = [
  {
   "word": "彼等",
   "reading": "かれら",
-  "romaji": "",
+  "romaji": "karera",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mereka (biasanya laki-laki)",
@@ -3489,7 +3489,7 @@ export const vocabN3 = [
  {
   "word": "暮らす",
   "reading": "くらす",
-  "romaji": "",
+  "romaji": "kurasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk hidup, untuk bergaul",
@@ -3500,7 +3500,7 @@ export const vocabN3 = [
  {
   "word": "真っ赤",
   "reading": "まっか",
-  "romaji": "",
+  "romaji": "makka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "merah tua, memerah (wajah)",
@@ -3511,7 +3511,7 @@ export const vocabN3 = [
  {
   "word": "体温",
   "reading": "たいおん",
-  "romaji": "",
+  "romaji": "taion",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suhu (tubuh)",
@@ -3522,7 +3522,7 @@ export const vocabN3 = [
  {
   "word": "悪口",
   "reading": "わるくち",
-  "romaji": "",
+  "romaji": "warukuchi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pelecehan, penghinaan, fitnah, perkataan jahat",
@@ -3533,7 +3533,7 @@ export const vocabN3 = [
  {
   "word": "通学",
   "reading": "つうがく",
-  "romaji": "",
+  "romaji": "tsuugaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "berangkat ke sekolah",
@@ -3544,7 +3544,7 @@ export const vocabN3 = [
  {
   "word": "息",
   "reading": "いき",
-  "romaji": "",
+  "romaji": "iki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "napas, nada",
@@ -3555,7 +3555,7 @@ export const vocabN3 = [
  {
   "word": "アイロン",
   "reading": "あいろん",
-  "romaji": "",
+  "romaji": "airon",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besi (listrik).",
@@ -3566,7 +3566,7 @@ export const vocabN3 = [
  {
   "word": "降ろす",
   "reading": "おろす",
-  "romaji": "",
+  "romaji": "orosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencatat, meluncurkan, menjatuhkan",
@@ -3577,7 +3577,7 @@ export const vocabN3 = [
  {
   "word": "抵抗",
   "reading": "ていこう",
-  "romaji": "",
+  "romaji": "teikou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "hambatan listrik, hambatan, perlawanan",
@@ -3588,7 +3588,7 @@ export const vocabN3 = [
  {
   "word": "ハンサム",
   "reading": "はんさむ",
-  "romaji": "",
+  "romaji": "hansamu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tampan",
@@ -3599,7 +3599,7 @@ export const vocabN3 = [
  {
   "word": "台",
   "reading": "だい",
-  "romaji": "",
+  "romaji": "dai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dudukan, rak, meja, penyangga",
@@ -3610,7 +3610,7 @@ export const vocabN3 = [
  {
   "word": "ゲーム",
   "reading": "げーむ",
-  "romaji": "",
+  "romaji": "gemu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "permainan",
@@ -3621,7 +3621,7 @@ export const vocabN3 = [
  {
   "word": "同一",
   "reading": "どういつ",
-  "romaji": "",
+  "romaji": "douitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "identitas, kesamaan, kesamaan",
@@ -3632,7 +3632,7 @@ export const vocabN3 = [
  {
   "word": "唯",
   "reading": "ただ",
-  "romaji": "",
+  "romaji": "tada",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gratis, belaka, satu-satunya, saja, biasa, umum",
@@ -3643,7 +3643,7 @@ export const vocabN3 = [
  {
   "word": "陸",
   "reading": "りく",
-  "romaji": "",
+  "romaji": "riku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "enam (digunakan dalam dokumen hukum)",
@@ -3654,7 +3654,7 @@ export const vocabN3 = [
  {
   "word": "青年",
   "reading": "せいねん",
-  "romaji": "",
+  "romaji": "seinen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemuda, anak muda",
@@ -3665,7 +3665,7 @@ export const vocabN3 = [
  {
   "word": "流す",
   "reading": "ながす",
-  "romaji": "",
+  "romaji": "nagasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mengalir, mengapung, menumpahkan (darah, air mata), berlayar (misalnya taksi)",
@@ -3676,7 +3676,7 @@ export const vocabN3 = [
  {
   "word": "誤解",
   "reading": "ごかい",
-  "romaji": "",
+  "romaji": "gokai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "salah paham",
@@ -3687,7 +3687,7 @@ export const vocabN3 = [
  {
   "word": "換える",
   "reading": "かえる",
-  "romaji": "",
+  "romaji": "kaeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menukar, menukar, mengganti, mengganti",
@@ -3698,7 +3698,7 @@ export const vocabN3 = [
  {
   "word": "代理",
   "reading": "だいり",
-  "romaji": "",
+  "romaji": "dairi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perwakilan, lembaga, kuasa, wakil, agen",
@@ -3709,7 +3709,7 @@ export const vocabN3 = [
  {
   "word": "川",
   "reading": "かわ",
-  "romaji": "",
+  "romaji": "kawa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sungai",
@@ -3720,7 +3720,7 @@ export const vocabN3 = [
  {
   "word": "出会い",
   "reading": "であい",
-  "romaji": "",
+  "romaji": "deai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertemuan, pertemuan, pertemuan",
@@ -3731,7 +3731,7 @@ export const vocabN3 = [
  {
   "word": "意外",
   "reading": "いがい",
-  "romaji": "",
+  "romaji": "igai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tak terduga, mengejutkan",
@@ -3742,7 +3742,7 @@ export const vocabN3 = [
  {
   "word": "玉",
   "reading": "たま",
-  "romaji": "",
+  "romaji": "tama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bola, bola, koin",
@@ -3753,7 +3753,7 @@ export const vocabN3 = [
  {
   "word": "愛",
   "reading": "あい",
-  "romaji": "",
+  "romaji": "ai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Cinta",
@@ -3764,7 +3764,7 @@ export const vocabN3 = [
  {
   "word": "状況",
   "reading": "じょうきょう",
-  "romaji": "",
+  "romaji": "joukyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keadaan, situasi, keadaan",
@@ -3775,7 +3775,7 @@ export const vocabN3 = [
  {
   "word": "風景",
   "reading": "ふうけい",
-  "romaji": "",
+  "romaji": "fuukei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemandangan",
@@ -3786,7 +3786,7 @@ export const vocabN3 = [
  {
   "word": "姉妹",
   "reading": "しまい",
-  "romaji": "",
+  "romaji": "shimai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saudara perempuan",
@@ -3797,7 +3797,7 @@ export const vocabN3 = [
  {
   "word": "年中",
   "reading": "ねんじゅう",
-  "romaji": "",
+  "romaji": "nenjuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sepanjang tahun, selalu, setiap hari",
@@ -3808,7 +3808,7 @@ export const vocabN3 = [
  {
   "word": "学習",
   "reading": "がくしゅう",
-  "romaji": "",
+  "romaji": "gakushuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "belajar, belajar",
@@ -3819,7 +3819,7 @@ export const vocabN3 = [
  {
   "word": "不満",
   "reading": "ふまん",
-  "romaji": "",
+  "romaji": "fuman",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketidakpuasan, ketidaksenangan, ketidakpuasan, keluhan, ketidakbahagiaan",
@@ -3830,7 +3830,7 @@ export const vocabN3 = [
  {
   "word": "暖かい",
   "reading": "あたたか(い)",
-  "romaji": "",
+  "romaji": "atatakai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "hangat, ringan",
@@ -3841,7 +3841,7 @@ export const vocabN3 = [
  {
   "word": "勧める",
   "reading": "すすめる",
-  "romaji": "",
+  "romaji": "susumeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "merekomendasikan, menasihati, mendorong, menawarkan (anggur)",
@@ -3852,7 +3852,7 @@ export const vocabN3 = [
  {
   "word": "閉じる",
   "reading": "とじる",
-  "romaji": "",
+  "romaji": "tojiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menutup (misalnya buku, mata), untuk menutup",
@@ -3863,7 +3863,7 @@ export const vocabN3 = [
  {
   "word": "刑事",
   "reading": "けいじ",
-  "romaji": "",
+  "romaji": "keiji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kasus kriminal, detektif (polisi).",
@@ -3874,7 +3874,7 @@ export const vocabN3 = [
  {
   "word": "動かす",
   "reading": "うごかす",
-  "romaji": "",
+  "romaji": "ugokasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bergerak, untuk bergeser",
@@ -3885,7 +3885,7 @@ export const vocabN3 = [
  {
   "word": "哀れ",
   "reading": "あわれ",
-  "romaji": "",
+  "romaji": "aware",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tak berdaya, kasihan, duka, duka",
@@ -3896,7 +3896,7 @@ export const vocabN3 = [
  {
   "word": "時",
   "reading": "とき",
-  "romaji": "",
+  "romaji": "toki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) waktu, jam, (2) kejadian, momen",
@@ -3907,7 +3907,7 @@ export const vocabN3 = [
  {
   "word": "夜中",
   "reading": "よなか",
-  "romaji": "",
+  "romaji": "yonaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tengah malam, tengah malam",
@@ -3918,7 +3918,7 @@ export const vocabN3 = [
  {
   "word": "当時",
   "reading": "とうじ",
-  "romaji": "",
+  "romaji": "touji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pada saat itu, pada hari-hari itu",
@@ -3929,7 +3929,7 @@ export const vocabN3 = [
  {
   "word": "面倒",
   "reading": "めんどう",
-  "romaji": "",
+  "romaji": "mendou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masalah, kesulitan, perhatian, perhatian",
@@ -3940,7 +3940,7 @@ export const vocabN3 = [
  {
   "word": "抜く",
   "reading": "ぬく",
-  "romaji": "",
+  "romaji": "nuku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengekstrak, menghilangkan, melampaui, menarik keluar, mencabut",
@@ -3951,7 +3951,7 @@ export const vocabN3 = [
  {
   "word": "基",
   "reading": "もと",
-  "romaji": "",
+  "romaji": "moto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dasar",
@@ -3962,7 +3962,7 @@ export const vocabN3 = [
  {
   "word": "出会う",
   "reading": "であう",
-  "romaji": "",
+  "romaji": "deau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "bertemu secara kebetulan, bertemu, kebetulan bertemu",
@@ -3973,7 +3973,7 @@ export const vocabN3 = [
  {
   "word": "明らか",
   "reading": "あきらか",
-  "romaji": "",
+  "romaji": "akiraka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jelas, jelas, jelas",
@@ -3984,7 +3984,7 @@ export const vocabN3 = [
  {
   "word": "思い出",
   "reading": "おもいで",
-  "romaji": "",
+  "romaji": "omoide",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kenangan, kenangan, kenangan",
@@ -3995,7 +3995,7 @@ export const vocabN3 = [
  {
   "word": "来",
   "reading": "らい",
-  "romaji": "",
+  "romaji": "rai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": ",selama (10 hari), berikutnya (tahun)",
@@ -4006,7 +4006,7 @@ export const vocabN3 = [
  {
   "word": "未来",
   "reading": "みらい",
-  "romaji": "",
+  "romaji": "mirai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masa depan (hidup, tegang)",
@@ -4017,7 +4017,7 @@ export const vocabN3 = [
  {
   "word": "邪魔",
   "reading": "じゃま",
-  "romaji": "",
+  "romaji": "jama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hambatan, intrusi",
@@ -4028,7 +4028,7 @@ export const vocabN3 = [
  {
   "word": "魚",
   "reading": "うお",
-  "romaji": "",
+  "romaji": "uo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ikan",
@@ -4039,7 +4039,7 @@ export const vocabN3 = [
  {
   "word": "ケース",
   "reading": "けーす",
-  "romaji": "",
+  "romaji": "kesu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kasus",
@@ -4050,7 +4050,7 @@ export const vocabN3 = [
  {
   "word": "数える",
   "reading": "かぞえる",
-  "romaji": "",
+  "romaji": "kazoeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menghitung",
@@ -4061,7 +4061,7 @@ export const vocabN3 = [
  {
   "word": "急激",
   "reading": "きゅうげき",
-  "romaji": "",
+  "romaji": "kyuugeki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tiba-tiba, terjal, radikal",
@@ -4072,7 +4072,7 @@ export const vocabN3 = [
  {
   "word": "デモ",
   "reading": "でも",
-  "romaji": "",
+  "romaji": "demo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(abbr) demo, demonstrasi",
@@ -4083,7 +4083,7 @@ export const vocabN3 = [
  {
   "word": "握る",
   "reading": "にぎる",
-  "romaji": "",
+  "romaji": "nigiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menggenggam, untuk merebut, untuk membentuk sushi",
@@ -4094,7 +4094,7 @@ export const vocabN3 = [
  {
   "word": "出来事",
   "reading": "できごと",
-  "romaji": "",
+  "romaji": "dekigoto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kejadian, perselingkuhan, terjadi, peristiwa",
@@ -4105,7 +4105,7 @@ export const vocabN3 = [
  {
   "word": "結論",
   "reading": "けつろん",
-  "romaji": "",
+  "romaji": "ketsuron",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kesimpulan",
@@ -4116,7 +4116,7 @@ export const vocabN3 = [
  {
   "word": "ママ",
   "reading": "まま",
-  "romaji": "",
+  "romaji": "mama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Mama",
@@ -4127,7 +4127,7 @@ export const vocabN3 = [
  {
   "word": "土",
   "reading": "つち",
-  "romaji": "",
+  "romaji": "tsuchi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bumi, tanah",
@@ -4138,7 +4138,7 @@ export const vocabN3 = [
  {
   "word": "独特",
   "reading": "どくとく",
-  "romaji": "",
+  "romaji": "dokutoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekhasan, keunikan, ciri khas",
@@ -4149,7 +4149,7 @@ export const vocabN3 = [
  {
   "word": "丘",
   "reading": "おか",
-  "romaji": "",
+  "romaji": "oka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bukit, tinggi, bukit kecil, dataran tinggi",
@@ -4160,7 +4160,7 @@ export const vocabN3 = [
  {
   "word": "小包",
   "reading": "こづつみ",
-  "romaji": "",
+  "romaji": "kozutsumi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "parsel, paket",
@@ -4171,7 +4171,7 @@ export const vocabN3 = [
  {
   "word": "重要",
   "reading": "じゅうよう",
-  "romaji": "",
+  "romaji": "juuyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penting, penting, penting, utama, utama",
@@ -4182,7 +4182,7 @@ export const vocabN3 = [
  {
   "word": "表現",
   "reading": "ひょうげん",
-  "romaji": "",
+  "romaji": "hyougen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ekspresi, presentasi, representasi (matematika)",
@@ -4193,7 +4193,7 @@ export const vocabN3 = [
  {
   "word": "世紀",
   "reading": "せいき",
-  "romaji": "",
+  "romaji": "seiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "abad, era",
@@ -4204,7 +4204,7 @@ export const vocabN3 = [
  {
   "word": "値",
   "reading": "ね",
-  "romaji": "",
+  "romaji": "ne",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nilai, harga, biaya",
@@ -4215,7 +4215,7 @@ export const vocabN3 = [
  {
   "word": "オフィス",
   "reading": "おふぃす",
-  "romaji": "",
+  "romaji": "ofuisu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kantor",
@@ -4226,7 +4226,7 @@ export const vocabN3 = [
  {
   "word": "喜び",
   "reading": "よろこび",
-  "romaji": "",
+  "romaji": "yorokobi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(a) kegembiraan, (a) kegembiraan, kegembiraan, kesenangan, kepuasan, kegembiraan, ucapan selamat, ucapan selamat",
@@ -4237,7 +4237,7 @@ export const vocabN3 = [
  {
   "word": "ジェット機",
   "reading": "ジェットき",
-  "romaji": "",
+  "romaji": "jiettoki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pesawat jet",
@@ -4248,7 +4248,7 @@ export const vocabN3 = [
  {
   "word": "梅雨",
   "reading": "つゆ",
-  "romaji": "",
+  "romaji": "tsuyu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "musim hujan, hujan di musim hujan",
@@ -4259,7 +4259,7 @@ export const vocabN3 = [
  {
   "word": "首相",
   "reading": "しゅしょう",
-  "romaji": "",
+  "romaji": "shushou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Perdana Menteri",
@@ -4270,7 +4270,7 @@ export const vocabN3 = [
  {
   "word": "望み",
   "reading": "のぞみ",
-  "romaji": "",
+  "romaji": "nozomi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keinginan, keinginan, (a) harapan",
@@ -4281,7 +4281,7 @@ export const vocabN3 = [
  {
   "word": "木曜",
   "reading": "もくよう",
-  "romaji": "",
+  "romaji": "mokuyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Kamis",
@@ -4292,7 +4292,7 @@ export const vocabN3 = [
  {
   "word": "示す",
   "reading": "しめす",
-  "romaji": "",
+  "romaji": "shimesu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menunjukkan, untuk menunjukkan, untuk menunjukkan, untuk menunjukkan",
@@ -4303,7 +4303,7 @@ export const vocabN3 = [
  {
   "word": "書物",
   "reading": "しょもつ",
-  "romaji": "",
+  "romaji": "shomotsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buku",
@@ -4314,7 +4314,7 @@ export const vocabN3 = [
  {
   "word": "腹",
   "reading": "はら",
-  "romaji": "",
+  "romaji": "hara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perut, perut, perut",
@@ -4325,7 +4325,7 @@ export const vocabN3 = [
  {
   "word": "現れ",
   "reading": "あらわれ",
-  "romaji": "",
+  "romaji": "araware",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perwujudan, perwujudan",
@@ -4336,7 +4336,7 @@ export const vocabN3 = [
  {
   "word": "追う",
   "reading": "おう",
-  "romaji": "",
+  "romaji": "ou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengejar, untuk mengejar",
@@ -4347,7 +4347,7 @@ export const vocabN3 = [
  {
   "word": "定期",
   "reading": "ていき",
-  "romaji": "",
+  "romaji": "teiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jangka waktu tetap",
@@ -4358,7 +4358,7 @@ export const vocabN3 = [
  {
   "word": "都会",
   "reading": "とかい",
-  "romaji": "",
+  "romaji": "tokai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kota",
@@ -4369,7 +4369,7 @@ export const vocabN3 = [
  {
   "word": "硬い",
   "reading": "かたい",
-  "romaji": "",
+  "romaji": "katai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "padat, keras (khususnya logam, batu), tulisan kasar",
@@ -4380,7 +4380,7 @@ export const vocabN3 = [
  {
   "word": "年代",
   "reading": "ねんだい",
-  "romaji": "",
+  "romaji": "nendai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "usia, era, periode, tanggal",
@@ -4391,7 +4391,7 @@ export const vocabN3 = [
  {
   "word": "正",
   "reading": "せい",
-  "romaji": "",
+  "romaji": "sei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(logis) benar, biasa",
@@ -4402,7 +4402,7 @@ export const vocabN3 = [
  {
   "word": "うるさい",
   "reading": "うるさい",
-  "romaji": "",
+  "romaji": "urusai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "berisik, keras, rewel",
@@ -4413,7 +4413,7 @@ export const vocabN3 = [
  {
   "word": "表",
   "reading": "ひょう",
-  "romaji": "",
+  "romaji": "hyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tabel (misalnya Tab 1), bagan, daftar",
@@ -4424,7 +4424,7 @@ export const vocabN3 = [
  {
   "word": "被る",
   "reading": "かぶる",
-  "romaji": "",
+  "romaji": "kaburu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menderita",
@@ -4435,7 +4435,7 @@ export const vocabN3 = [
  {
   "word": "ピクニック",
   "reading": "ぴくにっく",
-  "romaji": "",
+  "romaji": "pikunikku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "piknik",
@@ -4446,7 +4446,7 @@ export const vocabN3 = [
  {
   "word": "籠",
   "reading": "かご",
-  "romaji": "",
+  "romaji": "kago",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keranjang, kandang",
@@ -4457,7 +4457,7 @@ export const vocabN3 = [
  {
   "word": "ところで",
   "reading": "ところで",
-  "romaji": "",
+  "romaji": "tokorode",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ngomong-ngomong, meskipun begitu, apa pun yang terjadi",
@@ -4468,7 +4468,7 @@ export const vocabN3 = [
  {
   "word": "ざっと",
   "reading": "ざっと",
-  "romaji": "",
+  "romaji": "zatto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kira-kira, dalam angka bulat",
@@ -4479,7 +4479,7 @@ export const vocabN3 = [
  {
   "word": "付き合い",
   "reading": "つきあい",
-  "romaji": "",
+  "romaji": "tsukiai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pergaulan, pergaulan, persekutuan",
@@ -4490,7 +4490,7 @@ export const vocabN3 = [
  {
   "word": "植物",
   "reading": "しょくぶつ",
-  "romaji": "",
+  "romaji": "shokubutsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tanaman, tumbuh-tumbuhan",
@@ -4501,7 +4501,7 @@ export const vocabN3 = [
  {
   "word": "学者",
   "reading": "がくしゃ",
-  "romaji": "",
+  "romaji": "gakusha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sarjana",
@@ -4512,7 +4512,7 @@ export const vocabN3 = [
  {
   "word": "気味",
   "reading": "きみ",
-  "romaji": "",
+  "romaji": "kimi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "-seperti,-tampak,-tampak",
@@ -4523,7 +4523,7 @@ export const vocabN3 = [
  {
   "word": "性",
   "reading": "せい",
-  "romaji": "",
+  "romaji": "sei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jenis kelamin, jenis kelamin",
@@ -4534,7 +4534,7 @@ export const vocabN3 = [
  {
   "word": "役",
   "reading": "やく",
-  "romaji": "",
+  "romaji": "yaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penggunaan, layanan, peran, posisi",
@@ -4545,7 +4545,7 @@ export const vocabN3 = [
  {
   "word": "幾ら",
   "reading": "いくら",
-  "romaji": "",
+  "romaji": "ikura",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berapa banyak?, berapa banyak?",
@@ -4556,7 +4556,7 @@ export const vocabN3 = [
  {
   "word": "渋滞",
   "reading": "じゅうたい",
-  "romaji": "",
+  "romaji": "juutai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kemacetan (misalnya lalu lintas), penundaan, stagnasi",
@@ -4567,7 +4567,7 @@ export const vocabN3 = [
  {
   "word": "無料",
   "reading": "むりょう",
-  "romaji": "",
+  "romaji": "muryou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gratis, tanpa biaya",
@@ -4578,7 +4578,7 @@ export const vocabN3 = [
  {
   "word": "無し",
   "reading": "なし",
-  "romaji": "",
+  "romaji": "nashi",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "tanpa",
@@ -4589,7 +4589,7 @@ export const vocabN3 = [
  {
   "word": "怠ける",
   "reading": "なまける",
-  "romaji": "",
+  "romaji": "namakeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi menganggur, mengabaikan",
@@ -4600,7 +4600,7 @@ export const vocabN3 = [
  {
   "word": "随分",
   "reading": "ずいぶん",
-  "romaji": "",
+  "romaji": "zuibun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sangat",
@@ -4611,7 +4611,7 @@ export const vocabN3 = [
  {
   "word": "離れる",
   "reading": "はなれる",
-  "romaji": "",
+  "romaji": "hanareru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dipisahkan dari, untuk pergi, untuk pergi, menjadi jauh",
@@ -4622,7 +4622,7 @@ export const vocabN3 = [
  {
   "word": "真剣",
   "reading": "しんけん",
-  "romaji": "",
+  "romaji": "shinken",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keseriusan, kesungguhan",
@@ -4633,7 +4633,7 @@ export const vocabN3 = [
  {
   "word": "推薦",
   "reading": "すいせん",
-  "romaji": "",
+  "romaji": "suisen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rekomendasi",
@@ -4644,7 +4644,7 @@ export const vocabN3 = [
  {
   "word": "優秀",
   "reading": "ゆうしゅう",
-  "romaji": "",
+  "romaji": "yuushuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keunggulan, keunggulan",
@@ -4655,7 +4655,7 @@ export const vocabN3 = [
  {
   "word": "敬意",
   "reading": "けいい",
-  "romaji": "",
+  "romaji": "keii",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "hormat, kehormatan",
@@ -4666,7 +4666,7 @@ export const vocabN3 = [
  {
   "word": "衣服",
   "reading": "いふく",
-  "romaji": "",
+  "romaji": "ifuku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pakaian",
@@ -4677,7 +4677,7 @@ export const vocabN3 = [
  {
   "word": "御",
   "reading": "お",
-  "romaji": "",
+  "romaji": "o",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terhormat",
@@ -4688,7 +4688,7 @@ export const vocabN3 = [
  {
   "word": "処理",
   "reading": "しょり",
-  "romaji": "",
+  "romaji": "shori",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemrosesan, penanganan, perawatan, disposisi, pembuangan",
@@ -4699,7 +4699,7 @@ export const vocabN3 = [
  {
   "word": "患者",
   "reading": "かんじゃ",
-  "romaji": "",
+  "romaji": "kanja",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seorang pasien",
@@ -4710,7 +4710,7 @@ export const vocabN3 = [
  {
   "word": "順調",
   "reading": "じゅんちょう",
-  "romaji": "",
+  "romaji": "junchou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menguntungkan, baik-baik saja, oke, baiklah",
@@ -4721,7 +4721,7 @@ export const vocabN3 = [
  {
   "word": "行動",
   "reading": "こうどう",
-  "romaji": "",
+  "romaji": "koudou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tindakan, perilaku, perilaku, mobilisasi",
@@ -4732,7 +4732,7 @@ export const vocabN3 = [
  {
   "word": "演技",
   "reading": "えんぎ",
-  "romaji": "",
+  "romaji": "engi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "akting, pertunjukan",
@@ -4743,7 +4743,7 @@ export const vocabN3 = [
  {
   "word": "後",
   "reading": "うしろ",
-  "romaji": "",
+  "romaji": "ushiro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "setelah itu, sejak saat itu, di masa depan",
@@ -4754,7 +4754,7 @@ export const vocabN3 = [
  {
   "word": "幅",
   "reading": "はば",
-  "romaji": "",
+  "romaji": "haba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lebar, lebar",
@@ -4765,7 +4765,7 @@ export const vocabN3 = [
  {
   "word": "生",
   "reading": "せい",
-  "romaji": "",
+  "romaji": "sei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) draft (bir), (2) mentah, belum diolah",
@@ -4776,7 +4776,7 @@ export const vocabN3 = [
  {
   "word": "過去",
   "reading": "かこ",
-  "romaji": "",
+  "romaji": "kako",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masa lalu, masa lalu, masa lalu",
@@ -4787,7 +4787,7 @@ export const vocabN3 = [
  {
   "word": "ソファー",
   "reading": "そふぁー",
-  "romaji": "",
+  "romaji": "sofua",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sofa, sofa",
@@ -4798,7 +4798,7 @@ export const vocabN3 = [
  {
   "word": "勢い",
   "reading": "いきおい",
-  "romaji": "",
+  "romaji": "ikioi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekuatan, kekuatan, energi, semangat",
@@ -4809,7 +4809,7 @@ export const vocabN3 = [
  {
   "word": "保証",
   "reading": "ほしょう",
-  "romaji": "",
+  "romaji": "hoshou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jaminan, keamanan, jaminan, jaminan, garansi",
@@ -4820,7 +4820,7 @@ export const vocabN3 = [
  {
   "word": "用いる",
   "reading": "もちいる",
-  "romaji": "",
+  "romaji": "mochiiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menggunakan, untuk memanfaatkan",
@@ -4831,7 +4831,7 @@ export const vocabN3 = [
  {
   "word": "通り過ぎる",
   "reading": "とおりすぎる",
-  "romaji": "",
+  "romaji": "toorisugiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melewati, untuk melewati",
@@ -4842,7 +4842,7 @@ export const vocabN3 = [
  {
   "word": "居間",
   "reading": "いま",
-  "romaji": "",
+  "romaji": "ima",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ruang tamu (gaya barat)",
@@ -4853,7 +4853,7 @@ export const vocabN3 = [
  {
   "word": "全国",
   "reading": "ぜんこく",
-  "romaji": "",
+  "romaji": "zenkoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seluruh negara, nasional, seluruh negara, nasional",
@@ -4864,7 +4864,7 @@ export const vocabN3 = [
  {
   "word": "微妙",
   "reading": "びみょう",
-  "romaji": "",
+  "romaji": "bimyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "halus, halus",
@@ -4875,7 +4875,7 @@ export const vocabN3 = [
  {
   "word": "感じ",
   "reading": "かんじ",
-  "romaji": "",
+  "romaji": "kanji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perasaan, rasa, kesan",
@@ -4886,7 +4886,7 @@ export const vocabN3 = [
  {
   "word": "徹夜",
   "reading": "てつや",
-  "romaji": "",
+  "romaji": "tetsuya",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "sepanjang malam, berjaga sepanjang malam, malam tanpa tidur",
@@ -4897,7 +4897,7 @@ export const vocabN3 = [
  {
   "word": "価格",
   "reading": "かかく",
-  "romaji": "",
+  "romaji": "kakaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harga, nilai, biaya",
@@ -4908,7 +4908,7 @@ export const vocabN3 = [
  {
   "word": "軒",
   "reading": "けん",
-  "romaji": "",
+  "romaji": "ken",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atap",
@@ -4919,7 +4919,7 @@ export const vocabN3 = [
  {
   "word": "グランド",
   "reading": "ぐらんど",
-  "romaji": "",
+  "romaji": "gurando",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelenjar, agung, tanah (listrik).",
@@ -4930,7 +4930,7 @@ export const vocabN3 = [
  {
   "word": "恐れる",
   "reading": "おそれる",
-  "romaji": "",
+  "romaji": "osoreru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk takut, untuk ditakuti",
@@ -4941,7 +4941,7 @@ export const vocabN3 = [
  {
   "word": "熱帯",
   "reading": "ねったい",
-  "romaji": "",
+  "romaji": "nettai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "daerah tropis",
@@ -4952,7 +4952,7 @@ export const vocabN3 = [
  {
   "word": "セット",
   "reading": "せっと",
-  "romaji": "",
+  "romaji": "setto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mengatur",
@@ -4963,7 +4963,7 @@ export const vocabN3 = [
  {
   "word": "隠れる",
   "reading": "かくれる",
-  "romaji": "",
+  "romaji": "kakureru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bersembunyi, untuk disembunyikan, untuk menyembunyikan diri, untuk menghilang",
@@ -4974,7 +4974,7 @@ export const vocabN3 = [
  {
   "word": "自身",
   "reading": "じしん",
-  "romaji": "",
+  "romaji": "jishin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "oleh diri sendiri, secara pribadi",
@@ -4985,7 +4985,7 @@ export const vocabN3 = [
  {
   "word": "対象",
   "reading": "たいしょう",
-  "romaji": "",
+  "romaji": "taishou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sasaran, obyek (ibadah, belajar, dan lain-lain), subjek (pajak, dan lain-lain)",
@@ -4996,7 +4996,7 @@ export const vocabN3 = [
  {
   "word": "スープ",
   "reading": "すーぷ",
-  "romaji": "",
+  "romaji": "supu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sup (Barat).",
@@ -5007,7 +5007,7 @@ export const vocabN3 = [
  {
   "word": "二十",
   "reading": "はたち",
-  "romaji": "",
+  "romaji": "hatachi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "20 tahun, tahun ke 20",
@@ -5018,7 +5018,7 @@ export const vocabN3 = [
  {
   "word": "あんまり",
   "reading": "あんまり",
-  "romaji": "",
+  "romaji": "anmari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak terlalu, tidak banyak, sisa, istirahat",
@@ -5029,7 +5029,7 @@ export const vocabN3 = [
  {
   "word": "いち",
   "reading": "いち",
-  "romaji": "",
+  "romaji": "ichi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pasar, adil",
@@ -5040,7 +5040,7 @@ export const vocabN3 = [
  {
   "word": "武器",
   "reading": "ぶき",
-  "romaji": "",
+  "romaji": "buki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "senjata, senjata, peraturan",
@@ -5051,7 +5051,7 @@ export const vocabN3 = [
  {
   "word": "生じる",
   "reading": "しょうじる",
-  "romaji": "",
+  "romaji": "shoujiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menghasilkan, menghasilkan, menghasilkan, timbul, dihasilkan",
@@ -5062,7 +5062,7 @@ export const vocabN3 = [
  {
   "word": "膝",
   "reading": "ひざ",
-  "romaji": "",
+  "romaji": "hiza",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lutut, pangkuan",
@@ -5073,7 +5073,7 @@ export const vocabN3 = [
  {
   "word": "入院",
   "reading": "にゅういん",
-  "romaji": "",
+  "romaji": "nyuuin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rawat inap",
@@ -5084,7 +5084,7 @@ export const vocabN3 = [
  {
   "word": "農民",
   "reading": "のうみん",
-  "romaji": "",
+  "romaji": "noumin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "petani, petani",
@@ -5095,7 +5095,7 @@ export const vocabN3 = [
  {
   "word": "辺り",
   "reading": "あたり",
-  "romaji": "",
+  "romaji": "atari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekitar, dekat",
@@ -5106,7 +5106,7 @@ export const vocabN3 = [
  {
   "word": "応じる",
   "reading": "おうじる",
-  "romaji": "",
+  "romaji": "oujiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menanggapi, untuk memuaskan, untuk menerima, untuk mematuhi, untuk mengajukan",
@@ -5117,7 +5117,7 @@ export const vocabN3 = [
  {
   "word": "パス",
   "reading": "ぱす",
-  "romaji": "",
+  "romaji": "pasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jalan, lewati (dalam permainan)",
@@ -5128,7 +5128,7 @@ export const vocabN3 = [
  {
   "word": "宅",
   "reading": "たく",
-  "romaji": "",
+  "romaji": "taku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rumah, rumah, suami",
@@ -5139,7 +5139,7 @@ export const vocabN3 = [
  {
   "word": "戦い",
   "reading": "たたかい",
-  "romaji": "",
+  "romaji": "tatakai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertempuran, perkelahian, perjuangan, konflik",
@@ -5150,7 +5150,7 @@ export const vocabN3 = [
  {
   "word": "ラケット",
   "reading": "らけっと",
-  "romaji": "",
+  "romaji": "raketto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dayung, raket",
@@ -5161,7 +5161,7 @@ export const vocabN3 = [
  {
   "word": "神経",
   "reading": "しんけい",
-  "romaji": "",
+  "romaji": "shinkei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saraf, sensitivitas",
@@ -5172,7 +5172,7 @@ export const vocabN3 = [
  {
   "word": "エンジン",
   "reading": "えんじん",
-  "romaji": "",
+  "romaji": "enjin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mesin",
@@ -5183,7 +5183,7 @@ export const vocabN3 = [
  {
   "word": "郵便",
   "reading": "ゆうびん",
-  "romaji": "",
+  "romaji": "yuubin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "surat, layanan pos",
@@ -5194,7 +5194,7 @@ export const vocabN3 = [
  {
   "word": "連れ",
   "reading": "つれ",
-  "romaji": "",
+  "romaji": "tsure",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teman, perusahaan",
@@ -5205,7 +5205,7 @@ export const vocabN3 = [
  {
   "word": "包み",
   "reading": "つつみ",
-  "romaji": "",
+  "romaji": "tsutsumi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bundel, paket, parsel, bale",
@@ -5216,7 +5216,7 @@ export const vocabN3 = [
  {
   "word": "納得",
   "reading": "なっとく",
-  "romaji": "",
+  "romaji": "nattoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persetujuan, persetujuan, pengertian",
@@ -5227,7 +5227,7 @@ export const vocabN3 = [
  {
   "word": "豊富",
   "reading": "ほうふ",
-  "romaji": "",
+  "romaji": "houfu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelimpahan, kekayaan, kelimpahan, karunia",
@@ -5238,7 +5238,7 @@ export const vocabN3 = [
  {
   "word": "文",
   "reading": "ぶん",
-  "romaji": "",
+  "romaji": "bun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kalimat",
@@ -5249,7 +5249,7 @@ export const vocabN3 = [
  {
   "word": "何とか",
   "reading": "なんとか",
-  "romaji": "",
+  "romaji": "nantoka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "entah bagaimana, bagaimanapun, dengan satu atau lain cara",
@@ -5260,7 +5260,7 @@ export const vocabN3 = [
  {
   "word": "引っ張る",
   "reading": "ひっぱる",
-  "romaji": "",
+  "romaji": "hipparu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) menarik, menarik, meregangkan, menyeret, (2) menarik bola (bisbol)",
@@ -5271,7 +5271,7 @@ export const vocabN3 = [
  {
   "word": "で",
   "reading": "で",
-  "romaji": "",
+  "romaji": "de",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "arus keluar, datang (keluar), lulus (dari)",
@@ -5282,7 +5282,7 @@ export const vocabN3 = [
  {
   "word": "床",
   "reading": "ゆか",
-  "romaji": "",
+  "romaji": "yuka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lantai",
@@ -5293,7 +5293,7 @@ export const vocabN3 = [
  {
   "word": "存在",
   "reading": "そんざい",
-  "romaji": "",
+  "romaji": "sonzai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keberadaan, keberadaan",
@@ -5304,7 +5304,7 @@ export const vocabN3 = [
  {
   "word": "囲む",
   "reading": "かこむ",
-  "romaji": "",
+  "romaji": "kakomu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengelilingi, untuk mengelilingi",
@@ -5315,7 +5315,7 @@ export const vocabN3 = [
  {
   "word": "料金",
   "reading": "りょうきん",
-  "romaji": "",
+  "romaji": "ryoukin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biaya, biaya, tarif",
@@ -5326,7 +5326,7 @@ export const vocabN3 = [
  {
   "word": "用心",
   "reading": "ようじん",
-  "romaji": "",
+  "romaji": "youjin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perawatan, pencegahan, penjagaan, kehati-hatian",
@@ -5337,7 +5337,7 @@ export const vocabN3 = [
  {
   "word": "燃える",
   "reading": "もえる",
-  "romaji": "",
+  "romaji": "moeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membakar",
@@ -5348,7 +5348,7 @@ export const vocabN3 = [
  {
   "word": "大統領",
   "reading": "だいとうりょう",
-  "romaji": "",
+  "romaji": "daitouryou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "presiden, kepala eksekutif",
@@ -5359,7 +5359,7 @@ export const vocabN3 = [
  {
   "word": "適する",
   "reading": "てきする",
-  "romaji": "",
+  "romaji": "tekisuru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "agar sesuai, sesuai",
@@ -5370,7 +5370,7 @@ export const vocabN3 = [
  {
   "word": "正確",
   "reading": "せいかく",
-  "romaji": "",
+  "romaji": "seikaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akurat, ketepatan waktu, ketepatan, keaslian, kebenaran",
@@ -5381,7 +5381,7 @@ export const vocabN3 = [
  {
   "word": "注文",
   "reading": "ちゅうもん",
-  "romaji": "",
+  "romaji": "chuumon",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pesanan, permintaan",
@@ -5392,7 +5392,7 @@ export const vocabN3 = [
  {
   "word": "夫婦",
   "reading": "ふうふ",
-  "romaji": "",
+  "romaji": "fuufu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pasangan suami istri, suami dan istri",
@@ -5403,7 +5403,7 @@ export const vocabN3 = [
  {
   "word": "障害",
   "reading": "しょうがい",
-  "romaji": "",
+  "romaji": "shougai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hambatan, halangan (kesalahan), kerusakan",
@@ -5414,7 +5414,7 @@ export const vocabN3 = [
  {
   "word": "演奏",
   "reading": "えんそう",
-  "romaji": "",
+  "romaji": "ensou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertunjukan musik",
@@ -5425,7 +5425,7 @@ export const vocabN3 = [
  {
   "word": "一番",
   "reading": "いちばん",
-  "romaji": "",
+  "romaji": "ichiban",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terbaik, pertama, nomor satu",
@@ -5436,7 +5436,7 @@ export const vocabN3 = [
  {
   "word": "日本",
   "reading": "にっぽん",
-  "romaji": "",
+  "romaji": "nippon",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Jepang",
@@ -5447,7 +5447,7 @@ export const vocabN3 = [
  {
   "word": "母親",
   "reading": "ははおや",
-  "romaji": "",
+  "romaji": "hahaoya",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ibu",
@@ -5458,7 +5458,7 @@ export const vocabN3 = [
  {
   "word": "優勝",
   "reading": "ゆうしょう",
-  "romaji": "",
+  "romaji": "yuushou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kemenangan keseluruhan, kejuaraan",
@@ -5469,7 +5469,7 @@ export const vocabN3 = [
  {
   "word": "誇り",
   "reading": "ほこり",
-  "romaji": "",
+  "romaji": "hokori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebanggaan",
@@ -5480,7 +5480,7 @@ export const vocabN3 = [
  {
   "word": "縦",
   "reading": "たて",
-  "romaji": "",
+  "romaji": "tate",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "panjang, tinggi",
@@ -5491,7 +5491,7 @@ export const vocabN3 = [
  {
   "word": "端",
   "reading": "はし",
-  "romaji": "",
+  "romaji": "hashi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ujung (misalnya jalan),tepi,ujung,margin,titik",
@@ -5502,7 +5502,7 @@ export const vocabN3 = [
  {
   "word": "一般",
   "reading": "いっぱん",
-  "romaji": "",
+  "romaji": "ippan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "umum, liberal, universal, biasa, rata-rata",
@@ -5513,7 +5513,7 @@ export const vocabN3 = [
  {
   "word": "費用",
   "reading": "ひよう",
-  "romaji": "",
+  "romaji": "hiyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biaya, biaya",
@@ -5524,7 +5524,7 @@ export const vocabN3 = [
  {
   "word": "舞台",
   "reading": "ぶたい",
-  "romaji": "",
+  "romaji": "butai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "panggung (teater)",
@@ -5535,7 +5535,7 @@ export const vocabN3 = [
  {
   "word": "クリーム",
   "reading": "くりーむ",
-  "romaji": "",
+  "romaji": "kurimu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "krim",
@@ -5546,7 +5546,7 @@ export const vocabN3 = [
  {
   "word": "道路",
   "reading": "どうろ",
-  "romaji": "",
+  "romaji": "douro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jalan raya, jalan raya",
@@ -5557,7 +5557,7 @@ export const vocabN3 = [
  {
   "word": "就く",
   "reading": "つく",
-  "romaji": "",
+  "romaji": "tsuku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menetap di (tempat), untuk mengambil (kursi, posisi), untuk belajar (di bawah guru)",
@@ -5568,7 +5568,7 @@ export const vocabN3 = [
  {
   "word": "信頼",
   "reading": "しんらい",
-  "romaji": "",
+  "romaji": "shinrai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ketergantungan, kepercayaan, keyakinan",
@@ -5579,7 +5579,7 @@ export const vocabN3 = [
  {
   "word": "可能",
   "reading": "かのう",
-  "romaji": "",
+  "romaji": "kanou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mungkin, dapat dipraktikkan, dapat dilaksanakan",
@@ -5590,7 +5590,7 @@ export const vocabN3 = [
  {
   "word": "日中",
   "reading": "にっちゅう",
-  "romaji": "",
+  "romaji": "nitchuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "siang hari, siang hari bolong",
@@ -5601,7 +5601,7 @@ export const vocabN3 = [
  {
   "word": "支える",
   "reading": "ささえる",
-  "romaji": "",
+  "romaji": "sasaeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk diblokir, untuk tersedak, untuk dihalangi",
@@ -5612,7 +5612,7 @@ export const vocabN3 = [
  {
   "word": "実施",
   "reading": "じっし",
-  "romaji": "",
+  "romaji": "jisshi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penegakan, memberlakukan, mengamalkan, melaksanakan, mengoperasikan",
@@ -5623,7 +5623,7 @@ export const vocabN3 = [
  {
   "word": "年齢",
   "reading": "ねんれい",
-  "romaji": "",
+  "romaji": "nenrei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "umur, tahun",
@@ -5634,7 +5634,7 @@ export const vocabN3 = [
  {
   "word": "評判",
   "reading": "ひょうばん",
-  "romaji": "",
+  "romaji": "hyouban",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketenaran, reputasi, popularitas, keterlaluan",
@@ -5645,7 +5645,7 @@ export const vocabN3 = [
  {
   "word": "九",
   "reading": "きゅう",
-  "romaji": "",
+  "romaji": "kyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sembilan",
@@ -5656,7 +5656,7 @@ export const vocabN3 = [
  {
   "word": "涙",
   "reading": "なみだ",
-  "romaji": "",
+  "romaji": "namida",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "merobek",
@@ -5667,7 +5667,7 @@ export const vocabN3 = [
  {
   "word": "迎え",
   "reading": "むかえ",
-  "romaji": "",
+  "romaji": "mukae",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "pertemuan, orang dikirim untuk menjemput kedatangan",
@@ -5678,7 +5678,7 @@ export const vocabN3 = [
  {
   "word": "たまらない",
   "reading": "たまらない",
-  "romaji": "",
+  "romaji": "tamaranai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "tak tertahankan, tak tertahankan, tak tertahankan",
@@ -5689,7 +5689,7 @@ export const vocabN3 = [
  {
   "word": "記入",
   "reading": "きにゅう",
-  "romaji": "",
+  "romaji": "kinyuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "masuk, mengisi formulir",
@@ -5700,7 +5700,7 @@ export const vocabN3 = [
  {
   "word": "欠点",
   "reading": "けってん",
-  "romaji": "",
+  "romaji": "ketten",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesalahan, cacat, kelemahan",
@@ -5711,7 +5711,7 @@ export const vocabN3 = [
  {
   "word": "角",
   "reading": "すみ",
-  "romaji": "",
+  "romaji": "sumi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "klakson",
@@ -5722,7 +5722,7 @@ export const vocabN3 = [
  {
   "word": "本当",
   "reading": "ほんと",
-  "romaji": "",
+  "romaji": "honto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebenaran, kenyataan",
@@ -5733,7 +5733,7 @@ export const vocabN3 = [
  {
   "word": "遠慮",
   "reading": "えんりょ",
-  "romaji": "",
+  "romaji": "enryo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rasa malu, menahan diri, menahan diri",
@@ -5744,7 +5744,7 @@ export const vocabN3 = [
  {
   "word": "積もる",
   "reading": "つもる",
-  "romaji": "",
+  "romaji": "tsumoru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menumpuk",
@@ -5755,7 +5755,7 @@ export const vocabN3 = [
  {
   "word": "全体",
   "reading": "ぜんたい",
-  "romaji": "",
+  "romaji": "zentai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keseluruhan, keseluruhan, apa pun (apa masalahnya)",
@@ -5766,7 +5766,7 @@ export const vocabN3 = [
  {
   "word": "キロ",
   "reading": "きろ",
-  "romaji": "",
+  "romaji": "kiro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(abbr) kilo-,kilogram,kilometer,10^3",
@@ -5777,7 +5777,7 @@ export const vocabN3 = [
  {
   "word": "迷惑",
   "reading": "めいわく",
-  "romaji": "",
+  "romaji": "meiwaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masalah, gangguan, gangguan",
@@ -5788,7 +5788,7 @@ export const vocabN3 = [
  {
   "word": "人類",
   "reading": "じんるい",
-  "romaji": "",
+  "romaji": "jinrui",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "umat manusia, kemanusiaan",
@@ -5799,7 +5799,7 @@ export const vocabN3 = [
  {
   "word": "独り",
   "reading": "ひとり",
-  "romaji": "",
+  "romaji": "hitori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sendirian, belum menikah",
@@ -5810,7 +5810,7 @@ export const vocabN3 = [
  {
   "word": "束",
   "reading": "たば",
-  "romaji": "",
+  "romaji": "taba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lebar tangan, bundel",
@@ -5821,7 +5821,7 @@ export const vocabN3 = [
  {
   "word": "具体",
   "reading": "ぐたい",
-  "romaji": "",
+  "romaji": "gutai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "konkret, nyata, material",
@@ -5832,7 +5832,7 @@ export const vocabN3 = [
  {
   "word": "額",
   "reading": "がく",
-  "romaji": "",
+  "romaji": "gaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dahi, alis",
@@ -5843,7 +5843,7 @@ export const vocabN3 = [
  {
   "word": "バン",
   "reading": "ばん",
-  "romaji": "",
+  "romaji": "ban",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bun,van (karavan),VAN (jaringan bernilai tambah)",
@@ -5854,7 +5854,7 @@ export const vocabN3 = [
  {
   "word": "濃い",
   "reading": "こい",
-  "romaji": "",
+  "romaji": "koi",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "kental (seperti warna, cair), padat, kuat",
@@ -5865,7 +5865,7 @@ export const vocabN3 = [
  {
   "word": "芸術",
   "reading": "げいじゅつ",
-  "romaji": "",
+  "romaji": "geijutsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seni (baik), seni",
@@ -5876,7 +5876,7 @@ export const vocabN3 = [
  {
   "word": "市場",
   "reading": "いちば",
-  "romaji": "",
+  "romaji": "ichiba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "() pasar (sebagai sebuah konsep)",
@@ -5887,7 +5887,7 @@ export const vocabN3 = [
  {
   "word": "トンネル",
   "reading": "とんねる",
-  "romaji": "",
+  "romaji": "tonneru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terowongan",
@@ -5898,7 +5898,7 @@ export const vocabN3 = [
  {
   "word": "皮",
   "reading": "かわ",
-  "romaji": "",
+  "romaji": "kawa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kulit, kulit, kulit, bulu, bulu, kulit kayu, cangkang",
@@ -5909,7 +5909,7 @@ export const vocabN3 = [
  {
   "word": "滞在",
   "reading": "たいざい",
-  "romaji": "",
+  "romaji": "taizai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tinggal, singgah",
@@ -5920,7 +5920,7 @@ export const vocabN3 = [
  {
   "word": "じゃあ",
   "reading": "じゃあ",
-  "romaji": "",
+  "romaji": "jaa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baiklah kalau begitu",
@@ -5931,7 +5931,7 @@ export const vocabN3 = [
  {
   "word": "法",
   "reading": "ほう",
-  "romaji": "",
+  "romaji": "hou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "UU (hukum: UU X)",
@@ -5942,7 +5942,7 @@ export const vocabN3 = [
  {
   "word": "不幸",
   "reading": "ふこう",
-  "romaji": "",
+  "romaji": "fukou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketidakbahagiaan, kesedihan, kemalangan, bencana, kecelakaan, kematian",
@@ -5953,7 +5953,7 @@ export const vocabN3 = [
  {
   "word": "愛する",
   "reading": "あいする",
-  "romaji": "",
+  "romaji": "aisuru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencintai",
@@ -5964,7 +5964,7 @@ export const vocabN3 = [
  {
   "word": "悲しむ",
   "reading": "かなしむ",
-  "romaji": "",
+  "romaji": "kanashimu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "sedih, berduka, menyesal",
@@ -5975,7 +5975,7 @@ export const vocabN3 = [
  {
   "word": "じっと",
   "reading": "じっと",
-  "romaji": "",
+  "romaji": "jitto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan pasti, tegas, sabar, diam-diam",
@@ -5986,7 +5986,7 @@ export const vocabN3 = [
  {
   "word": "有能",
   "reading": "ゆうのう",
-  "romaji": "",
+  "romaji": "yuunou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mampu, mampu, efisien, keterampilan",
@@ -5997,7 +5997,7 @@ export const vocabN3 = [
  {
   "word": "拍手",
   "reading": "はくしゅ",
-  "romaji": "",
+  "romaji": "hakushu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bertepuk tangan, tepuk tangan",
@@ -6008,7 +6008,7 @@ export const vocabN3 = [
  {
   "word": "立場",
   "reading": "たちば",
-  "romaji": "",
+  "romaji": "tachiba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sudut pandang, posisi, situasi",
@@ -6019,7 +6019,7 @@ export const vocabN3 = [
  {
   "word": "無視",
   "reading": "むし",
-  "romaji": "",
+  "romaji": "mushi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "abaikan, abaikan",
@@ -6030,7 +6030,7 @@ export const vocabN3 = [
  {
   "word": "立ち上がる",
   "reading": "たちあがる",
-  "romaji": "",
+  "romaji": "tachiagaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berdiri",
@@ -6041,7 +6041,7 @@ export const vocabN3 = [
  {
   "word": "半ば",
   "reading": "なかば",
-  "romaji": "",
+  "romaji": "nakaba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tengah, setengah, semi, setengah jalan, sebagian",
@@ -6052,7 +6052,7 @@ export const vocabN3 = [
  {
   "word": "兎",
   "reading": "うさぎ",
-  "romaji": "",
+  "romaji": "usagi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelinci, kelinci, kelinci",
@@ -6063,7 +6063,7 @@ export const vocabN3 = [
  {
   "word": "おしゃべり",
   "reading": "おしゃべり",
-  "romaji": "",
+  "romaji": "oshaberi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ngobrol, ngobrol, omong kosong",
@@ -6074,7 +6074,7 @@ export const vocabN3 = [
  {
   "word": "正午",
   "reading": "しょうご",
-  "romaji": "",
+  "romaji": "shougo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "siang, tengah hari",
@@ -6085,7 +6085,7 @@ export const vocabN3 = [
  {
   "word": "関する",
   "reading": "かんする",
-  "romaji": "",
+  "romaji": "kansuru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menjadi perhatian, untuk menjadi terkait",
@@ -6096,7 +6096,7 @@ export const vocabN3 = [
  {
   "word": "いつか",
   "reading": "いつか",
-  "romaji": "",
+  "romaji": "itsuka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suatu saat nanti, suatu hari nanti, suatu hari nanti",
@@ -6107,7 +6107,7 @@ export const vocabN3 = [
  {
   "word": "仲間",
   "reading": "なかま",
-  "romaji": "",
+  "romaji": "nakama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perusahaan, rekan, kolega, rekanan",
@@ -6118,7 +6118,7 @@ export const vocabN3 = [
  {
   "word": "級",
   "reading": "きゅう",
-  "romaji": "",
+  "romaji": "kyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelas, kelas, pangkat, kelas sekolah, kelas",
@@ -6129,7 +6129,7 @@ export const vocabN3 = [
  {
   "word": "感心",
   "reading": "かんしん",
-  "romaji": "",
+  "romaji": "kanshin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kekaguman,Bagus sekali!",
@@ -6140,7 +6140,7 @@ export const vocabN3 = [
  {
   "word": "穴",
   "reading": "あな",
-  "romaji": "",
+  "romaji": "ana",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lubang",
@@ -6151,7 +6151,7 @@ export const vocabN3 = [
  {
   "word": "ドレス",
   "reading": "どれす",
-  "romaji": "",
+  "romaji": "doresu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gaun",
@@ -6162,7 +6162,7 @@ export const vocabN3 = [
  {
   "word": "便り",
   "reading": "たより",
-  "romaji": "",
+  "romaji": "tayori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berita, kabar, informasi, korespondensi, surat",
@@ -6173,7 +6173,7 @@ export const vocabN3 = [
  {
   "word": "求める",
   "reading": "もとめる",
-  "romaji": "",
+  "romaji": "motomeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mencari, meminta, menuntut, menginginkan, menginginkan, mencari, mengejar (kesenangan), berburu (pekerjaan),",
@@ -6184,7 +6184,7 @@ export const vocabN3 = [
  {
   "word": "裏切る",
   "reading": "うらぎる",
-  "romaji": "",
+  "romaji": "uragiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengkhianati, untuk mengubah menjadi pengkhianat, untuk melakukan pengkhianatan",
@@ -6195,7 +6195,7 @@ export const vocabN3 = [
  {
   "word": "日曜",
   "reading": "にちよう",
-  "romaji": "",
+  "romaji": "nichiyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Minggu",
@@ -6206,7 +6206,7 @@ export const vocabN3 = [
  {
   "word": "相談",
   "reading": "そうだん",
-  "romaji": "",
+  "romaji": "soudan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konsultasi, diskusi",
@@ -6217,7 +6217,7 @@ export const vocabN3 = [
  {
   "word": "生き物",
   "reading": "いきもの",
-  "romaji": "",
+  "romaji": "ikimono",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makhluk hidup, hewan",
@@ -6228,7 +6228,7 @@ export const vocabN3 = [
  {
   "word": "助手",
   "reading": "じょしゅ",
-  "romaji": "",
+  "romaji": "joshu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pembantu, pembantu, asisten, tutor",
@@ -6239,7 +6239,7 @@ export const vocabN3 = [
  {
   "word": "旧",
   "reading": "きゅう",
-  "romaji": "",
+  "romaji": "kyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mantan-",
@@ -6250,7 +6250,7 @@ export const vocabN3 = [
  {
   "word": "叫ぶ",
   "reading": "さけぶ",
-  "romaji": "",
+  "romaji": "sakebu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "berteriak, menangis",
@@ -6261,7 +6261,7 @@ export const vocabN3 = [
  {
   "word": "なぜなら",
   "reading": "なぜなら",
-  "romaji": "",
+  "romaji": "nazenara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Karena",
@@ -6272,7 +6272,7 @@ export const vocabN3 = [
  {
   "word": "金銭",
   "reading": "きんせん",
-  "romaji": "",
+  "romaji": "kinsen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "uang, uang tunai",
@@ -6283,7 +6283,7 @@ export const vocabN3 = [
  {
   "word": "合計",
   "reading": "ごうけい",
-  "romaji": "",
+  "romaji": "goukei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jumlah total, jumlah total",
@@ -6294,7 +6294,7 @@ export const vocabN3 = [
  {
   "word": "うがい",
   "reading": "うがい",
-  "romaji": "",
+  "romaji": "ugai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kumur, bilas mulut",
@@ -6305,7 +6305,7 @@ export const vocabN3 = [
  {
   "word": "ゆっくり",
   "reading": "ゆっくり",
-  "romaji": "",
+  "romaji": "yukkuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perlahan, dengan tenang",
@@ -6316,7 +6316,7 @@ export const vocabN3 = [
  {
   "word": "詩人",
   "reading": "しじん",
-  "romaji": "",
+  "romaji": "shijin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penyair",
@@ -6327,7 +6327,7 @@ export const vocabN3 = [
  {
   "word": "機械",
   "reading": "きかい",
-  "romaji": "",
+  "romaji": "kikai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mesin, mekanisme",
@@ -6338,7 +6338,7 @@ export const vocabN3 = [
  {
   "word": "限界",
   "reading": "げんかい",
-  "romaji": "",
+  "romaji": "genkai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batas, terikat",
@@ -6349,7 +6349,7 @@ export const vocabN3 = [
  {
   "word": "縄",
   "reading": "なわ",
-  "romaji": "",
+  "romaji": "nawa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tali, rami",
@@ -6360,7 +6360,7 @@ export const vocabN3 = [
  {
   "word": "金融",
   "reading": "きんゆう",
-  "romaji": "",
+  "romaji": "kinyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sirkulasi moneter, situasi kredit",
@@ -6371,7 +6371,7 @@ export const vocabN3 = [
  {
   "word": "明かり",
   "reading": "あかり",
-  "romaji": "",
+  "romaji": "akari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cahaya lampu, cahaya (secara umum), kecerahan",
@@ -6382,7 +6382,7 @@ export const vocabN3 = [
  {
   "word": "少しも",
   "reading": "すこしも",
-  "romaji": "",
+  "romaji": "sukoshimo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "apa pun, tidak sedikit pun",
@@ -6393,7 +6393,7 @@ export const vocabN3 = [
  {
   "word": "終える",
   "reading": "おえる",
-  "romaji": "",
+  "romaji": "oeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyelesaikan",
@@ -6404,7 +6404,7 @@ export const vocabN3 = [
  {
   "word": "頃",
   "reading": "ころ",
-  "romaji": "",
+  "romaji": "koro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "waktu, tentang, menuju, kira-kira (waktu)",
@@ -6415,7 +6415,7 @@ export const vocabN3 = [
  {
   "word": "冗談",
   "reading": "じょうだん",
-  "romaji": "",
+  "romaji": "joudan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bercanda, bercanda",
@@ -6426,7 +6426,7 @@ export const vocabN3 = [
  {
   "word": "正式",
   "reading": "せいしき",
-  "romaji": "",
+  "romaji": "seishiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bentuk hak, resmi, formalitas",
@@ -6437,7 +6437,7 @@ export const vocabN3 = [
  {
   "word": "式",
   "reading": "しき",
-  "romaji": "",
+  "romaji": "shiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persamaan, rumus, upacara",
@@ -6448,7 +6448,7 @@ export const vocabN3 = [
  {
   "word": "濠",
   "reading": "ほり",
-  "romaji": "",
+  "romaji": "hori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "parit",
@@ -6459,7 +6459,7 @@ export const vocabN3 = [
  {
   "word": "激しい",
   "reading": "はげしい",
-  "romaji": "",
+  "romaji": "hageshii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "kekerasan, keras, intens",
@@ -6470,7 +6470,7 @@ export const vocabN3 = [
  {
   "word": "損",
   "reading": "そん",
-  "romaji": "",
+  "romaji": "son",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerugian, kerugian",
@@ -6481,7 +6481,7 @@ export const vocabN3 = [
  {
   "word": "文字",
   "reading": "もじ",
-  "romaji": "",
+  "romaji": "moji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "huruf (abjad), karakter",
@@ -6492,7 +6492,7 @@ export const vocabN3 = [
  {
   "word": "禁止",
   "reading": "きんし",
-  "romaji": "",
+  "romaji": "kinshi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "larangan, larangan",
@@ -6503,7 +6503,7 @@ export const vocabN3 = [
  {
   "word": "きちんと",
   "reading": "きちんと",
-  "romaji": "",
+  "romaji": "kichinto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tepatnya, secara akurat",
@@ -6514,7 +6514,7 @@ export const vocabN3 = [
  {
   "word": "茶",
   "reading": "ちゃ",
-  "romaji": "",
+  "romaji": "cha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teh",
@@ -6525,7 +6525,7 @@ export const vocabN3 = [
  {
   "word": "幸運",
   "reading": "こううん",
-  "romaji": "",
+  "romaji": "kouun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semoga beruntung, beruntung",
@@ -6536,7 +6536,7 @@ export const vocabN3 = [
  {
   "word": "振る",
   "reading": "ふる",
-  "romaji": "",
+  "romaji": "furu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) melambai, menggoyang, mengayun, (2) memercikkan, (3) melemparkan (aktor), mengalokasikan (pekerjaan)",
@@ -6547,7 +6547,7 @@ export const vocabN3 = [
  {
   "word": "昨",
   "reading": "さく",
-  "romaji": "",
+  "romaji": "saku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terakhir (tahun), kemarin",
@@ -6558,7 +6558,7 @@ export const vocabN3 = [
  {
   "word": "注ぐ",
   "reading": "そそぐ",
-  "romaji": "",
+  "romaji": "sosogu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menuangkan (ke dalam), mengairi, membayar, mengisi, memberi makan (misalnya api)",
@@ -6569,7 +6569,7 @@ export const vocabN3 = [
  {
   "word": "会計",
   "reading": "かいけい",
-  "romaji": "",
+  "romaji": "kaikei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "akun, keuangan, akuntan",
@@ -6580,7 +6580,7 @@ export const vocabN3 = [
  {
   "word": "根",
   "reading": "ね",
-  "romaji": "",
+  "romaji": "ne",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akar",
@@ -6591,7 +6591,7 @@ export const vocabN3 = [
  {
   "word": "温暖",
   "reading": "おんだん",
-  "romaji": "",
+  "romaji": "ondan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kehangatan",
@@ -6602,7 +6602,7 @@ export const vocabN3 = [
  {
   "word": "計",
   "reading": "けい",
-  "romaji": "",
+  "romaji": "kei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rencana",
@@ -6613,7 +6613,7 @@ export const vocabN3 = [
  {
   "word": "確実",
   "reading": "かくじつ",
-  "romaji": "",
+  "romaji": "kakujitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kepastian, keandalan, kesehatan",
@@ -6624,7 +6624,7 @@ export const vocabN3 = [
  {
   "word": "胸",
   "reading": "むね",
-  "romaji": "",
+  "romaji": "mune",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "payudara, dada",
@@ -6635,7 +6635,7 @@ export const vocabN3 = [
  {
   "word": "記憶",
   "reading": "きおく",
-  "romaji": "",
+  "romaji": "kioku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ingatan, ingatan, ingatan",
@@ -6646,7 +6646,7 @@ export const vocabN3 = [
  {
   "word": "建築",
   "reading": "けんちく",
-  "romaji": "",
+  "romaji": "kenchiku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konstruksi, arsitektur",
@@ -6657,7 +6657,7 @@ export const vocabN3 = [
  {
   "word": "煙",
   "reading": "けむり",
-  "romaji": "",
+  "romaji": "kemuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "asap, asap",
@@ -6668,7 +6668,7 @@ export const vocabN3 = [
  {
   "word": "あるいは",
   "reading": "あるいは",
-  "romaji": "",
+  "romaji": "aruiha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atau, mungkin",
@@ -6679,7 +6679,7 @@ export const vocabN3 = [
  {
   "word": "いつでも",
   "reading": "いつでも",
-  "romaji": "",
+  "romaji": "itsudemo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(pada) kapan saja, selalu, setiap saat, tidak pernah (neg)",
@@ -6690,7 +6690,7 @@ export const vocabN3 = [
  {
   "word": "知らせ",
   "reading": "しらせ",
-  "romaji": "",
+  "romaji": "shirase",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "melihat",
@@ -6701,7 +6701,7 @@ export const vocabN3 = [
  {
   "word": "いつまでも",
   "reading": "いつまでも",
-  "romaji": "",
+  "romaji": "itsumademo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selamanya, selamanya, selama-lamanya, selama yang diinginkan, tanpa batas waktu",
@@ -6712,7 +6712,7 @@ export const vocabN3 = [
  {
   "word": "掲示",
   "reading": "けいじ",
-  "romaji": "",
+  "romaji": "keiji",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perhatikan, buletin",
@@ -6723,7 +6723,7 @@ export const vocabN3 = [
  {
   "word": "刺激",
   "reading": "しげき",
-  "romaji": "",
+  "romaji": "shigeki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "stimulus, dorongan, insentif",
@@ -6734,7 +6734,7 @@ export const vocabN3 = [
  {
   "word": "診察",
   "reading": "しんさつ",
-  "romaji": "",
+  "romaji": "shinsatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemeriksaan kesehatan",
@@ -6745,7 +6745,7 @@ export const vocabN3 = [
  {
   "word": "機関",
   "reading": "きかん",
-  "romaji": "",
+  "romaji": "kikan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "organ, mekanisme, fasilitas, mesin",
@@ -6756,7 +6756,7 @@ export const vocabN3 = [
  {
   "word": "戻す",
   "reading": "もどす",
-  "romaji": "",
+  "romaji": "modosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memulihkan, untuk mengembalikan, untuk mengembalikan",
@@ -6767,7 +6767,7 @@ export const vocabN3 = [
  {
   "word": "石油",
   "reading": "せきゆ",
-  "romaji": "",
+  "romaji": "sekiyu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "minyak, minyak bumi, minyak tanah",
@@ -6778,7 +6778,7 @@ export const vocabN3 = [
  {
   "word": "駄目",
   "reading": "だめ",
-  "romaji": "",
+  "romaji": "dame",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak berguna, tidak bagus, tidak ada harapan",
@@ -6789,7 +6789,7 @@ export const vocabN3 = [
  {
   "word": "食欲",
   "reading": "しょくよく",
-  "romaji": "",
+  "romaji": "shokuyoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nafsu makan (untuk makanan)",
@@ -6800,7 +6800,7 @@ export const vocabN3 = [
  {
   "word": "抱える",
   "reading": "かかえる",
-  "romaji": "",
+  "romaji": "kakaeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memegang atau membawa di bawah atau di lengan",
@@ -6811,7 +6811,7 @@ export const vocabN3 = [
  {
   "word": "破産",
   "reading": "はさん",
-  "romaji": "",
+  "romaji": "hasan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(pribadi) kebangkrutan",
@@ -6822,7 +6822,7 @@ export const vocabN3 = [
  {
   "word": "印刷",
   "reading": "いんさつ",
-  "romaji": "",
+  "romaji": "insatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pencetakan",
@@ -6833,7 +6833,7 @@ export const vocabN3 = [
  {
   "word": "対する",
   "reading": "たいする",
-  "romaji": "",
+  "romaji": "taisuru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menghadapi, menghadapi, menentang",
@@ -6844,7 +6844,7 @@ export const vocabN3 = [
  {
   "word": "名",
   "reading": "な",
-  "romaji": "",
+  "romaji": "na",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nama, reputasi",
@@ -6855,7 +6855,7 @@ export const vocabN3 = [
  {
   "word": "見当",
   "reading": "けんとう",
-  "romaji": "",
+  "romaji": "kentou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ditemukan, membidik, memperkirakan, menebak, kira-kira",
@@ -6866,7 +6866,7 @@ export const vocabN3 = [
  {
   "word": "すると",
   "reading": "すると",
-  "romaji": "",
+  "romaji": "suruto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "setelah itu, setelah itu",
@@ -6877,7 +6877,7 @@ export const vocabN3 = [
  {
   "word": "言わば",
   "reading": "いわば",
-  "romaji": "",
+  "romaji": "iwaba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bisa dikatakan begitu",
@@ -6888,7 +6888,7 @@ export const vocabN3 = [
  {
   "word": "分ける",
   "reading": "わける",
-  "romaji": "",
+  "romaji": "wakeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membagi, untuk memisahkan",
@@ -6899,7 +6899,7 @@ export const vocabN3 = [
  {
   "word": "象",
   "reading": "ぞう",
-  "romaji": "",
+  "romaji": "zou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gajah",
@@ -6910,7 +6910,7 @@ export const vocabN3 = [
  {
   "word": "陽気",
   "reading": "ようき",
-  "romaji": "",
+  "romaji": "youki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "musim, cuaca, keceriaan",
@@ -6921,7 +6921,7 @@ export const vocabN3 = [
  {
   "word": "許す",
   "reading": "ゆるす",
-  "romaji": "",
+  "romaji": "yurusu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengizinkan, mengizinkan, menyetujui",
@@ -6932,7 +6932,7 @@ export const vocabN3 = [
  {
   "word": "人種",
   "reading": "じんしゅ",
-  "romaji": "",
+  "romaji": "jinshu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ras (orang)",
@@ -6943,7 +6943,7 @@ export const vocabN3 = [
  {
   "word": "縁",
   "reading": "ふち",
-  "romaji": "",
+  "romaji": "fuchi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sarana, mis.",
@@ -6954,7 +6954,7 @@ export const vocabN3 = [
  {
   "word": "黙る",
   "reading": "だまる",
-  "romaji": "",
+  "romaji": "damaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk diam",
@@ -6965,7 +6965,7 @@ export const vocabN3 = [
  {
   "word": "相手",
   "reading": "あいて",
-  "romaji": "",
+  "romaji": "aite",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rekan, mitra, perusahaan",
@@ -6976,7 +6976,7 @@ export const vocabN3 = [
  {
   "word": "決心",
   "reading": "けっしん",
-  "romaji": "",
+  "romaji": "kesshin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tekad, resolusi",
@@ -6987,7 +6987,7 @@ export const vocabN3 = [
  {
   "word": "愛情",
   "reading": "あいじょう",
-  "romaji": "",
+  "romaji": "aijou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cinta, kasih sayang",
@@ -6998,7 +6998,7 @@ export const vocabN3 = [
  {
   "word": "幸福",
   "reading": "こうふく",
-  "romaji": "",
+  "romaji": "koufuku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebahagiaan, berkah",
@@ -7009,7 +7009,7 @@ export const vocabN3 = [
  {
   "word": "やがて",
   "reading": "やがて",
-  "romaji": "",
+  "romaji": "yagate",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tak lama lagi, segera, panjang lebar",
@@ -7020,7 +7020,7 @@ export const vocabN3 = [
  {
   "word": "量",
   "reading": "りょう",
-  "romaji": "",
+  "romaji": "ryou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kuantitas, jumlah, volume, porsi (makanan)",
@@ -7031,7 +7031,7 @@ export const vocabN3 = [
  {
   "word": "豪華",
   "reading": "ごうか",
-  "romaji": "",
+  "romaji": "gouka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "indah, cantik, kemegahan, kemegahan, pemborosan",
@@ -7042,7 +7042,7 @@ export const vocabN3 = [
  {
   "word": "有利",
   "reading": "ゆうり",
-  "romaji": "",
+  "romaji": "yuuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menguntungkan, lebih baik, menguntungkan, menguntungkan",
@@ -7053,7 +7053,7 @@ export const vocabN3 = [
  {
   "word": "引用",
   "reading": "いんよう",
-  "romaji": "",
+  "romaji": "inyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kutipan, kutipan",
@@ -7064,7 +7064,7 @@ export const vocabN3 = [
  {
   "word": "チーズ",
   "reading": "ちーず",
-  "romaji": "",
+  "romaji": "chizu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keju",
@@ -7075,7 +7075,7 @@ export const vocabN3 = [
  {
   "word": "桜",
   "reading": "さくら",
-  "romaji": "",
+  "romaji": "sakura",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bunga sakura, pohon ceri",
@@ -7086,7 +7086,7 @@ export const vocabN3 = [
  {
   "word": "人込み",
   "reading": "ひとごみ",
-  "romaji": "",
+  "romaji": "hitogomi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerumunan orang",
@@ -7097,7 +7097,7 @@ export const vocabN3 = [
  {
   "word": "仲",
   "reading": "なか",
-  "romaji": "",
+  "romaji": "naka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hubungan, hubungan",
@@ -7108,7 +7108,7 @@ export const vocabN3 = [
  {
   "word": "論文",
   "reading": "ろんぶん",
-  "romaji": "",
+  "romaji": "ronbun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tesis, esai, risalah, makalah",
@@ -7119,7 +7119,7 @@ export const vocabN3 = [
  {
   "word": "約",
   "reading": "やく",
-  "romaji": "",
+  "romaji": "yaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kira-kira, tentang, beberapa",
@@ -7130,7 +7130,7 @@ export const vocabN3 = [
  {
   "word": "防ぐ",
   "reading": "ふせぐ",
-  "romaji": "",
+  "romaji": "fusegu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membela (melawan), untuk melindungi, untuk mencegah",
@@ -7141,7 +7141,7 @@ export const vocabN3 = [
  {
   "word": "美人",
   "reading": "びじん",
-  "romaji": "",
+  "romaji": "bijin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang cantik (wanita)",
@@ -7152,7 +7152,7 @@ export const vocabN3 = [
  {
   "word": "ミス",
   "reading": "みす",
-  "romaji": "",
+  "romaji": "misu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rindu (kesalahan, kesalahan, kegagalan), Nona",
@@ -7163,7 +7163,7 @@ export const vocabN3 = [
  {
   "word": "予報",
   "reading": "よほう",
-  "romaji": "",
+  "romaji": "yohou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perkiraan, prediksi",
@@ -7174,7 +7174,7 @@ export const vocabN3 = [
  {
   "word": "毛布",
   "reading": "もうふ",
-  "romaji": "",
+  "romaji": "moufu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selimut",
@@ -7185,7 +7185,7 @@ export const vocabN3 = [
  {
   "word": "賛成",
   "reading": "Uӣ[い",
-  "romaji": "",
+  "romaji": "i",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persetujuan, persetujuan, dukungan, bantuan",
@@ -7196,7 +7196,7 @@ export const vocabN3 = [
  {
   "word": "発見",
   "reading": "はっけん",
-  "romaji": "",
+  "romaji": "hakken",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penemuan, deteksi, penemuan",
@@ -7207,7 +7207,7 @@ export const vocabN3 = [
  {
   "word": "素晴らしい",
   "reading": "すばらしい",
-  "romaji": "",
+  "romaji": "subarashii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "luar biasa, indah, luar biasa",
@@ -7218,7 +7218,7 @@ export const vocabN3 = [
  {
   "word": "輪",
   "reading": "わ",
-  "romaji": "",
+  "romaji": "wa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cincin, lingkaran, lingkaran",
@@ -7229,7 +7229,7 @@ export const vocabN3 = [
  {
   "word": "見舞い",
   "reading": "みまい",
-  "romaji": "",
+  "romaji": "mimai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertanyaan, ekspresi simpati, ekspresi keprihatinan",
@@ -7240,7 +7240,7 @@ export const vocabN3 = [
  {
   "word": "巨大",
   "reading": "きょだい",
-  "romaji": "",
+  "romaji": "kyodai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besar, raksasa, dahsyat",
@@ -7251,7 +7251,7 @@ export const vocabN3 = [
  {
   "word": "苦しい",
   "reading": "くるしい",
-  "romaji": "",
+  "romaji": "kurushii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "menyakitkan, sulit",
@@ -7262,7 +7262,7 @@ export const vocabN3 = [
  {
   "word": "物価",
   "reading": "ぶっか",
-  "romaji": "",
+  "romaji": "bukka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harga komoditas, harga (secara umum)",
@@ -7273,7 +7273,7 @@ export const vocabN3 = [
  {
   "word": "語る",
   "reading": "かたる",
-  "romaji": "",
+  "romaji": "kataru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berbicara, menceritakan, membaca",
@@ -7284,7 +7284,7 @@ export const vocabN3 = [
  {
   "word": "沈む",
   "reading": "しずむ",
-  "romaji": "",
+  "romaji": "shizumu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "tenggelam, merasa tertekan",
@@ -7295,7 +7295,7 @@ export const vocabN3 = [
  {
   "word": "中学",
   "reading": "ちゅうがく",
-  "romaji": "",
+  "romaji": "chuugaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "SMP, SMP",
@@ -7306,7 +7306,7 @@ export const vocabN3 = [
  {
   "word": "盛り",
   "reading": "さかり",
-  "romaji": "",
+  "romaji": "sakari",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "membantu, melayani",
@@ -7317,7 +7317,7 @@ export const vocabN3 = [
  {
   "word": "実際",
   "reading": "じっさい",
-  "romaji": "",
+  "romaji": "jissai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "praktis, kondisi aktual, status quo",
@@ -7328,7 +7328,7 @@ export const vocabN3 = [
  {
   "word": "模様",
   "reading": "もよう",
-  "romaji": "",
+  "romaji": "moyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pola, gambar, desain",
@@ -7339,7 +7339,7 @@ export const vocabN3 = [
  {
   "word": "触れる",
   "reading": "ふれる",
-  "romaji": "",
+  "romaji": "fureru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menyentuh, disentuh, menyentuh subjek, merasakan, melanggar (hukum, hak cipta, dll.), merasakan, t",
@@ -7350,7 +7350,7 @@ export const vocabN3 = [
  {
   "word": "直ちに",
   "reading": "ただちに",
-  "romaji": "",
+  "romaji": "tadachini",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekaligus, segera, secara langsung, secara langsung",
@@ -7361,7 +7361,7 @@ export const vocabN3 = [
  {
   "word": "断る",
   "reading": "ことわる",
-  "romaji": "",
+  "romaji": "kotowaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menolak, menolak, memberhentikan",
@@ -7372,7 +7372,7 @@ export const vocabN3 = [
  {
   "word": "何",
   "reading": "なに",
-  "romaji": "",
+  "romaji": "nani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Apa",
@@ -7383,7 +7383,7 @@ export const vocabN3 = [
  {
   "word": "経つ",
   "reading": "たつ",
-  "romaji": "",
+  "romaji": "tatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk lulus, untuk gagal",
@@ -7394,7 +7394,7 @@ export const vocabN3 = [
  {
   "word": "張る",
   "reading": "はる",
-  "romaji": "",
+  "romaji": "haru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menempel, untuk menempel",
@@ -7405,7 +7405,7 @@ export const vocabN3 = [
  {
   "word": "土曜",
   "reading": "どよう",
-  "romaji": "",
+  "romaji": "doyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Sabtu",
@@ -7416,7 +7416,7 @@ export const vocabN3 = [
  {
   "word": "服装",
   "reading": "ふくそう",
-  "romaji": "",
+  "romaji": "fukusou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pakaian",
@@ -7427,7 +7427,7 @@ export const vocabN3 = [
  {
   "word": "塵",
   "reading": "ごみ",
-  "romaji": "",
+  "romaji": "gomi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "debu, kotoran",
@@ -7438,7 +7438,7 @@ export const vocabN3 = [
  {
   "word": "河",
   "reading": "かわ",
-  "romaji": "",
+  "romaji": "kawa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sungai, aliran",
@@ -7449,7 +7449,7 @@ export const vocabN3 = [
  {
   "word": "議会",
   "reading": "ぎかい",
-  "romaji": "",
+  "romaji": "gikai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Diet, kongres, parlemen",
@@ -7471,7 +7471,7 @@ export const vocabN3 = [
  {
   "word": "発表",
   "reading": "はっぴょう",
-  "romaji": "",
+  "romaji": "happyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengumuman, publikasi",
@@ -7482,7 +7482,7 @@ export const vocabN3 = [
  {
   "word": "勤め",
   "reading": "つとめ",
-  "romaji": "",
+  "romaji": "tsutome",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pelayanan, tugas, bisnis, tanggung jawab, tugas, (2) layanan keagamaan Buddha",
@@ -7493,7 +7493,7 @@ export const vocabN3 = [
  {
   "word": "影響",
   "reading": "えいきょう",
-  "romaji": "",
+  "romaji": "eikyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengaruh, efek",
@@ -7504,7 +7504,7 @@ export const vocabN3 = [
  {
   "word": "実行",
   "reading": "じっこう",
-  "romaji": "",
+  "romaji": "jikkou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "latihan, kinerja, eksekusi (misalnya program), realisasi",
@@ -7515,7 +7515,7 @@ export const vocabN3 = [
  {
   "word": "素",
   "reading": "もと",
-  "romaji": "",
+  "romaji": "moto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "utama",
@@ -7526,7 +7526,7 @@ export const vocabN3 = [
  {
   "word": "髪の毛",
   "reading": "かみのけ",
-  "romaji": "",
+  "romaji": "kaminoke",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rambut (kepala)",
@@ -7537,7 +7537,7 @@ export const vocabN3 = [
  {
   "word": "およそ",
   "reading": "およそ",
-  "romaji": "",
+  "romaji": "oyoso",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tentang, kira-kira, sebagai suatu peraturan, kira-kira",
@@ -7548,7 +7548,7 @@ export const vocabN3 = [
  {
   "word": "宿",
   "reading": "やど",
-  "romaji": "",
+  "romaji": "yado",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penginapan, penginapan",
@@ -7559,7 +7559,7 @@ export const vocabN3 = [
  {
   "word": "ずっと",
   "reading": "ずっと",
-  "romaji": "",
+  "romaji": "zutto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berturut-turut, secara keseluruhan, banyak",
@@ -7570,7 +7570,7 @@ export const vocabN3 = [
  {
   "word": "撃つ",
   "reading": "うつ",
-  "romaji": "",
+  "romaji": "utsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyerang, mengalahkan, menghancurkan",
@@ -7581,7 +7581,7 @@ export const vocabN3 = [
  {
   "word": "食物",
   "reading": "しょくもつ",
-  "romaji": "",
+  "romaji": "shokumotsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makanan, bahan makanan",
@@ -7592,7 +7592,7 @@ export const vocabN3 = [
  {
   "word": "期待",
   "reading": "きたい",
-  "romaji": "",
+  "romaji": "kitai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "harapan, antisipasi, harapan",
@@ -7603,7 +7603,7 @@ export const vocabN3 = [
  {
   "word": "健康",
   "reading": "けんこう",
-  "romaji": "",
+  "romaji": "kenkou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesehatan, suara, sehat",
@@ -7614,7 +7614,7 @@ export const vocabN3 = [
  {
   "word": "インク",
   "reading": "いんく",
-  "romaji": "",
+  "romaji": "inku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tinta",
@@ -7625,7 +7625,7 @@ export const vocabN3 = [
  {
   "word": "脇",
   "reading": "わき",
-  "romaji": "",
+  "romaji": "waki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "samping",
@@ -7636,7 +7636,7 @@ export const vocabN3 = [
  {
   "word": "務め",
   "reading": "つとめ",
-  "romaji": "",
+  "romaji": "tsutome",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pelayanan, tugas, (2) pelayanan keagamaan Budha",
@@ -7647,7 +7647,7 @@ export const vocabN3 = [
  {
   "word": "真似",
   "reading": "まね",
-  "romaji": "",
+  "romaji": "mane",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mimikri, peniruan, perilaku, kepura-puraan",
@@ -7658,7 +7658,7 @@ export const vocabN3 = [
  {
   "word": "銃",
   "reading": "じゅう",
-  "romaji": "",
+  "romaji": "juu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pistol",
@@ -7669,7 +7669,7 @@ export const vocabN3 = [
  {
   "word": "心理",
   "reading": "しんり",
-  "romaji": "",
+  "romaji": "shinri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mentalitas",
@@ -7680,7 +7680,7 @@ export const vocabN3 = [
  {
   "word": "代金",
   "reading": "だいきん",
-  "romaji": "",
+  "romaji": "daikin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harga, pembayaran, biaya, biaya",
@@ -7691,7 +7691,7 @@ export const vocabN3 = [
  {
   "word": "何で",
   "reading": "なんで",
-  "romaji": "",
+  "romaji": "nande",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Mengapa?, Untuk apa?",
@@ -7702,7 +7702,7 @@ export const vocabN3 = [
  {
   "word": "札",
   "reading": "さつ",
-  "romaji": "",
+  "romaji": "satsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) token, label, (2) tiket, (3) pesona",
@@ -7724,7 +7724,7 @@ export const vocabN3 = [
  {
   "word": "座席",
   "reading": "ざせき",
-  "romaji": "",
+  "romaji": "zaseki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kursi",
@@ -7735,7 +7735,7 @@ export const vocabN3 = [
  {
   "word": "傷",
   "reading": "きず",
-  "romaji": "",
+  "romaji": "kizu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "luka, cedera, sakit, terpotong",
@@ -7746,7 +7746,7 @@ export const vocabN3 = [
  {
   "word": "重視",
   "reading": "じゅうし",
-  "romaji": "",
+  "romaji": "juushi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kepentingan, stres, pertimbangan serius",
@@ -7757,7 +7757,7 @@ export const vocabN3 = [
  {
   "word": "よい",
   "reading": "よい",
-  "romaji": "",
+  "romaji": "yoi",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "bagus, bagus, menyenangkan, oke",
@@ -7768,7 +7768,7 @@ export const vocabN3 = [
  {
   "word": "販売",
   "reading": "はんばい",
-  "romaji": "",
+  "romaji": "hanbai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penjualan, penjualan, pemasaran",
@@ -7779,7 +7779,7 @@ export const vocabN3 = [
  {
   "word": "プラス",
   "reading": "ぷらす",
-  "romaji": "",
+  "romaji": "purasu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "plus",
@@ -7790,7 +7790,7 @@ export const vocabN3 = [
  {
   "word": "差",
   "reading": "さ",
-  "romaji": "",
+  "romaji": "sa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perbedaan, variasi",
@@ -7801,7 +7801,7 @@ export const vocabN3 = [
  {
   "word": "恋",
   "reading": "こい",
-  "romaji": "",
+  "romaji": "koi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cinta, gairah lembut",
@@ -7812,7 +7812,7 @@ export const vocabN3 = [
  {
   "word": "筆",
   "reading": "ふで",
-  "romaji": "",
+  "romaji": "fude",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kuas tulis",
@@ -7823,7 +7823,7 @@ export const vocabN3 = [
  {
   "word": "課",
   "reading": "か",
-  "romaji": "",
+  "romaji": "ka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "counter untuk bab (dari sebuah buku)",
@@ -7834,7 +7834,7 @@ export const vocabN3 = [
  {
   "word": "ボーイ",
   "reading": "ぼーい",
-  "romaji": "",
+  "romaji": "boi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anak laki-laki",
@@ -7845,7 +7845,7 @@ export const vocabN3 = [
  {
   "word": "最も",
   "reading": "もっとも",
-  "romaji": "",
+  "romaji": "mottomo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebagian besar, sangat",
@@ -7856,7 +7856,7 @@ export const vocabN3 = [
  {
   "word": "態度",
   "reading": "たいど",
-  "romaji": "",
+  "romaji": "taido",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sikap, cara",
@@ -7867,7 +7867,7 @@ export const vocabN3 = [
  {
   "word": "偉大",
   "reading": "いだい",
-  "romaji": "",
+  "romaji": "idai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebesaran",
@@ -7878,7 +7878,7 @@ export const vocabN3 = [
  {
   "word": "雇う",
   "reading": "やとう",
-  "romaji": "",
+  "romaji": "yatou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mempekerjakan, untuk mempekerjakan",
@@ -7889,7 +7889,7 @@ export const vocabN3 = [
  {
   "word": "岸",
   "reading": "きし",
-  "romaji": "",
+  "romaji": "kishi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bank, pantai, pantai",
@@ -7900,7 +7900,7 @@ export const vocabN3 = [
  {
   "word": "途端",
   "reading": "とたん",
-  "romaji": "",
+  "romaji": "totan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hanya (sekarang, saat ini, dll.)",
@@ -7911,7 +7911,7 @@ export const vocabN3 = [
  {
   "word": "覚悟",
   "reading": "かくご",
-  "romaji": "",
+  "romaji": "kakugo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "resolusi, pengunduran diri, kesiapan, kesiapsiagaan",
@@ -7922,7 +7922,7 @@ export const vocabN3 = [
  {
   "word": "出発",
   "reading": "しゅっぱつ",
-  "romaji": "",
+  "romaji": "shuppatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keberangkatan",
@@ -7933,7 +7933,7 @@ export const vocabN3 = [
  {
   "word": "誘う",
   "reading": "さそう",
-  "romaji": "",
+  "romaji": "sasou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) mengajak, meminta, (2) menggoda, memikat, membujuk",
@@ -7944,7 +7944,7 @@ export const vocabN3 = [
  {
   "word": "紐",
   "reading": "ひも",
-  "romaji": "",
+  "romaji": "himo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) tali, tali, (2) germo",
@@ -7955,7 +7955,7 @@ export const vocabN3 = [
  {
   "word": "泡",
   "reading": "あわ",
-  "romaji": "",
+  "romaji": "awa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gelembung, busa, buih, minum bir",
@@ -7966,7 +7966,7 @@ export const vocabN3 = [
  {
   "word": "丸",
   "reading": "まる",
-  "romaji": "",
+  "romaji": "maru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lingkaran, penuh (bulan), kesempurnaan, kemurnian, akhiran nama kapal",
@@ -7977,7 +7977,7 @@ export const vocabN3 = [
  {
   "word": "加わる",
   "reading": "くわわる",
-  "romaji": "",
+  "romaji": "kuwawaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bergabung, untuk mengaksesi, untuk meningkatkan, untuk mendapatkan (pengaruh)",
@@ -7988,7 +7988,7 @@ export const vocabN3 = [
  {
   "word": "実現",
   "reading": "じつげん",
-  "romaji": "",
+  "romaji": "jitsugen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pelaksanaan, perwujudan, realisasi",
@@ -7999,7 +7999,7 @@ export const vocabN3 = [
  {
   "word": "日光",
   "reading": "にっこう",
-  "romaji": "",
+  "romaji": "nikkou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sinar matahari",
@@ -8010,7 +8010,7 @@ export const vocabN3 = [
  {
   "word": "信仰",
   "reading": "しんこう",
-  "romaji": "",
+  "romaji": "shinkou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(agama) iman, keyakinan, keyakinan",
@@ -8021,7 +8021,7 @@ export const vocabN3 = [
  {
   "word": "印象",
   "reading": "いんしょう",
-  "romaji": "",
+  "romaji": "inshou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesan",
@@ -8032,7 +8032,7 @@ export const vocabN3 = [
  {
   "word": "眺め",
   "reading": "ながめ",
-  "romaji": "",
+  "romaji": "nagame",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemandangan, pemandangan, prospek, pandangan",
@@ -8043,7 +8043,7 @@ export const vocabN3 = [
  {
   "word": "まるで",
   "reading": "まるで",
-  "romaji": "",
+  "romaji": "marude",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cukup, seluruhnya, seluruhnya",
@@ -8054,7 +8054,7 @@ export const vocabN3 = [
  {
   "word": "生まれ",
   "reading": "うまれ",
-  "romaji": "",
+  "romaji": "umare",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelahiran, tempat lahir",
@@ -8065,7 +8065,7 @@ export const vocabN3 = [
  {
   "word": "極",
   "reading": "ごく",
-  "romaji": "",
+  "romaji": "goku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cukup, sangat",
@@ -8076,7 +8076,7 @@ export const vocabN3 = [
  {
   "word": "単なる",
   "reading": "たんなる",
-  "romaji": "",
+  "romaji": "tannaru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "belaka, sederhana, belaka",
@@ -8087,7 +8087,7 @@ export const vocabN3 = [
  {
   "word": "筋",
   "reading": "すじ",
-  "romaji": "",
+  "romaji": "suji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "otot, tali, garis",
@@ -8098,7 +8098,7 @@ export const vocabN3 = [
  {
   "word": "種類",
   "reading": "しゅるい",
-  "romaji": "",
+  "romaji": "shurui",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "variasi, jenis, tipe",
@@ -8109,7 +8109,7 @@ export const vocabN3 = [
  {
   "word": "打つ",
   "reading": "ぶつ",
-  "romaji": "",
+  "romaji": "butsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memukul, untuk menyerang",
@@ -8120,7 +8120,7 @@ export const vocabN3 = [
  {
   "word": "しまい",
   "reading": "（終わり）",
-  "romaji": "",
+  "romaji": "wari",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "saudara perempuan",
@@ -8131,7 +8131,7 @@ export const vocabN3 = [
  {
   "word": "球",
   "reading": "きゅう",
-  "romaji": "",
+  "romaji": "kyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bola dunia, bola, bola",
@@ -8142,7 +8142,7 @@ export const vocabN3 = [
  {
   "word": "石炭",
   "reading": "せきたん",
-  "romaji": "",
+  "romaji": "sekitan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batu bara",
@@ -8153,7 +8153,7 @@ export const vocabN3 = [
  {
   "word": "今回",
   "reading": "こんかい",
-  "romaji": "",
+  "romaji": "konkai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekarang, kali ini, akhir-akhir ini",
@@ -8175,7 +8175,7 @@ export const vocabN3 = [
  {
   "word": "不正",
   "reading": "ふせい",
-  "romaji": "",
+  "romaji": "fusei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketidakadilan, ketidakadilan",
@@ -8186,7 +8186,7 @@ export const vocabN3 = [
  {
   "word": "全然",
   "reading": "ぜんぜん",
-  "romaji": "",
+  "romaji": "zenzen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) seluruhnya, seluruhnya, seluruhnya, (2) tidak sama sekali (dengan kata kerja neg.)",
@@ -8197,7 +8197,7 @@ export const vocabN3 = [
  {
   "word": "切れ",
   "reading": "きれ",
-  "romaji": "",
+  "romaji": "kire",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kain, potong, potong, potong",
@@ -8208,7 +8208,7 @@ export const vocabN3 = [
  {
   "word": "こんなに",
   "reading": "こんなに",
-  "romaji": "",
+  "romaji": "konnani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jadi, seperti ini, dengan cara ini",
@@ -8219,7 +8219,7 @@ export const vocabN3 = [
  {
   "word": "可",
   "reading": "か",
-  "romaji": "",
+  "romaji": "ka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mendingan",
@@ -8230,7 +8230,7 @@ export const vocabN3 = [
  {
   "word": "改善",
   "reading": "かいぜん",
-  "romaji": "",
+  "romaji": "kaizen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perbaikan, perbaikan",
@@ -8241,7 +8241,7 @@ export const vocabN3 = [
  {
   "word": "野",
   "reading": "の",
-  "romaji": "",
+  "romaji": "no",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bidang",
@@ -8252,7 +8252,7 @@ export const vocabN3 = [
  {
   "word": "ドラマ",
   "reading": "どらま",
-  "romaji": "",
+  "romaji": "dorama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "drama",
@@ -8263,7 +8263,7 @@ export const vocabN3 = [
  {
   "word": "捕まる",
   "reading": "つかまる",
-  "romaji": "",
+  "romaji": "tsukamaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk ditangkap, untuk ditangkap",
@@ -8274,7 +8274,7 @@ export const vocabN3 = [
  {
   "word": "等",
   "reading": "など",
-  "romaji": "",
+  "romaji": "nado",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dan lain-lain, dsb., dan sejenisnya",
@@ -8285,7 +8285,7 @@ export const vocabN3 = [
  {
   "word": "通じる",
   "reading": "つうじる",
-  "romaji": "",
+  "romaji": "tsuujiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berlari ke, untuk memimpin, untuk berkomunikasi, untuk memahami",
@@ -8296,7 +8296,7 @@ export const vocabN3 = [
  {
   "word": "似合う",
   "reading": "にあう",
-  "romaji": "",
+  "romaji": "niau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menyesuaikan, mencocokkan, menjadi, menjadi seperti",
@@ -8307,7 +8307,7 @@ export const vocabN3 = [
  {
   "word": "松",
   "reading": "まつ",
-  "romaji": "",
+  "romaji": "matsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pohon pinus, (2) tertinggi (dari sistem peringkat tiga tingkat)",
@@ -8318,7 +8318,7 @@ export const vocabN3 = [
  {
   "word": "噂",
   "reading": "うわさ",
-  "romaji": "",
+  "romaji": "uwasa",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rumor, laporan, gosip, pembicaraan umum",
@@ -8329,7 +8329,7 @@ export const vocabN3 = [
  {
   "word": "鍋",
   "reading": "なべ",
-  "romaji": "",
+  "romaji": "nabe",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "panci, panci",
@@ -8340,7 +8340,7 @@ export const vocabN3 = [
  {
   "word": "克服",
   "reading": "こくふく",
-  "romaji": "",
+  "romaji": "kokufuku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penaklukan, penaklukan",
@@ -8351,7 +8351,7 @@ export const vocabN3 = [
  {
   "word": "意識",
   "reading": "いしき",
-  "romaji": "",
+  "romaji": "ishiki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kesadaran, indera",
@@ -8362,7 +8362,7 @@ export const vocabN3 = [
  {
   "word": "善",
   "reading": "ぜん",
-  "romaji": "",
+  "romaji": "zen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baik, baik, benar, kebajikan",
@@ -8373,7 +8373,7 @@ export const vocabN3 = [
  {
   "word": "熱中",
   "reading": "ねっちゅう",
-  "romaji": "",
+  "romaji": "netchuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "gila!,antusiasme,semangat,mania",
@@ -8384,7 +8384,7 @@ export const vocabN3 = [
  {
   "word": "劣る",
   "reading": "おとる",
-  "romaji": "",
+  "romaji": "otoru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "tertinggal, menjadi inferior",
@@ -8395,7 +8395,7 @@ export const vocabN3 = [
  {
   "word": "男子",
   "reading": "だんし",
-  "romaji": "",
+  "romaji": "danshi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemuda, anak muda",
@@ -8406,7 +8406,7 @@ export const vocabN3 = [
  {
   "word": "恐怖",
   "reading": "きょうふ",
-  "romaji": "",
+  "romaji": "kyoufu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "takut, takut, cemas, teror",
@@ -8417,7 +8417,7 @@ export const vocabN3 = [
  {
   "word": "そこで",
   "reading": "そこで",
-  "romaji": "",
+  "romaji": "sokode",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jadi (konj), oleh karena itu, sekarang, nanti, setelahnya",
@@ -8428,7 +8428,7 @@ export const vocabN3 = [
  {
   "word": "いらっしゃい",
   "reading": "いらっしゃい",
-  "romaji": "",
+  "romaji": "irasshai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selamat datang",
@@ -8439,7 +8439,7 @@ export const vocabN3 = [
  {
   "word": "終",
   "reading": "おわり",
-  "romaji": "",
+  "romaji": "owari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akhir",
@@ -8450,7 +8450,7 @@ export const vocabN3 = [
  {
   "word": "主義",
   "reading": "しゅぎ",
-  "romaji": "",
+  "romaji": "shugi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "doktrin, aturan, prinsip",
@@ -8461,7 +8461,7 @@ export const vocabN3 = [
  {
   "word": "叩く",
   "reading": "たたく",
-  "romaji": "",
+  "romaji": "tataku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memukul, bertepuk tangan, memukul, memukul",
@@ -8472,7 +8472,7 @@ export const vocabN3 = [
  {
   "word": "準備",
   "reading": "じゅんび",
-  "romaji": "",
+  "romaji": "junbi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persiapan, pengaturan, penyediaan, cadangan",
@@ -8483,7 +8483,7 @@ export const vocabN3 = [
  {
   "word": "軍",
   "reading": "ぐん",
-  "romaji": "",
+  "romaji": "gun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tentara, kekuatan, pasukan",
@@ -8494,7 +8494,7 @@ export const vocabN3 = [
  {
   "word": "苦労",
   "reading": "くろう",
-  "romaji": "",
+  "romaji": "kurou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "masalah, kesulitan",
@@ -8505,7 +8505,7 @@ export const vocabN3 = [
  {
   "word": "高価",
   "reading": "こうか",
-  "romaji": "",
+  "romaji": "kouka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harga tinggi",
@@ -8516,7 +8516,7 @@ export const vocabN3 = [
  {
   "word": "逆",
   "reading": "ぎゃく",
-  "romaji": "",
+  "romaji": "gyaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terbalik, berlawanan",
@@ -8527,7 +8527,7 @@ export const vocabN3 = [
  {
   "word": "旗",
   "reading": "はた",
-  "romaji": "",
+  "romaji": "hata",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bendera",
@@ -8538,7 +8538,7 @@ export const vocabN3 = [
  {
   "word": "不",
   "reading": "ふ",
-  "romaji": "",
+  "romaji": "fu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "un,non, awalan negatif",
@@ -8549,7 +8549,7 @@ export const vocabN3 = [
  {
   "word": "仏",
   "reading": "ほとけ",
-  "romaji": "",
+  "romaji": "hotoke",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Buddha, orang yang penyayang, gambar Buddha, orang mati",
@@ -8560,7 +8560,7 @@ export const vocabN3 = [
  {
   "word": "側",
   "reading": "そば",
-  "romaji": "",
+  "romaji": "soba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "samping, tepi, orang ketiga",
@@ -8571,7 +8571,7 @@ export const vocabN3 = [
  {
   "word": "運動",
   "reading": "うんどう",
-  "romaji": "",
+  "romaji": "undou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "gerak, latihan",
@@ -8582,7 +8582,7 @@ export const vocabN3 = [
  {
   "word": "先ず",
   "reading": "まず",
-  "romaji": "",
+  "romaji": "mazu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertama (dari semuanya),untuk memulai dengan,tentang,hampir,hampir (dengan kata kerja neg.)",
@@ -8593,7 +8593,7 @@ export const vocabN3 = [
  {
   "word": "面",
   "reading": "めん",
-  "romaji": "",
+  "romaji": "men",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wajah, mug, permukaan, fitur wajah, topeng, pelindung wajah, samping atau segi, sudut, halaman",
@@ -8604,7 +8604,7 @@ export const vocabN3 = [
  {
   "word": "見る",
   "reading": "みる",
-  "romaji": "",
+  "romaji": "miru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melihat, untuk menonton",
@@ -8615,7 +8615,7 @@ export const vocabN3 = [
  {
   "word": "トップ",
   "reading": "とっぷ",
-  "romaji": "",
+  "romaji": "toppu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atas",
@@ -8626,7 +8626,7 @@ export const vocabN3 = [
  {
   "word": "出来るだけ",
   "reading": "できるだけ",
-  "romaji": "",
+  "romaji": "dekirudake",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "jika memungkinkan",
@@ -8637,7 +8637,7 @@ export const vocabN3 = [
  {
   "word": "船",
   "reading": "ふね",
-  "romaji": "",
+  "romaji": "fune",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapal, perahu, perahu, pelayaran, kapal, kapal uap",
@@ -8648,7 +8648,7 @@ export const vocabN3 = [
  {
   "word": "中心",
   "reading": "ちゅうしん",
-  "romaji": "",
+  "romaji": "chuushin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pusat, inti, jantung, poros, penekanan, keseimbangan",
@@ -8659,7 +8659,7 @@ export const vocabN3 = [
  {
   "word": "鬼",
   "reading": "おに",
-  "romaji": "",
+  "romaji": "oni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ogre,demon,it (yaitu, dalam permainan kejar-kejaran)",
@@ -8670,7 +8670,7 @@ export const vocabN3 = [
  {
   "word": "原",
   "reading": "はら",
-  "romaji": "",
+  "romaji": "hara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lapangan, dataran, padang rumput, tundra, tegalan, hutan belantara",
@@ -8681,7 +8681,7 @@ export const vocabN3 = [
  {
   "word": "見解",
   "reading": "けんかい",
-  "romaji": "",
+  "romaji": "kenkai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pendapat, sudut pandang",
@@ -8692,7 +8692,7 @@ export const vocabN3 = [
  {
   "word": "監督",
   "reading": "かんとく",
-  "romaji": "",
+  "romaji": "kantoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengawasan, pengendalian, pengawasan",
@@ -8703,7 +8703,7 @@ export const vocabN3 = [
  {
   "word": "得る",
   "reading": "える",
-  "romaji": "",
+  "romaji": "eru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mendapatkan, untuk mendapatkan, untuk menang",
@@ -8714,7 +8714,7 @@ export const vocabN3 = [
  {
   "word": "達する",
   "reading": "たっする",
-  "romaji": "",
+  "romaji": "tassuru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencapai, untuk mencapai",
@@ -8725,7 +8725,7 @@ export const vocabN3 = [
  {
   "word": "本人",
   "reading": "ほんにん",
-  "romaji": "",
+  "romaji": "honnin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang itu sendiri",
@@ -8736,7 +8736,7 @@ export const vocabN3 = [
  {
   "word": "品",
   "reading": "しな",
-  "romaji": "",
+  "romaji": "shina",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benda,barang,barang,martabat,barang (barang),konter untuk kursus makan",
@@ -8747,7 +8747,7 @@ export const vocabN3 = [
  {
   "word": "故郷",
   "reading": "こきょう",
-  "romaji": "",
+  "romaji": "kokyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kota asal, tempat lahir, desa tua, desa bersejarah",
@@ -8758,7 +8758,7 @@ export const vocabN3 = [
  {
   "word": "困難",
   "reading": "こんなん",
-  "romaji": "",
+  "romaji": "konnan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesulitan, kesusahan",
@@ -8769,7 +8769,7 @@ export const vocabN3 = [
  {
   "word": "調査",
   "reading": "ちょうさ",
-  "romaji": "",
+  "romaji": "chousa",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyelidikan, pemeriksaan, penyelidikan, survei",
@@ -8780,7 +8780,7 @@ export const vocabN3 = [
  {
   "word": "我々",
   "reading": "われわれ",
-  "romaji": "",
+  "romaji": "wareware",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Kami",
@@ -8791,7 +8791,7 @@ export const vocabN3 = [
  {
   "word": "疲れ",
   "reading": "つかれ",
-  "romaji": "",
+  "romaji": "tsukare",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelelahan, kelelahan",
@@ -8802,7 +8802,7 @@ export const vocabN3 = [
  {
   "word": "しゃべる",
   "reading": "しゃべる",
-  "romaji": "",
+  "romaji": "shaberu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk ngobrol, ngobrol, ngobrol",
@@ -8813,7 +8813,7 @@ export const vocabN3 = [
  {
   "word": "注",
   "reading": "ちゅう",
-  "romaji": "",
+  "romaji": "chuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anotasi, catatan penjelasan",
@@ -8824,7 +8824,7 @@ export const vocabN3 = [
  {
   "word": "委員",
   "reading": "いいん",
-  "romaji": "",
+  "romaji": "iin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggota komite",
@@ -8835,7 +8835,7 @@ export const vocabN3 = [
  {
   "word": "輸入",
   "reading": "ゆにゅう",
-  "romaji": "",
+  "romaji": "yunyuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "impor, impor, pengenalan",
@@ -8846,7 +8846,7 @@ export const vocabN3 = [
  {
   "word": "現代",
   "reading": "げんだい",
-  "romaji": "",
+  "romaji": "gendai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saat ini, zaman modern, masa kini",
@@ -8857,7 +8857,7 @@ export const vocabN3 = [
  {
   "word": "金額",
   "reading": "きんがく",
-  "romaji": "",
+  "romaji": "kingaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sejumlah uang",
@@ -8868,7 +8868,7 @@ export const vocabN3 = [
  {
   "word": "祝う",
   "reading": "いわう",
-  "romaji": "",
+  "romaji": "iwau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengucapkan selamat, untuk merayakan",
@@ -8879,7 +8879,7 @@ export const vocabN3 = [
  {
   "word": "願う",
   "reading": "ねがう",
-  "romaji": "",
+  "romaji": "negau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menginginkan, berharap, meminta",
@@ -8890,7 +8890,7 @@ export const vocabN3 = [
  {
   "word": "転ぶ",
   "reading": "ころぶ",
-  "romaji": "",
+  "romaji": "korobu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "terjatuh, terjatuh",
@@ -8901,7 +8901,7 @@ export const vocabN3 = [
  {
   "word": "友人",
   "reading": "ゆうじん",
-  "romaji": "",
+  "romaji": "yuujin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teman",
@@ -8912,7 +8912,7 @@ export const vocabN3 = [
  {
   "word": "履く",
   "reading": "はく",
-  "romaji": "",
+  "romaji": "haku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memakai, memakai (tubuh bagian bawah)",
@@ -8923,7 +8923,7 @@ export const vocabN3 = [
  {
   "word": "作品",
   "reading": "さくひん",
-  "romaji": "",
+  "romaji": "sakuhin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekerjaan, karya, pertunjukan, produksi",
@@ -8934,7 +8934,7 @@ export const vocabN3 = [
  {
   "word": "絶滅",
   "reading": "ぜつめつ",
-  "romaji": "",
+  "romaji": "zetsumetsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kehancuran, kepunahan",
@@ -8945,7 +8945,7 @@ export const vocabN3 = [
  {
   "word": "表情",
   "reading": "ひょうじょう",
-  "romaji": "",
+  "romaji": "hyoujou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "raut wajah",
@@ -8956,7 +8956,7 @@ export const vocabN3 = [
  {
   "word": "言語",
   "reading": "げんご",
-  "romaji": "",
+  "romaji": "gengo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahasa",
@@ -8967,7 +8967,7 @@ export const vocabN3 = [
  {
   "word": "回",
   "reading": "かい",
-  "romaji": "",
+  "romaji": "kai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "counter untuk kejadian",
@@ -8978,7 +8978,7 @@ export const vocabN3 = [
  {
   "word": "がっかり",
   "reading": "がっかり",
-  "romaji": "",
+  "romaji": "gakkari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "merasa kecewa, sedih, putus asa",
@@ -8989,7 +8989,7 @@ export const vocabN3 = [
  {
   "word": "綿",
   "reading": "めん",
-  "romaji": "",
+  "romaji": "men",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapas, bantalan",
@@ -9000,7 +9000,7 @@ export const vocabN3 = [
  {
   "word": "大臣",
   "reading": "だいじん",
-  "romaji": "",
+  "romaji": "daijin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menteri kabinet",
@@ -9011,7 +9011,7 @@ export const vocabN3 = [
  {
   "word": "引退",
   "reading": "いんたい",
-  "romaji": "",
+  "romaji": "intai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pensiun",
@@ -9022,7 +9022,7 @@ export const vocabN3 = [
  {
   "word": "女子",
   "reading": "じょし",
-  "romaji": "",
+  "romaji": "joshi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wanita, gadis",
@@ -9033,7 +9033,7 @@ export const vocabN3 = [
  {
   "word": "褒める",
   "reading": "ほめる",
-  "romaji": "",
+  "romaji": "homeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memuji, mengagumi, berbicara dengan baik",
@@ -9044,7 +9044,7 @@ export const vocabN3 = [
  {
   "word": "訓",
   "reading": "くん",
-  "romaji": "",
+  "romaji": "kun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bacaan asli Jepang dari karakter Cina",
@@ -9055,7 +9055,7 @@ export const vocabN3 = [
  {
   "word": "少女",
   "reading": "しょうじょ",
-  "romaji": "",
+  "romaji": "shoujo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "putri, nona muda, perawan, gadis, gadis kecil",
@@ -9066,7 +9066,7 @@ export const vocabN3 = [
  {
   "word": "奪う",
   "reading": "うばう",
-  "romaji": "",
+  "romaji": "ubau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk merebut",
@@ -9077,7 +9077,7 @@ export const vocabN3 = [
  {
   "word": "一層",
   "reading": "いっそう",
-  "romaji": "",
+  "romaji": "issou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lebih banyak lagi, lebih banyak lagi, lebih banyak lagi",
@@ -9088,7 +9088,7 @@ export const vocabN3 = [
  {
   "word": "期間",
   "reading": "きかん",
-  "romaji": "",
+  "romaji": "kikan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "periode, jangka waktu",
@@ -9099,7 +9099,7 @@ export const vocabN3 = [
  {
   "word": "ロケット",
   "reading": "ろけっと",
-  "romaji": "",
+  "romaji": "roketto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "liontin, roket",
@@ -9110,7 +9110,7 @@ export const vocabN3 = [
  {
   "word": "掃除",
   "reading": "そうじ",
-  "romaji": "",
+  "romaji": "souji",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "membersihkan, menyapu",
@@ -9121,7 +9121,7 @@ export const vocabN3 = [
  {
   "word": "確認",
   "reading": "かくにん",
-  "romaji": "",
+  "romaji": "kakunin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "afirmasi, konfirmasi",
@@ -9132,7 +9132,7 @@ export const vocabN3 = [
  {
   "word": "向かい",
   "reading": "むかい",
-  "romaji": "",
+  "romaji": "mukai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menghadap, di seberang, di seberang jalan, di sisi lain",
@@ -9143,7 +9143,7 @@ export const vocabN3 = [
  {
   "word": "外す",
   "reading": "はずす",
-  "romaji": "",
+  "romaji": "hazusu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membuka, untuk menghapus",
@@ -9154,7 +9154,7 @@ export const vocabN3 = [
  {
   "word": "問い",
   "reading": "とい",
-  "romaji": "",
+  "romaji": "toi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertanyaan, pertanyaan",
@@ -9165,7 +9165,7 @@ export const vocabN3 = [
  {
   "word": "伸ばす",
   "reading": "のばす",
-  "romaji": "",
+  "romaji": "nobasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memanjangkan, merenggangkan, menjangkau, menumbuhkan (jenggot)",
@@ -9176,7 +9176,7 @@ export const vocabN3 = [
  {
   "word": "優れる",
   "reading": "すぐれる",
-  "romaji": "",
+  "romaji": "sugureru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melampaui, melampaui, untuk unggul",
@@ -9187,7 +9187,7 @@ export const vocabN3 = [
  {
   "word": "機嫌",
   "reading": "きげん",
-  "romaji": "",
+  "romaji": "kigen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "humor, emosi, suasana hati",
@@ -9198,7 +9198,7 @@ export const vocabN3 = [
  {
   "word": "予期",
   "reading": "よき",
-  "romaji": "",
+  "romaji": "yoki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "harapan, asumsikan akan terjadi, perkiraan",
@@ -9209,7 +9209,7 @@ export const vocabN3 = [
  {
   "word": "持ち上げる",
   "reading": "もちあげる",
-  "romaji": "",
+  "romaji": "mochiageru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengangkat, untuk mengangkat, untuk menyanjung",
@@ -9220,7 +9220,7 @@ export const vocabN3 = [
  {
   "word": "犯人",
   "reading": "はんにん",
-  "romaji": "",
+  "romaji": "hannin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pelaku, penjahat",
@@ -9231,7 +9231,7 @@ export const vocabN3 = [
  {
   "word": "資源",
   "reading": "しげん",
-  "romaji": "",
+  "romaji": "shigen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sumber daya",
@@ -9242,7 +9242,7 @@ export const vocabN3 = [
  {
   "word": "乗せる",
   "reading": "のせる",
-  "romaji": "",
+  "romaji": "noseru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menempatkan pada (sesuatu), untuk mengambil kapal, untuk memberi tumpangan",
@@ -9253,7 +9253,7 @@ export const vocabN3 = [
  {
   "word": "ベルト",
   "reading": "べると",
-  "romaji": "",
+  "romaji": "beruto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Sabuk untuk pakaian barat",
@@ -9264,7 +9264,7 @@ export const vocabN3 = [
  {
   "word": "過ごす",
   "reading": "すごす",
-  "romaji": "",
+  "romaji": "sugosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melewati, untuk menghabiskan, untuk melewati, untuk mengatasi",
@@ -9275,7 +9275,7 @@ export const vocabN3 = [
  {
   "word": "対",
   "reading": "たい",
-  "romaji": "",
+  "romaji": "tai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berpasangan, berpasangan, mengatur",
@@ -9286,7 +9286,7 @@ export const vocabN3 = [
  {
   "word": "後者",
   "reading": "こうしゃ",
-  "romaji": "",
+  "romaji": "kousha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "yang terakhir",
@@ -9297,7 +9297,7 @@ export const vocabN3 = [
  {
   "word": "姿",
   "reading": "すがた",
-  "romaji": "",
+  "romaji": "sugata",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sosok, bentuk, penampilan",
@@ -9308,7 +9308,7 @@ export const vocabN3 = [
  {
   "word": "支出",
   "reading": "ししゅつ",
-  "romaji": "",
+  "romaji": "shishutsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengeluaran, biaya",
@@ -9319,7 +9319,7 @@ export const vocabN3 = [
  {
   "word": "読書",
   "reading": "どくしょ",
-  "romaji": "",
+  "romaji": "dokusho",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "membaca",
@@ -9330,7 +9330,7 @@ export const vocabN3 = [
  {
   "word": "霜",
   "reading": "しも",
-  "romaji": "",
+  "romaji": "shimo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "embun beku",
@@ -9341,7 +9341,7 @@ export const vocabN3 = [
  {
   "word": "異なる",
   "reading": "ことなる",
-  "romaji": "",
+  "romaji": "kotonaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "berbeda, berbeda, tidak setuju",
@@ -9352,7 +9352,7 @@ export const vocabN3 = [
  {
   "word": "例",
   "reading": "れい",
-  "romaji": "",
+  "romaji": "rei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "misalnya, contoh, kasus",
@@ -9363,7 +9363,7 @@ export const vocabN3 = [
  {
   "word": "金",
   "reading": "かね",
-  "romaji": "",
+  "romaji": "kane",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) emas, (2) emas umum (shogi) (abbr)",
@@ -9374,7 +9374,7 @@ export const vocabN3 = [
  {
   "word": "通信",
   "reading": "つうしん",
-  "romaji": "",
+  "romaji": "tsuushin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "korespondensi, komunikasi, berita, sinyal",
@@ -9385,7 +9385,7 @@ export const vocabN3 = [
  {
   "word": "訓練",
   "reading": "くんれん",
-  "romaji": "",
+  "romaji": "kunren",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "latihan, pelatihan",
@@ -9396,7 +9396,7 @@ export const vocabN3 = [
  {
   "word": "近頃",
   "reading": "ちかごろ",
-  "romaji": "",
+  "romaji": "chikagoro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akhir-akhir ini, baru-baru ini, saat ini",
@@ -9407,7 +9407,7 @@ export const vocabN3 = [
  {
   "word": "プラン",
   "reading": "ぷらん",
-  "romaji": "",
+  "romaji": "puran",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rencana",
@@ -9418,7 +9418,7 @@ export const vocabN3 = [
  {
   "word": "登山",
   "reading": "とざん",
-  "romaji": "",
+  "romaji": "tozan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pendakian gunung",
@@ -9429,7 +9429,7 @@ export const vocabN3 = [
  {
   "word": "さっぱり",
   "reading": "さっぱり",
-  "romaji": "",
+  "romaji": "sappari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "merasa segar, merasa lega, rapi, terpangkas",
@@ -9440,7 +9440,7 @@ export const vocabN3 = [
  {
   "word": "タオル",
   "reading": "たおる",
-  "romaji": "",
+  "romaji": "taoru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(tangan) handuk",
@@ -9451,7 +9451,7 @@ export const vocabN3 = [
  {
   "word": "国家",
   "reading": "こっか",
-  "romaji": "",
+  "romaji": "kokka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "negara bagian, negara, bangsa",
@@ -9462,7 +9462,7 @@ export const vocabN3 = [
  {
   "word": "作家",
   "reading": "さっか",
-  "romaji": "",
+  "romaji": "sakka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penulis, penulis, novelis, artis",
@@ -9473,7 +9473,7 @@ export const vocabN3 = [
  {
   "word": "勿論",
   "reading": "もちろん",
-  "romaji": "",
+  "romaji": "mochiron",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tentu saja, tentu saja, tentu saja",
@@ -9484,7 +9484,7 @@ export const vocabN3 = [
  {
   "word": "独身",
   "reading": "どくしん",
-  "romaji": "",
+  "romaji": "dokushin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bujangan, lajang, belum menikah, selibat",
@@ -9495,7 +9495,7 @@ export const vocabN3 = [
  {
   "word": "ですから",
   "reading": "ですから",
-  "romaji": "",
+  "romaji": "desukara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Karena itu",
@@ -9506,7 +9506,7 @@ export const vocabN3 = [
  {
   "word": "休憩",
   "reading": "きゅうけい",
-  "romaji": "",
+  "romaji": "kyuukei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "istirahat, istirahat, istirahat, istirahat",
@@ -9517,7 +9517,7 @@ export const vocabN3 = [
  {
   "word": "ホーム",
   "reading": "ほーむ",
-  "romaji": "",
+  "romaji": "homu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) peron, (2) rumah",
@@ -9528,7 +9528,7 @@ export const vocabN3 = [
  {
   "word": "成人",
   "reading": "せいじん",
-  "romaji": "",
+  "romaji": "seijin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "dewasa",
@@ -9539,7 +9539,7 @@ export const vocabN3 = [
  {
   "word": "作業",
   "reading": "さぎょう",
-  "romaji": "",
+  "romaji": "sagyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pekerjaan, operasi, manufaktur, tugas kelelahan",
@@ -9550,7 +9550,7 @@ export const vocabN3 = [
  {
   "word": "投票",
   "reading": "とうひょう",
-  "romaji": "",
+  "romaji": "touhyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemungutan suara, jajak pendapat",
@@ -9561,7 +9561,7 @@ export const vocabN3 = [
  {
   "word": "会",
   "reading": "かい",
-  "romaji": "",
+  "romaji": "kai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertemuan, majelis, pesta, asosiasi, klub",
@@ -9572,7 +9572,7 @@ export const vocabN3 = [
  {
   "word": "世間",
   "reading": "せけん",
-  "romaji": "",
+  "romaji": "seken",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dunia, masyarakat",
@@ -9583,7 +9583,7 @@ export const vocabN3 = [
  {
   "word": "末",
   "reading": "すえ",
-  "romaji": "",
+  "romaji": "sue",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akhir, bubuk",
@@ -9594,7 +9594,7 @@ export const vocabN3 = [
  {
   "word": "輝く",
   "reading": "かがやく",
-  "romaji": "",
+  "romaji": "kagayaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "bersinar, berkilau, berkilau",
@@ -9605,7 +9605,7 @@ export const vocabN3 = [
  {
   "word": "活気",
   "reading": "かっき",
-  "romaji": "",
+  "romaji": "kakki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "energi, keaktifan",
@@ -9616,7 +9616,7 @@ export const vocabN3 = [
  {
   "word": "金庫",
   "reading": "きんこ",
-  "romaji": "",
+  "romaji": "kinko",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "brankas, brankas, perbendaharaan, penyedia dana",
@@ -9627,7 +9627,7 @@ export const vocabN3 = [
  {
   "word": "世話",
   "reading": "せわ",
-  "romaji": "",
+  "romaji": "sewa",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menjaga, membantu, membantu, membantu",
@@ -9638,7 +9638,7 @@ export const vocabN3 = [
  {
   "word": "旅",
   "reading": "たび",
-  "romaji": "",
+  "romaji": "tabi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perjalanan, perjalanan, perjalanan",
@@ -9649,7 +9649,7 @@ export const vocabN3 = [
  {
   "word": "制限",
   "reading": "せいげん",
-  "romaji": "",
+  "romaji": "seigen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pembatasan, pengekangan, pembatasan",
@@ -9660,7 +9660,7 @@ export const vocabN3 = [
  {
   "word": "昇る",
   "reading": "のぼる",
-  "romaji": "",
+  "romaji": "noboru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bangkit, untuk naik, untuk naik",
@@ -9671,7 +9671,7 @@ export const vocabN3 = [
  {
   "word": "王様",
   "reading": "おうさま",
-  "romaji": "",
+  "romaji": "ousama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "raja",
@@ -9682,7 +9682,7 @@ export const vocabN3 = [
  {
   "word": "未だ",
   "reading": "まだ",
-  "romaji": "",
+  "romaji": "mada",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "namun, masih, lebih dari itu",
@@ -9693,7 +9693,7 @@ export const vocabN3 = [
  {
   "word": "記事",
   "reading": "きじ",
-  "romaji": "",
+  "romaji": "kiji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "artikel, berita, laporan, akun",
@@ -9704,7 +9704,7 @@ export const vocabN3 = [
  {
   "word": "混乱",
   "reading": "こんらん",
-  "romaji": "",
+  "romaji": "konran",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kekacauan, kekacauan, kebingungan, kekacauan",
@@ -9715,7 +9715,7 @@ export const vocabN3 = [
  {
   "word": "給料",
   "reading": "きゅうりょう",
-  "romaji": "",
+  "romaji": "kyuuryou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gaji, upah",
@@ -9726,7 +9726,7 @@ export const vocabN3 = [
  {
   "word": "男の人",
   "reading": "おとこのひと",
-  "romaji": "",
+  "romaji": "otokonohito",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pria",
@@ -9737,7 +9737,7 @@ export const vocabN3 = [
  {
   "word": "練習",
   "reading": "れんしゅう",
-  "romaji": "",
+  "romaji": "renshuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "praktik",
@@ -9748,7 +9748,7 @@ export const vocabN3 = [
  {
   "word": "アイスクリーム",
   "reading": "あいすくりーむ",
-  "romaji": "",
+  "romaji": "aisukurimu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "es krim",
@@ -9759,7 +9759,7 @@ export const vocabN3 = [
  {
   "word": "一方",
   "reading": "いっぽう",
-  "romaji": "",
+  "romaji": "ippou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) sebaliknya, (2) sementara itu, (3) hanya, sederhana, pada gilirannya",
@@ -9770,7 +9770,7 @@ export const vocabN3 = [
  {
   "word": "修理",
   "reading": "しゅうり",
-  "romaji": "",
+  "romaji": "shuuri",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "memperbaiki, memperbaiki",
@@ -9781,7 +9781,7 @@ export const vocabN3 = [
  {
   "word": "地",
   "reading": "ち",
-  "romaji": "",
+  "romaji": "chi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bumi",
@@ -9792,7 +9792,7 @@ export const vocabN3 = [
  {
   "word": "クリスマス",
   "reading": "くりすます",
-  "romaji": "",
+  "romaji": "kurisumasu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Natal",
@@ -9803,7 +9803,7 @@ export const vocabN3 = [
  {
   "word": "では",
   "reading": "では",
-  "romaji": "",
+  "romaji": "deha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesempatan untuk keluar,kesempatan (untuk sukses),saat keberangkatan,mulai bekerja",
@@ -9814,7 +9814,7 @@ export const vocabN3 = [
  {
   "word": "表す",
   "reading": "あらわす",
-  "romaji": "",
+  "romaji": "arawasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengungkapkan, untuk menunjukkan, untuk mengungkapkan",
@@ -9825,7 +9825,7 @@ export const vocabN3 = [
  {
   "word": "ドライブ",
   "reading": "どらいぶ",
-  "romaji": "",
+  "romaji": "doraibu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mengemudi, perjalanan dengan mobil, mengemudi",
@@ -9836,7 +9836,7 @@ export const vocabN3 = [
  {
   "word": "好む",
   "reading": "このむ",
-  "romaji": "",
+  "romaji": "konomu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyukai, untuk memilih",
@@ -9847,7 +9847,7 @@ export const vocabN3 = [
  {
   "word": "助ける",
   "reading": "たすける",
-  "romaji": "",
+  "romaji": "tasukeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membantu, untuk menyelamatkan, untuk menyelamatkan",
@@ -9858,7 +9858,7 @@ export const vocabN3 = [
  {
   "word": "感情",
   "reading": "かんじょう",
-  "romaji": "",
+  "romaji": "kanjou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "emosi, perasaan, sentimen",
@@ -9869,7 +9869,7 @@ export const vocabN3 = [
  {
   "word": "溺れる",
   "reading": "おぼれる",
-  "romaji": "",
+  "romaji": "oboreru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk ditenggelamkan, untuk dinikmati",
@@ -9880,7 +9880,7 @@ export const vocabN3 = [
  {
   "word": "抱く",
   "reading": "いだく",
-  "romaji": "",
+  "romaji": "idaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(sl) memeluk, memeluk, berlabuh, menghibur",
@@ -9891,7 +9891,7 @@ export const vocabN3 = [
  {
   "word": "おまえ",
   "reading": "おまえ",
-  "romaji": "",
+  "romaji": "omae",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(fam) kamu (bernyanyi), kehadiran (tokoh tinggi)",
@@ -9902,7 +9902,7 @@ export const vocabN3 = [
  {
   "word": "知識",
   "reading": "ちしき",
-  "romaji": "",
+  "romaji": "chishiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pengetahuan, informasi",
@@ -9913,7 +9913,7 @@ export const vocabN3 = [
  {
   "word": "組合",
   "reading": "くみあい",
-  "romaji": "",
+  "romaji": "kumiai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "asosiasi, serikat pekerja",
@@ -9924,7 +9924,7 @@ export const vocabN3 = [
  {
   "word": "首都",
   "reading": "しゅと",
-  "romaji": "",
+  "romaji": "shuto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ibu kota",
@@ -9935,7 +9935,7 @@ export const vocabN3 = [
  {
   "word": "党",
   "reading": "とう",
-  "romaji": "",
+  "romaji": "tou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "partai (politik)",
@@ -9946,7 +9946,7 @@ export const vocabN3 = [
  {
   "word": "講演",
   "reading": "こうえん",
-  "romaji": "",
+  "romaji": "kouen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kuliah, alamat",
@@ -9957,7 +9957,7 @@ export const vocabN3 = [
  {
   "word": "直接",
   "reading": "ちょくせつ",
-  "romaji": "",
+  "romaji": "chokusetsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "langsung, segera, pribadi, langsung",
@@ -9968,7 +9968,7 @@ export const vocabN3 = [
  {
   "word": "吐く",
   "reading": "はく",
-  "romaji": "",
+  "romaji": "haku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) bernapas, (2) berbohong, (3) muntah, memuntahkan",
@@ -9979,7 +9979,7 @@ export const vocabN3 = [
  {
   "word": "雷",
   "reading": "かみなり",
-  "romaji": "",
+  "romaji": "kaminari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "guruh",
@@ -9990,7 +9990,7 @@ export const vocabN3 = [
  {
   "word": "恩",
   "reading": "おん",
-  "romaji": "",
+  "romaji": "on",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bantuan, kewajiban, hutang budi",
@@ -10001,7 +10001,7 @@ export const vocabN3 = [
  {
   "word": "位置",
   "reading": "いち",
-  "romaji": "",
+  "romaji": "ichi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tempat, situasi, posisi, lokasi",
@@ -10012,7 +10012,7 @@ export const vocabN3 = [
  {
   "word": "余裕",
   "reading": "よゆう",
-  "romaji": "",
+  "romaji": "yoyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "surplus, ketenangan, margin, ruangan, waktu, tunjangan, ruang lingkup, tali",
@@ -10023,7 +10023,7 @@ export const vocabN3 = [
  {
   "word": "覆う",
   "reading": "おおう",
-  "romaji": "",
+  "romaji": "oou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menutupi, untuk menyembunyikan, untuk menyembunyikan, untuk membungkus, untuk menyamarkan",
@@ -10034,7 +10034,7 @@ export const vocabN3 = [
  {
   "word": "率",
   "reading": "りつ",
-  "romaji": "",
+  "romaji": "ritsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tarif, rasio, proporsi, persentase",
@@ -10045,7 +10045,7 @@ export const vocabN3 = [
  {
   "word": "消費",
   "reading": "しょうひ",
-  "romaji": "",
+  "romaji": "shouhi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konsumsi, pengeluaran",
@@ -10056,7 +10056,7 @@ export const vocabN3 = [
  {
   "word": "精神",
   "reading": "せいしん",
-  "romaji": "",
+  "romaji": "seishin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pikiran, jiwa, hati, semangat, niat",
@@ -10067,7 +10067,7 @@ export const vocabN3 = [
  {
   "word": "いたずら",
   "reading": "いたずら",
-  "romaji": "",
+  "romaji": "itazura",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menggoda, lelucon, trik, lelucon praktis",
@@ -10078,7 +10078,7 @@ export const vocabN3 = [
  {
   "word": "吠える",
   "reading": "ほえる",
-  "romaji": "",
+  "romaji": "hoeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menggonggong, untuk teluk, untuk melolong, untuk melenguh, untuk mengaum, untuk menangis",
@@ -10089,7 +10089,7 @@ export const vocabN3 = [
  {
   "word": "それとも",
   "reading": "それとも",
-  "romaji": "",
+  "romaji": "soretomo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atau, atau yang lain",
@@ -10100,7 +10100,7 @@ export const vocabN3 = [
  {
   "word": "手伝い",
   "reading": "てつだい",
-  "romaji": "",
+  "romaji": "tetsudai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bantuan, pembantu, asisten",
@@ -10111,7 +10111,7 @@ export const vocabN3 = [
  {
   "word": "今後",
   "reading": "こんご",
-  "romaji": "",
+  "romaji": "kongo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mulai sekarang, akhirat",
@@ -10122,7 +10122,7 @@ export const vocabN3 = [
  {
   "word": "大気",
   "reading": "たいき",
-  "romaji": "",
+  "romaji": "taiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suasana",
@@ -10133,7 +10133,7 @@ export const vocabN3 = [
  {
   "word": "全",
   "reading": "ぜん",
-  "romaji": "",
+  "romaji": "zen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semua, keseluruhan, keseluruhan, lengkap, keseluruhan, panci",
@@ -10144,7 +10144,7 @@ export const vocabN3 = [
  {
   "word": "下り",
   "reading": "くだり",
-  "romaji": "",
+  "romaji": "kudari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "down-train (berangkat dari Tokyo)",
@@ -10155,7 +10155,7 @@ export const vocabN3 = [
  {
   "word": "柄",
   "reading": "え",
-  "romaji": "",
+  "romaji": "e",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pegangan, pegangan",
@@ -10166,7 +10166,7 @@ export const vocabN3 = [
  {
   "word": "収穫",
   "reading": "しゅうかく",
-  "romaji": "",
+  "romaji": "shuukaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "memanen, memanen, mengumpulkan",
@@ -10177,7 +10177,7 @@ export const vocabN3 = [
  {
   "word": "反抗",
   "reading": "はんこう",
-  "romaji": "",
+  "romaji": "hankou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "oposisi, perlawanan",
@@ -10188,7 +10188,7 @@ export const vocabN3 = [
  {
   "word": "参考",
   "reading": "さんこう",
-  "romaji": "",
+  "romaji": "sankou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "referensi, konsultasi",
@@ -10199,7 +10199,7 @@ export const vocabN3 = [
  {
   "word": "あっ",
   "reading": "あっ",
-  "romaji": "",
+  "romaji": "a",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Ah!,Oh!",
@@ -10210,7 +10210,7 @@ export const vocabN3 = [
  {
   "word": "含む",
   "reading": "ふくむ",
-  "romaji": "",
+  "romaji": "fukumu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dipegang di mulut, untuk diingat",
@@ -10221,7 +10221,7 @@ export const vocabN3 = [
  {
   "word": "食糧",
   "reading": "しょくりょう",
-  "romaji": "",
+  "romaji": "shokuryou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketentuan, ransum",
@@ -10232,7 +10232,7 @@ export const vocabN3 = [
  {
   "word": "範囲",
   "reading": "はんい",
-  "romaji": "",
+  "romaji": "hani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "luas, ruang lingkup, bola, jangkauan",
@@ -10243,7 +10243,7 @@ export const vocabN3 = [
  {
   "word": "止す",
   "reading": "よす",
-  "romaji": "",
+  "romaji": "yosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berhenti, untuk menghapuskan, untuk mengundurkan diri, untuk menyerah",
@@ -10254,7 +10254,7 @@ export const vocabN3 = [
  {
   "word": "妙",
   "reading": "みょう",
-  "romaji": "",
+  "romaji": "myou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aneh, tidak biasa",
@@ -10265,7 +10265,7 @@ export const vocabN3 = [
  {
   "word": "センター",
   "reading": "せんたー",
-  "romaji": "",
+  "romaji": "senta",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebuah pusat",
@@ -10276,7 +10276,7 @@ export const vocabN3 = [
  {
   "word": "いつも",
   "reading": "いつも",
-  "romaji": "",
+  "romaji": "itsumo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selalu, biasanya, setiap saat, tidak pernah (dengan kata kerja neg.)",
@@ -10287,7 +10287,7 @@ export const vocabN3 = [
  {
   "word": "羽",
   "reading": "はね",
-  "romaji": "",
+  "romaji": "hane",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "counter untuk burung, counter untuk kelinci",
@@ -10298,7 +10298,7 @@ export const vocabN3 = [
  {
   "word": "及ぼす",
   "reading": "およぼす",
-  "romaji": "",
+  "romaji": "oyobosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengerahkan, menyebabkan, untuk berolahraga",
@@ -10309,7 +10309,7 @@ export const vocabN3 = [
  {
   "word": "減らす",
   "reading": "へらす",
-  "romaji": "",
+  "romaji": "herasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mereda, untuk mengurangi, untuk mengurangi, untuk memperpendek",
@@ -10320,7 +10320,7 @@ export const vocabN3 = [
  {
   "word": "親しい",
   "reading": "したしい",
-  "romaji": "",
+  "romaji": "shitashii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "intim, dekat (misalnya teman)",
@@ -10331,7 +10331,7 @@ export const vocabN3 = [
  {
   "word": "笑顔",
   "reading": "えがお",
-  "romaji": "",
+  "romaji": "egao",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wajah tersenyum",
@@ -10342,7 +10342,7 @@ export const vocabN3 = [
  {
   "word": "知能",
   "reading": "ちのう",
-  "romaji": "",
+  "romaji": "chinou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecerdasan, otak",
@@ -10353,7 +10353,7 @@ export const vocabN3 = [
  {
   "word": "辞める",
   "reading": "やめる",
-  "romaji": "",
+  "romaji": "yameru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk pensiun",
@@ -10364,7 +10364,7 @@ export const vocabN3 = [
  {
   "word": "協力",
   "reading": "きょうりょく",
-  "romaji": "",
+  "romaji": "kyouryoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerjasama, kolaborasi",
@@ -10375,7 +10375,7 @@ export const vocabN3 = [
  {
   "word": "キャンプ",
   "reading": "キャンプ",
-  "romaji": "",
+  "romaji": "kyanpu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kamp",
@@ -10386,7 +10386,7 @@ export const vocabN3 = [
  {
   "word": "章",
   "reading": "しょう",
-  "romaji": "",
+  "romaji": "shou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) bab, bagian, (2) medali",
@@ -10397,7 +10397,7 @@ export const vocabN3 = [
  {
   "word": "ビデオ",
   "reading": "びでお",
-  "romaji": "",
+  "romaji": "bideo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "video",
@@ -10408,7 +10408,7 @@ export const vocabN3 = [
  {
   "word": "集団",
   "reading": "しゅうだん",
-  "romaji": "",
+  "romaji": "shuudan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelompok, massal",
@@ -10419,7 +10419,7 @@ export const vocabN3 = [
  {
   "word": "明後日",
   "reading": "みょうごにち",
-  "romaji": "",
+  "romaji": "myougonichi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besok lusa",
@@ -10430,7 +10430,7 @@ export const vocabN3 = [
  {
   "word": "一言",
   "reading": "ひとこと",
-  "romaji": "",
+  "romaji": "hitokoto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "satu kata",
@@ -10441,7 +10441,7 @@ export const vocabN3 = [
  {
   "word": "虫歯",
   "reading": "むしば",
-  "romaji": "",
+  "romaji": "mushiba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gigi berlubang, kerusakan gigi, gigi busuk, karies",
@@ -10452,7 +10452,7 @@ export const vocabN3 = [
  {
   "word": "解決",
   "reading": "かいけつ",
-  "romaji": "",
+  "romaji": "kaiketsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyelesaian, solusi, resolusi",
@@ -10463,7 +10463,7 @@ export const vocabN3 = [
  {
   "word": "猿",
   "reading": "さる",
-  "romaji": "",
+  "romaji": "saru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "monyet",
@@ -10474,7 +10474,7 @@ export const vocabN3 = [
  {
   "word": "塔",
   "reading": "とう",
-  "romaji": "",
+  "romaji": "tou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menara, pagoda",
@@ -10485,7 +10485,7 @@ export const vocabN3 = [
  {
   "word": "描く",
   "reading": "えがく",
-  "romaji": "",
+  "romaji": "egaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menggambar, melukis, membuat sketsa, menggambarkan, mendeskripsikan",
@@ -10496,7 +10496,7 @@ export const vocabN3 = [
  {
   "word": "そこ",
   "reading": "そこ",
-  "romaji": "",
+  "romaji": "soko",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bawah, sol",
@@ -10507,7 +10507,7 @@ export const vocabN3 = [
  {
   "word": "お腹",
   "reading": "おなか",
-  "romaji": "",
+  "romaji": "onaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perut",
@@ -10518,7 +10518,7 @@ export const vocabN3 = [
  {
   "word": "不可",
   "reading": "ふか",
-  "romaji": "",
+  "romaji": "fuka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "salah, buruk, tidak pantas, tidak dapat dibenarkan, tidak disarankan",
@@ -10529,7 +10529,7 @@ export const vocabN3 = [
  {
   "word": "議長",
   "reading": "ぎちょう",
-  "romaji": "",
+  "romaji": "gichou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketua",
@@ -10540,7 +10540,7 @@ export const vocabN3 = [
  {
   "word": "放送",
   "reading": "ほうそう",
-  "romaji": "",
+  "romaji": "housou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "siaran, penyiaran",
@@ -10551,7 +10551,7 @@ export const vocabN3 = [
  {
   "word": "支度",
   "reading": "したく",
-  "romaji": "",
+  "romaji": "shitaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persiapan",
@@ -10562,7 +10562,7 @@ export const vocabN3 = [
  {
   "word": "作法",
   "reading": "さほう",
-  "romaji": "",
+  "romaji": "sahou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sopan santun, etiket, kesopanan",
@@ -10573,7 +10573,7 @@ export const vocabN3 = [
  {
   "word": "双子",
   "reading": "ふたご",
-  "romaji": "",
+  "romaji": "futago",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kembar, kembar",
@@ -10584,7 +10584,7 @@ export const vocabN3 = [
  {
   "word": "ジーンズ",
   "reading": "じーんず",
-  "romaji": "",
+  "romaji": "jinzu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jeans",
@@ -10595,7 +10595,7 @@ export const vocabN3 = [
  {
   "word": "熱心",
   "reading": "ねっしん",
-  "romaji": "",
+  "romaji": "nesshin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semangat, antusiasme",
@@ -10606,7 +10606,7 @@ export const vocabN3 = [
  {
   "word": "稼ぐ",
   "reading": "かせぐ",
-  "romaji": "",
+  "romaji": "kasegu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memperoleh penghasilan, untuk bekerja",
@@ -10617,7 +10617,7 @@ export const vocabN3 = [
  {
   "word": "景気",
   "reading": "けいき",
-  "romaji": "",
+  "romaji": "keiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kondisi, negara bagian, bisnis (kondisi)",
@@ -10628,7 +10628,7 @@ export const vocabN3 = [
  {
   "word": "多少",
   "reading": "たしょう",
-  "romaji": "",
+  "romaji": "tashou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kurang lebih,agak,sedikit,beberapa",
@@ -10639,7 +10639,7 @@ export const vocabN3 = [
  {
   "word": "失う",
   "reading": "うしなう",
-  "romaji": "",
+  "romaji": "ushinau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk kalah, untuk berpisah",
@@ -10650,7 +10650,7 @@ export const vocabN3 = [
  {
   "word": "氷",
   "reading": "こおり",
-  "romaji": "",
+  "romaji": "koori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "es, hujan es",
@@ -10661,7 +10661,7 @@ export const vocabN3 = [
  {
   "word": "生物",
   "reading": "せいぶつ",
-  "romaji": "",
+  "romaji": "seibutsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makanan mentah",
@@ -10672,7 +10672,7 @@ export const vocabN3 = [
  {
   "word": "死亡",
   "reading": "しぼう",
-  "romaji": "",
+  "romaji": "shibou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kematian, kematian",
@@ -10683,7 +10683,7 @@ export const vocabN3 = [
  {
   "word": "レポート",
   "reading": "れぽーと",
-  "romaji": "",
+  "romaji": "repoto",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "laporan, kertas",
@@ -10694,7 +10694,7 @@ export const vocabN3 = [
  {
   "word": "贈る",
   "reading": "おくる",
-  "romaji": "",
+  "romaji": "okuru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengirim, memberi, memberi penghargaan, berunding",
@@ -10705,7 +10705,7 @@ export const vocabN3 = [
  {
   "word": "商品",
   "reading": "しょうひん",
-  "romaji": "",
+  "romaji": "shouhin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "komoditas, barang dagangan, barang, stok, barang dagangan",
@@ -10716,7 +10716,7 @@ export const vocabN3 = [
  {
   "word": "したがって",
   "reading": "したがって",
-  "romaji": "",
+  "romaji": "shitagatte",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "oleh karena itu, sebagai konsekuensinya, sesuai dengan",
@@ -10727,7 +10727,7 @@ export const vocabN3 = [
  {
   "word": "なにも",
   "reading": "なにも",
-  "romaji": "",
+  "romaji": "nanimo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Tidak ada apa-apa",
@@ -10738,7 +10738,7 @@ export const vocabN3 = [
  {
   "word": "傾向",
   "reading": "けいこう",
-  "romaji": "",
+  "romaji": "keikou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecenderungan, kecenderungan, kecenderungan",
@@ -10749,7 +10749,7 @@ export const vocabN3 = [
  {
   "word": "計算",
   "reading": "けいさん",
-  "romaji": "",
+  "romaji": "keisan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perhitungan, perhitungan",
@@ -10760,7 +10760,7 @@ export const vocabN3 = [
  {
   "word": "土産",
   "reading": "みやげ",
-  "romaji": "",
+  "romaji": "miyage",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hadiah, suvenir",
@@ -10771,7 +10771,7 @@ export const vocabN3 = [
  {
   "word": "内容",
   "reading": "ないよう",
-  "romaji": "",
+  "romaji": "naiyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "subjek,isi,materi,substansi,detail,impor",
@@ -10782,7 +10782,7 @@ export const vocabN3 = [
  {
   "word": "虎",
   "reading": "とら",
-  "romaji": "",
+  "romaji": "tora",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harimau",
@@ -10793,7 +10793,7 @@ export const vocabN3 = [
  {
   "word": "通り",
   "reading": "とおり",
-  "romaji": "",
+  "romaji": "toori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sesuai dengan ~,mengikuti ~,~ Jalan,~ Jalan",
@@ -10804,7 +10804,7 @@ export const vocabN3 = [
  {
   "word": "大変",
   "reading": "たいへん",
-  "romaji": "",
+  "romaji": "taihen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mengerikan, mengerikan, mengerikan, sangat",
@@ -10815,7 +10815,7 @@ export const vocabN3 = [
  {
   "word": "月",
   "reading": "つき",
-  "romaji": "",
+  "romaji": "tsuki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bulan, bulan",
@@ -10826,7 +10826,7 @@ export const vocabN3 = [
  {
   "word": "悪魔",
   "reading": "あくま",
-  "romaji": "",
+  "romaji": "akuma",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "setan, setan, roh jahat",
@@ -10837,7 +10837,7 @@ export const vocabN3 = [
  {
   "word": "それでも",
   "reading": "それでも",
-  "romaji": "",
+  "romaji": "soredemo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "namun (masih), namun, meskipun demikian, meskipun demikian",
@@ -10848,7 +10848,7 @@ export const vocabN3 = [
  {
   "word": "鉄道",
   "reading": "てつどう",
-  "romaji": "",
+  "romaji": "tetsudou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jalan kereta api",
@@ -10859,7 +10859,7 @@ export const vocabN3 = [
  {
   "word": "もしも",
   "reading": "もしも",
-  "romaji": "",
+  "romaji": "moshimo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jika",
@@ -10870,7 +10870,7 @@ export const vocabN3 = [
  {
   "word": "ちゃんと",
   "reading": "ちゃんと",
-  "romaji": "",
+  "romaji": "chanto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan sempurna, benar, tepat",
@@ -10881,7 +10881,7 @@ export const vocabN3 = [
  {
   "word": "日",
   "reading": "にち",
-  "romaji": "",
+  "romaji": "nichi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "matahari, sinar matahari, siang",
@@ -10892,7 +10892,7 @@ export const vocabN3 = [
  {
   "word": "貢献",
   "reading": "こうけん",
-  "romaji": "",
+  "romaji": "kouken",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontribusi, layanan",
@@ -10903,7 +10903,7 @@ export const vocabN3 = [
  {
   "word": "吸収",
   "reading": "きゅうしゅう",
-  "romaji": "",
+  "romaji": "kyuushuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyerapan, hisapan, tarikan",
@@ -10914,7 +10914,7 @@ export const vocabN3 = [
  {
   "word": "騒音",
   "reading": "そうおん",
-  "romaji": "",
+  "romaji": "souon",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebisingan",
@@ -10925,7 +10925,7 @@ export const vocabN3 = [
  {
   "word": "伝統",
   "reading": "でんとう",
-  "romaji": "",
+  "romaji": "dentou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tradisi, konvensi",
@@ -10936,7 +10936,7 @@ export const vocabN3 = [
  {
   "word": "化粧",
   "reading": "けしょう",
-  "romaji": "",
+  "romaji": "keshou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tata rias (kosmetik)",
@@ -10958,7 +10958,7 @@ export const vocabN3 = [
  {
   "word": "何でも",
   "reading": "なんでも",
-  "romaji": "",
+  "romaji": "nandemo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tentu saja, segalanya",
@@ -10969,7 +10969,7 @@ export const vocabN3 = [
  {
   "word": "割る",
   "reading": "わる",
-  "romaji": "",
+  "romaji": "waru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membagi, untuk memotong, untuk istirahat, untuk membagi dua",
@@ -10980,7 +10980,7 @@ export const vocabN3 = [
  {
   "word": "ますます",
   "reading": "ますます",
-  "romaji": "",
+  "romaji": "masumasu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semakin, semakin banyak",
@@ -10991,7 +10991,7 @@ export const vocabN3 = [
  {
   "word": "本物",
   "reading": "ほんもの",
-  "romaji": "",
+  "romaji": "honmono",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "artikel asli",
@@ -11002,7 +11002,7 @@ export const vocabN3 = [
  {
   "word": "始まり",
   "reading": "はじまり",
-  "romaji": "",
+  "romaji": "hajimari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "asal, permulaan",
@@ -11013,7 +11013,7 @@ export const vocabN3 = [
  {
   "word": "増加",
   "reading": "ぞうか",
-  "romaji": "",
+  "romaji": "zouka",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "peningkatan, penambahan",
@@ -11024,7 +11024,7 @@ export const vocabN3 = [
  {
   "word": "事務",
   "reading": "じむ",
-  "romaji": "",
+  "romaji": "jimu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Bisnis, pekerjaan kantor",
@@ -11035,7 +11035,7 @@ export const vocabN3 = [
  {
   "word": "菓子",
   "reading": "かし",
-  "romaji": "",
+  "romaji": "kashi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kue kering",
@@ -11046,7 +11046,7 @@ export const vocabN3 = [
  {
   "word": "今にも",
   "reading": "いまにも",
-  "romaji": "",
+  "romaji": "imanimo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapan saja, segera",
@@ -11057,7 +11057,7 @@ export const vocabN3 = [
  {
   "word": "老人",
   "reading": "ろうじん",
-  "romaji": "",
+  "romaji": "roujin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang tua, orang tua",
@@ -11068,7 +11068,7 @@ export const vocabN3 = [
  {
   "word": "運転",
   "reading": "うんてん",
-  "romaji": "",
+  "romaji": "unten",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "operasi, gerak, mengemudi",
@@ -11079,7 +11079,7 @@ export const vocabN3 = [
  {
   "word": "非常",
   "reading": "ひじょう",
-  "romaji": "",
+  "romaji": "hijou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "darurat, luar biasa, tidak biasa",
@@ -11090,7 +11090,7 @@ export const vocabN3 = [
  {
   "word": "丸い",
   "reading": "まるい",
-  "romaji": "",
+  "romaji": "marui",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "bulat, melingkar, bulat",
@@ -11101,7 +11101,7 @@ export const vocabN3 = [
  {
   "word": "掛かる",
   "reading": "かかる",
-  "romaji": "",
+  "romaji": "kakaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengambil (misalnya waktu, uang, dll), untuk digantung",
@@ -11112,7 +11112,7 @@ export const vocabN3 = [
  {
   "word": "他",
   "reading": "た",
-  "romaji": "",
+  "romaji": "ta",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lainnya (khususnya tempat dan benda)",
@@ -11123,7 +11123,7 @@ export const vocabN3 = [
  {
   "word": "表面",
   "reading": "ひょうめん",
-  "romaji": "",
+  "romaji": "hyoumen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "permukaan, luar, wajah, penampilan",
@@ -11134,7 +11134,7 @@ export const vocabN3 = [
  {
   "word": "自動",
   "reading": "じどう",
-  "romaji": "",
+  "romaji": "jidou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "otomatis, gerak sendiri",
@@ -11145,7 +11145,7 @@ export const vocabN3 = [
  {
   "word": "谷",
   "reading": "たに",
-  "romaji": "",
+  "romaji": "tani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lembah",
@@ -11156,7 +11156,7 @@ export const vocabN3 = [
  {
   "word": "汗",
   "reading": "あせ",
-  "romaji": "",
+  "romaji": "ase",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keringat, keringat",
@@ -11167,7 +11167,7 @@ export const vocabN3 = [
  {
   "word": "スタンド",
   "reading": "すたんど",
-  "romaji": "",
+  "romaji": "sutando",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berdiri",
@@ -11178,7 +11178,7 @@ export const vocabN3 = [
  {
   "word": "報告",
   "reading": "ほうこく",
-  "romaji": "",
+  "romaji": "houkoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "laporan, informasi",
@@ -11189,7 +11189,7 @@ export const vocabN3 = [
  {
   "word": "目標",
   "reading": "もくひょう",
-  "romaji": "",
+  "romaji": "mokuhyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tandai, tujuan, target",
@@ -11200,7 +11200,7 @@ export const vocabN3 = [
  {
   "word": "繋ぐ",
   "reading": "つなぐ",
-  "romaji": "",
+  "romaji": "tsunagu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengikat, mengencangkan, menyambung, mentransfer (panggilan telepon)",
@@ -11211,7 +11211,7 @@ export const vocabN3 = [
  {
   "word": "楽",
   "reading": "らく",
-  "romaji": "",
+  "romaji": "raku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kenyamanan, kemudahan",
@@ -11222,7 +11222,7 @@ export const vocabN3 = [
  {
   "word": "コピー",
   "reading": "こぴー",
-  "romaji": "",
+  "romaji": "kopi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) salinan (foto), (2) uraian singkat pada jaket buku",
@@ -11233,7 +11233,7 @@ export const vocabN3 = [
  {
   "word": "飛び出す",
   "reading": "とびだす",
-  "romaji": "",
+  "romaji": "tobidasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melompat keluar, bergegas keluar, terbang keluar",
@@ -11244,7 +11244,7 @@ export const vocabN3 = [
  {
   "word": "うまい",
   "reading": "うまい",
-  "romaji": "",
+  "romaji": "umai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "lezat",
@@ -11255,7 +11255,7 @@ export const vocabN3 = [
  {
   "word": "手術",
   "reading": "しゅじゅつ",
-  "romaji": "",
+  "romaji": "shujutsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "operasi bedah",
@@ -11266,7 +11266,7 @@ export const vocabN3 = [
  {
   "word": "有る",
   "reading": "ある",
-  "romaji": "",
+  "romaji": "aru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi, memiliki",
@@ -11277,7 +11277,7 @@ export const vocabN3 = [
  {
   "word": "世の中",
   "reading": "よのなか",
-  "romaji": "",
+  "romaji": "yononaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masyarakat, dunia, waktu",
@@ -11288,7 +11288,7 @@ export const vocabN3 = [
  {
   "word": "故障",
   "reading": "こしょう",
-  "romaji": "",
+  "romaji": "koshou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerusakan, kegagalan, kecelakaan, rusak",
@@ -11299,7 +11299,7 @@ export const vocabN3 = [
  {
   "word": "急速",
   "reading": "きゅうそく",
-  "romaji": "",
+  "romaji": "kyuusoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cepat (misalnya kemajuan)",
@@ -11310,7 +11310,7 @@ export const vocabN3 = [
  {
   "word": "読み",
   "reading": "よみ",
-  "romaji": "",
+  "romaji": "yomi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "membaca",
@@ -11321,7 +11321,7 @@ export const vocabN3 = [
  {
   "word": "絵画",
   "reading": "かいが",
-  "romaji": "",
+  "romaji": "kaiga",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gambar",
@@ -11332,7 +11332,7 @@ export const vocabN3 = [
  {
   "word": "波",
   "reading": "なみ",
-  "romaji": "",
+  "romaji": "nami",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "melambai",
@@ -11343,7 +11343,7 @@ export const vocabN3 = [
  {
   "word": "損害",
   "reading": "そんがい",
-  "romaji": "",
+  "romaji": "songai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerusakan, cedera, kehilangan",
@@ -11354,7 +11354,7 @@ export const vocabN3 = [
  {
   "word": "かわいらしい",
   "reading": "かわいらしい",
-  "romaji": "",
+  "romaji": "kawairashii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "indah, manis",
@@ -11365,7 +11365,7 @@ export const vocabN3 = [
  {
   "word": "快適",
   "reading": "かいてき",
-  "romaji": "",
+  "romaji": "kaiteki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menyenangkan, menyenangkan, nyaman",
@@ -11376,7 +11376,7 @@ export const vocabN3 = [
  {
   "word": "単位",
   "reading": "たんい",
-  "romaji": "",
+  "romaji": "tani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "satuan, denominasi, kredit (di sekolah)",
@@ -11387,7 +11387,7 @@ export const vocabN3 = [
  {
   "word": "決まり",
   "reading": "きまり",
-  "romaji": "",
+  "romaji": "kimari",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "penyelesaian, kesimpulan, peraturan, aturan",
@@ -11398,7 +11398,7 @@ export const vocabN3 = [
  {
   "word": "所為",
   "reading": "せい",
-  "romaji": "",
+  "romaji": "sei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penyebab, alasan, kesalahan",
@@ -11409,7 +11409,7 @@ export const vocabN3 = [
  {
   "word": "穀物",
   "reading": "こくもつ",
-  "romaji": "",
+  "romaji": "kokumotsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gandum, sereal, jagung",
@@ -11420,7 +11420,7 @@ export const vocabN3 = [
  {
   "word": "常識",
   "reading": "じょうしき",
-  "romaji": "",
+  "romaji": "joushiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kewajaran",
@@ -11431,7 +11431,7 @@ export const vocabN3 = [
  {
   "word": "指導",
   "reading": "しどう",
-  "romaji": "",
+  "romaji": "shidou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kepemimpinan, bimbingan, pembinaan",
@@ -11442,7 +11442,7 @@ export const vocabN3 = [
  {
   "word": "語",
   "reading": "ご",
-  "romaji": "",
+  "romaji": "go",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahasa, kata",
@@ -11453,7 +11453,7 @@ export const vocabN3 = [
  {
   "word": "中",
   "reading": "ちゅう",
-  "romaji": "",
+  "romaji": "chuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di dalam, di tengah, di antara",
@@ -11464,7 +11464,7 @@ export const vocabN3 = [
  {
   "word": "間違い",
   "reading": "まちがい",
-  "romaji": "",
+  "romaji": "machigai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesalahan",
@@ -11475,7 +11475,7 @@ export const vocabN3 = [
  {
   "word": "望む",
   "reading": "のぞむ",
-  "romaji": "",
+  "romaji": "nozomu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menginginkan, mengharapkan, melihat, memerintahkan (pandangan)",
@@ -11486,7 +11486,7 @@ export const vocabN3 = [
  {
   "word": "利益",
   "reading": "りえき",
-  "romaji": "",
+  "romaji": "rieki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keuntungan, keuntungan, kepentingan (politik, ekonomi).",
@@ -11497,7 +11497,7 @@ export const vocabN3 = [
  {
   "word": "どんなに",
   "reading": "どんなに",
-  "romaji": "",
+  "romaji": "donnani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bagaimana, berapa banyak",
@@ -11508,7 +11508,7 @@ export const vocabN3 = [
  {
   "word": "腰",
   "reading": "こし",
-  "romaji": "",
+  "romaji": "koshi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "panggul",
@@ -11519,7 +11519,7 @@ export const vocabN3 = [
  {
   "word": "訴える",
   "reading": "うったえる",
-  "romaji": "",
+  "romaji": "uttaeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menuntut (seseorang), untuk menggunakan, untuk mengajukan banding",
@@ -11530,7 +11530,7 @@ export const vocabN3 = [
  {
   "word": "又",
   "reading": "また",
-  "romaji": "",
+  "romaji": "mata",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lagi, dan",
@@ -11541,7 +11541,7 @@ export const vocabN3 = [
  {
   "word": "食う",
   "reading": "くう",
-  "romaji": "",
+  "romaji": "kuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(laki-laki) (vulg) untuk makan",
@@ -11552,7 +11552,7 @@ export const vocabN3 = [
  {
   "word": "ユーモア",
   "reading": "ゆーもあ",
-  "romaji": "",
+  "romaji": "yumoa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "humor",
@@ -11563,7 +11563,7 @@ export const vocabN3 = [
  {
   "word": "そっくり",
   "reading": "そっくり",
-  "romaji": "",
+  "romaji": "sokkuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semuanya, secara keseluruhan, seluruhnya, menjadi seperti, gambaran yang membelah",
@@ -11574,7 +11574,7 @@ export const vocabN3 = [
  {
   "word": "発行",
   "reading": "はっこう",
-  "romaji": "",
+  "romaji": "hakkou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "terbitan (publikasi)",
@@ -11585,7 +11585,7 @@ export const vocabN3 = [
  {
   "word": "成功",
   "reading": "せいこう",
-  "romaji": "",
+  "romaji": "seikou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "sukses, pukul",
@@ -11596,7 +11596,7 @@ export const vocabN3 = [
  {
   "word": "現状",
   "reading": "げんじょう",
-  "romaji": "",
+  "romaji": "genjou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kondisi sekarang, keadaan saat ini, status quo",
@@ -11607,7 +11607,7 @@ export const vocabN3 = [
  {
   "word": "従兄弟",
   "reading": "いとこ",
-  "romaji": "",
+  "romaji": "itoko",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sepupu (laki-laki)",
@@ -11618,7 +11618,7 @@ export const vocabN3 = [
  {
   "word": "ぐっすり",
   "reading": "ぐっすり",
-  "romaji": "",
+  "romaji": "gussuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tertidur lelap, tertidur pulas",
@@ -11629,7 +11629,7 @@ export const vocabN3 = [
  {
   "word": "ブレーキ",
   "reading": "ぶれーき",
-  "romaji": "",
+  "romaji": "bureki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebuah rem",
@@ -11640,7 +11640,7 @@ export const vocabN3 = [
  {
   "word": "だけど",
   "reading": "だけど",
-  "romaji": "",
+  "romaji": "dakedo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Namun",
@@ -11651,7 +11651,7 @@ export const vocabN3 = [
  {
   "word": "勉強",
   "reading": "べんきょう",
-  "romaji": "",
+  "romaji": "benkyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "belajar, ketekunan, diskon, pengurangan",
@@ -11662,7 +11662,7 @@ export const vocabN3 = [
  {
   "word": "人間",
   "reading": "にんげん",
-  "romaji": "",
+  "romaji": "ningen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "manusia, manusia, pribadi",
@@ -11673,7 +11673,7 @@ export const vocabN3 = [
  {
   "word": "腐る",
   "reading": "くさる",
-  "romaji": "",
+  "romaji": "kusaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "membusuk, menjadi buruk",
@@ -11684,7 +11684,7 @@ export const vocabN3 = [
  {
   "word": "女優",
   "reading": "じょゆう",
-  "romaji": "",
+  "romaji": "joyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aktris",
@@ -11695,7 +11695,7 @@ export const vocabN3 = [
  {
   "word": "キャプテン",
   "reading": "きゃぷてん",
-  "romaji": "",
+  "romaji": "kyaputen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapten",
@@ -11706,7 +11706,7 @@ export const vocabN3 = [
  {
   "word": "パイプ",
   "reading": "ぱいぷ",
-  "romaji": "",
+  "romaji": "paipu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pipa, tabung, (2) saluran, resmi atau lainnya",
@@ -11717,7 +11717,7 @@ export const vocabN3 = [
  {
   "word": "天然",
   "reading": "てんねん",
-  "romaji": "",
+  "romaji": "tennen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "alam, spontanitas",
@@ -11728,7 +11728,7 @@ export const vocabN3 = [
  {
   "word": "七",
   "reading": "しち",
-  "romaji": "",
+  "romaji": "shichi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tujuh",
@@ -11739,7 +11739,7 @@ export const vocabN3 = [
  {
   "word": "警告",
   "reading": "けいこく",
-  "romaji": "",
+  "romaji": "keikoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "peringatan, saran",
@@ -11750,7 +11750,7 @@ export const vocabN3 = [
  {
   "word": "信じる",
   "reading": "しんじる",
-  "romaji": "",
+  "romaji": "shinjiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk percaya, untuk menaruh kepercayaan",
@@ -11761,7 +11761,7 @@ export const vocabN3 = [
  {
   "word": "連続",
   "reading": "れんぞく",
-  "romaji": "",
+  "romaji": "renzoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "serial, berturut-turut, kontinuitas, berkelanjutan",
@@ -11783,7 +11783,7 @@ export const vocabN3 = [
  {
   "word": "現実",
   "reading": "げんじつ",
-  "romaji": "",
+  "romaji": "genjitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "realitas",
@@ -11794,7 +11794,7 @@ export const vocabN3 = [
  {
   "word": "農業",
   "reading": "のうぎょう",
-  "romaji": "",
+  "romaji": "nougyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertanian",
@@ -11805,7 +11805,7 @@ export const vocabN3 = [
  {
   "word": "現金",
   "reading": "げんきん",
-  "romaji": "",
+  "romaji": "genkin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "uang tunai, uang siap pakai, tentara bayaran, kepentingan pribadi",
@@ -11816,7 +11816,7 @@ export const vocabN3 = [
  {
   "word": "変更",
   "reading": "へんこう",
-  "romaji": "",
+  "romaji": "henkou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perubahan, modifikasi, pengubahan",
@@ -11827,7 +11827,7 @@ export const vocabN3 = [
  {
   "word": "流行",
   "reading": "りゅうこう",
-  "romaji": "",
+  "romaji": "ryuukou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "modis, iseng, sedang digemari, berlaku",
@@ -11838,7 +11838,7 @@ export const vocabN3 = [
  {
   "word": "図書",
   "reading": "としょ",
-  "romaji": "",
+  "romaji": "tosho",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buku",
@@ -11849,7 +11849,7 @@ export const vocabN3 = [
  {
   "word": "経営",
   "reading": "けいえい",
-  "romaji": "",
+  "romaji": "keiei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "manajemen, administrasi",
@@ -11860,7 +11860,7 @@ export const vocabN3 = [
  {
   "word": "代表",
   "reading": "だいひょう",
-  "romaji": "",
+  "romaji": "daihyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perwakilan, representasi, delegasi, jenis, contoh, model",
@@ -11871,7 +11871,7 @@ export const vocabN3 = [
  {
   "word": "明ける",
   "reading": "あける",
-  "romaji": "",
+  "romaji": "akeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "hingga fajar, menjadi siang hari",
@@ -11882,7 +11882,7 @@ export const vocabN3 = [
  {
   "word": "散歩",
   "reading": "さんぽ",
-  "romaji": "",
+  "romaji": "sanpo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "berjalan, berjalan-jalan",
@@ -11893,7 +11893,7 @@ export const vocabN3 = [
  {
   "word": "深刻",
   "reading": "しんこく",
-  "romaji": "",
+  "romaji": "shinkoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "serius",
@@ -11904,7 +11904,7 @@ export const vocabN3 = [
  {
   "word": "眺める",
   "reading": "ながめる",
-  "romaji": "",
+  "romaji": "nagameru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melihat, untuk menatap",
@@ -11915,7 +11915,7 @@ export const vocabN3 = [
  {
   "word": "親戚",
   "reading": "しんせき",
-  "romaji": "",
+  "romaji": "shinseki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "relatif",
@@ -11926,7 +11926,7 @@ export const vocabN3 = [
  {
   "word": "国会",
   "reading": "こっかい",
-  "romaji": "",
+  "romaji": "kokkai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Diet Nasional, parlemen, kongres",
@@ -11937,7 +11937,7 @@ export const vocabN3 = [
  {
   "word": "帯",
   "reading": "おび",
-  "romaji": "",
+  "romaji": "obi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pita (misalnya konduksi, valensi)",
@@ -11948,7 +11948,7 @@ export const vocabN3 = [
  {
   "word": "誕生",
   "reading": "たんじょう",
-  "romaji": "",
+  "romaji": "tanjou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kelahiran",
@@ -11959,7 +11959,7 @@ export const vocabN3 = [
  {
   "word": "参加",
   "reading": "さんか",
-  "romaji": "",
+  "romaji": "sanka",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "partisipasi",
@@ -11970,7 +11970,7 @@ export const vocabN3 = [
  {
   "word": "加える",
   "reading": "くわえる",
-  "romaji": "",
+  "romaji": "kuwaeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menambahkan, untuk menyimpulkan, untuk menambahkan (up)",
@@ -11981,7 +11981,7 @@ export const vocabN3 = [
  {
   "word": "学ぶ",
   "reading": "まなぶ",
-  "romaji": "",
+  "romaji": "manabu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk belajar (secara mendalam), untuk belajar, untuk mengambil pelajaran",
@@ -11992,7 +11992,7 @@ export const vocabN3 = [
  {
   "word": "まさか",
   "reading": "まさか",
-  "romaji": "",
+  "romaji": "masaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sama sekali tidak",
@@ -12003,7 +12003,7 @@ export const vocabN3 = [
  {
   "word": "追い付く",
   "reading": "おいつく",
-  "romaji": "",
+  "romaji": "oitsuku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyalip, untuk mengejar (dengan)",
@@ -12014,7 +12014,7 @@ export const vocabN3 = [
  {
   "word": "当たる",
   "reading": "あたる",
-  "romaji": "",
+  "romaji": "ataru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dipukul, untuk menjadi sukses, untuk menjadi setara dengan",
@@ -12025,7 +12025,7 @@ export const vocabN3 = [
  {
   "word": "夜明け",
   "reading": "よあけ",
-  "romaji": "",
+  "romaji": "yoake",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "fajar, fajar",
@@ -12036,7 +12036,7 @@ export const vocabN3 = [
  {
   "word": "関連",
   "reading": "かんれん",
-  "romaji": "",
+  "romaji": "kanren",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "hubungan, koneksi, relevansi",
@@ -12047,7 +12047,7 @@ export const vocabN3 = [
  {
   "word": "順番",
   "reading": "じゅんばん",
-  "romaji": "",
+  "romaji": "junban",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "belok (berbaris),urutan hal",
@@ -12058,7 +12058,7 @@ export const vocabN3 = [
  {
   "word": "叱る",
   "reading": "しかる",
-  "romaji": "",
+  "romaji": "shikaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memarahi",
@@ -12069,7 +12069,7 @@ export const vocabN3 = [
  {
   "word": "穏やか",
   "reading": "おだやか",
-  "romaji": "",
+  "romaji": "odayaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tenang, lembut, tenang",
@@ -12080,7 +12080,7 @@ export const vocabN3 = [
  {
   "word": "弾",
   "reading": "たま",
-  "romaji": "",
+  "romaji": "tama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "peluru, tembakan, cangkang",
@@ -12091,7 +12091,7 @@ export const vocabN3 = [
  {
   "word": "宗教",
   "reading": "しゅうきょう",
-  "romaji": "",
+  "romaji": "shuukyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "agama",
@@ -12102,7 +12102,7 @@ export const vocabN3 = [
  {
   "word": "完成",
   "reading": "かんせい",
-  "romaji": "",
+  "romaji": "kansei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) lengkap, penyelesaian, (2) kesempurnaan, pencapaian",
@@ -12113,7 +12113,7 @@ export const vocabN3 = [
  {
   "word": "お互い",
   "reading": "おたがい",
-  "romaji": "",
+  "romaji": "otagai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saling, timbal balik, satu sama lain",
@@ -12124,7 +12124,7 @@ export const vocabN3 = [
  {
   "word": "等しい",
   "reading": "ひとしい",
-  "romaji": "",
+  "romaji": "hitoshii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "setara",
@@ -12135,7 +12135,7 @@ export const vocabN3 = [
  {
   "word": "芝生",
   "reading": "しばふ",
-  "romaji": "",
+  "romaji": "shibafu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "halaman rumput",
@@ -12146,7 +12146,7 @@ export const vocabN3 = [
  {
   "word": "程度",
   "reading": "ていど",
-  "romaji": "",
+  "romaji": "teido",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "derajat, jumlah, kelas, standar, urutan (mengikuti angka)",
@@ -12157,7 +12157,7 @@ export const vocabN3 = [
  {
   "word": "以来",
   "reading": "いらい",
-  "romaji": "",
+  "romaji": "irai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sejak itu, untuk selanjutnya",
@@ -12168,7 +12168,7 @@ export const vocabN3 = [
  {
   "word": "あした",
   "reading": "あした",
-  "romaji": "",
+  "romaji": "ashita",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besok",
@@ -12179,7 +12179,7 @@ export const vocabN3 = [
  {
   "word": "支店",
   "reading": "してん",
-  "romaji": "",
+  "romaji": "shiten",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "toko cabang (kantor)",
@@ -12190,7 +12190,7 @@ export const vocabN3 = [
  {
   "word": "尊重",
   "reading": "そんちょう",
-  "romaji": "",
+  "romaji": "sonchou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rasa hormat, harga diri, rasa hormat",
@@ -12201,7 +12201,7 @@ export const vocabN3 = [
  {
   "word": "段",
   "reading": "だん",
-  "romaji": "",
+  "romaji": "dan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "langkah, tangga, tangga, kelas, pangkat, level",
@@ -12212,7 +12212,7 @@ export const vocabN3 = [
  {
   "word": "政府",
   "reading": "せいふ",
-  "romaji": "",
+  "romaji": "seifu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemerintahan, administrasi",
@@ -12223,7 +12223,7 @@ export const vocabN3 = [
  {
   "word": "配達",
   "reading": "はいたつ",
-  "romaji": "",
+  "romaji": "haitatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengiriman, distribusi",
@@ -12234,7 +12234,7 @@ export const vocabN3 = [
  {
   "word": "強盗",
   "reading": "ごうとう",
-  "romaji": "",
+  "romaji": "goutou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perampokan, perampokan",
@@ -12245,7 +12245,7 @@ export const vocabN3 = [
  {
   "word": "駐車",
   "reading": "ちゅうしゃ",
-  "romaji": "",
+  "romaji": "chuusha",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "parkir (misalnya mobil)",
@@ -12256,7 +12256,7 @@ export const vocabN3 = [
  {
   "word": "梅",
   "reading": "うめ",
-  "romaji": "",
+  "romaji": "ume",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "plum,pohon plum,terendah (dari sistem peringkat tiga tingkat)",
@@ -12267,7 +12267,7 @@ export const vocabN3 = [
  {
   "word": "否",
   "reading": "いや",
-  "romaji": "",
+  "romaji": "iya",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak, tidak",
@@ -12278,7 +12278,7 @@ export const vocabN3 = [
  {
   "word": "アウト",
   "reading": "あうと",
-  "romaji": "",
+  "romaji": "auto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keluar",
@@ -12289,7 +12289,7 @@ export const vocabN3 = [
  {
   "word": "厄介",
   "reading": "やっかい",
-  "romaji": "",
+  "romaji": "yakkai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masalah, beban, perhatian, repot",
@@ -12300,7 +12300,7 @@ export const vocabN3 = [
  {
   "word": "咳",
   "reading": "せき",
-  "romaji": "",
+  "romaji": "seki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batuk",
@@ -12311,7 +12311,7 @@ export const vocabN3 = [
  {
   "word": "者",
   "reading": "もの",
-  "romaji": "",
+  "romaji": "mono",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang",
@@ -12322,7 +12322,7 @@ export const vocabN3 = [
  {
   "word": "方々",
   "reading": "かたがた",
-  "romaji": "",
+  "romaji": "katagata",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang, ini dan itu, di sini dan di sana, dimana saja",
@@ -12333,7 +12333,7 @@ export const vocabN3 = [
  {
   "word": "国語",
   "reading": "こくご",
-  "romaji": "",
+  "romaji": "kokugo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahasa nasional",
@@ -12344,7 +12344,7 @@ export const vocabN3 = [
  {
   "word": "能力",
   "reading": "のうりょく",
-  "romaji": "",
+  "romaji": "nouryoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kemampuan, fakultas",
@@ -12355,7 +12355,7 @@ export const vocabN3 = [
  {
   "word": "都",
   "reading": "みやこ",
-  "romaji": "",
+  "romaji": "miyako",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "modal",
@@ -12366,7 +12366,7 @@ export const vocabN3 = [
  {
   "word": "支配",
   "reading": "しはい",
-  "romaji": "",
+  "romaji": "shihai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "aturan, kendali, arah",
@@ -12377,7 +12377,7 @@ export const vocabN3 = [
  {
   "word": "材料",
   "reading": "ざいりょう",
-  "romaji": "",
+  "romaji": "zairyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahan, bahan",
@@ -12388,7 +12388,7 @@ export const vocabN3 = [
  {
   "word": "覚める",
   "reading": "さめる",
-  "romaji": "",
+  "romaji": "sameru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bangun, untuk bangun",
@@ -12399,7 +12399,7 @@ export const vocabN3 = [
  {
   "word": "なかなか",
   "reading": "なかなか",
-  "romaji": "",
+  "romaji": "nakanaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan sangat, sangat, mudah",
@@ -12410,7 +12410,7 @@ export const vocabN3 = [
  {
   "word": "名人",
   "reading": "めいじん",
-  "romaji": "",
+  "romaji": "meijin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tuan, ahli",
@@ -12421,7 +12421,7 @@ export const vocabN3 = [
  {
   "word": "空",
   "reading": "から",
-  "romaji": "",
+  "romaji": "kara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "langit",
@@ -12432,7 +12432,7 @@ export const vocabN3 = [
  {
   "word": "僅か",
   "reading": "わずか",
-  "romaji": "",
+  "romaji": "wazuka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hanya, sekedar, sedikit, jumlah kecil",
@@ -12443,7 +12443,7 @@ export const vocabN3 = [
  {
   "word": "賢い",
   "reading": "かしこい",
-  "romaji": "",
+  "romaji": "kashikoi",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "bijaksana, pintar, pintar",
@@ -12454,7 +12454,7 @@ export const vocabN3 = [
  {
   "word": "画家",
   "reading": "がか",
-  "romaji": "",
+  "romaji": "gaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pelukis, artis",
@@ -12465,7 +12465,7 @@ export const vocabN3 = [
  {
   "word": "掴む",
   "reading": "つかむ",
-  "romaji": "",
+  "romaji": "tsukamu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk merebut, untuk menangkap, untuk memahami",
@@ -12476,7 +12476,7 @@ export const vocabN3 = [
  {
   "word": "皆",
   "reading": "みんな",
-  "romaji": "",
+  "romaji": "minna",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semuanya, semuanya, semuanya",
@@ -12487,7 +12487,7 @@ export const vocabN3 = [
  {
   "word": "影",
   "reading": "かげ",
-  "romaji": "",
+  "romaji": "kage",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "naungan, bayangan, sisi lain",
@@ -12498,7 +12498,7 @@ export const vocabN3 = [
  {
   "word": "ばったり",
   "reading": "ばったり",
-  "romaji": "",
+  "romaji": "battari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan benturan (bunyi), dengan keras, montok, gagal",
@@ -12509,7 +12509,7 @@ export const vocabN3 = [
  {
   "word": "ありがとう",
   "reading": "ありがとう",
-  "romaji": "",
+  "romaji": "arigatou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(konj,exp,int) Terima kasih",
@@ -12520,7 +12520,7 @@ export const vocabN3 = [
  {
   "word": "感動",
   "reading": "かんどう",
-  "romaji": "",
+  "romaji": "kandou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menjadi sangat tersentuh, kegembiraan, kesan, emosi yang mendalam",
@@ -12531,7 +12531,7 @@ export const vocabN3 = [
  {
   "word": "現在",
   "reading": "げんざい",
-  "romaji": "",
+  "romaji": "genzai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekarang, hingga saat ini, saat ini, zaman modern, terkini",
@@ -12542,7 +12542,7 @@ export const vocabN3 = [
  {
   "word": "屋根",
   "reading": "やね",
-  "romaji": "",
+  "romaji": "yane",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atap",
@@ -12553,7 +12553,7 @@ export const vocabN3 = [
  {
   "word": "譲る",
   "reading": "ゆずる",
-  "romaji": "",
+  "romaji": "yuzuru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyerahkan, untuk menugaskan, untuk menyerahkan",
@@ -12564,7 +12564,7 @@ export const vocabN3 = [
  {
   "word": "天候",
   "reading": "てんこう",
-  "romaji": "",
+  "romaji": "tenkou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cuaca",
@@ -12575,7 +12575,7 @@ export const vocabN3 = [
  {
   "word": "自慢",
   "reading": "じまん",
-  "romaji": "",
+  "romaji": "jiman",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kebanggaan, menyombongkan diri",
@@ -12586,7 +12586,7 @@ export const vocabN3 = [
  {
   "word": "失業",
   "reading": "しつぎょう",
-  "romaji": "",
+  "romaji": "shitsugyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengangguran",
@@ -12597,7 +12597,7 @@ export const vocabN3 = [
  {
   "word": "大戦",
   "reading": "たいせん",
-  "romaji": "",
+  "romaji": "taisen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perang hebat, pertempuran hebat",
@@ -12608,7 +12608,7 @@ export const vocabN3 = [
  {
   "word": "守る",
   "reading": "まもる",
-  "romaji": "",
+  "romaji": "mamoru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melindungi, untuk mematuhi, untuk menjaga, untuk mematuhi (dengan aturan)",
@@ -12619,7 +12619,7 @@ export const vocabN3 = [
  {
   "word": "価値",
   "reading": "かち",
-  "romaji": "",
+  "romaji": "kachi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nilai, nilai, pahala",
@@ -12630,7 +12630,7 @@ export const vocabN3 = [
  {
   "word": "集まり",
   "reading": "あつまり",
-  "romaji": "",
+  "romaji": "atsumari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pengumpulan, pertemuan, perakitan, koleksi",
@@ -12641,7 +12641,7 @@ export const vocabN3 = [
  {
   "word": "これら",
   "reading": "これら",
-  "romaji": "",
+  "romaji": "korera",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ini",
@@ -12652,7 +12652,7 @@ export const vocabN3 = [
  {
   "word": "すごい",
   "reading": "すごい",
-  "romaji": "",
+  "romaji": "sugoi",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "mengerikan, mengerikan, hebat, menakjubkan, hebat",
@@ -12663,7 +12663,7 @@ export const vocabN3 = [
  {
   "word": "大使",
   "reading": "たいし",
-  "romaji": "",
+  "romaji": "taishi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "duta besar",
@@ -12674,7 +12674,7 @@ export const vocabN3 = [
  {
   "word": "分析",
   "reading": "ぶんせき",
-  "romaji": "",
+  "romaji": "bunseki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "analisa",
@@ -12685,7 +12685,7 @@ export const vocabN3 = [
  {
   "word": "先日",
   "reading": "せんじつ",
-  "romaji": "",
+  "romaji": "senjitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tempo hari, beberapa hari yang lalu",
@@ -12696,7 +12696,7 @@ export const vocabN3 = [
  {
   "word": "悲劇",
   "reading": "ひげき",
-  "romaji": "",
+  "romaji": "higeki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tragedi",
@@ -12707,7 +12707,7 @@ export const vocabN3 = [
  {
   "word": "現れる",
   "reading": "あらわれる",
-  "romaji": "",
+  "romaji": "arawareru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) tampil, terlihat, terlihat, (2) mengekspresikan diri",
@@ -12718,7 +12718,7 @@ export const vocabN3 = [
  {
   "word": "アルバム",
   "reading": "あるばむ",
-  "romaji": "",
+  "romaji": "arubamu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "album",
@@ -12729,7 +12729,7 @@ export const vocabN3 = [
  {
   "word": "友情",
   "reading": "ゆうじょう",
-  "romaji": "",
+  "romaji": "yuujou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persahabatan, persahabatan",
@@ -12740,7 +12740,7 @@ export const vocabN3 = [
  {
   "word": "泥",
   "reading": "どろ",
-  "romaji": "",
+  "romaji": "doro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lumpur",
@@ -12751,7 +12751,7 @@ export const vocabN3 = [
  {
   "word": "刀",
   "reading": "かたな",
-  "romaji": "",
+  "romaji": "katana",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pedang, pedang, pisau, alat ukiran",
@@ -12762,7 +12762,7 @@ export const vocabN3 = [
  {
   "word": "話題",
   "reading": "わだい",
-  "romaji": "",
+  "romaji": "wadai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "topik, subjek",
@@ -12773,7 +12773,7 @@ export const vocabN3 = [
  {
   "word": "通過",
   "reading": "つうか",
-  "romaji": "",
+  "romaji": "tsuuka",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "melewati, melewati",
@@ -12784,7 +12784,7 @@ export const vocabN3 = [
  {
   "word": "滅多に",
   "reading": "めったに",
-  "romaji": "",
+  "romaji": "mettani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jarang (dengan kata kerja neg.),jarang",
@@ -12795,7 +12795,7 @@ export const vocabN3 = [
  {
   "word": "度",
   "reading": "たび",
-  "romaji": "",
+  "romaji": "tabi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "counter untuk kejadian",
@@ -12806,7 +12806,7 @@ export const vocabN3 = [
  {
   "word": "希望",
   "reading": "きぼう",
-  "romaji": "",
+  "romaji": "kibou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "harapan, keinginan, aspirasi",
@@ -12817,7 +12817,7 @@ export const vocabN3 = [
  {
   "word": "様子",
   "reading": "ようす",
-  "romaji": "",
+  "romaji": "yousu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aspek, keadaan, penampilan",
@@ -12828,7 +12828,7 @@ export const vocabN3 = [
  {
   "word": "越す",
   "reading": "こす",
-  "romaji": "",
+  "romaji": "kosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk pergi (misalnya dengan penonton)",
@@ -12839,7 +12839,7 @@ export const vocabN3 = [
  {
   "word": "チャンス",
   "reading": "ちゃんす",
-  "romaji": "",
+  "romaji": "chansu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesempatan, peluang",
@@ -12850,7 +12850,7 @@ export const vocabN3 = [
  {
   "word": "交際",
   "reading": "こうさい",
-  "romaji": "",
+  "romaji": "kousai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perusahaan, persahabatan, asosiasi, masyarakat, kenalan",
@@ -12861,7 +12861,7 @@ export const vocabN3 = [
  {
   "word": "申し込む",
   "reading": "もうしこむ",
-  "romaji": "",
+  "romaji": "moushikomu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melamar, untuk membuat aplikasi",
@@ -12872,7 +12872,7 @@ export const vocabN3 = [
  {
   "word": "程",
   "reading": "ほど",
-  "romaji": "",
+  "romaji": "hodo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "derajat, luas, batas, batas",
@@ -12883,7 +12883,7 @@ export const vocabN3 = [
  {
   "word": "救助",
   "reading": "きゅうじょ",
-  "romaji": "",
+  "romaji": "kyuujo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bantuan, bantuan, penyelamatan",
@@ -12894,7 +12894,7 @@ export const vocabN3 = [
  {
   "word": "新た",
   "reading": "あらた",
-  "romaji": "",
+  "romaji": "arata",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baru, segar, baru",
@@ -12905,7 +12905,7 @@ export const vocabN3 = [
  {
   "word": "列車",
   "reading": "れっしゃ",
-  "romaji": "",
+  "romaji": "ressha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kereta api (biasa)",
@@ -12916,7 +12916,7 @@ export const vocabN3 = [
  {
   "word": "一種",
   "reading": "いっしゅ",
-  "romaji": "",
+  "romaji": "isshu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suatu spesies, suatu jenis, suatu keanekaragaman",
@@ -12927,7 +12927,7 @@ export const vocabN3 = [
  {
   "word": "考え",
   "reading": "かんがえ",
-  "romaji": "",
+  "romaji": "kangae",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berpikir,pikiran,ide,niat",
@@ -12938,7 +12938,7 @@ export const vocabN3 = [
  {
   "word": "商売",
   "reading": "しょうばい",
-  "romaji": "",
+  "romaji": "shoubai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perdagangan, bisnis, perdagangan, transaksi, pekerjaan",
@@ -12949,7 +12949,7 @@ export const vocabN3 = [
  {
   "word": "欠席",
   "reading": "けっせき",
-  "romaji": "",
+  "romaji": "kesseki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ketidakhadiran, ketidakhadiran",
@@ -12960,7 +12960,7 @@ export const vocabN3 = [
  {
   "word": "絶対",
   "reading": "ぜったい",
-  "romaji": "",
+  "romaji": "zettai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mutlak, tanpa syarat, kemutlakan",
@@ -12971,7 +12971,7 @@ export const vocabN3 = [
  {
   "word": "農家",
   "reading": "のうか",
-  "romaji": "",
+  "romaji": "nouka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "petani, keluarga petani",
@@ -12982,7 +12982,7 @@ export const vocabN3 = [
  {
   "word": "幾つ",
   "reading": "いくつ",
-  "romaji": "",
+  "romaji": "ikutsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berapa banyak?, berapa umurnya?",
@@ -12993,7 +12993,7 @@ export const vocabN3 = [
  {
   "word": "信号",
   "reading": "しんごう",
-  "romaji": "",
+  "romaji": "shingou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lampu lalu lintas, sinyal, semaphore",
@@ -13004,7 +13004,7 @@ export const vocabN3 = [
  {
   "word": "付ける",
   "reading": "つける",
-  "romaji": "",
+  "romaji": "tsukeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melampirkan, untuk bergabung, untuk menambahkan, untuk menambahkan",
@@ -13015,7 +13015,7 @@ export const vocabN3 = [
  {
   "word": "そして",
   "reading": "そして",
-  "romaji": "",
+  "romaji": "soshite",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Dan",
@@ -13026,7 +13026,7 @@ export const vocabN3 = [
  {
   "word": "ぼんやり",
   "reading": "ぼんやり",
-  "romaji": "",
+  "romaji": "bonyari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "linglung, bodoh, redup, pingsan, tidak jelas",
@@ -13037,7 +13037,7 @@ export const vocabN3 = [
  {
   "word": "スキー",
   "reading": "すきー",
-  "romaji": "",
+  "romaji": "suki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bermain ski",
@@ -13048,7 +13048,7 @@ export const vocabN3 = [
  {
   "word": "辛い",
   "reading": "つらい",
-  "romaji": "",
+  "romaji": "tsurai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "menyakitkan, menyayat hati",
@@ -13059,7 +13059,7 @@ export const vocabN3 = [
  {
   "word": "生命",
   "reading": "せいめい",
-  "romaji": "",
+  "romaji": "seimei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hidup, keberadaan",
@@ -13070,7 +13070,7 @@ export const vocabN3 = [
  {
   "word": "構う",
   "reading": "かまう",
-  "romaji": "",
+  "romaji": "kamau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dipikirkan, untuk dipedulikan, untuk dikhawatirkan",
@@ -13081,7 +13081,7 @@ export const vocabN3 = [
  {
   "word": "交換",
   "reading": "こうかん",
-  "romaji": "",
+  "romaji": "koukan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertukaran, pertukaran, timbal balik",
@@ -13092,7 +13092,7 @@ export const vocabN3 = [
  {
   "word": "知事",
   "reading": "ちじ",
-  "romaji": "",
+  "romaji": "chiji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gubernur prefektur",
@@ -13103,7 +13103,7 @@ export const vocabN3 = [
  {
   "word": "やはり",
   "reading": "やはり",
-  "romaji": "",
+  "romaji": "yahari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "juga, seperti dugaanku, tetap saja, meskipun, tentu saja",
@@ -13114,7 +13114,7 @@ export const vocabN3 = [
  {
   "word": "進める",
   "reading": "すすめる",
-  "romaji": "",
+  "romaji": "susumeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memajukan, untuk mempromosikan, untuk mempercepat",
@@ -13125,7 +13125,7 @@ export const vocabN3 = [
  {
   "word": "爆発",
   "reading": "ばくはつ",
-  "romaji": "",
+  "romaji": "bakuhatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ledakan, detonasi, letusan",
@@ -13136,7 +13136,7 @@ export const vocabN3 = [
  {
   "word": "かわいそう",
   "reading": "かわいそう",
-  "romaji": "",
+  "romaji": "kawaisou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "miskin, menyedihkan, menyedihkan",
@@ -13147,7 +13147,7 @@ export const vocabN3 = [
  {
   "word": "横切る",
   "reading": "よこぎる",
-  "romaji": "",
+  "romaji": "yokogiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyilangkan (misalnya lengan), untuk melintasi",
@@ -13158,7 +13158,7 @@ export const vocabN3 = [
  {
   "word": "害",
   "reading": "がい",
-  "romaji": "",
+  "romaji": "gai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cedera, bahaya, pengaruh jahat, kerusakan",
@@ -13169,7 +13169,7 @@ export const vocabN3 = [
  {
   "word": "自殺",
   "reading": "じさつ",
-  "romaji": "",
+  "romaji": "jisatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bunuh diri",
@@ -13180,7 +13180,7 @@ export const vocabN3 = [
  {
   "word": "トラック",
   "reading": "とらっく",
-  "romaji": "",
+  "romaji": "torakku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) truk, (2) lintasan (berlari).",
@@ -13191,7 +13191,7 @@ export const vocabN3 = [
  {
   "word": "承知",
   "reading": "しょうち",
-  "romaji": "",
+  "romaji": "shouchi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persetujuan, penerimaan, persetujuan, pengakuan",
@@ -13202,7 +13202,7 @@ export const vocabN3 = [
  {
   "word": "宇宙",
   "reading": "うちゅう",
-  "romaji": "",
+  "romaji": "uchuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "alam semesta, kosmos, ruang angkasa",
@@ -13213,7 +13213,7 @@ export const vocabN3 = [
  {
   "word": "適切",
   "reading": "てきせつ",
-  "romaji": "",
+  "romaji": "tekisetsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "relevan, sesuai, memadai, relevansi",
@@ -13224,7 +13224,7 @@ export const vocabN3 = [
  {
   "word": "ダイヤ",
   "reading": "だいや",
-  "romaji": "",
+  "romaji": "daiya",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pewarna, (2) diagram, (3) jadwal (kereta api), (4) berlian",
@@ -13235,7 +13235,7 @@ export const vocabN3 = [
  {
   "word": "管理",
   "reading": "かんり",
-  "romaji": "",
+  "romaji": "kanri",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontrol, manajemen (misalnya bisnis)",
@@ -13246,7 +13246,7 @@ export const vocabN3 = [
  {
   "word": "豊か",
   "reading": "ゆたか",
-  "romaji": "",
+  "romaji": "yutaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berlimpah, kaya, berlimpah, kaya",
@@ -13257,7 +13257,7 @@ export const vocabN3 = [
  {
   "word": "競技",
   "reading": "きょうぎ",
-  "romaji": "",
+  "romaji": "kyougi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "permainan, pertandingan, kontes",
@@ -13268,7 +13268,7 @@ export const vocabN3 = [
  {
   "word": "設計",
   "reading": "せっけい",
-  "romaji": "",
+  "romaji": "sekkei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rencana, desain",
@@ -13279,7 +13279,7 @@ export const vocabN3 = [
  {
   "word": "汚染",
   "reading": "おせん",
-  "romaji": "",
+  "romaji": "osen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "polusi, kontaminasi",
@@ -13290,7 +13290,7 @@ export const vocabN3 = [
  {
   "word": "調子",
   "reading": "ちょうし",
-  "romaji": "",
+  "romaji": "choushi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nada, nada, kunci",
@@ -13301,7 +13301,7 @@ export const vocabN3 = [
  {
   "word": "かなり",
   "reading": "かなり",
-  "romaji": "",
+  "romaji": "kanari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cukup, cukup, cukup",
@@ -13312,7 +13312,7 @@ export const vocabN3 = [
  {
   "word": "海外",
   "reading": "かいがい",
-  "romaji": "",
+  "romaji": "kaigai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "asing, luar negeri, luar negeri",
@@ -13323,7 +13323,7 @@ export const vocabN3 = [
  {
   "word": "安定",
   "reading": "あんてい",
-  "romaji": "",
+  "romaji": "antei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "stabilitas, keseimbangan",
@@ -13345,7 +13345,7 @@ export const vocabN3 = [
  {
   "word": "きつい",
   "reading": "きつい",
-  "romaji": "",
+  "romaji": "kitsui",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "ketat, dekat, intens",
@@ -13356,7 +13356,7 @@ export const vocabN3 = [
  {
   "word": "記者",
   "reading": "きしゃ",
-  "romaji": "",
+  "romaji": "kisha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "reporter",
@@ -13367,7 +13367,7 @@ export const vocabN3 = [
  {
   "word": "負け",
   "reading": "まけ",
-  "romaji": "",
+  "romaji": "make",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekalahan, kekalahan, kekalahan (permainan)",
@@ -13378,7 +13378,7 @@ export const vocabN3 = [
  {
   "word": "流れ",
   "reading": "ながれ",
-  "romaji": "",
+  "romaji": "nagare",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aliran, arus",
@@ -13389,7 +13389,7 @@ export const vocabN3 = [
  {
   "word": "評価",
   "reading": "ひょうか",
-  "romaji": "",
+  "romaji": "hyouka",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penilaian, estimasi, penilaian, evaluasi",
@@ -13400,7 +13400,7 @@ export const vocabN3 = [
  {
   "word": "憲法",
   "reading": "けんぽう",
-  "romaji": "",
+  "romaji": "kenpou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "konstitusi",
@@ -13411,7 +13411,7 @@ export const vocabN3 = [
  {
   "word": "劇場",
   "reading": "げきじょう",
-  "romaji": "",
+  "romaji": "gekijou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teater, rumah bermain",
@@ -13422,7 +13422,7 @@ export const vocabN3 = [
  {
   "word": "働き",
   "reading": "はたらき",
-  "romaji": "",
+  "romaji": "hataraki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerja, buruh",
@@ -13433,7 +13433,7 @@ export const vocabN3 = [
  {
   "word": "停留所",
   "reading": "ていりゅうじょ",
-  "romaji": "",
+  "romaji": "teiryuujo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "halte bus atau trem",
@@ -13444,7 +13444,7 @@ export const vocabN3 = [
  {
   "word": "骨",
   "reading": "ほね",
-  "romaji": "",
+  "romaji": "hone",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tulang",
@@ -13455,7 +13455,7 @@ export const vocabN3 = [
  {
   "word": "おめでとう",
   "reading": "おめでとう",
-  "romaji": "",
+  "romaji": "omedetou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Selamat!, kesempatan yang baik!",
@@ -13466,7 +13466,7 @@ export const vocabN3 = [
  {
   "word": "空く",
   "reading": "すく",
-  "romaji": "",
+  "romaji": "suku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) terbuka, menjadi kosong, (2) menjadi kurang ramai",
@@ -13477,7 +13477,7 @@ export const vocabN3 = [
  {
   "word": "メンバー",
   "reading": "めんばー",
-  "romaji": "",
+  "romaji": "menba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggota",
@@ -13488,7 +13488,7 @@ export const vocabN3 = [
  {
   "word": "癖",
   "reading": "くせ",
-  "romaji": "",
+  "romaji": "kuse",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebuah kebiasaan (seringkali merupakan kebiasaan buruk),kekhasan",
@@ -13499,7 +13499,7 @@ export const vocabN3 = [
  {
   "word": "詩",
   "reading": "し",
-  "romaji": "",
+  "romaji": "shi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "puisi, sajak puisi",
@@ -13510,7 +13510,7 @@ export const vocabN3 = [
  {
   "word": "感じる",
   "reading": "かんじる",
-  "romaji": "",
+  "romaji": "kanjiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "merasakan, merasakan, mengalami",
@@ -13521,7 +13521,7 @@ export const vocabN3 = [
  {
   "word": "上",
   "reading": "うわ",
-  "romaji": "",
+  "romaji": "uwa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atas, luar, permukaan",
@@ -13532,7 +13532,7 @@ export const vocabN3 = [
  {
   "word": "いずれ",
   "reading": "いずれ",
-  "romaji": "",
+  "romaji": "izure",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dimana, yang mana, siapa",
@@ -13543,7 +13543,7 @@ export const vocabN3 = [
  {
   "word": "保存",
   "reading": "ほぞん",
-  "romaji": "",
+  "romaji": "hozon",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pelestarian, konservasi, penyimpanan, pemeliharaan",
@@ -13554,7 +13554,7 @@ export const vocabN3 = [
  {
   "word": "あちこち",
   "reading": "あちこち",
-  "romaji": "",
+  "romaji": "achikochi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di sana-sini",
@@ -13565,7 +13565,7 @@ export const vocabN3 = [
  {
   "word": "適度",
   "reading": "てきど",
-  "romaji": "",
+  "romaji": "tekido",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sedang",
@@ -13576,7 +13576,7 @@ export const vocabN3 = [
  {
   "word": "横断",
   "reading": "おうだん",
-  "romaji": "",
+  "romaji": "oudan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persimpangan",
@@ -13587,7 +13587,7 @@ export const vocabN3 = [
  {
   "word": "いけない",
   "reading": "いけない",
-  "romaji": "",
+  "romaji": "ikenai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "tidak boleh melakukan, buruk, salah, tidak baik",
@@ -13598,7 +13598,7 @@ export const vocabN3 = [
  {
   "word": "布",
   "reading": "ぬの",
-  "romaji": "",
+  "romaji": "nuno",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kain",
@@ -13609,7 +13609,7 @@ export const vocabN3 = [
  {
   "word": "夕べ",
   "reading": "ゆうべ",
-  "romaji": "",
+  "romaji": "yuube",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "malam",
@@ -13620,7 +13620,7 @@ export const vocabN3 = [
  {
   "word": "専攻",
   "reading": "せんこう",
-  "romaji": "",
+  "romaji": "senkou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mata pelajaran utama, studi khusus",
@@ -13631,7 +13631,7 @@ export const vocabN3 = [
  {
   "word": "答案",
   "reading": "とうあん",
-  "romaji": "",
+  "romaji": "touan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kertas ujian, naskah ujian",
@@ -13642,7 +13642,7 @@ export const vocabN3 = [
  {
   "word": "寄付",
   "reading": "きふ",
-  "romaji": "",
+  "romaji": "kifu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontribusi, sumbangan",
@@ -13653,7 +13653,7 @@ export const vocabN3 = [
  {
   "word": "円",
   "reading": "えん",
-  "romaji": "",
+  "romaji": "en",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lingkaran, uang",
@@ -13664,7 +13664,7 @@ export const vocabN3 = [
  {
   "word": "罹る",
   "reading": "かかる",
-  "romaji": "",
+  "romaji": "kakaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menderita",
@@ -13675,7 +13675,7 @@ export const vocabN3 = [
  {
   "word": "パイロット",
   "reading": "ぱいろっと",
-  "romaji": "",
+  "romaji": "pairotto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pilot",
@@ -13686,7 +13686,7 @@ export const vocabN3 = [
  {
   "word": "係",
   "reading": "かかり",
-  "romaji": "",
+  "romaji": "kakari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pejabat, tugas, penanggung jawab",
@@ -13697,7 +13697,7 @@ export const vocabN3 = [
  {
   "word": "偶",
   "reading": "たま",
-  "romaji": "",
+  "romaji": "tama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bilangan genap,pasangan,pria dan istri,teman",
@@ -13708,7 +13708,7 @@ export const vocabN3 = [
  {
   "word": "コーチ",
   "reading": "コーチ",
-  "romaji": "",
+  "romaji": "kochi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pelatih",
@@ -13719,7 +13719,7 @@ export const vocabN3 = [
  {
   "word": "検査",
   "reading": "けんさ",
-  "romaji": "",
+  "romaji": "kensa",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "inspeksi (misalnya bea cukai, pabrik), pemeriksaan",
@@ -13730,7 +13730,7 @@ export const vocabN3 = [
  {
   "word": "位",
   "reading": "くらい",
-  "romaji": "",
+  "romaji": "kurai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelas, pangkat, tentang",
@@ -13741,7 +13741,7 @@ export const vocabN3 = [
  {
   "word": "従う",
   "reading": "したがう",
-  "romaji": "",
+  "romaji": "shitagau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mematuhi (menurut aturan), untuk mematuhi, untuk mengikuti, untuk menemani",
@@ -13752,7 +13752,7 @@ export const vocabN3 = [
  {
   "word": "維持",
   "reading": "いじ",
-  "romaji": "",
+  "romaji": "iji",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemeliharaan, pelestarian",
@@ -13763,7 +13763,7 @@ export const vocabN3 = [
  {
   "word": "陰",
   "reading": "かげ",
-  "romaji": "",
+  "romaji": "kage",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "naungan, bayangan, sisi lain",
@@ -13774,7 +13774,7 @@ export const vocabN3 = [
  {
   "word": "節約",
   "reading": "せつやく",
-  "romaji": "",
+  "romaji": "setsuyaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menghemat, menabung",
@@ -13785,7 +13785,7 @@ export const vocabN3 = [
  {
   "word": "光景",
   "reading": "こうけい",
-  "romaji": "",
+  "romaji": "koukei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "adegan, tontonan",
@@ -13796,7 +13796,7 @@ export const vocabN3 = [
  {
   "word": "他人",
   "reading": "たにん",
-  "romaji": "",
+  "romaji": "tanin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang lain, orang yang tidak berhubungan, orang luar, orang asing",
@@ -13807,7 +13807,7 @@ export const vocabN3 = [
  {
   "word": "祝い",
   "reading": "いわい",
-  "romaji": "",
+  "romaji": "iwai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perayaan, festival",
@@ -13818,7 +13818,7 @@ export const vocabN3 = [
  {
   "word": "主婦",
   "reading": "しゅふ",
-  "romaji": "",
+  "romaji": "shufu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ibu rumah tangga, nyonya",
@@ -13829,7 +13829,7 @@ export const vocabN3 = [
  {
   "word": "思わず",
   "reading": "おもわず",
-  "romaji": "",
+  "romaji": "omowazu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak disengaja, spontan",
@@ -13840,7 +13840,7 @@ export const vocabN3 = [
  {
   "word": "移す",
   "reading": "うつす",
-  "romaji": "",
+  "romaji": "utsusu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menghapus, untuk mentransfer, untuk menginfeksi",
@@ -13851,7 +13851,7 @@ export const vocabN3 = [
  {
   "word": "団体",
   "reading": "だんたい",
-  "romaji": "",
+  "romaji": "dantai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "organisasi, asosiasi",
@@ -13862,7 +13862,7 @@ export const vocabN3 = [
  {
   "word": "日常",
   "reading": "にちじょう",
-  "romaji": "",
+  "romaji": "nichijou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biasa, biasa, sehari-hari, biasa",
@@ -13873,7 +13873,7 @@ export const vocabN3 = [
  {
   "word": "基本",
   "reading": "きほん",
-  "romaji": "",
+  "romaji": "kihon",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "landasan, dasar, standar",
@@ -13884,7 +13884,7 @@ export const vocabN3 = [
  {
   "word": "敵",
   "reading": "てき",
-  "romaji": "",
+  "romaji": "teki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "musuh, saingan",
@@ -13895,7 +13895,7 @@ export const vocabN3 = [
  {
   "word": "しまう",
   "reading": "（終わる）",
-  "romaji": "",
+  "romaji": "waru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyelesaikan, menutup, melakukan sesuatu sepenuhnya",
@@ -13906,7 +13906,7 @@ export const vocabN3 = [
  {
   "word": "こんにちは",
   "reading": "こんにちは",
-  "romaji": "",
+  "romaji": "konnichiha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "halo, selamat siang (sapaan siang hari, id)",
@@ -13917,7 +13917,7 @@ export const vocabN3 = [
  {
   "word": "つまり",
   "reading": "つまり",
-  "romaji": "",
+  "romaji": "tsumari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "singkatnya, singkatnya, dengan kata lain",
@@ -13928,7 +13928,7 @@ export const vocabN3 = [
  {
   "word": "ゴール",
   "reading": "ごーる",
-  "romaji": "",
+  "romaji": "goru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sasaran",
@@ -13939,7 +13939,7 @@ export const vocabN3 = [
  {
   "word": "製品",
   "reading": "せいひん",
-  "romaji": "",
+  "romaji": "seihin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "barang jadi, barang jadi",
@@ -13950,7 +13950,7 @@ export const vocabN3 = [
  {
   "word": "案内",
   "reading": "あんない",
-  "romaji": "",
+  "romaji": "annai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "informasi, bimbingan, memimpin",
@@ -13961,7 +13961,7 @@ export const vocabN3 = [
  {
   "word": "電子",
   "reading": "でんし",
-  "romaji": "",
+  "romaji": "denshi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "elektron",
@@ -13972,7 +13972,7 @@ export const vocabN3 = [
  {
   "word": "それぞれ",
   "reading": "それぞれ",
-  "romaji": "",
+  "romaji": "sorezore",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masing-masing, setiap, masing-masing, beberapa",
@@ -13983,7 +13983,7 @@ export const vocabN3 = [
  {
   "word": "拡大",
   "reading": "かくだい",
-  "romaji": "",
+  "romaji": "kakudai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pembesaran, pembesaran",
@@ -13994,7 +13994,7 @@ export const vocabN3 = [
  {
   "word": "とにかく",
   "reading": "とにかく",
-  "romaji": "",
+  "romaji": "tonikaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bagaimanapun juga, bagaimanapun juga, bagaimanapun juga, entah bagaimana atau lainnya, secara umum, dalam hal apapun",
@@ -14005,7 +14005,7 @@ export const vocabN3 = [
  {
   "word": "一致",
   "reading": "いっち",
-  "romaji": "",
+  "romaji": "itchi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) kebetulan, kesepakatan, (2) kesesuaian",
@@ -14016,7 +14016,7 @@ export const vocabN3 = [
  {
   "word": "どこか",
   "reading": "どこか",
-  "romaji": "",
+  "romaji": "dokoka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di suatu tempat, di mana saja",
@@ -14027,7 +14027,7 @@ export const vocabN3 = [
  {
   "word": "ノック",
   "reading": "のっく",
-  "romaji": "",
+  "romaji": "nokku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) ketukan, (2) fungo (bisbol)",
@@ -14038,7 +14038,7 @@ export const vocabN3 = [
  {
   "word": "鉄",
   "reading": "てつ",
-  "romaji": "",
+  "romaji": "tetsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besi",
@@ -14049,7 +14049,7 @@ export const vocabN3 = [
  {
   "word": "税金",
   "reading": "ぜいきん",
-  "romaji": "",
+  "romaji": "zeikin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pajak, bea",
@@ -14060,7 +14060,7 @@ export const vocabN3 = [
  {
   "word": "四",
   "reading": "し",
-  "romaji": "",
+  "romaji": "shi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "empat",
@@ -14071,7 +14071,7 @@ export const vocabN3 = [
  {
   "word": "強力",
   "reading": "きょうりょく",
-  "romaji": "",
+  "romaji": "kyouryoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekuatan raksasa, pemandu pembawa gunung",
@@ -14082,7 +14082,7 @@ export const vocabN3 = [
  {
   "word": "現象",
   "reading": "げんしょう",
-  "romaji": "",
+  "romaji": "genshou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gejala",
@@ -14093,7 +14093,7 @@ export const vocabN3 = [
  {
   "word": "罰する",
   "reading": "ばっする",
-  "romaji": "",
+  "romaji": "bassuru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menghukum, untuk menghukum",
@@ -14104,7 +14104,7 @@ export const vocabN3 = [
  {
   "word": "主張",
   "reading": "しゅちょう",
-  "romaji": "",
+  "romaji": "shuchou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "klaim, permintaan, desakan, penegasan",
@@ -14115,7 +14115,7 @@ export const vocabN3 = [
  {
   "word": "音",
   "reading": "おん",
-  "romaji": "",
+  "romaji": "on",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suara, catatan",
@@ -14126,7 +14126,7 @@ export const vocabN3 = [
  {
   "word": "轢く",
   "reading": "ひく",
-  "romaji": "",
+  "romaji": "hiku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menabrak seseorang (dengan kendaraan), untuk menjatuhkan seseorang",
@@ -14137,7 +14137,7 @@ export const vocabN3 = [
  {
   "word": "小屋",
   "reading": "こや",
-  "romaji": "",
+  "romaji": "koya",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gubuk, kabin, gudang, kandang (hewan).",
@@ -14148,7 +14148,7 @@ export const vocabN3 = [
  {
   "word": "個人",
   "reading": "こじん",
-  "romaji": "",
+  "romaji": "kojin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "individu, orang pribadi, pribadi, pribadi",
@@ -14159,7 +14159,7 @@ export const vocabN3 = [
  {
   "word": "苦手",
   "reading": "にがて",
-  "romaji": "",
+  "romaji": "nigate",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "miskin (pada), lemah (dalam), tidak suka (dari)",
@@ -14170,7 +14170,7 @@ export const vocabN3 = [
  {
   "word": "通行",
   "reading": "つうこう",
-  "romaji": "",
+  "romaji": "tsuukou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "lewat, lewat",
@@ -14181,7 +14181,7 @@ export const vocabN3 = [
  {
   "word": "宝",
   "reading": "たから",
-  "romaji": "",
+  "romaji": "takara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harta karun",
@@ -14192,7 +14192,7 @@ export const vocabN3 = [
  {
   "word": "与える",
   "reading": "あたえる",
-  "romaji": "",
+  "romaji": "ataeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memberi, mempersembahkan, memberi penghargaan",
@@ -14203,7 +14203,7 @@ export const vocabN3 = [
  {
   "word": "知恵",
   "reading": "ちえ",
-  "romaji": "",
+  "romaji": "chie",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebijaksanaan, kecerdasan, kebijaksanaan, akal, kecerdasan, nasihat",
@@ -14214,7 +14214,7 @@ export const vocabN3 = [
  {
   "word": "宝石",
   "reading": "ほうせき",
-  "romaji": "",
+  "romaji": "houseki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "permata, permata",
@@ -14225,7 +14225,7 @@ export const vocabN3 = [
  {
   "word": "婚約",
   "reading": "こんやく",
-  "romaji": "",
+  "romaji": "konyaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertunangan, pertunangan",
@@ -14236,7 +14236,7 @@ export const vocabN3 = [
  {
   "word": "嬉しい",
   "reading": "うれしい",
-  "romaji": "",
+  "romaji": "ureshii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "senang, senang, menyenangkan",
@@ -14247,7 +14247,7 @@ export const vocabN3 = [
  {
   "word": "城",
   "reading": "しろ",
-  "romaji": "",
+  "romaji": "shiro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kastil",
@@ -14258,7 +14258,7 @@ export const vocabN3 = [
  {
   "word": "年寄",
   "reading": "としより",
-  "romaji": "",
+  "romaji": "toshiyori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang tua, orang lanjut usia",
@@ -14269,7 +14269,7 @@ export const vocabN3 = [
  {
   "word": "マーケット",
   "reading": "まーけっと",
-  "romaji": "",
+  "romaji": "maketto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pasar",
@@ -14280,7 +14280,7 @@ export const vocabN3 = [
  {
   "word": "外交",
   "reading": "がいこう",
-  "romaji": "",
+  "romaji": "gaikou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "diplomasi",
@@ -14291,7 +14291,7 @@ export const vocabN3 = [
  {
   "word": "観客",
   "reading": "かんきゃく",
-  "romaji": "",
+  "romaji": "kankyaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penonton, penonton",
@@ -14302,7 +14302,7 @@ export const vocabN3 = [
  {
   "word": "衛星",
   "reading": "えいせい",
-  "romaji": "",
+  "romaji": "eisei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "satelit",
@@ -14313,7 +14313,7 @@ export const vocabN3 = [
  {
   "word": "取り上げる",
   "reading": "とりあげる",
-  "romaji": "",
+  "romaji": "toriageru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mengambil, mengambil, mendiskualifikasi, menyita, merampas",
@@ -14324,7 +14324,7 @@ export const vocabN3 = [
  {
   "word": "義務",
   "reading": "ぎむ",
-  "romaji": "",
+  "romaji": "gimu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tugas, kewajiban, tanggung jawab",
@@ -14335,7 +14335,7 @@ export const vocabN3 = [
  {
   "word": "至る",
   "reading": "いたる",
-  "romaji": "",
+  "romaji": "itaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk datang, untuk tiba",
@@ -14346,7 +14346,7 @@ export const vocabN3 = [
  {
   "word": "候補",
   "reading": "こうほ",
-  "romaji": "",
+  "romaji": "kouho",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pencalonan",
@@ -14357,7 +14357,7 @@ export const vocabN3 = [
  {
   "word": "バッグ",
   "reading": "ばっぐ",
-  "romaji": "",
+  "romaji": "baggu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tas, serangga",
@@ -14368,7 +14368,7 @@ export const vocabN3 = [
  {
   "word": "水準",
   "reading": "すいじゅん",
-  "romaji": "",
+  "romaji": "suijun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) ketinggian air, (2) ketinggian, standar",
@@ -14379,7 +14379,7 @@ export const vocabN3 = [
  {
   "word": "平ら",
   "reading": "たいら",
-  "romaji": "",
+  "romaji": "taira",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerataan, rata, halus, tenang, polos",
@@ -14390,7 +14390,7 @@ export const vocabN3 = [
  {
   "word": "作物",
   "reading": "さくもつ",
-  "romaji": "",
+  "romaji": "sakumotsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hasil bumi (misalnya pertanian), tanaman pangan",
@@ -14401,7 +14401,7 @@ export const vocabN3 = [
  {
   "word": "支払う",
   "reading": "しはらう",
-  "romaji": "",
+  "romaji": "shiharau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membayar",
@@ -14412,7 +14412,7 @@ export const vocabN3 = [
  {
   "word": "飯",
   "reading": "めし",
-  "romaji": "",
+  "romaji": "meshi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(sl) makanan,makanan",
@@ -14423,7 +14423,7 @@ export const vocabN3 = [
  {
   "word": "型",
   "reading": "かた",
-  "romaji": "",
+  "romaji": "kata",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cetakan, model, gaya, bentuk, tipe data",
@@ -14434,7 +14434,7 @@ export const vocabN3 = [
  {
   "word": "収入",
   "reading": "しゅうにゅう",
-  "romaji": "",
+  "romaji": "shuunyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pendapatan, penerimaan, pendapatan",
@@ -14445,7 +14445,7 @@ export const vocabN3 = [
  {
   "word": "広告",
   "reading": "こうこく",
-  "romaji": "",
+  "romaji": "koukoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "iklan",
@@ -14456,7 +14456,7 @@ export const vocabN3 = [
  {
   "word": "おじいさん",
   "reading": "おじいさん",
-  "romaji": "",
+  "romaji": "ojiisan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kakek, warga negara senior laki-laki",
@@ -14467,7 +14467,7 @@ export const vocabN3 = [
  {
   "word": "帰宅",
   "reading": "きたく",
-  "romaji": "",
+  "romaji": "kitaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kembali ke rumah",
@@ -14478,7 +14478,7 @@ export const vocabN3 = [
  {
   "word": "暮れ",
   "reading": "くれ",
-  "romaji": "",
+  "romaji": "kure",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akhir tahun, matahari terbenam, malam tiba, akhir",
@@ -14489,7 +14489,7 @@ export const vocabN3 = [
  {
   "word": "禁煙",
   "reading": "きんえん",
-  "romaji": "",
+  "romaji": "kinen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "DILARANG MEROKOK!",
@@ -14500,7 +14500,7 @@ export const vocabN3 = [
  {
   "word": "宜しい",
   "reading": "よろしい",
-  "romaji": "",
+  "romaji": "yoroshii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "(sayang) bagus, oke, baiklah, baik, baiklah, bisa, boleh, bisa",
@@ -14511,7 +14511,7 @@ export const vocabN3 = [
  {
   "word": "替える",
   "reading": "かえる",
-  "romaji": "",
+  "romaji": "kaeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menukar, menukar, mengganti, mengganti",
@@ -14522,7 +14522,7 @@ export const vocabN3 = [
  {
   "word": "寧ろ",
   "reading": "むしろ",
-  "romaji": "",
+  "romaji": "mushiro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebaliknya, lebih baik",
@@ -14533,7 +14533,7 @@ export const vocabN3 = [
  {
   "word": "ビール",
   "reading": "びーる",
-  "romaji": "",
+  "romaji": "biru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bir",
@@ -14544,7 +14544,7 @@ export const vocabN3 = [
  {
   "word": "疑問",
   "reading": "ぎもん",
-  "romaji": "",
+  "romaji": "gimon",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertanyaan, masalah, keraguan, tebakan",
@@ -14555,7 +14555,7 @@ export const vocabN3 = [
  {
   "word": "供給",
   "reading": "きょうきゅう",
-  "romaji": "",
+  "romaji": "kyoukyuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pasokan, penyediaan",
@@ -14566,7 +14566,7 @@ export const vocabN3 = [
  {
   "word": "スタイル",
   "reading": "すたいる",
-  "romaji": "",
+  "romaji": "sutairu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gaya",
@@ -14577,7 +14577,7 @@ export const vocabN3 = [
  {
   "word": "議員",
   "reading": "ぎいん",
-  "romaji": "",
+  "romaji": "giin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggota Diet, kongres atau parlemen",
@@ -14588,7 +14588,7 @@ export const vocabN3 = [
  {
   "word": "スイッチ",
   "reading": "すいっち",
-  "romaji": "",
+  "romaji": "suitchi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mengalihkan",
@@ -14599,7 +14599,7 @@ export const vocabN3 = [
  {
   "word": "認める",
   "reading": "みとめる",
-  "romaji": "",
+  "romaji": "mitomeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mengenali, mengapresiasi, menyetujui, mengakui, memperhatikan",
@@ -14610,7 +14610,7 @@ export const vocabN3 = [
  {
   "word": "最低",
   "reading": "さいてい",
-  "romaji": "",
+  "romaji": "saitei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "paling tidak, terendah, terburuk",
@@ -14621,7 +14621,7 @@ export const vocabN3 = [
  {
   "word": "でも",
   "reading": "でも",
-  "romaji": "",
+  "romaji": "demo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tapi, bagaimanapun juga",
@@ -14632,7 +14632,7 @@ export const vocabN3 = [
  {
   "word": "科目",
   "reading": "かもく",
-  "romaji": "",
+  "romaji": "kamoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(sekolah) mata pelajaran, kurikulum, kursus",
@@ -14643,7 +14643,7 @@ export const vocabN3 = [
  {
   "word": "ほぼ",
   "reading": "ほぼ",
-  "romaji": "",
+  "romaji": "hobo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hampir, kira-kira, kira-kira",
@@ -14654,7 +14654,7 @@ export const vocabN3 = [
  {
   "word": "ただ",
   "reading": "ただ",
-  "romaji": "",
+  "romaji": "tada",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gratis, belaka, saja",
@@ -14665,7 +14665,7 @@ export const vocabN3 = [
  {
   "word": "長期",
   "reading": "ちょうき",
-  "romaji": "",
+  "romaji": "chouki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jangka waktu yang lama",
@@ -14676,7 +14676,7 @@ export const vocabN3 = [
  {
   "word": "空き",
   "reading": "あき",
-  "romaji": "",
+  "romaji": "aki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ruangan, waktu luang, kekosongan",
@@ -14687,7 +14687,7 @@ export const vocabN3 = [
  {
   "word": "限る",
   "reading": "かぎる",
-  "romaji": "",
+  "romaji": "kagiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membatasi, membatasi, membatasi",
@@ -14698,7 +14698,7 @@ export const vocabN3 = [
  {
   "word": "芝居",
   "reading": "しばい",
-  "romaji": "",
+  "romaji": "shibai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bermain, drama",
@@ -14709,7 +14709,7 @@ export const vocabN3 = [
  {
   "word": "土地",
   "reading": "とち",
-  "romaji": "",
+  "romaji": "tochi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebidang tanah, kavling, tanah",
@@ -14720,7 +14720,7 @@ export const vocabN3 = [
  {
   "word": "塀",
   "reading": "へい",
-  "romaji": "",
+  "romaji": "hei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dinding, pagar",
@@ -14731,7 +14731,7 @@ export const vocabN3 = [
  {
   "word": "離婚",
   "reading": "りこん",
-  "romaji": "",
+  "romaji": "rikon",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perceraian",
@@ -14742,7 +14742,7 @@ export const vocabN3 = [
  {
   "word": "共同",
   "reading": "きょうどう",
-  "romaji": "",
+  "romaji": "kyoudou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerjasama, asosiasi, kolaborasi, bersama",
@@ -14753,7 +14753,7 @@ export const vocabN3 = [
  {
   "word": "住民",
   "reading": "じゅうみん",
-  "romaji": "",
+  "romaji": "juumin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "warga negara, penduduk, penduduk, populasi",
@@ -14764,7 +14764,7 @@ export const vocabN3 = [
  {
   "word": "街",
   "reading": "まち",
-  "romaji": "",
+  "romaji": "machi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) kota, (2) jalan, jalan raya",
@@ -14775,7 +14775,7 @@ export const vocabN3 = [
  {
   "word": "感覚",
   "reading": "かんかく",
-  "romaji": "",
+  "romaji": "kankaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rasa, sensasi",
@@ -14786,7 +14786,7 @@ export const vocabN3 = [
  {
   "word": "居眠り",
   "reading": "いねむり",
-  "romaji": "",
+  "romaji": "inemuri",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tertidur, tertidur",
@@ -14797,7 +14797,7 @@ export const vocabN3 = [
  {
   "word": "緊張",
   "reading": "きんちょう",
-  "romaji": "",
+  "romaji": "kinchou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ketegangan, ketegangan mental, kegelisahan",
@@ -14808,7 +14808,7 @@ export const vocabN3 = [
  {
   "word": "物音",
   "reading": "ものおと",
-  "romaji": "",
+  "romaji": "monooto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terdengar",
@@ -14819,7 +14819,7 @@ export const vocabN3 = [
  {
   "word": "変化",
   "reading": "へんか",
-  "romaji": "",
+  "romaji": "henka",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "goblin, hantu, penampakan, bugbear",
@@ -14830,7 +14830,7 @@ export const vocabN3 = [
  {
   "word": "節",
   "reading": "ふし",
-  "romaji": "",
+  "romaji": "fushi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nada, nada, simpul, kenop, titik",
@@ -14841,7 +14841,7 @@ export const vocabN3 = [
  {
   "word": "検討",
   "reading": "けんとう",
-  "romaji": "",
+  "romaji": "kentou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertimbangan, pemeriksaan, penyelidikan, pengkajian, penyelidikan",
@@ -14852,7 +14852,7 @@ export const vocabN3 = [
  {
   "word": "合わせる",
   "reading": "あわせる",
-  "romaji": "",
+  "romaji": "awaseru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bergabung bersama, menjadi berlawanan, untuk menghadapi, untuk bersatu",
@@ -14863,7 +14863,7 @@ export const vocabN3 = [
  {
   "word": "別に",
   "reading": "べつに",
-  "romaji": "",
+  "romaji": "betsuni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(tidak) khususnya, tidak ada",
@@ -14874,7 +14874,7 @@ export const vocabN3 = [
  {
   "word": "財産",
   "reading": "ざいさん",
-  "romaji": "",
+  "romaji": "zaisan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "properti, kekayaan, aset",
@@ -14885,7 +14885,7 @@ export const vocabN3 = [
  {
   "word": "飛ばす",
   "reading": "とばす",
-  "romaji": "",
+  "romaji": "tobasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melewatkan, untuk menghilangkan",
@@ -14896,7 +14896,7 @@ export const vocabN3 = [
  {
   "word": "炎",
   "reading": "ほのお",
-  "romaji": "",
+  "romaji": "honoo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "api",
@@ -14907,7 +14907,7 @@ export const vocabN3 = [
  {
   "word": "発展",
   "reading": "はってん",
-  "romaji": "",
+  "romaji": "hatten",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perkembangan, pertumbuhan",
@@ -14918,7 +14918,7 @@ export const vocabN3 = [
  {
   "word": "越える",
   "reading": "こえる",
-  "romaji": "",
+  "romaji": "koeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melampaui, untuk menyeberang, untuk menyeberang",
@@ -14929,7 +14929,7 @@ export const vocabN3 = [
  {
   "word": "不安",
   "reading": "ふあん",
-  "romaji": "",
+  "romaji": "fuan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecemasan, kegelisahan, ketidakamanan, ketegangan",
@@ -14940,7 +14940,7 @@ export const vocabN3 = [
  {
   "word": "抜ける",
   "reading": "ぬける",
-  "romaji": "",
+  "romaji": "nukeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk keluar, rontok, dihilangkan",
@@ -14951,7 +14951,7 @@ export const vocabN3 = [
  {
   "word": "下さる",
   "reading": "くださる",
-  "romaji": "",
+  "romaji": "kudasaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(hon) untuk memberi, untuk berunding",
@@ -14962,7 +14962,7 @@ export const vocabN3 = [
  {
   "word": "減る",
   "reading": "へる",
-  "romaji": "",
+  "romaji": "heru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengurangi (dalam ukuran atau jumlah), untuk mengurangi, untuk mereda",
@@ -14973,7 +14973,7 @@ export const vocabN3 = [
  {
   "word": "粉",
   "reading": "こな",
-  "romaji": "",
+  "romaji": "kona",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tepung, tepung, bubuk",
@@ -14984,7 +14984,7 @@ export const vocabN3 = [
  {
   "word": "ごめんなさい",
   "reading": "ごめんなさい",
-  "romaji": "",
+  "romaji": "gomennasai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Saya mohon maaf, permisi",
@@ -14995,7 +14995,7 @@ export const vocabN3 = [
  {
   "word": "ピン",
   "reading": "ぴん",
-  "romaji": "",
+  "romaji": "pin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pin",
@@ -15006,7 +15006,7 @@ export const vocabN3 = [
  {
   "word": "必ずしも",
   "reading": "かならずしも",
-  "romaji": "",
+  "romaji": "kanarazushimo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(tidak) selalu, (tidak) harus, (tidak) semua, (tidak) seluruhnya",
@@ -15017,7 +15017,7 @@ export const vocabN3 = [
  {
   "word": "左右",
   "reading": "さゆう",
-  "romaji": "",
+  "romaji": "sayuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) kiri dan kanan, (2) pengaruh, kendali, dominasi",
@@ -15028,7 +15028,7 @@ export const vocabN3 = [
  {
   "word": "速度",
   "reading": "そくど",
-  "romaji": "",
+  "romaji": "sokudo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecepatan, kecepatan, laju",
@@ -15039,7 +15039,7 @@ export const vocabN3 = [
  {
   "word": "印",
   "reading": "しるし",
-  "romaji": "",
+  "romaji": "shirushi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) tanda, (2) lambang, (3) bukti",
@@ -15050,7 +15050,7 @@ export const vocabN3 = [
  {
   "word": "移動",
   "reading": "いどう",
-  "romaji": "",
+  "romaji": "idou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemindahan, migrasi, perpindahan",
@@ -15061,7 +15061,7 @@ export const vocabN3 = [
  {
   "word": "友",
   "reading": "とも",
-  "romaji": "",
+  "romaji": "tomo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teman, sahabat, sahabat",
@@ -15072,7 +15072,7 @@ export const vocabN3 = [
  {
   "word": "命",
   "reading": "いのち",
-  "romaji": "",
+  "romaji": "inochi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perintah, keputusan, kehidupan, takdir",
@@ -15094,7 +15094,7 @@ export const vocabN3 = [
  {
   "word": "黒板",
   "reading": "こくばん",
-  "romaji": "",
+  "romaji": "kokuban",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "papan tulis",
@@ -15105,7 +15105,7 @@ export const vocabN3 = [
  {
   "word": "著者",
   "reading": "ちょしゃ",
-  "romaji": "",
+  "romaji": "chosha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penulis, penulis",
@@ -15116,7 +15116,7 @@ export const vocabN3 = [
  {
   "word": "審判",
   "reading": "しんぱん",
-  "romaji": "",
+  "romaji": "shinpan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "wasit, percobaan, penilaian, wasit, wasit",
@@ -15127,7 +15127,7 @@ export const vocabN3 = [
  {
   "word": "休暇",
   "reading": "きゅうか",
-  "romaji": "",
+  "romaji": "kyuuka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hari libur, hari libur, cuti",
@@ -15138,7 +15138,7 @@ export const vocabN3 = [
  {
   "word": "増す",
   "reading": "ます",
-  "romaji": "",
+  "romaji": "masu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk meningkat, untuk tumbuh",
@@ -15149,7 +15149,7 @@ export const vocabN3 = [
  {
   "word": "共に",
   "reading": "ともに",
-  "romaji": "",
+  "romaji": "tomoni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berbagi dengan, berpartisipasi dalam",
@@ -15160,7 +15160,7 @@ export const vocabN3 = [
  {
   "word": "少々",
   "reading": "しょうしょう",
-  "romaji": "",
+  "romaji": "shoushou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tunggu sebentar, dalam jumlah kecil",
@@ -15171,7 +15171,7 @@ export const vocabN3 = [
  {
   "word": "苦痛",
   "reading": "くつう",
-  "romaji": "",
+  "romaji": "kutsuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rasa sakit, penderitaan",
@@ -15182,7 +15182,7 @@ export const vocabN3 = [
  {
   "word": "免許",
   "reading": "めんきょ",
-  "romaji": "",
+  "romaji": "menkyo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "lisensi, izin, lisensi, sertifikat",
@@ -15193,7 +15193,7 @@ export const vocabN3 = [
  {
   "word": "受け取る",
   "reading": "うけとる",
-  "romaji": "",
+  "romaji": "uketoru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menerima, mendapatkan, menerima, mengambil",
@@ -15204,7 +15204,7 @@ export const vocabN3 = [
  {
   "word": "収める",
   "reading": "おさめる",
-  "romaji": "",
+  "romaji": "osameru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memperoleh, menuai, membayar, memasok, menerima",
@@ -15215,7 +15215,7 @@ export const vocabN3 = [
  {
   "word": "依頼",
   "reading": "いらい",
-  "romaji": "",
+  "romaji": "irai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) permintaan, komisi, pengiriman, (2) ketergantungan, kepercayaan",
@@ -15226,7 +15226,7 @@ export const vocabN3 = [
  {
   "word": "完了",
   "reading": "かんりょう",
-  "romaji": "",
+  "romaji": "kanryou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyelesaian, kesimpulan",
@@ -15237,7 +15237,7 @@ export const vocabN3 = [
  {
   "word": "鼠",
   "reading": "ねずみ",
-  "romaji": "",
+  "romaji": "nezumi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) tikus, tikus, (2) abu-abu tua, warna batu tulis",
@@ -15248,7 +15248,7 @@ export const vocabN3 = [
  {
   "word": "上達",
   "reading": "じょうたつ",
-  "romaji": "",
+  "romaji": "joutatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perbaikan, kemajuan, kemajuan",
@@ -15259,7 +15259,7 @@ export const vocabN3 = [
  {
   "word": "考慮",
   "reading": "こうりょ",
-  "romaji": "",
+  "romaji": "kouryo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertimbangan, dengan mempertimbangkan",
@@ -15270,7 +15270,7 @@ export const vocabN3 = [
  {
   "word": "酔う",
   "reading": "よう",
-  "romaji": "",
+  "romaji": "you",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mabuk, mabuk",
@@ -15281,7 +15281,7 @@ export const vocabN3 = [
  {
   "word": "その",
   "reading": "その",
-  "romaji": "",
+  "romaji": "sono",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "itu, itu",
@@ -15292,7 +15292,7 @@ export const vocabN3 = [
  {
   "word": "あいにく",
   "reading": "あいにく",
-  "romaji": "",
+  "romaji": "ainiku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sayangnya, Maaf, tapi....",
@@ -15303,7 +15303,7 @@ export const vocabN3 = [
  {
   "word": "近代",
   "reading": "きんだい",
-  "romaji": "",
+  "romaji": "kindai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hari ini",
@@ -15314,7 +15314,7 @@ export const vocabN3 = [
  {
   "word": "許可",
   "reading": "きょか",
-  "romaji": "",
+  "romaji": "kyoka",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "izin, persetujuan",
@@ -15325,7 +15325,7 @@ export const vocabN3 = [
  {
   "word": "解ける",
   "reading": "とける",
-  "romaji": "",
+  "romaji": "tokeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melepaskan ikatan, untuk melepaskan diri",
@@ -15336,7 +15336,7 @@ export const vocabN3 = [
  {
   "word": "活用",
   "reading": "かつよう",
-  "romaji": "",
+  "romaji": "katsuyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konjugasi, penggunaan praktis",
@@ -15347,7 +15347,7 @@ export const vocabN3 = [
  {
   "word": "実",
   "reading": "み",
-  "romaji": "",
+  "romaji": "mi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buah,kacang,biji,isi,hasil bagus",
@@ -15358,7 +15358,7 @@ export const vocabN3 = [
  {
   "word": "睡眠",
   "reading": "すいみん",
-  "romaji": "",
+  "romaji": "suimin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tidur",
@@ -15369,7 +15369,7 @@ export const vocabN3 = [
  {
   "word": "労働",
   "reading": "ろうどう",
-  "romaji": "",
+  "romaji": "roudou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerja manual, kerja keras, kerja",
@@ -15380,7 +15380,7 @@ export const vocabN3 = [
  {
   "word": "巣",
   "reading": "す",
-  "romaji": "",
+  "romaji": "su",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sarang, heboh, tempat berkembang biak, sarang lebah, sarang laba-laba",
@@ -15391,7 +15391,7 @@ export const vocabN3 = [
  {
   "word": "トランプ",
   "reading": "とらんぷ",
-  "romaji": "",
+  "romaji": "toranpu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bermain kartu (lit: truf)",
@@ -15402,7 +15402,7 @@ export const vocabN3 = [
  {
   "word": "マスター",
   "reading": "ますたー",
-  "romaji": "",
+  "romaji": "masuta",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemilik, manajer, pemilik bar, master (misalnya seni, sains)",
@@ -15413,7 +15413,7 @@ export const vocabN3 = [
  {
   "word": "直に",
   "reading": "じかに",
-  "romaji": "",
+  "romaji": "jikani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "segera, dengan mudah, secara langsung",
@@ -15424,7 +15424,7 @@ export const vocabN3 = [
  {
   "word": "出席",
   "reading": "しゅっせき",
-  "romaji": "",
+  "romaji": "shusseki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kehadiran, kehadiran",
@@ -15435,7 +15435,7 @@ export const vocabN3 = [
  {
   "word": "匂い",
   "reading": "におい",
-  "romaji": "",
+  "romaji": "nioi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bau, aroma, bau, bau busuk",
@@ -15446,7 +15446,7 @@ export const vocabN3 = [
  {
   "word": "離す",
   "reading": "はなす",
-  "romaji": "",
+  "romaji": "hanasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berpisah, membagi, memisahkan",
@@ -15457,7 +15457,7 @@ export const vocabN3 = [
  {
   "word": "大半",
   "reading": "たいはん",
-  "romaji": "",
+  "romaji": "taihan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mayoritas, sebagian besar, umumnya",
@@ -15468,7 +15468,7 @@ export const vocabN3 = [
  {
   "word": "単語",
   "reading": "たんご",
-  "romaji": "",
+  "romaji": "tango",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kata, kosakata, (biasanya) kata berkarakter tunggal",
@@ -15479,7 +15479,7 @@ export const vocabN3 = [
  {
   "word": "一度に",
   "reading": "いちどに",
-  "romaji": "",
+  "romaji": "ichidoni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekaligus",
@@ -15490,7 +15490,7 @@ export const vocabN3 = [
  {
   "word": "わざと",
   "reading": "わざと",
-  "romaji": "",
+  "romaji": "wazato",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan sengaja",
@@ -15501,7 +15501,7 @@ export const vocabN3 = [
  {
   "word": "余分",
   "reading": "よぶん",
-  "romaji": "",
+  "romaji": "yobun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ekstra, kelebihan, kelebihan",
@@ -15512,7 +15512,7 @@ export const vocabN3 = [
  {
   "word": "地方",
   "reading": "ちほう",
-  "romaji": "",
+  "romaji": "chihou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "daerah, lokalitas, distrik, wilayah, pantai",
@@ -15523,7 +15523,7 @@ export const vocabN3 = [
  {
   "word": "呼吸",
   "reading": "こきゅう",
-  "romaji": "",
+  "romaji": "kokyuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "nafas, pernafasan",
@@ -15534,7 +15534,7 @@ export const vocabN3 = [
  {
   "word": "高速",
   "reading": "こうそく",
-  "romaji": "",
+  "romaji": "kousoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecepatan tinggi, gigi tinggi",
@@ -15545,7 +15545,7 @@ export const vocabN3 = [
  {
   "word": "礼",
   "reading": "れい",
-  "romaji": "",
+  "romaji": "rei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ungkapan rasa terima kasih",
@@ -15556,7 +15556,7 @@ export const vocabN3 = [
  {
   "word": "まあ",
   "reading": "まあ",
-  "romaji": "",
+  "romaji": "maa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(perempuan) mungkin Anda berkata",
@@ -15567,7 +15567,7 @@ export const vocabN3 = [
  {
   "word": "普段",
   "reading": "ふだん",
-  "romaji": "",
+  "romaji": "fudan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biasanya, biasanya, biasanya, selalu",
@@ -15578,7 +15578,7 @@ export const vocabN3 = [
  {
   "word": "格好",
   "reading": "かっこう",
-  "romaji": "",
+  "romaji": "kakkou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bentuk, bentuk, postur, kesesuaian",
@@ -15589,7 +15589,7 @@ export const vocabN3 = [
  {
   "word": "永遠",
   "reading": "えいえん",
-  "romaji": "",
+  "romaji": "eien",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keabadian, keabadian, keabadian, kekekalan",
@@ -15600,7 +15600,7 @@ export const vocabN3 = [
  {
   "word": "頂上",
   "reading": "ちょうじょう",
-  "romaji": "",
+  "romaji": "choujou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "puncak, puncak, puncak",
@@ -15611,7 +15611,7 @@ export const vocabN3 = [
  {
   "word": "握手",
   "reading": "あくしゅ",
-  "romaji": "",
+  "romaji": "akushu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jabat tangan",
@@ -15622,7 +15622,7 @@ export const vocabN3 = [
  {
   "word": "今に",
   "reading": "いまに",
-  "romaji": "",
+  "romaji": "imani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tak lama lagi, bahkan sekarang",
@@ -15633,7 +15633,7 @@ export const vocabN3 = [
  {
   "word": "女王",
   "reading": "じょおう",
-  "romaji": "",
+  "romaji": "joou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ratu",
@@ -15644,7 +15644,7 @@ export const vocabN3 = [
  {
   "word": "下す",
   "reading": "おろす",
-  "romaji": "",
+  "romaji": "orosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menurunkan, untuk melepaskan",
@@ -15655,7 +15655,7 @@ export const vocabN3 = [
  {
   "word": "夜",
   "reading": "よ",
-  "romaji": "",
+  "romaji": "yo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sore, malam",
@@ -15666,7 +15666,7 @@ export const vocabN3 = [
  {
   "word": "コンピューター",
   "reading": "こんぴゅーたー",
-  "romaji": "",
+  "romaji": "konpyuta",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "komputer",
@@ -15677,7 +15677,7 @@ export const vocabN3 = [
  {
   "word": "背",
   "reading": "せい",
-  "romaji": "",
+  "romaji": "sei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tinggi, perawakan",
@@ -15688,7 +15688,7 @@ export const vocabN3 = [
  {
   "word": "平等",
   "reading": "びょうどう",
-  "romaji": "",
+  "romaji": "byoudou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesetaraan (a), ketidakberpihakan, pemerataan",
@@ -15699,7 +15699,7 @@ export const vocabN3 = [
  {
   "word": "感謝",
   "reading": "かんしゃ",
-  "romaji": "",
+  "romaji": "kansha",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "terima kasih, terima kasih",
@@ -15710,7 +15710,7 @@ export const vocabN3 = [
  {
   "word": "部分",
   "reading": "ぶぶん",
-  "romaji": "",
+  "romaji": "bubun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "porsi, bagian, bagian",
@@ -15721,7 +15721,7 @@ export const vocabN3 = [
  {
   "word": "性格",
   "reading": "せいかく",
-  "romaji": "",
+  "romaji": "seikaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "karakter, kepribadian",
@@ -15732,7 +15732,7 @@ export const vocabN3 = [
  {
   "word": "劇",
   "reading": "げき",
-  "romaji": "",
+  "romaji": "geki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "drama, bermain",
@@ -15743,7 +15743,7 @@ export const vocabN3 = [
  {
   "word": "被害",
   "reading": "ひがい",
-  "romaji": "",
+  "romaji": "higai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerusakan",
@@ -15754,7 +15754,7 @@ export const vocabN3 = [
  {
   "word": "瞬間",
   "reading": "しゅんかん",
-  "romaji": "",
+  "romaji": "shunkan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "momen, detik, instan",
@@ -15765,7 +15765,7 @@ export const vocabN3 = [
  {
   "word": "ミルク",
   "reading": "みるく",
-  "romaji": "",
+  "romaji": "miruku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "susu",
@@ -15776,7 +15776,7 @@ export const vocabN3 = [
  {
   "word": "哲学",
   "reading": "てつがく",
-  "romaji": "",
+  "romaji": "tetsugaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "filsafat",
@@ -15787,7 +15787,7 @@ export const vocabN3 = [
  {
   "word": "かもしれない",
   "reading": "かもしれない",
-  "romaji": "",
+  "romaji": "kamoshirenai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mungkin, mungkin, mungkin, mungkin, mungkin",
@@ -15798,7 +15798,7 @@ export const vocabN3 = [
  {
   "word": "訪問",
   "reading": "ほうもん",
-  "romaji": "",
+  "romaji": "houmon",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "telepon, kunjungi",
@@ -15809,7 +15809,7 @@ export const vocabN3 = [
  {
   "word": "会合",
   "reading": "かいごう",
-  "romaji": "",
+  "romaji": "kaigou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertemuan, perakitan",
@@ -15820,7 +15820,7 @@ export const vocabN3 = [
  {
   "word": "おそらく",
   "reading": "おそらく",
-  "romaji": "",
+  "romaji": "osoraku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mungkin",
@@ -15831,7 +15831,7 @@ export const vocabN3 = [
  {
   "word": "針",
   "reading": "はり",
-  "romaji": "",
+  "romaji": "hari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jarum, tangan (misalnya jam)",
@@ -15842,7 +15842,7 @@ export const vocabN3 = [
  {
   "word": "招待",
   "reading": "しょうたい",
-  "romaji": "",
+  "romaji": "shoutai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "undangan",
@@ -15853,7 +15853,7 @@ export const vocabN3 = [
  {
   "word": "数字",
   "reading": "すうじ",
-  "romaji": "",
+  "romaji": "suuji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "angka, gambar",
@@ -15864,7 +15864,7 @@ export const vocabN3 = [
  {
   "word": "数",
   "reading": "かず",
-  "romaji": "",
+  "romaji": "kazu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nomor, gambar",
@@ -15875,7 +15875,7 @@ export const vocabN3 = [
  {
   "word": "元",
   "reading": "もと",
-  "romaji": "",
+  "romaji": "moto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) asal,asli,(2) bekas",
@@ -15886,7 +15886,7 @@ export const vocabN3 = [
  {
   "word": "行儀",
   "reading": "ぎょうぎ",
-  "romaji": "",
+  "romaji": "gyougi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tata krama",
@@ -15897,7 +15897,7 @@ export const vocabN3 = [
  {
   "word": "署名",
   "reading": "しょめい",
-  "romaji": "",
+  "romaji": "shomei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tanda tangan",
@@ -15908,7 +15908,7 @@ export const vocabN3 = [
  {
   "word": "微笑む",
   "reading": "ほほえむ",
-  "romaji": "",
+  "romaji": "hohoemu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk tersenyum",
@@ -15919,7 +15919,7 @@ export const vocabN3 = [
  {
   "word": "中止",
   "reading": "ちゅうし",
-  "romaji": "",
+  "romaji": "chuushi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penangguhan, penghentian, penghentian, interupsi",
@@ -15930,7 +15930,7 @@ export const vocabN3 = [
  {
   "word": "向く",
   "reading": "むく",
-  "romaji": "",
+  "romaji": "muku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menghadapi",
@@ -15941,7 +15941,7 @@ export const vocabN3 = [
  {
   "word": "幼い",
   "reading": "おさない",
-  "romaji": "",
+  "romaji": "osanai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "sangat muda, kekanak-kanakan",
@@ -15952,7 +15952,7 @@ export const vocabN3 = [
  {
   "word": "沖",
   "reading": "おき",
-  "romaji": "",
+  "romaji": "oki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "laut terbuka",
@@ -15963,7 +15963,7 @@ export const vocabN3 = [
  {
   "word": "観察",
   "reading": "かんさつ",
-  "romaji": "",
+  "romaji": "kansatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "observasi, survei",
@@ -15974,7 +15974,7 @@ export const vocabN3 = [
  {
   "word": "バイオリン",
   "reading": "ばいおりん",
-  "romaji": "",
+  "romaji": "baiorin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biola",
@@ -15985,7 +15985,7 @@ export const vocabN3 = [
  {
   "word": "最中",
   "reading": "さいちゅう",
-  "romaji": "",
+  "romaji": "saichuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di tengah",
@@ -15996,7 +15996,7 @@ export const vocabN3 = [
  {
   "word": "成長",
   "reading": "せいちょう",
-  "romaji": "",
+  "romaji": "seichou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertumbuhan, tumbuh hingga dewasa",
@@ -16007,7 +16007,7 @@ export const vocabN3 = [
  {
   "word": "集中",
   "reading": "しゅうちゅう",
-  "romaji": "",
+  "romaji": "shuuchuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konsentrasi, memfokuskan pikiran",
@@ -16018,7 +16018,7 @@ export const vocabN3 = [
  {
   "word": "切れる",
   "reading": "きれる",
-  "romaji": "",
+  "romaji": "kireru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) memotong dengan baik, tajam, (2) mematahkan (memotong)",
@@ -16029,7 +16029,7 @@ export const vocabN3 = [
  {
   "word": "企業",
   "reading": "きぎょう",
-  "romaji": "",
+  "romaji": "kigyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perusahaan, usaha",
@@ -16040,7 +16040,7 @@ export const vocabN3 = [
  {
   "word": "すなわち",
   "reading": "すなわち",
-  "romaji": "",
+  "romaji": "sunawachi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "yaitu, yaitu, yaitu.",
@@ -16051,7 +16051,7 @@ export const vocabN3 = [
  {
   "word": "明確",
   "reading": "めいかく",
-  "romaji": "",
+  "romaji": "meikaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menjernihkan, memperjelas, mendefinisikan",
@@ -16062,7 +16062,7 @@ export const vocabN3 = [
  {
   "word": "機能",
   "reading": "きのう",
-  "romaji": "",
+  "romaji": "kinou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "fungsi, fakultas",
@@ -16073,7 +16073,7 @@ export const vocabN3 = [
  {
   "word": "句",
   "reading": "く",
-  "romaji": "",
+  "romaji": "ku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kalimat",
@@ -16084,7 +16084,7 @@ export const vocabN3 = [
  {
   "word": "十",
   "reading": "じゅう",
-  "romaji": "",
+  "romaji": "juu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "10,sepuluh",
@@ -16095,7 +16095,7 @@ export const vocabN3 = [
  {
   "word": "様",
   "reading": "よう",
-  "romaji": "",
+  "romaji": "you",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cara, cara, baik hati",
@@ -16106,7 +16106,7 @@ export const vocabN3 = [
  {
   "word": "確かめる",
   "reading": "たしかめる",
-  "romaji": "",
+  "romaji": "tashikameru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memastikan",
@@ -16117,7 +16117,7 @@ export const vocabN3 = [
  {
   "word": "請求",
   "reading": "せいきゅう",
-  "romaji": "",
+  "romaji": "seikyuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "klaim, permintaan, permohonan, permintaan",
@@ -16128,7 +16128,7 @@ export const vocabN3 = [
  {
   "word": "笛",
   "reading": "ふえ",
-  "romaji": "",
+  "romaji": "fue",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seruling, pipa",
@@ -16139,7 +16139,7 @@ export const vocabN3 = [
  {
   "word": "けち",
   "reading": "けち",
-  "romaji": "",
+  "romaji": "kechi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekikiran, kikir, kikir",
@@ -16150,7 +16150,7 @@ export const vocabN3 = [
  {
   "word": "しばしば",
   "reading": "しばしば",
-  "romaji": "",
+  "romaji": "shibashiba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sering, lagi dan lagi, sering",
@@ -16161,7 +16161,7 @@ export const vocabN3 = [
  {
   "word": "道徳",
   "reading": "どうとく",
-  "romaji": "",
+  "romaji": "doutoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "moral",
@@ -16172,7 +16172,7 @@ export const vocabN3 = [
  {
   "word": "権利",
   "reading": "けんり",
-  "romaji": "",
+  "romaji": "kenri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benar, hak istimewa",
@@ -16183,7 +16183,7 @@ export const vocabN3 = [
  {
   "word": "話し合う",
   "reading": "はなしあう",
-  "romaji": "",
+  "romaji": "hanashiau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berdiskusi, untuk berbicara bersama",
@@ -16194,7 +16194,7 @@ export const vocabN3 = [
  {
   "word": "発達",
   "reading": "はったつ",
-  "romaji": "",
+  "romaji": "hattatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perkembangan, pertumbuhan",
@@ -16205,7 +16205,7 @@ export const vocabN3 = [
  {
   "word": "症状",
   "reading": "しょうじょう",
-  "romaji": "",
+  "romaji": "shoujou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gejala, kondisi",
@@ -16216,7 +16216,7 @@ export const vocabN3 = [
  {
   "word": "金属",
   "reading": "きんぞく",
-  "romaji": "",
+  "romaji": "kinzoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "logam",
@@ -16227,7 +16227,7 @@ export const vocabN3 = [
  {
   "word": "同様",
   "reading": "どうよう",
-  "romaji": "",
+  "romaji": "douyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "identik, sama dengan, sama (jenis), serupa",
@@ -16238,7 +16238,7 @@ export const vocabN3 = [
  {
   "word": "残す",
   "reading": "のこす",
-  "romaji": "",
+  "romaji": "nokosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk meninggalkan (di belakang, di atas), untuk mewariskan, untuk menyimpan, untuk memesan",
@@ -16249,7 +16249,7 @@ export const vocabN3 = [
  {
   "word": "詰める",
   "reading": "つめる",
-  "romaji": "",
+  "romaji": "tsumeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berkemas, untuk mempersingkat, untuk berolahraga (detail)",
@@ -16260,7 +16260,7 @@ export const vocabN3 = [
  {
   "word": "製造",
   "reading": "せいぞう",
-  "romaji": "",
+  "romaji": "seizou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "manufaktur, produksi",
@@ -16271,7 +16271,7 @@ export const vocabN3 = [
  {
   "word": "破る",
   "reading": "やぶる",
-  "romaji": "",
+  "romaji": "yaburu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "merobek, melanggar, mengalahkan, menghancurkan, menghancurkan",
@@ -16282,7 +16282,7 @@ export const vocabN3 = [
  {
   "word": "正直",
   "reading": "しょうじき",
-  "romaji": "",
+  "romaji": "shoujiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kejujuran, integritas, kejujuran",
@@ -16293,7 +16293,7 @@ export const vocabN3 = [
  {
   "word": "論争",
   "reading": "ろんそう",
-  "romaji": "",
+  "romaji": "ronsou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontroversi, perselisihan",
@@ -16304,7 +16304,7 @@ export const vocabN3 = [
  {
   "word": "灯",
   "reading": "ひ",
-  "romaji": "",
+  "romaji": "hi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lampu",
@@ -16315,7 +16315,7 @@ export const vocabN3 = [
  {
   "word": "不自由",
   "reading": "ふじゆう",
-  "romaji": "",
+  "romaji": "fujiyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketidaknyamanan, kecacatan, ketidaknyamanan, kemiskinan",
@@ -16326,7 +16326,7 @@ export const vocabN3 = [
  {
   "word": "地位",
   "reading": "ちい",
-  "romaji": "",
+  "romaji": "chii",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "posisi (sosial), status",
@@ -16337,7 +16337,7 @@ export const vocabN3 = [
  {
   "word": "毒",
   "reading": "どく",
-  "romaji": "",
+  "romaji": "doku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "racun, racun",
@@ -16348,7 +16348,7 @@ export const vocabN3 = [
  {
   "word": "提出",
   "reading": "ていしゅつ",
-  "romaji": "",
+  "romaji": "teishutsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "presentasi, penyerahan, pengarsipan",
@@ -16359,7 +16359,7 @@ export const vocabN3 = [
  {
   "word": "当てる",
   "reading": "あてる",
-  "romaji": "",
+  "romaji": "ateru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memukul, untuk menerapkan tambalan",
@@ -16370,7 +16370,7 @@ export const vocabN3 = [
  {
   "word": "ハイキング",
   "reading": "はいきんぐ",
-  "romaji": "",
+  "romaji": "haikingu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "lintas alam",
@@ -16381,7 +16381,7 @@ export const vocabN3 = [
  {
   "word": "外",
   "reading": "ほか",
-  "romaji": "",
+  "romaji": "hoka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tempat lain, sisanya",
@@ -16392,7 +16392,7 @@ export const vocabN3 = [
  {
   "word": "隠す",
   "reading": "かくす",
-  "romaji": "",
+  "romaji": "kakusu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyembunyikan, untuk menyembunyikan",
@@ -16403,7 +16403,7 @@ export const vocabN3 = [
  {
   "word": "氏",
   "reading": "し",
-  "romaji": "",
+  "romaji": "shi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nama keluarga, garis keturunan, kelahiran",
@@ -16414,7 +16414,7 @@ export const vocabN3 = [
  {
   "word": "鋭い",
   "reading": "するどい",
-  "romaji": "",
+  "romaji": "surudoi",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "runcing, tajam",
@@ -16425,7 +16425,7 @@ export const vocabN3 = [
  {
   "word": "学",
   "reading": "がく",
-  "romaji": "",
+  "romaji": "gaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pembelajaran, beasiswa, pengetahuan, pengetahuan",
@@ -16436,7 +16436,7 @@ export const vocabN3 = [
  {
   "word": "構成",
   "reading": "こうせい",
-  "romaji": "",
+  "romaji": "kousei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "organisasi, komposisi",
@@ -16447,7 +16447,7 @@ export const vocabN3 = [
  {
   "word": "欠陥",
   "reading": "けっかん",
-  "romaji": "",
+  "romaji": "kekkan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cacat, kesalahan, kekurangan",
@@ -16458,7 +16458,7 @@ export const vocabN3 = [
  {
   "word": "分",
   "reading": "ぶ",
-  "romaji": "",
+  "romaji": "bu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "membagi, bagian",
@@ -16469,7 +16469,7 @@ export const vocabN3 = [
  {
   "word": "努力",
   "reading": "どりょく",
-  "romaji": "",
+  "romaji": "doryoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "usaha besar, pengerahan tenaga, usaha keras, usaha",
@@ -16480,7 +16480,7 @@ export const vocabN3 = [
  {
   "word": "食事",
   "reading": "しょくじ",
-  "romaji": "",
+  "romaji": "shokuji",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "makanan",
@@ -16491,7 +16491,7 @@ export const vocabN3 = [
  {
   "word": "使用",
   "reading": "しよう",
-  "romaji": "",
+  "romaji": "shiyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penggunaan, aplikasi, pekerjaan, pemanfaatan",
@@ -16502,7 +16502,7 @@ export const vocabN3 = [
  {
   "word": "宿泊",
   "reading": "しゅくはく",
-  "romaji": "",
+  "romaji": "shukuhaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penginapan",
@@ -16513,7 +16513,7 @@ export const vocabN3 = [
  {
   "word": "勘定",
   "reading": "かんじょう",
-  "romaji": "",
+  "romaji": "kanjou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perhitungan, penghitungan, pertimbangan",
@@ -16524,7 +16524,7 @@ export const vocabN3 = [
  {
   "word": "サイン",
   "reading": "さいん",
-  "romaji": "",
+  "romaji": "sain",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) tanda tangan,(2) tanda tangan,(3) sinus",
@@ -16535,7 +16535,7 @@ export const vocabN3 = [
  {
   "word": "分野",
   "reading": "ぶんや",
-  "romaji": "",
+  "romaji": "bunya",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bidang, bola, alam, divisi, cabang",
@@ -16546,7 +16546,7 @@ export const vocabN3 = [
  {
   "word": "好み",
   "reading": "このみ",
-  "romaji": "",
+  "romaji": "konomi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesukaan, rasa, pilihan",
@@ -16557,7 +16557,7 @@ export const vocabN3 = [
  {
   "word": "整理",
   "reading": "せいり",
-  "romaji": "",
+  "romaji": "seiri",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyortiran, penataan, penyesuaian, pengaturan",
@@ -16568,7 +16568,7 @@ export const vocabN3 = [
  {
   "word": "酒",
   "reading": "さけ",
-  "romaji": "",
+  "romaji": "sake",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "alkohol, demi",
@@ -16579,7 +16579,7 @@ export const vocabN3 = [
  {
   "word": "広がる",
   "reading": "ひろがる",
-  "romaji": "",
+  "romaji": "hirogaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyebarkan (keluar), untuk memperluas, untuk meregangkan, untuk mencapai, untuk berkeliling",
@@ -16590,7 +16590,7 @@ export const vocabN3 = [
  {
   "word": "学問",
   "reading": "がくもん",
-  "romaji": "",
+  "romaji": "gakumon",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "beasiswa, belajar, belajar",
@@ -16601,7 +16601,7 @@ export const vocabN3 = [
  {
   "word": "曇",
   "reading": "くもり",
-  "romaji": "",
+  "romaji": "kumori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keadaan mendung, cuaca mendung, bayangan",
@@ -16612,7 +16612,7 @@ export const vocabN3 = [
  {
   "word": "無駄",
   "reading": "むだ",
-  "romaji": "",
+  "romaji": "muda",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesia-siaan, ketidakbergunaan",
@@ -16623,7 +16623,7 @@ export const vocabN3 = [
  {
   "word": "大陸",
   "reading": "たいりく",
-  "romaji": "",
+  "romaji": "tairiku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benua",
@@ -16634,7 +16634,7 @@ export const vocabN3 = [
  {
   "word": "灰",
   "reading": "はい",
-  "romaji": "",
+  "romaji": "hai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "abu",
@@ -16645,7 +16645,7 @@ export const vocabN3 = [
  {
   "word": "真面目",
   "reading": "まじめ",
-  "romaji": "",
+  "romaji": "majime",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rajin, serius, jujur",
@@ -16656,7 +16656,7 @@ export const vocabN3 = [
  {
   "word": "大いに",
   "reading": "おおいに",
-  "romaji": "",
+  "romaji": "ooini",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sangat, sangat, sangat",
@@ -16667,7 +16667,7 @@ export const vocabN3 = [
  {
   "word": "鎖",
   "reading": "くさり",
-  "romaji": "",
+  "romaji": "kusari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rantai",
@@ -16678,7 +16678,7 @@ export const vocabN3 = [
  {
   "word": "真っ直ぐ",
   "reading": "まっすぐ",
-  "romaji": "",
+  "romaji": "massugu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lurus (depan), lurus, tegak",
@@ -16689,7 +16689,7 @@ export const vocabN3 = [
  {
   "word": "身",
   "reading": "み",
-  "romaji": "",
+  "romaji": "mi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tubuh, bagian utama, diri sendiri, pedang",
@@ -16700,7 +16700,7 @@ export const vocabN3 = [
  {
   "word": "不思議",
   "reading": "ふしぎ",
-  "romaji": "",
+  "romaji": "fushigi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "misteri, rasa ingin tahu",
@@ -16711,7 +16711,7 @@ export const vocabN3 = [
  {
   "word": "国民",
   "reading": "こくみん",
-  "romaji": "",
+  "romaji": "kokumin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nasional, rakyat, warga negara",
@@ -16722,7 +16722,7 @@ export const vocabN3 = [
  {
   "word": "勘",
   "reading": "かん",
-  "romaji": "",
+  "romaji": "kan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persepsi, intuisi, indra keenam",
@@ -16733,7 +16733,7 @@ export const vocabN3 = [
  {
   "word": "計る",
   "reading": "はかる",
-  "romaji": "",
+  "romaji": "hakaru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengukur, menimbang, mensurvei",
@@ -16744,7 +16744,7 @@ export const vocabN3 = [
  {
   "word": "テント",
   "reading": "てんと",
-  "romaji": "",
+  "romaji": "tento",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tenda",
@@ -16755,7 +16755,7 @@ export const vocabN3 = [
  {
   "word": "主要",
   "reading": "しゅよう",
-  "romaji": "",
+  "romaji": "shuyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketua, utama, kepala sekolah, mayor",
@@ -16766,7 +16766,7 @@ export const vocabN3 = [
  {
   "word": "典型",
   "reading": "てんけい",
-  "romaji": "",
+  "romaji": "tenkei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jenis, pola, pola dasar",
@@ -16777,7 +16777,7 @@ export const vocabN3 = [
  {
   "word": "袋",
   "reading": "ふくろ",
-  "romaji": "",
+  "romaji": "fukuro",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tas, karung",
@@ -16799,7 +16799,7 @@ export const vocabN3 = [
  {
   "word": "秘密",
   "reading": "ひみつ",
-  "romaji": "",
+  "romaji": "himitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rahasia, kerahasiaan",
@@ -16810,7 +16810,7 @@ export const vocabN3 = [
  {
   "word": "苦しむ",
   "reading": "くるしむ",
-  "romaji": "",
+  "romaji": "kurushimu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menderita, mengerang, khawatir",
@@ -16821,7 +16821,7 @@ export const vocabN3 = [
  {
   "word": "物事",
   "reading": "ものごと",
-  "romaji": "",
+  "romaji": "monogoto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "banyak hal, segalanya",
@@ -16832,7 +16832,7 @@ export const vocabN3 = [
  {
   "word": "要求",
   "reading": "ようきゅう",
-  "romaji": "",
+  "romaji": "youkyuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "permintaan, permintaan, permintaan",
@@ -16843,7 +16843,7 @@ export const vocabN3 = [
  {
   "word": "同時",
   "reading": "どうじ",
-  "romaji": "",
+  "romaji": "douji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "simultan(ly), bersamaan, waktu yang sama, sinkron",
@@ -16854,7 +16854,7 @@ export const vocabN3 = [
  {
   "word": "時刻",
   "reading": "じこく",
-  "romaji": "",
+  "romaji": "jikoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seketika, waktu, momen",
@@ -16865,7 +16865,7 @@ export const vocabN3 = [
  {
   "word": "悩む",
   "reading": "なやむ",
-  "romaji": "",
+  "romaji": "nayamu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi khawatir, menjadi bermasalah",
@@ -16876,7 +16876,7 @@ export const vocabN3 = [
  {
   "word": "食料",
   "reading": "しょくりょう",
-  "romaji": "",
+  "romaji": "shokuryou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makanan",
@@ -16887,7 +16887,7 @@ export const vocabN3 = [
  {
   "word": "疑う",
   "reading": "うたがう",
-  "romaji": "",
+  "romaji": "utagau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "ragu, tidak percaya, curiga, curiga",
@@ -16898,7 +16898,7 @@ export const vocabN3 = [
  {
   "word": "大会",
   "reading": "たいかい",
-  "romaji": "",
+  "romaji": "taikai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "konvensi, turnamen, pertemuan massal, rapat umum",
@@ -16909,7 +16909,7 @@ export const vocabN3 = [
  {
   "word": "ところが",
   "reading": "ところが",
-  "romaji": "",
+  "romaji": "tokoroga",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Namun, meskipun demikian",
@@ -16920,7 +16920,7 @@ export const vocabN3 = [
  {
   "word": "理想",
   "reading": "りそう",
-  "romaji": "",
+  "romaji": "risou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ideal",
@@ -16931,7 +16931,7 @@ export const vocabN3 = [
  {
   "word": "意志",
   "reading": "いし",
-  "romaji": "",
+  "romaji": "ishi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kemauan, kemauan",
@@ -16942,7 +16942,7 @@ export const vocabN3 = [
  {
   "word": "罪",
   "reading": "つみ",
-  "romaji": "",
+  "romaji": "tsumi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kejahatan, kesalahan, kecerobohan",
@@ -16953,7 +16953,7 @@ export const vocabN3 = [
  {
   "word": "要素",
   "reading": "ようそ",
-  "romaji": "",
+  "romaji": "youso",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "elemen",
@@ -16964,7 +16964,7 @@ export const vocabN3 = [
  {
   "word": "現す",
   "reading": "あらわす",
-  "romaji": "",
+  "romaji": "arawasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menunjukkan, untuk menunjukkan, untuk menampilkan",
@@ -16975,7 +16975,7 @@ export const vocabN3 = [
  {
   "word": "奨学金",
   "reading": "しょうがくきん",
-  "romaji": "",
+  "romaji": "shougakukin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "beasiswa",
@@ -16986,7 +16986,7 @@ export const vocabN3 = [
  {
   "word": "時期",
   "reading": "じき",
-  "romaji": "",
+  "romaji": "jiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "waktu, musim, periode",
@@ -16997,7 +16997,7 @@ export const vocabN3 = [
  {
   "word": "愉快",
   "reading": "ゆかい",
-  "romaji": "",
+  "romaji": "yukai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menyenangkan, bahagia",
@@ -17008,7 +17008,7 @@ export const vocabN3 = [
  {
   "word": "回復",
   "reading": "かいふく",
-  "romaji": "",
+  "romaji": "kaifuku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemulihan (dari penyakit),perbaikan,rehabilitasi,restorasi",
@@ -17019,7 +17019,7 @@ export const vocabN3 = [
  {
   "word": "慎重",
   "reading": "しんちょう",
-  "romaji": "",
+  "romaji": "shinchou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebijaksanaan, kehati-hatian",
@@ -17030,7 +17030,7 @@ export const vocabN3 = [
  {
   "word": "信用",
   "reading": "しんよう",
-  "romaji": "",
+  "romaji": "shinyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kepercayaan diri, ketergantungan, kredit, iman",
@@ -17041,7 +17041,7 @@ export const vocabN3 = [
  {
   "word": "出身",
   "reading": "しゅっしん",
-  "romaji": "",
+  "romaji": "shusshin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lulus dari, berasal dari",
@@ -17052,7 +17052,7 @@ export const vocabN3 = [
  {
   "word": "救う",
   "reading": "すくう",
-  "romaji": "",
+  "romaji": "sukuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyelamatkan, untuk membantu",
@@ -17063,7 +17063,7 @@ export const vocabN3 = [
  {
   "word": "金曜",
   "reading": "きんよう",
-  "romaji": "",
+  "romaji": "kinyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(abbr) Jumat",
@@ -17074,7 +17074,7 @@ export const vocabN3 = [
  {
   "word": "贅沢",
   "reading": "ぜいたく",
-  "romaji": "",
+  "romaji": "zeitaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kemewahan, pemborosan",
@@ -17085,7 +17085,7 @@ export const vocabN3 = [
  {
   "word": "入学",
   "reading": "にゅうがく",
-  "romaji": "",
+  "romaji": "nyuugaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "masuk ke sekolah atau universitas, matrikulasi",
@@ -17096,7 +17096,7 @@ export const vocabN3 = [
  {
   "word": "袖",
   "reading": "そで",
-  "romaji": "",
+  "romaji": "sode",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lengan baju",
@@ -17107,7 +17107,7 @@ export const vocabN3 = [
  {
   "word": "皿",
   "reading": "さら",
-  "romaji": "",
+  "romaji": "sara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "piring, piring",
@@ -17118,7 +17118,7 @@ export const vocabN3 = [
  {
   "word": "貴重",
   "reading": "きちょう",
-  "romaji": "",
+  "romaji": "kichou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berharga, berharga",
@@ -17129,7 +17129,7 @@ export const vocabN3 = [
  {
   "word": "判断",
   "reading": "はんだん",
-  "romaji": "",
+  "romaji": "handan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penilaian, keputusan",
@@ -17140,7 +17140,7 @@ export const vocabN3 = [
  {
   "word": "成績",
   "reading": "せいせき",
-  "romaji": "",
+  "romaji": "seiseki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hasil, catat",
@@ -17151,7 +17151,7 @@ export const vocabN3 = [
  {
   "word": "神",
   "reading": "かみ",
-  "romaji": "",
+  "romaji": "kami",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Tuhan",
@@ -17162,7 +17162,7 @@ export const vocabN3 = [
  {
   "word": "実に",
   "reading": "じつに",
-  "romaji": "",
+  "romaji": "jitsuni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "memang, sungguh, pasti",
@@ -17173,7 +17173,7 @@ export const vocabN3 = [
  {
   "word": "埃",
   "reading": "ほこり",
-  "romaji": "",
+  "romaji": "hokori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "debu",
@@ -17184,7 +17184,7 @@ export const vocabN3 = [
  {
   "word": "奇妙",
   "reading": "きみょう",
-  "romaji": "",
+  "romaji": "kimyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aneh, aneh, penasaran",
@@ -17195,7 +17195,7 @@ export const vocabN3 = [
  {
   "word": "嵐",
   "reading": "あらし",
-  "romaji": "",
+  "romaji": "arashi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "badai, prahara",
@@ -17206,7 +17206,7 @@ export const vocabN3 = [
  {
   "word": "能",
   "reading": "のう",
-  "romaji": "",
+  "romaji": "nou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terampil dalam, dengan baik, dengan benar",
@@ -17217,7 +17217,7 @@ export const vocabN3 = [
  {
   "word": "到着",
   "reading": "とうちゃく",
-  "romaji": "",
+  "romaji": "touchaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kedatangan",
@@ -17228,7 +17228,7 @@ export const vocabN3 = [
  {
   "word": "既に",
   "reading": "すでに",
-  "romaji": "",
+  "romaji": "sudeni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sudah terlambat",
@@ -17239,7 +17239,7 @@ export const vocabN3 = [
  {
   "word": "異常",
   "reading": "いじょう",
-  "romaji": "",
+  "romaji": "ijou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keanehan, kelainan, kelainan",
@@ -17250,7 +17250,7 @@ export const vocabN3 = [
  {
   "word": "畑",
   "reading": "はたけ",
-  "romaji": "",
+  "romaji": "hatake",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bidang",
@@ -17261,7 +17261,7 @@ export const vocabN3 = [
  {
   "word": "都市",
   "reading": "とし",
-  "romaji": "",
+  "romaji": "toshi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kota, kota, kotamadya, perkotaan",
@@ -17272,7 +17272,7 @@ export const vocabN3 = [
  {
   "word": "無",
   "reading": "ぶ",
-  "romaji": "",
+  "romaji": "bu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak ada, tidak ada, nihil, nol",
@@ -17283,7 +17283,7 @@ export const vocabN3 = [
  {
   "word": "提案",
   "reading": "ていあん",
-  "romaji": "",
+  "romaji": "teian",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "usulan, proposisi, saran",
@@ -17294,7 +17294,7 @@ export const vocabN3 = [
  {
   "word": "延期",
   "reading": "えんき",
-  "romaji": "",
+  "romaji": "enki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penundaan, penundaan",
@@ -17305,7 +17305,7 @@ export const vocabN3 = [
  {
   "word": "互い",
   "reading": "たがい",
-  "romaji": "",
+  "romaji": "tagai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saling, timbal balik",
@@ -17316,7 +17316,7 @@ export const vocabN3 = [
  {
   "word": "設備",
   "reading": "せつび",
-  "romaji": "",
+  "romaji": "setsubi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "peralatan, perangkat, fasilitas, instalasi",
@@ -17327,7 +17327,7 @@ export const vocabN3 = [
  {
   "word": "解釈",
   "reading": "かいしゃく",
-  "romaji": "",
+  "romaji": "kaishaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penjelasan, interpretasi",
@@ -17338,7 +17338,7 @@ export const vocabN3 = [
  {
   "word": "外出",
   "reading": "がいしゅつ",
-  "romaji": "",
+  "romaji": "gaishutsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jalan-jalan, keluar",
@@ -17349,7 +17349,7 @@ export const vocabN3 = [
  {
   "word": "よると",
   "reading": "よると",
-  "romaji": "",
+  "romaji": "yoruto",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menurut",
@@ -17360,7 +17360,7 @@ export const vocabN3 = [
  {
   "word": "大部分",
   "reading": "だいぶぶん",
-  "romaji": "",
+  "romaji": "daibubun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebagian besar, sebagian besar, mayoritas",
@@ -17371,7 +17371,7 @@ export const vocabN3 = [
  {
   "word": "際",
   "reading": "さい",
-  "romaji": "",
+  "romaji": "sai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pada kesempatan, keadaan",
@@ -17382,7 +17382,7 @@ export const vocabN3 = [
  {
   "word": "予測",
   "reading": "よそく",
-  "romaji": "",
+  "romaji": "yosoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "prediksi, estimasi",
@@ -17393,7 +17393,7 @@ export const vocabN3 = [
  {
   "word": "人物",
   "reading": "じんぶつ",
-  "romaji": "",
+  "romaji": "jinbutsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "karakter, kepribadian, orang, pria, tokoh, pria berbakat",
@@ -17404,7 +17404,7 @@ export const vocabN3 = [
  {
   "word": "湾",
   "reading": "わん",
-  "romaji": "",
+  "romaji": "wan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teluk, teluk, saluran masuk",
@@ -17415,7 +17415,7 @@ export const vocabN3 = [
  {
   "word": "週間",
   "reading": "しゅうかん",
-  "romaji": "",
+  "romaji": "shuukan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "minggu, mingguan",
@@ -17426,7 +17426,7 @@ export const vocabN3 = [
  {
   "word": "多分",
   "reading": "たぶん",
-  "romaji": "",
+  "romaji": "tabun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mungkin, mungkin",
@@ -17437,7 +17437,7 @@ export const vocabN3 = [
  {
   "word": "徐々に",
   "reading": "じょじょに",
-  "romaji": "",
+  "romaji": "jojoni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perlahan, sedikit demi sedikit, bertahap, mantap, diam-diam",
@@ -17448,7 +17448,7 @@ export const vocabN3 = [
  {
   "word": "謎",
   "reading": "なぞ",
-  "romaji": "",
+  "romaji": "nazo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teka-teki, teka-teki, teka-teki",
@@ -17459,7 +17459,7 @@ export const vocabN3 = [
  {
   "word": "親友",
   "reading": "しんゆう",
-  "romaji": "",
+  "romaji": "shinyuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teman dekat, sobat",
@@ -17470,7 +17470,7 @@ export const vocabN3 = [
  {
   "word": "支給",
   "reading": "しきゅう",
-  "romaji": "",
+  "romaji": "shikyuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pembayaran, tunjangan",
@@ -17481,7 +17481,7 @@ export const vocabN3 = [
  {
   "word": "住宅",
   "reading": "じゅうたく",
-  "romaji": "",
+  "romaji": "juutaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penduduk, perumahan",
@@ -17492,7 +17492,7 @@ export const vocabN3 = [
  {
   "word": "図",
   "reading": "ず",
-  "romaji": "",
+  "romaji": "zu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gambar (misalnya Gambar 1), gambar, gambar, ilustrasi",
@@ -17503,7 +17503,7 @@ export const vocabN3 = [
  {
   "word": "見送り",
   "reading": "みおくり",
-  "romaji": "",
+  "romaji": "miokuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mengantar satu, perpisahan, pendamping",
@@ -17514,7 +17514,7 @@ export const vocabN3 = [
  {
   "word": "上京",
   "reading": "じょうきょう",
-  "romaji": "",
+  "romaji": "joukyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "melanjutkan ke ibukota (Tokyo)",
@@ -17525,7 +17525,7 @@ export const vocabN3 = [
  {
   "word": "さて",
   "reading": "さて",
-  "romaji": "",
+  "romaji": "sate",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baiklah, sekarang, kalau begitu",
@@ -17536,7 +17536,7 @@ export const vocabN3 = [
  {
   "word": "たとえ",
   "reading": "たとえ",
-  "romaji": "",
+  "romaji": "tatoe",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perumpamaan, metafora, alegori",
@@ -17547,7 +17547,7 @@ export const vocabN3 = [
  {
   "word": "ぴったり",
   "reading": "ぴったり",
-  "romaji": "",
+  "romaji": "pittari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persis, rapi, tajam",
@@ -17558,7 +17558,7 @@ export const vocabN3 = [
  {
   "word": "商人",
   "reading": "しょうにん",
-  "romaji": "",
+  "romaji": "shounin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pedagang, penjaga toko, pedagang",
@@ -17569,7 +17569,7 @@ export const vocabN3 = [
  {
   "word": "魅力",
   "reading": "みりょく",
-  "romaji": "",
+  "romaji": "miryoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pesona, daya tarik, glamor",
@@ -17580,7 +17580,7 @@ export const vocabN3 = [
  {
   "word": "退屈",
   "reading": "たいくつ",
-  "romaji": "",
+  "romaji": "taikutsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kebosanan, kebosanan",
@@ -17591,7 +17591,7 @@ export const vocabN3 = [
  {
   "word": "否定",
   "reading": "ひてい",
-  "romaji": "",
+  "romaji": "hitei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "negasi, penolakan, penolakan",
@@ -17602,7 +17602,7 @@ export const vocabN3 = [
  {
   "word": "父親",
   "reading": "ちちおや",
-  "romaji": "",
+  "romaji": "chichioya",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ayah",
@@ -17613,7 +17613,7 @@ export const vocabN3 = [
  {
   "word": "命令",
   "reading": "めいれい",
-  "romaji": "",
+  "romaji": "meirei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perintah, perintah, keputusan, arahan, instruksi (perangkat lunak).",
@@ -17624,7 +17624,7 @@ export const vocabN3 = [
  {
   "word": "理解",
   "reading": "りかい",
-  "romaji": "",
+  "romaji": "rikai",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemahaman, pemahaman",
@@ -17635,7 +17635,7 @@ export const vocabN3 = [
  {
   "word": "どんな",
   "reading": "どんな",
-  "romaji": "",
+  "romaji": "donna",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "apa, jenis apa",
@@ -17646,7 +17646,7 @@ export const vocabN3 = [
  {
   "word": "独立",
   "reading": "どくりつ",
-  "romaji": "",
+  "romaji": "dokuritsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kemerdekaan (misalnya Hari Ind.), swasembada",
@@ -17657,7 +17657,7 @@ export const vocabN3 = [
  {
   "word": "痛み",
   "reading": "いたみ",
-  "romaji": "",
+  "romaji": "itami",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sakit, sakit, perih, duka, kesusahan",
@@ -17668,7 +17668,7 @@ export const vocabN3 = [
  {
   "word": "一生",
   "reading": "いっしょう",
-  "romaji": "",
+  "romaji": "isshou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seumur hidup, seumur hidup, sepanjang hidup",
@@ -17679,7 +17679,7 @@ export const vocabN3 = [
  {
   "word": "予防",
   "reading": "よぼう",
-  "romaji": "",
+  "romaji": "yobou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pencegahan, pencegahan, perlindungan terhadap",
@@ -17690,7 +17690,7 @@ export const vocabN3 = [
  {
   "word": "会員",
   "reading": "かいいん",
-  "romaji": "",
+  "romaji": "kaiin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggota, keanggotaan",
@@ -17701,7 +17701,7 @@ export const vocabN3 = [
  {
   "word": "器用",
   "reading": "きよう",
-  "romaji": "",
+  "romaji": "kiyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terampil, berguna",
@@ -17712,7 +17712,7 @@ export const vocabN3 = [
  {
   "word": "満ちる",
   "reading": "みちる",
-  "romaji": "",
+  "romaji": "michiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi penuh,meningkat (pasang),menjadi matang,kedaluwarsa",
@@ -17723,7 +17723,7 @@ export const vocabN3 = [
  {
   "word": "職",
   "reading": "しょく",
-  "romaji": "",
+  "romaji": "shoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekerjaan",
@@ -17734,7 +17734,7 @@ export const vocabN3 = [
  {
   "word": "差別",
   "reading": "さべつ",
-  "romaji": "",
+  "romaji": "sabetsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "diskriminasi, pembedaan, diferensiasi",
@@ -17745,7 +17745,7 @@ export const vocabN3 = [
  {
   "word": "行き",
   "reading": "いき",
-  "romaji": "",
+  "romaji": "iki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "pergi",
@@ -17756,7 +17756,7 @@ export const vocabN3 = [
  {
   "word": "証明",
   "reading": "しょうめい",
-  "romaji": "",
+  "romaji": "shoumei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bukti, verifikasi",
@@ -17767,7 +17767,7 @@ export const vocabN3 = [
  {
   "word": "にっこり",
   "reading": "にっこり",
-  "romaji": "",
+  "romaji": "nikkori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tersenyum manis, tersenyum, nyengir",
@@ -17778,7 +17778,7 @@ export const vocabN3 = [
  {
   "word": "体育",
   "reading": "たいいく",
-  "romaji": "",
+  "romaji": "taiiku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pendidikan jasmani,senam,atletik",
@@ -17789,7 +17789,7 @@ export const vocabN3 = [
  {
   "word": "失望",
   "reading": "しつぼう",
-  "romaji": "",
+  "romaji": "shitsubou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kekecewaan, keputusasaan",
@@ -17800,7 +17800,7 @@ export const vocabN3 = [
  {
   "word": "貯金",
   "reading": "ちょきん",
-  "romaji": "",
+  "romaji": "chokin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(bank) tabungan",
@@ -17811,7 +17811,7 @@ export const vocabN3 = [
  {
   "word": "気に入る",
   "reading": "きにいる",
-  "romaji": "",
+  "romaji": "kiniiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk disenangi, untuk disesuaikan",
@@ -17822,7 +17822,7 @@ export const vocabN3 = [
  {
   "word": "暗記",
   "reading": "あんき",
-  "romaji": "",
+  "romaji": "anki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menghafal, belajar dengan hati",
@@ -17833,7 +17833,7 @@ export const vocabN3 = [
  {
   "word": "夫人",
   "reading": "ふじん",
-  "romaji": "",
+  "romaji": "fujin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "istri, Nyonya, Nyonya",
@@ -17844,7 +17844,7 @@ export const vocabN3 = [
  {
   "word": "共通",
   "reading": "きょうつう",
-  "romaji": "",
+  "romaji": "kyoutsuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kesamaan, komunitas",
@@ -17855,7 +17855,7 @@ export const vocabN3 = [
  {
   "word": "新鮮",
   "reading": "しんせん",
-  "romaji": "",
+  "romaji": "shinsen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "segar",
@@ -17866,7 +17866,7 @@ export const vocabN3 = [
  {
   "word": "別れ",
   "reading": "わかれ",
-  "romaji": "",
+  "romaji": "wakare",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perpisahan, perpisahan, perpisahan",
@@ -17877,7 +17877,7 @@ export const vocabN3 = [
  {
   "word": "思想",
   "reading": "しそう",
-  "romaji": "",
+  "romaji": "shisou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pikiran, ide",
@@ -17888,7 +17888,7 @@ export const vocabN3 = [
  {
   "word": "或",
   "reading": "ある",
-  "romaji": "",
+  "romaji": "aru",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tertentu...,beberapa...",
@@ -17899,7 +17899,7 @@ export const vocabN3 = [
  {
   "word": "婦人",
   "reading": "ふじん",
-  "romaji": "",
+  "romaji": "fujin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wanita, perempuan",
@@ -17910,7 +17910,7 @@ export const vocabN3 = [
  {
   "word": "マイク",
   "reading": "まいく",
-  "romaji": "",
+  "romaji": "maiku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mikropon",
@@ -17921,7 +17921,7 @@ export const vocabN3 = [
  {
   "word": "博士",
   "reading": "はかせ",
-  "romaji": "",
+  "romaji": "hakase",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "doktor, PhD",
@@ -17932,7 +17932,7 @@ export const vocabN3 = [
  {
   "word": "はさみ",
   "reading": "はさみ",
-  "romaji": "",
+  "romaji": "hasami",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gunting",
@@ -17943,7 +17943,7 @@ export const vocabN3 = [
  {
   "word": "案",
   "reading": "あん",
-  "romaji": "",
+  "romaji": "an",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rencana, akhiran yang berarti rancangan",
@@ -17954,7 +17954,7 @@ export const vocabN3 = [
  {
   "word": "舌",
   "reading": "した",
-  "romaji": "",
+  "romaji": "shita",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lidah",
@@ -17965,7 +17965,7 @@ export const vocabN3 = [
  {
   "word": "人生",
   "reading": "じんせい",
-  "romaji": "",
+  "romaji": "jinsei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kehidupan (manusia) (yaitu pembuahan sampai kematian)",
@@ -17976,7 +17976,7 @@ export const vocabN3 = [
  {
   "word": "たっぷり",
   "reading": "たっぷり",
-  "romaji": "",
+  "romaji": "tappuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penuh, banyak, banyak",
@@ -17987,7 +17987,7 @@ export const vocabN3 = [
  {
   "word": "中古",
   "reading": "ちゅうこ",
-  "romaji": "",
+  "romaji": "chuuko",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) bekas, bekas, lama",
@@ -17998,7 +17998,7 @@ export const vocabN3 = [
  {
   "word": "条件",
   "reading": "じょうけん",
-  "romaji": "",
+  "romaji": "jouken",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "syarat, syarat",
@@ -18009,7 +18009,7 @@ export const vocabN3 = [
  {
   "word": "役割",
   "reading": "やくわり",
-  "romaji": "",
+  "romaji": "yakuwari",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bagian, menugaskan (menjatah) bagian, peran, tugas",
@@ -18020,7 +18020,7 @@ export const vocabN3 = [
  {
   "word": "びっくり",
   "reading": "びっくり",
-  "romaji": "",
+  "romaji": "bikkuri",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kaget, takjub, takut, takjub",
@@ -18031,7 +18031,7 @@ export const vocabN3 = [
  {
   "word": "油",
   "reading": "あぶら",
-  "romaji": "",
+  "romaji": "abura",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "minyak",
@@ -18042,7 +18042,7 @@ export const vocabN3 = [
  {
   "word": "メモ",
   "reading": "めも",
-  "romaji": "",
+  "romaji": "memo",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "nota",
@@ -18053,7 +18053,7 @@ export const vocabN3 = [
  {
   "word": "不利",
   "reading": "ふり",
-  "romaji": "",
+  "romaji": "furi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerugian, cacat, tidak menguntungkan, kelemahan",
@@ -18064,7 +18064,7 @@ export const vocabN3 = [
  {
   "word": "訳",
   "reading": "やく",
-  "romaji": "",
+  "romaji": "yaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makna, alasan, keadaan, dapat disimpulkan, situasi",
@@ -18075,7 +18075,7 @@ export const vocabN3 = [
  {
   "word": "いい",
   "reading": "いい",
-  "romaji": "",
+  "romaji": "ii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "Bagus",
@@ -18086,7 +18086,7 @@ export const vocabN3 = [
  {
   "word": "偶然",
   "reading": "ぐうぜん",
-  "romaji": "",
+  "romaji": "guuzen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(secara) kebetulan, tanpa diduga, tiba-tiba",
@@ -18097,7 +18097,7 @@ export const vocabN3 = [
  {
   "word": "芽",
   "reading": "め",
-  "romaji": "",
+  "romaji": "me",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tumbuh",
@@ -18108,7 +18108,7 @@ export const vocabN3 = [
  {
   "word": "不足",
   "reading": "ふそく",
-  "romaji": "",
+  "romaji": "fusoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ketidakcukupan, kekurangan, kekurangan, kekurangan, kelangkaan",
@@ -18119,7 +18119,7 @@ export const vocabN3 = [
  {
   "word": "グラス",
   "reading": "ぐらす",
-  "romaji": "",
+  "romaji": "gurasu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) gelas, (2) rumput",
@@ -18130,7 +18130,7 @@ export const vocabN3 = [
  {
   "word": "戦う",
   "reading": "たたかう",
-  "romaji": "",
+  "romaji": "tatakau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bertarung, bertarung, bertarung",
@@ -18141,7 +18141,7 @@ export const vocabN3 = [
  {
   "word": "方向",
   "reading": "ほうこう",
-  "romaji": "",
+  "romaji": "houkou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "arah, tentu saja, cara",
@@ -18152,7 +18152,7 @@ export const vocabN3 = [
  {
   "word": "強調",
   "reading": "きょうちょう",
-  "romaji": "",
+  "romaji": "kyouchou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penekanan, tekanan, titik yang ditekankan",
@@ -18163,7 +18163,7 @@ export const vocabN3 = [
  {
   "word": "自然",
   "reading": "しぜん",
-  "romaji": "",
+  "romaji": "shizen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "alam, spontan",
@@ -18174,7 +18174,7 @@ export const vocabN3 = [
  {
   "word": "ジュース",
   "reading": "じゅーす",
-  "romaji": "",
+  "romaji": "jusu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jus, minuman ringan, jus",
@@ -18185,7 +18185,7 @@ export const vocabN3 = [
  {
   "word": "記録",
   "reading": "きろく",
-  "romaji": "",
+  "romaji": "kiroku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "catatan, menit, dokumen",
@@ -18196,7 +18196,7 @@ export const vocabN3 = [
  {
   "word": "操作",
   "reading": "そうさ",
-  "romaji": "",
+  "romaji": "sousa",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "operasi, manajemen, pemrosesan",
@@ -18207,7 +18207,7 @@ export const vocabN3 = [
  {
   "word": "莫大",
   "reading": "ばくだい",
-  "romaji": "",
+  "romaji": "bakudai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sangat besar, luas",
@@ -18218,7 +18218,7 @@ export const vocabN3 = [
  {
   "word": "重大",
   "reading": "じゅうだい",
-  "romaji": "",
+  "romaji": "juudai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "serius, penting, serius, berbobot",
@@ -18229,7 +18229,7 @@ export const vocabN3 = [
  {
   "word": "株",
   "reading": "かぶ",
-  "romaji": "",
+  "romaji": "kabu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bagian, stok, tunggul (dari pohon)",
@@ -18240,7 +18240,7 @@ export const vocabN3 = [
  {
   "word": "無事",
   "reading": "ぶじ",
-  "romaji": "",
+  "romaji": "buji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keamanan, kedamaian, ketenangan",
@@ -18251,7 +18251,7 @@ export const vocabN3 = [
  {
   "word": "違反",
   "reading": "いはん",
-  "romaji": "",
+  "romaji": "ihan",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pelanggaran (hukum), pelanggaran, pelanggaran, pelanggaran",
@@ -18262,7 +18262,7 @@ export const vocabN3 = [
  {
   "word": "列",
   "reading": "れつ",
-  "romaji": "",
+  "romaji": "retsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "antrian, baris, baris",
@@ -18273,7 +18273,7 @@ export const vocabN3 = [
  {
   "word": "ベンチ",
   "reading": "べんち",
-  "romaji": "",
+  "romaji": "benchi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bangku",
@@ -18284,7 +18284,7 @@ export const vocabN3 = [
  {
   "word": "事",
   "reading": "こと",
-  "romaji": "",
+  "romaji": "koto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benda, materi, fakta, keadaan",
@@ -18295,7 +18295,7 @@ export const vocabN3 = [
  {
   "word": "残り",
   "reading": "のこり",
-  "romaji": "",
+  "romaji": "nokori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sisa, sisa, sisa, sisa",
@@ -18306,7 +18306,7 @@ export const vocabN3 = [
  {
   "word": "年月",
   "reading": "としつき",
-  "romaji": "",
+  "romaji": "toshitsuki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bulan dan tahun",
@@ -18317,7 +18317,7 @@ export const vocabN3 = [
  {
   "word": "怪我",
   "reading": "けが",
-  "romaji": "",
+  "romaji": "kega",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "cedera (untuk menghidupkan objek), sakit",
@@ -18328,7 +18328,7 @@ export const vocabN3 = [
  {
   "word": "議論",
   "reading": "ぎろん",
-  "romaji": "",
+  "romaji": "giron",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "argumen, diskusi, perselisihan",
@@ -18339,7 +18339,7 @@ export const vocabN3 = [
  {
   "word": "事態",
   "reading": "じたい",
-  "romaji": "",
+  "romaji": "jitai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "situasi, keadaan saat ini",
@@ -18350,7 +18350,7 @@ export const vocabN3 = [
  {
   "word": "缶",
   "reading": "かん",
-  "romaji": "",
+  "romaji": "kan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bisa, timah",
@@ -18361,7 +18361,7 @@ export const vocabN3 = [
  {
   "word": "粗末",
   "reading": "そまつ",
-  "romaji": "",
+  "romaji": "somatsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kasar, kasar, polos, rendah hati",
@@ -18372,7 +18372,7 @@ export const vocabN3 = [
  {
   "word": "組む",
   "reading": "くむ",
-  "romaji": "",
+  "romaji": "kumu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk disatukan",
@@ -18383,7 +18383,7 @@ export const vocabN3 = [
  {
   "word": "倒す",
   "reading": "たおす",
-  "romaji": "",
+  "romaji": "taosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menjatuhkan, untuk memukul, untuk menjatuhkan, untuk meledakkan",
@@ -18394,7 +18394,7 @@ export const vocabN3 = [
  {
   "word": "進学",
   "reading": "しんがく",
-  "romaji": "",
+  "romaji": "shingaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "melanjutkan ke universitas",
@@ -18405,7 +18405,7 @@ export const vocabN3 = [
  {
   "word": "加減",
   "reading": "かげん",
-  "romaji": "",
+  "romaji": "kagen",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penjumlahan dan pengurangan, penyisihan",
@@ -18416,7 +18416,7 @@ export const vocabN3 = [
  {
   "word": "前者",
   "reading": "ぜんしゃ",
-  "romaji": "",
+  "romaji": "zensha",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "yang pertama",
@@ -18427,7 +18427,7 @@ export const vocabN3 = [
  {
   "word": "主に",
   "reading": "おもに",
-  "romaji": "",
+  "romaji": "omoni",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terutama, terutama",
@@ -18438,7 +18438,7 @@ export const vocabN3 = [
  {
   "word": "就職",
   "reading": "しゅうしょく",
-  "romaji": "",
+  "romaji": "shuushoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mencari pekerjaan, pelantikan",
@@ -18449,7 +18449,7 @@ export const vocabN3 = [
  {
   "word": "覚ます",
   "reading": "さます",
-  "romaji": "",
+  "romaji": "samasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membangunkan",
@@ -18471,7 +18471,7 @@ export const vocabN3 = [
  {
   "word": "状態",
   "reading": "じょうたい",
-  "romaji": "",
+  "romaji": "joutai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kondisi, situasi, keadaan, keadaan",
@@ -18482,7 +18482,7 @@ export const vocabN3 = [
  {
   "word": "秒",
   "reading": "びょう",
-  "romaji": "",
+  "romaji": "byou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kedua (menit ke-60)",
@@ -18493,7 +18493,7 @@ export const vocabN3 = [
  {
   "word": "翼",
   "reading": "つばさ",
-  "romaji": "",
+  "romaji": "tsubasa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sayap",
@@ -18504,7 +18504,7 @@ export const vocabN3 = [
  {
   "word": "殺す",
   "reading": "ころす",
-  "romaji": "",
+  "romaji": "korosu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membunuh",
@@ -18515,7 +18515,7 @@ export const vocabN3 = [
  {
   "word": "馬鹿",
   "reading": "ばか",
-  "romaji": "",
+  "romaji": "baka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bodoh, idiot, hal sepele, kebodohan",
@@ -18526,7 +18526,7 @@ export const vocabN3 = [
  {
   "word": "裸",
   "reading": "はだか",
-  "romaji": "",
+  "romaji": "hadaka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "telanjang, telanjang",
@@ -18537,7 +18537,7 @@ export const vocabN3 = [
  {
   "word": "あんなに",
   "reading": "あんなに",
-  "romaji": "",
+  "romaji": "annani",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sejauh itu, sampai pada tingkat itu",
@@ -18548,7 +18548,7 @@ export const vocabN3 = [
  {
   "word": "県",
   "reading": "けん",
-  "romaji": "",
+  "romaji": "ken",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "prefektur",
@@ -18559,7 +18559,7 @@ export const vocabN3 = [
  {
   "word": "続き",
   "reading": "つづき",
-  "romaji": "",
+  "romaji": "tsuzuki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "lanjutan, lanjutan",
@@ -18570,7 +18570,7 @@ export const vocabN3 = [
  {
   "word": "題",
   "reading": "だい",
-  "romaji": "",
+  "romaji": "dai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "judul, pokok bahasan, tema, topik",
@@ -18581,7 +18581,7 @@ export const vocabN3 = [
  {
   "word": "一体",
   "reading": "いったい",
-  "romaji": "",
+  "romaji": "ittai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) satu benda, satu benda, (2) apa sebenarnya?, (3) secara umum",
@@ -18592,7 +18592,7 @@ export const vocabN3 = [
  {
   "word": "賞",
   "reading": "しょう",
-  "romaji": "",
+  "romaji": "shou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hadiah, penghargaan",
@@ -18603,7 +18603,7 @@ export const vocabN3 = [
  {
   "word": "ヨット",
   "reading": "よっと",
-  "romaji": "",
+  "romaji": "yotto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapal pesiar",
@@ -18614,7 +18614,7 @@ export const vocabN3 = [
  {
   "word": "最終",
   "reading": "さいしゅう",
-  "romaji": "",
+  "romaji": "saishuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terakhir, terakhir, penutup",
@@ -18625,7 +18625,7 @@ export const vocabN3 = [
  {
   "word": "ウイスキー",
   "reading": "ういすきー",
-  "romaji": "",
+  "romaji": "uisuki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wiski",
@@ -18636,7 +18636,7 @@ export const vocabN3 = [
  {
   "word": "誰か",
   "reading": "だれか",
-  "romaji": "",
+  "romaji": "dareka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seseorang, seseorang",
@@ -18647,7 +18647,7 @@ export const vocabN3 = [
  {
   "word": "借金",
   "reading": "しゃっきん",
-  "romaji": "",
+  "romaji": "shakkin",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "hutang, pinjaman, kewajiban",
@@ -18658,7 +18658,7 @@ export const vocabN3 = [
  {
   "word": "胃",
   "reading": "い",
-  "romaji": "",
+  "romaji": "i",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perut",
@@ -18669,7 +18669,7 @@ export const vocabN3 = [
  {
   "word": "積極的",
   "reading": "せっきょくてき",
-  "romaji": "",
+  "romaji": "sekkyokuteki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "positif, aktif, proaktif",
@@ -18680,7 +18680,7 @@ export const vocabN3 = [
  {
   "word": "装置",
   "reading": "そうち",
-  "romaji": "",
+  "romaji": "souchi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "peralatan, instalasi, peralatan",
@@ -18691,7 +18691,7 @@ export const vocabN3 = [
  {
   "word": "違いない",
   "reading": "ちがいない",
-  "romaji": "",
+  "romaji": "chigainai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(frasa) tentu, tidak salah lagi, pasti",
@@ -18702,7 +18702,7 @@ export const vocabN3 = [
  {
   "word": "州",
   "reading": "しゅう",
-  "romaji": "",
+  "romaji": "shuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "beting",
@@ -18713,7 +18713,7 @@ export const vocabN3 = [
  {
   "word": "肩",
   "reading": "かた",
-  "romaji": "",
+  "romaji": "kata",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahu",
@@ -18724,7 +18724,7 @@ export const vocabN3 = [
  {
   "word": "そっと",
   "reading": "そっと",
-  "romaji": "",
+  "romaji": "sotto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "muka bumi",
@@ -18735,7 +18735,7 @@ export const vocabN3 = [
  {
   "word": "為る",
   "reading": "する",
-  "romaji": "",
+  "romaji": "suru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berubah, untuk berguna, untuk mencapai",
@@ -18746,7 +18746,7 @@ export const vocabN3 = [
  {
   "word": "公平",
   "reading": "こうへい",
-  "romaji": "",
+  "romaji": "kouhei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keadilan, tidak memihak, keadilan",
@@ -18757,7 +18757,7 @@ export const vocabN3 = [
  {
   "word": "温度",
   "reading": "おんど",
-  "romaji": "",
+  "romaji": "ondo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suhu",
@@ -18768,7 +18768,7 @@ export const vocabN3 = [
  {
   "word": "稲",
   "reading": "いね",
-  "romaji": "",
+  "romaji": "ine",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tanaman padi",
@@ -18779,7 +18779,7 @@ export const vocabN3 = [
  {
   "word": "挨拶",
   "reading": "あいさつ",
-  "romaji": "",
+  "romaji": "aisatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "salam, salam",
@@ -18790,7 +18790,7 @@ export const vocabN3 = [
  {
   "word": "効果",
   "reading": "こうか",
-  "romaji": "",
+  "romaji": "kouka",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "efek, efektivitas, kemanjuran, hasil",
@@ -18801,7 +18801,7 @@ export const vocabN3 = [
  {
   "word": "瓶",
   "reading": "びん",
-  "romaji": "",
+  "romaji": "bin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "botol",
@@ -18812,7 +18812,7 @@ export const vocabN3 = [
  {
   "word": "留学",
   "reading": "りゅうがく",
-  "romaji": "",
+  "romaji": "ryuugaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "belajar di luar negeri",
@@ -18823,7 +18823,7 @@ export const vocabN3 = [
  {
   "word": "命じる",
   "reading": "めいじる",
-  "romaji": "",
+  "romaji": "meijiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memerintahkan, memerintah, menunjuk",
@@ -18834,7 +18834,7 @@ export const vocabN3 = [
  {
   "word": "頂く",
   "reading": "いただく",
-  "romaji": "",
+  "romaji": "itadaku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menerima, mengambil makanan atau minuman (bersenandung)",
@@ -18845,7 +18845,7 @@ export const vocabN3 = [
  {
   "word": "同僚",
   "reading": "どうりょう",
-  "romaji": "",
+  "romaji": "douryou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rekan kerja, kolega, rekan kerja",
@@ -18856,7 +18856,7 @@ export const vocabN3 = [
  {
   "word": "連想",
   "reading": "れんそう",
-  "romaji": "",
+  "romaji": "rensou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "asosiasi (ide), saran",
@@ -18867,7 +18867,7 @@ export const vocabN3 = [
  {
   "word": "攻撃",
   "reading": "こうげき",
-  "romaji": "",
+  "romaji": "kougeki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "serangan, pemogokan, ofensif, kritik, kecaman",
@@ -18878,7 +18878,7 @@ export const vocabN3 = [
  {
   "word": "是非",
   "reading": "ぜひ",
-  "romaji": "",
+  "romaji": "zehi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tentu saja, tanpa gagal",
@@ -18889,7 +18889,7 @@ export const vocabN3 = [
  {
   "word": "上等",
   "reading": "じょうとう",
-  "romaji": "",
+  "romaji": "joutou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keunggulan, kelas satu, sangat bagus",
@@ -18900,7 +18900,7 @@ export const vocabN3 = [
  {
   "word": "届く",
   "reading": "とどく",
-  "romaji": "",
+  "romaji": "todoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencapai",
@@ -18911,7 +18911,7 @@ export const vocabN3 = [
  {
   "word": "事件",
   "reading": "じけん",
-  "romaji": "",
+  "romaji": "jiken",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "peristiwa, perselingkuhan, insiden",
@@ -18922,7 +18922,7 @@ export const vocabN3 = [
  {
   "word": "そのまま",
   "reading": "そのまま",
-  "romaji": "",
+  "romaji": "sonomama",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tanpa perubahan, sebagaimana adanya (yaitu sekarang)",
@@ -18933,7 +18933,7 @@ export const vocabN3 = [
  {
   "word": "要点",
   "reading": "ようてん",
-  "romaji": "",
+  "romaji": "youten",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "intinya, poin utama",
@@ -18944,7 +18944,7 @@ export const vocabN3 = [
  {
   "word": "得意",
   "reading": "とくい",
-  "romaji": "",
+  "romaji": "tokui",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebanggaan, kemenangan, kemakmuran",
@@ -18955,7 +18955,7 @@ export const vocabN3 = [
  {
   "word": "王子",
   "reading": "おうじ",
-  "romaji": "",
+  "romaji": "ouji",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pangeran",
@@ -18966,7 +18966,7 @@ export const vocabN3 = [
  {
   "word": "凍る",
   "reading": "こおる",
-  "romaji": "",
+  "romaji": "kooru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membekukan, untuk dibekukan, untuk membekukan",
@@ -18977,7 +18977,7 @@ export const vocabN3 = [
  {
   "word": "単純",
   "reading": "たんじゅん",
-  "romaji": "",
+  "romaji": "tanjun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesederhanaan",
@@ -18988,7 +18988,7 @@ export const vocabN3 = [
  {
   "word": "衝突",
   "reading": "しょうとつ",
-  "romaji": "",
+  "romaji": "shoutotsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tabrakan, konflik",
@@ -18999,7 +18999,7 @@ export const vocabN3 = [
  {
   "word": "勇気",
   "reading": "ゆうき",
-  "romaji": "",
+  "romaji": "yuuki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keberanian, keberanian, keberanian, keberanian, keberanian",
@@ -19010,7 +19010,7 @@ export const vocabN3 = [
  {
   "word": "詳しい",
   "reading": "くわしい",
-  "romaji": "",
+  "romaji": "kuwashii",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "mengetahui dengan baik, detail, lengkap, akurat",
@@ -19021,7 +19021,7 @@ export const vocabN3 = [
  {
   "word": "スピーチ",
   "reading": "すぴーち",
-  "romaji": "",
+  "romaji": "supichi",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pidato",
@@ -19032,7 +19032,7 @@ export const vocabN3 = [
  {
   "word": "相続",
   "reading": "そうぞく",
-  "romaji": "",
+  "romaji": "souzoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "suksesi, warisan",
@@ -19043,7 +19043,7 @@ export const vocabN3 = [
  {
   "word": "選手",
   "reading": "せんしゅ",
-  "romaji": "",
+  "romaji": "senshu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pemain (dalam permainan), (2) tim",
@@ -19054,7 +19054,7 @@ export const vocabN3 = [
  {
   "word": "育つ",
   "reading": "そだつ",
-  "romaji": "",
+  "romaji": "sodatsu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membesarkan (anak), untuk dibesarkan, untuk tumbuh (tumbuh)",
@@ -19065,7 +19065,7 @@ export const vocabN3 = [
  {
   "word": "年間",
   "reading": "ねんかん",
-  "romaji": "",
+  "romaji": "nenkan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tahun",
@@ -19076,7 +19076,7 @@ export const vocabN3 = [
  {
   "word": "しきりに",
   "reading": "しきりに",
-  "romaji": "",
+  "romaji": "shikirini",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sering, berulang-ulang, tanpa henti, dengan penuh semangat",
@@ -19087,7 +19087,7 @@ export const vocabN3 = [
  {
   "word": "言う",
   "reading": "ゆう",
-  "romaji": "",
+  "romaji": "yuu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengatakan",
@@ -19098,7 +19098,7 @@ export const vocabN3 = [
  {
   "word": "冷静",
   "reading": "れいせい",
-  "romaji": "",
+  "romaji": "reisei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketenangan, ketentraman, kesejukan, ketentraman",
@@ -19109,7 +19109,7 @@ export const vocabN3 = [
  {
   "word": "組織",
   "reading": "そしき",
-  "romaji": "",
+  "romaji": "soshiki",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) organisasi, (2) struktur, konstruksi, (3) jaringan, (4) sistem",
@@ -19120,7 +19120,7 @@ export const vocabN3 = [
  {
   "word": "起こる",
   "reading": "おこる",
-  "romaji": "",
+  "romaji": "okoru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "terjadi, terjadi",
@@ -19131,7 +19131,7 @@ export const vocabN3 = [
  {
   "word": "犯罪",
   "reading": "はんざい",
-  "romaji": "",
+  "romaji": "hanzai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kejahatan",
@@ -19142,7 +19142,7 @@ export const vocabN3 = [
  {
   "word": "嫌う",
   "reading": "きらう",
-  "romaji": "",
+  "romaji": "kirau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "membenci, tidak menyukai, membenci",
@@ -19153,7 +19153,7 @@ export const vocabN3 = [
  {
   "word": "決定",
   "reading": "けってい",
-  "romaji": "",
+  "romaji": "kettei",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keputusan, tekad",
@@ -19164,7 +19164,7 @@ export const vocabN3 = [
  {
   "word": "放す",
   "reading": "はなす",
-  "romaji": "",
+  "romaji": "hanasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memisahkan, untuk membebaskan",
@@ -19186,7 +19186,7 @@ export const vocabN3 = [
  {
   "word": "扱う",
   "reading": "あつかう",
-  "romaji": "",
+  "romaji": "atsukau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menangani, untuk menangani, untuk mengobati",
@@ -19197,7 +19197,7 @@ export const vocabN3 = [
  {
   "word": "遅刻",
   "reading": "ちこく",
-  "romaji": "",
+  "romaji": "chikoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keterlambatan, datang terlambat",
@@ -19208,7 +19208,7 @@ export const vocabN3 = [
  {
   "word": "省く",
   "reading": "はぶく",
-  "romaji": "",
+  "romaji": "habuku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menghilangkan, menghilangkan, membatasi, menghemat",
@@ -19219,7 +19219,7 @@ export const vocabN3 = [
  {
   "word": "試す",
   "reading": "ためす",
-  "romaji": "",
+  "romaji": "tamesu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencoba, untuk menguji",
@@ -19230,7 +19230,7 @@ export const vocabN3 = [
  {
   "word": "霧",
   "reading": "きり",
-  "romaji": "",
+  "romaji": "kiri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kabut, kabut",
@@ -19241,7 +19241,7 @@ export const vocabN3 = [
  {
   "word": "ペンキ",
   "reading": "ぺんき",
-  "romaji": "",
+  "romaji": "penki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(n) cat (nl: pek)",
@@ -19252,7 +19252,7 @@ export const vocabN3 = [
  {
   "word": "手段",
   "reading": "しゅだん",
-  "romaji": "",
+  "romaji": "shudan",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "artinya, cara, mengukur",
@@ -19263,7 +19263,7 @@ export const vocabN3 = [
  {
   "word": "粗",
   "reading": "あら",
-  "romaji": "",
+  "romaji": "ara",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cacat, cacat, cacat, titik lemah",
@@ -19274,7 +19274,7 @@ export const vocabN3 = [
  {
   "word": "化学",
   "reading": "かがく",
-  "romaji": "",
+  "romaji": "kagaku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kimia",
@@ -19285,7 +19285,7 @@ export const vocabN3 = [
  {
   "word": "作曲",
   "reading": "さっきょく",
-  "romaji": "",
+  "romaji": "sakkyoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "komposisi, setting (musik)",
@@ -19296,7 +19296,7 @@ export const vocabN3 = [
  {
   "word": "貰う",
   "reading": "もらう",
-  "romaji": "",
+  "romaji": "morau",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menerima",
@@ -19307,7 +19307,7 @@ export const vocabN3 = [
  {
   "word": "現場",
   "reading": "げんば",
-  "romaji": "",
+  "romaji": "genba",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tempat sebenarnya, TKP, TKP",
@@ -19318,7 +19318,7 @@ export const vocabN3 = [
  {
   "word": "営業",
   "reading": "えいぎょう",
-  "romaji": "",
+  "romaji": "eigyou",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bisnis, perdagangan, manajemen",
@@ -19329,7 +19329,7 @@ export const vocabN3 = [
  {
   "word": "太陽",
   "reading": "たいよう",
-  "romaji": "",
+  "romaji": "taiyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "matahari, tenaga surya",
@@ -19340,7 +19340,7 @@ export const vocabN3 = [
  {
   "word": "一瞬",
   "reading": "いっしゅん",
-  "romaji": "",
+  "romaji": "isshun",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sesaat, sekejap",
@@ -19351,7 +19351,7 @@ export const vocabN3 = [
  {
   "word": "地域",
   "reading": "ちいき",
-  "romaji": "",
+  "romaji": "chiiki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "daerah, wilayah",
@@ -19362,7 +19362,7 @@ export const vocabN3 = [
  {
   "word": "種",
   "reading": "たね",
-  "romaji": "",
+  "romaji": "tane",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) benih, (2) bahan, (3) sebab, sumber",
@@ -19373,7 +19373,7 @@ export const vocabN3 = [
  {
   "word": "濡れる",
   "reading": "ぬれる",
-  "romaji": "",
+  "romaji": "nureru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi basah",
@@ -19384,7 +19384,7 @@ export const vocabN3 = [
  {
   "word": "臭い",
   "reading": "くさい",
-  "romaji": "",
+  "romaji": "kusai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "bau, aroma, bau, bau busuk",
@@ -19395,7 +19395,7 @@ export const vocabN3 = [
  {
   "word": "ボート",
   "reading": "ぼーと",
-  "romaji": "",
+  "romaji": "boto",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perahu dayung",
@@ -19406,7 +19406,7 @@ export const vocabN3 = [
  {
   "word": "医療",
   "reading": "いりょう",
-  "romaji": "",
+  "romaji": "iryou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perawatan medis, perawatan medis",
@@ -19417,7 +19417,7 @@ export const vocabN3 = [
  {
   "word": "夢中",
   "reading": "むちゅう",
-  "romaji": "",
+  "romaji": "muchuu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "linglung,(dalam) kesurupan, ekstasi, delirium, keasyikan",
@@ -19428,7 +19428,7 @@ export const vocabN3 = [
  {
   "word": "一人一人",
   "reading": "ひとりひとり",
-  "romaji": "",
+  "romaji": "hitorihitori",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "satu demi satu, masing-masing, satu demi satu",
@@ -19439,7 +19439,7 @@ export const vocabN3 = [
  {
   "word": "いただきます",
   "reading": "いただきます",
-  "romaji": "",
+  "romaji": "itadakimasu",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "ungkapan terima kasih sebelum makan",
@@ -19450,7 +19450,7 @@ export const vocabN3 = [
  {
   "word": "動詞",
   "reading": "どうし",
-  "romaji": "",
+  "romaji": "doushi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kata kerja",
@@ -19461,7 +19461,7 @@ export const vocabN3 = [
  {
   "word": "最高",
   "reading": "さいこう",
-  "romaji": "",
+  "romaji": "saikou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tertinggi, tertinggi, terbanyak",
@@ -19472,7 +19472,7 @@ export const vocabN3 = [
  {
   "word": "事実",
   "reading": "じじつ",
-  "romaji": "",
+  "romaji": "jijitsu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "fakta, kebenaran, kenyataan",
@@ -19483,7 +19483,7 @@ export const vocabN3 = [
  {
   "word": "手品",
   "reading": "てじな",
-  "romaji": "",
+  "romaji": "tejina",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "sulap, sulap, sulap, juggling",
@@ -19494,7 +19494,7 @@ export const vocabN3 = [
  {
   "word": "学期",
   "reading": "がっき",
-  "romaji": "",
+  "romaji": "gakki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jangka waktu (sekolah)",
@@ -19505,7 +19505,7 @@ export const vocabN3 = [
  {
   "word": "椅子",
   "reading": "いす",
-  "romaji": "",
+  "romaji": "isu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kursi",
@@ -19516,7 +19516,7 @@ export const vocabN3 = [
  {
   "word": "とんでもない",
   "reading": "とんでもない",
-  "romaji": "",
+  "romaji": "tondemonai",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak terduga, menyinggung, Kata-kata yang luar biasa!, Tidak mungkin!",
@@ -19527,7 +19527,7 @@ export const vocabN3 = [
  {
   "word": "頼る",
   "reading": "たよる",
-  "romaji": "",
+  "romaji": "tayoru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengandalkan, untuk meminta bantuan, untuk bergantung pada",
@@ -19538,7 +19538,7 @@ export const vocabN3 = [
  {
   "word": "そのうち",
   "reading": "そのうち",
-  "romaji": "",
+  "romaji": "sonouchi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pada akhirnya, cepat atau lambat, dari hal yang disebutkan sebelumnya",
@@ -19549,7 +19549,7 @@ export const vocabN3 = [
  {
   "word": "金持ち",
   "reading": "かねもち",
-  "romaji": "",
+  "romaji": "kanemochi",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang kaya",
@@ -19560,7 +19560,7 @@ export const vocabN3 = [
  {
   "word": "経験",
   "reading": "けいけん",
-  "romaji": "",
+  "romaji": "keiken",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengalaman",
@@ -19571,7 +19571,7 @@ export const vocabN3 = [
  {
   "word": "祭",
   "reading": "まつり",
-  "romaji": "",
+  "romaji": "matsuri",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "festival, pesta",
@@ -19582,7 +19582,7 @@ export const vocabN3 = [
  {
   "word": "グループ",
   "reading": "ぐるーぷ",
-  "romaji": "",
+  "romaji": "gurupu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelompok",
@@ -19593,7 +19593,7 @@ export const vocabN3 = [
  {
   "word": "職業",
   "reading": "しょくぎょう",
-  "romaji": "",
+  "romaji": "shokugyou",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekerjaan, bisnis",
@@ -19604,7 +19604,7 @@ export const vocabN3 = [
  {
   "word": "餌",
   "reading": "えさ",
-  "romaji": "",
+  "romaji": "esa",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pakan, umpan",
@@ -19615,7 +19615,7 @@ export const vocabN3 = [
  {
   "word": "発車",
   "reading": "はっしゃ",
-  "romaji": "",
+  "romaji": "hassha",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keberangkatan kendaraan",
@@ -19626,7 +19626,7 @@ export const vocabN3 = [
  {
   "word": "パーセント",
   "reading": "ぱーせんと",
-  "romaji": "",
+  "romaji": "pasento",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persen",

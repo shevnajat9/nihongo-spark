@@ -3,8 +3,8 @@ export const kanjiN2 = [
   "kanji": "了",
   "level": "N2",
   "meanings": [
-   "Complete",
-   "Finish"
+   "Menyelesaikan",
+   "Menyelesaikan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -15,7 +15,7 @@ export const kanjiN2 = [
    {
     "word": "完了",
     "reading": "かんりょう",
-    "meaning": "completion,conclusion"
+    "meaning": "penyelesaian, kesimpulan"
    },
    {
     "word": "終了",
@@ -28,16 +28,16 @@ export const kanjiN2 = [
   "kanji": "丸",
   "level": "N2",
   "meanings": [
-   "Round",
-   "Full (month)",
-   "Perfection",
-   "-ship",
-   "Pills",
-   "Make Round",
-   "Roll Up",
-   "Curl Up",
-   "Seduce",
-   "Explain Away"
+   "Bulat",
+   "Penuh (bulan)",
+   "Kesempurnaan",
+   "-mengirimkan",
+   "pil",
+   "Membuat Bulat",
+   "Menggulung",
+   "Menggulung",
+   "Menggoda",
+   "Jelaskan"
   ],
   "kunyomi": [
    "まる",
@@ -52,12 +52,12 @@ export const kanjiN2 = [
    {
     "word": "丸い/円い",
     "reading": "まるい",
-    "meaning": "round,circular"
+    "meaning": "bulat, melingkar"
    },
    {
     "word": "丸い",
     "reading": "まるい",
-    "meaning": "round,circular,spherical"
+    "meaning": "bulat, melingkar, bulat"
    }
   ]
  },
@@ -65,8 +65,8 @@ export const kanjiN2 = [
   "kanji": "玉",
   "level": "N2",
   "meanings": [
-   "Jewel",
-   "Ball"
+   "Permata",
+   "Bola"
   ],
   "kunyomi": [
    "たま",
@@ -81,7 +81,7 @@ export const kanjiN2 = [
    {
     "word": "玉",
     "reading": "たま",
-    "meaning": "ball,sphere,coin"
+    "meaning": "bola, bola, koin"
    }
   ]
  },
@@ -89,8 +89,8 @@ export const kanjiN2 = [
   "kanji": "久",
   "level": "N2",
   "meanings": [
-   "Long Time",
-   "Old Story"
+   "Lama sekali",
+   "Cerita lama"
   ],
   "kunyomi": [
    "ひさ.しい"
@@ -104,12 +104,12 @@ export const kanjiN2 = [
    {
     "word": "久しぶり",
     "reading": "ひさしぶり",
-    "meaning": "after a long time"
+    "meaning": "setelah sekian lama"
    },
    {
     "word": "永久",
     "reading": "えいきゅう",
-    "meaning": "eternity,perpetuity,immortality"
+    "meaning": "keabadian, keabadian, keabadian"
    }
   ]
  },
@@ -117,9 +117,9 @@ export const kanjiN2 = [
   "kanji": "戸",
   "level": "N2",
   "meanings": [
-   "Door",
-   "Counter For Houses",
-   "Door Radical (no. 63)"
+   "Pintu",
+   "Konter Untuk Rumah",
+   "Pintu Radikal (no. 63)"
   ],
   "kunyomi": [
    "と"
@@ -140,10 +140,10 @@ export const kanjiN2 = [
   "kanji": "毛",
   "level": "N2",
   "meanings": [
-   "Fur",
-   "Hair",
-   "Feather",
-   "Down"
+   "Bulu",
+   "Rambut",
+   "Bulu",
+   "Turun"
   ],
   "kunyomi": [
    "け"
@@ -156,12 +156,12 @@ export const kanjiN2 = [
    {
     "word": "毛布",
     "reading": "もうふ",
-    "meaning": "blanket"
+    "meaning": "selimut"
    },
    {
     "word": "髪の毛",
     "reading": "かみのけ",
-    "meaning": "hair (head)"
+    "meaning": "rambut (kepala)"
    },
    {
     "word": "毛糸",
@@ -174,8 +174,8 @@ export const kanjiN2 = [
   "kanji": "央",
   "level": "N2",
   "meanings": [
-   "Center",
-   "Middle"
+   "Tengah",
+   "Tengah"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -194,11 +194,11 @@ export const kanjiN2 = [
   "kanji": "氷",
   "level": "N2",
   "meanings": [
-   "Icicle",
-   "Ice",
-   "Hail",
-   "Freeze",
-   "Congeal"
+   "es",
+   "Es",
+   "Memanggil",
+   "Membekukan",
+   "Mengentalkan"
   ],
   "kunyomi": [
    "こおり",
@@ -213,7 +213,7 @@ export const kanjiN2 = [
    {
     "word": "氷",
     "reading": "こおり",
-    "meaning": "ice,hail"
+    "meaning": "es, hujan es"
    }
   ]
  },
@@ -221,11 +221,11 @@ export const kanjiN2 = [
   "kanji": "皮",
   "level": "N2",
   "meanings": [
-   "Pelt",
-   "Skin",
-   "Hide",
-   "Leather",
-   "Skin Radical (no. 107)"
+   "Melempari",
+   "Kulit",
+   "Bersembunyi",
+   "Kulit",
+   "Radikal Kulit (no. 107)"
   ],
   "kunyomi": [
    "かわ"
@@ -238,7 +238,7 @@ export const kanjiN2 = [
    {
     "word": "皮",
     "reading": "かわ",
-    "meaning": "skin,hide,leather,fur,pelt,bark,shell"
+    "meaning": "kulit, kulit, kulit, bulu, bulu, kulit kayu, cangkang"
    }
   ]
  },
@@ -246,9 +246,9 @@ export const kanjiN2 = [
   "kanji": "皿",
   "level": "N2",
   "meanings": [
-   "Dish",
-   "A Helping",
-   "Plate"
+   "Piring",
+   "Sebuah Bantuan",
+   "Piring"
   ],
   "kunyomi": [
    "さら"
@@ -266,7 +266,7 @@ export const kanjiN2 = [
    {
     "word": "灰皿",
     "reading": "はいざら",
-    "meaning": "ashtray"
+    "meaning": "asbak"
    }
   ]
  },
@@ -274,7 +274,7 @@ export const kanjiN2 = [
   "kanji": "竹",
   "level": "N2",
   "meanings": [
-   "Bamboo"
+   "Bambu"
   ],
   "kunyomi": [
    "たけ"
@@ -295,7 +295,7 @@ export const kanjiN2 = [
   "kanji": "糸",
   "level": "N2",
   "meanings": [
-   "Thread"
+   "Benang"
   ],
   "kunyomi": [
    "いと"
@@ -316,9 +316,9 @@ export const kanjiN2 = [
   "kanji": "虫",
   "level": "N2",
   "meanings": [
-   "Insect",
-   "Bug",
-   "Temper"
+   "Serangga",
+   "Serangga",
+   "Melunakkan"
   ],
   "kunyomi": [
    "むし"
@@ -332,7 +332,7 @@ export const kanjiN2 = [
    {
     "word": "虫歯",
     "reading": "むしば",
-    "meaning": "cavity,tooth decay,decayed tooth,caries"
+    "meaning": "gigi berlubang, kerusakan gigi, gigi busuk, karies"
    }
   ]
  },
@@ -340,8 +340,8 @@ export const kanjiN2 = [
   "kanji": "村",
   "level": "N2",
   "meanings": [
-   "Village",
-   "Town"
+   "Desa",
+   "Kota"
   ],
   "kunyomi": [
    "むら"
@@ -354,7 +354,7 @@ export const kanjiN2 = [
    {
     "word": "村",
     "reading": "むら",
-    "meaning": "village"
+    "meaning": "desa"
    }
   ]
  },
@@ -362,7 +362,7 @@ export const kanjiN2 = [
   "kanji": "貝",
   "level": "N2",
   "meanings": [
-   "Shellfish"
+   "Kerang"
   ],
   "kunyomi": [
    "かい"
@@ -383,10 +383,10 @@ export const kanjiN2 = [
   "kanji": "池",
   "level": "N2",
   "meanings": [
-   "Pond",
-   "Cistern",
-   "Pool",
-   "Reservoir"
+   "Kolam",
+   "Tadah",
+   "Kolam",
+   "Waduk"
   ],
   "kunyomi": [
    "いけ"
@@ -407,8 +407,8 @@ export const kanjiN2 = [
   "kanji": "羽",
   "level": "N2",
   "meanings": [
-   "Feathers",
-   "Counter For Birds, Rabbits"
+   "Bulu",
+   "Counter Untuk Burung, Kelinci"
   ],
   "kunyomi": [
    "は",
@@ -423,7 +423,7 @@ export const kanjiN2 = [
    {
     "word": "羽",
     "reading": "はね",
-    "meaning": "counter for birds,counter for rabbits"
+    "meaning": "counter untuk burung, counter untuk kelinci"
    }
   ]
  },
@@ -431,11 +431,11 @@ export const kanjiN2 = [
   "kanji": "角",
   "level": "N2",
   "meanings": [
-   "Angle",
-   "Corner",
-   "Square",
-   "Horn",
-   "Antlers"
+   "Sudut",
+   "Sudut",
+   "Persegi",
+   "Klakson",
+   "Tanduk"
   ],
   "kunyomi": [
    "かど",
@@ -462,7 +462,7 @@ export const kanjiN2 = [
   "kanji": "谷",
   "level": "N2",
   "meanings": [
-   "Valley"
+   "Lembah"
   ],
   "kunyomi": [
    "たに",
@@ -476,7 +476,7 @@ export const kanjiN2 = [
    {
     "word": "谷",
     "reading": "たに",
-    "meaning": "valley"
+    "meaning": "lembah"
    }
   ]
  },
@@ -484,8 +484,8 @@ export const kanjiN2 = [
   "kanji": "麦",
   "level": "N2",
   "meanings": [
-   "Barley",
-   "Wheat"
+   "Jelai",
+   "Gandum"
   ],
   "kunyomi": [
    "むぎ"
@@ -498,7 +498,7 @@ export const kanjiN2 = [
    {
     "word": "小麦",
     "reading": "こむぎ",
-    "meaning": "wheat"
+    "meaning": "gandum"
    },
    {
     "word": "蕎麦",
@@ -511,8 +511,8 @@ export const kanjiN2 = [
   "kanji": "林",
   "level": "N2",
   "meanings": [
-   "Grove",
-   "Forest"
+   "Belukar",
+   "Hutan"
   ],
   "kunyomi": [
    "はやし"
@@ -533,8 +533,8 @@ export const kanjiN2 = [
   "kanji": "州",
   "level": "N2",
   "meanings": [
-   "State",
-   "Province"
+   "Negara",
+   "Propinsi"
   ],
   "kunyomi": [
    "す"
@@ -548,7 +548,7 @@ export const kanjiN2 = [
    {
     "word": "州",
     "reading": "しゅう",
-    "meaning": "sandbank"
+    "meaning": "beting"
    }
   ]
  },
@@ -556,7 +556,7 @@ export const kanjiN2 = [
   "kanji": "血",
   "level": "N2",
   "meanings": [
-   "Blood"
+   "Darah"
   ],
   "kunyomi": [
    "ち"
@@ -569,7 +569,7 @@ export const kanjiN2 = [
    {
     "word": "血",
     "reading": "ち",
-    "meaning": "blood"
+    "meaning": "darah"
    }
   ]
  },
@@ -577,10 +577,10 @@ export const kanjiN2 = [
   "kanji": "星",
   "level": "N2",
   "meanings": [
-   "Star",
-   "Spot",
+   "Bintang",
+   "Titik",
    "Dot",
-   "Mark"
+   "Tanda"
   ],
   "kunyomi": [
    "ほし",
@@ -595,7 +595,7 @@ export const kanjiN2 = [
    {
     "word": "衛星",
     "reading": "えいせい",
-    "meaning": "satellite"
+    "meaning": "satelit"
    }
   ]
  },
@@ -603,11 +603,11 @@ export const kanjiN2 = [
   "kanji": "札",
   "level": "N2",
   "meanings": [
-   "Tag",
-   "Paper Money",
-   "Counter For Bonds",
-   "Placard",
-   "Bid"
+   "Menandai",
+   "Uang kertas",
+   "Counter Untuk Obligasi",
+   "Plakat",
+   "Penawaran"
   ],
   "kunyomi": [
    "ふだ"
@@ -620,7 +620,7 @@ export const kanjiN2 = [
    {
     "word": "札",
     "reading": "さつ",
-    "meaning": "(1) token,label,(2) ticket,(3) charm"
+    "meaning": "(1) token, label, (2) tiket, (3) pesona"
    }
   ]
  },
@@ -628,10 +628,10 @@ export const kanjiN2 = [
   "kanji": "辺",
   "level": "N2",
   "meanings": [
-   "Environs",
-   "Boundary",
-   "Border",
-   "Vicinity"
+   "Lingkungan",
+   "Batas",
+   "Berbatasan",
+   "Sekitarnya"
   ],
   "kunyomi": [
    "あた.り",
@@ -646,7 +646,7 @@ export const kanjiN2 = [
    {
     "word": "辺り",
     "reading": "あたり",
-    "meaning": "vicinity,nearby"
+    "meaning": "sekitar, dekat"
    }
   ]
  },
@@ -654,8 +654,8 @@ export const kanjiN2 = [
   "kanji": "弱",
   "level": "N2",
   "meanings": [
-   "Weak",
-   "Frail"
+   "Lemah",
+   "Lemah"
   ],
   "kunyomi": [
    "よわ.い",
@@ -671,7 +671,7 @@ export const kanjiN2 = [
    {
     "word": "弱い",
     "reading": "よわい",
-    "meaning": "weak"
+    "meaning": "lemah"
    }
   ]
  },
@@ -679,7 +679,7 @@ export const kanjiN2 = [
   "kanji": "黄",
   "level": "N2",
   "meanings": [
-   "Yellow"
+   "Kuning"
   ],
   "kunyomi": [
    "き",
@@ -694,12 +694,12 @@ export const kanjiN2 = [
    {
     "word": "黄色",
     "reading": "きいろ",
-    "meaning": "yellow"
+    "meaning": "kuning"
    },
    {
     "word": "黄色い",
     "reading": "きいろい",
-    "meaning": "yellow"
+    "meaning": "kuning"
    }
   ]
  },
@@ -707,8 +707,8 @@ export const kanjiN2 = [
   "kanji": "森",
   "level": "N2",
   "meanings": [
-   "Forest",
-   "Woods"
+   "Hutan",
+   "Hutan"
   ],
   "kunyomi": [
    "もり"
@@ -721,7 +721,7 @@ export const kanjiN2 = [
    {
     "word": "森",
     "reading": "もり",
-    "meaning": "forest"
+    "meaning": "hutan"
    }
   ]
  },
@@ -729,7 +729,7 @@ export const kanjiN2 = [
   "kanji": "雲",
   "level": "N2",
   "meanings": [
-   "Cloud"
+   "Awan"
   ],
   "kunyomi": [
    "くも",
@@ -751,7 +751,7 @@ export const kanjiN2 = [
   "kanji": "県",
   "level": "N2",
   "meanings": [
-   "Prefecture"
+   "Prefektur"
   ],
   "kunyomi": [
    "か.ける"
@@ -764,7 +764,7 @@ export const kanjiN2 = [
    {
     "word": "県",
     "reading": "けん",
-    "meaning": "prefecture"
+    "meaning": "prefektur"
    }
   ]
  },
@@ -772,9 +772,9 @@ export const kanjiN2 = [
   "kanji": "軽",
   "level": "N2",
   "meanings": [
-   "Lightly",
-   "Trifling",
-   "Unimportant"
+   "Enteng",
+   "Remeh",
+   "Tidak penting"
   ],
   "kunyomi": [
    "かる.い",
@@ -791,7 +791,7 @@ export const kanjiN2 = [
    {
     "word": "軽い",
     "reading": "かるい",
-    "meaning": "light"
+    "meaning": "lampu"
    }
   ]
  },
@@ -799,8 +799,8 @@ export const kanjiN2 = [
   "kanji": "農",
   "level": "N2",
   "meanings": [
-   "Agriculture",
-   "Farmers"
+   "Pertanian",
+   "Petani"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -811,17 +811,17 @@ export const kanjiN2 = [
    {
     "word": "農民",
     "reading": "のうみん",
-    "meaning": "farmers,peasants"
+    "meaning": "petani, petani"
    },
    {
     "word": "農業",
     "reading": "のうぎょう",
-    "meaning": "agriculture"
+    "meaning": "pertanian"
    },
    {
     "word": "農家",
     "reading": "のうか",
-    "meaning": "farmer,farm family"
+    "meaning": "petani, keluarga petani"
    }
   ]
  },
@@ -829,7 +829,7 @@ export const kanjiN2 = [
   "kanji": "鉄",
   "level": "N2",
   "meanings": [
-   "Iron"
+   "Besi"
   ],
   "kunyomi": [
    "くろがね"
@@ -847,7 +847,7 @@ export const kanjiN2 = [
    {
     "word": "鉄道",
     "reading": "てつどう",
-    "meaning": "railroad"
+    "meaning": "jalan kereta api"
    },
    {
     "word": "鉄砲",
@@ -860,11 +860,11 @@ export const kanjiN2 = [
   "kanji": "算",
   "level": "N2",
   "meanings": [
-   "Calculate",
-   "Divining",
-   "Number",
-   "Abacus",
-   "Probability"
+   "Menghitung",
+   "Meramal",
+   "Nomor",
+   "Sempoa",
+   "Kemungkinan"
   ],
   "kunyomi": [
    "そろ"
@@ -877,12 +877,12 @@ export const kanjiN2 = [
    {
     "word": "予算",
     "reading": "よさん",
-    "meaning": "estimate,budget"
+    "meaning": "perkiraan, anggaran"
    },
    {
     "word": "計算",
     "reading": "けいさん",
-    "meaning": "calculation,reckoning"
+    "meaning": "perhitungan, perhitungan"
    }
   ]
  },
@@ -890,8 +890,8 @@ export const kanjiN2 = [
   "kanji": "線",
   "level": "N2",
   "meanings": [
-   "Line",
-   "Track"
+   "Garis",
+   "Melacak"
   ],
   "kunyomi": [
    "すじ"
@@ -904,7 +904,7 @@ export const kanjiN2 = [
    {
     "word": "地平線",
     "reading": "ちへいせん",
-    "meaning": "horizon"
+    "meaning": "horison"
    },
    {
     "word": "曲線",
@@ -922,8 +922,8 @@ export const kanjiN2 = [
   "kanji": "仲",
   "level": "N2",
   "meanings": [
-   "Go-between",
-   "Relationship"
+   "Perantara",
+   "Hubungan"
   ],
   "kunyomi": [
    "なか"
@@ -936,7 +936,7 @@ export const kanjiN2 = [
    {
     "word": "仲間",
     "reading": "なかま",
-    "meaning": "company,fellow,colleague,associate"
+    "meaning": "perusahaan, rekan, kolega, rekanan"
    }
   ]
  },
@@ -944,9 +944,9 @@ export const kanjiN2 = [
   "kanji": "低",
   "level": "N2",
   "meanings": [
-   "Lower",
-   "Short",
-   "Humble"
+   "Lebih rendah",
+   "Pendek",
+   "Rendah hati"
   ],
   "kunyomi": [
    "ひく.い",
@@ -961,12 +961,12 @@ export const kanjiN2 = [
    {
     "word": "低い",
     "reading": "ひくい",
-    "meaning": "short,low"
+    "meaning": "pendek, rendah"
    },
    {
     "word": "最低",
     "reading": "さいてい",
-    "meaning": "least,lowest,worst"
+    "meaning": "paling tidak, terendah, terburuk"
    }
   ]
  },
@@ -974,7 +974,7 @@ export const kanjiN2 = [
   "kanji": "岸",
   "level": "N2",
   "meanings": [
-   "Beach"
+   "Pantai"
   ],
   "kunyomi": [
    "きし"
@@ -995,9 +995,9 @@ export const kanjiN2 = [
   "kanji": "波",
   "level": "N2",
   "meanings": [
-   "Waves",
-   "Billows",
-   "Poland"
+   "Ombak",
+   "ombak",
+   "Polandia"
   ],
   "kunyomi": [
    "なみ"
@@ -1010,7 +1010,7 @@ export const kanjiN2 = [
    {
     "word": "波",
     "reading": "なみ",
-    "meaning": "wave"
+    "meaning": "melambai"
    }
   ]
  },
@@ -1018,11 +1018,11 @@ export const kanjiN2 = [
   "kanji": "拾",
   "level": "N2",
   "meanings": [
-   "Pick Up",
-   "Gather",
-   "Find",
-   "Go On Foot",
-   "Ten"
+   "Menjemput",
+   "Mengumpulkan",
+   "Menemukan",
+   "Berjalan kaki",
+   "Sepuluh"
   ],
   "kunyomi": [
    "ひろ.う"
@@ -1036,7 +1036,7 @@ export const kanjiN2 = [
    {
     "word": "拾う",
     "reading": "ひろう",
-    "meaning": "to pick up,to gather"
+    "meaning": "untuk mengambil, untuk mengumpulkan"
    }
   ]
  },
@@ -1044,7 +1044,7 @@ export const kanjiN2 = [
   "kanji": "秒",
   "level": "N2",
   "meanings": [
-   "Second (1/60 Minute)"
+   "Kedua (1/60 Menit)"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1055,7 +1055,7 @@ export const kanjiN2 = [
    {
     "word": "秒",
     "reading": "びょう",
-    "meaning": "second (60th min)"
+    "meaning": "kedua (menit ke-60)"
    }
   ]
  },
@@ -1063,13 +1063,13 @@ export const kanjiN2 = [
   "kanji": "競",
   "level": "N2",
   "meanings": [
-   "Emulate",
-   "Compete With",
-   "Bid",
-   "Sell At Auction",
-   "Bout",
-   "Contest",
-   "Race"
+   "Meniru",
+   "Bersaing Dengan",
+   "Penawaran",
+   "Jual Di Lelang",
+   "Pertandingan",
+   "Kontes",
+   "Balapan"
   ],
   "kunyomi": [
    "きそ.う",
@@ -1085,12 +1085,12 @@ export const kanjiN2 = [
    {
     "word": "競争",
     "reading": "きょうそう",
-    "meaning": "competition"
+    "meaning": "kompetisi"
    },
    {
     "word": "競技",
     "reading": "きょうぎ",
-    "meaning": "game,match,contest"
+    "meaning": "permainan, pertandingan, kontes"
    }
   ]
  },
@@ -1098,10 +1098,10 @@ export const kanjiN2 = [
   "kanji": "令",
   "level": "N2",
   "meanings": [
-   "Orders",
-   "Ancient Laws",
-   "Command",
-   "Decree"
+   "Pesanan",
+   "Hukum Kuno",
+   "Memerintah",
+   "Dekrit"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1112,7 +1112,7 @@ export const kanjiN2 = [
    {
     "word": "命令",
     "reading": "めいれい",
-    "meaning": "order,command,decree,directive,(software) instruction"
+    "meaning": "perintah, perintah, keputusan, arahan, instruksi (perangkat lunak)."
    }
   ]
  },
@@ -1120,9 +1120,9 @@ export const kanjiN2 = [
   "kanji": "根",
   "level": "N2",
   "meanings": [
-   "Root",
-   "Radical",
-   "Head (pimple)"
+   "Akar",
+   "Radikal",
+   "Kepala (jerawat)"
   ],
   "kunyomi": [
    "ね",
@@ -1136,7 +1136,7 @@ export const kanjiN2 = [
    {
     "word": "屋根",
     "reading": "やね",
-    "meaning": "roof"
+    "meaning": "atap"
    }
   ]
  },
@@ -1144,10 +1144,10 @@ export const kanjiN2 = [
   "kanji": "倍",
   "level": "N2",
   "meanings": [
-   "Double",
-   "Twice",
-   "Times",
-   "Fold"
+   "Dobel",
+   "Dua kali",
+   "Kali",
+   "Melipat"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1158,7 +1158,7 @@ export const kanjiN2 = [
    {
     "word": "倍",
     "reading": "ばい",
-    "meaning": "double"
+    "meaning": "dobel"
    }
   ]
  },
@@ -1166,7 +1166,7 @@ export const kanjiN2 = [
   "kanji": "島",
   "level": "N2",
   "meanings": [
-   "Island"
+   "Pulau"
   ],
   "kunyomi": [
    "しま"
@@ -1179,7 +1179,7 @@ export const kanjiN2 = [
    {
     "word": "島",
     "reading": "しま",
-    "meaning": "island"
+    "meaning": "pulau"
    }
   ]
  },
@@ -1187,12 +1187,12 @@ export const kanjiN2 = [
   "kanji": "祭",
   "level": "N2",
   "meanings": [
-   "Ritual",
-   "Offer Prayers",
-   "Celebrate",
-   "Deify",
-   "Enshrine",
-   "Worship"
+   "Upacara",
+   "Tawarkan Doa",
+   "Merayakan",
+   "Mendewakan",
+   "Mengabadikan",
+   "Memuja"
   ],
   "kunyomi": [
    "まつ.る",
@@ -1215,11 +1215,11 @@ export const kanjiN2 = [
   "kanji": "章",
   "level": "N2",
   "meanings": [
-   "Badge",
-   "Chapter",
-   "Composition",
-   "Poem",
-   "Design"
+   "Lencana",
+   "Bab",
+   "Komposisi",
+   "Puisi",
+   "Desain"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1230,7 +1230,7 @@ export const kanjiN2 = [
    {
     "word": "文章",
     "reading": "ぶんしょう",
-    "meaning": "sentence,text"
+    "meaning": "kalimat, teks"
    }
   ]
  },
@@ -1238,8 +1238,8 @@ export const kanjiN2 = [
   "kanji": "童",
   "level": "N2",
   "meanings": [
-   "Juvenile",
-   "Child"
+   "Remaja",
+   "Anak"
   ],
   "kunyomi": [
    "わらべ"
@@ -1260,9 +1260,9 @@ export const kanjiN2 = [
   "kanji": "階",
   "level": "N2",
   "meanings": [
-   "Storey",
-   "Stair",
-   "Counter For Storeys Of A Building"
+   "Tingkat",
+   "Anak tangga",
+   "Counter Untuk Tingkat Suatu Bangunan"
   ],
   "kunyomi": [
    "きざはし"
@@ -1275,12 +1275,12 @@ export const kanjiN2 = [
    {
     "word": "階段",
     "reading": "かいだん",
-    "meaning": "stairs"
+    "meaning": "tangga"
    },
    {
     "word": "二階建て",
     "reading": "にかいだて",
-    "meaning": "two storied"
+    "meaning": "dua lantai"
    }
   ]
  },
@@ -1288,7 +1288,7 @@ export const kanjiN2 = [
   "kanji": "植",
   "level": "N2",
   "meanings": [
-   "Plant"
+   "Tanaman"
   ],
   "kunyomi": [
    "う.える",
@@ -1307,7 +1307,7 @@ export const kanjiN2 = [
    {
     "word": "植物",
     "reading": "しょくぶつ",
-    "meaning": "plant,vegetation"
+    "meaning": "tanaman, tumbuh-tumbuhan"
    }
   ]
  },
@@ -1315,7 +1315,7 @@ export const kanjiN2 = [
   "kanji": "温",
   "level": "N2",
   "meanings": [
-   "Warm"
+   "Hangat"
   ],
   "kunyomi": [
    "あたた.か",
@@ -1332,17 +1332,17 @@ export const kanjiN2 = [
    {
     "word": "温い",
     "reading": "ぬるい",
-    "meaning": "luke warm"
+    "meaning": "hangat"
    },
    {
     "word": "気温",
     "reading": "きおん",
-    "meaning": "temperature"
+    "meaning": "suhu"
    },
    {
     "word": "体温",
     "reading": "たいおん",
-    "meaning": "temperature (body)"
+    "meaning": "suhu (tubuh)"
    }
   ]
  },
@@ -1350,9 +1350,9 @@ export const kanjiN2 = [
   "kanji": "湯",
   "level": "N2",
   "meanings": [
-   "Hot Water",
-   "Bath",
-   "Hot Spring"
+   "Air Panas",
+   "Mandi",
+   "Sumber Air Panas"
   ],
   "kunyomi": [
    "ゆ"
@@ -1365,7 +1365,7 @@ export const kanjiN2 = [
    {
     "word": "湯",
     "reading": "ゆ",
-    "meaning": "hot water"
+    "meaning": "air panas"
    }
   ]
  },
@@ -1373,11 +1373,11 @@ export const kanjiN2 = [
   "kanji": "短",
   "level": "N2",
   "meanings": [
-   "Short",
-   "Brevity",
-   "Fault",
-   "Defect",
-   "Weak Point"
+   "Pendek",
+   "Keringkasan",
+   "Kesalahan",
+   "Cacat",
+   "Titik Lemah"
   ],
   "kunyomi": [
    "みじか.い"
@@ -1390,7 +1390,7 @@ export const kanjiN2 = [
    {
     "word": "短い",
     "reading": "みじかい",
-    "meaning": "short"
+    "meaning": "pendek"
    }
   ]
  },
@@ -1398,8 +1398,8 @@ export const kanjiN2 = [
   "kanji": "泉",
   "level": "N2",
   "meanings": [
-   "Spring",
-   "Fountain"
+   "Musim semi",
+   "Air mancur"
   ],
   "kunyomi": [
    "いずみ"
@@ -1412,7 +1412,7 @@ export const kanjiN2 = [
    {
     "word": "泉",
     "reading": "いずみ",
-    "meaning": "spring,fountain"
+    "meaning": "musim semi, air mancur"
    }
   ]
  },
@@ -1420,7 +1420,7 @@ export const kanjiN2 = [
   "kanji": "橋",
   "level": "N2",
   "meanings": [
-   "Bridge"
+   "Menjembatani"
   ],
   "kunyomi": [
    "はし"
@@ -1433,7 +1433,7 @@ export const kanjiN2 = [
    {
     "word": "橋",
     "reading": "はし",
-    "meaning": "bridge"
+    "meaning": "menjembatani"
    }
   ]
  },
@@ -1441,7 +1441,7 @@ export const kanjiN2 = [
   "kanji": "緑",
   "level": "N2",
   "meanings": [
-   "Green"
+   "Hijau"
   ],
   "kunyomi": [
    "みどり"
@@ -1455,7 +1455,7 @@ export const kanjiN2 = [
    {
     "word": "緑",
     "reading": "みどり",
-    "meaning": "green"
+    "meaning": "hijau"
    }
   ]
  },
@@ -1463,12 +1463,12 @@ export const kanjiN2 = [
   "kanji": "練",
   "level": "N2",
   "meanings": [
-   "Practice",
-   "Gloss",
-   "Train",
-   "Drill",
-   "Polish",
-   "Refine"
+   "Praktik",
+   "Kilap",
+   "Kereta",
+   "Mengebor",
+   "Polandia",
+   "Menyaring"
   ],
   "kunyomi": [
    "ね.る",
@@ -1487,12 +1487,12 @@ export const kanjiN2 = [
    {
     "word": "訓練",
     "reading": "くんれん",
-    "meaning": "practice,training"
+    "meaning": "latihan, pelatihan"
    },
    {
     "word": "練習",
     "reading": "れんしゅう",
-    "meaning": "practice"
+    "meaning": "praktik"
    }
   ]
  },
@@ -1500,7 +1500,7 @@ export const kanjiN2 = [
   "kanji": "億",
   "level": "N2",
   "meanings": [
-   "Hundred Million",
+   "Seratus Juta",
    "10**8"
   ],
   "kunyomi": [],
@@ -1512,7 +1512,7 @@ export const kanjiN2 = [
    {
     "word": "億",
     "reading": "おく",
-    "meaning": "one hundred million"
+    "meaning": "seratus juta"
    }
   ]
  },
@@ -1520,12 +1520,12 @@ export const kanjiN2 = [
   "kanji": "課",
   "level": "N2",
   "meanings": [
-   "Chapter",
-   "Lesson",
-   "Section",
-   "Department",
-   "Division",
-   "Counter For Chapters (of A Book)"
+   "Bab",
+   "Pelajaran",
+   "Bagian",
+   "Departemen",
+   "Divisi",
+   "Penghitung Untuk Bab (dari Sebuah Buku)"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1536,7 +1536,7 @@ export const kanjiN2 = [
    {
     "word": "課長",
     "reading": "かちょう",
-    "meaning": "section manager"
+    "meaning": "manajer bagian"
    }
   ]
  },
@@ -1544,9 +1544,9 @@ export const kanjiN2 = [
   "kanji": "賞",
   "level": "N2",
   "meanings": [
-   "Prize",
-   "Reward",
-   "Praise"
+   "Hadiah",
+   "Hadiah",
+   "Memuji"
   ],
   "kunyomi": [
    "ほ.める"
@@ -1559,7 +1559,7 @@ export const kanjiN2 = [
    {
     "word": "賞",
     "reading": "しょう",
-    "meaning": "prize,award"
+    "meaning": "hadiah, penghargaan"
    }
   ]
  },
@@ -1567,12 +1567,12 @@ export const kanjiN2 = [
   "kanji": "輪",
   "level": "N2",
   "meanings": [
-   "Wheel",
-   "Ring",
-   "Circle",
+   "Roda",
+   "Cincin",
+   "Lingkaran",
    "Link",
-   "Loop",
-   "Counter For Wheels And Flowers"
+   "Lingkaran",
+   "Counter Untuk Roda Dan Bunga"
   ],
   "kunyomi": [
    "わ"
@@ -1593,11 +1593,11 @@ export const kanjiN2 = [
   "kanji": "像",
   "level": "N2",
   "meanings": [
-   "Statue",
-   "Picture",
-   "Image",
-   "Figure",
-   "Portrait"
+   "Patung",
+   "Gambar",
+   "Gambar",
+   "Angka",
+   "Potret"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1616,10 +1616,10 @@ export const kanjiN2 = [
   "kanji": "卒",
   "level": "N2",
   "meanings": [
-   "Graduate",
-   "Soldier",
-   "Private",
-   "Die"
+   "Lulus",
+   "Tentara",
+   "Pribadi",
+   "Mati"
   ],
   "kunyomi": [
    "そっ.する",
@@ -1637,7 +1637,7 @@ export const kanjiN2 = [
    {
     "word": "卒業",
     "reading": "そつぎょう",
-    "meaning": "graduation"
+    "meaning": "kelulusan"
    }
   ]
  },
@@ -1645,8 +1645,8 @@ export const kanjiN2 = [
   "kanji": "協",
   "level": "N2",
   "meanings": [
-   "Co-",
-   "Cooperation"
+   "Bersama-",
+   "Kerja sama"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1657,7 +1657,7 @@ export const kanjiN2 = [
    {
     "word": "協力",
     "reading": "きょうりょく",
-    "meaning": "cooperation,collaboration"
+    "meaning": "kerjasama, kolaborasi"
    }
   ]
  },
@@ -1665,9 +1665,9 @@ export const kanjiN2 = [
   "kanji": "周",
   "level": "N2",
   "meanings": [
-   "Circumference",
-   "Circuit",
-   "Lap"
+   "Lingkar",
+   "Sirkuit",
+   "Pangkuan"
   ],
   "kunyomi": [
    "まわ.り"
@@ -1693,14 +1693,14 @@ export const kanjiN2 = [
   "kanji": "囲",
   "level": "N2",
   "meanings": [
-   "Surround",
-   "Besiege",
-   "Store",
-   "Paling",
-   "Enclosure",
-   "Encircle",
-   "Preserve",
-   "Keep"
+   "Mengelilingi",
+   "Mengepung",
+   "Toko",
+   "Pagar",
+   "Lampiran",
+   "Mengelilingi",
+   "Melestarikan",
+   "Menyimpan"
   ],
   "kunyomi": [
    "かこ.む",
@@ -1720,12 +1720,12 @@ export const kanjiN2 = [
    {
     "word": "雰囲気",
     "reading": "ふんいき",
-    "meaning": "suasana (misalnya musik), suasana hati, suasana"
+    "meaning": "suasana (musikmisalnya), suasana hati, suasana"
    },
    {
     "word": "囲む",
     "reading": "かこむ",
-    "meaning": "to surround,to encircle"
+    "meaning": "untuk mengelilingi, untuk mengelilingi"
    }
   ]
  },
@@ -1733,10 +1733,10 @@ export const kanjiN2 = [
   "kanji": "固",
   "level": "N2",
   "meanings": [
-   "Harden",
-   "Set",
-   "Clot",
-   "Curdle"
+   "Mengeras",
+   "Mengatur",
+   "Menggumpal",
+   "Mengental"
   ],
   "kunyomi": [
    "かた.める",
@@ -1752,7 +1752,7 @@ export const kanjiN2 = [
    {
     "word": "堅/硬/固い",
     "reading": "かたい",
-    "meaning": "hard"
+    "meaning": "keras"
    }
   ]
  },
@@ -1760,7 +1760,7 @@ export const kanjiN2 = [
   "kanji": "季",
   "level": "N2",
   "meanings": [
-   "Seasons"
+   "Musim"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1784,16 +1784,16 @@ export const kanjiN2 = [
   "kanji": "希",
   "level": "N2",
   "meanings": [
-   "Hope",
-   "Beg",
-   "Request",
-   "Pray",
-   "Beseech",
-   "Greece",
-   "Dilute (acid)",
-   "Rare",
-   "Few",
-   "Phenomenal"
+   "Harapan",
+   "Mengemis",
+   "Meminta",
+   "Berdoa",
+   "Memohon",
+   "Yunani",
+   "Encer (asam)",
+   "Langka",
+   "Sedikit",
+   "Fenomenal"
   ],
   "kunyomi": [
    "まれ"
@@ -1807,7 +1807,7 @@ export const kanjiN2 = [
    {
     "word": "希望",
     "reading": "きぼう",
-    "meaning": "hope,wish,aspiration"
+    "meaning": "harapan, keinginan, aspirasi"
    }
   ]
  },
@@ -1815,13 +1815,13 @@ export const kanjiN2 = [
   "kanji": "材",
   "level": "N2",
   "meanings": [
-   "Lumber",
-   "Log",
-   "Timber",
-   "Wood",
-   "Materials",
-   "Ingredients",
-   "Talent"
+   "Kayu",
+   "Catatan",
+   "Kayu",
+   "Kayu",
+   "Bahan",
+   "Bahan-bahan",
+   "Bakat"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1832,7 +1832,7 @@ export const kanjiN2 = [
    {
     "word": "材料",
     "reading": "ざいりょう",
-    "meaning": "ingredients,material"
+    "meaning": "bahan, bahan"
    },
    {
     "word": "木材",
@@ -1845,13 +1845,13 @@ export const kanjiN2 = [
   "kanji": "芸",
   "level": "N2",
   "meanings": [
-   "Technique",
-   "Art",
-   "Craft",
-   "Performance",
-   "Acting",
-   "Trick",
-   "Stunt"
+   "Teknik",
+   "Seni",
+   "Keahlian",
+   "Pertunjukan",
+   "Akting",
+   "Menipu",
+   "Mengerdilkan"
   ],
   "kunyomi": [
    "う.える",
@@ -1867,7 +1867,7 @@ export const kanjiN2 = [
    {
     "word": "芸術",
     "reading": "げいじゅつ",
-    "meaning": "(fine) art,the arts"
+    "meaning": "seni (baik), seni"
    }
   ]
  },
@@ -1875,14 +1875,14 @@ export const kanjiN2 = [
   "kanji": "技",
   "level": "N2",
   "meanings": [
-   "Skill",
-   "Art",
-   "Craft",
-   "Ability",
-   "Feat",
-   "Performance",
-   "Vocation",
-   "Arts"
+   "Keahlian",
+   "Seni",
+   "Keahlian",
+   "Kemampuan",
+   "Prestasi",
+   "Pertunjukan",
+   "Pekerjaan",
+   "Seni"
   ],
   "kunyomi": [
    "わざ"
@@ -1895,17 +1895,17 @@ export const kanjiN2 = [
    {
     "word": "技術",
     "reading": "ぎじゅつ",
-    "meaning": "art,technology,skill"
+    "meaning": "seni, teknologi, keterampilan"
    },
    {
     "word": "技師",
     "reading": "ぎし",
-    "meaning": "engineer,technician"
+    "meaning": "insinyur, teknisi"
    },
    {
     "word": "演技",
     "reading": "えんぎ",
-    "meaning": "acting,performance"
+    "meaning": "akting, pertunjukan"
    }
   ]
  },
@@ -1913,10 +1913,10 @@ export const kanjiN2 = [
   "kanji": "骨",
   "level": "N2",
   "meanings": [
-   "Skeleton",
-   "Bone",
-   "Remains",
-   "Frame"
+   "Kerangka",
+   "Tulang",
+   "Tetap",
+   "Bingkai"
   ],
   "kunyomi": [
    "ほね"
@@ -1929,7 +1929,7 @@ export const kanjiN2 = [
    {
     "word": "骨折",
     "reading": "こっせつ",
-    "meaning": "bone fracture"
+    "meaning": "patah tulang"
    }
   ]
  },
@@ -1937,7 +1937,7 @@ export const kanjiN2 = [
   "kanji": "寺",
   "level": "N2",
   "meanings": [
-   "Buddhist Temple"
+   "Kuil Budha"
   ],
   "kunyomi": [
    "てら"
@@ -1950,7 +1950,7 @@ export const kanjiN2 = [
    {
     "word": "寺",
     "reading": "てら",
-    "meaning": "temple"
+    "meaning": "kuil"
    }
   ]
  },
@@ -1958,9 +1958,9 @@ export const kanjiN2 = [
   "kanji": "岩",
   "level": "N2",
   "meanings": [
-   "Boulder",
-   "Rock",
-   "Cliff"
+   "Batu besar",
+   "Batu",
+   "Jurang"
   ],
   "kunyomi": [
    "いわ"
@@ -1973,7 +1973,7 @@ export const kanjiN2 = [
    {
     "word": "岩",
     "reading": "いわ",
-    "meaning": "rock,crag"
+    "meaning": "batu, karang"
    }
   ]
  },
@@ -1981,8 +1981,8 @@ export const kanjiN2 = [
   "kanji": "区",
   "level": "N2",
   "meanings": [
-   "Ward",
-   "District"
+   "Bangsal",
+   "Daerah"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2000,7 +2000,7 @@ export const kanjiN2 = [
    {
     "word": "区別",
     "reading": "くべつ",
-    "meaning": "distinction,differentiation,classification"
+    "meaning": "pembedaan, diferensiasi, klasifikasi"
    }
   ]
  },
@@ -2008,9 +2008,9 @@ export const kanjiN2 = [
   "kanji": "坂",
   "level": "N2",
   "meanings": [
-   "Slope",
-   "Incline",
-   "Hill"
+   "Lereng",
+   "Lereng",
+   "Bukit"
   ],
   "kunyomi": [
    "さか"
@@ -2023,7 +2023,7 @@ export const kanjiN2 = [
    {
     "word": "坂",
     "reading": "さか",
-    "meaning": "slope,hill"
+    "meaning": "lereng, bukit"
    }
   ]
  },
@@ -2031,11 +2031,11 @@ export const kanjiN2 = [
   "kanji": "勇",
   "level": "N2",
   "meanings": [
-   "Courage",
-   "Cheer Up",
-   "Be In High Spirits",
-   "Bravery",
-   "Heroism"
+   "Keberanian",
+   "Semangat",
+   "Bersemangatlah",
+   "Keberanian",
+   "Kepahlawanan"
   ],
   "kunyomi": [
    "いさ.む"
@@ -2048,7 +2048,7 @@ export const kanjiN2 = [
    {
     "word": "勇気",
     "reading": "ゆうき",
-    "meaning": "courage,bravery,valour,nerve,boldness"
+    "meaning": "keberanian, keberanian, keberanian, keberanian, keberanian"
    }
   ]
  },
@@ -2056,13 +2056,13 @@ export const kanjiN2 = [
   "kanji": "毒",
   "level": "N2",
   "meanings": [
-   "Poison",
+   "Racun",
    "Virus",
-   "Venom",
-   "Germ",
-   "Harm",
-   "Injury",
-   "Spite"
+   "Bisa ular",
+   "Kuman",
+   "Menyakiti",
+   "Cedera",
+   "Meskipun"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2073,7 +2073,7 @@ export const kanjiN2 = [
    {
     "word": "気の毒",
     "reading": "きのどく",
-    "meaning": "menyedihkan, sayang sekali"
+    "meaning": "sayangnya, sayang sekali"
    }
   ]
  },
@@ -2081,11 +2081,11 @@ export const kanjiN2 = [
   "kanji": "浅",
   "level": "N2",
   "meanings": [
-   "Shallow",
-   "Superficial",
-   "Frivolous",
-   "Wretched",
-   "Shameful"
+   "Dangkal",
+   "Dangkal",
+   "Sembrono",
+   "Malang",
+   "Memalukan"
   ],
   "kunyomi": [
    "あさ.い"
@@ -2098,7 +2098,7 @@ export const kanjiN2 = [
    {
     "word": "浅い",
     "reading": "あさい",
-    "meaning": "shallow,superficial"
+    "meaning": "dangkal, dangkal"
    }
   ]
  },
@@ -2106,11 +2106,11 @@ export const kanjiN2 = [
   "kanji": "軍",
   "level": "N2",
   "meanings": [
-   "Army",
-   "Force",
-   "Troops",
-   "War",
-   "Battle"
+   "Tentara",
+   "Memaksa",
+   "Pasukan",
+   "Perang",
+   "Pertempuran"
   ],
   "kunyomi": [
    "いくさ"
@@ -2131,9 +2131,9 @@ export const kanjiN2 = [
   "kanji": "仏",
   "level": "N2",
   "meanings": [
-   "Buddha",
-   "The Dead",
-   "France"
+   "Budha",
+   "Orang mati",
+   "Perancis"
   ],
   "kunyomi": [
    "ほとけ"
@@ -2147,7 +2147,7 @@ export const kanjiN2 = [
    {
     "word": "仏",
     "reading": "ほとけ",
-    "meaning": "Buddha,merciful person,Buddhist image,the dead"
+    "meaning": "Buddha, orang yang penyayang, gambar Buddha, orang mati"
    }
   ]
  },
@@ -2155,9 +2155,9 @@ export const kanjiN2 = [
   "kanji": "築",
   "level": "N2",
   "meanings": [
-   "Fabricate",
-   "Build",
-   "Construct"
+   "Membuat",
+   "Membangun",
+   "Membangun"
   ],
   "kunyomi": [
    "きず.く"
@@ -2170,7 +2170,7 @@ export const kanjiN2 = [
    {
     "word": "建築",
     "reading": "けんちく",
-    "meaning": "construction,architecture"
+    "meaning": "konstruksi, arsitektur"
    }
   ]
  },
@@ -2178,8 +2178,8 @@ export const kanjiN2 = [
   "kanji": "門",
   "level": "N2",
   "meanings": [
-   "Gate",
-   "Counter For Cannons"
+   "Gerbang",
+   "Penghitung Untuk Meriam"
   ],
   "kunyomi": [
    "かど",
@@ -2193,7 +2193,7 @@ export const kanjiN2 = [
    {
     "word": "門",
     "reading": "もん",
-    "meaning": "gate"
+    "meaning": "gerbang"
    }
   ]
  },
@@ -2201,13 +2201,13 @@ export const kanjiN2 = [
   "kanji": "荷",
   "level": "N2",
   "meanings": [
-   "Baggage",
-   "Shoulder-pole Load",
-   "Bear (a Burden)",
-   "Shoulder (a Gun)",
-   "Load",
-   "Cargo",
-   "Freight"
+   "Bagasi",
+   "Beban tiang bahu",
+   "Beruang (Beban)",
+   "Bahu (Senjata)",
+   "Memuat",
+   "Muatan",
+   "Kargo"
   ],
   "kunyomi": [
    "に"
@@ -2220,7 +2220,7 @@ export const kanjiN2 = [
    {
     "word": "荷物",
     "reading": "にもつ",
-    "meaning": "luggage"
+    "meaning": "bagasi"
    }
   ]
  },
@@ -2228,11 +2228,11 @@ export const kanjiN2 = [
   "kanji": "府",
   "level": "N2",
   "meanings": [
-   "Borough",
-   "Urban Prefecture",
-   "Govt Office",
-   "Representative Body",
-   "Storehouse"
+   "Wilayah",
+   "Prefektur Perkotaan",
+   "Kantor Pemerintah",
+   "Badan Perwakilan",
+   "Gudang"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2243,7 +2243,7 @@ export const kanjiN2 = [
    {
     "word": "政府",
     "reading": "せいふ",
-    "meaning": "government,administration"
+    "meaning": "pemerintahan, administrasi"
    }
   ]
  },
@@ -2251,9 +2251,9 @@ export const kanjiN2 = [
   "kanji": "浴",
   "level": "N2",
   "meanings": [
-   "Bathe",
-   "Be Favored With",
-   "Bask In"
+   "Mandi",
+   "Disukai",
+   "Berjemur"
   ],
   "kunyomi": [
    "あ.びる",
@@ -2275,10 +2275,10 @@ export const kanjiN2 = [
   "kanji": "専",
   "level": "N2",
   "meanings": [
-   "Specialty",
-   "Exclusive",
-   "Mainly",
-   "Solely"
+   "Khusus",
+   "Eksklusif",
+   "Terutama",
+   "Semata-mata"
   ],
   "kunyomi": [
    "もっぱ.ら"
@@ -2291,7 +2291,7 @@ export const kanjiN2 = [
    {
     "word": "専攻",
     "reading": "せんこう",
-    "meaning": "major subject,special study"
+    "meaning": "mata pelajaran utama, studi khusus"
    }
   ]
  },
@@ -2299,13 +2299,13 @@ export const kanjiN2 = [
   "kanji": "細",
   "level": "N2",
   "meanings": [
-   "Dainty",
-   "Get Thin",
-   "Taper",
-   "Slender",
-   "Narrow",
-   "Detailed",
-   "Precise"
+   "Halus",
+   "Menjadi Kurus",
+   "Lancip",
+   "Ramping",
+   "Sempit",
+   "Terperinci",
+   "Tepat"
   ],
   "kunyomi": [
    "ほそ.い",
@@ -2321,12 +2321,12 @@ export const kanjiN2 = [
    {
     "word": "細い",
     "reading": "ほそい",
-    "meaning": "thin"
+    "meaning": "tipis"
    },
    {
     "word": "細かい",
     "reading": "こまかい",
-    "meaning": "small, fine"
+    "meaning": "kecil, oke"
    }
   ]
  },
@@ -2334,8 +2334,8 @@ export const kanjiN2 = [
   "kanji": "鼻",
   "level": "N2",
   "meanings": [
-   "Nose",
-   "Snout"
+   "Hidung",
+   "Moncong"
   ],
   "kunyomi": [
    "はな"
@@ -2348,7 +2348,7 @@ export const kanjiN2 = [
    {
     "word": "鼻",
     "reading": "はな",
-    "meaning": "nose"
+    "meaning": "hidung"
    }
   ]
  },
@@ -2356,13 +2356,13 @@ export const kanjiN2 = [
   "kanji": "兵",
   "level": "N2",
   "meanings": [
-   "Soldier",
-   "Private",
-   "Troops",
-   "Army",
-   "Warfare",
-   "Strategy",
-   "Tactics"
+   "Tentara",
+   "Pribadi",
+   "Pasukan",
+   "Tentara",
+   "Perang",
+   "Strategi",
+   "Taktik"
   ],
   "kunyomi": [
    "つわもの"
@@ -2384,7 +2384,7 @@ export const kanjiN2 = [
   "kanji": "塩",
   "level": "N2",
   "meanings": [
-   "Salt"
+   "Garam"
   ],
   "kunyomi": [
    "しお"
@@ -2397,7 +2397,7 @@ export const kanjiN2 = [
    {
     "word": "塩",
     "reading": "しお",
-    "meaning": "salt"
+    "meaning": "garam"
    }
   ]
  },
@@ -2405,11 +2405,11 @@ export const kanjiN2 = [
   "kanji": "栄",
   "level": "N2",
   "meanings": [
-   "Flourish",
-   "Prosperity",
-   "Honor",
-   "Glory",
-   "Splendor"
+   "Berkembang",
+   "Kemakmuran",
+   "Menghormati",
+   "Kejayaan",
+   "Kemegahan"
   ],
   "kunyomi": [
    "さか.える",
@@ -2427,7 +2427,7 @@ export const kanjiN2 = [
    {
     "word": "栄養",
     "reading": "えいよう",
-    "meaning": "nutrition,nourishment"
+    "meaning": "nutrisi, nutrisi"
    }
   ]
  },
@@ -2435,12 +2435,12 @@ export const kanjiN2 = [
   "kanji": "干",
   "level": "N2",
   "meanings": [
-   "Dry",
-   "Parch",
-   "Ebb",
-   "Recede",
-   "Interfere",
-   "Intercede"
+   "Kering",
+   "Memanggang",
+   "Surut",
+   "Surut",
+   "Mengganggu",
+   "Menengahi"
   ],
   "kunyomi": [
    "ほ.す",
@@ -2464,13 +2464,13 @@ export const kanjiN2 = [
   "kanji": "底",
   "level": "N2",
   "meanings": [
-   "Bottom",
-   "Sole",
-   "Depth",
-   "Bottom Price",
-   "Base",
-   "Kind",
-   "Sort"
+   "Dasar",
+   "Tunggal",
+   "Kedalaman",
+   "Harga Bawah",
+   "Basis",
+   "Baik",
+   "Menyortir"
   ],
   "kunyomi": [
    "そこ"
@@ -2491,9 +2491,9 @@ export const kanjiN2 = [
   "kanji": "署",
   "level": "N2",
   "meanings": [
-   "Signature",
-   "Govt Office",
-   "Police Station"
+   "Tanda tangan",
+   "Kantor Pemerintah",
+   "Kantor Polisi"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2504,7 +2504,7 @@ export const kanjiN2 = [
    {
     "word": "署名",
     "reading": "しょめい",
-    "meaning": "signature"
+    "meaning": "tanda tangan"
    }
   ]
  },
@@ -2512,11 +2512,11 @@ export const kanjiN2 = [
   "kanji": "恋",
   "level": "N2",
   "meanings": [
-   "Romance",
-   "In Love",
-   "Yearn For",
-   "Miss",
-   "Darling"
+   "Roman",
+   "Sedang jatuh cinta",
+   "Merindukan",
+   "Merindukan",
+   "Sayang"
   ],
   "kunyomi": [
    "こ.う",
@@ -2531,7 +2531,7 @@ export const kanjiN2 = [
    {
     "word": "恋人",
     "reading": "こいびと",
-    "meaning": "kekasih, sayang"
+    "meaning": "sayang, sayang"
    }
   ]
  },
@@ -2539,10 +2539,10 @@ export const kanjiN2 = [
   "kanji": "訓",
   "level": "N2",
   "meanings": [
-   "Instruction",
-   "Japanese Character Reading",
-   "Explanation",
-   "Read"
+   "Petunjuk",
+   "Membaca Karakter Jepang",
+   "Penjelasan",
+   "Membaca"
   ],
   "kunyomi": [
    "おし.える",
@@ -2558,7 +2558,7 @@ export const kanjiN2 = [
    {
     "word": "訓練",
     "reading": "くんれん",
-    "meaning": "practice,training"
+    "meaning": "latihan, pelatihan"
    }
   ]
  },
@@ -2566,8 +2566,8 @@ export const kanjiN2 = [
   "kanji": "祈",
   "level": "N2",
   "meanings": [
-   "Pray",
-   "Wish"
+   "Berdoa",
+   "Mengharapkan"
   ],
   "kunyomi": [
    "いの.る"
@@ -2580,7 +2580,7 @@ export const kanjiN2 = [
    {
     "word": "祈る",
     "reading": "いのる",
-    "meaning": "to pray"
+    "meaning": "untuk berdoa"
    }
   ]
  },
@@ -2588,8 +2588,8 @@ export const kanjiN2 = [
   "kanji": "焼",
   "level": "N2",
   "meanings": [
-   "Bake",
-   "Burning"
+   "Memanggang",
+   "Pembakaran"
   ],
   "kunyomi": [
    "や.く",
@@ -2606,12 +2606,12 @@ export const kanjiN2 = [
    {
     "word": "焼く",
     "reading": "やく",
-    "meaning": "to bake,to grill"
+    "meaning": "untuk memanggang, memanggang"
    },
    {
     "word": "焼ける",
     "reading": "やける",
-    "meaning": "to burn,to be roasted"
+    "meaning": "untuk dibakar, untuk dipanggang"
    }
   ]
  },
@@ -2619,11 +2619,11 @@ export const kanjiN2 = [
   "kanji": "胸",
   "level": "N2",
   "meanings": [
-   "Bosom",
-   "Breast",
-   "Chest",
-   "Heart",
-   "Feelings"
+   "Dada",
+   "Dada",
+   "Dada",
+   "Jantung",
+   "Perasaan"
   ],
   "kunyomi": [
    "むね",
@@ -2637,7 +2637,7 @@ export const kanjiN2 = [
    {
     "word": "胸",
     "reading": "むね",
-    "meaning": "breast,chest"
+    "meaning": "payudara, dada"
    }
   ]
  },
@@ -2645,8 +2645,8 @@ export const kanjiN2 = [
   "kanji": "脳",
   "level": "N2",
   "meanings": [
-   "Brain",
-   "Memory"
+   "Otak",
+   "Ingatan"
   ],
   "kunyomi": [
    "のうずる"
@@ -2668,8 +2668,8 @@ export const kanjiN2 = [
   "kanji": "枚",
   "level": "N2",
   "meanings": [
-   "Sheet Of...",
-   "Counter For Flat Thin Objects Or Sheets"
+   "Lembar...",
+   "Counter Untuk Benda Atau Lembaran Tipis Datar"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2689,9 +2689,9 @@ export const kanjiN2 = [
   "kanji": "禁",
   "level": "N2",
   "meanings": [
-   "Prohibition",
-   "Ban",
-   "Forbid"
+   "Larangan",
+   "Melarang",
+   "Melarang"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2702,12 +2702,12 @@ export const kanjiN2 = [
    {
     "word": "禁止",
     "reading": "きんし",
-    "meaning": "prohibition,ban"
+    "meaning": "larangan, larangan"
    },
    {
     "word": "禁煙",
     "reading": "きんえん",
-    "meaning": "No Smoking!"
+    "meaning": "DILARANG MEROKOK!"
    }
   ]
  },
@@ -2715,11 +2715,11 @@ export const kanjiN2 = [
   "kanji": "喫",
   "level": "N2",
   "meanings": [
-   "Consume",
-   "Eat",
-   "Drink",
-   "Smoke",
-   "Receive (a Blow)"
+   "Mengkonsumsi",
+   "Makan",
+   "Minum",
+   "Merokok",
+   "Menerima (Pukulan)"
   ],
   "kunyomi": [
    "の.む"
@@ -2732,7 +2732,7 @@ export const kanjiN2 = [
    {
     "word": "喫茶店",
     "reading": "きっさてん",
-    "meaning": "coffee lounge"
+    "meaning": "ruang kopi"
    }
   ]
  },
@@ -2740,12 +2740,12 @@ export const kanjiN2 = [
   "kanji": "減",
   "level": "N2",
   "meanings": [
-   "Dwindle",
-   "Decrease",
-   "Reduce",
-   "Decline",
-   "Curtail",
-   "Get Hungry"
+   "Berkurang",
+   "Mengurangi",
+   "Mengurangi",
+   "Menolak",
+   "Mengurangi",
+   "Menjadi Lapar"
   ],
   "kunyomi": [
    "へ.る",
@@ -2759,17 +2759,17 @@ export const kanjiN2 = [
    {
     "word": "減らす",
     "reading": "へらす",
-    "meaning": "to abate,to decrease,to diminish,to shorten"
+    "meaning": "untuk mereda, untuk mengurangi, untuk mengurangi, untuk memperpendek"
    },
    {
     "word": "減る",
     "reading": "へる",
-    "meaning": "to decrease (in size or number),to diminish,to abate"
+    "meaning": "untuk mengurangi (dalam ukuran atau jumlah), untuk mengurangi, untuk mereda"
    },
    {
     "word": "加減",
     "reading": "かげん",
-    "meaning": "addition and subtraction,allowance for"
+    "meaning": "penjumlahan dan pengurangan, penyisihan"
    }
   ]
  },
@@ -2777,12 +2777,12 @@ export const kanjiN2 = [
   "kanji": "順",
   "level": "N2",
   "meanings": [
-   "Obey",
-   "Order",
-   "Turn",
-   "Right",
-   "Docility",
-   "Occasion"
+   "Mematuhi",
+   "Memesan",
+   "Berbelok",
+   "Benar",
+   "Kepatuhan",
+   "Kesempatan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2793,12 +2793,12 @@ export const kanjiN2 = [
    {
     "word": "順調",
     "reading": "じゅんちょう",
-    "meaning": "favourable,doing well,O.K.,all right"
+    "meaning": "menguntungkan, baik-baik saja, oke, baiklah"
    },
    {
     "word": "順番",
     "reading": "じゅんばん",
-    "meaning": "turn (in line),order of things"
+    "meaning": "belok (berbaris),urutan hal"
    },
    {
     "word": "道順",
@@ -2812,9 +2812,9 @@ export const kanjiN2 = [
   "level": "N2",
   "meanings": [
    "Linen",
-   "Cloth",
-   "Spread",
-   "Distribute"
+   "Kain",
+   "Menyebar",
+   "Mendistribusikan"
   ],
   "kunyomi": [
    "ぬの"
@@ -2827,17 +2827,17 @@ export const kanjiN2 = [
    {
     "word": "財布",
     "reading": "さいふ",
-    "meaning": "wallet"
+    "meaning": "dompet"
    },
    {
     "word": "布団",
     "reading": "ふとん",
-    "meaning": "Japanese bedding, futon"
+    "meaning": "Perlengkapan tidur Jepang, futon"
    },
    {
     "word": "毛布",
     "reading": "もうふ",
-    "meaning": "blanket"
+    "meaning": "selimut"
    }
   ]
  },
@@ -2845,9 +2845,9 @@ export const kanjiN2 = [
   "kanji": "詞",
   "level": "N2",
   "meanings": [
-   "Part Of Speech",
-   "Words",
-   "Poetry"
+   "Bagian Pidato",
+   "Kata-kata",
+   "Puisi"
   ],
   "kunyomi": [
    "ことば"
@@ -2860,7 +2860,7 @@ export const kanjiN2 = [
    {
     "word": "動詞",
     "reading": "どうし",
-    "meaning": "verb"
+    "meaning": "kata kerja"
    }
   ]
  },
@@ -2868,9 +2868,9 @@ export const kanjiN2 = [
   "kanji": "歴",
   "level": "N2",
   "meanings": [
-   "Curriculum",
-   "Continuation",
-   "Passage Of Time"
+   "Kurikulum",
+   "Kelanjutan",
+   "Lorong waktu"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2882,7 +2882,7 @@ export const kanjiN2 = [
    {
     "word": "歴史",
     "reading": "れきし",
-    "meaning": "history"
+    "meaning": "sejarah"
    }
   ]
  },
@@ -2890,8 +2890,8 @@ export const kanjiN2 = [
   "kanji": "冊",
   "level": "N2",
   "meanings": [
-   "Tome",
-   "Counter For Books",
+   "Jilid",
+   "Konter Untuk Buku",
    "Volume"
   ],
   "kunyomi": [
@@ -2914,10 +2914,10 @@ export const kanjiN2 = [
   "kanji": "宇",
   "level": "N2",
   "meanings": [
-   "Eaves",
-   "Roof",
-   "House",
-   "Heaven"
+   "Atap",
+   "Atap",
+   "Rumah",
+   "Surga"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2928,7 +2928,7 @@ export const kanjiN2 = [
    {
     "word": "宇宙",
     "reading": "うちゅう",
-    "meaning": "universe,cosmos,space"
+    "meaning": "alam semesta, kosmos, ruang angkasa"
    }
   ]
  },
@@ -2936,8 +2936,8 @@ export const kanjiN2 = [
   "kanji": "団",
   "level": "N2",
   "meanings": [
-   "Group",
-   "Association"
+   "Kelompok",
+   "Asosiasi"
   ],
   "kunyomi": [
    "かたまり",
@@ -2952,17 +2952,17 @@ export const kanjiN2 = [
    {
     "word": "布団",
     "reading": "ふとん",
-    "meaning": "Japanese bedding, futon"
+    "meaning": "Perlengkapan tidur Jepang, futon"
    },
    {
     "word": "集団",
     "reading": "しゅうだん",
-    "meaning": "group,mass"
+    "meaning": "kelompok, massal"
    },
    {
     "word": "団体",
     "reading": "だんたい",
-    "meaning": "organization,association"
+    "meaning": "organisasi, asosiasi"
    }
   ]
  },
@@ -2970,13 +2970,13 @@ export const kanjiN2 = [
   "kanji": "暴",
   "level": "N2",
   "meanings": [
-   "Outburst",
-   "Rave",
-   "Fret",
-   "Force",
-   "Violence",
-   "Cruelty",
-   "Outrage"
+   "Ledakan",
+   "Sambutan hangat",
+   "Resah",
+   "Memaksa",
+   "Kekerasan",
+   "Kekejaman",
+   "Kebiadaban"
   ],
   "kunyomi": [
    "あば.く",
@@ -2999,9 +2999,9 @@ export const kanjiN2 = [
   "kanji": "混",
   "level": "N2",
   "meanings": [
-   "Mix",
-   "Blend",
-   "Confuse"
+   "Mencampur",
+   "Mencampur",
+   "Bingung"
   ],
   "kunyomi": [
    "ま.じる",
@@ -3018,12 +3018,12 @@ export const kanjiN2 = [
    {
     "word": "混雑",
     "reading": "こんざつ",
-    "meaning": "confusion,congestion"
+    "meaning": "kebingungan, kemacetan"
    },
    {
     "word": "混乱",
     "reading": "こんらん",
-    "meaning": "disorder,chaos,confusion,mayhem"
+    "meaning": "kekacauan, kekacauan, kebingungan, kekacauan"
    },
    {
     "word": "混合",
@@ -3036,10 +3036,10 @@ export const kanjiN2 = [
   "kanji": "乱",
   "level": "N2",
   "meanings": [
-   "Riot",
-   "War",
-   "Disorder",
-   "Disturb"
+   "Kerusuhan",
+   "Perang",
+   "Kekacauan",
+   "Mengganggu"
   ],
   "kunyomi": [
    "みだ.れる",
@@ -3058,7 +3058,7 @@ export const kanjiN2 = [
    {
     "word": "混乱",
     "reading": "こんらん",
-    "meaning": "disorder,chaos,confusion,mayhem"
+    "meaning": "kekacauan, kekacauan, kebingungan, kekacauan"
    }
   ]
  },
@@ -3066,14 +3066,14 @@ export const kanjiN2 = [
   "kanji": "改",
   "level": "N2",
   "meanings": [
-   "Reformation",
-   "Change",
-   "Modify",
-   "Mend",
-   "Renew",
-   "Examine",
-   "Inspect",
-   "Search"
+   "Reformasi",
+   "Mengubah",
+   "Memodifikasi",
+   "Memperbaiki",
+   "Memperbarui",
+   "Meneliti",
+   "Memeriksa",
+   "Mencari"
   ],
   "kunyomi": [
    "あらた.める",
@@ -3087,7 +3087,7 @@ export const kanjiN2 = [
    {
     "word": "改善",
     "reading": "かいぜん",
-    "meaning": "betterment,improvement"
+    "meaning": "perbaikan, perbaikan"
    },
    {
     "word": "改造",
@@ -3100,9 +3100,9 @@ export const kanjiN2 = [
   "kanji": "絡",
   "level": "N2",
   "meanings": [
-   "Entwine",
-   "Coil Around",
-   "Get Caught In"
+   "Membelitkan",
+   "Melilit",
+   "Terjebak"
   ],
   "kunyomi": [
    "から.む",
@@ -3116,7 +3116,7 @@ export const kanjiN2 = [
    {
     "word": "連絡",
     "reading": "れんらく",
-    "meaning": "contact"
+    "meaning": "kontak"
    }
   ]
  },
@@ -3124,10 +3124,10 @@ export const kanjiN2 = [
   "kanji": "比",
   "level": "N2",
   "meanings": [
-   "Compare",
-   "Race",
-   "Ratio",
-   "Philippines"
+   "Membandingkan",
+   "Balapan",
+   "Perbandingan",
+   "Filipina"
   ],
   "kunyomi": [
    "くら.べる"
@@ -3140,12 +3140,12 @@ export const kanjiN2 = [
    {
     "word": "比べる",
     "reading": "くらべる",
-    "meaning": "to compare"
+    "meaning": "untuk membandingkan"
    },
    {
     "word": "比較",
     "reading": "ひかく",
-    "meaning": "comparison"
+    "meaning": "perbandingan"
    },
    {
     "word": "比較的",
@@ -3158,15 +3158,15 @@ export const kanjiN2 = [
   "kanji": "被",
   "level": "N2",
   "meanings": [
-   "Incur",
-   "Cover",
-   "Veil",
-   "Brood Over",
-   "Shelter",
-   "Wear",
-   "Put On",
-   "Be Exposed (film)",
-   "Receiving"
+   "Mendatangkan",
+   "Menutupi",
+   "Kerudung",
+   "Merenung",
+   "Tempat berlindung",
+   "Memakai",
+   "Memakai",
+   "Diekspos (film)",
+   "Menerima"
   ],
   "kunyomi": [
    "こうむ.る",
@@ -3182,12 +3182,12 @@ export const kanjiN2 = [
    {
     "word": "被る",
     "reading": "かぶる",
-    "meaning": "to suffer"
+    "meaning": "menderita"
    },
    {
     "word": "被害",
     "reading": "ひがい",
-    "meaning": "damage"
+    "meaning": "kerusakan"
    }
   ]
  },
@@ -3195,11 +3195,11 @@ export const kanjiN2 = [
   "kanji": "震",
   "level": "N2",
   "meanings": [
-   "Quake",
-   "Shake",
-   "Tremble",
-   "Quiver",
-   "Shiver"
+   "Gempa",
+   "Menggoyang",
+   "Gemetar",
+   "Gemetar",
+   "Menggigil"
   ],
   "kunyomi": [
    "ふる.う",
@@ -3213,12 +3213,12 @@ export const kanjiN2 = [
    {
     "word": "地震",
     "reading": "じしん",
-    "meaning": "earthquake"
+    "meaning": "gempa bumi"
    },
    {
     "word": "震える",
     "reading": "ふるえる",
-    "meaning": "menggigil, gemetar, gemetar"
+    "meaning": "menyampaikan, gemetar, gemetar"
    }
   ]
  },
@@ -3226,10 +3226,10 @@ export const kanjiN2 = [
   "kanji": "械",
   "level": "N2",
   "meanings": [
-   "Contraption",
-   "Fetter",
-   "Machine",
-   "Instrument"
+   "Alat",
+   "Membelenggu",
+   "Mesin",
+   "Instrumen"
   ],
   "kunyomi": [
    "かせ"
@@ -3242,7 +3242,7 @@ export const kanjiN2 = [
    {
     "word": "機械",
     "reading": "きかい",
-    "meaning": "machine,mechanism"
+    "meaning": "mesin, mekanisme"
    }
   ]
  },
@@ -3250,8 +3250,8 @@ export const kanjiN2 = [
   "kanji": "個",
   "level": "N2",
   "meanings": [
-   "Individual",
-   "Counter For Articles"
+   "Individu",
+   "Penghitung Untuk Artikel"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -3263,7 +3263,7 @@ export const kanjiN2 = [
    {
     "word": "個人",
     "reading": "こじん",
-    "meaning": "individual,private person,personal,private"
+    "meaning": "individu, orang pribadi, pribadi, pribadi"
    }
   ]
  },
@@ -3271,11 +3271,11 @@ export const kanjiN2 = [
   "kanji": "圧",
   "level": "N2",
   "meanings": [
-   "Pressure",
-   "Push",
-   "Overwhelm",
-   "Oppress",
-   "Dominate"
+   "Tekanan",
+   "Dorongan",
+   "Membanjiri",
+   "Menindas",
+   "Mendominasi"
   ],
   "kunyomi": [
    "お.す",
@@ -3301,13 +3301,13 @@ export const kanjiN2 = [
   "kanji": "厚",
   "level": "N2",
   "meanings": [
-   "Thick",
-   "Heavy",
-   "Rich",
-   "Kind",
-   "Cordial",
-   "Brazen",
-   "Shameless"
+   "Tebal",
+   "Berat",
+   "Kaya",
+   "Baik",
+   "Ramah",
+   "Kurang ajar",
+   "Tak tahu malu"
   ],
   "kunyomi": [
    "あつ.い",
@@ -3329,10 +3329,10 @@ export const kanjiN2 = [
   "kanji": "防",
   "level": "N2",
   "meanings": [
-   "Ward Off",
-   "Defend",
-   "Protect",
-   "Resist"
+   "Menangkal",
+   "Membela",
+   "Melindungi",
+   "Melawan"
   ],
   "kunyomi": [
    "ふせ.ぐ"
@@ -3345,17 +3345,17 @@ export const kanjiN2 = [
    {
     "word": "消防",
     "reading": "しょうぼう",
-    "meaning": "pemadaman kebakaran, pemadam kebakaran"
+    "meaning": "pemadaman kebakaran, pemadaman kebakaran"
    },
    {
     "word": "防ぐ",
     "reading": "ふせぐ",
-    "meaning": "to defend (against),to protect,to prevent"
+    "meaning": "untuk membela (melawan), untuk melindungi, untuk mencegah"
    },
    {
     "word": "予防",
     "reading": "よぼう",
-    "meaning": "prevention,precaution,protection against"
+    "meaning": "pencegahan, pencegahan, perlindungan terhadap"
    }
   ]
  },
@@ -3363,8 +3363,8 @@ export const kanjiN2 = [
   "kanji": "史",
   "level": "N2",
   "meanings": [
-   "History",
-   "Chronicle"
+   "Sejarah",
+   "Kronik"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -3375,7 +3375,7 @@ export const kanjiN2 = [
    {
     "word": "歴史",
     "reading": "れきし",
-    "meaning": "history"
+    "meaning": "sejarah"
    }
   ]
  },
@@ -3383,11 +3383,11 @@ export const kanjiN2 = [
   "kanji": "委",
   "level": "N2",
   "meanings": [
-   "Committee",
-   "Entrust To",
-   "Leave To",
-   "Devote",
-   "Discard"
+   "Komite",
+   "Percayakan Kepada",
+   "Tinggalkan Ke",
+   "Mendedikasikan",
+   "Membuang"
   ],
   "kunyomi": [
    "ゆだ.ねる"
@@ -3400,7 +3400,7 @@ export const kanjiN2 = [
    {
     "word": "委員",
     "reading": "いいん",
-    "meaning": "committee member"
+    "meaning": "anggota komite"
    }
   ]
  },
@@ -3408,7 +3408,7 @@ export const kanjiN2 = [
   "kanji": "査",
   "level": "N2",
   "meanings": [
-   "Investigate"
+   "Menyelidiki"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -3419,12 +3419,12 @@ export const kanjiN2 = [
    {
     "word": "調査",
     "reading": "ちょうさ",
-    "meaning": "investigation,examination,inquiry,survey"
+    "meaning": "penyelidikan, pemeriksaan, penyelidikan, survei"
    },
    {
     "word": "検査",
     "reading": "けんさ",
-    "meaning": "inspection (e.g. customs, factory),examination"
+    "meaning": "inspeksi (misalnya bea cukai, pabrik), pemeriksaan"
    },
    {
     "word": "審査",
@@ -3437,10 +3437,10 @@ export const kanjiN2 = [
   "kanji": "総",
   "level": "N2",
   "meanings": [
-   "General",
-   "Whole",
-   "All",
-   "Full",
+   "Umum",
+   "Utuh",
+   "Semua",
+   "Penuh",
    "Total"
   ],
   "kunyomi": [
@@ -3464,9 +3464,9 @@ export const kanjiN2 = [
   "kanji": "設",
   "level": "N2",
   "meanings": [
-   "Establishment",
-   "Provision",
-   "Prepare"
+   "Pembentukan",
+   "Persediaan",
+   "Mempersiapkan"
   ],
   "kunyomi": [
    "もう.ける"
@@ -3484,12 +3484,12 @@ export const kanjiN2 = [
    {
     "word": "設計",
     "reading": "せっけい",
-    "meaning": "plan,design"
+    "meaning": "rencana, desain"
    },
    {
     "word": "設備",
     "reading": "せつび",
-    "meaning": "equipment,device,facilities,installation"
+    "meaning": "peralatan, perangkat, fasilitas, instalasi"
    }
   ]
  },
@@ -3497,9 +3497,9 @@ export const kanjiN2 = [
   "kanji": "省",
   "level": "N2",
   "meanings": [
-   "Focus",
-   "Government Ministry",
-   "Conserve"
+   "Fokus",
+   "Kementerian Pemerintah",
+   "Melestarikan"
   ],
   "kunyomi": [
    "かえり.みる",
@@ -3514,7 +3514,7 @@ export const kanjiN2 = [
    {
     "word": "省く",
     "reading": "はぶく",
-    "meaning": "to omit,to eliminate,to curtail,to economize"
+    "meaning": "menghilangkan, menghilangkan, membatasi, menghemat"
    },
    {
     "word": "反省",
@@ -3527,8 +3527,8 @@ export const kanjiN2 = [
   "kanji": "税",
   "level": "N2",
   "meanings": [
-   "Tax",
-   "Duty"
+   "Pajak",
+   "Tugas"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -3539,7 +3539,7 @@ export const kanjiN2 = [
    {
     "word": "税金",
     "reading": "ぜいきん",
-    "meaning": "tax,duty"
+    "meaning": "pajak, bea"
    }
   ]
  },
@@ -3547,9 +3547,9 @@ export const kanjiN2 = [
   "kanji": "各",
   "level": "N2",
   "meanings": [
-   "Each",
-   "Every",
-   "Either"
+   "Setiap",
+   "Setiap",
+   "Salah satu"
   ],
   "kunyomi": [
    "おのおの"
@@ -3570,9 +3570,9 @@ export const kanjiN2 = [
   "kanji": "勢",
   "level": "N2",
   "meanings": [
-   "Forces",
-   "Energy",
-   "Military Strength"
+   "kekuatan",
+   "Energi",
+   "Kekuatan Militer"
   ],
   "kunyomi": [
    "いきお.い",
@@ -3587,12 +3587,12 @@ export const kanjiN2 = [
    {
     "word": "大勢",
     "reading": "おおぜい",
-    "meaning": "great number of people"
+    "meaning": "sejumlah besar orang"
    },
    {
     "word": "勢い",
     "reading": "いきおい",
-    "meaning": "force,vigor,energy,spirit"
+    "meaning": "kekuatan, kekuatan, energi, semangat"
    }
   ]
  },
@@ -3600,11 +3600,11 @@ export const kanjiN2 = [
   "kanji": "営",
   "level": "N2",
   "meanings": [
-   "Occupation",
-   "Camp",
-   "Perform",
-   "Build",
-   "Conduct (business)"
+   "Pekerjaan",
+   "Kamp",
+   "Melakukan",
+   "Membangun",
+   "Perilaku (bisnis)"
   ],
   "kunyomi": [
    "いとな.む",
@@ -3618,12 +3618,12 @@ export const kanjiN2 = [
    {
     "word": "経営",
     "reading": "けいえい",
-    "meaning": "management,administration"
+    "meaning": "manajemen, administrasi"
    },
    {
     "word": "営業",
     "reading": "えいぎょう",
-    "meaning": "business,trade,management"
+    "meaning": "bisnis, perdagangan, manajemen"
    }
   ]
  },
@@ -3631,11 +3631,11 @@ export const kanjiN2 = [
   "kanji": "領",
   "level": "N2",
   "meanings": [
-   "Jurisdiction",
-   "Dominion",
-   "Territory",
-   "Fief",
-   "Reign"
+   "Yurisdiksi",
+   "Kekuasaan",
+   "Wilayah",
+   "wilayah kekuasaan",
+   "Memerintah"
   ],
   "kunyomi": [
    "えり"
@@ -3648,7 +3648,7 @@ export const kanjiN2 = [
    {
     "word": "大統領",
     "reading": "だいとうりょう",
-    "meaning": "president,chief executive"
+    "meaning": "presiden, kepala eksekutif"
    }
   ]
  },
@@ -3656,11 +3656,11 @@ export const kanjiN2 = [
   "kanji": "副",
   "level": "N2",
   "meanings": [
-   "Vice-",
-   "Assistant",
-   "Aide",
-   "Duplicate",
-   "Copy"
+   "Keburukan-",
+   "Asisten",
+   "Pembantu",
+   "Duplikat",
+   "Menyalin"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -3679,11 +3679,11 @@ export const kanjiN2 = [
   "kanji": "域",
   "level": "N2",
   "meanings": [
-   "Range",
-   "Region",
-   "Limits",
-   "Stage",
-   "Level"
+   "Jangkauan",
+   "Wilayah",
+   "Batasan",
+   "Panggung",
+   "Tingkat"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -3694,7 +3694,7 @@ export const kanjiN2 = [
    {
     "word": "地域",
     "reading": "ちいき",
-    "meaning": "area,region"
+    "meaning": "daerah, wilayah"
    }
   ]
  },
@@ -3702,8 +3702,8 @@ export const kanjiN2 = [
   "kanji": "停",
   "level": "N2",
   "meanings": [
-   "Halt",
-   "Stopping"
+   "Berhenti",
+   "Henti"
   ],
   "kunyomi": [
    "と.める",
@@ -3717,7 +3717,7 @@ export const kanjiN2 = [
    {
     "word": "停留所",
     "reading": "ていりゅうじょ",
-    "meaning": "bus or tram stop"
+    "meaning": "halte bus atau trem"
    }
   ]
  },
@@ -3725,10 +3725,10 @@ export const kanjiN2 = [
   "kanji": "革",
   "level": "N2",
   "meanings": [
-   "Leather",
-   "Skin",
-   "Reform",
-   "Become Serious"
+   "Kulit",
+   "Kulit",
+   "Pembaruan",
+   "Menjadi Serius"
   ],
   "kunyomi": [
    "かわ"
@@ -3749,11 +3749,11 @@ export const kanjiN2 = [
   "kanji": "律",
   "level": "N2",
   "meanings": [
-   "Rhythm",
-   "Law",
-   "Regulation",
-   "Gauge",
-   "Control"
+   "Irama",
+   "Hukum",
+   "Peraturan",
+   "Mengukur",
+   "Kontrol"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -3775,10 +3775,10 @@ export const kanjiN2 = [
   "level": "N2",
   "meanings": [
    "Semi-",
-   "Correspond To",
-   "Proportionate To",
-   "Conform",
-   "Imitate"
+   "Sesuai dengan",
+   "Sebanding dengan",
+   "Sesuai",
+   "Meniru"
   ],
   "kunyomi": [
    "じゅん.じる",
@@ -3796,17 +3796,17 @@ export const kanjiN2 = [
    {
     "word": "準備",
     "reading": "じゅんび・する",
-    "meaning": "to prepare"
+    "meaning": "untuk mempersiapkan"
    },
    {
     "word": "準備",
     "reading": "じゅんび",
-    "meaning": "preparation,arrangements,provision,reserve"
+    "meaning": "persiapan, pengaturan, penyediaan, cadangan"
    },
    {
     "word": "水準",
     "reading": "すいじゅん",
-    "meaning": "(1) water level,(2) level,standard"
+    "meaning": "(1) ketinggian air, (2) ketinggian, standar"
    }
   ]
  },
@@ -3814,10 +3814,10 @@ export const kanjiN2 = [
   "kanji": "則",
   "level": "N2",
   "meanings": [
-   "Rule",
-   "Follow",
-   "Based On",
-   "Model After"
+   "Aturan",
+   "Mengikuti",
+   "Berdasarkan",
+   "Model Setelah"
   ],
   "kunyomi": [
    "のっと.る"
@@ -3838,10 +3838,10 @@ export const kanjiN2 = [
   "kanji": "導",
   "level": "N2",
   "meanings": [
-   "Guidance",
-   "Leading",
-   "Conduct",
-   "Usher"
+   "Panduan",
+   "Terkemuka",
+   "Mengadakan",
+   "Mengantar"
   ],
   "kunyomi": [
    "みちび.く"
@@ -3854,7 +3854,7 @@ export const kanjiN2 = [
    {
     "word": "指導",
     "reading": "しどう",
-    "meaning": "leadership,guidance,coaching"
+    "meaning": "kepemimpinan, bimbingan, pembinaan"
    }
   ]
  },
@@ -3862,8 +3862,8 @@ export const kanjiN2 = [
   "kanji": "乳",
   "level": "N2",
   "meanings": [
-   "Milk",
-   "Breasts"
+   "Susu",
+   "Payudara"
   ],
   "kunyomi": [
    "ちち",
@@ -3877,7 +3877,7 @@ export const kanjiN2 = [
    {
     "word": "牛乳",
     "reading": "ぎゅうにゅう",
-    "meaning": "milk"
+    "meaning": "susu"
    }
   ]
  },
@@ -3885,7 +3885,7 @@ export const kanjiN2 = [
   "kanji": "城",
   "level": "N2",
   "meanings": [
-   "Castle"
+   "Kastil"
   ],
   "kunyomi": [
    "しろ"
@@ -3899,7 +3899,7 @@ export const kanjiN2 = [
    {
     "word": "城",
     "reading": "しろ",
-    "meaning": "castle"
+    "meaning": "kastil"
    }
   ]
  },
@@ -3907,10 +3907,10 @@ export const kanjiN2 = [
   "kanji": "担",
   "level": "N2",
   "meanings": [
-   "Shouldering",
-   "Carry",
-   "Raise",
-   "Bear"
+   "Memikul",
+   "Membawa",
+   "Mengangkat",
+   "Beruang"
   ],
   "kunyomi": [
    "かつ.ぐ",
@@ -3932,12 +3932,12 @@ export const kanjiN2 = [
   "kanji": "額",
   "level": "N2",
   "meanings": [
-   "Forehead",
+   "Dahi",
    "Tablet",
-   "Plaque",
-   "Framed Picture",
-   "Sum",
-   "Amount",
+   "Plak",
+   "Gambar Berbingkai",
+   "Jumlah",
+   "Jumlah",
    "Volume"
   ],
   "kunyomi": [
@@ -3951,7 +3951,7 @@ export const kanjiN2 = [
    {
     "word": "金額",
     "reading": "きんがく",
-    "meaning": "amount of money"
+    "meaning": "sejumlah uang"
    }
   ]
  },
@@ -3959,9 +3959,9 @@ export const kanjiN2 = [
   "kanji": "輸",
   "level": "N2",
   "meanings": [
-   "Transport",
-   "Send",
-   "Be Inferior"
+   "Mengangkut",
+   "Mengirim",
+   "Menjadi lebih rendah"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -3973,12 +3973,12 @@ export const kanjiN2 = [
    {
     "word": "輸入",
     "reading": "ゆにゅう・する",
-    "meaning": "to import"
+    "meaning": "untuk mengimpor"
    },
    {
     "word": "輸出",
     "reading": "ゆしゅつ・する",
-    "meaning": "to export"
+    "meaning": "untuk mengekspor"
    },
    {
     "word": "輸出",
@@ -3991,9 +3991,9 @@ export const kanjiN2 = [
   "kanji": "燃",
   "level": "N2",
   "meanings": [
-   "Burn",
-   "Blaze",
-   "Glow"
+   "Membakar",
+   "Api",
+   "Binar"
   ],
   "kunyomi": [
    "も.える",
@@ -4008,7 +4008,7 @@ export const kanjiN2 = [
    {
     "word": "燃える",
     "reading": "もえる",
-    "meaning": "to burn"
+    "meaning": "untuk membakar"
    }
   ]
  },
@@ -4016,8 +4016,8 @@ export const kanjiN2 = [
   "kanji": "祝",
   "level": "N2",
   "meanings": [
-   "Celebrate",
-   "Congratulate"
+   "Merayakan",
+   "Mengucapkan selamat"
   ],
   "kunyomi": [
    "いわ.う"
@@ -4036,12 +4036,12 @@ export const kanjiN2 = [
    {
     "word": "祝う",
     "reading": "いわう",
-    "meaning": "to congratulate,to celebrate"
+    "meaning": "untuk mengucapkan selamat, untuk merayakan"
    },
    {
     "word": "祝い",
     "reading": "いわい",
-    "meaning": "celebration,festival"
+    "meaning": "perayaan, festival"
    }
   ]
  },
@@ -4049,12 +4049,12 @@ export const kanjiN2 = [
   "kanji": "届",
   "level": "N2",
   "meanings": [
-   "Deliver",
-   "Reach",
-   "Arrive",
-   "Report",
-   "Notify",
-   "Forward"
+   "Mengantarkan",
+   "Mencapai",
+   "Tiba",
+   "Laporan",
+   "Memberitahu",
+   "Maju"
   ],
   "kunyomi": [
    "とど.ける",
@@ -4074,7 +4074,7 @@ export const kanjiN2 = [
    {
     "word": "届く",
     "reading": "とどく",
-    "meaning": "to reach"
+    "meaning": "untuk mencapai"
    }
   ]
  },
@@ -4082,7 +4082,7 @@ export const kanjiN2 = [
   "kanji": "肩",
   "level": "N2",
   "meanings": [
-   "Shoulder"
+   "Bahu"
   ],
   "kunyomi": [
    "かた"
@@ -4095,7 +4095,7 @@ export const kanjiN2 = [
    {
     "word": "肩",
     "reading": "かた",
-    "meaning": "shoulder"
+    "meaning": "bahu"
    }
   ]
  },
@@ -4103,9 +4103,9 @@ export const kanjiN2 = [
   "kanji": "腕",
   "level": "N2",
   "meanings": [
-   "Arm",
-   "Ability",
-   "Talent"
+   "Lengan",
+   "Kemampuan",
+   "Bakat"
   ],
   "kunyomi": [
    "うで"
@@ -4118,7 +4118,7 @@ export const kanjiN2 = [
    {
     "word": "腕",
     "reading": "うで",
-    "meaning": "arm"
+    "meaning": "lengan"
    }
   ]
  },
@@ -4126,10 +4126,10 @@ export const kanjiN2 = [
   "kanji": "腰",
   "level": "N2",
   "meanings": [
-   "Loins",
-   "Hips",
-   "Waist",
-   "Low Wainscoting"
+   "pinggang",
+   "Panggul",
+   "Pinggang",
+   "lis dinding rendah"
   ],
   "kunyomi": [
    "こし"
@@ -4142,7 +4142,7 @@ export const kanjiN2 = [
    {
     "word": "腰",
     "reading": "こし",
-    "meaning": "hip"
+    "meaning": "panggul"
    }
   ]
  },
@@ -4150,13 +4150,13 @@ export const kanjiN2 = [
   "kanji": "触",
   "level": "N2",
   "meanings": [
-   "Contact",
-   "Touch",
-   "Feel",
-   "Hit",
-   "Proclaim",
-   "Announce",
-   "Conflict"
+   "Kontak",
+   "Menyentuh",
+   "Merasa",
+   "Memukul",
+   "Menyatakan",
+   "Mengumumkan",
+   "Konflik"
   ],
   "kunyomi": [
    "ふ.れる",
@@ -4171,12 +4171,12 @@ export const kanjiN2 = [
    {
     "word": "触る",
     "reading": "さわる",
-    "meaning": "untuk menyentuh"
+    "meaning": "untuk disentuh"
    },
    {
     "word": "触れる",
     "reading": "ふれる",
-    "meaning": "to touch,to be touched,to touch on a subject,to feel,to violate (law, copyright, etc.),to perceive,t"
+    "meaning": "menyentuh, disentuh, menyentuh subjek, merasakan, melanggar (hukum, hak cipta, dll.), merasakan, t"
    }
   ]
  },
@@ -4184,11 +4184,11 @@ export const kanjiN2 = [
   "kanji": "層",
   "level": "N2",
   "meanings": [
-   "Stratum",
-   "Social Class",
-   "Layer",
-   "Story",
-   "Floor"
+   "Lapisan",
+   "Kelas Sosial",
+   "Lapisan",
+   "Cerita",
+   "Lantai"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -4199,7 +4199,7 @@ export const kanjiN2 = [
    {
     "word": "一層",
     "reading": "いっそう",
-    "meaning": "much more,still more,all the more"
+    "meaning": "lebih banyak lagi, lebih banyak lagi, lebih banyak lagi"
    }
   ]
  },
@@ -4207,8 +4207,8 @@ export const kanjiN2 = [
   "kanji": "型",
   "level": "N2",
   "meanings": [
-   "Mould",
-   "Type",
+   "Cetakan",
+   "Jenis",
    "Model"
   ],
   "kunyomi": [
@@ -4223,7 +4223,7 @@ export const kanjiN2 = [
    {
     "word": "典型",
     "reading": "てんけい",
-    "meaning": "type,pattern,archetypal"
+    "meaning": "jenis, pola, pola dasar"
    }
   ]
  },
@@ -4231,7 +4231,7 @@ export const kanjiN2 = [
   "kanji": "庁",
   "level": "N2",
   "meanings": [
-   "Government Office"
+   "Kantor Pemerintah"
   ],
   "kunyomi": [
    "やくしょ"
@@ -4253,12 +4253,12 @@ export const kanjiN2 = [
   "kanji": "管",
   "level": "N2",
   "meanings": [
-   "Pipe",
-   "Tube",
-   "Wind Instrument",
-   "Drunken Talk",
-   "Control",
-   "Jurisdiction"
+   "Pipa",
+   "Tabung",
+   "Alat Musik Tiup",
+   "Bicara Mabuk",
+   "Kontrol",
+   "Yurisdiksi"
   ],
   "kunyomi": [
    "くだ"
@@ -4271,7 +4271,7 @@ export const kanjiN2 = [
    {
     "word": "管理",
     "reading": "かんり",
-    "meaning": "control,management (e.g. of a business)"
+    "meaning": "kontrol, manajemen (misalnya bisnis)"
    },
    {
     "word": "保管",
@@ -4284,12 +4284,12 @@ export const kanjiN2 = [
   "kanji": "象",
   "level": "N2",
   "meanings": [
-   "Elephant",
-   "Pattern After",
-   "Imitate",
-   "Image",
-   "Shape",
-   "Sign (of The Times)"
+   "Gajah",
+   "Pola Setelahnya",
+   "Meniru",
+   "Gambar",
+   "Membentuk",
+   "Tanda tangan (dari The Times)"
   ],
   "kunyomi": [
    "かたど.る"
@@ -4303,17 +4303,17 @@ export const kanjiN2 = [
    {
     "word": "対象",
     "reading": "たいしょう",
-    "meaning": "target,object (of worship, study, etc),subject (of taxation, etc)"
+    "meaning": "sasaran, obyek (ibadah, belajar, dan lain-lain), subjek (pajak, dan lain-lain)"
    },
    {
     "word": "印象",
     "reading": "いんしょう",
-    "meaning": "impression"
+    "meaning": "kesan"
    },
    {
     "word": "現象",
     "reading": "げんしょう",
-    "meaning": "phenomenon"
+    "meaning": "gejala"
    }
   ]
  },
@@ -4321,13 +4321,13 @@ export const kanjiN2 = [
   "kanji": "量",
   "level": "N2",
   "meanings": [
-   "Quantity",
-   "Measure",
-   "Weight",
-   "Amount",
-   "Consider",
-   "Estimate",
-   "Surmise"
+   "Kuantitas",
+   "Ukuran",
+   "Berat",
+   "Jumlah",
+   "Mempertimbangkan",
+   "Memperkirakan",
+   "Menduga"
   ],
   "kunyomi": [
    "はか.る"
@@ -4340,7 +4340,7 @@ export const kanjiN2 = [
    {
     "word": "量",
     "reading": "りょう",
-    "meaning": "quantity,amount,volume,portion (of food)"
+    "meaning": "kuantitas, jumlah, volume, porsi (makanan)"
    }
   ]
  },
@@ -4348,9 +4348,9 @@ export const kanjiN2 = [
   "kanji": "境",
   "level": "N2",
   "meanings": [
-   "Boundary",
-   "Border",
-   "Region"
+   "Batas",
+   "Berbatasan",
+   "Wilayah"
   ],
   "kunyomi": [
    "さかい"
@@ -4369,7 +4369,7 @@ export const kanjiN2 = [
    {
     "word": "環境",
     "reading": "かんきょう",
-    "meaning": "environment,circumstance"
+    "meaning": "lingkungan, keadaan"
    }
   ]
  },
@@ -4377,10 +4377,10 @@ export const kanjiN2 = [
   "kanji": "武",
   "level": "N2",
   "meanings": [
-   "Warrior",
-   "Military",
-   "Chivalry",
-   "Arms"
+   "Prajurit",
+   "Militer",
+   "Kesopanan",
+   "Lengan"
   ],
   "kunyomi": [
    "たけ",
@@ -4395,7 +4395,7 @@ export const kanjiN2 = [
    {
     "word": "武器",
     "reading": "ぶき",
-    "meaning": "weapon,arms,ordinance"
+    "meaning": "senjata, senjata, peraturan"
    }
   ]
  },
@@ -4403,10 +4403,10 @@ export const kanjiN2 = [
   "kanji": "述",
   "level": "N2",
   "meanings": [
-   "Mention",
-   "State",
-   "Speak",
-   "Relate"
+   "Menyebutkan",
+   "Negara",
+   "Berbicara",
+   "Mengaitkan"
   ],
   "kunyomi": [
    "の.べる"
@@ -4419,7 +4419,7 @@ export const kanjiN2 = [
    {
     "word": "述べる",
     "reading": "のべる",
-    "meaning": "to state,to express,to mention"
+    "meaning": "menyatakan, mengungkapkan, menyebutkan"
    }
   ]
  },
@@ -4427,9 +4427,9 @@ export const kanjiN2 = [
   "kanji": "販",
   "level": "N2",
   "meanings": [
-   "Marketing",
-   "Sell",
-   "Trade"
+   "Pemasaran",
+   "Menjual",
+   "Berdagang"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -4440,7 +4440,7 @@ export const kanjiN2 = [
    {
     "word": "販売",
     "reading": "はんばい",
-    "meaning": "sale,selling,marketing"
+    "meaning": "penjualan, penjualan, pemasaran"
    }
   ]
  },
@@ -4448,12 +4448,12 @@ export const kanjiN2 = [
   "kanji": "含",
   "level": "N2",
   "meanings": [
-   "Contain",
-   "Include",
-   "Hold In The Mouth",
-   "Bear In Mind",
-   "Understand",
-   "Cherish"
+   "Berisi",
+   "Termasuk",
+   "Tahan Di Mulut",
+   "Mengingat",
+   "Memahami",
+   "Menghargai"
   ],
   "kunyomi": [
    "ふく.む",
@@ -4467,7 +4467,7 @@ export const kanjiN2 = [
    {
     "word": "含む",
     "reading": "ふくむ",
-    "meaning": "to hold in the mouth,to bear in mind"
+    "meaning": "untuk dipegang di mulut, untuk diingat"
    }
   ]
  },
@@ -4475,8 +4475,8 @@ export const kanjiN2 = [
   "kanji": "況",
   "level": "N2",
   "meanings": [
-   "Condition",
-   "Situation"
+   "Kondisi",
+   "Situasi"
   ],
   "kunyomi": [
    "まし.て",
@@ -4491,7 +4491,7 @@ export const kanjiN2 = [
    {
     "word": "状況",
     "reading": "じょうきょう",
-    "meaning": "state of affairs,situation,circumstances"
+    "meaning": "keadaan, situasi, keadaan"
    },
    {
     "word": "好況",
@@ -4504,13 +4504,13 @@ export const kanjiN2 = [
   "kanji": "補",
   "level": "N2",
   "meanings": [
-   "Supplement",
-   "Supply",
-   "Make Good",
-   "Offset",
-   "Compensate",
-   "Assistant",
-   "Learner"
+   "Suplemen",
+   "Memasok",
+   "Berhasil",
+   "Mengimbangi",
+   "Mengimbangi",
+   "Asisten",
+   "Pelajar"
   ],
   "kunyomi": [
    "おぎな.う"
@@ -4523,7 +4523,7 @@ export const kanjiN2 = [
    {
     "word": "候補",
     "reading": "こうほ",
-    "meaning": "candidacy"
+    "meaning": "pencalonan"
    }
   ]
  },
@@ -4531,10 +4531,10 @@ export const kanjiN2 = [
   "kanji": "効",
   "level": "N2",
   "meanings": [
-   "Merit",
-   "Efficacy",
-   "Efficiency",
-   "Benefit"
+   "Kemampuan",
+   "Kemanjuran",
+   "Efisiensi",
+   "Keuntungan"
   ],
   "kunyomi": [
    "き.く",
@@ -4559,7 +4559,7 @@ export const kanjiN2 = [
    {
     "word": "効果",
     "reading": "こうか",
-    "meaning": "effect,effectiveness,efficacy,result"
+    "meaning": "efek, efektivitas, kemanjuran, hasil"
    }
   ]
  },
@@ -4567,9 +4567,9 @@ export const kanjiN2 = [
   "kanji": "豊",
   "level": "N2",
   "meanings": [
-   "Bountiful",
-   "Excellent",
-   "Rich"
+   "Berlimpah",
+   "Bagus sekali",
+   "Kaya"
   ],
   "kunyomi": [
    "ゆた.か",
@@ -4584,12 +4584,12 @@ export const kanjiN2 = [
    {
     "word": "豊富",
     "reading": "ほうふ",
-    "meaning": "abundance,wealth,plenty,bounty"
+    "meaning": "kelimpahan, kekayaan, kelimpahan, karunia"
    },
    {
     "word": "豊か",
     "reading": "ゆたか",
-    "meaning": "abundant,wealthy,plentiful,rich"
+    "meaning": "berlimpah, kaya, berlimpah, kaya"
    }
   ]
  },
@@ -4597,15 +4597,15 @@ export const kanjiN2 = [
   "kanji": "巻",
   "level": "N2",
   "meanings": [
-   "Scroll",
+   "Menggulir",
    "Volume",
-   "Book",
-   "Part",
-   "Roll Up",
-   "Wind Up",
-   "Tie",
-   "Coil",
-   "Counter For Texts (or Book Scrolls)"
+   "Buku",
+   "Bagian",
+   "Menggulung",
+   "Berakhir",
+   "Mengikat",
+   "Gulungan",
+   "Penghitung Untuk Teks (atau Gulungan Buku)"
   ],
   "kunyomi": [
    "ま.く",
@@ -4629,9 +4629,9 @@ export const kanjiN2 = [
   "kanji": "捜",
   "level": "N2",
   "meanings": [
-   "Search",
-   "Look For",
-   "Locate"
+   "Mencari",
+   "Mencari",
+   "Menemukan"
   ],
   "kunyomi": [
    "さが.す"
@@ -4654,9 +4654,9 @@ export const kanjiN2 = [
   "kanji": "替",
   "level": "N2",
   "meanings": [
-   "Exchange",
-   "Spare",
-   "Substitute",
+   "Menukarkan",
+   "Meluangkan",
+   "Pengganti",
    "Per-"
   ],
   "kunyomi": [
@@ -4672,7 +4672,7 @@ export const kanjiN2 = [
    {
     "word": "取り替える",
     "reading": "とりかえる",
-    "meaning": "to exchange"
+    "meaning": "untuk bertukar"
    },
    {
     "word": "両替",
@@ -4682,7 +4682,7 @@ export const kanjiN2 = [
    {
     "word": "替える",
     "reading": "かえる",
-    "meaning": "to exchange,to interchange,to substitute,to replace"
+    "meaning": "menukar, menukar, mengganti, mengganti"
    }
   ]
  },
@@ -4690,10 +4690,10 @@ export const kanjiN2 = [
   "kanji": "造",
   "level": "N2",
   "meanings": [
-   "Create",
-   "Make",
-   "Structure",
-   "Physique"
+   "Membuat",
+   "Membuat",
+   "Struktur",
+   "Perawakan"
   ],
   "kunyomi": [
    "つく.る",
@@ -4708,7 +4708,7 @@ export const kanjiN2 = [
    {
     "word": "製造",
     "reading": "せいぞう",
-    "meaning": "manufacture,production"
+    "meaning": "manufaktur, produksi"
    },
    {
     "word": "改造",
@@ -4726,15 +4726,15 @@ export const kanjiN2 = [
   "kanji": "印",
   "level": "N2",
   "meanings": [
-   "Stamp",
-   "Seal",
-   "Mark",
-   "Imprint",
-   "Symbol",
-   "Emblem",
-   "Trademark",
-   "Evidence",
-   "Souvenir",
+   "Perangko",
+   "Segel",
+   "Tanda",
+   "Jejak",
+   "Simbol",
+   "Lambang",
+   "Merek dagang",
+   "Bukti",
+   "Suvenir",
    "India"
   ],
   "kunyomi": [
@@ -4750,12 +4750,12 @@ export const kanjiN2 = [
    {
     "word": "印刷",
     "reading": "いんさつ",
-    "meaning": "printing"
+    "meaning": "pencetakan"
    },
    {
     "word": "印象",
     "reading": "いんしょう",
-    "meaning": "impression"
+    "meaning": "kesan"
    },
    {
     "word": "矢印",
@@ -4768,10 +4768,10 @@ export const kanjiN2 = [
   "kanji": "復",
   "level": "N2",
   "meanings": [
-   "Restore",
-   "Return To",
-   "Revert",
-   "Resume"
+   "Memulihkan",
+   "Kembali Ke",
+   "Kembali",
+   "Melanjutkan"
   ],
   "kunyomi": [
    "また"
@@ -4789,7 +4789,7 @@ export const kanjiN2 = [
    {
     "word": "回復",
     "reading": "かいふく",
-    "meaning": "recovery (from illness),improvement,rehabilitation,restoration"
+    "meaning": "pemulihan (dari penyakit),perbaikan,rehabilitasi,restorasi"
    }
   ]
  },
@@ -4797,10 +4797,10 @@ export const kanjiN2 = [
   "kanji": "筆",
   "level": "N2",
   "meanings": [
-   "Writing Brush",
-   "Writing",
-   "Painting Brush",
-   "Handwriting"
+   "Kuas Tulis",
+   "Menulis",
+   "Kuas Lukisan",
+   "Tulisan tangan"
   ],
   "kunyomi": [
    "ふで"
@@ -4813,12 +4813,12 @@ export const kanjiN2 = [
    {
     "word": "万年筆",
     "reading": "まんねんひつ",
-    "meaning": "pulpen"
+    "meaning": "bubur kertas"
    },
    {
     "word": "鉛筆",
     "reading": "えんぴつ",
-    "meaning": "pencil"
+    "meaning": "pensil"
    }
   ]
  },
@@ -4826,11 +4826,11 @@ export const kanjiN2 = [
   "kanji": "貯",
   "level": "N2",
   "meanings": [
-   "Savings",
-   "Store",
-   "Lay In",
-   "Keep",
-   "Wear Mustache"
+   "Tabungan",
+   "Toko",
+   "Berbaring",
+   "Menyimpan",
+   "Pakai Kumis"
   ],
   "kunyomi": [
    "た.める",
@@ -4844,7 +4844,7 @@ export const kanjiN2 = [
    {
     "word": "貯金",
     "reading": "ちょきん",
-    "meaning": "(bank) savings"
+    "meaning": "(bank) tabungan"
    }
   ]
  },
@@ -4852,12 +4852,12 @@ export const kanjiN2 = [
   "kanji": "刺",
   "level": "N2",
   "meanings": [
-   "Thorn",
-   "Pierce",
-   "Stab",
-   "Prick",
-   "Sting",
-   "Calling Card"
+   "Duri",
+   "Menembus",
+   "Menusuk",
+   "Tusukan",
+   "Menyengat",
+   "Kartu Panggil"
   ],
   "kunyomi": [
    "さ.す",
@@ -4874,7 +4874,7 @@ export const kanjiN2 = [
    {
     "word": "刺激",
     "reading": "しげき",
-    "meaning": "stimulus,impetus,incentive"
+    "meaning": "stimulus, dorongan, insentif"
    }
   ]
  },
@@ -4882,8 +4882,8 @@ export const kanjiN2 = [
   "kanji": "郵",
   "level": "N2",
   "meanings": [
-   "Mail",
-   "Stagecoach Stop"
+   "Surat",
+   "Pemberhentian Kereta Pos"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -4894,12 +4894,12 @@ export const kanjiN2 = [
    {
     "word": "郵便局",
     "reading": "ゆうびんきょく",
-    "meaning": "post office"
+    "meaning": "kantor Pos"
    },
    {
     "word": "郵便",
     "reading": "ゆうびん",
-    "meaning": "mail,postal service"
+    "meaning": "surat, layanan pos"
    }
   ]
  },
@@ -4907,10 +4907,10 @@ export const kanjiN2 = [
   "kanji": "針",
   "level": "N2",
   "meanings": [
-   "Needle",
+   "Jarum",
    "Pin",
-   "Staple",
-   "Stinger"
+   "Pokok",
+   "Alat penyengat"
   ],
   "kunyomi": [
    "はり"
@@ -4923,7 +4923,7 @@ export const kanjiN2 = [
    {
     "word": "針",
     "reading": "はり",
-    "meaning": "needle,hand (e.g. clock)"
+    "meaning": "jarum, tangan (misalnya jam)"
    }
   ]
  },
@@ -4931,9 +4931,9 @@ export const kanjiN2 = [
   "kanji": "菓",
   "level": "N2",
   "meanings": [
-   "Candy",
-   "Cakes",
-   "Fruit"
+   "Permen",
+   "kue",
+   "Buah"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -4944,12 +4944,12 @@ export const kanjiN2 = [
    {
     "word": "お菓子",
     "reading": "おかし",
-    "meaning": "sweets, candy"
+    "meaning": "permen, permen"
    },
    {
     "word": "菓子",
     "reading": "かし",
-    "meaning": "pastry"
+    "meaning": "kue kering"
    }
   ]
  },
@@ -4957,7 +4957,7 @@ export const kanjiN2 = [
   "kanji": "河",
   "level": "N2",
   "meanings": [
-   "River"
+   "Sungai"
   ],
   "kunyomi": [
    "かわ"
@@ -4970,7 +4970,7 @@ export const kanjiN2 = [
    {
     "word": "川/河",
     "reading": "かわ",
-    "meaning": "river"
+    "meaning": "sungai"
    }
   ]
  },
@@ -4978,8 +4978,8 @@ export const kanjiN2 = [
   "kanji": "汗",
   "level": "N2",
   "meanings": [
-   "Sweat",
-   "Perspire"
+   "Keringat",
+   "Berkeringat"
   ],
   "kunyomi": [
    "あせ"
@@ -4992,7 +4992,7 @@ export const kanjiN2 = [
    {
     "word": "汗",
     "reading": "あせ",
-    "meaning": "sweat,perspiration"
+    "meaning": "keringat, keringat"
    }
   ]
  },
@@ -5000,9 +5000,9 @@ export const kanjiN2 = [
   "kanji": "再",
   "level": "N2",
   "meanings": [
-   "Again",
-   "Twice",
-   "Second Time"
+   "Lagi",
+   "Dua kali",
+   "Kedua Kalinya"
   ],
   "kunyomi": [
    "ふたた.び"
@@ -5016,7 +5016,7 @@ export const kanjiN2 = [
    {
     "word": "再び",
     "reading": "ふたたび",
-    "meaning": "again,once more,a second time"
+    "meaning": "lagi, sekali lagi, untuk kedua kalinya"
    }
   ]
  },
@@ -5024,10 +5024,10 @@ export const kanjiN2 = [
   "kanji": "接",
   "level": "N2",
   "meanings": [
-   "Touch",
-   "Contact",
-   "Adjoin",
-   "Piece Together"
+   "Menyentuh",
+   "Kontak",
+   "Berdampingan",
+   "Mengumpulkan"
   ],
   "kunyomi": [
    "つ.ぐ"
@@ -5041,7 +5041,7 @@ export const kanjiN2 = [
    {
     "word": "直接",
     "reading": "ちょくせつ",
-    "meaning": "direct,immediate,personal,firsthand"
+    "meaning": "langsung, segera, pribadi, langsung"
    }
   ]
  },
@@ -5049,14 +5049,14 @@ export const kanjiN2 = [
   "kanji": "占",
   "level": "N2",
   "meanings": [
-   "Fortune-telling",
-   "Divining",
-   "Forecasting",
-   "Occupy",
-   "Hold",
-   "Have",
-   "Get",
-   "Take"
+   "Meramal",
+   "Meramal",
+   "Peramalan",
+   "Menempati",
+   "Memegang",
+   "Memiliki",
+   "Mendapatkan",
+   "Mengambil"
   ],
   "kunyomi": [
    "し.める",
@@ -5070,7 +5070,7 @@ export const kanjiN2 = [
    {
     "word": "占める",
     "reading": "しめる",
-    "meaning": "(1) terdiri, memperhitungkan, membuat (dari), (2) memegang, menduduki"
+    "meaning": "(1) terdiri, menjelaskan, membuat (dari), (2) memegang, menduduki"
    }
   ]
  },
@@ -5078,10 +5078,10 @@ export const kanjiN2 = [
   "kanji": "胃",
   "level": "N2",
   "meanings": [
-   "Stomach",
-   "Paunch",
-   "Crop",
-   "Craw"
+   "Perut",
+   "Perut",
+   "Tanaman",
+   "Tembolok"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5092,7 +5092,7 @@ export const kanjiN2 = [
    {
     "word": "胃",
     "reading": "い",
-    "meaning": "stomach"
+    "meaning": "perut"
    }
   ]
  },
@@ -5100,11 +5100,11 @@ export const kanjiN2 = [
   "kanji": "悩",
   "level": "N2",
   "meanings": [
-   "Trouble",
-   "Worry",
-   "In Pain",
-   "Distress",
-   "Illness"
+   "Masalah",
+   "Khawatir",
+   "Kesakitan",
+   "Kesulitan",
+   "Penyakit"
   ],
   "kunyomi": [
    "なや.む",
@@ -5120,7 +5120,7 @@ export const kanjiN2 = [
    {
     "word": "悩む",
     "reading": "なやむ",
-    "meaning": "to be worried,to be troubled"
+    "meaning": "menjadi khawatir, menjadi bermasalah"
    }
   ]
  },
@@ -5128,7 +5128,7 @@ export const kanjiN2 = [
   "kanji": "昇",
   "level": "N2",
   "meanings": [
-   "Rise Up"
+   "Bangkit"
   ],
   "kunyomi": [
    "のぼ.る"
@@ -5141,7 +5141,7 @@ export const kanjiN2 = [
    {
     "word": "昇る",
     "reading": "のぼる",
-    "meaning": "to arise,to ascend,to go up"
+    "meaning": "untuk bangkit, untuk naik, untuk naik"
    }
   ]
  },
@@ -5149,10 +5149,10 @@ export const kanjiN2 = [
   "kanji": "濃",
   "level": "N2",
   "meanings": [
-   "Concentrated",
-   "Thick",
-   "Dark",
-   "Undiluted"
+   "Pekat",
+   "Tebal",
+   "Gelap",
+   "Murni"
   ],
   "kunyomi": [
    "こ.い"
@@ -5165,7 +5165,7 @@ export const kanjiN2 = [
    {
     "word": "濃い",
     "reading": "こい",
-    "meaning": "thick (as of color, liquid),dense,strong"
+    "meaning": "kental (seperti warna, cair), padat, kuat"
    }
   ]
  },
@@ -5173,16 +5173,16 @@ export const kanjiN2 = [
   "kanji": "極",
   "level": "N2",
   "meanings": [
-   "Poles",
-   "Settlement",
-   "Conclusion",
-   "End",
-   "Highest Rank",
-   "Electric Poles",
-   "Very",
-   "Extremely",
-   "Most",
-   "Highly",
+   "Polandia",
+   "Hunian",
+   "Kesimpulan",
+   "Akhir",
+   "Peringkat Tertinggi",
+   "Tiang Listrik",
+   "Sangat",
+   "Sangat",
+   "Paling",
+   "Sangat",
    "10**48"
   ],
   "kunyomi": [
@@ -5203,7 +5203,7 @@ export const kanjiN2 = [
    {
     "word": "積極的",
     "reading": "せっきょくてき",
-    "meaning": "positive,active,proactive"
+    "meaning": "positif, aktif, proaktif"
    }
   ]
  },
@@ -5211,10 +5211,10 @@ export const kanjiN2 = [
   "kanji": "逆",
   "level": "N2",
   "meanings": [
-   "Inverted",
-   "Reverse",
-   "Opposite",
-   "Wicked"
+   "Terbalik",
+   "Balik",
+   "Di depan",
+   "Jahat"
   ],
   "kunyomi": [
    "さか",
@@ -5238,10 +5238,10 @@ export const kanjiN2 = [
   "kanji": "巨",
   "level": "N2",
   "meanings": [
-   "Gigantic",
-   "Big",
-   "Large",
-   "Great"
+   "Raksasa",
+   "Besar",
+   "Besar",
+   "Besar"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5252,7 +5252,7 @@ export const kanjiN2 = [
    {
     "word": "巨大",
     "reading": "きょだい",
-    "meaning": "huge,gigantic,enormous"
+    "meaning": "besar, raksasa, dahsyat"
    }
   ]
  },
@@ -5260,8 +5260,8 @@ export const kanjiN2 = [
   "kanji": "庫",
   "level": "N2",
   "meanings": [
-   "Warehouse",
-   "Storehouse"
+   "Gudang",
+   "Gudang"
   ],
   "kunyomi": [
    "くら"
@@ -5280,7 +5280,7 @@ export const kanjiN2 = [
    {
     "word": "金庫",
     "reading": "きんこ",
-    "meaning": "safe,vault,treasury,provider of funds"
+    "meaning": "brankas, brankas, perbendaharaan, penyedia dana"
    }
   ]
  },
@@ -5288,9 +5288,9 @@ export const kanjiN2 = [
   "kanji": "児",
   "level": "N2",
   "meanings": [
-   "Newborn Babe",
-   "Child",
-   "Young Of Animals"
+   "Sayang yang baru lahir",
+   "Anak",
+   "Hewan Muda"
   ],
   "kunyomi": [
    "こ",
@@ -5315,9 +5315,9 @@ export const kanjiN2 = [
   "kanji": "凍",
   "level": "N2",
   "meanings": [
-   "Frozen",
-   "Congeal",
-   "Refrigerate"
+   "Beku",
+   "Mengentalkan",
+   "Mendinginkan"
   ],
   "kunyomi": [
    "こお.る",
@@ -5334,7 +5334,7 @@ export const kanjiN2 = [
    {
     "word": "凍る",
     "reading": "こおる",
-    "meaning": "to freeze,to be frozen over,to congeal"
+    "meaning": "untuk membekukan, untuk dibekukan, untuk membekukan"
    }
   ]
  },
@@ -5342,8 +5342,8 @@ export const kanjiN2 = [
   "kanji": "幼",
   "level": "N2",
   "meanings": [
-   "Infancy",
-   "Childhood"
+   "Masa bayi",
+   "Masa kecil"
   ],
   "kunyomi": [
    "おさな.い"
@@ -5356,7 +5356,7 @@ export const kanjiN2 = [
    {
     "word": "幼い",
     "reading": "おさない",
-    "meaning": "very young,childish"
+    "meaning": "sangat muda, kekanak-kanakan"
    }
   ]
  },
@@ -5364,11 +5364,11 @@ export const kanjiN2 = [
   "kanji": "清",
   "level": "N2",
   "meanings": [
-   "Pure",
-   "Purify",
-   "Cleanse",
-   "Exorcise",
-   "Manchu Dynasty"
+   "Murni",
+   "Memurnikan",
+   "Membersihkan",
+   "Mengusir setan",
+   "Dinasti Manchu"
   ],
   "kunyomi": [
    "きよ.い",
@@ -5393,7 +5393,7 @@ export const kanjiN2 = [
   "kanji": "録",
   "level": "N2",
   "meanings": [
-   "Record"
+   "Catatan"
   ],
   "kunyomi": [
    "しる.す",
@@ -5407,7 +5407,7 @@ export const kanjiN2 = [
    {
     "word": "記録",
     "reading": "きろく",
-    "meaning": "record,minutes,document"
+    "meaning": "catatan, menit, dokumen"
    }
   ]
  },
@@ -5415,7 +5415,7 @@ export const kanjiN2 = [
   "kanji": "券",
   "level": "N2",
   "meanings": [
-   "Ticket"
+   "Tiket"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5434,12 +5434,12 @@ export const kanjiN2 = [
   "kanji": "移",
   "level": "N2",
   "meanings": [
-   "Shift",
-   "Move",
-   "Change",
-   "Drift",
-   "Catch (cold, Fire)",
-   "Pass Into"
+   "Menggeser",
+   "Bergerak",
+   "Mengubah",
+   "Melayang",
+   "Tangkap (dingin, Api)",
+   "Masuk ke"
   ],
   "kunyomi": [
    "うつ.る",
@@ -5453,17 +5453,17 @@ export const kanjiN2 = [
    {
     "word": "移る",
     "reading": "うつる",
-    "meaning": "to move house or transfer"
+    "meaning": "untuk pindah rumah atau pindah"
    },
    {
     "word": "移す",
     "reading": "うつす",
-    "meaning": "to remove,to transfer,to infect"
+    "meaning": "untuk menghapus, untuk mentransfer, untuk menginfeksi"
    },
    {
     "word": "移動",
     "reading": "いどう",
-    "meaning": "removal,migration,movement"
+    "meaning": "pemindahan, migrasi, perpindahan"
    }
   ]
  },
@@ -5471,14 +5471,14 @@ export const kanjiN2 = [
   "kanji": "並",
   "level": "N2",
   "meanings": [
-   "Row",
-   "And",
-   "Besides",
-   "As Well As",
-   "Line Up",
-   "Rank With",
-   "Rival",
-   "Equal"
+   "Baris",
+   "Dan",
+   "Di samping itu",
+   "Maupun",
+   "Berbaris",
+   "Peringkat Dengan",
+   "Menyaingi",
+   "Setara"
   ],
   "kunyomi": [
    "な.み",
@@ -5496,12 +5496,12 @@ export const kanjiN2 = [
    {
     "word": "並ぶ",
     "reading": "ならぶ",
-    "meaning": "untuk berbaris, untuk berdiri dalam barisan"
+    "meaning": "untuk suatu hari, untuk berdiri dalam barisan"
    },
    {
     "word": "並べる",
     "reading": "ならべる",
-    "meaning": "to line up,to set up"
+    "meaning": "untuk berbaris, untuk mengatur"
    },
    {
     "word": "並木",
@@ -5514,12 +5514,12 @@ export const kanjiN2 = [
   "kanji": "乾",
   "level": "N2",
   "meanings": [
-   "Drought",
-   "Dry",
-   "Dessicate",
-   "Drink Up",
-   "Heaven",
-   "Emperor"
+   "Kekeringan",
+   "Kering",
+   "Dessikasi",
+   "Minum habis",
+   "Surga",
+   "Kaisar"
   ],
   "kunyomi": [
    "かわ.く",
@@ -5550,7 +5550,7 @@ export const kanjiN2 = [
   "kanji": "欧",
   "level": "N2",
   "meanings": [
-   "Europe"
+   "Eropa"
   ],
   "kunyomi": [
    "うた.う",
@@ -5572,8 +5572,8 @@ export const kanjiN2 = [
   "kanji": "臣",
   "level": "N2",
   "meanings": [
-   "Retainer",
-   "Subject"
+   "Gaji",
+   "Subjek"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5585,7 +5585,7 @@ export const kanjiN2 = [
    {
     "word": "大臣",
     "reading": "だいじん",
-    "meaning": "cabinet minister"
+    "meaning": "menteri kabinet"
    }
   ]
  },
@@ -5593,12 +5593,12 @@ export const kanjiN2 = [
   "kanji": "略",
   "level": "N2",
   "meanings": [
-   "Abbreviation",
-   "Omission",
-   "Outline",
-   "Shorten",
-   "Capture",
-   "Plunder"
+   "Singkatan",
+   "Kelalaian",
+   "Garis besar",
+   "Mempersingkat",
+   "Menangkap",
+   "Menjarah"
   ],
   "kunyomi": [
    "ほぼ",
@@ -5624,10 +5624,10 @@ export const kanjiN2 = [
   "kanji": "航",
   "level": "N2",
   "meanings": [
-   "Navigate",
-   "Sail",
-   "Cruise",
-   "Fly"
+   "Navigasi",
+   "Berlayar",
+   "Pelayaran",
+   "Terbang"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5638,7 +5638,7 @@ export const kanjiN2 = [
    {
     "word": "航空",
     "reading": "こうくう",
-    "meaning": "aviation,flying"
+    "meaning": "penerbangan, terbang"
    }
   ]
  },
@@ -5646,10 +5646,10 @@ export const kanjiN2 = [
   "kanji": "板",
   "level": "N2",
   "meanings": [
-   "Plank",
-   "Board",
-   "Plate",
-   "Stage"
+   "Papan",
+   "Papan",
+   "Piring",
+   "Panggung"
   ],
   "kunyomi": [
    "いた"
@@ -5663,7 +5663,7 @@ export const kanjiN2 = [
    {
     "word": "黒板",
     "reading": "こくばん",
-    "meaning": "blackboard"
+    "meaning": "papan tulis"
    }
   ]
  },
@@ -5671,12 +5671,12 @@ export const kanjiN2 = [
   "kanji": "詰",
   "level": "N2",
   "meanings": [
-   "Packed",
-   "Close",
-   "Pressed",
-   "Reprove",
-   "Rebuke",
-   "Blame"
+   "Penuh sesak",
+   "Menutup",
+   "Ditekan",
+   "Menegur",
+   "Menegur",
+   "Menyalahkan"
   ],
   "kunyomi": [
    "つ.める",
@@ -5694,7 +5694,7 @@ export const kanjiN2 = [
    {
     "word": "詰める",
     "reading": "つめる",
-    "meaning": "to pack,to shorten,to work out (details)"
+    "meaning": "untuk berkemas, untuk mempersingkat, untuk berolahraga (detail)"
    },
    {
     "word": "詰まる",
@@ -5707,10 +5707,10 @@ export const kanjiN2 = [
   "kanji": "照",
   "level": "N2",
   "meanings": [
-   "Illuminate",
-   "Shine",
-   "Compare",
-   "Bashful"
+   "Menerangi",
+   "Bersinar",
+   "Membandingkan",
+   "Malu"
   ],
   "kunyomi": [
    "て.る",
@@ -5733,10 +5733,10 @@ export const kanjiN2 = [
   "kanji": "快",
   "level": "N2",
   "meanings": [
-   "Cheerful",
-   "Pleasant",
-   "Agreeable",
-   "Comfortable"
+   "Ceria",
+   "Menyenangkan",
+   "Menyenangkan",
+   "Nyaman"
   ],
   "kunyomi": [
    "こころよ.い"
@@ -5749,12 +5749,12 @@ export const kanjiN2 = [
    {
     "word": "快適",
     "reading": "かいてき",
-    "meaning": "pleasant,agreeable,comfortable"
+    "meaning": "menyenangkan, menyenangkan, nyaman"
    },
    {
     "word": "愉快",
     "reading": "ゆかい",
-    "meaning": "pleasant,happy"
+    "meaning": "menyenangkan, bahagia"
    }
   ]
  },
@@ -5762,10 +5762,10 @@ export const kanjiN2 = [
   "kanji": "版",
   "level": "N2",
   "meanings": [
-   "Printing Block",
-   "Printing Plate",
-   "Edition",
-   "Impression",
+   "Blok Percetakan",
+   "Pelat Cetak",
+   "Edisi",
+   "Kesan",
    "Label"
   ],
   "kunyomi": [],
@@ -5777,7 +5777,7 @@ export const kanjiN2 = [
    {
     "word": "出版",
     "reading": "しゅっぱん",
-    "meaning": "publication"
+    "meaning": "publikasi"
    }
   ]
  },
@@ -5785,10 +5785,10 @@ export const kanjiN2 = [
   "kanji": "預",
   "level": "N2",
   "meanings": [
-   "Deposit",
-   "Custody",
-   "Leave With",
-   "Entrust To"
+   "Deposito",
+   "Hak asuh",
+   "Tinggalkan Dengan",
+   "Percayakan Kepada"
   ],
   "kunyomi": [
    "あず.ける",
@@ -5810,8 +5810,8 @@ export const kanjiN2 = [
   "kanji": "延",
   "level": "N2",
   "meanings": [
-   "Prolong",
-   "Stretching"
+   "Memperpanjang",
+   "Peregangan"
   ],
   "kunyomi": [
    "の.びる",
@@ -5827,7 +5827,7 @@ export const kanjiN2 = [
    {
     "word": "延期",
     "reading": "えんき",
-    "meaning": "postponement,adjournment"
+    "meaning": "penundaan, penundaan"
    }
   ]
  },
@@ -5835,8 +5835,8 @@ export const kanjiN2 = [
   "kanji": "翌",
   "level": "N2",
   "meanings": [
-   "The Following",
-   "Next"
+   "Berikut ini",
+   "Berikutnya"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5856,10 +5856,10 @@ export const kanjiN2 = [
   "level": "N2",
   "meanings": [
    "Token",
-   "Sign",
-   "Mark",
-   "Tally",
-   "Charm"
+   "Tanda",
+   "Tanda",
+   "Menghitung",
+   "Pesona"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5870,7 +5870,7 @@ export const kanjiN2 = [
    {
     "word": "切符",
     "reading": "きっぷ",
-    "meaning": "ticket"
+    "meaning": "tiket"
    }
   ]
  },
@@ -5878,14 +5878,14 @@ export const kanjiN2 = [
   "kanji": "編",
   "level": "N2",
   "meanings": [
-   "Compilation",
-   "Knit",
-   "Plait",
-   "Braid",
-   "Twist",
-   "Editing",
-   "Completed Poem",
-   "Part Of A Book"
+   "Kompilasi",
+   "Merajut",
+   "Anyaman",
+   "Menjalin",
+   "Memutar",
+   "Mengedit",
+   "Puisi Selesai",
+   "Bagian Dari Sebuah Buku"
   ],
   "kunyomi": [
    "あ.む",
@@ -5908,9 +5908,9 @@ export const kanjiN2 = [
   "level": "N2",
   "meanings": [
    "Universal",
-   "Wide(ly)",
-   "Generally",
-   "Prussia"
+   "Lebar(ly)",
+   "Umumnya",
+   "Prusia"
   ],
   "kunyomi": [
    "あまね.く",
@@ -5924,12 +5924,12 @@ export const kanjiN2 = [
    {
     "word": "普通",
     "reading": "ふつう",
-    "meaning": "usually, or a train that stops at every station"
+    "meaning": "biasanya, atau kereta yang berhenti di setiap stasiun"
    },
    {
     "word": "普段",
     "reading": "ふだん",
-    "meaning": "usually,habitually,ordinarily,always"
+    "meaning": "biasanya, biasanya, biasanya, selalu"
    }
   ]
  },
@@ -5937,8 +5937,8 @@ export const kanjiN2 = [
   "kanji": "掃",
   "level": "N2",
   "meanings": [
-   "Sweep",
-   "Brush"
+   "Menyapu",
+   "Sikat"
   ],
   "kunyomi": [
    "は.く"
@@ -5952,12 +5952,12 @@ export const kanjiN2 = [
    {
     "word": "掃除",
     "reading": "そうじする",
-    "meaning": "to clean, to sweep"
+    "meaning": "membersihkan, menyapu"
    },
    {
     "word": "掃除",
     "reading": "そうじ",
-    "meaning": "cleaning,sweeping"
+    "meaning": "membersihkan, menyapu"
    }
   ]
  },
@@ -5965,10 +5965,10 @@ export const kanjiN2 = [
   "kanji": "泥",
   "level": "N2",
   "meanings": [
-   "Mud",
-   "Mire",
-   "Adhere To",
-   "Be Attached To"
+   "Lumpur",
+   "Lumpur",
+   "Patuhi",
+   "Terlampir Pada"
   ],
   "kunyomi": [
    "どろ",
@@ -5985,7 +5985,7 @@ export const kanjiN2 = [
    {
     "word": "泥棒",
     "reading": "どろぼう",
-    "meaning": "thief"
+    "meaning": "maling"
    }
   ]
  },
@@ -5993,12 +5993,12 @@ export const kanjiN2 = [
   "kanji": "棒",
   "level": "N2",
   "meanings": [
-   "Rod",
-   "Stick",
-   "Cane",
-   "Pole",
-   "Club",
-   "Line"
+   "Batang",
+   "Tongkat",
+   "Tebu",
+   "Tiang",
+   "Klub",
+   "Garis"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -6009,7 +6009,7 @@ export const kanjiN2 = [
    {
     "word": "泥棒",
     "reading": "どろぼう",
-    "meaning": "thief"
+    "meaning": "maling"
    }
   ]
  },
@@ -6017,8 +6017,8 @@ export const kanjiN2 = [
   "kanji": "孫",
   "level": "N2",
   "meanings": [
-   "Grandchild",
-   "Descendants"
+   "Cucu",
+   "Keturunan"
   ],
   "kunyomi": [
    "まご"
@@ -6031,7 +6031,7 @@ export const kanjiN2 = [
    {
     "word": "孫",
     "reading": "まご",
-    "meaning": "grandchild"
+    "meaning": "cucu"
    }
   ]
  },
@@ -6039,11 +6039,11 @@ export const kanjiN2 = [
   "kanji": "帯",
   "level": "N2",
   "meanings": [
-   "Sash",
-   "Belt",
+   "Selempang",
+   "Sabuk",
    "Obi",
-   "Zone",
-   "Region"
+   "Daerah",
+   "Wilayah"
   ],
   "kunyomi": [
    "お.びる",
@@ -6057,7 +6057,7 @@ export const kanjiN2 = [
    {
     "word": "熱帯",
     "reading": "ねったい",
-    "meaning": "tropics"
+    "meaning": "daerah tropis"
    }
   ]
  },
@@ -6065,9 +6065,9 @@ export const kanjiN2 = [
   "kanji": "粉",
   "level": "N2",
   "meanings": [
-   "Flour",
-   "Powder",
-   "Dust"
+   "Tepung",
+   "Bubuk",
+   "Debu"
   ],
   "kunyomi": [
    "デシメートル",
@@ -6082,7 +6082,7 @@ export const kanjiN2 = [
    {
     "word": "粉",
     "reading": "こな",
-    "meaning": "flour,meal,powder"
+    "meaning": "tepung, tepung, bubuk"
    }
   ]
  },
@@ -6090,9 +6090,9 @@ export const kanjiN2 = [
   "kanji": "菜",
   "level": "N2",
   "meanings": [
-   "Vegetable",
-   "Side Dish",
-   "Greens"
+   "Sayuran",
+   "Lauk",
+   "Sayuran hijau"
   ],
   "kunyomi": [
    "な"
@@ -6105,7 +6105,7 @@ export const kanjiN2 = [
    {
     "word": "野菜",
     "reading": "やさい",
-    "meaning": "vegetable"
+    "meaning": "sayuran"
    }
   ]
  },
@@ -6113,9 +6113,9 @@ export const kanjiN2 = [
   "kanji": "貨",
   "level": "N2",
   "meanings": [
-   "Freight",
-   "Goods",
-   "Property"
+   "Kargo",
+   "Barang-barang",
+   "Milik"
   ],
   "kunyomi": [
    "たから"
@@ -6128,7 +6128,7 @@ export const kanjiN2 = [
    {
     "word": "硬貨",
     "reading": "こうか",
-    "meaning": "coin"
+    "meaning": "koin"
    }
   ]
  },
@@ -6136,8 +6136,8 @@ export const kanjiN2 = [
   "kanji": "陸",
   "level": "N2",
   "meanings": [
-   "Land",
-   "Six"
+   "Tanah",
+   "Enam"
   ],
   "kunyomi": [
    "おか"
@@ -6151,7 +6151,7 @@ export const kanjiN2 = [
    {
     "word": "大陸",
     "reading": "たいりく",
-    "meaning": "continent"
+    "meaning": "benua"
    }
   ]
  },
@@ -6159,8 +6159,8 @@ export const kanjiN2 = [
   "kanji": "均",
   "level": "N2",
   "meanings": [
-   "Level",
-   "Average"
+   "Tingkat",
+   "Rata-rata"
   ],
   "kunyomi": [
    "なら.す"
@@ -6173,7 +6173,7 @@ export const kanjiN2 = [
    {
     "word": "平均",
     "reading": "へいきん",
-    "meaning": "keseimbangan, keseimbangan, rata-rata, mean"
+    "meaning": "keseimbangan, keseimbangan, rata-rata, berarti"
    }
   ]
  },
@@ -6181,10 +6181,10 @@ export const kanjiN2 = [
   "kanji": "採",
   "level": "N2",
   "meanings": [
-   "Pick",
-   "Take",
-   "Fetch",
-   "Take Up"
+   "Memilih",
+   "Mengambil",
+   "Mengambil",
+   "Mengambil"
   ],
   "kunyomi": [
    "と.る"
@@ -6205,9 +6205,9 @@ export const kanjiN2 = [
   "kanji": "永",
   "level": "N2",
   "meanings": [
-   "Eternity",
-   "Long",
-   "Lengthy"
+   "Keabadian",
+   "Panjang",
+   "Panjang"
   ],
   "kunyomi": [
    "なが.い"
@@ -6220,12 +6220,12 @@ export const kanjiN2 = [
    {
     "word": "永久",
     "reading": "えいきゅう",
-    "meaning": "eternity,perpetuity,immortality"
+    "meaning": "keabadian, keabadian, keabadian"
    },
    {
     "word": "永遠",
     "reading": "えいえん",
-    "meaning": "eternity,perpetuity,immortality,permanence"
+    "meaning": "keabadian, keabadian, keabadian, kekekalan"
    }
   ]
  },
@@ -6233,11 +6233,11 @@ export const kanjiN2 = [
   "kanji": "液",
   "level": "N2",
   "meanings": [
-   "Fluid",
-   "Liquid",
-   "Juice",
-   "Sap",
-   "Secretion"
+   "Cairan",
+   "Cairan",
+   "Jus",
+   "Getah",
+   "Sekresi"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -6256,9 +6256,9 @@ export const kanjiN2 = [
   "kanji": "績",
   "level": "N2",
   "meanings": [
-   "Exploits",
-   "Achievements",
-   "Unreeling Cocoons"
+   "Eksploitasi",
+   "Prestasi",
+   "Kepompong yang Tak Tergulung"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -6269,7 +6269,7 @@ export const kanjiN2 = [
    {
     "word": "成績",
     "reading": "せいせき",
-    "meaning": "results,record"
+    "meaning": "hasil, catat"
    }
   ]
  },
@@ -6277,10 +6277,10 @@ export const kanjiN2 = [
   "kanji": "複",
   "level": "N2",
   "meanings": [
-   "Duplicate",
-   "Double",
-   "Compound",
-   "Multiple"
+   "Duplikat",
+   "Dobel",
+   "Menggabungkan",
+   "Banyak"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -6291,7 +6291,7 @@ export const kanjiN2 = [
    {
     "word": "複雑",
     "reading": "ふくざつ",
-    "meaning": "complexity,complication"
+    "meaning": "kompleksitas, komplikasi"
    }
   ]
  },
@@ -6299,9 +6299,9 @@ export const kanjiN2 = [
   "kanji": "党",
   "level": "N2",
   "meanings": [
-   "Party",
-   "Faction",
-   "Clique"
+   "Berpesta",
+   "Fraksi",
+   "Klik"
   ],
   "kunyomi": [
    "なかま",
@@ -6323,10 +6323,10 @@ export const kanjiN2 = [
   "kanji": "卵",
   "level": "N2",
   "meanings": [
-   "Egg",
-   "Ovum",
-   "Spawn",
-   "Roe"
+   "Telur",
+   "Telur",
+   "Menelurkan",
+   "Kijang"
   ],
   "kunyomi": [
    "たまご"
@@ -6339,7 +6339,7 @@ export const kanjiN2 = [
    {
     "word": "卵",
     "reading": "たまご",
-    "meaning": "egg"
+    "meaning": "telur"
    }
   ]
  },
@@ -6347,12 +6347,12 @@ export const kanjiN2 = [
   "kanji": "捨",
   "level": "N2",
   "meanings": [
-   "Discard",
-   "Throw Away",
-   "Abandon",
-   "Resign",
-   "Reject",
-   "Sacrifice"
+   "Membuang",
+   "Membuang",
+   "Meninggalkan",
+   "Berhenti",
+   "Menolak",
+   "Pengorbanan"
   ],
   "kunyomi": [
    "す.てる"
@@ -6365,7 +6365,7 @@ export const kanjiN2 = [
    {
     "word": "捨てる",
     "reading": "すてる",
-    "meaning": "to throw away"
+    "meaning": "untuk membuang"
    }
   ]
  },
@@ -6373,11 +6373,11 @@ export const kanjiN2 = [
   "kanji": "汚",
   "level": "N2",
   "meanings": [
-   "Dirty",
-   "Pollute",
-   "Disgrace",
-   "Rape",
-   "Defile"
+   "Kotor",
+   "Mengotori",
+   "Aib",
+   "Memperkosa",
+   "Mencemari"
   ],
   "kunyomi": [
    "けが.す",
@@ -6405,7 +6405,7 @@ export const kanjiN2 = [
    {
     "word": "汚染",
     "reading": "おせん",
-    "meaning": "pollution,contamination"
+    "meaning": "polusi, kontaminasi"
    }
   ]
  },
@@ -6413,8 +6413,8 @@ export const kanjiN2 = [
   "kanji": "机",
   "level": "N2",
   "meanings": [
-   "Desk",
-   "Table"
+   "Meja",
+   "Meja"
   ],
   "kunyomi": [
    "つくえ"
@@ -6427,7 +6427,7 @@ export const kanjiN2 = [
    {
     "word": "机",
     "reading": "つくえ",
-    "meaning": "desk"
+    "meaning": "meja"
    }
   ]
  },
@@ -6435,8 +6435,8 @@ export const kanjiN2 = [
   "kanji": "簡",
   "level": "N2",
   "meanings": [
-   "Simplicity",
-   "Brevity"
+   "Kesederhanaan",
+   "Keringkasan"
   ],
   "kunyomi": [
    "えら.ぶ",
@@ -6451,7 +6451,7 @@ export const kanjiN2 = [
    {
     "word": "簡単",
     "reading": "かんたん",
-    "meaning": "simple"
+    "meaning": "sederhana"
    }
   ]
  },
@@ -6459,8 +6459,8 @@ export const kanjiN2 = [
   "kanji": "誌",
   "level": "N2",
   "meanings": [
-   "Document",
-   "Records"
+   "Dokumen",
+   "Catatan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -6471,7 +6471,7 @@ export const kanjiN2 = [
    {
     "word": "雑誌",
     "reading": "ざっし",
-    "meaning": "magazine"
+    "meaning": "majalah"
    }
   ]
  },
@@ -6479,9 +6479,9 @@ export const kanjiN2 = [
   "kanji": "宝",
   "level": "N2",
   "meanings": [
-   "Treasure",
-   "Wealth",
-   "Valuables"
+   "Harta karun",
+   "Kekayaan",
+   "Barang berharga"
   ],
   "kunyomi": [
    "たから"
@@ -6494,7 +6494,7 @@ export const kanjiN2 = [
    {
     "word": "宝石",
     "reading": "ほうせき",
-    "meaning": "gem,jewel"
+    "meaning": "permata, permata"
    }
   ]
  },
@@ -6502,11 +6502,11 @@ export const kanjiN2 = [
   "kanji": "尊",
   "level": "N2",
   "meanings": [
-   "Revered",
-   "Valuable",
-   "Precious",
-   "Noble",
-   "Exalted"
+   "Dihormati",
+   "Berharga",
+   "Berharga",
+   "Bangsawan",
+   "Mulia"
   ],
   "kunyomi": [
    "たっと.い",
@@ -6522,12 +6522,12 @@ export const kanjiN2 = [
    {
     "word": "尊敬",
     "reading": "そんけい",
-    "meaning": "rasa hormat, penghargaan, penghormatan, kehormatan"
+    "meaning": "rasa hormat, dihargai, dihormati, dihormati"
    },
    {
     "word": "尊重",
     "reading": "そんちょう",
-    "meaning": "respect,esteem,regard"
+    "meaning": "rasa hormat, harga diri, rasa hormat"
    }
   ]
  },
@@ -6535,10 +6535,10 @@ export const kanjiN2 = [
   "kanji": "敬",
   "level": "N2",
   "meanings": [
-   "Awe",
-   "Respect",
-   "Honor",
-   "Revere"
+   "Kagum",
+   "Menghormati",
+   "Menghormati",
+   "Memuja"
   ],
   "kunyomi": [
    "うやま.う"
@@ -6552,12 +6552,12 @@ export const kanjiN2 = [
    {
     "word": "尊敬",
     "reading": "そんけい",
-    "meaning": "rasa hormat, penghargaan, penghormatan, kehormatan"
+    "meaning": "rasa hormat, dihargai, dihormati, dihormati"
    },
    {
     "word": "敬意",
     "reading": "けいい",
-    "meaning": "respect,honour"
+    "meaning": "hormat, kehormatan"
    }
   ]
  },
@@ -6565,9 +6565,9 @@ export const kanjiN2 = [
   "kanji": "灰",
   "level": "N2",
   "meanings": [
-   "Ashes",
-   "Puckery Juice",
-   "Cremate"
+   "Abu",
+   "Jus Kerutan",
+   "Mengkremasi"
   ],
   "kunyomi": [
    "はい"
@@ -6580,7 +6580,7 @@ export const kanjiN2 = [
    {
     "word": "灰皿",
     "reading": "はいざら",
-    "meaning": "ashtray"
+    "meaning": "asbak"
    }
   ]
  },
@@ -6588,7 +6588,7 @@ export const kanjiN2 = [
   "kanji": "砂",
   "level": "N2",
   "meanings": [
-   "Sand"
+   "Pasir"
   ],
   "kunyomi": [
    "すな"
@@ -6602,12 +6602,12 @@ export const kanjiN2 = [
    {
     "word": "砂糖",
     "reading": "さとう",
-    "meaning": "sugar"
+    "meaning": "gula"
    },
    {
     "word": "砂漠",
     "reading": "さばく",
-    "meaning": "desert"
+    "meaning": "gurun"
    }
   ]
  },
@@ -6615,18 +6615,18 @@ export const kanjiN2 = [
   "kanji": "著",
   "level": "N2",
   "meanings": [
-   "Renowned",
-   "Publish",
-   "Write",
-   "Remarkable",
-   "Phenomenal",
-   "Put On",
-   "Don",
-   "Wear",
-   "Arrival",
-   "Finish (race)",
-   "Counter For Suits Of Clothing",
-   "Literary Work"
+   "Terkenal",
+   "Menerbitkan",
+   "Menulis",
+   "Luar biasa",
+   "Fenomenal",
+   "Memakai",
+   "Mengenakan",
+   "Memakai",
+   "Kedatangan",
+   "Selesai (balapan)",
+   "Counter Untuk Setelan Pakaian",
+   "Karya Sastra"
   ],
   "kunyomi": [
    "あらわ.す",
@@ -6641,7 +6641,7 @@ export const kanjiN2 = [
    {
     "word": "著者",
     "reading": "ちょしゃ",
-    "meaning": "author,writer"
+    "meaning": "penulis, penulis"
    }
   ]
  },
@@ -6649,11 +6649,11 @@ export const kanjiN2 = [
   "kanji": "蒸",
   "level": "N2",
   "meanings": [
-   "Steam",
-   "Heat",
-   "Sultry",
-   "Foment",
-   "Get Musty"
+   "Uap",
+   "Panas",
+   "Gerah",
+   "Menimbulkan",
+   "Menjadi Apak"
   ],
   "kunyomi": [
    "む.す",
@@ -6677,11 +6677,11 @@ export const kanjiN2 = [
   "kanji": "蔵",
   "level": "N2",
   "meanings": [
-   "Storehouse",
-   "Hide",
-   "Own",
-   "Have",
-   "Possess"
+   "Gudang",
+   "Bersembunyi",
+   "Memiliki",
+   "Memiliki",
+   "Memiliki"
   ],
   "kunyomi": [
    "くら",
@@ -6705,11 +6705,11 @@ export const kanjiN2 = [
   "kanji": "装",
   "level": "N2",
   "meanings": [
-   "Attire",
-   "Dress",
-   "Pretend",
-   "Disguise",
-   "Profess"
+   "Pakaian",
+   "Gaun",
+   "Berpura-pura",
+   "Samaran",
+   "Mengakui"
   ],
   "kunyomi": [
    "よそお.う",
@@ -6724,12 +6724,12 @@ export const kanjiN2 = [
    {
     "word": "服装",
     "reading": "ふくそう",
-    "meaning": "garments"
+    "meaning": "pakaian"
    },
    {
     "word": "装置",
     "reading": "そうち",
-    "meaning": "equipment,installation,apparatus"
+    "meaning": "peralatan, instalasi, peralatan"
    }
   ]
  },
@@ -6737,16 +6737,16 @@ export const kanjiN2 = [
   "kanji": "裏",
   "level": "N2",
   "meanings": [
-   "Back",
-   "Amidst",
-   "In",
-   "Reverse",
-   "Inside",
-   "Palm",
-   "Sole",
-   "Rear",
-   "Lining",
-   "Wrong Side"
+   "Kembali",
+   "Di tengah",
+   "Di dalam",
+   "Balik",
+   "Di dalam",
+   "Telapak",
+   "Tunggal",
+   "Belakang",
+   "Lapisan",
+   "Sisi yang Salah"
   ],
   "kunyomi": [
    "うら"
@@ -6759,7 +6759,7 @@ export const kanjiN2 = [
    {
     "word": "裏切る",
     "reading": "うらぎる",
-    "meaning": "to betray,to turn traitor to,to double-cross"
+    "meaning": "untuk mengkhianati, untuk mengubah menjadi pengkhianat, untuk melakukan pengkhianatan"
    }
   ]
  },
@@ -6767,10 +6767,10 @@ export const kanjiN2 = [
   "kanji": "諸",
   "level": "N2",
   "meanings": [
-   "Various",
-   "Many",
-   "Several",
-   "Together"
+   "Bermacam-macam",
+   "Banyak",
+   "Beberapa",
+   "Bersama"
   ],
   "kunyomi": [
    "もろ"
@@ -6791,9 +6791,9 @@ export const kanjiN2 = [
   "kanji": "臓",
   "level": "N2",
   "meanings": [
-   "Entrails",
-   "Viscera",
-   "Bowels"
+   "Isi perut",
+   "Jeroan",
+   "Usus"
   ],
   "kunyomi": [
    "はらわた"
@@ -6814,10 +6814,10 @@ export const kanjiN2 = [
   "kanji": "純",
   "level": "N2",
   "meanings": [
-   "Genuine",
-   "Purity",
-   "Innocence",
-   "Net (profit)"
+   "Asli",
+   "Kemurnian",
+   "Kepolosan",
+   "Bersih (keuntungan)"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -6828,7 +6828,7 @@ export const kanjiN2 = [
    {
     "word": "単純",
     "reading": "たんじゅん",
-    "meaning": "simplicity"
+    "meaning": "kesederhanaan"
    }
   ]
  },
@@ -6836,8 +6836,8 @@ export const kanjiN2 = [
   "kanji": "紅",
   "level": "N2",
   "meanings": [
-   "Crimson",
-   "Deep Red"
+   "Merah tua",
+   "Merah Tua"
   ],
   "kunyomi": [
    "べに",
@@ -6853,7 +6853,7 @@ export const kanjiN2 = [
    {
     "word": "紅茶",
     "reading": "こうちゃ",
-    "meaning": "black tea"
+    "meaning": "teh hitam"
    }
   ]
  },
@@ -6861,9 +6861,9 @@ export const kanjiN2 = [
   "kanji": "拝",
   "level": "N2",
   "meanings": [
-   "Worship",
-   "Adore",
-   "Pray To"
+   "Memuja",
+   "Cinta",
+   "Berdoalah Kepada"
   ],
   "kunyomi": [
    "おが.む",
@@ -6877,7 +6877,7 @@ export const kanjiN2 = [
    {
     "word": "拝見",
     "reading": "はいけん・する",
-    "meaning": "(humble) to look at"
+    "meaning": "(rendah hati) untuk melihat"
    }
   ]
  },
@@ -6886,7 +6886,7 @@ export const kanjiN2 = [
   "level": "N2",
   "meanings": [
    "Drama",
-   "Play"
+   "Bermain"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -6897,12 +6897,12 @@ export const kanjiN2 = [
    {
     "word": "悲劇",
     "reading": "ひげき",
-    "meaning": "tragedy"
+    "meaning": "tragedi"
    },
    {
     "word": "劇場",
     "reading": "げきじょう",
-    "meaning": "theatre,playhouse"
+    "meaning": "teater, rumah bermain"
    }
   ]
  },
@@ -6910,11 +6910,11 @@ export const kanjiN2 = [
   "kanji": "承",
   "level": "N2",
   "meanings": [
-   "Acquiesce",
-   "Hear",
-   "Listen To",
-   "Be Informed",
-   "Receive"
+   "menyetujui",
+   "Mendengar",
+   "Dengarkan",
+   "Diberitahu",
+   "Menerima"
   ],
   "kunyomi": [
    "うけたまわ.る",
@@ -6929,17 +6929,17 @@ export const kanjiN2 = [
    {
     "word": "承知",
     "reading": "しょうち・する",
-    "meaning": "to consent"
+    "meaning": "untuk menyetujui"
    },
    {
     "word": "承認",
     "reading": "しょうにん",
-    "meaning": "recognition,acknowledgement,approval,consent,agreement"
+    "meaning": "pengakuan, pengakuan, persetujuan, persetujuan, persetujuan"
    },
    {
     "word": "承知",
     "reading": "しょうち",
-    "meaning": "consent,acceptance,assent,admitting"
+    "meaning": "persetujuan, penerimaan, persetujuan, pengakuan"
    }
   ]
  },
@@ -6947,11 +6947,11 @@ export const kanjiN2 = [
   "kanji": "損",
   "level": "N2",
   "meanings": [
-   "Damage",
-   "Loss",
-   "Disadvantage",
-   "Hurt",
-   "Injure"
+   "Kerusakan",
+   "Kehilangan",
+   "Kerugian",
+   "Terluka",
+   "Melukai"
   ],
   "kunyomi": [
    "そこ.なう",
@@ -6968,7 +6968,7 @@ export const kanjiN2 = [
    {
     "word": "損害",
     "reading": "そんがい",
-    "meaning": "damage,injury,loss"
+    "meaning": "kerusakan, cedera, kehilangan"
    }
   ]
  },
@@ -6976,11 +6976,11 @@ export const kanjiN2 = [
   "kanji": "枝",
   "level": "N2",
   "meanings": [
-   "Bough",
-   "Branch",
-   "Twig",
-   "Limb",
-   "Counter For Branches"
+   "Dahan",
+   "Cabang",
+   "Ranting",
+   "Dahan",
+   "Counter Untuk Cabang"
   ],
   "kunyomi": [
    "えだ"
@@ -6993,7 +6993,7 @@ export const kanjiN2 = [
    {
     "word": "枝",
     "reading": "えだ",
-    "meaning": "branch, twig"
+    "meaning": "cabang, ranting"
    }
   ]
  },
@@ -7001,10 +7001,10 @@ export const kanjiN2 = [
   "kanji": "測",
   "level": "N2",
   "meanings": [
-   "Fathom",
-   "Plan",
-   "Scheme",
-   "Measure"
+   "Memahami",
+   "Rencana",
+   "Skema",
+   "Ukuran"
   ],
   "kunyomi": [
    "はか.る"
@@ -7017,7 +7017,7 @@ export const kanjiN2 = [
    {
     "word": "予測",
     "reading": "よそく",
-    "meaning": "prediction,estimation"
+    "meaning": "prediksi, estimasi"
    }
   ]
  },
@@ -7025,9 +7025,9 @@ export const kanjiN2 = [
   "kanji": "講",
   "level": "N2",
   "meanings": [
-   "Lecture",
-   "Club",
-   "Association"
+   "Kuliah",
+   "Klub",
+   "Asosiasi"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7043,12 +7043,12 @@ export const kanjiN2 = [
    {
     "word": "講義",
     "reading": "こうぎ",
-    "meaning": "lecture"
+    "meaning": "kuliah"
    },
    {
     "word": "講演",
     "reading": "こうえん",
-    "meaning": "lecture,address"
+    "meaning": "kuliah, alamat"
    }
   ]
  },
@@ -7056,9 +7056,9 @@ export const kanjiN2 = [
   "kanji": "紹",
   "level": "N2",
   "meanings": [
-   "Introduce",
-   "Inherit",
-   "Help"
+   "Memperkenalkan",
+   "Mewarisi",
+   "Membantu"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7077,10 +7077,10 @@ export const kanjiN2 = [
   "kanji": "介",
   "level": "N2",
   "meanings": [
-   "Jammed In",
-   "Shellfish",
-   "Mediate",
-   "Concern Oneself With"
+   "Terjebak di",
+   "Kerang",
+   "Menengahi",
+   "Peduli pada Diri Sendiri"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7096,7 +7096,7 @@ export const kanjiN2 = [
    {
     "word": "厄介",
     "reading": "やっかい",
-    "meaning": "trouble,burden,care,bother"
+    "meaning": "masalah, beban, perhatian, repot"
    }
   ]
  },
@@ -7104,7 +7104,7 @@ export const kanjiN2 = [
   "kanji": "湖",
   "level": "N2",
   "meanings": [
-   "Lake"
+   "Danau"
   ],
   "kunyomi": [
    "みずうみ"
@@ -7117,7 +7117,7 @@ export const kanjiN2 = [
    {
     "word": "湖",
     "reading": "みずうみ",
-    "meaning": "lake"
+    "meaning": "danau"
    }
   ]
  },
@@ -7125,7 +7125,7 @@ export const kanjiN2 = [
   "kanji": "銅",
   "level": "N2",
   "meanings": [
-   "Copper"
+   "Tembaga"
   ],
   "kunyomi": [
    "あかがね"
@@ -7146,8 +7146,8 @@ export const kanjiN2 = [
   "kanji": "油",
   "level": "N2",
   "meanings": [
-   "Oil",
-   "Fat"
+   "Minyak",
+   "Gemuk"
   ],
   "kunyomi": [
    "あぶら"
@@ -7161,7 +7161,7 @@ export const kanjiN2 = [
    {
     "word": "石油",
     "reading": "せきゆ",
-    "meaning": "oil,petroleum,kerosene"
+    "meaning": "minyak, minyak bumi, minyak tanah"
    }
   ]
  },
@@ -7169,11 +7169,11 @@ export const kanjiN2 = [
   "kanji": "旧",
   "level": "N2",
   "meanings": [
-   "Old Times",
-   "Old Things",
-   "Old Friend",
-   "Former",
-   "Ex-"
+   "Zaman Lama",
+   "Hal-Hal Lama",
+   "Teman Lama",
+   "Mantan",
+   "Mantan-"
   ],
   "kunyomi": [
    "ふる.い",
@@ -7187,7 +7187,7 @@ export const kanjiN2 = [
    {
     "word": "旧",
     "reading": "きゅう",
-    "meaning": "ex-"
+    "meaning": "mantan-"
    }
   ]
  },
@@ -7195,7 +7195,7 @@ export const kanjiN2 = [
   "kanji": "姓",
   "level": "N2",
   "meanings": [
-   "Surname"
+   "Nama belakang"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7215,8 +7215,8 @@ export const kanjiN2 = [
   "kanji": "貿",
   "level": "N2",
   "meanings": [
-   "Trade",
-   "Exchange"
+   "Berdagang",
+   "Menukarkan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7227,7 +7227,7 @@ export const kanjiN2 = [
    {
     "word": "貿易",
     "reading": "ぼうえき",
-    "meaning": "trade"
+    "meaning": "berdagang"
    }
   ]
  },
@@ -7235,15 +7235,15 @@ export const kanjiN2 = [
   "kanji": "将",
   "level": "N2",
   "meanings": [
-   "Leader",
-   "Commander",
-   "General",
-   "Admiral",
-   "Or",
-   "And Again",
-   "Soon",
-   "From Now On",
-   "Just About"
+   "Pemimpin",
+   "Komandan",
+   "Umum",
+   "Laksamana",
+   "Atau",
+   "Dan lagi",
+   "Segera",
+   "Mulai Sekarang",
+   "Hanya Tentang"
   ],
   "kunyomi": [
    "まさ.に",
@@ -7261,7 +7261,7 @@ export const kanjiN2 = [
    {
     "word": "将来",
     "reading": "しょうらい",
-    "meaning": "future,prospects"
+    "meaning": "masa depan, prospek"
    }
   ]
  },
@@ -7269,11 +7269,11 @@ export const kanjiN2 = [
   "kanji": "伸",
   "level": "N2",
   "meanings": [
-   "Expand",
-   "Stretch",
-   "Extend",
-   "Lengthen",
-   "Increase"
+   "Memperluas",
+   "Menggeliat",
+   "Memperpanjang",
+   "Memperpanjang",
+   "Meningkatkan"
   ],
   "kunyomi": [
    "の.びる",
@@ -7289,12 +7289,12 @@ export const kanjiN2 = [
    {
     "word": "伸びる",
     "reading": "のびる",
-    "meaning": "untuk meregangkan, untuk memperpanjang, untuk membuat kemajuan, untuk tumbuh (jenggot, tinggi badan)"
+    "meaning": "untuk dimaknai, untuk memperluas, untuk membuat kemajuan, untuk tumbuh (jenggot, badan tinggi)"
    },
    {
     "word": "伸ばす",
     "reading": "のばす",
-    "meaning": "to lengthen,to stretch,to reach out,to grow (beard)"
+    "meaning": "memanjangkan, merenggangkan, menjangkau, menumbuhkan (jenggot)"
    }
   ]
  },
@@ -7302,8 +7302,8 @@ export const kanjiN2 = [
   "kanji": "幅",
   "level": "N2",
   "meanings": [
-   "Hanging Scroll",
-   "Width"
+   "Gulir Gantung",
+   "Lebar"
   ],
   "kunyomi": [
    "はば"
@@ -7316,7 +7316,7 @@ export const kanjiN2 = [
    {
     "word": "幅",
     "reading": "はば",
-    "meaning": "width,breadth"
+    "meaning": "lebar, lebar"
    }
   ]
  },
@@ -7324,11 +7324,11 @@ export const kanjiN2 = [
   "kanji": "甘",
   "level": "N2",
   "meanings": [
-   "Sweet",
-   "Coax",
-   "Pamper",
-   "Be Content",
-   "Sugary"
+   "Manis",
+   "Membujuk",
+   "Terlalu memanjakan",
+   "Puas",
+   "Manis"
   ],
   "kunyomi": [
    "あま.い",
@@ -7352,12 +7352,12 @@ export const kanjiN2 = [
   "kanji": "換",
   "level": "N2",
   "meanings": [
-   "Interchange",
-   "Period",
-   "Change",
-   "Convert",
-   "Replace",
-   "Renew"
+   "Pertukaran",
+   "Periode",
+   "Mengubah",
+   "Mengubah",
+   "Mengganti",
+   "Memperbarui"
   ],
   "kunyomi": [
    "か.える",
@@ -7372,17 +7372,17 @@ export const kanjiN2 = [
    {
     "word": "乗り換える",
     "reading": "のりかえる",
-    "meaning": "to change between buses or trains"
+    "meaning": "untuk berpindah antara bus atau kereta api"
    },
    {
     "word": "換える",
     "reading": "かえる",
-    "meaning": "to exchange,to interchange,to substitute,to replace"
+    "meaning": "menukar, menukar, mengganti, mengganti"
    },
    {
     "word": "交換",
     "reading": "こうかん",
-    "meaning": "exchange,interchange,reciprocity"
+    "meaning": "pertukaran, pertukaran, timbal balik"
    }
   ]
  },
@@ -7390,8 +7390,8 @@ export const kanjiN2 = [
   "kanji": "療",
   "level": "N2",
   "meanings": [
-   "Heal",
-   "Cure"
+   "Sembuh",
+   "Menyembuhkan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7402,7 +7402,7 @@ export const kanjiN2 = [
    {
     "word": "医療",
     "reading": "いりょう",
-    "meaning": "medical care,medical treatment"
+    "meaning": "perawatan medis, perawatan medis"
    },
    {
     "word": "診療",
@@ -7415,12 +7415,12 @@ export const kanjiN2 = [
   "kanji": "般",
   "level": "N2",
   "meanings": [
-   "Carrier",
-   "Carry",
-   "All",
-   "General",
-   "Sort",
-   "Kind"
+   "Pembawa",
+   "Membawa",
+   "Semua",
+   "Umum",
+   "Menyortir",
+   "Baik"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7431,7 +7431,7 @@ export const kanjiN2 = [
    {
     "word": "一般",
     "reading": "いっぱん",
-    "meaning": "general,liberal,universal,ordinary,average"
+    "meaning": "umum, liberal, universal, biasa, rata-rata"
    }
   ]
  },
@@ -7439,11 +7439,11 @@ export const kanjiN2 = [
   "kanji": "依",
   "level": "N2",
   "meanings": [
-   "Reliant",
-   "Depend On",
-   "Consequently",
-   "Therefore",
-   "Due To"
+   "Bergantung",
+   "Tergantung Pada",
+   "Akibatnya",
+   "Karena itu",
+   "Karena"
   ],
   "kunyomi": [
    "よ.る"
@@ -7457,7 +7457,7 @@ export const kanjiN2 = [
    {
     "word": "依頼",
     "reading": "いらい",
-    "meaning": "(1) request,commission,dispatch,(2) dependence,trust"
+    "meaning": "(1) permintaan, komisi, pengiriman, (2) ketergantungan, kepercayaan"
    }
   ]
  },
@@ -7465,8 +7465,8 @@ export const kanjiN2 = [
   "kanji": "漁",
   "level": "N2",
   "meanings": [
-   "Fishing",
-   "Fishery"
+   "Penangkapan ikan",
+   "Perikanan"
   ],
   "kunyomi": [
    "あさ.る"
@@ -7488,11 +7488,11 @@ export const kanjiN2 = [
   "kanji": "募",
   "level": "N2",
   "meanings": [
-   "Recruit",
-   "Campaign",
-   "Gather (contributions)",
-   "Enlist",
-   "Grow Violent"
+   "Rekrut",
+   "Kampanye",
+   "Kumpulkan (kontribusi)",
+   "Mendapatkan",
+   "Tumbuh dengan Kekerasan"
   ],
   "kunyomi": [
    "つの.る"
@@ -7513,10 +7513,10 @@ export const kanjiN2 = [
   "kanji": "患",
   "level": "N2",
   "meanings": [
-   "Afflicted",
-   "Disease",
-   "Suffer From",
-   "Be Ill"
+   "Menderita",
+   "Penyakit",
+   "Menderita",
+   "Sakit"
   ],
   "kunyomi": [
    "わずら.う"
@@ -7529,7 +7529,7 @@ export const kanjiN2 = [
    {
     "word": "患者",
     "reading": "かんじゃ",
-    "meaning": "a patient"
+    "meaning": "seorang pasien"
    }
   ]
  },
@@ -7537,9 +7537,9 @@ export const kanjiN2 = [
   "kanji": "湾",
   "level": "N2",
   "meanings": [
-   "Gulf",
-   "Bay",
-   "Inlet"
+   "Teluk",
+   "Teluk",
+   "Masuk"
   ],
   "kunyomi": [
    "いりえ"
@@ -7552,7 +7552,7 @@ export const kanjiN2 = [
    {
     "word": "湾",
     "reading": "わん",
-    "meaning": "bay,gulf,inlet"
+    "meaning": "teluk, teluk, saluran masuk"
    }
   ]
  },
@@ -7560,10 +7560,10 @@ export const kanjiN2 = [
   "kanji": "爆",
   "level": "N2",
   "meanings": [
-   "Bomb",
-   "Burst Open",
+   "Bom",
+   "Meledak Terbuka",
    "Pop",
-   "Split"
+   "Membelah"
   ],
   "kunyomi": [
    "は.ぜる"
@@ -7576,7 +7576,7 @@ export const kanjiN2 = [
    {
     "word": "爆発",
     "reading": "ばくはつ",
-    "meaning": "explosion,detonation,eruption"
+    "meaning": "ledakan, detonasi, letusan"
    }
   ]
  },
@@ -7584,10 +7584,10 @@ export const kanjiN2 = [
   "kanji": "跡",
   "level": "N2",
   "meanings": [
-   "Tracks",
-   "Mark",
-   "Print",
-   "Impression"
+   "Trek",
+   "Tanda",
+   "Mencetak",
+   "Kesan"
   ],
   "kunyomi": [
    "あと"
@@ -7600,7 +7600,7 @@ export const kanjiN2 = [
    {
     "word": "跡",
     "reading": "あと",
-    "meaning": "(1) trace,tracks,mark,sign,(2) remains,ruins,(3) scar"
+    "meaning": "(1) jejak, jejak, tandai, tanda, (2) sisa-sisa, reruntuhan, (3) bekas luka"
    }
   ]
  },
@@ -7608,9 +7608,9 @@ export const kanjiN2 = [
   "kanji": "香",
   "level": "N2",
   "meanings": [
-   "Incense",
-   "Smell",
-   "Perfume"
+   "Dupa",
+   "Bau",
+   "Parfum"
   ],
   "kunyomi": [
    "か",
@@ -7634,12 +7634,12 @@ export const kanjiN2 = [
   "kanji": "兆",
   "level": "N2",
   "meanings": [
-   "Portent",
+   "Tanda",
    "10**12",
-   "Trillion",
-   "Sign",
-   "Omen",
-   "Symptoms"
+   "Triliun",
+   "Tanda",
+   "Pertanda",
+   "Gejala"
   ],
   "kunyomi": [
    "きざ.す",
@@ -7661,7 +7661,7 @@ export const kanjiN2 = [
   "kanji": "齢",
   "level": "N2",
   "meanings": [
-   "Age"
+   "Usia"
   ],
   "kunyomi": [
    "よわい",
@@ -7675,7 +7675,7 @@ export const kanjiN2 = [
    {
     "word": "年齢",
     "reading": "ねんれい",
-    "meaning": "age,years"
+    "meaning": "umur, tahun"
    }
   ]
  },
@@ -7683,9 +7683,9 @@ export const kanjiN2 = [
   "kanji": "刊",
   "level": "N2",
   "meanings": [
-   "Publish",
-   "Carve",
-   "Engrave"
+   "Menerbitkan",
+   "Mengukir",
+   "Mengukir"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7704,13 +7704,13 @@ export const kanjiN2 = [
   "kanji": "傾",
   "level": "N2",
   "meanings": [
-   "Lean",
-   "Incline",
-   "Tilt",
-   "Trend",
-   "Wane",
-   "Sink",
-   "Ruin",
+   "Bersandar",
+   "Lereng",
+   "Memiringkan",
+   "Kecenderungan",
+   "Menyusut",
+   "Tenggelam",
+   "Menghancurkan",
    "Bias"
   ],
   "kunyomi": [
@@ -7728,7 +7728,7 @@ export const kanjiN2 = [
    {
     "word": "傾向",
     "reading": "けいこう",
-    "meaning": "tendency,trend,inclination"
+    "meaning": "kecenderungan, kecenderungan, kecenderungan"
    }
   ]
  },
@@ -7736,8 +7736,8 @@ export const kanjiN2 = [
   "kanji": "奥",
   "level": "N2",
   "meanings": [
-   "Heart",
-   "Interior"
+   "Jantung",
+   "Pedalaman"
   ],
   "kunyomi": [
    "おく",
@@ -7760,12 +7760,12 @@ export const kanjiN2 = [
   "kanji": "贈",
   "level": "N2",
   "meanings": [
-   "Presents",
-   "Send",
-   "Give To",
-   "Award To",
-   "Confer On",
-   "Presenting Something"
+   "Hadiah",
+   "Mengirim",
+   "Berikan Kepada",
+   "Penghargaan Kepada",
+   "Berunding",
+   "Menyajikan Sesuatu"
   ],
   "kunyomi": [
    "おく.る"
@@ -7779,12 +7779,12 @@ export const kanjiN2 = [
    {
     "word": "贈り物",
     "reading": "おくりもの",
-    "meaning": "gift"
+    "meaning": "hadiah"
    },
    {
     "word": "贈る",
     "reading": "おくる",
-    "meaning": "to send,to give to,to award to,to confer on"
+    "meaning": "untuk mengirim, memberi, memberi penghargaan, berunding"
    }
   ]
  },
@@ -7792,9 +7792,9 @@ export const kanjiN2 = [
   "kanji": "超",
   "level": "N2",
   "meanings": [
-   "Transcend",
+   "Melampaui",
    "Super-",
-   "Ultra-"
+   "Sangat-"
   ],
   "kunyomi": [
    "こ.える",
@@ -7816,8 +7816,8 @@ export const kanjiN2 = [
   "kanji": "雇",
   "level": "N2",
   "meanings": [
-   "Employ",
-   "Hire"
+   "Mempekerjakan",
+   "Mempekerjakan"
   ],
   "kunyomi": [
    "やと.う"
@@ -7830,7 +7830,7 @@ export const kanjiN2 = [
    {
     "word": "雇う",
     "reading": "やとう",
-    "meaning": "to employ,to hire"
+    "meaning": "untuk mempekerjakan, untuk mempekerjakan"
    }
   ]
  },
@@ -7838,10 +7838,10 @@ export const kanjiN2 = [
   "kanji": "片",
   "level": "N2",
   "meanings": [
-   "One-sided",
-   "Leaf",
-   "Sheet",
-   "Right-side Kata Radical (no. 91)"
+   "Berat sebelah",
+   "Daun",
+   "Lembaran",
+   "Kata Radikal Sisi Kanan (no. 91)"
   ],
   "kunyomi": [
    "かた-",
@@ -7855,7 +7855,7 @@ export const kanjiN2 = [
    {
     "word": "片付ける",
     "reading": "かたづける",
-    "meaning": "to tidy up"
+    "meaning": "untuk merapikan"
    }
   ]
  },
@@ -7863,12 +7863,12 @@ export const kanjiN2 = [
   "kanji": "群",
   "level": "N2",
   "meanings": [
-   "Flock",
-   "Group",
-   "Crowd",
-   "Herd",
-   "Swarm",
-   "Cluster"
+   "Kawanan",
+   "Kelompok",
+   "Kerumunan",
+   "Kawanan",
+   "Kawanan",
+   "Gugus"
   ],
   "kunyomi": [
    "む.れる",
@@ -7892,9 +7892,9 @@ export const kanjiN2 = [
   "kanji": "埋",
   "level": "N2",
   "meanings": [
-   "Bury",
-   "Be Filled Up",
-   "Embedded"
+   "Mengubur",
+   "Diisi",
+   "Tertanam"
   ],
   "kunyomi": [
    "う.める",
@@ -7920,9 +7920,9 @@ export const kanjiN2 = [
   "kanji": "駐",
   "level": "N2",
   "meanings": [
-   "Stop-over",
-   "Reside In",
-   "Resident"
+   "Persinggahan",
+   "Bertempat tinggal",
+   "Penduduk"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7933,12 +7933,12 @@ export const kanjiN2 = [
    {
     "word": "駐車場",
     "reading": "ちゅうしゃじょう",
-    "meaning": "parking lot"
+    "meaning": "tempat parkir"
    },
    {
     "word": "駐車",
     "reading": "ちゅうしゃ",
-    "meaning": "parking (e.g. car)"
+    "meaning": "parkir (misalnya mobil)"
    }
   ]
  },
@@ -7946,10 +7946,10 @@ export const kanjiN2 = [
   "kanji": "柱",
   "level": "N2",
   "meanings": [
-   "Pillar",
-   "Post",
-   "Cylinder",
-   "Support"
+   "Pilar",
+   "Pos",
+   "Silinder",
+   "Mendukung"
   ],
   "kunyomi": [
    "はしら"
@@ -7970,12 +7970,12 @@ export const kanjiN2 = [
   "kanji": "鋭",
   "level": "N2",
   "meanings": [
-   "Pointed",
-   "Sharpness",
-   "Edge",
-   "Weapon",
-   "Sharp",
-   "Violent"
+   "Lancip",
+   "Ketajaman",
+   "Tepian",
+   "Senjata",
+   "Tajam",
+   "Brutal"
   ],
   "kunyomi": [
    "するど.い"
@@ -7988,7 +7988,7 @@ export const kanjiN2 = [
    {
     "word": "鋭い",
     "reading": "するどい",
-    "meaning": "pointed,sharp"
+    "meaning": "runcing, tajam"
    }
   ]
  },
@@ -7996,12 +7996,12 @@ export const kanjiN2 = [
   "kanji": "殿",
   "level": "N2",
   "meanings": [
-   "Mr.",
-   "Hall",
-   "Mansion",
-   "Palace",
-   "Temple",
-   "Lord"
+   "Tn.",
+   "Aula",
+   "Rumah besar",
+   "Istana",
+   "Kuil",
+   "Yang mulia"
   ],
   "kunyomi": [
    "との",
@@ -8024,10 +8024,10 @@ export const kanjiN2 = [
   "kanji": "薄",
   "level": "N2",
   "meanings": [
-   "Dilute",
-   "Thin",
-   "Weak (tea)",
-   "Pampas Grass"
+   "Mencairkan",
+   "Tipis",
+   "Lemah (teh)",
+   "Rumput Pampas"
   ],
   "kunyomi": [
    "うす.い",
@@ -8048,7 +8048,7 @@ export const kanjiN2 = [
    {
     "word": "薄い",
     "reading": "うすい",
-    "meaning": "thin,weak"
+    "meaning": "kurus, lemah"
    }
   ]
  },
@@ -8056,12 +8056,12 @@ export const kanjiN2 = [
   "kanji": "伺",
   "level": "N2",
   "meanings": [
-   "Pay Respects",
-   "Visit",
-   "Ask",
-   "Inquire",
-   "Question",
-   "Implore"
+   "Beri Hormat",
+   "Mengunjungi",
+   "Bertanya",
+   "Menanyakan",
+   "Pertanyaan",
+   "Mohon"
   ],
   "kunyomi": [
    "うかが.う"
@@ -8082,8 +8082,8 @@ export const kanjiN2 = [
   "kanji": "炭",
   "level": "N2",
   "meanings": [
-   "Charcoal",
-   "Coal"
+   "Arang",
+   "Batu bara"
   ],
   "kunyomi": [
    "すみ"
@@ -8096,7 +8096,7 @@ export const kanjiN2 = [
    {
     "word": "石炭",
     "reading": "せきたん",
-    "meaning": "coal"
+    "meaning": "batu bara"
    }
   ]
  },
@@ -8104,10 +8104,10 @@ export const kanjiN2 = [
   "kanji": "包",
   "level": "N2",
   "meanings": [
-   "Wrap",
-   "Pack Up",
-   "Cover",
-   "Conceal"
+   "Membungkus",
+   "Berkemas",
+   "Menutupi",
+   "Menutupi"
   ],
   "kunyomi": [
    "つつ.む",
@@ -8121,17 +8121,17 @@ export const kanjiN2 = [
    {
     "word": "包む",
     "reading": "つつむ",
-    "meaning": "to wrap"
+    "meaning": "untuk membungkus"
    },
    {
     "word": "小包",
     "reading": "こづつみ",
-    "meaning": "parcel,package"
+    "meaning": "parsel, paket"
    },
    {
     "word": "包み",
     "reading": "つつみ",
-    "meaning": "bundle,package,parcel,bale"
+    "meaning": "bundel, paket, parsel, bale"
    }
   ]
  },
@@ -8139,9 +8139,9 @@ export const kanjiN2 = [
   "kanji": "衣",
   "level": "N2",
   "meanings": [
-   "Garment",
-   "Clothes",
-   "Dressing"
+   "Pakaian",
+   "Pakaian",
+   "Pembalut"
   ],
   "kunyomi": [
    "ころも",
@@ -8157,7 +8157,7 @@ export const kanjiN2 = [
    {
     "word": "衣服",
     "reading": "いふく",
-    "meaning": "clothes"
+    "meaning": "pakaian"
    }
   ]
  },
@@ -8166,7 +8166,7 @@ export const kanjiN2 = [
   "level": "N2",
   "meanings": [
    "Mineral",
-   "Ore"
+   "Bijih"
   ],
   "kunyomi": [
    "あらがね"
@@ -8187,10 +8187,10 @@ export const kanjiN2 = [
   "kanji": "双",
   "level": "N2",
   "meanings": [
-   "Pair",
-   "Set",
-   "Comparison",
-   "Counter For Pairs"
+   "Pasangan",
+   "Mengatur",
+   "Perbandingan",
+   "Penghitung Untuk Pasangan"
   ],
   "kunyomi": [
    "ふた",
@@ -8206,7 +8206,7 @@ export const kanjiN2 = [
    {
     "word": "双子",
     "reading": "ふたご",
-    "meaning": "twins,a twin"
+    "meaning": "kembar, kembar"
    }
   ]
  },
@@ -8214,10 +8214,10 @@ export const kanjiN2 = [
   "kanji": "床",
   "level": "N2",
   "meanings": [
-   "Bed",
-   "Counter For Beds",
-   "Floor",
-   "Padding",
+   "Tempat tidur",
+   "Konter Untuk Tempat Tidur",
+   "Lantai",
+   "Lapisan",
    "Tatami"
   ],
   "kunyomi": [
@@ -8232,7 +8232,7 @@ export const kanjiN2 = [
    {
     "word": "床",
     "reading": "ゆか",
-    "meaning": "floor"
+    "meaning": "lantai"
    }
   ]
  },
@@ -8240,9 +8240,9 @@ export const kanjiN2 = [
   "kanji": "掘",
   "level": "N2",
   "meanings": [
-   "Dig",
-   "Delve",
-   "Excavate"
+   "Menggali",
+   "Menggali",
+   "Menggali"
   ],
   "kunyomi": [
    "ほ.る"
@@ -8263,9 +8263,9 @@ export const kanjiN2 = [
   "kanji": "泊",
   "level": "N2",
   "meanings": [
-   "Overnight Stay",
-   "Put Up At",
-   "Ride At Anchor"
+   "Menginap Semalam",
+   "Pasang Di",
+   "Berlabuh"
   ],
   "kunyomi": [
    "と.まる",
@@ -8279,12 +8279,12 @@ export const kanjiN2 = [
    {
     "word": "泊まる",
     "reading": "とまる",
-    "meaning": "to lodge at"
+    "meaning": "untuk menginap di"
    },
    {
     "word": "宿泊",
     "reading": "しゅくはく",
-    "meaning": "lodging"
+    "meaning": "penginapan"
    }
   ]
  },
@@ -8292,10 +8292,10 @@ export const kanjiN2 = [
   "kanji": "荒",
   "level": "N2",
   "meanings": [
-   "Laid Waste",
-   "Rough",
-   "Rude",
-   "Wild"
+   "Membuang Sampah",
+   "Kasar",
+   "Kasar",
+   "Liar"
   ],
   "kunyomi": [
    "あら.い",
@@ -8321,9 +8321,9 @@ export const kanjiN2 = [
   "kanji": "袋",
   "level": "N2",
   "meanings": [
-   "Sack",
-   "Bag",
-   "Pouch"
+   "Memecat",
+   "Tas",
+   "Kantong"
   ],
   "kunyomi": [
    "ふくろ"
@@ -8337,7 +8337,7 @@ export const kanjiN2 = [
    {
     "word": "手袋",
     "reading": "てぶくろ",
-    "meaning": "glove"
+    "meaning": "sarung tangan"
    }
   ]
  },
@@ -8345,9 +8345,9 @@ export const kanjiN2 = [
   "kanji": "珍",
   "level": "N2",
   "meanings": [
-   "Rare",
-   "Curious",
-   "Strange"
+   "Langka",
+   "Penasaran",
+   "Aneh"
   ],
   "kunyomi": [
    "めずら.しい",
@@ -8361,7 +8361,7 @@ export const kanjiN2 = [
    {
     "word": "珍しい",
     "reading": "めずらしい",
-    "meaning": "rare"
+    "meaning": "langka"
    }
   ]
  },
@@ -8369,9 +8369,9 @@ export const kanjiN2 = [
   "kanji": "籍",
   "level": "N2",
   "meanings": [
-   "Enroll",
-   "Domiciliary Register",
-   "Membership"
+   "Mendaftar",
+   "Daftar Domisili",
+   "Keanggotaan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -8390,9 +8390,9 @@ export const kanjiN2 = [
   "kanji": "刷",
   "level": "N2",
   "meanings": [
-   "Printing",
-   "Print",
-   "Brush"
+   "Pencetakan",
+   "Mencetak",
+   "Sikat"
   ],
   "kunyomi": [
    "す.る",
@@ -8408,7 +8408,7 @@ export const kanjiN2 = [
    {
     "word": "印刷",
     "reading": "いんさつ",
-    "meaning": "printing"
+    "meaning": "pencetakan"
    },
    {
     "word": "刷る",
@@ -8421,8 +8421,8 @@ export const kanjiN2 = [
   "kanji": "封",
   "level": "N2",
   "meanings": [
-   "Seal",
-   "Closing"
+   "Segel",
+   "Penutupan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -8434,7 +8434,7 @@ export const kanjiN2 = [
    {
     "word": "封筒",
     "reading": "ふうとう",
-    "meaning": "envelope"
+    "meaning": "amplop"
    }
   ]
  },
@@ -8442,11 +8442,11 @@ export const kanjiN2 = [
   "kanji": "筒",
   "level": "N2",
   "meanings": [
-   "Cylinder",
-   "Pipe",
-   "Tube",
-   "Gun Barrel",
-   "Sleeve"
+   "Silinder",
+   "Pipa",
+   "Tabung",
+   "Laras senapan",
+   "Lengan baju"
   ],
   "kunyomi": [
    "つつ"
@@ -8459,7 +8459,7 @@ export const kanjiN2 = [
    {
     "word": "封筒",
     "reading": "ふうとう",
-    "meaning": "envelope"
+    "meaning": "amplop"
    }
   ]
  },
@@ -8467,10 +8467,10 @@ export const kanjiN2 = [
   "kanji": "柔",
   "level": "N2",
   "meanings": [
-   "Tender",
-   "Weakness",
-   "Gentleness",
-   "Softness"
+   "Lembut",
+   "Kelemahan",
+   "Kelemah-lembutan",
+   "Kelembutan"
   ],
   "kunyomi": [
    "やわ.らか",
@@ -8492,7 +8492,7 @@ export const kanjiN2 = [
    {
     "word": "柔らかい",
     "reading": "やわらかい",
-    "meaning": "soft"
+    "meaning": "lembut"
    }
   ]
  },
@@ -8500,11 +8500,11 @@ export const kanjiN2 = [
   "kanji": "沈",
   "level": "N2",
   "meanings": [
-   "Sink",
-   "Be Submerged",
-   "Subside",
-   "Be Depressed",
-   "Aloes"
+   "Tenggelam",
+   "Terendam",
+   "Surut",
+   "Menjadi Depresi",
+   "gaharu"
   ],
   "kunyomi": [
    "しず.む",
@@ -8519,7 +8519,7 @@ export const kanjiN2 = [
    {
     "word": "沈む",
     "reading": "しずむ",
-    "meaning": "to sink,to feel depressed"
+    "meaning": "tenggelam, merasa tertekan"
    }
   ]
  },
@@ -8527,10 +8527,10 @@ export const kanjiN2 = [
   "kanji": "辛",
   "level": "N2",
   "meanings": [
-   "Spicy",
-   "Bitter",
-   "Hot",
-   "Acrid"
+   "Pedas",
+   "Pahit",
+   "Panas",
+   "Tajam"
   ],
   "kunyomi": [
    "から.い",
@@ -8546,12 +8546,12 @@ export const kanjiN2 = [
    {
     "word": "辛い",
     "reading": "からい",
-    "meaning": "spicy"
+    "meaning": "pedas"
    },
    {
     "word": "辛い",
     "reading": "つらい",
-    "meaning": "painful,heart-breaking"
+    "meaning": "menyakitkan, menyayat hati"
    },
    {
     "word": "辛うじて",
@@ -8564,10 +8564,10 @@ export const kanjiN2 = [
   "kanji": "匹",
   "level": "N2",
   "meanings": [
-   "Equal",
-   "Head",
-   "Counter For Small Animals",
-   "Roll Of Cloth"
+   "Setara",
+   "Kepala",
+   "Counter Untuk Hewan Kecil",
+   "Gulungan Kain"
   ],
   "kunyomi": [
    "ひき"
@@ -8588,9 +8588,9 @@ export const kanjiN2 = [
   "kanji": "叫",
   "level": "N2",
   "meanings": [
-   "Shout",
-   "Exclaim",
-   "Yell"
+   "Berteriak",
+   "Berseru",
+   "Berteriak"
   ],
   "kunyomi": [
    "さけ.ぶ"
@@ -8603,7 +8603,7 @@ export const kanjiN2 = [
    {
     "word": "叫ぶ",
     "reading": "さけぶ",
-    "meaning": "to shout,to cry"
+    "meaning": "berteriak, menangis"
    }
   ]
  },
@@ -8611,8 +8611,8 @@ export const kanjiN2 = [
   "kanji": "涙",
   "level": "N2",
   "meanings": [
-   "Tears",
-   "Sympathy"
+   "Air mata",
+   "Simpati"
   ],
   "kunyomi": [
    "なみだ"
@@ -8626,7 +8626,7 @@ export const kanjiN2 = [
    {
     "word": "涙",
     "reading": "なみだ",
-    "meaning": "tear"
+    "meaning": "merobek"
    }
   ]
  },
@@ -8634,9 +8634,9 @@ export const kanjiN2 = [
   "kanji": "缶",
   "level": "N2",
   "meanings": [
-   "Tin Can",
-   "Container",
-   "Jar Radical (no. 121)"
+   "kaleng timah",
+   "Wadah",
+   "Toples Radikal (no.121)"
   ],
   "kunyomi": [
    "かま"
@@ -8649,7 +8649,7 @@ export const kanjiN2 = [
    {
     "word": "缶",
     "reading": "かん",
-    "meaning": "can,tin"
+    "meaning": "bisa, timah"
    }
   ]
  },
@@ -8657,9 +8657,9 @@ export const kanjiN2 = [
   "kanji": "粒",
   "level": "N2",
   "meanings": [
-   "Grains",
-   "Drop",
-   "Counter For Tiny Particles"
+   "Biji-bijian",
+   "Menjatuhkan",
+   "Penghitung Untuk Partikel Kecil"
   ],
   "kunyomi": [
    "つぶ"
@@ -8680,9 +8680,9 @@ export const kanjiN2 = [
   "kanji": "塔",
   "level": "N2",
   "meanings": [
-   "Pagoda",
-   "Tower",
-   "Steeple"
+   "Klenteng",
+   "Menara",
+   "Menara gereja"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -8693,7 +8693,7 @@ export const kanjiN2 = [
    {
     "word": "塔",
     "reading": "とう",
-    "meaning": "tower,pagoda"
+    "meaning": "menara, pagoda"
    }
   ]
  },
@@ -8701,10 +8701,10 @@ export const kanjiN2 = [
   "kanji": "肌",
   "level": "N2",
   "meanings": [
-   "Texture",
-   "Skin",
-   "Body",
-   "Grain"
+   "Tekstur",
+   "Kulit",
+   "Tubuh",
+   "Bulir"
   ],
   "kunyomi": [
    "はだ"
@@ -8717,7 +8717,7 @@ export const kanjiN2 = [
    {
     "word": "肌",
     "reading": "はだ",
-    "meaning": "skin"
+    "meaning": "kulit"
    }
   ]
  },
@@ -8725,8 +8725,8 @@ export const kanjiN2 = [
   "kanji": "舟",
   "level": "N2",
   "meanings": [
-   "Boat",
-   "Ship"
+   "Kapal",
+   "Mengirimkan"
   ],
   "kunyomi": [
    "ふね",
@@ -8741,7 +8741,7 @@ export const kanjiN2 = [
    {
     "word": "舟",
     "reading": "ふね",
-    "meaning": "ship"
+    "meaning": "mengirimkan"
    }
   ]
  },
@@ -8749,8 +8749,8 @@ export const kanjiN2 = [
   "kanji": "曇",
   "level": "N2",
   "meanings": [
-   "Cloudy Weather",
-   "Cloud Up"
+   "Cuaca mendung",
+   "Diliputi awan"
   ],
   "kunyomi": [
    "くも.る"
@@ -8763,12 +8763,12 @@ export const kanjiN2 = [
    {
     "word": "曇る",
     "reading": "くもる",
-    "meaning": "menjadi berawan, menjadi redup"
+    "meaning": "menjadi berawan, redup menjadi"
    },
    {
     "word": "曇り",
     "reading": "くもり",
-    "meaning": "cloudy weather"
+    "meaning": "cuaca mendung"
    }
   ]
  },
@@ -8776,11 +8776,11 @@ export const kanjiN2 = [
   "kanji": "磨",
   "level": "N2",
   "meanings": [
-   "Grind",
-   "Polish",
-   "Scour",
-   "Improve",
-   "Brush (teeth)"
+   "Menggiling",
+   "Polandia",
+   "Memeriksa",
+   "Memperbaiki",
+   "Sikat (gigi)"
   ],
   "kunyomi": [
    "みが.く",
@@ -8794,7 +8794,7 @@ export const kanjiN2 = [
    {
     "word": "磨く",
     "reading": "みがく",
-    "meaning": "untuk menyikat gigi, untuk memoles"
+    "meaning": "untuk menyikat gigi, untuk mengenang"
    }
   ]
  },
@@ -8802,9 +8802,9 @@ export const kanjiN2 = [
   "kanji": "湿",
   "level": "N2",
   "meanings": [
-   "Damp",
-   "Wet",
-   "Moist"
+   "Lembap",
+   "Basah",
+   "Lembap"
   ],
   "kunyomi": [
    "しめ.る",
@@ -8829,8 +8829,8 @@ export const kanjiN2 = [
   "kanji": "硬",
   "level": "N2",
   "meanings": [
-   "Stiff",
-   "Hard"
+   "Kaku",
+   "Keras"
   ],
   "kunyomi": [
    "かた.い"
@@ -8843,17 +8843,17 @@ export const kanjiN2 = [
    {
     "word": "堅/硬/固い",
     "reading": "かたい",
-    "meaning": "hard"
+    "meaning": "keras"
    },
    {
     "word": "硬貨",
     "reading": "こうか",
-    "meaning": "coin"
+    "meaning": "koin"
    },
    {
     "word": "硬い",
     "reading": "かたい",
-    "meaning": "solid,hard (esp. metal, stone),unpolished writing"
+    "meaning": "padat, keras (khususnya logam, batu), tulisan kasar"
    }
   ]
  },
@@ -8861,10 +8861,10 @@ export const kanjiN2 = [
   "kanji": "鈍",
   "level": "N2",
   "meanings": [
-   "Dull",
-   "Slow",
-   "Foolish",
-   "Blunt"
+   "Membosankan",
+   "Lambat",
+   "Konyol",
+   "Tumpul"
   ],
   "kunyomi": [
    "にぶ.い",
@@ -8889,8 +8889,8 @@ export const kanjiN2 = [
   "kanji": "涼",
   "level": "N2",
   "meanings": [
-   "Refreshing",
-   "Nice And Cool"
+   "Menyegarkan",
+   "Bagus Dan Keren"
   ],
   "kunyomi": [
    "すず.しい",
@@ -8908,7 +8908,7 @@ export const kanjiN2 = [
    {
     "word": "涼しい",
     "reading": "すずしい",
-    "meaning": "refreshing"
+    "meaning": "menyegarkan"
    }
   ]
  },
@@ -8916,11 +8916,11 @@ export const kanjiN2 = [
   "kanji": "零",
   "level": "N2",
   "meanings": [
-   "Zero",
-   "Spill",
-   "Overflow",
-   "Nothing",
-   "Cipher"
+   "Nol",
+   "Tumpahan",
+   "Meluap",
+   "Tidak ada",
+   "Sandi"
   ],
   "kunyomi": [
    "ぜろ",
@@ -8935,7 +8935,7 @@ export const kanjiN2 = [
    {
     "word": "零",
     "reading": "れい",
-    "meaning": "zero"
+    "meaning": "nol"
    }
   ]
  },
@@ -8943,7 +8943,7 @@ export const kanjiN2 = [
   "kanji": "綿",
   "level": "N2",
   "meanings": [
-   "Cotton"
+   "Kapas"
   ],
   "kunyomi": [
    "わた"
@@ -8956,7 +8956,7 @@ export const kanjiN2 = [
    {
     "word": "木綿",
     "reading": "もめん",
-    "meaning": "cotton"
+    "meaning": "kapas"
    }
   ]
  },
@@ -8964,8 +8964,8 @@ export const kanjiN2 = [
   "kanji": "帽",
   "level": "N2",
   "meanings": [
-   "Cap",
-   "Headgear"
+   "Topi",
+   "Tutup kepala"
   ],
   "kunyomi": [
    "ずきん",
@@ -8980,7 +8980,7 @@ export const kanjiN2 = [
    {
     "word": "帽子",
     "reading": "ぼうし",
-    "meaning": "hat"
+    "meaning": "topi"
    }
   ]
  },
@@ -8988,8 +8988,8 @@ export const kanjiN2 = [
   "kanji": "憎",
   "level": "N2",
   "meanings": [
-   "Hate",
-   "Detest"
+   "Membenci",
+   "Benci"
   ],
   "kunyomi": [
    "にく.む",
@@ -9013,8 +9013,8 @@ export const kanjiN2 = [
   "kanji": "滴",
   "level": "N2",
   "meanings": [
-   "Drip",
-   "Drop"
+   "Menetes",
+   "Menjatuhkan"
   ],
   "kunyomi": [
    "しずく",
@@ -9036,11 +9036,11 @@ export const kanjiN2 = [
   "kanji": "畳",
   "level": "N2",
   "meanings": [
-   "Tatami Mat",
-   "Counter For Tatami Mats",
-   "Fold",
-   "Shut Up",
-   "Do Away With"
+   "tikar tatami",
+   "Counter Untuk Tikar Tatami",
+   "Melipat",
+   "Diam",
+   "Singkirkan"
   ],
   "kunyomi": [
    "たた.む",
@@ -9056,7 +9056,7 @@ export const kanjiN2 = [
    {
     "word": "畳",
     "reading": "たたみ",
-    "meaning": "Japanese straw mat"
+    "meaning": "Tikar jerami Jepang"
    }
   ]
  },
@@ -9064,8 +9064,8 @@ export const kanjiN2 = [
   "kanji": "畜",
   "level": "N2",
   "meanings": [
-   "Livestock",
-   "Domestic Fowl And Animals"
+   "Ternak",
+   "Unggas dan Hewan Domestik"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -9084,9 +9084,9 @@ export const kanjiN2 = [
   "kanji": "溶",
   "level": "N2",
   "meanings": [
-   "Melt",
-   "Dissolve",
-   "Thaw"
+   "Meleleh",
+   "Larut",
+   "Mencair"
   ],
   "kunyomi": [
    "と.ける",
@@ -9109,10 +9109,10 @@ export const kanjiN2 = [
   "kanji": "踊",
   "level": "N2",
   "meanings": [
-   "Jump",
-   "Dance",
-   "Leap",
-   "Skip"
+   "Melompat",
+   "Menari",
+   "Melompat",
+   "Melewati"
   ],
   "kunyomi": [
    "おど.る"
@@ -9125,12 +9125,12 @@ export const kanjiN2 = [
    {
     "word": "踊る",
     "reading": "おどる",
-    "meaning": "to dance"
+    "meaning": "untuk menari"
    },
    {
     "word": "踊り",
     "reading": "おどり",
-    "meaning": "a dance"
+    "meaning": "sebuah tarian"
    }
   ]
  },
@@ -9138,10 +9138,10 @@ export const kanjiN2 = [
   "kanji": "賢",
   "level": "N2",
   "meanings": [
-   "Intelligent",
-   "Wise",
-   "Wisdom",
-   "Cleverness"
+   "Cerdas",
+   "Bijak",
+   "Kebijaksanaan",
+   "Kepandaian"
   ],
   "kunyomi": [
    "かしこ.い"
@@ -9154,7 +9154,7 @@ export const kanjiN2 = [
    {
     "word": "賢い",
     "reading": "かしこい",
-    "meaning": "wise,clever,smart"
+    "meaning": "bijaksana, pintar, pintar"
    }
   ]
  },
@@ -9162,10 +9162,10 @@ export const kanjiN2 = [
   "kanji": "灯",
   "level": "N2",
   "meanings": [
-   "Lamp",
-   "A Light",
-   "Light",
-   "Counter For Lights"
+   "Lampu",
+   "Sebuah Cahaya",
+   "Lampu",
+   "Penghitung Untuk Lampu"
   ],
   "kunyomi": [
    "ひ",
@@ -9182,7 +9182,7 @@ export const kanjiN2 = [
    {
     "word": "電灯",
     "reading": "でんとう",
-    "meaning": "electric light"
+    "meaning": "lampu listrik"
    }
   ]
  },
@@ -9190,8 +9190,8 @@ export const kanjiN2 = [
   "kanji": "咲",
   "level": "N2",
   "meanings": [
-   "Blossom",
-   "Bloom"
+   "Mekar",
+   "Bunga"
   ],
   "kunyomi": [
    "さ.く",
@@ -9205,7 +9205,7 @@ export const kanjiN2 = [
    {
     "word": "咲く",
     "reading": "さく",
-    "meaning": "to bloom"
+    "meaning": "mekar"
    }
   ]
  },
@@ -9213,11 +9213,11 @@ export const kanjiN2 = [
   "kanji": "塗",
   "level": "N2",
   "meanings": [
-   "Paint",
-   "Plaster",
-   "Daub",
-   "Smear",
-   "Coating"
+   "Cat",
+   "Plester",
+   "Memulaskan",
+   "Mengolesi",
+   "Lapisan"
   ],
   "kunyomi": [
    "ぬ.る",
@@ -9232,7 +9232,7 @@ export const kanjiN2 = [
    {
     "word": "塗る",
     "reading": "ぬる",
-    "meaning": "to paint,to plaster"
+    "meaning": "untuk melukis, untuk memplester"
    }
   ]
  },
@@ -9240,16 +9240,16 @@ export const kanjiN2 = [
   "kanji": "召",
   "level": "N2",
   "meanings": [
-   "Seduce",
-   "Call",
-   "Send For",
-   "Wear",
-   "Put On",
-   "Ride In",
-   "Buy",
-   "Eat",
-   "Drink",
-   "Catch (cold)"
+   "Menggoda",
+   "Panggilan",
+   "Kirim Untuk",
+   "Memakai",
+   "Memakai",
+   "Naik",
+   "Membeli",
+   "Makan",
+   "Minum",
+   "Tangkap (dingin)"
   ],
   "kunyomi": [
    "め.す"
@@ -9262,7 +9262,7 @@ export const kanjiN2 = [
    {
     "word": "召し上がる",
     "reading": "めしあがる",
-    "meaning": "(polite) to eat"
+    "meaning": "(sopan) untuk makan"
    }
   ]
  },
@@ -9270,8 +9270,8 @@ export const kanjiN2 = [
   "kanji": "挟",
   "level": "N2",
   "meanings": [
-   "Pinch",
-   "Between"
+   "Mencubit",
+   "Di antara"
   ],
   "kunyomi": [
    "はさ.む",
@@ -9296,10 +9296,10 @@ export const kanjiN2 = [
   "kanji": "枯",
   "level": "N2",
   "meanings": [
-   "Wither",
-   "Die",
-   "Dry Up",
-   "Be Seasoned"
+   "Melayu",
+   "Mati",
+   "Mengering",
+   "Berbumbu"
   ],
   "kunyomi": [
    "か.れる",
@@ -9321,11 +9321,11 @@ export const kanjiN2 = [
   "kanji": "沸",
   "level": "N2",
   "meanings": [
-   "Seethe",
-   "Boil",
-   "Ferment",
-   "Uproar",
-   "Breed"
+   "Mendidih",
+   "Mendidihkan",
+   "Bergejolak",
+   "Kegemparan",
+   "Keturunan"
   ],
   "kunyomi": [
    "わ.く",
@@ -9339,12 +9339,12 @@ export const kanjiN2 = [
    {
     "word": "沸く",
     "reading": "わく",
-    "meaning": "to boil, to grow hot,to get excited"
+    "meaning": "mendidih, menjadi panas, menjadi bersemangat"
    },
    {
     "word": "沸かす",
     "reading": "わかす",
-    "meaning": "to boil,to heat"
+    "meaning": "mendidih, memanaskan"
    }
   ]
  },
@@ -9352,10 +9352,10 @@ export const kanjiN2 = [
   "kanji": "濯",
   "level": "N2",
   "meanings": [
-   "Laundry",
-   "Wash",
-   "Pour On",
-   "Rinse"
+   "Cucian",
+   "Mencuci",
+   "Tuangkan",
+   "Membilas"
   ],
   "kunyomi": [
    "すす.ぐ",
@@ -9369,7 +9369,7 @@ export const kanjiN2 = [
    {
     "word": "洗濯",
     "reading": "せんたく",
-    "meaning": "washing"
+    "meaning": "pencucian"
    }
   ]
  },
@@ -9377,8 +9377,8 @@ export const kanjiN2 = [
   "kanji": "燥",
   "level": "N2",
   "meanings": [
-   "Parch",
-   "Dry Up"
+   "Memanggang",
+   "Mengering"
   ],
   "kunyomi": [
    "はしゃ.ぐ"
@@ -9399,12 +9399,12 @@ export const kanjiN2 = [
   "kanji": "瓶",
   "level": "N2",
   "meanings": [
-   "Bottle",
-   "Vial",
-   "Jar",
-   "Jug",
-   "Vat",
-   "Urn"
+   "Botol",
+   "Botol kecil",
+   "Stoples",
+   "Kendi",
+   "Tong",
+   "Pasu"
   ],
   "kunyomi": [
    "かめ"
@@ -9425,9 +9425,9 @@ export const kanjiN2 = [
   "kanji": "耕",
   "level": "N2",
   "meanings": [
-   "Till",
-   "Plow",
-   "Cultivate"
+   "Sampai",
+   "Membajak",
+   "Mengolah"
   ],
   "kunyomi": [
    "たがや.す"
@@ -9448,9 +9448,9 @@ export const kanjiN2 = [
   "kanji": "肯",
   "level": "N2",
   "meanings": [
-   "Agreement",
-   "Consent",
-   "Comply With"
+   "Perjanjian",
+   "Izin",
+   "Patuhi"
   ],
   "kunyomi": [
    "がえんじ.る"
@@ -9471,13 +9471,13 @@ export const kanjiN2 = [
   "kanji": "脂",
   "level": "N2",
   "meanings": [
-   "Fat",
-   "Grease",
-   "Tallow",
-   "Lard",
+   "Gemuk",
+   "Gemuk",
+   "Lemak",
+   "Lemak babi",
    "Rosin",
-   "Gum",
-   "Tar"
+   "Gusi",
+   "Ter"
   ],
   "kunyomi": [
    "あぶら"
@@ -9498,11 +9498,11 @@ export const kanjiN2 = [
   "kanji": "膚",
   "level": "N2",
   "meanings": [
-   "Skin",
-   "Body",
-   "Grain",
-   "Texture",
-   "Disposition"
+   "Kulit",
+   "Tubuh",
+   "Bulir",
+   "Tekstur",
+   "Watak"
   ],
   "kunyomi": [
    "はだ"
@@ -9523,9 +9523,9 @@ export const kanjiN2 = [
   "kanji": "軒",
   "level": "N2",
   "meanings": [
-   "Flats",
-   "Counter For Houses",
-   "Eaves"
+   "Rumah susun",
+   "Konter Untuk Rumah",
+   "Atap"
   ],
   "kunyomi": [
    "のき"
@@ -9538,7 +9538,7 @@ export const kanjiN2 = [
    {
     "word": "軒",
     "reading": "けん",
-    "meaning": "eaves"
+    "meaning": "atap"
    }
   ]
  },
@@ -9546,7 +9546,7 @@ export const kanjiN2 = [
   "kanji": "軟",
   "level": "N2",
   "meanings": [
-   "Soft"
+   "Lembut"
   ],
   "kunyomi": [
    "やわ.らか",
@@ -9568,9 +9568,9 @@ export const kanjiN2 = [
   "kanji": "郊",
   "level": "N2",
   "meanings": [
-   "Outskirts",
-   "Suburbs",
-   "Rural Area"
+   "Pinggiran",
+   "Pinggiran kota",
+   "Daerah Pedesaan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -9581,7 +9581,7 @@ export const kanjiN2 = [
    {
     "word": "郊外",
     "reading": "こうがい",
-    "meaning": "outskirts"
+    "meaning": "pinggiran kota"
    }
   ]
  },
@@ -9589,8 +9589,8 @@ export const kanjiN2 = [
   "kanji": "隅",
   "level": "N2",
   "meanings": [
-   "Corner",
-   "Nook"
+   "Sudut",
+   "Sudut"
   ],
   "kunyomi": [
    "すみ"
@@ -9603,7 +9603,7 @@ export const kanjiN2 = [
    {
     "word": "隅",
     "reading": "すみ",
-    "meaning": "corner,nook"
+    "meaning": "sudut, sudut"
    }
   ]
  },
@@ -9611,12 +9611,12 @@ export const kanjiN2 = [
   "kanji": "隻",
   "level": "N2",
   "meanings": [
-   "Vessels",
-   "Counter For Ships",
-   "Fish",
-   "Birds",
-   "Arrows",
-   "One Of A Pair"
+   "Kapal",
+   "Konter Untuk Kapal",
+   "Ikan",
+   "Burung",
+   "panah",
+   "Satu Dari Sepasang"
   ],
   "kunyomi": [],
   "onyomi": [

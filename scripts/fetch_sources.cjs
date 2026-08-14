@@ -17,12 +17,20 @@ const SOURCES = [
   ['vocab-n4-hiragana.tab', 'https://raw.githubusercontent.com/wkei/jlpt-vocab-api/main/data-source/tabs/n4-vocab-kanji-hiragana.anki.html'],
   ['vocab-n3-kanji-eng.tab', 'https://raw.githubusercontent.com/wkei/jlpt-vocab-api/main/data-source/tabs/n3-vocab-kanji-eng.anki.html'],
   ['vocab-n3-hiragana.tab', 'https://raw.githubusercontent.com/wkei/jlpt-vocab-api/main/data-source/tabs/n3-vocab-kanji-hiragana.anki.html'],
+  // ── vocab (N2–N1, fase 2) ──
+  ['vocab-n2-kanji-eng.tab', 'https://raw.githubusercontent.com/wkei/jlpt-vocab-api/main/data-source/tabs/n2-vocab-kanji-eng.anki.html'],
+  ['vocab-n2-hiragana.tab', 'https://raw.githubusercontent.com/wkei/jlpt-vocab-api/main/data-source/tabs/n2-vocab-kanji-hiragana.anki.html'],
+  ['vocab-n1-kanji-eng.tab', 'https://raw.githubusercontent.com/wkei/jlpt-vocab-api/main/data-source/tabs/n1-vocab-kanji-eng.anki.html'],
+  ['vocab-n1-hiragana.tab', 'https://raw.githubusercontent.com/wkei/jlpt-vocab-api/main/data-source/tabs/n1-vocab-kanji-hiragana.anki.html'],
   // ── kanji (full, 5 level — satu sumber) ──
   ['kanji-jlpt-5.json', 'https://kanjiapi.dev/v1/kanji/jlpt-5'],
   ['kanji-jlpt-4.json', 'https://kanjiapi.dev/v1/kanji/jlpt-4'],
   ['kanji-jlpt-3.json', 'https://kanjiapi.dev/v1/kanji/jlpt-3'],
   ['kanji-jlpt-2.json', 'https://kanjiapi.dev/v1/kanji/jlpt-2'],
   ['kanji-jlpt-1.json', 'https://kanjiapi.dev/v1/kanji/jlpt-1'],
+  // ── grammar (N2–N1, fase 2) ──
+  ['grammar-n2.json', 'https://raw.githubusercontent.com/jkindrix/japanese-language-data/main/grammar-curated/n2.json'],
+  ['grammar-n1.json', 'https://raw.githubusercontent.com/jkindrix/japanese-language-data/main/grammar-curated/n1.json'],
   // ── grammar (N5–N3 dulu) ──
   ['grammar-n5.json', 'https://raw.githubusercontent.com/jkindrix/japanese-language-data/main/grammar-curated/n5.json'],
   ['grammar-n4.json', 'https://raw.githubusercontent.com/jkindrix/japanese-language-data/main/grammar-curated/n4.json'],

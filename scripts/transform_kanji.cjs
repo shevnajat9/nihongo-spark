@@ -36,6 +36,20 @@ function main() {
   const vocabPool = loadVocabPool();
   const vocabByWord = new Map(vocabPool.map((v) => [v.word, v]));
 
+  // Arti kanji yang SUDAH diterjemahkan (dari file output lama) dipertahankan —
+  // transform ulang hanya untuk refresh contoh jukugo dari vocab terbaru.
+  const existing = {};
+  for (const lv of ['N5', 'N4', 'N3', 'N2', 'N1']) {
+    const f = path.join(DATA, `kanji_${lv.toLowerCase()}.js`);
+    if (fs.existsSync(f)) {
+      const raw = fs.readFileSync(f, 'utf-8');
+      const arr = JSON.parse(raw.slice(raw.indexOf('['), raw.lastIndexOf(']') + 1));
+      arr.forEach((k) => {
+        existing[`${k.level}__${k.kanji}`] = k;
+      });
+    }
+  }
+
   let total = 0;
   const perLevel = {};
 
@@ -63,10 +77,11 @@ function main() {
       }
     }
 
+    const prev = existing[`N${lv}__${char}`];
     const entry = {
       kanji: char,
       level: `N${lv}`,
-      meanings: item.meanings || [],
+      meanings: prev && prev.meanings ? prev.meanings : item.meanings || [],
       kunyomi: item.readings_kun || [],
       onyomi: item.readings_on || [],
       strokes: item.strokes || 0,

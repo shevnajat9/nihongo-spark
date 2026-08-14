@@ -84,7 +84,9 @@ async function buildLevel(lv) {
 }
 
 async function main() {
-  for (const lv of ['n5', 'n4', 'n3']) {
+  // Pemakaian: node scripts/transform_vocab.cjs [n5|n4|n3|n2|n1 ...] — default semua
+  const levels = process.argv.slice(2).length ? process.argv.slice(2) : ['n5', 'n4', 'n3', 'n2', 'n1'];
+  for (const lv of levels) {
     const entries = await buildLevel(lv);
     const file = path.join(DATA, `vocab_${lv}.js`);
     const content = `export const vocab${lv.toUpperCase()} = ${JSON.stringify(entries, null, 1)};\n`;
