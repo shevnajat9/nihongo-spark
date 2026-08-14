@@ -3,8 +3,8 @@ export const kanjiN5 = [
   "kanji": "一",
   "level": "N5",
   "meanings": [
-   "One",
-   "One Radical (no.1)"
+   "Satu",
+   "Satu Radikal (no.1)"
   ],
   "kunyomi": [
    "ひと-",
@@ -37,8 +37,8 @@ export const kanjiN5 = [
   "kanji": "二",
   "level": "N5",
   "meanings": [
-   "Two",
-   "Two Radical (no. 7)"
+   "Dua",
+   "Dua Radikal (no. 7)"
   ],
   "kunyomi": [
    "ふた",
@@ -72,7 +72,7 @@ export const kanjiN5 = [
   "kanji": "九",
   "level": "N5",
   "meanings": [
-   "Nine"
+   "Sembilan"
   ],
   "kunyomi": [
    "ここの",
@@ -100,7 +100,7 @@ export const kanjiN5 = [
   "kanji": "七",
   "level": "N5",
   "meanings": [
-   "Seven"
+   "Tujuh"
   ],
   "kunyomi": [
    "なな",
@@ -128,7 +128,7 @@ export const kanjiN5 = [
   "kanji": "人",
   "level": "N5",
   "meanings": [
-   "Person"
+   "Orang"
   ],
   "kunyomi": [
    "ひと",
@@ -162,8 +162,8 @@ export const kanjiN5 = [
   "kanji": "入",
   "level": "N5",
   "meanings": [
-   "Enter",
-   "Insert"
+   "Memasuki",
+   "Menyisipkan"
   ],
   "kunyomi": [
    "い.る",
@@ -200,8 +200,8 @@ export const kanjiN5 = [
   "kanji": "八",
   "level": "N5",
   "meanings": [
-   "Eight",
-   "Eight Radical (no. 12)"
+   "Delapan",
+   "Delapan Radikal (no. 12)"
   ],
   "kunyomi": [
    "や",
@@ -235,7 +235,7 @@ export const kanjiN5 = [
   "kanji": "十",
   "level": "N5",
   "meanings": [
-   "Ten"
+   "Sepuluh"
   ],
   "kunyomi": [
    "とお",
@@ -269,7 +269,7 @@ export const kanjiN5 = [
   "kanji": "三",
   "level": "N5",
   "meanings": [
-   "Three"
+   "Tiga"
   ],
   "kunyomi": [
    "み",
@@ -303,8 +303,8 @@ export const kanjiN5 = [
   "kanji": "上",
   "level": "N5",
   "meanings": [
-   "Above",
-   "Up"
+   "Di atas",
+   "Ke atas"
   ],
   "kunyomi": [
    "うえ",
@@ -351,12 +351,12 @@ export const kanjiN5 = [
   "kanji": "下",
   "level": "N5",
   "meanings": [
-   "Below",
-   "Down",
-   "Descend",
-   "Give",
-   "Low",
-   "Inferior"
+   "Di bawah",
+   "Turun",
+   "Turun",
+   "Memberi",
+   "Rendah",
+   "Lebih rendah"
   ],
   "kunyomi": [
    "した",
@@ -399,8 +399,8 @@ export const kanjiN5 = [
   "kanji": "大",
   "level": "N5",
   "meanings": [
-   "Large",
-   "Big"
+   "Besar",
+   "Besar"
   ],
   "kunyomi": [
    "おお-",
@@ -434,8 +434,8 @@ export const kanjiN5 = [
   "kanji": "女",
   "level": "N5",
   "meanings": [
-   "Woman",
-   "Female"
+   "Wanita",
+   "Perempuan"
   ],
   "kunyomi": [
    "おんな",
@@ -469,7 +469,7 @@ export const kanjiN5 = [
   "kanji": "山",
   "level": "N5",
   "meanings": [
-   "Mountain"
+   "Gunung"
   ],
   "kunyomi": [
    "やま"
@@ -496,9 +496,9 @@ export const kanjiN5 = [
   "kanji": "川",
   "level": "N5",
   "meanings": [
-   "Stream",
-   "River",
-   "River Or Three-stroke River Radical (no. 47)"
+   "Sungai kecil",
+   "Sungai",
+   "Sungai Radikal Atau Sungai Tiga Tak (no. 47)"
   ],
   "kunyomi": [
    "かわ"
@@ -519,10 +519,10 @@ export const kanjiN5 = [
   "kanji": "土",
   "level": "N5",
   "meanings": [
-   "Soil",
-   "Earth",
-   "Ground",
-   "Turkey"
+   "Tanah",
+   "Bumi",
+   "Tanah",
+   "Turki"
   ],
   "kunyomi": [
    "つち"
@@ -554,7 +554,7 @@ export const kanjiN5 = [
   "kanji": "千",
   "level": "N5",
   "meanings": [
-   "Thousand"
+   "Ribu"
   ],
   "kunyomi": [
    "ち"
@@ -575,10 +575,10 @@ export const kanjiN5 = [
   "kanji": "子",
   "level": "N5",
   "meanings": [
-   "Child",
-   "Sign Of The Rat",
-   "11pm-1am",
-   "First Sign Of Chinese Zodiac"
+   "Anak",
+   "Tanda Tikus",
+   "23.00-01.00",
+   "Tanda Pertama Zodiak Cina"
   ],
   "kunyomi": [
    "こ",
@@ -613,8 +613,8 @@ export const kanjiN5 = [
   "kanji": "小",
   "level": "N5",
   "meanings": [
-   "Little",
-   "Small"
+   "Kecil",
+   "Kecil"
   ],
   "kunyomi": [
    "ちい.さい",
@@ -648,11 +648,11 @@ export const kanjiN5 = [
   "kanji": "中",
   "level": "N5",
   "meanings": [
-   "In",
-   "Inside",
-   "Middle",
-   "Mean",
-   "Center"
+   "Di dalam",
+   "Di dalam",
+   "Tengah",
+   "Berarti",
+   "Tengah"
   ],
   "kunyomi": [
    "なか",
@@ -685,7 +685,7 @@ export const kanjiN5 = [
   "kanji": "五",
   "level": "N5",
   "meanings": [
-   "Five"
+   "Lima"
   ],
   "kunyomi": [
    "いつ",
@@ -712,7 +712,7 @@ export const kanjiN5 = [
   "kanji": "六",
   "level": "N5",
   "meanings": [
-   "Six"
+   "Enam"
   ],
   "kunyomi": [
    "む",
@@ -742,9 +742,9 @@ export const kanjiN5 = [
   "kanji": "円",
   "level": "N5",
   "meanings": [
-   "Circle",
+   "Lingkaran",
    "Yen",
-   "Round"
+   "Bulat"
   ],
   "kunyomi": [
    "まる.い",
@@ -769,8 +769,8 @@ export const kanjiN5 = [
   "kanji": "天",
   "level": "N5",
   "meanings": [
-   "Heavens",
-   "Sky",
+   "Surga",
+   "Langit",
    "Imperial"
   ],
   "kunyomi": [
@@ -804,10 +804,10 @@ export const kanjiN5 = [
   "kanji": "日",
   "level": "N5",
   "meanings": [
-   "Day",
-   "Sun",
-   "Japan",
-   "Counter For Days"
+   "Hari",
+   "Matahari",
+   "Jepang",
+   "Penghitung Selama Berhari-hari"
   ],
   "kunyomi": [
    "ひ",
@@ -841,8 +841,8 @@ export const kanjiN5 = [
   "kanji": "月",
   "level": "N5",
   "meanings": [
-   "Month",
-   "Moon"
+   "Bulan",
+   "Bulan"
   ],
   "kunyomi": [
    "つき"
@@ -874,8 +874,8 @@ export const kanjiN5 = [
   "kanji": "木",
   "level": "N5",
   "meanings": [
-   "Tree",
-   "Wood"
+   "Pohon",
+   "Kayu"
   ],
   "kunyomi": [
    "き",
@@ -908,7 +908,7 @@ export const kanjiN5 = [
   "kanji": "水",
   "level": "N5",
   "meanings": [
-   "Water"
+   "Air"
   ],
   "kunyomi": [
    "みず",
@@ -940,7 +940,7 @@ export const kanjiN5 = [
   "kanji": "火",
   "level": "N5",
   "meanings": [
-   "Fire"
+   "Api"
   ],
   "kunyomi": [
    "ひ",
@@ -973,12 +973,12 @@ export const kanjiN5 = [
   "kanji": "出",
   "level": "N5",
   "meanings": [
-   "Exit",
-   "Leave",
-   "Go Out",
-   "Come Out",
-   "Put Out",
-   "Protrude"
+   "KELUAR",
+   "Meninggalkan",
+   "Keluar",
+   "Keluar",
+   "Mengeluarkan",
+   "Menonjol"
   ],
   "kunyomi": [
    "で.る",
@@ -1015,7 +1015,7 @@ export const kanjiN5 = [
   "kanji": "右",
   "level": "N5",
   "meanings": [
-   "Right"
+   "Benar"
   ],
   "kunyomi": [
    "みぎ"
@@ -1037,7 +1037,7 @@ export const kanjiN5 = [
   "kanji": "四",
   "level": "N5",
   "meanings": [
-   "Four"
+   "Empat"
   ],
   "kunyomi": [
    "よ",
@@ -1071,7 +1071,7 @@ export const kanjiN5 = [
   "kanji": "左",
   "level": "N5",
   "meanings": [
-   "Left"
+   "Kiri"
   ],
   "kunyomi": [
    "ひだり"
@@ -1093,13 +1093,13 @@ export const kanjiN5 = [
   "kanji": "本",
   "level": "N5",
   "meanings": [
-   "Book",
-   "Present",
-   "Main",
-   "Origin",
-   "True",
-   "Real",
-   "Counter For Long Cylindrical Things"
+   "Buku",
+   "Hadiah",
+   "Utama",
+   "Asal",
+   "BENAR",
+   "Nyata",
+   "Penghitung Untuk Benda Silinder Panjang"
   ],
   "kunyomi": [
    "もと"
@@ -1130,7 +1130,7 @@ export const kanjiN5 = [
   "kanji": "白",
   "level": "N5",
   "meanings": [
-   "White"
+   "Putih"
   ],
   "kunyomi": [
    "しろ",
@@ -1159,8 +1159,8 @@ export const kanjiN5 = [
   "kanji": "万",
   "level": "N5",
   "meanings": [
-   "Ten Thousand",
-   "10,000"
+   "Sepuluh Ribu",
+   "10.000"
   ],
   "kunyomi": [
    "よろず"
@@ -1187,7 +1187,7 @@ export const kanjiN5 = [
   "kanji": "今",
   "level": "N5",
   "meanings": [
-   "Now"
+   "Sekarang"
   ],
   "kunyomi": [
    "いま"
@@ -1219,10 +1219,10 @@ export const kanjiN5 = [
   "kanji": "午",
   "level": "N5",
   "meanings": [
-   "Noon",
-   "Sign Of The Horse",
-   "11am-1pm",
-   "Seventh Sign Of Chinese Zodiac"
+   "Siang",
+   "Tanda Kuda",
+   "11.00-13.00",
+   "Tanda Ketujuh Zodiak Cina"
   ],
   "kunyomi": [
    "うま"
@@ -1253,7 +1253,7 @@ export const kanjiN5 = [
   "kanji": "友",
   "level": "N5",
   "meanings": [
-   "Friend"
+   "Teman"
   ],
   "kunyomi": [
    "とも"
@@ -1284,7 +1284,7 @@ export const kanjiN5 = [
   "kanji": "父",
   "level": "N5",
   "meanings": [
-   "Father"
+   "Ayah"
   ],
   "kunyomi": [
    "ちち"
@@ -1315,7 +1315,7 @@ export const kanjiN5 = [
   "kanji": "北",
   "level": "N5",
   "meanings": [
-   "North"
+   "Utara"
   ],
   "kunyomi": [
    "きた"
@@ -1336,11 +1336,11 @@ export const kanjiN5 = [
   "kanji": "半",
   "level": "N5",
   "meanings": [
-   "Half",
-   "Middle",
-   "Odd Number",
+   "Setengah",
+   "Tengah",
+   "Nomor Ganjil",
    "Semi-",
-   "Part-"
+   "Bagian-"
   ],
   "kunyomi": [
    "なか.ば"
@@ -1371,7 +1371,7 @@ export const kanjiN5 = [
   "kanji": "外",
   "level": "N5",
   "meanings": [
-   "Outside"
+   "Di luar"
   ],
   "kunyomi": [
    "そと",
@@ -1407,7 +1407,7 @@ export const kanjiN5 = [
   "kanji": "母",
   "level": "N5",
   "meanings": [
-   "Mother"
+   "Ibu"
   ],
   "kunyomi": [
    "はは",
@@ -1439,10 +1439,10 @@ export const kanjiN5 = [
   "kanji": "休",
   "level": "N5",
   "meanings": [
-   "Rest",
-   "Day Off",
-   "Retire",
-   "Sleep"
+   "Istirahat",
+   "Hari libur",
+   "Pensiun",
+   "Tidur"
   ],
   "kunyomi": [
    "やす.む",
@@ -1475,11 +1475,11 @@ export const kanjiN5 = [
   "kanji": "先",
   "level": "N5",
   "meanings": [
-   "Before",
-   "Ahead",
-   "Previous",
-   "Future",
-   "Precedence"
+   "Sebelum",
+   "Di depan",
+   "Sebelumnya",
+   "Masa depan",
+   "Hak lebih tinggi"
   ],
   "kunyomi": [
    "さき",
@@ -1511,10 +1511,10 @@ export const kanjiN5 = [
   "kanji": "名",
   "level": "N5",
   "meanings": [
-   "Name",
-   "Noted",
-   "Distinguished",
-   "Reputation"
+   "Nama",
+   "Dicatat",
+   "Terpandang",
+   "Reputasi"
   ],
   "kunyomi": [
    "な",
@@ -1547,8 +1547,8 @@ export const kanjiN5 = [
   "kanji": "年",
   "level": "N5",
   "meanings": [
-   "Year",
-   "Counter For Years"
+   "Tahun",
+   "Penghitung Selama Bertahun-tahun"
   ],
   "kunyomi": [
    "とし"
@@ -1579,11 +1579,11 @@ export const kanjiN5 = [
   "kanji": "気",
   "level": "N5",
   "meanings": [
-   "Spirit",
-   "Mind",
-   "Air",
-   "Atmosphere",
-   "Mood"
+   "Roh",
+   "Pikiran",
+   "Udara",
+   "Suasana",
+   "Suasana hati"
   ],
   "kunyomi": [
    "いき"
@@ -1615,7 +1615,7 @@ export const kanjiN5 = [
   "kanji": "百",
   "level": "N5",
   "meanings": [
-   "Hundred"
+   "Ratus"
   ],
   "kunyomi": [
    "もも"
@@ -1637,7 +1637,7 @@ export const kanjiN5 = [
   "kanji": "男",
   "level": "N5",
   "meanings": [
-   "Male"
+   "Pria"
   ],
   "kunyomi": [
    "おとこ",
@@ -1670,13 +1670,13 @@ export const kanjiN5 = [
   "kanji": "見",
   "level": "N5",
   "meanings": [
-   "See",
-   "Hopes",
-   "Chances",
-   "Idea",
-   "Opinion",
-   "Look At",
-   "Visible"
+   "Melihat",
+   "Harapan",
+   "Peluang",
+   "Ide",
+   "Pendapat",
+   "Lihat",
+   "Bisa dilihat"
   ],
   "kunyomi": [
    "み.る",
@@ -1709,7 +1709,7 @@ export const kanjiN5 = [
   "kanji": "車",
   "level": "N5",
   "meanings": [
-   "Car"
+   "Mobil"
   ],
   "kunyomi": [
    "くるま"
@@ -1740,7 +1740,7 @@ export const kanjiN5 = [
   "kanji": "毎",
   "level": "N5",
   "meanings": [
-   "Every"
+   "Setiap"
   ],
   "kunyomi": [
    "ごと",
@@ -1772,13 +1772,13 @@ export const kanjiN5 = [
   "kanji": "行",
   "level": "N5",
   "meanings": [
-   "Going",
-   "Journey",
-   "Carry Out",
-   "Conduct",
-   "Act",
-   "Line",
-   "Row",
+   "Pergi",
+   "Perjalanan",
+   "Melaksanakan",
+   "Mengadakan",
+   "Bertindak",
+   "Garis",
+   "Baris",
    "Bank"
   ],
   "kunyomi": [
@@ -1819,8 +1819,8 @@ export const kanjiN5 = [
   "kanji": "西",
   "level": "N5",
   "meanings": [
-   "West",
-   "Spain"
+   "Barat",
+   "Spanyol"
   ],
   "kunyomi": [
    "にし"
@@ -1843,7 +1843,7 @@ export const kanjiN5 = [
   "kanji": "何",
   "level": "N5",
   "meanings": [
-   "What"
+   "Apa"
   ],
   "kunyomi": [
    "なに",
@@ -1877,11 +1877,11 @@ export const kanjiN5 = [
   "kanji": "来",
   "level": "N5",
   "meanings": [
-   "Come",
-   "Due",
-   "Next",
-   "Cause",
-   "Become"
+   "Datang",
+   "Jatuh tempo",
+   "Berikutnya",
+   "Menyebabkan",
+   "Menjadi"
   ],
   "kunyomi": [
    "く.る",
@@ -1919,9 +1919,9 @@ export const kanjiN5 = [
   "kanji": "学",
   "level": "N5",
   "meanings": [
-   "Study",
-   "Learning",
-   "Science"
+   "Belajar",
+   "Sedang belajar",
+   "Sains"
   ],
   "kunyomi": [
    "まな.ぶ"
@@ -1952,7 +1952,7 @@ export const kanjiN5 = [
   "kanji": "金",
   "level": "N5",
   "meanings": [
-   "Gold"
+   "Emas"
   ],
   "kunyomi": [
    "かね",
@@ -1987,7 +1987,7 @@ export const kanjiN5 = [
   "kanji": "雨",
   "level": "N5",
   "meanings": [
-   "Rain"
+   "Hujan"
   ],
   "kunyomi": [
    "あめ",
@@ -2015,7 +2015,7 @@ export const kanjiN5 = [
   "kanji": "国",
   "level": "N5",
   "meanings": [
-   "Country"
+   "Negara"
   ],
   "kunyomi": [
    "くに"
@@ -2046,7 +2046,7 @@ export const kanjiN5 = [
   "kanji": "東",
   "level": "N5",
   "meanings": [
-   "East"
+   "Timur"
   ],
   "kunyomi": [
    "ひがし"
@@ -2067,9 +2067,9 @@ export const kanjiN5 = [
   "kanji": "長",
   "level": "N5",
   "meanings": [
-   "Long",
-   "Leader",
-   "Superior",
+   "Panjang",
+   "Pemimpin",
+   "Unggul",
    "Senior"
   ],
   "kunyomi": [
@@ -2102,8 +2102,8 @@ export const kanjiN5 = [
   "kanji": "前",
   "level": "N5",
   "meanings": [
-   "In Front",
-   "Before"
+   "Di depan",
+   "Sebelum"
   ],
   "kunyomi": [
    "まえ",
@@ -2135,7 +2135,7 @@ export const kanjiN5 = [
   "kanji": "南",
   "level": "N5",
   "meanings": [
-   "South"
+   "Selatan"
   ],
   "kunyomi": [
    "みなみ"
@@ -2157,9 +2157,9 @@ export const kanjiN5 = [
   "kanji": "後",
   "level": "N5",
   "meanings": [
-   "Behind",
-   "Back",
-   "Later"
+   "Di belakang",
+   "Kembali",
+   "Nanti"
   ],
   "kunyomi": [
    "のち",
@@ -2195,8 +2195,8 @@ export const kanjiN5 = [
   "kanji": "食",
   "level": "N5",
   "meanings": [
-   "Eat",
-   "Food"
+   "Makan",
+   "Makanan"
   ],
   "kunyomi": [
    "く.う",
@@ -2231,11 +2231,11 @@ export const kanjiN5 = [
   "kanji": "校",
   "level": "N5",
   "meanings": [
-   "Exam",
-   "School",
-   "Printing",
-   "Proof",
-   "Correction"
+   "Ujian",
+   "Sekolah",
+   "Pencetakan",
+   "Bukti",
+   "Koreksi"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2265,8 +2265,8 @@ export const kanjiN5 = [
   "kanji": "時",
   "level": "N5",
   "meanings": [
-   "Time",
-   "Hour"
+   "Waktu",
+   "Jam"
   ],
   "kunyomi": [
    "とき",
@@ -2298,9 +2298,9 @@ export const kanjiN5 = [
   "kanji": "高",
   "level": "N5",
   "meanings": [
-   "Tall",
-   "High",
-   "Expensive"
+   "Tinggi",
+   "Tinggi",
+   "Mahal"
   ],
   "kunyomi": [
    "たか.い",
@@ -2335,8 +2335,8 @@ export const kanjiN5 = [
   "kanji": "間",
   "level": "N5",
   "meanings": [
-   "Interval",
-   "Space"
+   "Selang",
+   "Ruang angkasa"
   ],
   "kunyomi": [
    "あいだ",
@@ -2370,8 +2370,8 @@ export const kanjiN5 = [
   "kanji": "話",
   "level": "N5",
   "meanings": [
-   "Tale",
-   "Talk"
+   "Kisah",
+   "Bicara"
   ],
   "kunyomi": [
    "はな.す",
@@ -2403,7 +2403,7 @@ export const kanjiN5 = [
   "kanji": "電",
   "level": "N5",
   "meanings": [
-   "Electricity"
+   "Listrik"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2432,9 +2432,9 @@ export const kanjiN5 = [
   "kanji": "聞",
   "level": "N5",
   "meanings": [
-   "Hear",
-   "Ask",
-   "Listen"
+   "Mendengar",
+   "Bertanya",
+   "Mendengarkan"
   ],
   "kunyomi": [
    "き.く",
@@ -2467,9 +2467,9 @@ export const kanjiN5 = [
   "kanji": "語",
   "level": "N5",
   "meanings": [
-   "Word",
-   "Speech",
-   "Language"
+   "Kata",
+   "Pidato",
+   "Bahasa"
   ],
   "kunyomi": [
    "かた.る",
@@ -2501,7 +2501,7 @@ export const kanjiN5 = [
   "kanji": "読",
   "level": "N5",
   "meanings": [
-   "Read"
+   "Membaca"
   ],
   "kunyomi": [
    "よ.む",
@@ -2535,9 +2535,9 @@ export const kanjiN5 = [
   "kanji": "生",
   "level": "N5",
   "meanings": [
-   "Life",
-   "Genuine",
-   "Birth"
+   "Kehidupan",
+   "Asli",
+   "Kelahiran"
   ],
   "kunyomi": [
    "い.きる",
@@ -2586,7 +2586,7 @@ export const kanjiN5 = [
   "kanji": "書",
   "level": "N5",
   "meanings": [
-   "Write"
+   "Menulis"
   ],
   "kunyomi": [
    "か.く",

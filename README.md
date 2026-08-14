@@ -46,3 +46,15 @@ update_all_data.cjs    # pembaruan seluruh data
 ## Lisensi
 
 Proyek pribadi.
+
+## Sumber Data
+
+Data belajar diambil dari sumber terbuka dan ditransform/diterjemahkan untuk aplikasi ini:
+
+- **Kanji** — [kanjiapi.dev](https://kanjiapi.dev/) & [kanji-data](https://github.com/davidluzgouveia/kanji-data) (daftar JLPT, on/kun-yomi, stroke)
+- **Kosakata** — [jlpt-vocab-api](https://github.com/wkei/jlpt-vocab-api) (deck JLPT per level)
+- **Tata Bahasa** — [japanese-language-data](https://github.com/jkindrix/japanese-language-data) oleh Justin Kindrix & kontributor, lisensi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Reading hiragana** — dihasilkan dengan [kuromoji.js](https://github.com/takuyaa/kuromoji.js)
+- **Terjemahan Indonesia** — Google Translate (endpoint publik), diverifikasi manual sebagian
+
+Skrip pipeline data ada di `scripts/` (fetch → transform → translate → audit); data mentah tidak disimpan di repo.

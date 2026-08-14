@@ -60,7 +60,7 @@ export const vocabN3 = [
   "romaji": "nozoku",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "untuk menghapus, mengecualikan, kecuali",
+  "meaning": "Untuk menghapus, memuat, kecuali",
   "example": "この問題を除いて全部できました。",
   "exampleReading": "このもんだいをのぞいてぜんぶできました。",
   "exampleMeaning": "Saya bisa mengerjakan semua kecuali soal ini."
@@ -137,7 +137,7 @@ export const vocabN3 = [
   "romaji": "heikin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "keseimbangan, keseimbangan, rata-rata, mean",
+  "meaning": "keseimbangan, keseimbangan, rata-rata, berarti",
   "example": "平均点は七十点です。",
   "exampleReading": "へいきんてんはななじゅってんです。",
   "exampleMeaning": "Nilai rata-ratanya adalah tujuh puluh."
@@ -214,7 +214,7 @@ export const vocabN3 = [
   "romaji": "kangei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "selamat datang, resepsi",
+  "meaning": "selamat datang, penerimaan",
   "example": "新入生を歓迎します。",
   "exampleReading": "しんにゅうせいをかんげいします。",
   "exampleMeaning": "Kami menyambut siswa baru."
@@ -236,7 +236,7 @@ export const vocabN3 = [
   "romaji": "nodo",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tenggorokan",
+  "meaning": "ya ampun",
   "example": "喉が痛いです。",
   "exampleReading": "のどがいたいです。",
   "exampleMeaning": "Tenggorokan saya sakit."
@@ -280,7 +280,7 @@ export const vocabN3 = [
   "romaji": "furueru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "menggigil, gemetar, gemetar",
+  "meaning": "menyampaikan, gemetar, gemetar",
   "example": "寒くて体が震えます。",
   "exampleReading": "さむくてからだがふるえます。",
   "exampleMeaning": "Tubuh saya menggigil karena dingin."
@@ -335,7 +335,7 @@ export const vocabN3 = [
   "romaji": "chigai",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "perbedaan, kesenjangan",
+  "meaning": "perbedaan, ketidaksamaan",
   "example": "二つの意見に違いがあります。",
   "exampleReading": "ふたつのいけんにちがいがあります。",
   "exampleMeaning": "Ada perbedaan di antara dua pendapat itu."
@@ -445,7 +445,7 @@ export const vocabN3 = [
   "romaji": "mikata",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "teman, sekutu, pendukung",
+  "meaning": "teman, pendukung, pendukung",
   "example": "彼はいつも私の味方です。",
   "exampleReading": "かれはいつもわたしのみかたです。",
   "exampleMeaning": "Dia selalu berada di pihak saya."
@@ -456,7 +456,7 @@ export const vocabN3 = [
   "romaji": "kyoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nyonya istana, nyonya yang menunggu",
+  "meaning": "istana nyonya, nyonya yang menunggu",
   "example": "そのニュースはテレビ局から発表されました。",
   "exampleReading": "そのニュースはテレビきょくからはっぴょうされました。",
   "exampleMeaning": "Berita itu diumumkan oleh stasiun televisi."
@@ -467,7 +467,7 @@ export const vocabN3 = [
   "romaji": "koibito",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "kekasih, sayang",
+  "meaning": "sayang, sayang",
   "example": "彼女は私の恋人です。",
   "exampleReading": "かのじょはわたしのこいびとです。",
   "exampleMeaning": "Dia adalah pacar saya."
@@ -533,7 +533,7 @@ export const vocabN3 = [
   "romaji": "nobiru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "untuk meregangkan, untuk memperpanjang, untuk membuat kemajuan, untuk tumbuh (jenggot, tinggi badan)",
+  "meaning": "untuk dimaknai, untuk memperluas, untuk membuat kemajuan, untuk tumbuh (jenggot, badan tinggi)",
   "example": "髪が伸びました。",
   "exampleReading": "かみがのびました。",
   "exampleMeaning": "Rambutnya sudah tumbuh panjang."
@@ -555,7 +555,7 @@ export const vocabN3 = [
   "romaji": "sābisu",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) jasa, sistem pendukung, (2) barang atau jasa tanpa dipungut biaya",
+  "meaning": "(1) jasa, sistem pendukung, (2) barang atau jasa tanpa biaya tambahan",
   "example": "このホテルのサービスはいいです。",
   "exampleReading": "このホテルのサービスはいいです。",
   "exampleMeaning": "Layanan hotel ini bagus."
@@ -940,7 +940,7 @@ export const vocabN3 = [
   "romaji": "shōbō",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pemadaman kebakaran, pemadam kebakaran",
+  "meaning": "pemadaman kebakaran, pemadaman kebakaran",
   "example": "消防車が来ました。",
   "exampleReading": "しょうぼうしゃがきました。",
   "exampleMeaning": "Mobil pemadam kebakaran telah datang."
@@ -1204,7 +1204,7 @@ export const vocabN3 = [
   "romaji": "sonkei",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rasa hormat, penghargaan, penghormatan, kehormatan",
+  "meaning": "rasa hormat, dihargai, dihormati, dihormati",
   "example": "先生を尊敬しています。",
   "exampleReading": "せんせいをそんけいしています。",
   "exampleMeaning": "Saya menghormati guru saya."
@@ -1237,7 +1237,7 @@ export const vocabN3 = [
   "romaji": "kanzen",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "kesempurnaan, kelengkapan",
+  "meaning": "kesempurnaan, kesempurnaan",
   "example": "完全に理解しました。",
   "exampleReading": "かんぜんにりかいしました。",
   "exampleMeaning": "Saya sudah memahami sepenuhnya."
@@ -1391,7 +1391,7 @@ export const vocabN3 = [
   "romaji": "shimeru",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) terdiri, memperhitungkan, membuat (dari), (2) memegang, menduduki",
+  "meaning": "(1) terdiri, menjelaskan, membuat (dari), (2) memegang, menduduki",
   "example": "女性が半分を占めています。",
   "exampleReading": "じょせいがはんぶんをしめています。",
   "exampleMeaning": "Perempuan menempati setengah bagian."
@@ -1424,7 +1424,7 @@ export const vocabN3 = [
   "romaji": "kinodoku",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "menyedihkan, sayang sekali",
+  "meaning": "sayangnya, sayang sekali",
   "example": "それは気の毒ですね。",
   "exampleReading": "それはきのどくですね。",
   "exampleMeaning": "Itu menyedihkan ya."
@@ -1611,7 +1611,7 @@ export const vocabN3 = [
   "romaji": "gin",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) perak, koin perak, cat perak",
+  "meaning": "(1) perak, koin perak, kucing perak",
   "example": "銀の指輪を買いました。",
   "exampleReading": "ぎんのゆびわをかいました。",
   "exampleMeaning": "Saya membeli cincin perak."
@@ -1633,7 +1633,7 @@ export const vocabN3 = [
   "romaji": "fun'iki",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "suasana (misalnya musik), suasana hati, suasana",
+  "meaning": "suasana (musikmisalnya), suasana hati, suasana",
   "example": "このカフェは雰囲気がいいです。",
   "exampleReading": "このカフェはふんいきがいいです。",
   "exampleMeaning": "Kafe ini suasananya bagus."
@@ -1655,7 +1655,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bride,daughter-in-law",
+  "meaning": "pengantin, menantu perempuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1666,7 +1666,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "in succession,one by one",
+  "meaning": "berturut-turut, satu demi satu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1677,7 +1677,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "star",
+  "meaning": "bintang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1688,7 +1688,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "order,turn",
+  "meaning": "pesan, putar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1699,7 +1699,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "recognition,acknowledgement,approval,consent,agreement",
+  "meaning": "pengakuan, pengakuan, persetujuan, persetujuan, persetujuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1710,7 +1710,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to turn towards,to point",
+  "meaning": "untuk berbalik ke arah, untuk menunjuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1721,7 +1721,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "beans,peas",
+  "meaning": "buncis, kacang polong",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1732,7 +1732,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "skate(s),skating",
+  "meaning": "skate, skating",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1743,7 +1743,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to fasten,to turn off,to detain",
+  "meaning": "untuk mengencangkan, mematikan, menahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1754,7 +1754,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "success,passing (e.g. exam),eligibility",
+  "meaning": "keberhasilan, kelulusan (misalnya ujian), kelayakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1765,7 +1765,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ago,since,before,previous",
+  "meaning": "lalu, sejak, sebelumnya, sebelumnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1776,7 +1776,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "muscle,sinew",
+  "meaning": "otot, otot",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1787,7 +1787,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "under,below,beneath",
+  "meaning": "di bawah, di bawah, di bawah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1798,7 +1798,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "living,livelihood,subsistence,circumstances",
+  "meaning": "penghidupan, penghidupan, penghidupan, keadaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1809,7 +1809,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "passport",
+  "meaning": "paspor",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1820,7 +1820,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "getting nervous,irritation",
+  "meaning": "menjadi gugup, iritasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1831,7 +1831,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "method,manner,way,means,technique",
+  "meaning": "metode,cara,cara,cara,teknik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1842,7 +1842,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "production,manufacture",
+  "meaning": "produksi, manufaktur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1853,7 +1853,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be (animate),to be,to exist",
+  "meaning": "menjadi (bernyawa),menjadi,ada",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1864,7 +1864,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) order,precedence,(2) circumstances,(3) immediate(ly)",
+  "meaning": "(1) urutan, prioritas, (2) keadaan, (3) segera",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1875,7 +1875,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "team",
+  "meaning": "tim",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1886,7 +1886,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to let pass,to overlook,to continue",
+  "meaning": "untuk membiarkan berlalu, untuk mengabaikan, untuk melanjutkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1897,7 +1897,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wine",
+  "meaning": "anggur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1908,7 +1908,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "housework,domestic chores",
+  "meaning": "pekerjaan rumah tangga, pekerjaan rumah tangga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1919,7 +1919,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "after all,eventually",
+  "meaning": "pada akhirnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1930,7 +1930,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "height (of body),stature",
+  "meaning": "tinggi (tubuh), perawakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1941,7 +1941,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to stream,to flow,to run (ink),to be washed away",
+  "meaning": "mengalir, mengalir, mengalir (tinta), terhanyut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1952,7 +1952,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "plan,project,schedule,scheme,program",
+  "meaning": "rencana, proyek, jadwal, skema, program",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1963,7 +1963,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "physics",
+  "meaning": "fisika",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1974,7 +1974,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Europe",
+  "meaning": "Eropa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1985,7 +1985,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "teaching,instruction,professor",
+  "meaning": "pengajaran, instruksi, profesor",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -1996,7 +1996,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "study",
+  "meaning": "belajar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2007,7 +2007,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) to avoid (physical contact ),(2) to ward off,to avert",
+  "meaning": "(1) menghindari (kontak fisik), (2) menangkal, menghindari",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2018,7 +2018,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "aviation",
+  "meaning": "penerbangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2029,7 +2029,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "inevitable death,desperation,frantic,inevitable result",
+  "meaning": "kematian yang tak terelakkan, keputusasaan, kepanikan, akibat yang tak terelakkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2040,7 +2040,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "card,curd",
+  "meaning": "kartu, dadih",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2051,7 +2051,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "satisfaction",
+  "meaning": "kepuasan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2062,7 +2062,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "error",
+  "meaning": "kesalahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2073,7 +2073,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "interior,inner part",
+  "meaning": "interior, bagian dalam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2084,7 +2084,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "basement,underground",
+  "meaning": "ruang bawah tanah, bawah tanah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2095,7 +2095,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "phrase,complaint",
+  "meaning": "frase, keluhan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2106,7 +2106,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "dining table",
+  "meaning": "meja makan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2117,7 +2117,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "information,(military) intelligence",
+  "meaning": "informasi, intelijen (militer).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2128,7 +2128,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "swimming",
+  "meaning": "renang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2139,7 +2139,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "spring,fountain",
+  "meaning": "musim semi, air mancur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2150,7 +2150,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "sightseeing",
+  "meaning": "tamasya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2161,7 +2161,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "aviation,flying",
+  "meaning": "penerbangan, terbang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2172,7 +2172,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "lie,falsehood,incorrect fact,inappropriate",
+  "meaning": "kebohongan, kepalsuan, fakta yang salah, tidak pantas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2183,7 +2183,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "date,dating",
+  "meaning": "kencan, berkencan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2194,7 +2194,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tale,story,legend",
+  "meaning": "dongeng, cerita, legenda",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2205,7 +2205,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "commodity,foodstuff",
+  "meaning": "komoditas, bahan makanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2216,7 +2216,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "result,consequence",
+  "meaning": "akibat, konsekuensi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2227,7 +2227,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "uproar,disturbance",
+  "meaning": "keributan, gangguan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2238,7 +2238,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to come off,to be taken off,to be removed",
+  "meaning": "untuk lepas, untuk dilepas, untuk disingkirkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2249,7 +2249,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "language study",
+  "meaning": "studi bahasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2260,7 +2260,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "apology,excuse",
+  "meaning": "maaf, permisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2271,7 +2271,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "grandchild",
+  "meaning": "cucu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2282,7 +2282,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "skin",
+  "meaning": "kulit",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2293,7 +2293,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "quite right,plausible,natural,but then,although",
+  "meaning": "benar sekali, masuk akal, wajar, namun tetap saja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2304,7 +2304,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "teacher (classroom)",
+  "meaning": "guru (kelas)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2315,7 +2315,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "trial,judgement",
+  "meaning": "persidangan, penghakiman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2326,7 +2326,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "worry,concern,anxiety,care",
+  "meaning": "khawatir, khawatir, cemas, peduli",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2337,7 +2337,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wheat",
+  "meaning": "gandum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2348,7 +2348,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "confusion,congestion",
+  "meaning": "kebingungan, kemacetan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2359,7 +2359,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "not very (used as adverb),not much",
+  "meaning": "tidak terlalu (digunakan sebagai kata keterangan), tidak banyak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2370,7 +2370,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rock,crag",
+  "meaning": "batu, karang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2381,7 +2381,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Monday",
+  "meaning": "Senin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2392,7 +2392,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to state,to express,to mention",
+  "meaning": "menyatakan, mengungkapkan, menyebutkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2403,7 +2403,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "advance,drive,progress",
+  "meaning": "maju, berkendara, maju",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2414,7 +2414,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "funds,capital",
+  "meaning": "dana, modal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2425,7 +2425,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "speech,address",
+  "meaning": "pidato, alamat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2436,7 +2436,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "splendid,magnificent,beautiful,admirable",
+  "meaning": "indah, megah, indah, mengagumkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2447,7 +2447,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to argue,to discuss,to debate",
+  "meaning": "berdebat, berdiskusi, berdebat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2458,7 +2458,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "again,once more,a second time",
+  "meaning": "lagi, sekali lagi, untuk kedua kalinya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2469,7 +2469,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "by some chance,by some possibility,if by any chance,10E4:1 odds",
+  "meaning": "secara kebetulan, dengan kemungkinan tertentu, jika kebetulan, peluang 10E4:1",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2480,7 +2480,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "always,constantly",
+  "meaning": "selalu, terus-menerus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2491,7 +2491,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "professional",
+  "meaning": "profesional",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2502,7 +2502,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to keep,to raise,to feed",
+  "meaning": "untuk memelihara, membesarkan, memberi makan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2513,7 +2513,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to go mad,to get out of order",
+  "meaning": "menjadi gila, menjadi tidak teratur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2524,7 +2524,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "horizon",
+  "meaning": "horison",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2535,7 +2535,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "this",
+  "meaning": "ini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2546,7 +2546,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "doctor,physician",
+  "meaning": "dokter, tabib",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2557,7 +2557,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the body",
+  "meaning": "tubuh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2568,7 +2568,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "publication",
+  "meaning": "publikasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2579,7 +2579,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "engineer,technician",
+  "meaning": "insinyur, teknisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2590,7 +2590,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "at the most,at best,to the utmost,as much (far) as possible",
+  "meaning": "paling banyak, paling banter, semaksimal mungkin, sejauh (jauh) mungkin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2601,7 +2601,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "so,therefore",
+  "meaning": "jadi, oleh karena itu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2612,7 +2612,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "usually,generally",
+  "meaning": "biasanya, secara umum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2623,7 +2623,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "distinction,differentiation,classification",
+  "meaning": "pembedaan, diferensiasi, klasifikasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2645,7 +2645,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "purpose,goal,aim,objective,intention",
+  "meaning": "maksud, sasaran, sasaran, sasaran, niat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2656,7 +2656,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "estimate,budget",
+  "meaning": "perkiraan, anggaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2667,7 +2667,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "patience,endurance,perseverance",
+  "meaning": "kesabaran, daya tahan, ketekunan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2678,7 +2678,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bottom,sole",
+  "meaning": "bawah, sol",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2689,7 +2689,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) trace,tracks,(2) remains,ruins,(3) scar",
+  "meaning": "(1) jejak,jejak,(2) sisa-sisa,reruntuhan,(3) bekas luka",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2700,7 +2700,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "climate",
+  "meaning": "iklim",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2711,7 +2711,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "terrible,dreadful",
+  "meaning": "mengerikan, mengerikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2722,7 +2722,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bath",
+  "meaning": "mandi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2733,7 +2733,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "today,this day",
+  "meaning": "hari ini, hari ini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2744,7 +2744,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "system,institution,organization",
+  "meaning": "sistem, institusi, organisasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2755,7 +2755,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cattle,cow",
+  "meaning": "sapi, sapi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2766,7 +2766,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nutrition,nourishment",
+  "meaning": "nutrisi, nutrisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2777,7 +2777,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "buttocks,bottom",
+  "meaning": "bokong, bawah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2788,7 +2788,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) trace,tracks,mark,sign,(2) remains,ruins,(3) scar",
+  "meaning": "(1) jejak, jejak, tandai, tanda, (2) sisa-sisa, reruntuhan, (3) bekas luka",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2799,7 +2799,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "entrance,admission,entering",
+  "meaning": "masuk, masuk, masuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2810,7 +2810,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "only,sole,unique",
+  "meaning": "hanya, satu-satunya, unik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2821,7 +2821,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "happiness,good fortune,luck,blessing",
+  "meaning": "kebahagiaan, nasib baik, keberuntungan, berkah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2832,7 +2832,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "documents,official papers",
+  "meaning": "dokumen, surat resmi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2843,7 +2843,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "but,because,even,also,too",
+  "meaning": "tapi, karena, bahkan, juga, juga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2854,7 +2854,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "quarrel,(drunken) brawl,failure",
+  "meaning": "pertengkaran, tawuran (mabuk), kegagalan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2865,7 +2865,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to become",
+  "meaning": "menjadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2876,7 +2876,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "bone fracture",
+  "meaning": "patah tulang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2887,7 +2887,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) overcoat,(2) over",
+  "meaning": "(1) mantel, (2) selesai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2898,7 +2898,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "text book",
+  "meaning": "buku teks",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2909,7 +2909,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "theory",
+  "meaning": "teori",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2920,7 +2920,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "suitable,fair,tolerable,proper",
+  "meaning": "cocok, adil, dapat ditoleransi, tepat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2931,7 +2931,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "all members (unanimity),all hands,the whole crew",
+  "meaning": "semua anggota (kebulatan suara), semua tangan, seluruh kru",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2942,7 +2942,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "comparison",
+  "meaning": "perbandingan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2953,7 +2953,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "contract,compact,agreement",
+  "meaning": "kontrak, kompak, perjanjian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2964,7 +2964,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "twist,ply",
+  "meaning": "memutar, melapisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2975,7 +2975,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to notice,to recognize,to become aware of",
+  "meaning": "memperhatikan, mengenali, menyadari",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2986,7 +2986,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "key",
+  "meaning": "kunci",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -2997,7 +2997,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "moreover,furthermore,nevertheless,and yet",
+  "meaning": "terlebih lagi, lebih jauh lagi, namun demikian, namun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3008,7 +3008,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to unfasten",
+  "meaning": "untuk melepaskan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3019,7 +3019,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "border,boundary,mental state",
+  "meaning": "perbatasan, batas, keadaan mental",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3030,7 +3030,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "scene,setting (e.g. of novel)",
+  "meaning": "adegan, latar (misalnya novel)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3041,7 +3041,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "environment,circumstance",
+  "meaning": "lingkungan, keadaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3052,7 +3052,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "temperature",
+  "meaning": "suhu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3063,7 +3063,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "as a matter of fact,by the way",
+  "meaning": "sebenarnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3074,7 +3074,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "material,substance",
+  "meaning": "materi, substansi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3085,7 +3085,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rent",
+  "meaning": "menyewa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3096,7 +3096,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "parents",
+  "meaning": "orang tua",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3107,7 +3107,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "circumference,surroundings,circulation",
+  "meaning": "keliling, lingkungan sekitar, sirkulasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3118,7 +3118,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "all,the whole,entirely,in general,wholly",
+  "meaning": "semua, keseluruhan, seluruhnya, secara umum, seluruhnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3129,7 +3129,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "complaint,discontent,dissatisfaction",
+  "meaning": "keluhan, ketidakpuasan, ketidakpuasan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3140,7 +3140,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "coin",
+  "meaning": "koin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3151,7 +3151,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "assistance,aid,support",
+  "meaning": "bantuan, bantuan, dukungan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3162,7 +3162,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "factory,plant,mill,workshop",
+  "meaning": "pabrik, pabrik, pabrik, bengkel",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3173,7 +3173,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "casually,unexpectedly,accidentally,by chance",
+  "meaning": "dengan santai, tanpa diduga, secara tidak sengaja, secara kebetulan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3184,7 +3184,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "eternity,perpetuity,immortality",
+  "meaning": "keabadian, keabadian, keabadian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3195,7 +3195,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "demand,request",
+  "meaning": "permintaan, permintaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3206,7 +3206,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "date,go on a date",
+  "meaning": "kencan, pergi berkencan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3217,7 +3217,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "all,every",
+  "meaning": "semua, setiap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3228,7 +3228,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate",
+  "meaning": "indah, bagus, tampan, anggun, mengesankan, menonjol, sah, sah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3239,7 +3239,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "invention",
+  "meaning": "penemuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3250,7 +3250,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "conflagration,fire",
+  "meaning": "kebakaran besar, kebakaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3261,7 +3261,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "oxygen",
+  "meaning": "oksigen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3272,7 +3272,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "quality,nature (of person)",
+  "meaning": "kualitas, sifat (orang)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3283,7 +3283,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "well,now,let me see,which (of three or more)",
+  "meaning": "nah, sekarang, coba saya lihat, yang mana (dari tiga atau lebih)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3294,7 +3294,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "proverb,maxim",
+  "meaning": "pepatah, pepatah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3305,7 +3305,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to condemn,to blame,to criticize",
+  "meaning": "untuk mengutuk, menyalahkan, mengkritik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3316,7 +3316,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "start,commencement,beginning",
+  "meaning": "mulai, dimulainya, dimulai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3327,7 +3327,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "happiness,blessedness",
+  "meaning": "kebahagiaan, berkah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3338,7 +3338,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "old age,old person,the old,the aged",
+  "meaning": "usia tua, orang tua, orang tua, orang lanjut usia",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3349,7 +3349,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to invite",
+  "meaning": "untuk mengundang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3360,7 +3360,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "king,ruler,sovereign,monarch",
+  "meaning": "raja, penguasa, berdaulat, raja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3371,7 +3371,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be finished",
+  "meaning": "untuk diselesaikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3382,7 +3382,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rice field",
+  "meaning": "sawah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3393,7 +3393,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "desert",
+  "meaning": "gurun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3404,7 +3404,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "payment",
+  "meaning": "pembayaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3415,7 +3415,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "considerable,great,important,significant,a big deal",
+  "meaning": "cukup besar, hebat, penting, signifikan, masalah besar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3426,7 +3426,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to repeat,to do something over again",
+  "meaning": "untuk mengulangi, untuk melakukan sesuatu lagi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3437,7 +3437,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "by all means,at any cost,no matter what",
+  "meaning": "dengan segala cara, dengan cara apa pun, apa pun yang terjadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3448,7 +3448,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(n) energy (de: Energie)",
+  "meaning": "(n) energi (de: Energie)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3459,7 +3459,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "headache",
+  "meaning": "sakit kepala",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3470,7 +3470,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "copper coin",
+  "meaning": "koin tembaga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3481,7 +3481,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "they (usually male)",
+  "meaning": "mereka (biasanya laki-laki)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3492,7 +3492,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to live,to get along",
+  "meaning": "untuk hidup, untuk bergaul",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3503,7 +3503,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "deep red,flushed (of face)",
+  "meaning": "merah tua, memerah (wajah)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3514,7 +3514,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "temperature (body)",
+  "meaning": "suhu (tubuh)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3525,7 +3525,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "abuse,insult,slander,evil speaking",
+  "meaning": "pelecehan, penghinaan, fitnah, perkataan jahat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3536,7 +3536,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "commuting to school",
+  "meaning": "berangkat ke sekolah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3547,7 +3547,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "breath,tone",
+  "meaning": "napas, nada",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3558,7 +3558,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(electric) iron",
+  "meaning": "besi (listrik).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3569,7 +3569,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to take down,to launch,to drop",
+  "meaning": "untuk mencatat, meluncurkan, menjatuhkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3580,7 +3580,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "electrical resistance,resistance,opposition",
+  "meaning": "hambatan listrik, hambatan, perlawanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3591,7 +3591,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "handsome",
+  "meaning": "tampan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3602,7 +3602,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "stand,rack,table,support",
+  "meaning": "dudukan, rak, meja, penyangga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3613,7 +3613,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "game",
+  "meaning": "permainan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3624,7 +3624,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "identity,sameness,similarity",
+  "meaning": "identitas, kesamaan, kesamaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3635,7 +3635,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "free of charge,mere,sole,only,usual,common",
+  "meaning": "gratis, belaka, satu-satunya, saja, biasa, umum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3646,7 +3646,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "six (used in legal documents)",
+  "meaning": "enam (digunakan dalam dokumen hukum)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3657,7 +3657,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "youth,young man",
+  "meaning": "pemuda, anak muda",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3668,7 +3668,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to drain,to float,to shed (blood, tears),to cruise (e.g. taxi)",
+  "meaning": "mengalir, mengapung, menumpahkan (darah, air mata), berlayar (misalnya taksi)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3679,7 +3679,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "misunderstanding",
+  "meaning": "salah paham",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3690,7 +3690,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to exchange,to interchange,to substitute,to replace",
+  "meaning": "menukar, menukar, mengganti, mengganti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3701,7 +3701,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "representation,agency,proxy,deputy,agent",
+  "meaning": "perwakilan, lembaga, kuasa, wakil, agen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3712,7 +3712,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "river",
+  "meaning": "sungai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3723,7 +3723,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "meeting,rendezvous,encounter",
+  "meaning": "pertemuan, pertemuan, pertemuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3734,7 +3734,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "unexpected,surprising",
+  "meaning": "tak terduga, mengejutkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3745,7 +3745,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ball,sphere,coin",
+  "meaning": "bola, bola, koin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3756,7 +3756,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "love",
+  "meaning": "Cinta",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3767,7 +3767,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "state of affairs,situation,circumstances",
+  "meaning": "keadaan, situasi, keadaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3778,7 +3778,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "scenery",
+  "meaning": "pemandangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3789,7 +3789,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sisters",
+  "meaning": "saudara perempuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3800,7 +3800,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "whole year,always,everyday",
+  "meaning": "sepanjang tahun, selalu, setiap hari",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3811,7 +3811,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "study,learning",
+  "meaning": "belajar, belajar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3822,7 +3822,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "dissatisfaction,displeasure,discontent,complaints,unhappiness",
+  "meaning": "ketidakpuasan, ketidaksenangan, ketidakpuasan, keluhan, ketidakbahagiaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3833,7 +3833,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "warm,mild",
+  "meaning": "hangat, ringan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3844,7 +3844,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to recommend,to advise,to encourage,to offer (wine)",
+  "meaning": "merekomendasikan, menasihati, mendorong, menawarkan (anggur)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3855,7 +3855,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to close (e.g. book, eyes),to shut",
+  "meaning": "untuk menutup (misalnya buku, mata), untuk menutup",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3866,7 +3866,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "criminal case,(police) detective",
+  "meaning": "kasus kriminal, detektif (polisi).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3877,7 +3877,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to move,to shift",
+  "meaning": "untuk bergerak, untuk bergeser",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3888,7 +3888,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "helpless,pity,sorrow,grief",
+  "meaning": "tak berdaya, kasihan, duka, duka",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3899,7 +3899,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) time,hour,(2) occasion,moment",
+  "meaning": "(1) waktu, jam, (2) kejadian, momen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3910,7 +3910,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "midnight,dead of night",
+  "meaning": "tengah malam, tengah malam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3921,7 +3921,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "at that time,in those days",
+  "meaning": "pada saat itu, pada hari-hari itu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3932,7 +3932,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "trouble,difficulty,care,attention",
+  "meaning": "masalah, kesulitan, perhatian, perhatian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3943,7 +3943,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to extract,to omit,to surpass,to draw out,to unplug",
+  "meaning": "untuk mengekstrak, menghilangkan, melampaui, menarik keluar, mencabut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3954,7 +3954,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "basis",
+  "meaning": "dasar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3965,7 +3965,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to meet by chance,to come across,to happen to encounter",
+  "meaning": "bertemu secara kebetulan, bertemu, kebetulan bertemu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3976,7 +3976,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "obvious,evident,clear",
+  "meaning": "jelas, jelas, jelas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3987,7 +3987,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "memories,recollections,reminiscence",
+  "meaning": "kenangan, kenangan, kenangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -3998,7 +3998,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": ",for (10 days),next (year)",
+  "meaning": ",selama (10 hari), berikutnya (tahun)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4009,7 +4009,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "future (life, tense)",
+  "meaning": "masa depan (hidup, tegang)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4020,7 +4020,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "hindrance,intrusion",
+  "meaning": "hambatan, intrusi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4031,7 +4031,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fish",
+  "meaning": "ikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4042,7 +4042,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "case",
+  "meaning": "kasus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4053,7 +4053,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to count",
+  "meaning": "untuk menghitung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4064,7 +4064,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sudden,precipitous,radical",
+  "meaning": "tiba-tiba, terjal, radikal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4075,7 +4075,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(abbr) demo,demonstration",
+  "meaning": "(abbr) demo, demonstrasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4086,7 +4086,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to grasp,to seize,to mould sushi",
+  "meaning": "untuk menggenggam, untuk merebut, untuk membentuk sushi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4097,7 +4097,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "incident,affair,happening,event",
+  "meaning": "kejadian, perselingkuhan, terjadi, peristiwa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4108,7 +4108,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "conclusion",
+  "meaning": "kesimpulan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4130,7 +4130,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "earth,soil",
+  "meaning": "bumi, tanah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4141,7 +4141,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "peculiarity,uniqueness,characteristic",
+  "meaning": "kekhasan, keunikan, ciri khas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4152,7 +4152,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "hill,height,knoll,rising ground",
+  "meaning": "bukit, tinggi, bukit kecil, dataran tinggi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4163,7 +4163,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "parcel,package",
+  "meaning": "parsel, paket",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4174,7 +4174,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "important,momentous,essential,principal,major",
+  "meaning": "penting, penting, penting, utama, utama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4185,7 +4185,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "expression,presentation,representation (math)",
+  "meaning": "ekspresi, presentasi, representasi (matematika)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4196,7 +4196,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "century,era",
+  "meaning": "abad, era",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4207,7 +4207,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "value,price,cost",
+  "meaning": "nilai, harga, biaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4218,7 +4218,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "office",
+  "meaning": "kantor",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4229,7 +4229,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(a) joy,(a) delight,rapture,pleasure,gratification,rejoicing,congratulations,felicitations",
+  "meaning": "(a) kegembiraan, (a) kegembiraan, kegembiraan, kesenangan, kepuasan, kegembiraan, ucapan selamat, ucapan selamat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4240,7 +4240,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "jet aeroplane",
+  "meaning": "pesawat jet",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4251,7 +4251,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rainy season,rain during the rainy season",
+  "meaning": "musim hujan, hujan di musim hujan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4262,7 +4262,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Prime Minister",
+  "meaning": "Perdana Menteri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4273,7 +4273,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wish,desire,(a) hope",
+  "meaning": "keinginan, keinginan, (a) harapan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4284,7 +4284,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Thursday",
+  "meaning": "Kamis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4295,7 +4295,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to denote,to show,to point out,to indicate",
+  "meaning": "untuk menunjukkan, untuk menunjukkan, untuk menunjukkan, untuk menunjukkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4306,7 +4306,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "books",
+  "meaning": "buku",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4317,7 +4317,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "abdomen,belly,stomach",
+  "meaning": "perut, perut, perut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4328,7 +4328,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "embodiment,materialization",
+  "meaning": "perwujudan, perwujudan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4339,7 +4339,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to chase,to run after",
+  "meaning": "untuk mengejar, untuk mengejar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4350,7 +4350,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fixed term",
+  "meaning": "jangka waktu tetap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4361,7 +4361,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "city",
+  "meaning": "kota",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4372,7 +4372,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "solid,hard (esp. metal, stone),unpolished writing",
+  "meaning": "padat, keras (khususnya logam, batu), tulisan kasar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4383,7 +4383,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "age,era,period,date",
+  "meaning": "usia, era, periode, tanggal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4394,7 +4394,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(logical) true,regular",
+  "meaning": "(logis) benar, biasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4405,7 +4405,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "noisy,loud,fussy",
+  "meaning": "berisik, keras, rewel",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4416,7 +4416,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "table (e.g. Tab 1),chart,list",
+  "meaning": "tabel (misalnya Tab 1), bagan, daftar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4427,7 +4427,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to suffer",
+  "meaning": "menderita",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4438,7 +4438,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "picnic",
+  "meaning": "piknik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4449,7 +4449,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "basket,cage",
+  "meaning": "keranjang, kandang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4460,7 +4460,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "by the way,even if,no matter what",
+  "meaning": "ngomong-ngomong, meskipun begitu, apa pun yang terjadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4471,7 +4471,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "roughly,in round numbers",
+  "meaning": "kira-kira, dalam angka bulat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4482,7 +4482,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "association,socializing,fellowship",
+  "meaning": "pergaulan, pergaulan, persekutuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4493,7 +4493,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "plant,vegetation",
+  "meaning": "tanaman, tumbuh-tumbuhan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4504,7 +4504,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "scholar",
+  "meaning": "sarjana",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4515,7 +4515,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "-like,-looking,-looked",
+  "meaning": "-seperti,-tampak,-tampak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4526,7 +4526,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sex,gender",
+  "meaning": "jenis kelamin, jenis kelamin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4537,7 +4537,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "use,service,role,position",
+  "meaning": "penggunaan, layanan, peran, posisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4548,7 +4548,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "how much?,how many?",
+  "meaning": "berapa banyak?, berapa banyak?",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4559,7 +4559,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "congestion (e.g. traffic),delay,stagnation",
+  "meaning": "kemacetan (misalnya lalu lintas), penundaan, stagnasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4570,7 +4570,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "free,no charge",
+  "meaning": "gratis, tanpa biaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4581,7 +4581,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "without",
+  "meaning": "tanpa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4592,7 +4592,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be idle,to neglect",
+  "meaning": "menjadi menganggur, mengabaikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4603,7 +4603,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "extremely",
+  "meaning": "sangat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4614,7 +4614,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be separated from,to leave,to go away,to be a long way off",
+  "meaning": "untuk dipisahkan dari, untuk pergi, untuk pergi, menjadi jauh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4625,7 +4625,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "seriousness,earnestness",
+  "meaning": "keseriusan, kesungguhan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4636,7 +4636,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "recommendation",
+  "meaning": "rekomendasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4647,7 +4647,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "superiority,excellence",
+  "meaning": "keunggulan, keunggulan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4658,7 +4658,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "respect,honour",
+  "meaning": "hormat, kehormatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4669,7 +4669,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "clothes",
+  "meaning": "pakaian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4680,7 +4680,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "honourable",
+  "meaning": "terhormat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4691,7 +4691,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "processing,dealing with,treatment,disposition,disposal",
+  "meaning": "pemrosesan, penanganan, perawatan, disposisi, pembuangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4702,7 +4702,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "a patient",
+  "meaning": "seorang pasien",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4713,7 +4713,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "favourable,doing well,O.K.,all right",
+  "meaning": "menguntungkan, baik-baik saja, oke, baiklah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4724,7 +4724,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "action,conduct,behaviour,mobilization",
+  "meaning": "tindakan, perilaku, perilaku, mobilisasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4735,7 +4735,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "acting,performance",
+  "meaning": "akting, pertunjukan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4746,7 +4746,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "afterwards,since then,in the future",
+  "meaning": "setelah itu, sejak saat itu, di masa depan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4757,7 +4757,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "width,breadth",
+  "meaning": "lebar, lebar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4768,7 +4768,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) draft (beer),(2) raw,unprocessed",
+  "meaning": "(1) draft (bir), (2) mentah, belum diolah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4779,7 +4779,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the past,bygone days,the previous",
+  "meaning": "masa lalu, masa lalu, masa lalu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4790,7 +4790,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sofa,couch",
+  "meaning": "sofa, sofa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4801,7 +4801,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "force,vigor,energy,spirit",
+  "meaning": "kekuatan, kekuatan, energi, semangat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4812,7 +4812,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "guarantee,security,assurance,pledge,warranty",
+  "meaning": "jaminan, keamanan, jaminan, jaminan, garansi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4823,7 +4823,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to use,to make use of",
+  "meaning": "untuk menggunakan, untuk memanfaatkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4834,7 +4834,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to pass,to pass through",
+  "meaning": "untuk melewati, untuk melewati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4845,7 +4845,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "living room (western style)",
+  "meaning": "ruang tamu (gaya barat)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4856,7 +4856,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "country-wide,nation-wide,whole country,national",
+  "meaning": "seluruh negara, nasional, seluruh negara, nasional",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4867,7 +4867,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "delicate,subtle",
+  "meaning": "halus, halus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4878,7 +4878,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "feeling,sense,impression",
+  "meaning": "perasaan, rasa, kesan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4889,7 +4889,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "all night,all night vigil,sleepless night",
+  "meaning": "sepanjang malam, berjaga sepanjang malam, malam tanpa tidur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4900,7 +4900,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "price,value,cost",
+  "meaning": "harga, nilai, biaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4911,7 +4911,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "eaves",
+  "meaning": "atap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4922,7 +4922,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "gland,grand,(electrical) ground",
+  "meaning": "kelenjar, agung, tanah (listrik).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4933,7 +4933,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to fear,to be afraid of",
+  "meaning": "untuk takut, untuk ditakuti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4944,7 +4944,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tropics",
+  "meaning": "daerah tropis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4955,7 +4955,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "set",
+  "meaning": "mengatur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4966,7 +4966,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to hide,to be hidden,to conceal oneself,to disappear",
+  "meaning": "untuk bersembunyi, untuk disembunyikan, untuk menyembunyikan diri, untuk menghilang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4977,7 +4977,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "by oneself,personally",
+  "meaning": "oleh diri sendiri, secara pribadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4988,7 +4988,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "target,object (of worship, study, etc),subject (of taxation, etc)",
+  "meaning": "sasaran, obyek (ibadah, belajar, dan lain-lain), subjek (pajak, dan lain-lain)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -4999,7 +4999,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(Western) soup",
+  "meaning": "sup (Barat).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5010,7 +5010,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "20 years old,20th year",
+  "meaning": "20 tahun, tahun ke 20",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5021,7 +5021,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "not very,not much,remainder,rest",
+  "meaning": "tidak terlalu, tidak banyak, sisa, istirahat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5032,7 +5032,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "market,fair",
+  "meaning": "pasar, adil",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5043,7 +5043,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "weapon,arms,ordinance",
+  "meaning": "senjata, senjata, peraturan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5054,7 +5054,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to produce,to yield,to result from,to arise,to be generated",
+  "meaning": "menghasilkan, menghasilkan, menghasilkan, timbul, dihasilkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5065,7 +5065,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "knee,lap",
+  "meaning": "lutut, pangkuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5076,7 +5076,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "hospitalization",
+  "meaning": "rawat inap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5087,7 +5087,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "farmers,peasants",
+  "meaning": "petani, petani",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5098,7 +5098,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "vicinity,nearby",
+  "meaning": "sekitar, dekat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5109,7 +5109,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to respond,to satisfy,to accept,to comply with,to apply for",
+  "meaning": "untuk menanggapi, untuk memuaskan, untuk menerima, untuk mematuhi, untuk mengajukan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5120,7 +5120,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "path,pass (in games)",
+  "meaning": "jalan, lewati (dalam permainan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5131,7 +5131,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "house,home,husband",
+  "meaning": "rumah, rumah, suami",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5142,7 +5142,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "battle,fight,struggle,conflict",
+  "meaning": "pertempuran, perkelahian, perjuangan, konflik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5153,7 +5153,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "paddle,racket",
+  "meaning": "dayung, raket",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5164,7 +5164,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nerve,sensitivity",
+  "meaning": "saraf, sensitivitas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5175,7 +5175,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "engine",
+  "meaning": "mesin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5186,7 +5186,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mail,postal service",
+  "meaning": "surat, layanan pos",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5197,7 +5197,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "companion,company",
+  "meaning": "teman, perusahaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5208,7 +5208,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bundle,package,parcel,bale",
+  "meaning": "bundel, paket, parsel, bale",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5219,7 +5219,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "consent,assent,understanding",
+  "meaning": "persetujuan, persetujuan, pengertian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5230,7 +5230,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "abundance,wealth,plenty,bounty",
+  "meaning": "kelimpahan, kekayaan, kelimpahan, karunia",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5241,7 +5241,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sentence",
+  "meaning": "kalimat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5252,7 +5252,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "somehow,anyhow,one way or another",
+  "meaning": "entah bagaimana, bagaimanapun, dengan satu atau lain cara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5263,7 +5263,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) to pull,to draw,to stretch,to drag,(2) to pull the ball (baseball)",
+  "meaning": "(1) menarik, menarik, meregangkan, menyeret, (2) menarik bola (bisbol)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5274,7 +5274,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "outflow,coming (going) out,graduate (of)",
+  "meaning": "arus keluar, datang (keluar), lulus (dari)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5285,7 +5285,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "floor",
+  "meaning": "lantai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5296,7 +5296,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "existence,being",
+  "meaning": "keberadaan, keberadaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5307,7 +5307,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to surround,to encircle",
+  "meaning": "untuk mengelilingi, untuk mengelilingi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5318,7 +5318,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fee,charge,fare",
+  "meaning": "biaya, biaya, tarif",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5329,7 +5329,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "care,precaution,guarding,caution",
+  "meaning": "perawatan, pencegahan, penjagaan, kehati-hatian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5340,7 +5340,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to burn",
+  "meaning": "untuk membakar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5351,7 +5351,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "president,chief executive",
+  "meaning": "presiden, kepala eksekutif",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5362,7 +5362,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to fit,to suit",
+  "meaning": "agar sesuai, sesuai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5373,7 +5373,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "accurate,punctuality,exactness,authenticity,veracity",
+  "meaning": "akurat, ketepatan waktu, ketepatan, keaslian, kebenaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5384,7 +5384,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "order,request",
+  "meaning": "pesanan, permintaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5395,7 +5395,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "married couple,husband and wife",
+  "meaning": "pasangan suami istri, suami dan istri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5406,7 +5406,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "obstacle,impediment (fault),damage",
+  "meaning": "hambatan, halangan (kesalahan), kerusakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5417,7 +5417,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "musical performance",
+  "meaning": "pertunjukan musik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5428,7 +5428,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "best,first,number one",
+  "meaning": "terbaik, pertama, nomor satu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5439,7 +5439,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Japan",
+  "meaning": "Jepang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5450,7 +5450,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mother",
+  "meaning": "ibu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5461,7 +5461,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "overall victory,championship",
+  "meaning": "kemenangan keseluruhan, kejuaraan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5472,7 +5472,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pride",
+  "meaning": "kebanggaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5483,7 +5483,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "length,height",
+  "meaning": "panjang, tinggi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5494,7 +5494,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "end (e.g. of street),edge,tip,margin,point",
+  "meaning": "ujung (misalnya jalan),tepi,ujung,margin,titik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5505,7 +5505,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "general,liberal,universal,ordinary,average",
+  "meaning": "umum, liberal, universal, biasa, rata-rata",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5516,7 +5516,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cost,expense",
+  "meaning": "biaya, biaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5527,7 +5527,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "stage (theatre)",
+  "meaning": "panggung (teater)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5538,7 +5538,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cream",
+  "meaning": "krim",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5549,7 +5549,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "road,highway",
+  "meaning": "jalan raya, jalan raya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5560,7 +5560,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to settle in (place),to take (seat, position),to study (under teacher)",
+  "meaning": "untuk menetap di (tempat), untuk mengambil (kursi, posisi), untuk belajar (di bawah guru)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5571,7 +5571,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "reliance,trust,confidence",
+  "meaning": "ketergantungan, kepercayaan, keyakinan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5582,7 +5582,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "possible,practicable,feasible",
+  "meaning": "mungkin, dapat dipraktikkan, dapat dilaksanakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5593,7 +5593,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "daytime,broad daylight",
+  "meaning": "siang hari, siang hari bolong",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5604,7 +5604,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be blocked,to choke,to be obstructed",
+  "meaning": "untuk diblokir, untuk tersedak, untuk dihalangi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5615,7 +5615,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "enforcement,enact,put into practice,carry out,operation",
+  "meaning": "penegakan, memberlakukan, mengamalkan, melaksanakan, mengoperasikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5626,7 +5626,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "age,years",
+  "meaning": "umur, tahun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5637,7 +5637,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fame,reputation,popularity,arrant",
+  "meaning": "ketenaran, reputasi, popularitas, keterlaluan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5648,7 +5648,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nine",
+  "meaning": "sembilan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5659,7 +5659,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tear",
+  "meaning": "merobek",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5670,7 +5670,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "meeting,person sent to pick up an arrival",
+  "meaning": "pertemuan, orang dikirim untuk menjemput kedatangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5681,7 +5681,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "intolerable,unbearable,unendurable",
+  "meaning": "tak tertahankan, tak tertahankan, tak tertahankan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5692,7 +5692,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "entry,filling in of forms",
+  "meaning": "masuk, mengisi formulir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5703,7 +5703,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "faults,defect,weakness",
+  "meaning": "kesalahan, cacat, kelemahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5714,7 +5714,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "horn",
+  "meaning": "klakson",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5725,7 +5725,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "truth,reality",
+  "meaning": "kebenaran, kenyataan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5736,7 +5736,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "diffidence,restraint,reserve",
+  "meaning": "rasa malu, menahan diri, menahan diri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5747,7 +5747,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to pile up",
+  "meaning": "untuk menumpuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5758,7 +5758,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "whole,entirety,whatever (is the matter)",
+  "meaning": "keseluruhan, keseluruhan, apa pun (apa masalahnya)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5769,7 +5769,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(abbr) kilo-,kilogram,kilometre,10^3",
+  "meaning": "(abbr) kilo-,kilogram,kilometer,10^3",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5780,7 +5780,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "trouble,bother,annoyance",
+  "meaning": "masalah, gangguan, gangguan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5791,7 +5791,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mankind,humanity",
+  "meaning": "umat manusia, kemanusiaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5802,7 +5802,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "alone,unmarried",
+  "meaning": "sendirian, belum menikah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5813,7 +5813,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "handbreadth,bundle",
+  "meaning": "lebar tangan, bundel",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5824,7 +5824,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "concrete,tangible,material",
+  "meaning": "konkret, nyata, material",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5835,7 +5835,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "forehead,brow",
+  "meaning": "dahi, alis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5846,7 +5846,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bun,van (caravan),VAN (value-added network)",
+  "meaning": "bun,van (karavan),VAN (jaringan bernilai tambah)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5857,7 +5857,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "thick (as of color, liquid),dense,strong",
+  "meaning": "kental (seperti warna, cair), padat, kuat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5868,7 +5868,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(fine) art,the arts",
+  "meaning": "seni (baik), seni",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5879,7 +5879,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(the) market (as a concept)",
+  "meaning": "() pasar (sebagai sebuah konsep)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5890,7 +5890,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tunnel",
+  "meaning": "terowongan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5901,7 +5901,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "skin,hide,leather,fur,pelt,bark,shell",
+  "meaning": "kulit, kulit, kulit, bulu, bulu, kulit kayu, cangkang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5912,7 +5912,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "stay,sojourn",
+  "meaning": "tinggal, singgah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5923,7 +5923,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "well,well then",
+  "meaning": "baiklah kalau begitu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5934,7 +5934,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Act (law: the X Act)",
+  "meaning": "UU (hukum: UU X)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5945,7 +5945,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "unhappiness,sorrow,misfortune,disaster,accident,death",
+  "meaning": "ketidakbahagiaan, kesedihan, kemalangan, bencana, kecelakaan, kematian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5956,7 +5956,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to love",
+  "meaning": "untuk mencintai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5967,7 +5967,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be sad,to mourn for,to regret",
+  "meaning": "sedih, berduka, menyesal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5978,7 +5978,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fixedly,firmly,patiently,quietly",
+  "meaning": "dengan pasti, tegas, sabar, diam-diam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -5989,7 +5989,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "able,capable,efficient,skill",
+  "meaning": "mampu, mampu, efisien, keterampilan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6000,7 +6000,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "clapping hands,applause",
+  "meaning": "bertepuk tangan, tepuk tangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6011,7 +6011,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "standpoint,position,situation",
+  "meaning": "sudut pandang, posisi, situasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6022,7 +6022,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "disregard,ignore",
+  "meaning": "abaikan, abaikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6033,7 +6033,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to stand up",
+  "meaning": "untuk berdiri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6044,7 +6044,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "middle,half,semi,halfway,partly",
+  "meaning": "tengah, setengah, semi, setengah jalan, sebagian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6055,7 +6055,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rabbit,hare,cony",
+  "meaning": "kelinci, kelinci, kelinci",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6066,7 +6066,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "chattering,talk,idle talk",
+  "meaning": "ngobrol, ngobrol, omong kosong",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6077,7 +6077,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "noon,mid-day",
+  "meaning": "siang, tengah hari",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6088,7 +6088,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to concern,to be related",
+  "meaning": "untuk menjadi perhatian, untuk menjadi terkait",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6099,7 +6099,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sometime,someday,one day",
+  "meaning": "suatu saat nanti, suatu hari nanti, suatu hari nanti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6110,7 +6110,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "company,fellow,colleague,associate",
+  "meaning": "perusahaan, rekan, kolega, rekanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6121,7 +6121,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "class, grade, rank,school class, grade",
+  "meaning": "kelas, kelas, pangkat, kelas sekolah, kelas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6132,7 +6132,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "admiration,Well done!",
+  "meaning": "kekaguman,Bagus sekali!",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6143,7 +6143,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "hole",
+  "meaning": "lubang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6154,7 +6154,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "dress",
+  "meaning": "gaun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6165,7 +6165,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "news,tidings,information,correspondence,letter",
+  "meaning": "berita, kabar, informasi, korespondensi, surat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6176,7 +6176,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to seek,to request,to demand,to want,to wish for,to search for,to pursue (pleasure),to hunt (a job),",
+  "meaning": "mencari, meminta, menuntut, menginginkan, menginginkan, mencari, mengejar (kesenangan), berburu (pekerjaan),",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6187,7 +6187,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to betray,to turn traitor to,to double-cross",
+  "meaning": "untuk mengkhianati, untuk mengubah menjadi pengkhianat, untuk melakukan pengkhianatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6198,7 +6198,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Sunday",
+  "meaning": "Minggu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6209,7 +6209,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "consultation,discussion",
+  "meaning": "konsultasi, diskusi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6220,7 +6220,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "living thing,animal",
+  "meaning": "makhluk hidup, hewan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6231,7 +6231,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "helper,helpmeet,assistant,tutor",
+  "meaning": "pembantu, pembantu, asisten, tutor",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6242,7 +6242,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ex-",
+  "meaning": "mantan-",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6253,7 +6253,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to shout,to cry",
+  "meaning": "berteriak, menangis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6264,7 +6264,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "because",
+  "meaning": "Karena",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6275,7 +6275,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "money,cash",
+  "meaning": "uang, uang tunai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6286,7 +6286,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "sum total,total amount",
+  "meaning": "jumlah total, jumlah total",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6297,7 +6297,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "gargle,rinse mouth",
+  "meaning": "kumur, bilas mulut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6308,7 +6308,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "slowly,at ease",
+  "meaning": "perlahan, dengan tenang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6319,7 +6319,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "poet",
+  "meaning": "penyair",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6330,7 +6330,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "machine,mechanism",
+  "meaning": "mesin, mekanisme",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6341,7 +6341,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "limit,bound",
+  "meaning": "batas, terikat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6352,7 +6352,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rope,hemp",
+  "meaning": "tali, rami",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6363,7 +6363,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "monetary circulation,credit situation",
+  "meaning": "sirkulasi moneter, situasi kredit",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6374,7 +6374,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "lamplight,light (in general),brightness",
+  "meaning": "cahaya lampu, cahaya (secara umum), kecerahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6385,7 +6385,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "anything of,not one bit",
+  "meaning": "apa pun, tidak sedikit pun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6396,7 +6396,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to finish",
+  "meaning": "untuk menyelesaikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6407,7 +6407,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "time,about,toward,approximately (time)",
+  "meaning": "waktu, tentang, menuju, kira-kira (waktu)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6418,7 +6418,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "jest,joke",
+  "meaning": "bercanda, bercanda",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6429,7 +6429,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "due form,official,formality",
+  "meaning": "bentuk hak, resmi, formalitas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6440,7 +6440,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "equation,formula,ceremony",
+  "meaning": "persamaan, rumus, upacara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6451,7 +6451,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "moat",
+  "meaning": "parit",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6462,7 +6462,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "violent,vehement,intense",
+  "meaning": "kekerasan, keras, intens",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6473,7 +6473,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "loss,disadvantage",
+  "meaning": "kerugian, kerugian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6484,7 +6484,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "letter (of alphabet),character",
+  "meaning": "huruf (abjad), karakter",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6495,7 +6495,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "prohibition,ban",
+  "meaning": "larangan, larangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6506,7 +6506,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "precisely,accurately",
+  "meaning": "tepatnya, secara akurat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6517,7 +6517,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tea",
+  "meaning": "teh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6528,7 +6528,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "good luck,fortune",
+  "meaning": "semoga beruntung, beruntung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6539,7 +6539,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) to wave,to shake,to swing,(2) to sprinkle,(3) to cast (actor),to allocate (work)",
+  "meaning": "(1) melambai, menggoyang, mengayun, (2) memercikkan, (3) melemparkan (aktor), mengalokasikan (pekerjaan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6550,7 +6550,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "last (year),yesterday",
+  "meaning": "terakhir (tahun), kemarin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6561,7 +6561,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to pour (into),to irrigate,to pay,to fill,to feed (e.g. a fire)",
+  "meaning": "untuk menuangkan (ke dalam), mengairi, membayar, mengisi, memberi makan (misalnya api)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6572,7 +6572,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "account,finance,accountant",
+  "meaning": "akun, keuangan, akuntan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6583,7 +6583,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "root",
+  "meaning": "akar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6594,7 +6594,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "warmth",
+  "meaning": "kehangatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6605,7 +6605,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "plan",
+  "meaning": "rencana",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6616,7 +6616,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "certainty,reliability,soundness",
+  "meaning": "kepastian, keandalan, kesehatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6627,7 +6627,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "breast,chest",
+  "meaning": "payudara, dada",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6638,7 +6638,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "memory,recollection,remembrance",
+  "meaning": "ingatan, ingatan, ingatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6649,7 +6649,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "construction,architecture",
+  "meaning": "konstruksi, arsitektur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6660,7 +6660,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "smoke,fumes",
+  "meaning": "asap, asap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6671,7 +6671,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "or,possibly",
+  "meaning": "atau, mungkin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6682,7 +6682,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(at) any time,always,at all times,never (neg)",
+  "meaning": "(pada) kapan saja, selalu, setiap saat, tidak pernah (neg)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6693,7 +6693,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "notice",
+  "meaning": "melihat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6704,7 +6704,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "forever,for good,eternally,as long as one likes,indefinitely",
+  "meaning": "selamanya, selamanya, selama-lamanya, selama yang diinginkan, tanpa batas waktu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6715,7 +6715,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "notice,bulletin",
+  "meaning": "perhatikan, buletin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6726,7 +6726,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "stimulus,impetus,incentive",
+  "meaning": "stimulus, dorongan, insentif",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6737,7 +6737,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "medical examination",
+  "meaning": "pemeriksaan kesehatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6748,7 +6748,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "organ,mechanism,facility,engine",
+  "meaning": "organ, mekanisme, fasilitas, mesin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6759,7 +6759,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to restore,to put back,to return",
+  "meaning": "untuk memulihkan, untuk mengembalikan, untuk mengembalikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6770,7 +6770,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "oil,petroleum,kerosene",
+  "meaning": "minyak, minyak bumi, minyak tanah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6781,7 +6781,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "useless,no good,hopeless",
+  "meaning": "tidak berguna, tidak bagus, tidak ada harapan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6792,7 +6792,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "appetite (for food)",
+  "meaning": "nafsu makan (untuk makanan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6803,7 +6803,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to hold or carry under or in the arms",
+  "meaning": "untuk memegang atau membawa di bawah atau di lengan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6814,7 +6814,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(personal) bankruptcy",
+  "meaning": "(pribadi) kebangkrutan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6825,7 +6825,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "printing",
+  "meaning": "pencetakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6836,7 +6836,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to face,to confront,to oppose",
+  "meaning": "menghadapi, menghadapi, menentang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6847,7 +6847,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "name,reputation",
+  "meaning": "nama, reputasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6858,7 +6858,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "be found,aim,estimate,guess,approx",
+  "meaning": "ditemukan, membidik, memperkirakan, menebak, kira-kira",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6869,7 +6869,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "thereupon,hereupon",
+  "meaning": "setelah itu, setelah itu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6880,7 +6880,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "so to speak",
+  "meaning": "bisa dikatakan begitu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6891,7 +6891,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to divide,to separate",
+  "meaning": "untuk membagi, untuk memisahkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6902,7 +6902,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "elephant",
+  "meaning": "gajah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6913,7 +6913,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "season,weather,cheerfulness",
+  "meaning": "musim, cuaca, keceriaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6924,7 +6924,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to permit,to allow,to approve",
+  "meaning": "untuk mengizinkan, mengizinkan, menyetujui",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6935,7 +6935,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "race (of people)",
+  "meaning": "ras (orang)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6946,7 +6946,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "a means, e.g. of living",
+  "meaning": "sarana, mis.",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6957,7 +6957,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be silent",
+  "meaning": "untuk diam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6968,7 +6968,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "companion,partner,company",
+  "meaning": "rekan, mitra, perusahaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6979,7 +6979,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "determination,resolution",
+  "meaning": "tekad, resolusi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -6990,7 +6990,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "love,affection",
+  "meaning": "cinta, kasih sayang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7001,7 +7001,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "happiness,blessedness",
+  "meaning": "kebahagiaan, berkah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7012,7 +7012,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "before long,soon,at length",
+  "meaning": "tak lama lagi, segera, panjang lebar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7023,7 +7023,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "quantity,amount,volume,portion (of food)",
+  "meaning": "kuantitas, jumlah, volume, porsi (makanan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7034,7 +7034,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wonderful,gorgeous,splendor,pomp,extravagance",
+  "meaning": "indah, cantik, kemegahan, kemegahan, pemborosan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7045,7 +7045,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "advantageous,better,profitable,lucrative",
+  "meaning": "menguntungkan, lebih baik, menguntungkan, menguntungkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7056,7 +7056,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "quotation,citation",
+  "meaning": "kutipan, kutipan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7067,7 +7067,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cheese",
+  "meaning": "keju",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7078,7 +7078,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cherry blossom,cherry tree",
+  "meaning": "bunga sakura, pohon ceri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7089,7 +7089,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "crowd of people",
+  "meaning": "kerumunan orang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7100,7 +7100,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "relation,relationship",
+  "meaning": "hubungan, hubungan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7111,7 +7111,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "thesis,essay,treatise,paper",
+  "meaning": "tesis, esai, risalah, makalah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7122,7 +7122,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "approximately,about,some",
+  "meaning": "kira-kira, tentang, beberapa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7133,7 +7133,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to defend (against),to protect,to prevent",
+  "meaning": "untuk membela (melawan), untuk melindungi, untuk mencegah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7144,7 +7144,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "beautiful person (woman)",
+  "meaning": "orang cantik (wanita)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7155,7 +7155,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "miss (mistake, error, failure),Miss",
+  "meaning": "rindu (kesalahan, kesalahan, kegagalan), Nona",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7166,7 +7166,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "forecast,prediction",
+  "meaning": "perkiraan, prediksi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7177,7 +7177,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "blanket",
+  "meaning": "selimut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7188,7 +7188,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "approval,agreement,support,favour",
+  "meaning": "persetujuan, persetujuan, dukungan, bantuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7199,7 +7199,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "discovery,detection,finding",
+  "meaning": "penemuan, deteksi, penemuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7210,7 +7210,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "wonderful,splendid,magnificent",
+  "meaning": "luar biasa, indah, luar biasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7221,7 +7221,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ring,hoop,circle",
+  "meaning": "cincin, lingkaran, lingkaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7232,7 +7232,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "enquiry,expression of sympathy,expression of concern",
+  "meaning": "pertanyaan, ekspresi simpati, ekspresi keprihatinan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7243,7 +7243,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "huge,gigantic,enormous",
+  "meaning": "besar, raksasa, dahsyat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7254,7 +7254,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "painful,difficult",
+  "meaning": "menyakitkan, sulit",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7265,7 +7265,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "prices of commodities,prices (in general)",
+  "meaning": "harga komoditas, harga (secara umum)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7276,7 +7276,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to talk,to tell,to recite",
+  "meaning": "untuk berbicara, menceritakan, membaca",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7287,7 +7287,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to sink,to feel depressed",
+  "meaning": "tenggelam, merasa tertekan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7298,7 +7298,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "middle school,junior high school",
+  "meaning": "SMP, SMP",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7309,7 +7309,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "helping,serving",
+  "meaning": "membantu, melayani",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7320,7 +7320,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "practical,actual condition,status quo",
+  "meaning": "praktis, kondisi aktual, status quo",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7331,7 +7331,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pattern,figure,design",
+  "meaning": "pola, gambar, desain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7342,7 +7342,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to touch,to be touched,to touch on a subject,to feel,to violate (law, copyright, etc.),to perceive,t",
+  "meaning": "menyentuh, disentuh, menyentuh subjek, merasakan, melanggar (hukum, hak cipta, dll.), merasakan, t",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7353,7 +7353,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "at once,immediately,directly,in person",
+  "meaning": "sekaligus, segera, secara langsung, secara langsung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7364,7 +7364,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to refuse,to decline,to dismiss",
+  "meaning": "menolak, menolak, memberhentikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7375,7 +7375,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "what",
+  "meaning": "Apa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7386,7 +7386,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to pass,to lapse",
+  "meaning": "untuk lulus, untuk gagal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7397,7 +7397,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to stick,to paste",
+  "meaning": "untuk menempel, untuk menempel",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7408,7 +7408,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Saturday",
+  "meaning": "Sabtu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7419,7 +7419,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "garments",
+  "meaning": "pakaian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7430,7 +7430,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "dust,dirt",
+  "meaning": "debu, kotoran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7441,7 +7441,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "river,stream",
+  "meaning": "sungai, aliran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7452,7 +7452,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Diet,congress,parliament",
+  "meaning": "Diet, kongres, parlemen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7463,7 +7463,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be able to,to be ready,to occur",
+  "meaning": "untuk dapat, untuk bersiap, untuk terjadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7474,7 +7474,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "announcement,publication",
+  "meaning": "pengumuman, publikasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7485,7 +7485,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) service,duty,business,responsibility,task,(2) Buddhist religious services",
+  "meaning": "(1) pelayanan, tugas, bisnis, tanggung jawab, tugas, (2) layanan keagamaan Buddha",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7496,7 +7496,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "influence,effect",
+  "meaning": "pengaruh, efek",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7507,7 +7507,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "practice,performance,execution (e.g. program),realization",
+  "meaning": "latihan, kinerja, eksekusi (misalnya program), realisasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7518,7 +7518,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "prime",
+  "meaning": "utama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7529,7 +7529,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "hair (head)",
+  "meaning": "rambut (kepala)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7540,7 +7540,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "about,roughly,as a rule,approximately",
+  "meaning": "tentang, kira-kira, sebagai suatu peraturan, kira-kira",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7551,7 +7551,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "inn,lodging",
+  "meaning": "penginapan, penginapan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7562,7 +7562,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "consecutively,throughout,a lot",
+  "meaning": "berturut-turut, secara keseluruhan, banyak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7573,7 +7573,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to attack,to defeat,to destroy",
+  "meaning": "untuk menyerang, mengalahkan, menghancurkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7584,7 +7584,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "food,foodstuff",
+  "meaning": "makanan, bahan makanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7595,7 +7595,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "expectation,anticipation,hope",
+  "meaning": "harapan, antisipasi, harapan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7606,7 +7606,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "health,sound,wholesome",
+  "meaning": "kesehatan, suara, sehat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7617,7 +7617,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ink",
+  "meaning": "tinta",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7628,7 +7628,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "side",
+  "meaning": "samping",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7639,7 +7639,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) service,duty,(2) Buddhist religious services",
+  "meaning": "(1) pelayanan, tugas, (2) pelayanan keagamaan Budha",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7650,7 +7650,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "mimicry,imitation,behavior,pretense",
+  "meaning": "mimikri, peniruan, perilaku, kepura-puraan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7661,7 +7661,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "gun",
+  "meaning": "pistol",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7672,7 +7672,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mentality",
+  "meaning": "mentalitas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7683,7 +7683,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "price,payment,cost,charge",
+  "meaning": "harga, pembayaran, biaya, biaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7694,7 +7694,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Why?,What for?",
+  "meaning": "Mengapa?, Untuk apa?",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7705,7 +7705,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) token,label,(2) ticket,(3) charm",
+  "meaning": "(1) token, label, (2) tiket, (3) pesona",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7716,7 +7716,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fortune,luck",
+  "meaning": "keberuntungan, keberuntungan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7727,7 +7727,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "seat",
+  "meaning": "kursi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7738,7 +7738,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wound,injury,hurt,cut",
+  "meaning": "luka, cedera, sakit, terpotong",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7749,7 +7749,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "importance,stress,serious consideration",
+  "meaning": "kepentingan, stres, pertimbangan serius",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7760,7 +7760,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "good,nice,pleasant,ok",
+  "meaning": "bagus, bagus, menyenangkan, oke",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7771,7 +7771,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "sale,selling,marketing",
+  "meaning": "penjualan, penjualan, pemasaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7793,7 +7793,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "difference,variation",
+  "meaning": "perbedaan, variasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7804,7 +7804,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "love,tender passion",
+  "meaning": "cinta, gairah lembut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7815,7 +7815,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "writing brush",
+  "meaning": "kuas tulis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7826,7 +7826,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "counter for chapters (of a book)",
+  "meaning": "counter untuk bab (dari sebuah buku)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7837,7 +7837,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "boy",
+  "meaning": "anak laki-laki",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7848,7 +7848,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "most,extremely",
+  "meaning": "sebagian besar, sangat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7859,7 +7859,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "attitude,manner",
+  "meaning": "sikap, cara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7870,7 +7870,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "greatness",
+  "meaning": "kebesaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7881,7 +7881,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to employ,to hire",
+  "meaning": "untuk mempekerjakan, untuk mempekerjakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7892,7 +7892,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bank,coast,shore",
+  "meaning": "bank, pantai, pantai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7903,7 +7903,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "just (now, at the moment, etc.)",
+  "meaning": "hanya (sekarang, saat ini, dll.)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7914,7 +7914,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "resolution,resignation,readiness,preparedness",
+  "meaning": "resolusi, pengunduran diri, kesiapan, kesiapsiagaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7925,7 +7925,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "departure",
+  "meaning": "keberangkatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7936,7 +7936,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) to invite,to ask,(2) to tempt,to lure,to induce",
+  "meaning": "(1) mengajak, meminta, (2) menggoda, memikat, membujuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7947,7 +7947,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) string,cord,(2) pimp",
+  "meaning": "(1) tali, tali, (2) germo",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7958,7 +7958,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bubble,foam,froth,head on beer",
+  "meaning": "gelembung, busa, buih, minum bir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7969,7 +7969,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "circle,full (month),perfection,purity,suffix for ship names",
+  "meaning": "lingkaran, penuh (bulan), kesempurnaan, kemurnian, akhiran nama kapal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7980,7 +7980,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to join in,to accede to,to increase,to gain in (influence)",
+  "meaning": "untuk bergabung, untuk mengaksesi, untuk meningkatkan, untuk mendapatkan (pengaruh)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -7991,7 +7991,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "implementation,materialization,realization",
+  "meaning": "pelaksanaan, perwujudan, realisasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8002,7 +8002,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sunlight",
+  "meaning": "sinar matahari",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8013,7 +8013,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(religious) faith,belief,creed",
+  "meaning": "(agama) iman, keyakinan, keyakinan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8024,7 +8024,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "impression",
+  "meaning": "kesan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8035,7 +8035,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "scene,view,prospect,outlook",
+  "meaning": "pemandangan, pemandangan, prospek, pandangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8046,7 +8046,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "quite,entirely,completely",
+  "meaning": "cukup, seluruhnya, seluruhnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8057,7 +8057,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "birth,birth-place",
+  "meaning": "kelahiran, tempat lahir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8068,7 +8068,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "quite,very",
+  "meaning": "cukup, sangat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8079,7 +8079,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mere,simple,sheer",
+  "meaning": "belaka, sederhana, belaka",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8090,7 +8090,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "muscle,string,line",
+  "meaning": "otot, tali, garis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8101,7 +8101,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "variety,kind,type",
+  "meaning": "variasi, jenis, tipe",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8112,7 +8112,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to hit,to strike",
+  "meaning": "untuk memukul, untuk menyerang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8123,7 +8123,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "sisters",
+  "meaning": "saudara perempuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8134,7 +8134,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "globe,sphere,ball",
+  "meaning": "bola dunia, bola, bola",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8145,7 +8145,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "coal",
+  "meaning": "batu bara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8156,7 +8156,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "now,this time,lately",
+  "meaning": "sekarang, kali ini, akhir-akhir ini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8167,7 +8167,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "Damn it!",
+  "meaning": "Brengsek!",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8178,7 +8178,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "injustice,unfairness",
+  "meaning": "ketidakadilan, ketidakadilan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8189,7 +8189,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) wholly,entirely,completely,(2) not at all (with neg. verb)",
+  "meaning": "(1) seluruhnya, seluruhnya, seluruhnya, (2) tidak sama sekali (dengan kata kerja neg.)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8200,7 +8200,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cloth,piece,cut,chop",
+  "meaning": "kain, potong, potong, potong",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8211,7 +8211,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "so,like this,in this way",
+  "meaning": "jadi, seperti ini, dengan cara ini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8222,7 +8222,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "passable",
+  "meaning": "mendingan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8233,7 +8233,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "betterment,improvement",
+  "meaning": "perbaikan, perbaikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8244,7 +8244,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "field",
+  "meaning": "bidang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8266,7 +8266,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be caught,to be arrested",
+  "meaning": "untuk ditangkap, untuk ditangkap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8277,7 +8277,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "et cetera,etc.,and the like",
+  "meaning": "dan lain-lain, dsb., dan sejenisnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8288,7 +8288,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to run to,to lead to,to communicate,to understand",
+  "meaning": "untuk berlari ke, untuk memimpin, untuk berkomunikasi, untuk memahami",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8299,7 +8299,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to suit,to match,to become,to be like",
+  "meaning": "menyesuaikan, mencocokkan, menjadi, menjadi seperti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8310,7 +8310,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) pine tree,(2) highest (of a three-tier ranking system)",
+  "meaning": "(1) pohon pinus, (2) tertinggi (dari sistem peringkat tiga tingkat)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8321,7 +8321,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "rumour,report,gossip,common talk",
+  "meaning": "rumor, laporan, gosip, pembicaraan umum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8332,7 +8332,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "saucepan,pot",
+  "meaning": "panci, panci",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8343,7 +8343,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "subjugation,conquest",
+  "meaning": "penaklukan, penaklukan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8354,7 +8354,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "consciousness,senses",
+  "meaning": "kesadaran, indera",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8365,7 +8365,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "good,goodness,right,virtue",
+  "meaning": "baik, baik, benar, kebajikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8376,7 +8376,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "nuts!,enthusiasm,zeal,mania",
+  "meaning": "gila!,antusiasme,semangat,mania",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8387,7 +8387,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to fall behind,to be inferior to",
+  "meaning": "tertinggal, menjadi inferior",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8398,7 +8398,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "youth,young man",
+  "meaning": "pemuda, anak muda",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8409,7 +8409,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "be afraid,dread,dismay,terror",
+  "meaning": "takut, takut, cemas, teror",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8420,7 +8420,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "so (conj),accordingly,now,then,thereupon",
+  "meaning": "jadi (konj), oleh karena itu, sekarang, nanti, setelahnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8431,7 +8431,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "welcome",
+  "meaning": "selamat datang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8442,7 +8442,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the end",
+  "meaning": "akhir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8453,7 +8453,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "doctrine,rule,principle",
+  "meaning": "doktrin, aturan, prinsip",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8464,7 +8464,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to strike,to clap,to dust,to beat",
+  "meaning": "memukul, bertepuk tangan, memukul, memukul",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8475,7 +8475,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "preparation,arrangements,provision,reserve",
+  "meaning": "persiapan, pengaturan, penyediaan, cadangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8486,7 +8486,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "army,force,troops",
+  "meaning": "tentara, kekuatan, pasukan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8497,7 +8497,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "troubles,hardships",
+  "meaning": "masalah, kesulitan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8508,7 +8508,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "high price",
+  "meaning": "harga tinggi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8519,7 +8519,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "reverse,opposite",
+  "meaning": "terbalik, berlawanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8530,7 +8530,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "flag",
+  "meaning": "bendera",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8541,7 +8541,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "un,non,negative prefix",
+  "meaning": "un,non, awalan negatif",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8552,7 +8552,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Buddha,merciful person,Buddhist image,the dead",
+  "meaning": "Buddha, orang yang penyayang, gambar Buddha, orang mati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8563,7 +8563,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "side,edge,third person",
+  "meaning": "samping, tepi, orang ketiga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8574,7 +8574,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "motion,exercise",
+  "meaning": "gerak, latihan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8585,7 +8585,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "first (of all),to start with,about,almost,hardly (with neg. verb)",
+  "meaning": "pertama (dari semuanya),untuk memulai dengan,tentang,hampir,hampir (dengan kata kerja neg.)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8596,7 +8596,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "face,mug,surface,facial features,mask,face guard,side or facet,corner,page",
+  "meaning": "wajah, mug, permukaan, fitur wajah, topeng, pelindung wajah, samping atau segi, sudut, halaman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8607,7 +8607,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to see,to watch",
+  "meaning": "untuk melihat, untuk menonton",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8618,7 +8618,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "top",
+  "meaning": "atas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8629,7 +8629,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "if at all possible",
+  "meaning": "jika memungkinkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8640,7 +8640,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ship,boat,watercraft,shipping,vessel,steamship",
+  "meaning": "kapal, perahu, perahu, pelayaran, kapal, kapal uap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8651,7 +8651,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "center,core,heart,pivot,emphasis,balance",
+  "meaning": "pusat, inti, jantung, poros, penekanan, keseimbangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8662,7 +8662,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ogre,demon,it (i.e., in a game of tag)",
+  "meaning": "ogre,demon,it (yaitu, dalam permainan kejar-kejaran)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8673,7 +8673,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "field,plain,prairie,tundra,moor,wilderness",
+  "meaning": "lapangan, dataran, padang rumput, tundra, tegalan, hutan belantara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8684,7 +8684,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "opinion,point of view",
+  "meaning": "pendapat, sudut pandang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8695,7 +8695,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "supervision,control,superintendence",
+  "meaning": "pengawasan, pengendalian, pengawasan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8706,7 +8706,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to get,to gain,to win",
+  "meaning": "untuk mendapatkan, untuk mendapatkan, untuk menang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8717,7 +8717,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to reach,to get to",
+  "meaning": "untuk mencapai, untuk mencapai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8728,7 +8728,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the person himself",
+  "meaning": "orang itu sendiri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8739,7 +8739,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "thing,article,goods,dignity,article (goods),counter for meal courses",
+  "meaning": "benda,barang,barang,martabat,barang (barang),konter untuk kursus makan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8750,7 +8750,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "home town,birthplace,old village,historic village",
+  "meaning": "kota asal, tempat lahir, desa tua, desa bersejarah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8761,7 +8761,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "difficulty,distress",
+  "meaning": "kesulitan, kesusahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8772,7 +8772,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "investigation,examination,inquiry,survey",
+  "meaning": "penyelidikan, pemeriksaan, penyelidikan, survei",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8783,7 +8783,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "we",
+  "meaning": "Kami",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8794,7 +8794,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tiredness,fatigue",
+  "meaning": "kelelahan, kelelahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8805,7 +8805,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to talk,to chat,to chatter",
+  "meaning": "untuk ngobrol, ngobrol, ngobrol",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8816,7 +8816,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "annotation,explanatory note",
+  "meaning": "anotasi, catatan penjelasan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8827,7 +8827,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "committee member",
+  "meaning": "anggota komite",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8838,7 +8838,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "importation,import,introduction",
+  "meaning": "impor, impor, pengenalan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8849,7 +8849,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nowadays,modern times,present-day",
+  "meaning": "saat ini, zaman modern, masa kini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8860,7 +8860,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "amount of money",
+  "meaning": "sejumlah uang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8871,7 +8871,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to congratulate,to celebrate",
+  "meaning": "untuk mengucapkan selamat, untuk merayakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8882,7 +8882,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to desire,to wish,to request",
+  "meaning": "menginginkan, berharap, meminta",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8893,7 +8893,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to fall down,to fall over",
+  "meaning": "terjatuh, terjatuh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8904,7 +8904,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "friend",
+  "meaning": "teman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8915,7 +8915,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to wear,to put on (lower body)",
+  "meaning": "memakai, memakai (tubuh bagian bawah)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8926,7 +8926,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "work,opus,performance,production",
+  "meaning": "pekerjaan, karya, pertunjukan, produksi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8937,7 +8937,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "destruction,extinction",
+  "meaning": "kehancuran, kepunahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8948,7 +8948,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "facial expression",
+  "meaning": "raut wajah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8959,7 +8959,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "language",
+  "meaning": "bahasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8970,7 +8970,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "counter for occurrences",
+  "meaning": "counter untuk kejadian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8981,7 +8981,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "feel disappointed,be dejected,lose heart",
+  "meaning": "merasa kecewa, sedih, putus asa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -8992,7 +8992,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cotton,padding",
+  "meaning": "kapas, bantalan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9003,7 +9003,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cabinet minister",
+  "meaning": "menteri kabinet",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9014,7 +9014,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "retire",
+  "meaning": "pensiun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9025,7 +9025,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "woman,girl",
+  "meaning": "wanita, gadis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9036,7 +9036,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to praise,to admire,to speak well",
+  "meaning": "memuji, mengagumi, berbicara dengan baik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9047,7 +9047,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "native Japanese reading of a Chinese character",
+  "meaning": "bacaan asli Jepang dari karakter Cina",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9058,7 +9058,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "daughter,young lady,virgin,maiden,little girl",
+  "meaning": "putri, nona muda, perawan, gadis, gadis kecil",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9069,7 +9069,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to snatch away",
+  "meaning": "untuk merebut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9080,7 +9080,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "much more,still more,all the more",
+  "meaning": "lebih banyak lagi, lebih banyak lagi, lebih banyak lagi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9091,7 +9091,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "period,term",
+  "meaning": "periode, jangka waktu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9102,7 +9102,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "locket,rocket",
+  "meaning": "liontin, roket",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9113,7 +9113,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "cleaning,sweeping",
+  "meaning": "membersihkan, menyapu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9124,7 +9124,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "affirmation,confirmation",
+  "meaning": "afirmasi, konfirmasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9135,7 +9135,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "facing,opposite,across the street,other side",
+  "meaning": "menghadap, di seberang, di seberang jalan, di sisi lain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9146,7 +9146,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to unfasten,to remove",
+  "meaning": "untuk membuka, untuk menghapus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9157,7 +9157,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "question,query",
+  "meaning": "pertanyaan, pertanyaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9168,7 +9168,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to lengthen,to stretch,to reach out,to grow (beard)",
+  "meaning": "memanjangkan, merenggangkan, menjangkau, menumbuhkan (jenggot)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9179,7 +9179,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to surpass,to outstrip,to excel",
+  "meaning": "untuk melampaui, melampaui, untuk unggul",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9190,7 +9190,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "humour,temper,mood",
+  "meaning": "humor, emosi, suasana hati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9201,7 +9201,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "expectation,assume will happen,forecast",
+  "meaning": "harapan, asumsikan akan terjadi, perkiraan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9212,7 +9212,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to raise,to lift up,to flatter",
+  "meaning": "untuk mengangkat, untuk mengangkat, untuk menyanjung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9223,7 +9223,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "offender,criminal",
+  "meaning": "pelaku, penjahat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9234,7 +9234,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "resources",
+  "meaning": "sumber daya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9245,7 +9245,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to place on (something),to take on board,to give a ride",
+  "meaning": "untuk menempatkan pada (sesuatu), untuk mengambil kapal, untuk memberi tumpangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9256,7 +9256,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Belt for western clothes",
+  "meaning": "Sabuk untuk pakaian barat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9267,7 +9267,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to pass,to spend,to go through,to tide over",
+  "meaning": "untuk melewati, untuk menghabiskan, untuk melewati, untuk mengatasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9278,7 +9278,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pair,couple,set",
+  "meaning": "berpasangan, berpasangan, mengatur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9289,7 +9289,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the latter",
+  "meaning": "yang terakhir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9300,7 +9300,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "figure,shape,appearance",
+  "meaning": "sosok, bentuk, penampilan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9311,7 +9311,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "expenditure,expenses",
+  "meaning": "pengeluaran, biaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9322,7 +9322,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "reading",
+  "meaning": "membaca",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9333,7 +9333,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "frost",
+  "meaning": "embun beku",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9344,7 +9344,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to differ,to vary,to disagree",
+  "meaning": "berbeda, berbeda, tidak setuju",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9355,7 +9355,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "instance,example,case",
+  "meaning": "misalnya, contoh, kasus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9366,7 +9366,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) gold,(2) gold general (shogi) (abbr)",
+  "meaning": "(1) emas, (2) emas umum (shogi) (abbr)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9377,7 +9377,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "correspondence,communication,news,signal",
+  "meaning": "korespondensi, komunikasi, berita, sinyal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9388,7 +9388,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "practice,training",
+  "meaning": "latihan, pelatihan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9399,7 +9399,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "lately,recently,nowadays",
+  "meaning": "akhir-akhir ini, baru-baru ini, saat ini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9410,7 +9410,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "plan",
+  "meaning": "rencana",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9421,7 +9421,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "mountain-climbing",
+  "meaning": "pendakian gunung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9432,7 +9432,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "feeling refreshed,feeling relieved,neat,trimmed",
+  "meaning": "merasa segar, merasa lega, rapi, terpangkas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9443,7 +9443,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(hand) towel",
+  "meaning": "(tangan) handuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9454,7 +9454,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "state,country,nation",
+  "meaning": "negara bagian, negara, bangsa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9465,7 +9465,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "author,writer,novelist,artist",
+  "meaning": "penulis, penulis, novelis, artis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9476,7 +9476,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "of course,certainly,naturally",
+  "meaning": "tentu saja, tentu saja, tentu saja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9487,7 +9487,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bachelorhood,single,unmarried,celibate",
+  "meaning": "bujangan, lajang, belum menikah, selibat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9498,7 +9498,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "therefore",
+  "meaning": "Karena itu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9509,7 +9509,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "rest,break,recess,intermission",
+  "meaning": "istirahat, istirahat, istirahat, istirahat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9520,7 +9520,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) platform,(2) home",
+  "meaning": "(1) peron, (2) rumah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9531,7 +9531,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "adult",
+  "meaning": "dewasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9542,7 +9542,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "work,operation,manufacturing,fatigue duty",
+  "meaning": "pekerjaan, operasi, manufaktur, tugas kelelahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9553,7 +9553,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "voting,poll",
+  "meaning": "pemungutan suara, jajak pendapat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9564,7 +9564,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "meeting,assembly,party,association,club",
+  "meaning": "pertemuan, majelis, pesta, asosiasi, klub",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9575,7 +9575,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "world,society",
+  "meaning": "dunia, masyarakat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9586,7 +9586,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the end of,powder",
+  "meaning": "akhir, bubuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9597,7 +9597,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to shine,to glitter,to sparkle",
+  "meaning": "bersinar, berkilau, berkilau",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9608,7 +9608,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "energy,liveliness",
+  "meaning": "energi, keaktifan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9619,7 +9619,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "safe,vault,treasury,provider of funds",
+  "meaning": "brankas, brankas, perbendaharaan, penyedia dana",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9630,7 +9630,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "looking after,help,aid,assistance",
+  "meaning": "menjaga, membantu, membantu, membantu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9641,7 +9641,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "travel,trip,journey",
+  "meaning": "perjalanan, perjalanan, perjalanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9652,7 +9652,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "restriction,restraint,limitation",
+  "meaning": "pembatasan, pengekangan, pembatasan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9663,7 +9663,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to arise,to ascend,to go up",
+  "meaning": "untuk bangkit, untuk naik, untuk naik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9674,7 +9674,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "king",
+  "meaning": "raja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9685,7 +9685,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "yet,still,more,besides",
+  "meaning": "namun, masih, lebih dari itu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9696,7 +9696,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "article,news story,report,account",
+  "meaning": "artikel, berita, laporan, akun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9707,7 +9707,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "disorder,chaos,confusion,mayhem",
+  "meaning": "kekacauan, kekacauan, kebingungan, kekacauan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9718,7 +9718,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "salary,wages",
+  "meaning": "gaji, upah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9729,7 +9729,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "man",
+  "meaning": "pria",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9740,7 +9740,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "practice",
+  "meaning": "praktik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9751,7 +9751,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ice cream",
+  "meaning": "es krim",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9762,7 +9762,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) on the other hand,(2) meanwhile,(3) only,simple,in turn",
+  "meaning": "(1) sebaliknya, (2) sementara itu, (3) hanya, sederhana, pada gilirannya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9773,7 +9773,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "repairing,mending",
+  "meaning": "memperbaiki, memperbaiki",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9784,7 +9784,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "earth",
+  "meaning": "bumi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9795,7 +9795,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Christmas",
+  "meaning": "Natal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9806,7 +9806,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "chance of going out,opportunity (to succeed),moment of departure,beginning of work",
+  "meaning": "kesempatan untuk keluar,kesempatan (untuk sukses),saat keberangkatan,mulai bekerja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9817,7 +9817,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to express,to show,to reveal",
+  "meaning": "untuk mengungkapkan, untuk menunjukkan, untuk mengungkapkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9828,7 +9828,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "drive,trip by car,driving",
+  "meaning": "mengemudi, perjalanan dengan mobil, mengemudi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9839,7 +9839,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to like,to prefer",
+  "meaning": "untuk menyukai, untuk memilih",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9850,7 +9850,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to help,to save,to rescue",
+  "meaning": "untuk membantu, untuk menyelamatkan, untuk menyelamatkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9861,7 +9861,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "emotion(s),feeling(s),sentiment",
+  "meaning": "emosi, perasaan, sentimen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9872,7 +9872,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be drowned,to indulge in",
+  "meaning": "untuk ditenggelamkan, untuk dinikmati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9883,7 +9883,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(sl) to embrace,to hug,to harbour,to entertain",
+  "meaning": "(sl) memeluk, memeluk, berlabuh, menghibur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9894,7 +9894,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(fam) you (sing),presence (of a high personage)",
+  "meaning": "(fam) kamu (bernyanyi), kehadiran (tokoh tinggi)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9905,7 +9905,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "knowledge,information",
+  "meaning": "pengetahuan, informasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9916,7 +9916,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "association,union",
+  "meaning": "asosiasi, serikat pekerja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9927,7 +9927,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "capital city",
+  "meaning": "ibu kota",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9938,7 +9938,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "party (political)",
+  "meaning": "partai (politik)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9949,7 +9949,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "lecture,address",
+  "meaning": "kuliah, alamat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9960,7 +9960,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "direct,immediate,personal,firsthand",
+  "meaning": "langsung, segera, pribadi, langsung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9971,7 +9971,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) to breathe,(2) to tell (lies),(3) to vomit,to disgorge",
+  "meaning": "(1) bernapas, (2) berbohong, (3) muntah, memuntahkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9982,7 +9982,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "thunder",
+  "meaning": "guruh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -9993,7 +9993,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "favour,obligation,debt of gratitude",
+  "meaning": "bantuan, kewajiban, hutang budi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10004,7 +10004,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "place,situation,position,location",
+  "meaning": "tempat, situasi, posisi, lokasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10015,7 +10015,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "surplus,composure,margin,room,time,allowance,scope,rope",
+  "meaning": "surplus, ketenangan, margin, ruangan, waktu, tunjangan, ruang lingkup, tali",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10026,7 +10026,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to cover,to hide,to conceal,to wrap,to disguise",
+  "meaning": "untuk menutupi, untuk menyembunyikan, untuk menyembunyikan, untuk membungkus, untuk menyamarkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10037,7 +10037,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rate,ratio,proportion,percentage",
+  "meaning": "tarif, rasio, proporsi, persentase",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10048,7 +10048,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "consumption,expenditure",
+  "meaning": "konsumsi, pengeluaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10059,7 +10059,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mind,soul,heart,spirit,intention",
+  "meaning": "pikiran, jiwa, hati, semangat, niat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10070,7 +10070,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "tease,prank,trick,practical joke",
+  "meaning": "menggoda, lelucon, trik, lelucon praktis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10081,7 +10081,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to bark,to bay,to howl,to bellow,to roar,to cry",
+  "meaning": "untuk menggonggong, untuk teluk, untuk melolong, untuk melenguh, untuk mengaum, untuk menangis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10092,7 +10092,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "or,or else",
+  "meaning": "atau, atau yang lain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10103,7 +10103,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "help,helper,assistant",
+  "meaning": "bantuan, pembantu, asisten",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10114,7 +10114,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "from now on,hereafter",
+  "meaning": "mulai sekarang, akhirat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10125,7 +10125,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "atmosphere",
+  "meaning": "suasana",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10136,7 +10136,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "all,whole,entire,complete,overall,pan",
+  "meaning": "semua, keseluruhan, keseluruhan, lengkap, keseluruhan, panci",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10147,7 +10147,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "down-train (going away from Tokyo)",
+  "meaning": "down-train (berangkat dari Tokyo)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10158,7 +10158,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "handle,grip",
+  "meaning": "pegangan, pegangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10169,7 +10169,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "harvest,crop,ingathering",
+  "meaning": "memanen, memanen, mengumpulkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10180,7 +10180,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "opposition,resistance",
+  "meaning": "oposisi, perlawanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10191,7 +10191,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "reference,consultation",
+  "meaning": "referensi, konsultasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10213,7 +10213,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to hold in the mouth,to bear in mind",
+  "meaning": "untuk dipegang di mulut, untuk diingat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10224,7 +10224,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "provisions,rations",
+  "meaning": "ketentuan, ransum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10235,7 +10235,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "extent,scope,sphere,range",
+  "meaning": "luas, ruang lingkup, bola, jangkauan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10246,7 +10246,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to cease,to abolish,to resign,to give up",
+  "meaning": "untuk berhenti, untuk menghapuskan, untuk mengundurkan diri, untuk menyerah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10257,7 +10257,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "strange,unusual",
+  "meaning": "aneh, tidak biasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10268,7 +10268,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "a center",
+  "meaning": "sebuah pusat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10279,7 +10279,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "always,usually,every time,never (with neg. verb)",
+  "meaning": "selalu, biasanya, setiap saat, tidak pernah (dengan kata kerja neg.)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10290,7 +10290,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "counter for birds,counter for rabbits",
+  "meaning": "counter untuk burung, counter untuk kelinci",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10301,7 +10301,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to exert,to cause,to exercise",
+  "meaning": "untuk mengerahkan, menyebabkan, untuk berolahraga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10312,7 +10312,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to abate,to decrease,to diminish,to shorten",
+  "meaning": "untuk mereda, untuk mengurangi, untuk mengurangi, untuk memperpendek",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10323,7 +10323,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "intimate,close (e.g. friend)",
+  "meaning": "intim, dekat (misalnya teman)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10334,7 +10334,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "smiling face",
+  "meaning": "wajah tersenyum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10345,7 +10345,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "intelligence,brains",
+  "meaning": "kecerdasan, otak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10356,7 +10356,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to retire",
+  "meaning": "untuk pensiun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10367,7 +10367,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "cooperation,collaboration",
+  "meaning": "kerjasama, kolaborasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10378,7 +10378,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "camp",
+  "meaning": "kamp",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10389,7 +10389,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) chapter,section,(2) medal",
+  "meaning": "(1) bab, bagian, (2) medali",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10411,7 +10411,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "group,mass",
+  "meaning": "kelompok, massal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10422,7 +10422,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "day after tomorrow",
+  "meaning": "besok lusa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10433,7 +10433,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "single word",
+  "meaning": "satu kata",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10444,7 +10444,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cavity,tooth decay,decayed tooth,caries",
+  "meaning": "gigi berlubang, kerusakan gigi, gigi busuk, karies",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10455,7 +10455,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "settlement,solution,resolution",
+  "meaning": "penyelesaian, solusi, resolusi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10466,7 +10466,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "monkey",
+  "meaning": "monyet",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10477,7 +10477,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tower,pagoda",
+  "meaning": "menara, pagoda",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10488,7 +10488,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to draw,to paint,to sketch,to depict,to describe",
+  "meaning": "menggambar, melukis, membuat sketsa, menggambarkan, mendeskripsikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10499,7 +10499,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bottom,sole",
+  "meaning": "bawah, sol",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10510,7 +10510,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "stomach",
+  "meaning": "perut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10521,7 +10521,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wrong,bad,improper,unjustifiable,inadvisable",
+  "meaning": "salah, buruk, tidak pantas, tidak dapat dibenarkan, tidak disarankan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10532,7 +10532,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "chairman",
+  "meaning": "ketua",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10543,7 +10543,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "broadcast,broadcasting",
+  "meaning": "siaran, penyiaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10554,7 +10554,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "preparation",
+  "meaning": "persiapan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10565,7 +10565,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "manners,etiquette,propriety",
+  "meaning": "sopan santun, etiket, kesopanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10576,7 +10576,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "twins,a twin",
+  "meaning": "kembar, kembar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10598,7 +10598,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "zeal,enthusiasm",
+  "meaning": "semangat, antusiasme",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10609,7 +10609,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to earn income,to labor",
+  "meaning": "untuk memperoleh penghasilan, untuk bekerja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10620,7 +10620,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "condition,state,business (condition)",
+  "meaning": "kondisi, negara bagian, bisnis (kondisi)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10631,7 +10631,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "more or less,somewhat,a little,some",
+  "meaning": "kurang lebih,agak,sedikit,beberapa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10642,7 +10642,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to lose,to part with",
+  "meaning": "untuk kalah, untuk berpisah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10653,7 +10653,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ice,hail",
+  "meaning": "es, hujan es",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10664,7 +10664,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "raw food",
+  "meaning": "makanan mentah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10675,7 +10675,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "death,mortality",
+  "meaning": "kematian, kematian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10686,7 +10686,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "report,paper",
+  "meaning": "laporan, kertas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10697,7 +10697,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to send,to give to,to award to,to confer on",
+  "meaning": "untuk mengirim, memberi, memberi penghargaan, berunding",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10708,7 +10708,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "commodity,article of commerce,goods,stock,merchandise",
+  "meaning": "komoditas, barang dagangan, barang, stok, barang dagangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10719,7 +10719,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "therefore,consequently,in accordance with",
+  "meaning": "oleh karena itu, sebagai konsekuensinya, sesuai dengan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10730,7 +10730,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nothing",
+  "meaning": "Tidak ada apa-apa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10741,7 +10741,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tendency,trend,inclination",
+  "meaning": "kecenderungan, kecenderungan, kecenderungan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10752,7 +10752,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "calculation,reckoning",
+  "meaning": "perhitungan, perhitungan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10763,7 +10763,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "present,souvenir",
+  "meaning": "hadiah, suvenir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10774,7 +10774,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "subject,contents,matter,substance,detail,import",
+  "meaning": "subjek,isi,materi,substansi,detail,impor",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10785,7 +10785,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tiger",
+  "meaning": "harimau",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10796,7 +10796,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "in accordance with ~,following ~,~ Street,~ Avenue",
+  "meaning": "sesuai dengan ~,mengikuti ~,~ Jalan,~ Jalan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10807,7 +10807,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "awful,dreadful,terrible,very",
+  "meaning": "mengerikan, mengerikan, mengerikan, sangat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10818,7 +10818,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "moon,month",
+  "meaning": "bulan, bulan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10829,7 +10829,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "devil,demon,evil spirit",
+  "meaning": "setan, setan, roh jahat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10840,7 +10840,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "but (still),and yet,nevertheless,even so,notwithstanding",
+  "meaning": "namun (masih), namun, meskipun demikian, meskipun demikian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10851,7 +10851,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "railroad",
+  "meaning": "jalan kereta api",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10862,7 +10862,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "if",
+  "meaning": "jika",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10873,7 +10873,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "perfectly,properly,exactly",
+  "meaning": "dengan sempurna, benar, tepat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10884,7 +10884,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sun,sunshine,day",
+  "meaning": "matahari, sinar matahari, siang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10895,7 +10895,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "contribution,services",
+  "meaning": "kontribusi, layanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10906,7 +10906,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "absorption,suction,attraction",
+  "meaning": "penyerapan, hisapan, tarikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10917,7 +10917,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "noise",
+  "meaning": "kebisingan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10928,7 +10928,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tradition,convention",
+  "meaning": "tradisi, konvensi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10939,7 +10939,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "make-up (cosmetic)",
+  "meaning": "tata rias (kosmetik)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10950,7 +10950,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "well,properly,suitably,best regards,please remember me",
+  "meaning": "baik, benar, pantas, salam, harap ingat saya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10961,7 +10961,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "by all means,everything",
+  "meaning": "tentu saja, segalanya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10972,7 +10972,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to divide,to cut,to break,to halve",
+  "meaning": "untuk membagi, untuk memotong, untuk istirahat, untuk membagi dua",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10983,7 +10983,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "increasingly,more and more",
+  "meaning": "semakin, semakin banyak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -10994,7 +10994,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "genuine article",
+  "meaning": "artikel asli",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11005,7 +11005,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "origin,beginning",
+  "meaning": "asal, permulaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11016,7 +11016,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "increase,addition",
+  "meaning": "peningkatan, penambahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11027,7 +11027,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "business,office work",
+  "meaning": "Bisnis, pekerjaan kantor",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11038,7 +11038,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pastry",
+  "meaning": "kue kering",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11049,7 +11049,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "at any time,soon",
+  "meaning": "kapan saja, segera",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11060,7 +11060,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the aged,old person",
+  "meaning": "orang tua, orang tua",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11071,7 +11071,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "operation,motion,driving",
+  "meaning": "operasi, gerak, mengemudi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11082,7 +11082,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "emergency,extraordinary,unusual",
+  "meaning": "darurat, luar biasa, tidak biasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11093,7 +11093,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "round,circular,spherical",
+  "meaning": "bulat, melingkar, bulat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11104,7 +11104,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to take (e.g. time, money, etc),to hang",
+  "meaning": "untuk mengambil (misalnya waktu, uang, dll), untuk digantung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11115,7 +11115,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "other (esp. places and things)",
+  "meaning": "lainnya (khususnya tempat dan benda)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11126,7 +11126,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "surface,outside,face,appearance",
+  "meaning": "permukaan, luar, wajah, penampilan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11137,7 +11137,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "automatic,self-motion",
+  "meaning": "otomatis, gerak sendiri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11148,7 +11148,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "valley",
+  "meaning": "lembah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11159,7 +11159,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sweat,perspiration",
+  "meaning": "keringat, keringat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11170,7 +11170,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "stand",
+  "meaning": "berdiri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11181,7 +11181,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "report,information",
+  "meaning": "laporan, informasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11192,7 +11192,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mark,objective,target",
+  "meaning": "tandai, tujuan, target",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11203,7 +11203,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to tie,to fasten,to connect,to transfer (phone call)",
+  "meaning": "untuk mengikat, mengencangkan, menyambung, mentransfer (panggilan telepon)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11214,7 +11214,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "comfort,ease",
+  "meaning": "kenyamanan, kemudahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11225,7 +11225,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) a (photo)copy,(2) blurb on a book jacket",
+  "meaning": "(1) salinan (foto), (2) uraian singkat pada jaket buku",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11236,7 +11236,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to jump out,to rush out,to fly out",
+  "meaning": "untuk melompat keluar, bergegas keluar, terbang keluar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11247,7 +11247,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "delicious",
+  "meaning": "lezat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11258,7 +11258,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "surgical operation",
+  "meaning": "operasi bedah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11269,7 +11269,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be,to have",
+  "meaning": "menjadi, memiliki",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11280,7 +11280,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "society,the world,the times",
+  "meaning": "masyarakat, dunia, waktu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11291,7 +11291,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "break-down,failure,accident,out of order",
+  "meaning": "kerusakan, kegagalan, kecelakaan, rusak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11302,7 +11302,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rapid (e.g. progress)",
+  "meaning": "cepat (misalnya kemajuan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11313,7 +11313,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "reading",
+  "meaning": "membaca",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11324,7 +11324,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "picture",
+  "meaning": "gambar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11335,7 +11335,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wave",
+  "meaning": "melambai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11346,7 +11346,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "damage,injury,loss",
+  "meaning": "kerusakan, cedera, kehilangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11357,7 +11357,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "lovely,sweet",
+  "meaning": "indah, manis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11368,7 +11368,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pleasant,agreeable,comfortable",
+  "meaning": "menyenangkan, menyenangkan, nyaman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11379,7 +11379,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "unit,denomination,credit (in school)",
+  "meaning": "satuan, denominasi, kredit (di sekolah)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11390,7 +11390,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "settlement,conclusion,regulation,rule",
+  "meaning": "penyelesaian, kesimpulan, peraturan, aturan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11401,7 +11401,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cause,reason,fault",
+  "meaning": "penyebab, alasan, kesalahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11412,7 +11412,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "grain,cereal,corn",
+  "meaning": "gandum, sereal, jagung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11423,7 +11423,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "common sense",
+  "meaning": "kewajaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11434,7 +11434,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "leadership,guidance,coaching",
+  "meaning": "kepemimpinan, bimbingan, pembinaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11445,7 +11445,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "language,word",
+  "meaning": "bahasa, kata",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11456,7 +11456,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "inside,middle,among",
+  "meaning": "di dalam, di tengah, di antara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11467,7 +11467,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mistake",
+  "meaning": "kesalahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11478,7 +11478,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to desire,to wish for,to see,to command (a view of)",
+  "meaning": "menginginkan, mengharapkan, melihat, memerintahkan (pandangan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11489,7 +11489,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "profits,gains,(political, economic) interest",
+  "meaning": "keuntungan, keuntungan, kepentingan (politik, ekonomi).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11500,7 +11500,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "how,how much",
+  "meaning": "bagaimana, berapa banyak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11511,7 +11511,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "hip",
+  "meaning": "panggul",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11522,7 +11522,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to sue (a person),to resort to,to appeal to",
+  "meaning": "untuk menuntut (seseorang), untuk menggunakan, untuk mengajukan banding",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11533,7 +11533,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "again,and",
+  "meaning": "lagi, dan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11544,7 +11544,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(male) (vulg) to eat",
+  "meaning": "(laki-laki) (vulg) untuk makan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11566,7 +11566,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "all,altogether,entirely,be just like,the splitting image of",
+  "meaning": "semuanya, secara keseluruhan, seluruhnya, menjadi seperti, gambaran yang membelah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11577,7 +11577,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "issue (publications)",
+  "meaning": "terbitan (publikasi)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11588,7 +11588,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "success,hit",
+  "meaning": "sukses, pukul",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11599,7 +11599,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "present condition,existing state,status quo",
+  "meaning": "kondisi sekarang, keadaan saat ini, status quo",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11610,7 +11610,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cousin (male)",
+  "meaning": "sepupu (laki-laki)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11621,7 +11621,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sound asleep,fast asleep",
+  "meaning": "tertidur lelap, tertidur pulas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11632,7 +11632,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "a brake",
+  "meaning": "sebuah rem",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11643,7 +11643,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "however",
+  "meaning": "Namun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11654,7 +11654,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "study,diligence,discount,reduction",
+  "meaning": "belajar, ketekunan, diskon, pengurangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11665,7 +11665,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "human being,man,person",
+  "meaning": "manusia, manusia, pribadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11676,7 +11676,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to rot,to go bad",
+  "meaning": "membusuk, menjadi buruk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11687,7 +11687,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "actress",
+  "meaning": "aktris",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11698,7 +11698,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "captain",
+  "meaning": "kapten",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11709,7 +11709,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) pipe,tube,(2) channels, official or otherwise",
+  "meaning": "(1) pipa, tabung, (2) saluran, resmi atau lainnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11720,7 +11720,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nature,spontaneity",
+  "meaning": "alam, spontanitas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11731,7 +11731,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "seven",
+  "meaning": "tujuh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11742,7 +11742,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "warning,advice",
+  "meaning": "peringatan, saran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11753,7 +11753,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to believe,to place trust in",
+  "meaning": "untuk percaya, untuk menaruh kepercayaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11764,7 +11764,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "serial,consecutive,continuity,continuing",
+  "meaning": "serial, berturut-turut, kontinuitas, berkelanjutan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11786,7 +11786,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "reality",
+  "meaning": "realitas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11797,7 +11797,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "agriculture",
+  "meaning": "pertanian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11808,7 +11808,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cash,ready money,mercenary,self-interested",
+  "meaning": "uang tunai, uang siap pakai, tentara bayaran, kepentingan pribadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11819,7 +11819,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "change,modification,alteration",
+  "meaning": "perubahan, modifikasi, pengubahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11830,7 +11830,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "fashionable,fad,in vogue,prevailing",
+  "meaning": "modis, iseng, sedang digemari, berlaku",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11841,7 +11841,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "books",
+  "meaning": "buku",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11852,7 +11852,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "management,administration",
+  "meaning": "manajemen, administrasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11863,7 +11863,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "representative,representation,delegation,type,example,model",
+  "meaning": "perwakilan, representasi, delegasi, jenis, contoh, model",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11874,7 +11874,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to dawn,to become daylight",
+  "meaning": "hingga fajar, menjadi siang hari",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11885,7 +11885,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "walk,stroll",
+  "meaning": "berjalan, berjalan-jalan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11896,7 +11896,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "serious",
+  "meaning": "serius",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11907,7 +11907,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to view,to gaze at",
+  "meaning": "untuk melihat, untuk menatap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11918,7 +11918,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "relative",
+  "meaning": "relatif",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11929,7 +11929,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "National Diet,parliament,congress",
+  "meaning": "Diet Nasional, parlemen, kongres",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11940,7 +11940,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "band (e.g. conduction, valence)",
+  "meaning": "pita (misalnya konduksi, valensi)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11951,7 +11951,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "birth",
+  "meaning": "kelahiran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11962,7 +11962,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "participation",
+  "meaning": "partisipasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11973,7 +11973,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to append,to sum up,to add (up)",
+  "meaning": "untuk menambahkan, untuk menyimpulkan, untuk menambahkan (up)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11984,7 +11984,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to study (in depth),to learn,to take lessons in",
+  "meaning": "untuk belajar (secara mendalam), untuk belajar, untuk mengambil pelajaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -11995,7 +11995,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "by no means",
+  "meaning": "sama sekali tidak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12006,7 +12006,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to overtake,to catch up (with)",
+  "meaning": "untuk menyalip, untuk mengejar (dengan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12017,7 +12017,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be hit,to be successful,to be equivalent to",
+  "meaning": "untuk dipukul, untuk menjadi sukses, untuk menjadi setara dengan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12028,7 +12028,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "dawn,daybreak",
+  "meaning": "fajar, fajar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12039,7 +12039,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "relation,connection,relevance",
+  "meaning": "hubungan, koneksi, relevansi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12050,7 +12050,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "turn (in line),order of things",
+  "meaning": "belok (berbaris),urutan hal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12061,7 +12061,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to scold",
+  "meaning": "untuk memarahi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12072,7 +12072,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "calm,gentle,quiet",
+  "meaning": "tenang, lembut, tenang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12083,7 +12083,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bullet,shot,shell",
+  "meaning": "peluru, tembakan, cangkang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12094,7 +12094,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "religion",
+  "meaning": "agama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12105,7 +12105,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) complete,completion,(2) perfection,accomplishment",
+  "meaning": "(1) lengkap, penyelesaian, (2) kesempurnaan, pencapaian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12116,7 +12116,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mutual,reciprocal,each other",
+  "meaning": "saling, timbal balik, satu sama lain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12127,7 +12127,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "equal",
+  "meaning": "setara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12138,7 +12138,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "lawn",
+  "meaning": "halaman rumput",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12149,7 +12149,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "degree,amount,grade,standard,of the order of (following a number)",
+  "meaning": "derajat, jumlah, kelas, standar, urutan (mengikuti angka)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12160,7 +12160,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "since,henceforth",
+  "meaning": "sejak itu, untuk selanjutnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12171,7 +12171,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tomorrow",
+  "meaning": "besok",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12182,7 +12182,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "branch store (office)",
+  "meaning": "toko cabang (kantor)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12193,7 +12193,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "respect,esteem,regard",
+  "meaning": "rasa hormat, harga diri, rasa hormat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12204,7 +12204,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "step,stair,flight of steps,grade,rank,level",
+  "meaning": "langkah, tangga, tangga, kelas, pangkat, level",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12215,7 +12215,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "government,administration",
+  "meaning": "pemerintahan, administrasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12226,7 +12226,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "delivery,distribution",
+  "meaning": "pengiriman, distribusi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12237,7 +12237,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "robbery,burglary",
+  "meaning": "perampokan, perampokan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12248,7 +12248,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "parking (e.g. car)",
+  "meaning": "parkir (misalnya mobil)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12259,7 +12259,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "plum,plum-tree,lowest (of a three-tier ranking system)",
+  "meaning": "plum,pohon plum,terendah (dari sistem peringkat tiga tingkat)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12270,7 +12270,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "no,the noes",
+  "meaning": "tidak, tidak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12281,7 +12281,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "out",
+  "meaning": "keluar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12292,7 +12292,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "trouble,burden,care,bother",
+  "meaning": "masalah, beban, perhatian, repot",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12303,7 +12303,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cough",
+  "meaning": "batuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12314,7 +12314,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "person",
+  "meaning": "orang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12325,7 +12325,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "persons,this and that,here and there,everywhere",
+  "meaning": "orang, ini dan itu, di sini dan di sana, dimana saja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12336,7 +12336,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "national language",
+  "meaning": "bahasa nasional",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12347,7 +12347,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ability,faculty",
+  "meaning": "kemampuan, fakultas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12358,7 +12358,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "capital",
+  "meaning": "modal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12369,7 +12369,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "rule,control,direction",
+  "meaning": "aturan, kendali, arah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12380,7 +12380,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ingredients,material",
+  "meaning": "bahan, bahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12391,7 +12391,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to wake,to wake up",
+  "meaning": "untuk bangun, untuk bangun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12402,7 +12402,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "very,considerably,easily",
+  "meaning": "dengan sangat, sangat, mudah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12413,7 +12413,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "master,expert",
+  "meaning": "tuan, ahli",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12424,7 +12424,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sky",
+  "meaning": "langit",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12435,7 +12435,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "only,merely,a little,small quantity",
+  "meaning": "hanya, sekedar, sedikit, jumlah kecil",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12446,7 +12446,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "wise,clever,smart",
+  "meaning": "bijaksana, pintar, pintar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12457,7 +12457,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "painter,artist",
+  "meaning": "pelukis, artis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12468,7 +12468,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to seize,to catch,to grasp",
+  "meaning": "untuk merebut, untuk menangkap, untuk memahami",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12479,7 +12479,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "all,everyone,everybody",
+  "meaning": "semuanya, semuanya, semuanya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12490,7 +12490,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "shade,shadow,other side",
+  "meaning": "naungan, bayangan, sisi lain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12501,7 +12501,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "with a clash (thud),with a bang,plump,flop",
+  "meaning": "dengan benturan (bunyi), dengan keras, montok, gagal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12512,7 +12512,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(conj,exp,int) Thank you",
+  "meaning": "(konj,exp,int) Terima kasih",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12523,7 +12523,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "being deeply moved,excitement,impression,deep emotion",
+  "meaning": "menjadi sangat tersentuh, kegembiraan, kesan, emosi yang mendalam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12534,7 +12534,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "present,up to now,nowadays,modern times,current",
+  "meaning": "sekarang, hingga saat ini, saat ini, zaman modern, terkini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12545,7 +12545,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "roof",
+  "meaning": "atap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12556,7 +12556,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to turn over,to assign,to hand over",
+  "meaning": "untuk menyerahkan, untuk menugaskan, untuk menyerahkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12567,7 +12567,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "weather",
+  "meaning": "cuaca",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12578,7 +12578,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "pride,boast",
+  "meaning": "kebanggaan, menyombongkan diri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12589,7 +12589,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "unemployment",
+  "meaning": "pengangguran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12600,7 +12600,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "great war,great battle",
+  "meaning": "perang hebat, pertempuran hebat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12611,7 +12611,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to protect,to obey,to guard,to abide (by the rules)",
+  "meaning": "untuk melindungi, untuk mematuhi, untuk menjaga, untuk mematuhi (dengan aturan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12622,7 +12622,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "value,worth,merit",
+  "meaning": "nilai, nilai, pahala",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12633,7 +12633,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "gathering,meeting,assembly,collection",
+  "meaning": "pengumpulan, pertemuan, perakitan, koleksi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12644,7 +12644,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "these",
+  "meaning": "ini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12655,7 +12655,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "terrible,dreadful,terrific,amazing,great",
+  "meaning": "mengerikan, mengerikan, hebat, menakjubkan, hebat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12666,7 +12666,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ambassador",
+  "meaning": "duta besar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12677,7 +12677,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "analysis",
+  "meaning": "analisa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12688,7 +12688,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the other day,a few days ago",
+  "meaning": "tempo hari, beberapa hari yang lalu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12699,7 +12699,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tragedy",
+  "meaning": "tragedi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12710,7 +12710,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) to appear,to come in sight,to become visible,(2) to express oneself",
+  "meaning": "(1) tampil, terlihat, terlihat, (2) mengekspresikan diri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12732,7 +12732,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "friendship,fellowship",
+  "meaning": "persahabatan, persahabatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12743,7 +12743,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mud",
+  "meaning": "lumpur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12754,7 +12754,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sword,saber,knife,engraving tool",
+  "meaning": "pedang, pedang, pisau, alat ukiran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12765,7 +12765,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "topic,subject",
+  "meaning": "topik, subjek",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12776,7 +12776,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "passage through,passing",
+  "meaning": "melewati, melewati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12787,7 +12787,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rarely (with neg. verb),seldom",
+  "meaning": "jarang (dengan kata kerja neg.),jarang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12798,7 +12798,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "counter for occurrences",
+  "meaning": "counter untuk kejadian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12809,7 +12809,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "hope,wish,aspiration",
+  "meaning": "harapan, keinginan, aspirasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12820,7 +12820,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "aspect,state,appearance",
+  "meaning": "aspek, keadaan, penampilan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12831,7 +12831,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to go over (e.g. with audience)",
+  "meaning": "untuk pergi (misalnya dengan penonton)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12842,7 +12842,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "chance,opportunity",
+  "meaning": "kesempatan, peluang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12853,7 +12853,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "company,friendship,association,society,acquaintance",
+  "meaning": "perusahaan, persahabatan, asosiasi, masyarakat, kenalan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12864,7 +12864,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to apply for,to make an application",
+  "meaning": "untuk melamar, untuk membuat aplikasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12875,7 +12875,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "degree,extent,bounds,limit",
+  "meaning": "derajat, luas, batas, batas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12886,7 +12886,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "relief,aid,rescue",
+  "meaning": "bantuan, bantuan, penyelamatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12897,7 +12897,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "new,fresh,novel",
+  "meaning": "baru, segar, baru",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12908,7 +12908,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "train (ordinary)",
+  "meaning": "kereta api (biasa)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12919,7 +12919,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "a species,a kind,a variety",
+  "meaning": "suatu spesies, suatu jenis, suatu keanekaragaman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12930,7 +12930,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "thinking,thought,ideas,intention",
+  "meaning": "berpikir,pikiran,ide,niat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12941,7 +12941,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "trade,business,commerce,transaction,occupation",
+  "meaning": "perdagangan, bisnis, perdagangan, transaksi, pekerjaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12952,7 +12952,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "absence,non-attendance",
+  "meaning": "ketidakhadiran, ketidakhadiran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12963,7 +12963,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "absolute,unconditional,absoluteness",
+  "meaning": "mutlak, tanpa syarat, kemutlakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12974,7 +12974,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "farmer,farm family",
+  "meaning": "petani, keluarga petani",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12985,7 +12985,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "how many?,how old?",
+  "meaning": "berapa banyak?, berapa umurnya?",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -12996,7 +12996,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "traffic lights,signal,semaphore",
+  "meaning": "lampu lalu lintas, sinyal, semaphore",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13007,7 +13007,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to attach,to join,to add,to append",
+  "meaning": "untuk melampirkan, untuk bergabung, untuk menambahkan, untuk menambahkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13018,7 +13018,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "and",
+  "meaning": "Dan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13029,7 +13029,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "absent-minded,block-head,dim,faint,vague",
+  "meaning": "linglung, bodoh, redup, pingsan, tidak jelas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13040,7 +13040,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "skiing",
+  "meaning": "bermain ski",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13051,7 +13051,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "painful,heart-breaking",
+  "meaning": "menyakitkan, menyayat hati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13062,7 +13062,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "life,existence",
+  "meaning": "hidup, keberadaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13073,7 +13073,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to mind,to care about,to be concerned about",
+  "meaning": "untuk dipikirkan, untuk dipedulikan, untuk dikhawatirkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13084,7 +13084,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "exchange,interchange,reciprocity",
+  "meaning": "pertukaran, pertukaran, timbal balik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13095,7 +13095,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "prefectural governor",
+  "meaning": "gubernur prefektur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13106,7 +13106,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "also,as I thought,still,in spite of,absolutely,of course",
+  "meaning": "juga, seperti dugaanku, tetap saja, meskipun, tentu saja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13117,7 +13117,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to advance,to promote,to hasten",
+  "meaning": "untuk memajukan, untuk mempromosikan, untuk mempercepat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13128,7 +13128,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "explosion,detonation,eruption",
+  "meaning": "ledakan, detonasi, letusan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13139,7 +13139,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "poor,pitiable,pathetic",
+  "meaning": "miskin, menyedihkan, menyedihkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13150,7 +13150,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to cross (e.g. arms),to traverse",
+  "meaning": "untuk menyilangkan (misalnya lengan), untuk melintasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13161,7 +13161,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "injury,harm,evil influence,damage",
+  "meaning": "cedera, bahaya, pengaruh jahat, kerusakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13172,7 +13172,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "suicide",
+  "meaning": "bunuh diri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13183,7 +13183,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) truck,(2) (running) track",
+  "meaning": "(1) truk, (2) lintasan (berlari).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13194,7 +13194,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "consent,acceptance,assent,admitting",
+  "meaning": "persetujuan, penerimaan, persetujuan, pengakuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13205,7 +13205,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "universe,cosmos,space",
+  "meaning": "alam semesta, kosmos, ruang angkasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13216,7 +13216,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pertinent,appropriate,adequate,relevance",
+  "meaning": "relevan, sesuai, memadai, relevansi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13227,7 +13227,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) dyer,(2) diagram,(3) (railway) schedule,(4) diamond",
+  "meaning": "(1) pewarna, (2) diagram, (3) jadwal (kereta api), (4) berlian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13238,7 +13238,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "control,management (e.g. of a business)",
+  "meaning": "kontrol, manajemen (misalnya bisnis)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13249,7 +13249,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "abundant,wealthy,plentiful,rich",
+  "meaning": "berlimpah, kaya, berlimpah, kaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13260,7 +13260,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "game,match,contest",
+  "meaning": "permainan, pertandingan, kontes",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13271,7 +13271,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "plan,design",
+  "meaning": "rencana, desain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13282,7 +13282,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "pollution,contamination",
+  "meaning": "polusi, kontaminasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13293,7 +13293,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tune,tone,key",
+  "meaning": "nada, nada, kunci",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13304,7 +13304,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "considerably,fairly,quite",
+  "meaning": "cukup, cukup, cukup",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13315,7 +13315,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "foreign,abroad,overseas",
+  "meaning": "asing, luar negeri, luar negeri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13326,7 +13326,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "stability,equilibrium",
+  "meaning": "stabilitas, keseimbangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13337,7 +13337,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "it,that",
+  "meaning": "itu, itu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13348,7 +13348,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "tight,close,intense",
+  "meaning": "ketat, dekat, intens",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13370,7 +13370,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "defeat,loss,losing (a game)",
+  "meaning": "kekalahan, kekalahan, kekalahan (permainan)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13381,7 +13381,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "stream,current",
+  "meaning": "aliran, arus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13392,7 +13392,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "valuation,estimation,assessment,evaluation",
+  "meaning": "penilaian, estimasi, penilaian, evaluasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13403,7 +13403,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "constitution",
+  "meaning": "konstitusi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13414,7 +13414,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "theatre,playhouse",
+  "meaning": "teater, rumah bermain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13425,7 +13425,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "work,labor",
+  "meaning": "kerja, buruh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13436,7 +13436,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bus or tram stop",
+  "meaning": "halte bus atau trem",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13447,7 +13447,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bone",
+  "meaning": "tulang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13458,7 +13458,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "Congratulations!,an auspicious occasion!",
+  "meaning": "Selamat!, kesempatan yang baik!",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13469,7 +13469,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) to open,to become empty,(2) to be less crowded",
+  "meaning": "(1) terbuka, menjadi kosong, (2) menjadi kurang ramai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13480,7 +13480,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "member",
+  "meaning": "anggota",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13491,7 +13491,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "a habit (often a bad habit),peculiarity",
+  "meaning": "sebuah kebiasaan (seringkali merupakan kebiasaan buruk),kekhasan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13502,7 +13502,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "poem,verse of poetry",
+  "meaning": "puisi, sajak puisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13513,7 +13513,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to feel,to sense,to experience",
+  "meaning": "merasakan, merasakan, mengalami",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13524,7 +13524,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "upper,outer,surface",
+  "meaning": "atas, luar, permukaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13535,7 +13535,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "where,which,who",
+  "meaning": "dimana, yang mana, siapa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13546,7 +13546,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "preservation,conservation,storage,maintenance",
+  "meaning": "pelestarian, konservasi, penyimpanan, pemeliharaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13557,7 +13557,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "here and there",
+  "meaning": "di sana-sini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13568,7 +13568,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "moderate",
+  "meaning": "sedang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13579,7 +13579,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "crossing",
+  "meaning": "persimpangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13590,7 +13590,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "must not do,bad,wrong,not good",
+  "meaning": "tidak boleh melakukan, buruk, salah, tidak baik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13601,7 +13601,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cloth",
+  "meaning": "kain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13612,7 +13612,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "evening",
+  "meaning": "malam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13623,7 +13623,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "major subject,special study",
+  "meaning": "mata pelajaran utama, studi khusus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13634,7 +13634,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "examination paper,examination script",
+  "meaning": "kertas ujian, naskah ujian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13645,7 +13645,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "contribution,donation",
+  "meaning": "kontribusi, sumbangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13656,7 +13656,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "circle,money",
+  "meaning": "lingkaran, uang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13667,7 +13667,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to suffer from",
+  "meaning": "untuk menderita",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13689,7 +13689,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "official,duty,person in charge",
+  "meaning": "pejabat, tugas, penanggung jawab",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13700,7 +13700,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "even number,couple,man and wife,friend",
+  "meaning": "bilangan genap,pasangan,pria dan istri,teman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13711,7 +13711,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "coach",
+  "meaning": "pelatih",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13722,7 +13722,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "inspection (e.g. customs, factory),examination",
+  "meaning": "inspeksi (misalnya bea cukai, pabrik), pemeriksaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13733,7 +13733,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "grade,rank,about",
+  "meaning": "kelas, pangkat, tentang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13744,7 +13744,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to abide (by the rules),to obey,to follow,to accompany",
+  "meaning": "untuk mematuhi (menurut aturan), untuk mematuhi, untuk mengikuti, untuk menemani",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13755,7 +13755,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "maintenance,preservation",
+  "meaning": "pemeliharaan, pelestarian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13766,7 +13766,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "shade,shadow,other side",
+  "meaning": "naungan, bayangan, sisi lain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13777,7 +13777,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "economising,saving",
+  "meaning": "menghemat, menabung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13788,7 +13788,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "scene,spectacle",
+  "meaning": "adegan, tontonan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13799,7 +13799,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "another person,unrelated person,outsider,stranger",
+  "meaning": "orang lain, orang yang tidak berhubungan, orang luar, orang asing",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13810,7 +13810,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "celebration,festival",
+  "meaning": "perayaan, festival",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13821,7 +13821,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "housewife,mistress",
+  "meaning": "ibu rumah tangga, nyonya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13832,7 +13832,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "unintentional,spontaneous",
+  "meaning": "tidak disengaja, spontan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13843,7 +13843,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to remove,to transfer,to infect",
+  "meaning": "untuk menghapus, untuk mentransfer, untuk menginfeksi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13854,7 +13854,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "organization,association",
+  "meaning": "organisasi, asosiasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13865,7 +13865,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ordinary,regular,everyday,usual",
+  "meaning": "biasa, biasa, sehari-hari, biasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13876,7 +13876,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "foundation,basis,standard",
+  "meaning": "landasan, dasar, standar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13887,7 +13887,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "enemy,rival",
+  "meaning": "musuh, saingan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13898,7 +13898,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to finish,to close,to do something completely",
+  "meaning": "untuk menyelesaikan, menutup, melakukan sesuatu sepenuhnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13909,7 +13909,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "hello,good day (daytime greeting, id)",
+  "meaning": "halo, selamat siang (sapaan siang hari, id)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13920,7 +13920,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "in short,in brief,in other words",
+  "meaning": "singkatnya, singkatnya, dengan kata lain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13931,7 +13931,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "goal",
+  "meaning": "sasaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13942,7 +13942,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "manufactured goods,finished goods",
+  "meaning": "barang jadi, barang jadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13953,7 +13953,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "information,guidance,leading",
+  "meaning": "informasi, bimbingan, memimpin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13964,7 +13964,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "electron",
+  "meaning": "elektron",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13975,7 +13975,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "each,every,either,respectively,severally",
+  "meaning": "masing-masing, setiap, masing-masing, beberapa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13986,7 +13986,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "magnification,enlargement",
+  "meaning": "pembesaran, pembesaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -13997,7 +13997,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "anyhow,at any rate,anyway,somehow or other,generally speaking,in any case",
+  "meaning": "bagaimanapun juga, bagaimanapun juga, bagaimanapun juga, entah bagaimana atau lainnya, secara umum, dalam hal apapun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14008,7 +14008,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) coincidence,agreement,(2) conformity",
+  "meaning": "(1) kebetulan, kesepakatan, (2) kesesuaian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14019,7 +14019,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "somewhere,anywhere",
+  "meaning": "di suatu tempat, di mana saja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14030,7 +14030,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) knock,(2) fungo (baseball)",
+  "meaning": "(1) ketukan, (2) fungo (bisbol)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14041,7 +14041,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "iron",
+  "meaning": "besi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14052,7 +14052,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tax,duty",
+  "meaning": "pajak, bea",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14063,7 +14063,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "four",
+  "meaning": "empat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14074,7 +14074,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "herculean strength,mountain carrier-guide",
+  "meaning": "kekuatan raksasa, pemandu pembawa gunung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14085,7 +14085,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "phenomenon",
+  "meaning": "gejala",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14096,7 +14096,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to punish,to penalize",
+  "meaning": "untuk menghukum, untuk menghukum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14107,7 +14107,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "claim,request,insistence,assertion",
+  "meaning": "klaim, permintaan, desakan, penegasan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14118,7 +14118,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sound,note",
+  "meaning": "suara, catatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14129,7 +14129,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to run somebody over (with vehicle),to knock someone down",
+  "meaning": "untuk menabrak seseorang (dengan kendaraan), untuk menjatuhkan seseorang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14140,7 +14140,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "hut,cabin,shed,(animal) pen",
+  "meaning": "gubuk, kabin, gudang, kandang (hewan).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14151,7 +14151,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "individual,private person,personal,private",
+  "meaning": "individu, orang pribadi, pribadi, pribadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14162,7 +14162,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "poor (at),weak (in),dislike (of)",
+  "meaning": "miskin (pada), lemah (dalam), tidak suka (dari)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14173,7 +14173,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "passage,passing",
+  "meaning": "lewat, lewat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14184,7 +14184,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "treasure",
+  "meaning": "harta karun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14195,7 +14195,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to give,to present,to award",
+  "meaning": "memberi, mempersembahkan, memberi penghargaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14206,7 +14206,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wisdom,wit,sagacity,sense,intelligence,advice",
+  "meaning": "kebijaksanaan, kecerdasan, kebijaksanaan, akal, kecerdasan, nasihat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14217,7 +14217,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "gem,jewel",
+  "meaning": "permata, permata",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14228,7 +14228,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "engagement,betrothal",
+  "meaning": "pertunangan, pertunangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14239,7 +14239,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "happy,glad,pleasant",
+  "meaning": "senang, senang, menyenangkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14250,7 +14250,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "castle",
+  "meaning": "kastil",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14261,7 +14261,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "old people,the aged",
+  "meaning": "orang tua, orang lanjut usia",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14272,7 +14272,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "market",
+  "meaning": "pasar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14283,7 +14283,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "diplomacy",
+  "meaning": "diplomasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14294,7 +14294,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "audience,spectator(s)",
+  "meaning": "penonton, penonton",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14305,7 +14305,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "satellite",
+  "meaning": "satelit",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14316,7 +14316,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to take up,to pick up,to disqualify,to confiscate,to deprive",
+  "meaning": "mengambil, mengambil, mendiskualifikasi, menyita, merampas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14327,7 +14327,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "duty,obligation,responsibility",
+  "meaning": "tugas, kewajiban, tanggung jawab",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14338,7 +14338,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to come,to arrive",
+  "meaning": "untuk datang, untuk tiba",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14349,7 +14349,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "candidacy",
+  "meaning": "pencalonan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14360,7 +14360,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bag,bug",
+  "meaning": "tas, serangga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14371,7 +14371,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) water level,(2) level,standard",
+  "meaning": "(1) ketinggian air, (2) ketinggian, standar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14382,7 +14382,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "flatness,level,smooth,calm,plain",
+  "meaning": "kerataan, rata, halus, tenang, polos",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14393,7 +14393,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "produce (e.g. agricultural),crops",
+  "meaning": "hasil bumi (misalnya pertanian), tanaman pangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14404,7 +14404,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to pay",
+  "meaning": "untuk membayar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14415,7 +14415,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(sl) meals,food",
+  "meaning": "(sl) makanan,makanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14426,7 +14426,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mold,model,style,shape,data-type",
+  "meaning": "cetakan, model, gaya, bentuk, tipe data",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14437,7 +14437,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "income,receipts,revenue",
+  "meaning": "pendapatan, penerimaan, pendapatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14448,7 +14448,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "advertisement",
+  "meaning": "iklan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14459,7 +14459,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "grandfather,male senior-citizen",
+  "meaning": "kakek, warga negara senior laki-laki",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14470,7 +14470,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "returning home",
+  "meaning": "kembali ke rumah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14481,7 +14481,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "year end,sunset,nightfall,end",
+  "meaning": "akhir tahun, matahari terbenam, malam tiba, akhir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14492,7 +14492,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "No Smoking!",
+  "meaning": "DILARANG MEROKOK!",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14503,7 +14503,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "(hon) good,OK,all right,fine,very well,will do,may,can",
+  "meaning": "(sayang) bagus, oke, baiklah, baik, baiklah, bisa, boleh, bisa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14514,7 +14514,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to exchange,to interchange,to substitute,to replace",
+  "meaning": "menukar, menukar, mengganti, mengganti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14525,7 +14525,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rather,better,instead",
+  "meaning": "sebaliknya, lebih baik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14536,7 +14536,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "beer",
+  "meaning": "bir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14547,7 +14547,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "question,problem,doubt,guess",
+  "meaning": "pertanyaan, masalah, keraguan, tebakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14558,7 +14558,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "supply,provision",
+  "meaning": "pasokan, penyediaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14569,7 +14569,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "style",
+  "meaning": "gaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14580,7 +14580,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "member of the Diet, congress or parliament",
+  "meaning": "anggota Diet, kongres atau parlemen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14591,7 +14591,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "switch",
+  "meaning": "mengalihkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14602,7 +14602,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to recognize,to appreciate,to approve,to admit,to notice",
+  "meaning": "mengenali, mengapresiasi, menyetujui, mengakui, memperhatikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14613,7 +14613,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "least,lowest,worst",
+  "meaning": "paling tidak, terendah, terburuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14624,7 +14624,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "but,however",
+  "meaning": "tapi, bagaimanapun juga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14635,7 +14635,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(school) subject,curriculum,course",
+  "meaning": "(sekolah) mata pelajaran, kurikulum, kursus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14646,7 +14646,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "almost,roughly,approximately",
+  "meaning": "hampir, kira-kira, kira-kira",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14657,7 +14657,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "free of charge,mere,only",
+  "meaning": "gratis, belaka, saja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14668,7 +14668,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "long time period",
+  "meaning": "jangka waktu yang lama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14679,7 +14679,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "room,time to spare,emptiness",
+  "meaning": "ruangan, waktu luang, kekosongan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14690,7 +14690,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to restrict,to limit,to confine",
+  "meaning": "untuk membatasi, membatasi, membatasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14701,7 +14701,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "play,drama",
+  "meaning": "bermain, drama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14712,7 +14712,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "plot of land,lot,soil",
+  "meaning": "sebidang tanah, kavling, tanah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14723,7 +14723,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wall,fence",
+  "meaning": "dinding, pagar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14734,7 +14734,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "divorce",
+  "meaning": "perceraian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14745,7 +14745,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "cooperation,association,collaboration,joint",
+  "meaning": "kerjasama, asosiasi, kolaborasi, bersama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14756,7 +14756,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "citizens,inhabitants,residents,population",
+  "meaning": "warga negara, penduduk, penduduk, populasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14767,7 +14767,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) town,(2) street,road",
+  "meaning": "(1) kota, (2) jalan, jalan raya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14778,7 +14778,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sense,sensation",
+  "meaning": "rasa, sensasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14789,7 +14789,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "dozing,nodding off",
+  "meaning": "tertidur, tertidur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14800,7 +14800,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "tension,mental strain,nervousness",
+  "meaning": "ketegangan, ketegangan mental, kegelisahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14811,7 +14811,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sounds",
+  "meaning": "terdengar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14822,7 +14822,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "goblin,ghost,apparition,bugbear",
+  "meaning": "goblin, hantu, penampakan, bugbear",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14833,7 +14833,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tune,tone,knot,knob,point",
+  "meaning": "nada, nada, simpul, kenop, titik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14844,7 +14844,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "consideration,examination,investigation,study,scrutiny",
+  "meaning": "pertimbangan, pemeriksaan, penyelidikan, pengkajian, penyelidikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14855,7 +14855,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to join together,to be opposite,to face,to unite",
+  "meaning": "untuk bergabung bersama, menjadi berlawanan, untuk menghadapi, untuk bersatu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14866,7 +14866,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(not) particularly,nothing",
+  "meaning": "(tidak) khususnya, tidak ada",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14877,7 +14877,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "property,fortune,assets",
+  "meaning": "properti, kekayaan, aset",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14888,7 +14888,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to skip over,to omit",
+  "meaning": "untuk melewatkan, untuk menghilangkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14899,7 +14899,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "flame",
+  "meaning": "api",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14910,7 +14910,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "development,growth",
+  "meaning": "perkembangan, pertumbuhan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14921,7 +14921,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to exceed,to cross over,to cross",
+  "meaning": "untuk melampaui, untuk menyeberang, untuk menyeberang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14932,7 +14932,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "anxiety,uneasiness,insecurity,suspense",
+  "meaning": "kecemasan, kegelisahan, ketidakamanan, ketegangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14943,7 +14943,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to come out,to fall out,to be omitted",
+  "meaning": "untuk keluar, rontok, dihilangkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14954,7 +14954,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(hon) to give,to confer",
+  "meaning": "(hon) untuk memberi, untuk berunding",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14965,7 +14965,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to decrease (in size or number),to diminish,to abate",
+  "meaning": "untuk mengurangi (dalam ukuran atau jumlah), untuk mengurangi, untuk mereda",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14976,7 +14976,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "flour,meal,powder",
+  "meaning": "tepung, tepung, bubuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -14987,7 +14987,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "I beg your pardon,excuse me",
+  "meaning": "Saya mohon maaf, permisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15009,7 +15009,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(not) always,(not) necessarily,(not) all,(not) entirely",
+  "meaning": "(tidak) selalu, (tidak) harus, (tidak) semua, (tidak) seluruhnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15020,7 +15020,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) left and right,(2) influence,control,domination",
+  "meaning": "(1) kiri dan kanan, (2) pengaruh, kendali, dominasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15031,7 +15031,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "speed,velocity,rate",
+  "meaning": "kecepatan, kecepatan, laju",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15042,7 +15042,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) mark,(2) symbol,(3) evidence",
+  "meaning": "(1) tanda, (2) lambang, (3) bukti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15053,7 +15053,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "removal,migration,movement",
+  "meaning": "pemindahan, migrasi, perpindahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15064,7 +15064,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "friend,companion,pal",
+  "meaning": "teman, sahabat, sahabat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15075,7 +15075,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "command,decree,life,destiny",
+  "meaning": "perintah, keputusan, kehidupan, takdir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15086,7 +15086,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "suddenly,casually,accidentally,incidentally,unexpectedly,unintentionally",
+  "meaning": "tiba-tiba, secara kebetulan, secara tidak sengaja, secara tidak sengaja, secara tidak terduga, secara tidak sengaja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15097,7 +15097,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "blackboard",
+  "meaning": "papan tulis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15108,7 +15108,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "author,writer",
+  "meaning": "penulis, penulis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15119,7 +15119,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "refereeing,trial,judgement,umpire,referee",
+  "meaning": "wasit, percobaan, penilaian, wasit, wasit",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15130,7 +15130,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "holiday,day off,furlough",
+  "meaning": "hari libur, hari libur, cuti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15141,7 +15141,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to increase,to grow",
+  "meaning": "untuk meningkat, untuk tumbuh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15152,7 +15152,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sharing with,participate in",
+  "meaning": "berbagi dengan, berpartisipasi dalam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15163,7 +15163,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "just a minute,small quantity",
+  "meaning": "tunggu sebentar, dalam jumlah kecil",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15174,7 +15174,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pain,agony",
+  "meaning": "rasa sakit, penderitaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15185,7 +15185,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "license,permit,licence,certificate",
+  "meaning": "lisensi, izin, lisensi, sertifikat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15196,7 +15196,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to receive,to get,to accept,to take",
+  "meaning": "menerima, mendapatkan, menerima, mengambil",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15207,7 +15207,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to obtain,to reap,to pay,to supply,to accept",
+  "meaning": "untuk memperoleh, menuai, membayar, memasok, menerima",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15218,7 +15218,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) request,commission,dispatch,(2) dependence,trust",
+  "meaning": "(1) permintaan, komisi, pengiriman, (2) ketergantungan, kepercayaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15229,7 +15229,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "completion,conclusion",
+  "meaning": "penyelesaian, kesimpulan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15240,7 +15240,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) mouse,rat,(2) dark gray,slate color",
+  "meaning": "(1) tikus, tikus, (2) abu-abu tua, warna batu tulis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15251,7 +15251,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "improvement,advance,progress",
+  "meaning": "perbaikan, kemajuan, kemajuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15262,7 +15262,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "consideration,taking into account",
+  "meaning": "pertimbangan, dengan mempertimbangkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15273,7 +15273,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to get drunk,to become intoxicated",
+  "meaning": "mabuk, mabuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15284,7 +15284,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the,that",
+  "meaning": "itu, itu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15295,7 +15295,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "unfortunately,Sorry, but....",
+  "meaning": "sayangnya, Maaf, tapi....",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15306,7 +15306,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "present day",
+  "meaning": "hari ini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15317,7 +15317,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "permission,approval",
+  "meaning": "izin, persetujuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15328,7 +15328,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to come untied,to come apart",
+  "meaning": "untuk melepaskan ikatan, untuk melepaskan diri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15339,7 +15339,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "conjugation,practical use",
+  "meaning": "konjugasi, penggunaan praktis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15350,7 +15350,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fruit,nut,seed,content,good result",
+  "meaning": "buah,kacang,biji,isi,hasil bagus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15361,7 +15361,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "sleep",
+  "meaning": "tidur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15372,7 +15372,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "manual labor,toil,work",
+  "meaning": "kerja manual, kerja keras, kerja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15383,7 +15383,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nest,rookery,breeding place,beehive,cobweb",
+  "meaning": "sarang, heboh, tempat berkembang biak, sarang lebah, sarang laba-laba",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15394,7 +15394,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "playing cards (lit: trump)",
+  "meaning": "bermain kartu (lit: truf)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15405,7 +15405,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "proprietor,manager,barowner,master (e.g. arts, science)",
+  "meaning": "pemilik, manajer, pemilik bar, master (misalnya seni, sains)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15416,7 +15416,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "immediately,readily,directly",
+  "meaning": "segera, dengan mudah, secara langsung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15427,7 +15427,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "attendance,presence",
+  "meaning": "kehadiran, kehadiran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15438,7 +15438,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "odour,scent,smell,stench",
+  "meaning": "bau, aroma, bau, bau busuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15449,7 +15449,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to part,divide,separate",
+  "meaning": "untuk berpisah, membagi, memisahkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15460,7 +15460,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "majority,mostly,generally",
+  "meaning": "mayoritas, sebagian besar, umumnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15471,7 +15471,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "word,vocabulary,(usually) single-character word",
+  "meaning": "kata, kosakata, (biasanya) kata berkarakter tunggal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15482,7 +15482,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "all at once",
+  "meaning": "sekaligus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15493,7 +15493,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "on purpose",
+  "meaning": "dengan sengaja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15504,7 +15504,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "extra,excess,surplus",
+  "meaning": "ekstra, kelebihan, kelebihan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15515,7 +15515,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "area,locality,district,region,the coast",
+  "meaning": "daerah, lokalitas, distrik, wilayah, pantai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15526,7 +15526,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "breath,respiration",
+  "meaning": "nafas, pernafasan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15537,7 +15537,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "high speed,high gear",
+  "meaning": "kecepatan tinggi, gigi tinggi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15548,7 +15548,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "expression of gratitude",
+  "meaning": "ungkapan rasa terima kasih",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15559,7 +15559,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(female) you might say",
+  "meaning": "(perempuan) mungkin Anda berkata",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15570,7 +15570,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "usually,habitually,ordinarily,always",
+  "meaning": "biasanya, biasanya, biasanya, selalu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15581,7 +15581,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "shape,form,posture,suitability",
+  "meaning": "bentuk, bentuk, postur, kesesuaian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15592,7 +15592,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "eternity,perpetuity,immortality,permanence",
+  "meaning": "keabadian, keabadian, keabadian, kekekalan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15603,7 +15603,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "top,summit,peak",
+  "meaning": "puncak, puncak, puncak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15614,7 +15614,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "handshake",
+  "meaning": "jabat tangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15625,7 +15625,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "before long,even now",
+  "meaning": "tak lama lagi, bahkan sekarang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15636,7 +15636,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "queen",
+  "meaning": "ratu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15647,7 +15647,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to lower,to let go down",
+  "meaning": "untuk menurunkan, untuk melepaskan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15658,7 +15658,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "evening,night",
+  "meaning": "sore, malam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15669,7 +15669,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "computer",
+  "meaning": "komputer",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15680,7 +15680,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "height,stature",
+  "meaning": "tinggi, perawakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15691,7 +15691,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "equality (a),impartiality,evenness",
+  "meaning": "kesetaraan (a), ketidakberpihakan, pemerataan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15702,7 +15702,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "thanks,gratitude",
+  "meaning": "terima kasih, terima kasih",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15713,7 +15713,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "portion,section,part",
+  "meaning": "porsi, bagian, bagian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15724,7 +15724,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "character,personality",
+  "meaning": "karakter, kepribadian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15735,7 +15735,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "drama,play",
+  "meaning": "drama, bermain",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15746,7 +15746,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "damage",
+  "meaning": "kerusakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15757,7 +15757,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "moment,second,instant",
+  "meaning": "momen, detik, instan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15768,7 +15768,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "milk",
+  "meaning": "susu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15779,7 +15779,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "philosophy",
+  "meaning": "filsafat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15790,7 +15790,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "may,might,perhaps,may be,possibly",
+  "meaning": "mungkin, mungkin, mungkin, mungkin, mungkin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15801,7 +15801,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "call,visit",
+  "meaning": "telepon, kunjungi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15812,7 +15812,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "meeting,assembly",
+  "meaning": "pertemuan, perakitan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15823,7 +15823,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "perhaps",
+  "meaning": "mungkin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15834,7 +15834,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "needle,hand (e.g. clock)",
+  "meaning": "jarum, tangan (misalnya jam)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15845,7 +15845,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "invitation",
+  "meaning": "undangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15856,7 +15856,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "numeral,figure",
+  "meaning": "angka, gambar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15867,7 +15867,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "number,figure",
+  "meaning": "nomor, gambar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15878,7 +15878,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) origin,original,(2) former",
+  "meaning": "(1) asal,asli,(2) bekas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15889,7 +15889,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "manners",
+  "meaning": "tata krama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15900,7 +15900,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "signature",
+  "meaning": "tanda tangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15911,7 +15911,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to smile",
+  "meaning": "untuk tersenyum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15922,7 +15922,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "suspension,stoppage,discontinuance,interruption",
+  "meaning": "penangguhan, penghentian, penghentian, interupsi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15933,7 +15933,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to face",
+  "meaning": "untuk menghadapi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15944,7 +15944,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "very young,childish",
+  "meaning": "sangat muda, kekanak-kanakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15955,7 +15955,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "open sea",
+  "meaning": "laut terbuka",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15966,7 +15966,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "observation,survey",
+  "meaning": "observasi, survei",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15977,7 +15977,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "violin",
+  "meaning": "biola",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15988,7 +15988,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "in the middle of",
+  "meaning": "di tengah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -15999,7 +15999,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "growth,grow to adulthood",
+  "meaning": "pertumbuhan, tumbuh hingga dewasa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16010,7 +16010,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "concentration,focusing the mind",
+  "meaning": "konsentrasi, memfokuskan pikiran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16021,7 +16021,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "(1) to cut well,to be sharp,(2) to break (off)",
+  "meaning": "(1) memotong dengan baik, tajam, (2) mematahkan (memotong)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16032,7 +16032,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "enterprise,undertaking",
+  "meaning": "perusahaan, usaha",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16043,7 +16043,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "that is,namely,i.e.",
+  "meaning": "yaitu, yaitu, yaitu.",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16054,7 +16054,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "clear up,clarify,define",
+  "meaning": "menjernihkan, memperjelas, mendefinisikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16065,7 +16065,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "function,faculty",
+  "meaning": "fungsi, fakultas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16076,7 +16076,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sentence",
+  "meaning": "kalimat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16087,7 +16087,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "10,ten",
+  "meaning": "10,sepuluh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16098,7 +16098,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "way,manner,kind",
+  "meaning": "cara, cara, baik hati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16109,7 +16109,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to ascertain",
+  "meaning": "untuk memastikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16120,7 +16120,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "claim,demand,application,request",
+  "meaning": "klaim, permintaan, permohonan, permintaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16131,7 +16131,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "flute,pipe",
+  "meaning": "seruling, pipa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16142,7 +16142,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "stinginess,miser,miserliness",
+  "meaning": "kekikiran, kikir, kikir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16153,7 +16153,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "often,again and again,frequently",
+  "meaning": "sering, lagi dan lagi, sering",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16164,7 +16164,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "morals",
+  "meaning": "moral",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16175,7 +16175,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "right,privilege",
+  "meaning": "benar, hak istimewa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16186,7 +16186,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to discuss,to talk together",
+  "meaning": "untuk berdiskusi, untuk berbicara bersama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16197,7 +16197,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "development,growth",
+  "meaning": "perkembangan, pertumbuhan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16208,7 +16208,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "symptoms,condition",
+  "meaning": "gejala, kondisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16219,7 +16219,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "metal",
+  "meaning": "logam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16230,7 +16230,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "identical,equal to,same (kind),like",
+  "meaning": "identik, sama dengan, sama (jenis), serupa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16241,7 +16241,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to leave (behind, over),to bequeath,to save,to reserve",
+  "meaning": "untuk meninggalkan (di belakang, di atas), untuk mewariskan, untuk menyimpan, untuk memesan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16252,7 +16252,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to pack,to shorten,to work out (details)",
+  "meaning": "untuk berkemas, untuk mempersingkat, untuk berolahraga (detail)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16263,7 +16263,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "manufacture,production",
+  "meaning": "manufaktur, produksi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16274,7 +16274,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to tear,to violate,to defeat,to smash,to destroy",
+  "meaning": "merobek, melanggar, mengalahkan, menghancurkan, menghancurkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16285,7 +16285,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "honesty,integrity,frankness",
+  "meaning": "kejujuran, integritas, kejujuran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16296,7 +16296,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "controversy,dispute",
+  "meaning": "kontroversi, perselisihan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16307,7 +16307,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "light",
+  "meaning": "lampu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16318,7 +16318,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "discomfort,disability,inconvenience,destitution",
+  "meaning": "ketidaknyamanan, kecacatan, ketidaknyamanan, kemiskinan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16329,7 +16329,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(social) position,status",
+  "meaning": "posisi (sosial), status",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16340,7 +16340,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "poison,toxicant",
+  "meaning": "racun, racun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16351,7 +16351,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "presentation,submission,filing",
+  "meaning": "presentasi, penyerahan, pengarsipan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16362,7 +16362,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to hit,to apply a patch",
+  "meaning": "untuk memukul, untuk menerapkan tambalan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16373,7 +16373,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "hiking",
+  "meaning": "lintas alam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16384,7 +16384,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "other place,the rest",
+  "meaning": "tempat lain, sisanya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16395,7 +16395,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to hide,to conceal",
+  "meaning": "untuk menyembunyikan, untuk menyembunyikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16406,7 +16406,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "family name,lineage,birth",
+  "meaning": "nama keluarga, garis keturunan, kelahiran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16417,7 +16417,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "pointed,sharp",
+  "meaning": "runcing, tajam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16428,7 +16428,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "learning,scholarship,erudition,knowledge",
+  "meaning": "pembelajaran, beasiswa, pengetahuan, pengetahuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16439,7 +16439,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "organization,composition",
+  "meaning": "organisasi, komposisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16450,7 +16450,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "defect,fault,deficiency",
+  "meaning": "cacat, kesalahan, kekurangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16461,7 +16461,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "dividing,part",
+  "meaning": "membagi, bagian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16472,7 +16472,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "great effort,exertion,endeavour,effort",
+  "meaning": "usaha besar, pengerahan tenaga, usaha keras, usaha",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16483,7 +16483,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "meal",
+  "meaning": "makanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16494,7 +16494,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "use,application,employment,utilization",
+  "meaning": "penggunaan, aplikasi, pekerjaan, pemanfaatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16505,7 +16505,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "lodging",
+  "meaning": "penginapan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16516,7 +16516,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "calculation,counting,consideration",
+  "meaning": "perhitungan, penghitungan, pertimbangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16527,7 +16527,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) autograph,(2) sign,(3) sine",
+  "meaning": "(1) tanda tangan,(2) tanda tangan,(3) sinus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16538,7 +16538,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "field,sphere,realm,division,branch",
+  "meaning": "bidang, bola, alam, divisi, cabang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16549,7 +16549,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "liking,taste,choice",
+  "meaning": "kesukaan, rasa, pilihan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16560,7 +16560,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "sorting,arrangement,adjustment,regulation",
+  "meaning": "penyortiran, penataan, penyesuaian, pengaturan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16571,7 +16571,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "alcohol,sake",
+  "meaning": "alkohol, demi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16582,7 +16582,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to spread (out),to extend,to stretch,to reach to,to get around",
+  "meaning": "untuk menyebarkan (keluar), untuk memperluas, untuk meregangkan, untuk mencapai, untuk berkeliling",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16593,7 +16593,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "scholarship,study,learning",
+  "meaning": "beasiswa, belajar, belajar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16604,7 +16604,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "cloudiness,cloudy weather,shadow",
+  "meaning": "keadaan mendung, cuaca mendung, bayangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16615,7 +16615,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "futility,uselessness",
+  "meaning": "kesia-siaan, ketidakbergunaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16626,7 +16626,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "continent",
+  "meaning": "benua",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16637,7 +16637,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "ash",
+  "meaning": "abu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16648,7 +16648,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "diligent,serious,honest",
+  "meaning": "rajin, serius, jujur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16659,7 +16659,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "very,much,greatly",
+  "meaning": "sangat, sangat, sangat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16670,7 +16670,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "chain",
+  "meaning": "rantai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16681,7 +16681,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "straight (ahead),direct,upright",
+  "meaning": "lurus (depan), lurus, tegak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16692,7 +16692,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "body,main part,oneself,sword",
+  "meaning": "tubuh, bagian utama, diri sendiri, pedang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16703,7 +16703,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mystery,curiosity",
+  "meaning": "misteri, rasa ingin tahu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16714,7 +16714,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "national,people,citizen",
+  "meaning": "nasional, rakyat, warga negara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16725,7 +16725,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "perception,intuition,the sixth sense",
+  "meaning": "persepsi, intuisi, indra keenam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16736,7 +16736,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to measure,to weigh,to survey",
+  "meaning": "untuk mengukur, menimbang, mensurvei",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16747,7 +16747,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tent",
+  "meaning": "tenda",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16758,7 +16758,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "chief,main,principal,major",
+  "meaning": "ketua, utama, kepala sekolah, mayor",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16769,7 +16769,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "type,pattern,archetypal",
+  "meaning": "jenis, pola, pola dasar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16780,7 +16780,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bag,sack",
+  "meaning": "tas, karung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16791,7 +16791,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wear,put on (sword)",
+  "meaning": "pakai, pakai (pedang)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16802,7 +16802,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "secret,secrecy",
+  "meaning": "rahasia, kerahasiaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16813,7 +16813,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to suffer,to groan,to be worried",
+  "meaning": "menderita, mengerang, khawatir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16824,7 +16824,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "things,everything",
+  "meaning": "banyak hal, segalanya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16835,7 +16835,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "request,demand,requisition",
+  "meaning": "permintaan, permintaan, permintaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16846,7 +16846,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "simultaneous(ly),concurrent,same time,synchronous",
+  "meaning": "simultan(ly), bersamaan, waktu yang sama, sinkron",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16857,7 +16857,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "instant,time,moment",
+  "meaning": "seketika, waktu, momen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16868,7 +16868,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be worried,to be troubled",
+  "meaning": "menjadi khawatir, menjadi bermasalah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16879,7 +16879,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "food",
+  "meaning": "makanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16890,7 +16890,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to doubt,to distrust,to be suspicious of,to suspect",
+  "meaning": "ragu, tidak percaya, curiga, curiga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16901,7 +16901,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "convention,tournament,mass meeting,rally",
+  "meaning": "konvensi, turnamen, pertemuan massal, rapat umum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16912,7 +16912,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "however,while,even if",
+  "meaning": "Namun, meskipun demikian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16934,7 +16934,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "will,volition",
+  "meaning": "kemauan, kemauan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16945,7 +16945,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "crime,fault,indiscretion",
+  "meaning": "kejahatan, kesalahan, kecerobohan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16956,7 +16956,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "element",
+  "meaning": "elemen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16967,7 +16967,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to show,to indicate,to display",
+  "meaning": "untuk menunjukkan, untuk menunjukkan, untuk menampilkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16978,7 +16978,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "scholarship",
+  "meaning": "beasiswa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -16989,7 +16989,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "time,season,period",
+  "meaning": "waktu, musim, periode",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17000,7 +17000,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pleasant,happy",
+  "meaning": "menyenangkan, bahagia",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17011,7 +17011,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "recovery (from illness),improvement,rehabilitation,restoration",
+  "meaning": "pemulihan (dari penyakit),perbaikan,rehabilitasi,restorasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17022,7 +17022,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "discretion,prudence",
+  "meaning": "kebijaksanaan, kehati-hatian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17033,7 +17033,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "confidence,dependence,credit,faith",
+  "meaning": "kepercayaan diri, ketergantungan, kredit, iman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17044,7 +17044,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "graduate from,come from",
+  "meaning": "lulus dari, berasal dari",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17055,7 +17055,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to rescue from,to help out of",
+  "meaning": "untuk menyelamatkan, untuk membantu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17066,7 +17066,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(abbr) Friday",
+  "meaning": "(abbr) Jumat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17077,7 +17077,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "luxury,extravagance",
+  "meaning": "kemewahan, pemborosan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17088,7 +17088,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "entry to school or university,matriculation",
+  "meaning": "masuk ke sekolah atau universitas, matrikulasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17099,7 +17099,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sleeve",
+  "meaning": "lengan baju",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17110,7 +17110,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "plate,dish",
+  "meaning": "piring, piring",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17121,7 +17121,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "precious,valuable",
+  "meaning": "berharga, berharga",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17132,7 +17132,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "judgement,decision",
+  "meaning": "penilaian, keputusan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17143,7 +17143,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "results,record",
+  "meaning": "hasil, catat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17154,7 +17154,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "god",
+  "meaning": "Tuhan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17165,7 +17165,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "indeed,truly,surely",
+  "meaning": "memang, sungguh, pasti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17176,7 +17176,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "dust",
+  "meaning": "debu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17187,7 +17187,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "strange,queer,curious",
+  "meaning": "aneh, aneh, penasaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17198,7 +17198,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "storm,tempest",
+  "meaning": "badai, prahara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17209,7 +17209,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "being skilled in,nicely,properly",
+  "meaning": "terampil dalam, dengan baik, dengan benar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17220,7 +17220,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "arrival",
+  "meaning": "kedatangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17231,7 +17231,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "already,too late",
+  "meaning": "sudah terlambat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17242,7 +17242,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "strangeness,abnormality,disorder",
+  "meaning": "keanehan, kelainan, kelainan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17253,7 +17253,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "field",
+  "meaning": "bidang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17264,7 +17264,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "town,city,municipal,urban",
+  "meaning": "kota, kota, kotamadya, perkotaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17275,7 +17275,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nothing,naught,nil,zero",
+  "meaning": "tidak ada, tidak ada, nihil, nol",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17286,7 +17286,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "proposal,proposition,suggestion",
+  "meaning": "usulan, proposisi, saran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17297,7 +17297,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "postponement,adjournment",
+  "meaning": "penundaan, penundaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17308,7 +17308,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mutual,reciprocal",
+  "meaning": "saling, timbal balik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17319,7 +17319,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "equipment,device,facilities,installation",
+  "meaning": "peralatan, perangkat, fasilitas, instalasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17330,7 +17330,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "explanation,interpretation",
+  "meaning": "penjelasan, interpretasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17341,7 +17341,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "outing,going out",
+  "meaning": "jalan-jalan, keluar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17352,7 +17352,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "according to",
+  "meaning": "menurut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17363,7 +17363,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "most part,greater part,majority",
+  "meaning": "sebagian besar, sebagian besar, mayoritas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17374,7 +17374,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "on the occasion of,circumstances",
+  "meaning": "pada kesempatan, keadaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17385,7 +17385,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "prediction,estimation",
+  "meaning": "prediksi, estimasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17396,7 +17396,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "character,personality,person,man,personage,talented man",
+  "meaning": "karakter, kepribadian, orang, pria, tokoh, pria berbakat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17407,7 +17407,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bay,gulf,inlet",
+  "meaning": "teluk, teluk, saluran masuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17418,7 +17418,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "week,weekly",
+  "meaning": "minggu, mingguan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17429,7 +17429,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "perhaps,probably",
+  "meaning": "mungkin, mungkin",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17440,7 +17440,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "slowly,little by little,gradually,steadily,quietly",
+  "meaning": "perlahan, sedikit demi sedikit, bertahap, mantap, diam-diam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17451,7 +17451,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "riddle,puzzle,enigma",
+  "meaning": "teka-teki, teka-teki, teka-teki",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17462,7 +17462,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "close friend,buddy",
+  "meaning": "teman dekat, sobat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17473,7 +17473,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "payment,allowance",
+  "meaning": "pembayaran, tunjangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17484,7 +17484,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "resident,housing",
+  "meaning": "penduduk, perumahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17495,7 +17495,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "figure (e.g. Fig 1),drawing,picture,illustration",
+  "meaning": "gambar (misalnya Gambar 1), gambar, gambar, ilustrasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17506,7 +17506,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "seeing one off,farewell,escort",
+  "meaning": "mengantar satu, perpisahan, pendamping",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17517,7 +17517,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "proceeding to the capital (Tokyo)",
+  "meaning": "melanjutkan ke ibukota (Tokyo)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17528,7 +17528,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "well,now,then",
+  "meaning": "baiklah, sekarang, kalau begitu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17539,7 +17539,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "simile,metaphor,allegory",
+  "meaning": "perumpamaan, metafora, alegori",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17550,7 +17550,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "exactly,neatly,sharp",
+  "meaning": "persis, rapi, tajam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17561,7 +17561,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "trader,shopkeeper,merchant",
+  "meaning": "pedagang, penjaga toko, pedagang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17572,7 +17572,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "charm,fascination,glamour",
+  "meaning": "pesona, daya tarik, glamor",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17583,7 +17583,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "tedium,boredom",
+  "meaning": "kebosanan, kebosanan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17594,7 +17594,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "negation,denial,repudiation",
+  "meaning": "negasi, penolakan, penolakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17605,7 +17605,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "father",
+  "meaning": "ayah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17616,7 +17616,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "order,command,decree,directive,(software) instruction",
+  "meaning": "perintah, perintah, keputusan, arahan, instruksi (perangkat lunak).",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17627,7 +17627,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "understanding,comprehension",
+  "meaning": "pemahaman, pemahaman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17638,7 +17638,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "what,what kind of",
+  "meaning": "apa, jenis apa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17649,7 +17649,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "independence (e.g. Ind. Day),self-support",
+  "meaning": "kemerdekaan (misalnya Hari Ind.), swasembada",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17660,7 +17660,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pain,ache,sore,grief,distress",
+  "meaning": "sakit, sakit, perih, duka, kesusahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17671,7 +17671,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "whole life,a lifetime,all through life",
+  "meaning": "seumur hidup, seumur hidup, sepanjang hidup",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17682,7 +17682,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "prevention,precaution,protection against",
+  "meaning": "pencegahan, pencegahan, perlindungan terhadap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17693,7 +17693,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "member,the membership",
+  "meaning": "anggota, keanggotaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17704,7 +17704,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "skillful,handy",
+  "meaning": "terampil, berguna",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17715,7 +17715,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be full,to rise (tide),to mature,to expire",
+  "meaning": "menjadi penuh,meningkat (pasang),menjadi matang,kedaluwarsa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17726,7 +17726,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "employment",
+  "meaning": "pekerjaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17737,7 +17737,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "discrimination,distinction,differentiation",
+  "meaning": "diskriminasi, pembedaan, diferensiasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17748,7 +17748,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "going",
+  "meaning": "pergi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17759,7 +17759,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "proof,verification",
+  "meaning": "bukti, verifikasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17770,7 +17770,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "smile sweetly,smile,grin",
+  "meaning": "tersenyum manis, tersenyum, nyengir",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17781,7 +17781,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "physical education,gymnastics,athletics",
+  "meaning": "pendidikan jasmani,senam,atletik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17792,7 +17792,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "disappointment,despair",
+  "meaning": "kekecewaan, keputusasaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17803,7 +17803,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(bank) savings",
+  "meaning": "(bank) tabungan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17814,7 +17814,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to be pleased with,to suit",
+  "meaning": "untuk disenangi, untuk disesuaikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17825,7 +17825,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "memorization,learning by heart",
+  "meaning": "menghafal, belajar dengan hati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17836,7 +17836,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wife,Mrs,madam",
+  "meaning": "istri, Nyonya, Nyonya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17847,7 +17847,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "commonness,community",
+  "meaning": "kesamaan, komunitas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17858,7 +17858,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fresh",
+  "meaning": "segar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17869,7 +17869,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "parting,separation,farewell",
+  "meaning": "perpisahan, perpisahan, perpisahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17880,7 +17880,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "thought,idea",
+  "meaning": "pikiran, ide",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17891,7 +17891,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "a certain...,some...",
+  "meaning": "tertentu...,beberapa...",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17902,7 +17902,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "woman,female",
+  "meaning": "wanita, perempuan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17913,7 +17913,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mike",
+  "meaning": "mikropon",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17924,7 +17924,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "doctorate,PhD",
+  "meaning": "doktor, PhD",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17935,7 +17935,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "scissors",
+  "meaning": "gunting",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17946,7 +17946,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "plan,suffix meaning draft",
+  "meaning": "rencana, akhiran yang berarti rancangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17957,7 +17957,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "tongue",
+  "meaning": "lidah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17968,7 +17968,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(human) life (i.e. conception to death)",
+  "meaning": "kehidupan (manusia) (yaitu pembuahan sampai kematian)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17979,7 +17979,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "full,in plenty,ample",
+  "meaning": "penuh, banyak, banyak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -17990,7 +17990,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) used,second-hand,old",
+  "meaning": "(1) bekas, bekas, lama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18001,7 +18001,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "conditions,terms",
+  "meaning": "syarat, syarat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18012,7 +18012,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "part,assigning (allotment of) parts,role,duties",
+  "meaning": "bagian, menugaskan (menjatah) bagian, peran, tugas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18023,7 +18023,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "be surprised,be amazed,be frightened,astonishment",
+  "meaning": "kaget, takjub, takut, takjub",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18034,7 +18034,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "oil",
+  "meaning": "minyak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18045,7 +18045,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "memorandum",
+  "meaning": "nota",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18056,7 +18056,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "disadvantage,handicap,unfavorable,drawback",
+  "meaning": "kerugian, cacat, tidak menguntungkan, kelemahan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18067,7 +18067,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "meaning,reason,circumstances,can be deduced,situation",
+  "meaning": "makna, alasan, keadaan, dapat disimpulkan, situasi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18078,7 +18078,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "good",
+  "meaning": "Bagus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18089,7 +18089,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(by) chance,unexpectedly,suddenly",
+  "meaning": "(secara) kebetulan, tanpa diduga, tiba-tiba",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18100,7 +18100,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sprout",
+  "meaning": "tumbuh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18111,7 +18111,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "insufficiency,shortage,deficiency,lack,dearth",
+  "meaning": "ketidakcukupan, kekurangan, kekurangan, kekurangan, kelangkaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18122,7 +18122,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) glass,(2) grass",
+  "meaning": "(1) gelas, (2) rumput",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18133,7 +18133,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to fight,to battle,to combat",
+  "meaning": "untuk bertarung, bertarung, bertarung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18144,7 +18144,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "direction,course,way",
+  "meaning": "arah, tentu saja, cara",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18155,7 +18155,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "emphasis,stress,stressed point",
+  "meaning": "penekanan, tekanan, titik yang ditekankan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18166,7 +18166,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "nature,spontaneous",
+  "meaning": "alam, spontan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18177,7 +18177,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "juice,soft drink,deuce",
+  "meaning": "jus, minuman ringan, jus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18188,7 +18188,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "record,minutes,document",
+  "meaning": "catatan, menit, dokumen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18199,7 +18199,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "operation,management,processing",
+  "meaning": "operasi, manajemen, pemrosesan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18210,7 +18210,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "enormous,vast",
+  "meaning": "sangat besar, luas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18221,7 +18221,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "serious,important,grave,weighty",
+  "meaning": "serius, penting, serius, berbobot",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18232,7 +18232,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "share,stock,stump (of tree)",
+  "meaning": "bagian, stok, tunggul (dari pohon)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18243,7 +18243,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "safety,peace,quietness",
+  "meaning": "keamanan, kedamaian, ketenangan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18254,7 +18254,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "violation (of law),transgression,infringement,breach",
+  "meaning": "pelanggaran (hukum), pelanggaran, pelanggaran, pelanggaran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18265,7 +18265,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "queue,line,row",
+  "meaning": "antrian, baris, baris",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18276,7 +18276,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bench",
+  "meaning": "bangku",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18287,7 +18287,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "thing,matter,fact,circumstances",
+  "meaning": "benda, materi, fakta, keadaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18298,7 +18298,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "remnant,residue,remaining,left-over",
+  "meaning": "sisa, sisa, sisa, sisa",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18309,7 +18309,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "months and years",
+  "meaning": "bulan dan tahun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18320,7 +18320,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "injury (to animate object),hurt",
+  "meaning": "cedera (untuk menghidupkan objek), sakit",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18331,7 +18331,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "argument,discussion,dispute",
+  "meaning": "argumen, diskusi, perselisihan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18342,7 +18342,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "situation,present state of affairs",
+  "meaning": "situasi, keadaan saat ini",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18353,7 +18353,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "can,tin",
+  "meaning": "bisa, timah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18364,7 +18364,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "crude,rough,plain,humble",
+  "meaning": "kasar, kasar, polos, rendah hati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18375,7 +18375,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to put together",
+  "meaning": "untuk disatukan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18386,7 +18386,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to throw down,to beat,to bring down,to blow down",
+  "meaning": "untuk menjatuhkan, untuk memukul, untuk menjatuhkan, untuk meledakkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18397,7 +18397,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "going on to university",
+  "meaning": "melanjutkan ke universitas",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18408,7 +18408,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "addition and subtraction,allowance for",
+  "meaning": "penjumlahan dan pengurangan, penyisihan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18419,7 +18419,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "the former",
+  "meaning": "yang pertama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18430,7 +18430,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "mainly,primarily",
+  "meaning": "terutama, terutama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18441,7 +18441,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "finding employment,inauguration",
+  "meaning": "mencari pekerjaan, pelantikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18452,7 +18452,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to awaken",
+  "meaning": "untuk membangunkan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18463,7 +18463,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sorry,excuse me",
+  "meaning": "maaf, permisi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18474,7 +18474,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "condition,situation,circumstances,state",
+  "meaning": "kondisi, situasi, keadaan, keadaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18485,7 +18485,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "second (60th min)",
+  "meaning": "kedua (menit ke-60)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18496,7 +18496,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "wings",
+  "meaning": "sayap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18507,7 +18507,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to kill",
+  "meaning": "untuk membunuh",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18518,7 +18518,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fool,idiot,trivial matter,folly",
+  "meaning": "bodoh, idiot, hal sepele, kebodohan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18529,7 +18529,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "naked,nude",
+  "meaning": "telanjang, telanjang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18540,7 +18540,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "to that extent,to that degree",
+  "meaning": "sejauh itu, sampai pada tingkat itu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18551,7 +18551,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "prefecture",
+  "meaning": "prefektur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18562,7 +18562,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "sequel,continuation",
+  "meaning": "lanjutan, lanjutan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18573,7 +18573,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "title,subject,theme,topic",
+  "meaning": "judul, pokok bahasan, tema, topik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18584,7 +18584,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) one object,one body,(2) what on earth?,really?,(3) generally",
+  "meaning": "(1) satu benda, satu benda, (2) apa sebenarnya?, (3) secara umum",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18595,7 +18595,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "prize,award",
+  "meaning": "hadiah, penghargaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18606,7 +18606,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "yacht",
+  "meaning": "kapal pesiar",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18617,7 +18617,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "last,final,closing",
+  "meaning": "terakhir, terakhir, penutup",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18628,7 +18628,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "whisky",
+  "meaning": "wiski",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18639,7 +18639,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "someone,somebody",
+  "meaning": "seseorang, seseorang",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18650,7 +18650,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "debt,loan,liabilities",
+  "meaning": "hutang, pinjaman, kewajiban",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18661,7 +18661,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "stomach",
+  "meaning": "perut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18672,7 +18672,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "positive,active,proactive",
+  "meaning": "positif, aktif, proaktif",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18683,7 +18683,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "equipment,installation,apparatus",
+  "meaning": "peralatan, instalasi, peralatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18694,7 +18694,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(phrase) sure,no mistaking it,for certain",
+  "meaning": "(frasa) tentu, tidak salah lagi, pasti",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18705,7 +18705,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sandbank",
+  "meaning": "beting",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18716,7 +18716,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "shoulder",
+  "meaning": "bahu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18727,7 +18727,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "face of the earth",
+  "meaning": "muka bumi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18738,7 +18738,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to change,to be of use,to reach to",
+  "meaning": "untuk berubah, untuk berguna, untuk mencapai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18749,7 +18749,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fairness,impartial,justice",
+  "meaning": "keadilan, tidak memihak, keadilan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18760,7 +18760,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "temperature",
+  "meaning": "suhu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18771,7 +18771,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rice-plant",
+  "meaning": "tanaman padi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18782,7 +18782,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "greeting,salutation",
+  "meaning": "salam, salam",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18793,7 +18793,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "effect,effectiveness,efficacy,result",
+  "meaning": "efek, efektivitas, kemanjuran, hasil",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18804,7 +18804,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "bottle",
+  "meaning": "botol",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18815,7 +18815,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "studying abroad",
+  "meaning": "belajar di luar negeri",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18826,7 +18826,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to order,to command,to appoint",
+  "meaning": "memerintahkan, memerintah, menunjuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18837,7 +18837,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to receive,to take food or drink (hum)",
+  "meaning": "untuk menerima, mengambil makanan atau minuman (bersenandung)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18848,7 +18848,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "coworker,colleague,associate",
+  "meaning": "rekan kerja, kolega, rekan kerja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18859,7 +18859,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "association (of ideas),suggestion",
+  "meaning": "asosiasi (ide), saran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18870,7 +18870,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "attack,strike,offensive,criticism,censure",
+  "meaning": "serangan, pemogokan, ofensif, kritik, kecaman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18881,7 +18881,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "certainly,without fail",
+  "meaning": "tentu saja, tanpa gagal",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18892,7 +18892,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "superiority,first class,very good",
+  "meaning": "keunggulan, kelas satu, sangat bagus",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18903,7 +18903,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to reach",
+  "meaning": "untuk mencapai",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18914,7 +18914,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "event,affair,incident",
+  "meaning": "peristiwa, perselingkuhan, insiden",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18925,7 +18925,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "without change,as it is (i.e. now)",
+  "meaning": "tanpa perubahan, sebagaimana adanya (yaitu sekarang)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18936,7 +18936,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "gist,main point",
+  "meaning": "intinya, poin utama",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18947,7 +18947,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "pride,triumph,prosperity",
+  "meaning": "kebanggaan, kemenangan, kemakmuran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18958,7 +18958,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "prince",
+  "meaning": "pangeran",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18969,7 +18969,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to freeze,to be frozen over,to congeal",
+  "meaning": "untuk membekukan, untuk dibekukan, untuk membekukan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18980,7 +18980,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "simplicity",
+  "meaning": "kesederhanaan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -18991,7 +18991,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "collision,conflict",
+  "meaning": "tabrakan, konflik",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19002,7 +19002,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "courage,bravery,valour,nerve,boldness",
+  "meaning": "keberanian, keberanian, keberanian, keberanian, keberanian",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19013,7 +19013,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "knowing very well,detailed,full,accurate",
+  "meaning": "mengetahui dengan baik, detail, lengkap, akurat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19024,7 +19024,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "speech",
+  "meaning": "pidato",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19035,7 +19035,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "succession,inheritance",
+  "meaning": "suksesi, warisan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19046,7 +19046,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) player (in game),(2) team",
+  "meaning": "(1) pemain (dalam permainan), (2) tim",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19057,7 +19057,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to raise (child),to be brought up,to grow (up)",
+  "meaning": "untuk membesarkan (anak), untuk dibesarkan, untuk tumbuh (tumbuh)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19068,7 +19068,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "year",
+  "meaning": "tahun",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19079,7 +19079,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "frequently,repeatedly,incessantly,eagerly",
+  "meaning": "sering, berulang-ulang, tanpa henti, dengan penuh semangat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19090,7 +19090,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to say",
+  "meaning": "untuk mengatakan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19101,7 +19101,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "calm,composure,coolness,serenity",
+  "meaning": "ketenangan, ketentraman, kesejukan, ketentraman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19112,7 +19112,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "(1) organization,(2) structure,construction,(3) tissue,(4) system",
+  "meaning": "(1) organisasi, (2) struktur, konstruksi, (3) jaringan, (4) sistem",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19123,7 +19123,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to occur,to happen",
+  "meaning": "terjadi, terjadi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19134,7 +19134,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "crime",
+  "meaning": "kejahatan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19145,7 +19145,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to hate,to dislike,to loathe",
+  "meaning": "membenci, tidak menyukai, membenci",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19156,7 +19156,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "decision,determination",
+  "meaning": "keputusan, tekad",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19167,7 +19167,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to separate,to set free",
+  "meaning": "untuk memisahkan, untuk membebaskan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19178,7 +19178,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "child,servant,foolishness",
+  "meaning": "anak, pelayan, kebodohan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19189,7 +19189,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to handle,to deal with,to treat",
+  "meaning": "untuk menangani, untuk menangani, untuk mengobati",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19200,7 +19200,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "lateness,late coming",
+  "meaning": "keterlambatan, datang terlambat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19211,7 +19211,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to omit,to eliminate,to curtail,to economize",
+  "meaning": "menghilangkan, menghilangkan, membatasi, menghemat",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19222,7 +19222,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to attempt,to test",
+  "meaning": "untuk mencoba, untuk menguji",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19233,7 +19233,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fog,mist",
+  "meaning": "kabut, kabut",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19244,7 +19244,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(n) paint (nl: pek)",
+  "meaning": "(n) cat (nl: pek)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19255,7 +19255,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "means,way,measure",
+  "meaning": "artinya, cara, mengukur",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19266,7 +19266,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "defect,flaw,blemish,weak point",
+  "meaning": "cacat, cacat, cacat, titik lemah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19277,7 +19277,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "chemistry",
+  "meaning": "kimia",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19288,7 +19288,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "composition,setting (of music)",
+  "meaning": "komposisi, setting (musik)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19299,7 +19299,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to receive",
+  "meaning": "untuk menerima",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19310,7 +19310,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "actual spot,scene,scene of the crime",
+  "meaning": "tempat sebenarnya, TKP, TKP",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19321,7 +19321,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "business,trade,management",
+  "meaning": "bisnis, perdagangan, manajemen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19332,7 +19332,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "sun,solar",
+  "meaning": "matahari, tenaga surya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19343,7 +19343,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "a moment,an instant",
+  "meaning": "sesaat, sekejap",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19354,7 +19354,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "area,region",
+  "meaning": "daerah, wilayah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19365,7 +19365,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "(1) seed,(2) material,(3) cause,source",
+  "meaning": "(1) benih, (2) bahan, (3) sebab, sumber",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19376,7 +19376,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to get wet",
+  "meaning": "menjadi basah",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19387,7 +19387,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
-  "meaning": "odour,scent,smell,stench",
+  "meaning": "bau, aroma, bau, bau busuk",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19398,7 +19398,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rowing boat",
+  "meaning": "perahu dayung",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19409,7 +19409,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "medical care,medical treatment",
+  "meaning": "perawatan medis, perawatan medis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19420,7 +19420,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "daze,(in a) trance,ecstasy,delirium,engrossment",
+  "meaning": "linglung,(dalam) kesurupan, ekstasi, delirium, keasyikan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19431,7 +19431,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "one by one,each,one at a time",
+  "meaning": "satu demi satu, masing-masing, satu demi satu",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19442,7 +19442,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "expression of gratitude before meals",
+  "meaning": "ungkapan terima kasih sebelum makan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19453,7 +19453,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "verb",
+  "meaning": "kata kerja",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19464,7 +19464,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "highest,supreme,the most",
+  "meaning": "tertinggi, tertinggi, terbanyak",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19475,7 +19475,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "fact,truth,reality",
+  "meaning": "fakta, kebenaran, kenyataan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19486,7 +19486,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "sleight of hand,conjuring trick,magic,juggling",
+  "meaning": "sulap, sulap, sulap, juggling",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19497,7 +19497,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "term (school)",
+  "meaning": "jangka waktu (sekolah)",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19508,7 +19508,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "chair",
+  "meaning": "kursi",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19519,7 +19519,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "unexpected,offensive,What a thing to say!,No way!",
+  "meaning": "tidak terduga, menyinggung, Kata-kata yang luar biasa!, Tidak mungkin!",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19530,7 +19530,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
-  "meaning": "to rely on,to have recourse to,to depend on",
+  "meaning": "untuk mengandalkan, untuk meminta bantuan, untuk bergantung pada",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19541,7 +19541,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "eventually,sooner or later,of the previously mentioned",
+  "meaning": "pada akhirnya, cepat atau lambat, dari hal yang disebutkan sebelumnya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19552,7 +19552,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "rich man",
+  "meaning": "orang kaya",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19563,7 +19563,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "experience",
+  "meaning": "pengalaman",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19574,7 +19574,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "festival,feast",
+  "meaning": "festival, pesta",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19585,7 +19585,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "group",
+  "meaning": "kelompok",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19596,7 +19596,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "occupation,business",
+  "meaning": "pekerjaan, bisnis",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19607,7 +19607,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "feed,bait",
+  "meaning": "pakan, umpan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19618,7 +19618,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
-  "meaning": "departure of a vehicle",
+  "meaning": "keberangkatan kendaraan",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null
@@ -19629,7 +19629,7 @@ export const vocabN3 = [
   "romaji": "",
   "level": "N3",
   "partOfSpeech": "Kata Benda",
-  "meaning": "percent",
+  "meaning": "persen",
   "example": null,
   "exampleReading": null,
   "exampleMeaning": null

@@ -3,9 +3,9 @@ export const kanjiN3 = [
   "kanji": "才",
   "level": "N3",
   "meanings": [
-   "Genius",
-   "Years Old",
-   "Cubic Shaku"
+   "Jenius",
+   "Bertahun-tahun",
+   "Kubik Shaku"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -24,9 +24,9 @@ export const kanjiN3 = [
   "kanji": "王",
   "level": "N3",
   "meanings": [
-   "King",
-   "Rule",
-   "Magnate"
+   "Raja",
+   "Aturan",
+   "Tokoh terkemuka"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -56,7 +56,7 @@ export const kanjiN3 = [
   "kanji": "石",
   "level": "N3",
   "meanings": [
-   "Stone"
+   "Batu"
   ],
   "kunyomi": [
    "いし"
@@ -89,12 +89,12 @@ export const kanjiN3 = [
   "kanji": "内",
   "level": "N3",
   "meanings": [
-   "Inside",
-   "Within",
-   "Between",
-   "Among",
-   "House",
-   "Home"
+   "Di dalam",
+   "Di dalam",
+   "Di antara",
+   "Di antara",
+   "Rumah",
+   "Rumah"
   ],
   "kunyomi": [
    "うち"
@@ -126,9 +126,9 @@ export const kanjiN3 = [
   "kanji": "太",
   "level": "N3",
   "meanings": [
-   "Plump",
-   "Thick",
-   "Big Around"
+   "Montok",
+   "Tebal",
+   "Sekitar Besar"
   ],
   "kunyomi": [
    "ふと.い",
@@ -161,13 +161,13 @@ export const kanjiN3 = [
   "kanji": "引",
   "level": "N3",
   "meanings": [
-   "Pull",
-   "Tug",
-   "Jerk",
-   "Admit",
-   "Install",
-   "Quote",
-   "Refer To"
+   "Menarik",
+   "Tarikan",
+   "Berengsek",
+   "Mengakui",
+   "Memasang",
+   "Mengutip",
+   "Lihat"
   ],
   "kunyomi": [
    "ひ.く",
@@ -202,9 +202,9 @@ export const kanjiN3 = [
   "kanji": "市",
   "level": "N3",
   "meanings": [
-   "Market",
-   "City",
-   "Town"
+   "Pasar",
+   "Kota",
+   "Kota"
   ],
   "kunyomi": [
    "いち"
@@ -235,9 +235,9 @@ export const kanjiN3 = [
   "kanji": "他",
   "level": "N3",
   "meanings": [
-   "Other",
-   "Another",
-   "The Others"
+   "Lainnya",
+   "Lain",
+   "Yang Lainnya"
   ],
   "kunyomi": [
    "ほか"
@@ -258,13 +258,13 @@ export const kanjiN3 = [
   "kanji": "号",
   "level": "N3",
   "meanings": [
-   "Nickname",
-   "Number",
-   "Item",
-   "Title",
-   "Pseudonym",
-   "Name",
-   "Call"
+   "Nama panggilan",
+   "Nomor",
+   "Barang",
+   "Judul",
+   "Nama samaran",
+   "Nama",
+   "Panggilan"
   ],
   "kunyomi": [
    "さけ.ぶ",
@@ -296,9 +296,9 @@ export const kanjiN3 = [
   "kanji": "平",
   "level": "N3",
   "meanings": [
-   "Even",
-   "Flat",
-   "Peace"
+   "Bahkan",
+   "Datar",
+   "Perdamaian"
   ],
   "kunyomi": [
    "たい.ら",
@@ -334,11 +334,11 @@ export const kanjiN3 = [
   "kanji": "打",
   "level": "N3",
   "meanings": [
-   "Strike",
-   "Hit",
-   "Knock",
+   "Memukul",
+   "Memukul",
+   "Ketukan",
    "Pound",
-   "Dozen"
+   "Lusin"
   ],
   "kunyomi": [
    "う.つ",
@@ -367,10 +367,10 @@ export const kanjiN3 = [
   "kanji": "申",
   "level": "N3",
   "meanings": [
-   "Have The Honor To",
-   "Sign Of The Monkey",
-   "3-5pm",
-   "Ninth Sign Of Chinese Zodiac"
+   "Dapatkan Kehormatan Untuk",
+   "Tanda Monyet",
+   "15.00-17.00",
+   "Tanda Kesembilan Zodiak Cina"
   ],
   "kunyomi": [
    "もう.す",
@@ -403,11 +403,11 @@ export const kanjiN3 = [
   "kanji": "礼",
   "level": "N3",
   "meanings": [
-   "Salute",
-   "Bow",
-   "Ceremony",
-   "Thanks",
-   "Remuneration"
+   "Salut",
+   "Busur",
+   "Upacara",
+   "Terima kasih",
+   "Remunerasi"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -432,7 +432,7 @@ export const kanjiN3 = [
   "kanji": "耳",
   "level": "N3",
   "meanings": [
-   "Ear"
+   "Telinga"
   ],
   "kunyomi": [
    "みみ"
@@ -453,10 +453,10 @@ export const kanjiN3 = [
   "kanji": "交",
   "level": "N3",
   "meanings": [
-   "Mingle",
-   "Mixing",
-   "Association",
-   "Coming & Going"
+   "Membaur",
+   "Percampuran",
+   "Asosiasi",
+   "Datang & Pergi"
   ],
   "kunyomi": [
    "まじ.わる",
@@ -496,8 +496,8 @@ export const kanjiN3 = [
   "kanji": "光",
   "level": "N3",
   "meanings": [
-   "Ray",
-   "Light"
+   "Sinar",
+   "Lampu"
   ],
   "kunyomi": [
    "ひか.る",
@@ -529,11 +529,11 @@ export const kanjiN3 = [
   "kanji": "回",
   "level": "N3",
   "meanings": [
-   "-times",
-   "Round",
-   "Game",
-   "Revolve",
-   "Counter For Occurrences"
+   "-kali",
+   "Bulat",
+   "Permainan",
+   "Berputar",
+   "Penghitung Untuk Kejadian"
   ],
   "kunyomi": [
    "まわ.る",
@@ -573,10 +573,10 @@ export const kanjiN3 = [
   "kanji": "当",
   "level": "N3",
   "meanings": [
-   "Hit",
-   "Right",
-   "Appropriate",
-   "Himself"
+   "Memukul",
+   "Benar",
+   "Sesuai",
+   "Diri"
   ],
   "kunyomi": [
    "あ.たる",
@@ -612,9 +612,9 @@ export const kanjiN3 = [
   "kanji": "米",
   "level": "N3",
   "meanings": [
-   "Rice",
-   "Usa",
-   "Metre"
+   "Beras",
+   "Amerika Serikat",
+   "Meter"
   ],
   "kunyomi": [
    "こめ",
@@ -638,7 +638,7 @@ export const kanjiN3 = [
   "kanji": "声",
   "level": "N3",
   "meanings": [
-   "Voice"
+   "Suara"
   ],
   "kunyomi": [
    "こえ",
@@ -661,9 +661,9 @@ export const kanjiN3 = [
   "kanji": "形",
   "level": "N3",
   "meanings": [
-   "Shape",
-   "Form",
-   "Style"
+   "Membentuk",
+   "Membentuk",
+   "Gaya"
   ],
   "kunyomi": [
    "かた",
@@ -688,12 +688,12 @@ export const kanjiN3 = [
   "kanji": "草",
   "level": "N3",
   "meanings": [
-   "Grass",
-   "Weeds",
-   "Herbs",
-   "Pasture",
-   "Write",
-   "Draft"
+   "Rumput",
+   "Gulma",
+   "herbal",
+   "Padang rumput",
+   "Menulis",
+   "Draf"
   ],
   "kunyomi": [
    "くさ",
@@ -716,12 +716,12 @@ export const kanjiN3 = [
   "kanji": "化",
   "level": "N3",
   "meanings": [
-   "Change",
-   "Take The Form Of",
-   "Influence",
-   "Enchant",
-   "Delude",
-   "-ization"
+   "Mengubah",
+   "Ambil Bentuknya",
+   "Pengaruh",
+   "Mempesona",
+   "Menipu",
+   "-isasi"
   ],
   "kunyomi": [
    "ば.ける",
@@ -756,10 +756,10 @@ export const kanjiN3 = [
   "kanji": "両",
   "level": "N3",
   "meanings": [
-   "Both",
-   "Old Japanese Coin",
-   "Counter For Carriages (e.g., In A Train)",
-   "Two"
+   "Keduanya",
+   "Koin Jepang Kuno",
+   "Konter Untuk Pengangkutan (misalnya, Di Dalam Kereta)",
+   "Dua"
   ],
   "kunyomi": [
    "てる",
@@ -791,11 +791,11 @@ export const kanjiN3 = [
   "kanji": "全",
   "level": "N3",
   "meanings": [
-   "Whole",
-   "Entire",
-   "All",
-   "Complete",
-   "Fulfill"
+   "Utuh",
+   "Seluruh",
+   "Semua",
+   "Menyelesaikan",
+   "Memenuhi"
   ],
   "kunyomi": [
    "まった.く",
@@ -827,13 +827,13 @@ export const kanjiN3 = [
   "kanji": "向",
   "level": "N3",
   "meanings": [
-   "Yonder",
-   "Facing",
-   "Beyond",
-   "Confront",
-   "Defy",
-   "Tend Toward",
-   "Approach"
+   "Di sana",
+   "Menghadapi",
+   "Di luar",
+   "Mengonfrontasi",
+   "Menentang",
+   "Cenderung Menuju",
+   "Mendekati"
   ],
   "kunyomi": [
    "む.く",
@@ -874,17 +874,17 @@ export const kanjiN3 = [
   "kanji": "曲",
   "level": "N3",
   "meanings": [
-   "Bend",
-   "Music",
-   "Melody",
-   "Composition",
-   "Pleasure",
-   "Injustice",
-   "Fault",
-   "Curve",
-   "Crooked",
-   "Perverse",
-   "Lean"
+   "Membengkokkan",
+   "Musik",
+   "Melodi",
+   "Komposisi",
+   "Kesenangan",
+   "Ketidakadilan",
+   "Kesalahan",
+   "Melengkung",
+   "Bengkok",
+   "Jahat",
+   "Bersandar"
   ],
   "kunyomi": [
    "ま.がる",
@@ -917,9 +917,9 @@ export const kanjiN3 = [
   "kanji": "次",
   "level": "N3",
   "meanings": [
-   "Next",
-   "Order",
-   "Sequence"
+   "Berikutnya",
+   "Memesan",
+   "Urutan"
   ],
   "kunyomi": [
    "つ.ぐ",
@@ -947,11 +947,11 @@ export const kanjiN3 = [
   "kanji": "直",
   "level": "N3",
   "meanings": [
-   "Straightaway",
-   "Honesty",
-   "Frankness",
-   "Fix",
-   "Repair"
+   "Lurus",
+   "Kejujuran",
+   "Keterusterangan",
+   "Memperbaiki",
+   "Memperbaiki"
   ],
   "kunyomi": [
    "ただ.ちに",
@@ -989,10 +989,10 @@ export const kanjiN3 = [
   "kanji": "活",
   "level": "N3",
   "meanings": [
-   "Lively",
-   "Resuscitation",
-   "Being Helped",
-   "Living"
+   "Hidup",
+   "Resusitasi",
+   "Dibantu",
+   "Hidup"
   ],
   "kunyomi": [
    "い.きる",
@@ -1025,11 +1025,11 @@ export const kanjiN3 = [
   "kanji": "点",
   "level": "N3",
   "meanings": [
-   "Spot",
-   "Point",
-   "Mark",
-   "Speck",
-   "Decimal Point"
+   "Titik",
+   "Titik",
+   "Tanda",
+   "Bintik",
+   "Titik Desimal"
   ],
   "kunyomi": [
    "つ.ける",
@@ -1066,9 +1066,9 @@ export const kanjiN3 = [
   "kanji": "科",
   "level": "N3",
   "meanings": [
-   "Department",
-   "Course",
-   "Section"
+   "Departemen",
+   "Kursus",
+   "Bagian"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1097,8 +1097,8 @@ export const kanjiN3 = [
   "kanji": "首",
   "level": "N3",
   "meanings": [
-   "Neck",
-   "Counter For Songs And Poems"
+   "Leher",
+   "Counter Untuk Lagu Dan Puisi"
   ],
   "kunyomi": [
    "くび"
@@ -1129,10 +1129,10 @@ export const kanjiN3 = [
   "kanji": "欠",
   "level": "N3",
   "meanings": [
-   "Lack",
-   "Gap",
-   "Fail",
-   "Yawning Radical (no. 76)"
+   "Kekurangan",
+   "Celah",
+   "Gagal",
+   "Menguap Radikal (no. 76)"
   ],
   "kunyomi": [
    "か.ける",
@@ -1165,8 +1165,8 @@ export const kanjiN3 = [
   "kanji": "由",
   "level": "N3",
   "meanings": [
-   "Wherefore",
-   "A Reason"
+   "Oleh karena",
+   "Sebuah Alasan"
   ],
   "kunyomi": [
    "よし",
@@ -1200,9 +1200,9 @@ export const kanjiN3 = [
   "kanji": "民",
   "level": "N3",
   "meanings": [
-   "People",
-   "Nation",
-   "Subjects"
+   "Rakyat",
+   "Bangsa",
+   "Subyek"
   ],
   "kunyomi": [
    "たみ"
@@ -1233,10 +1233,10 @@ export const kanjiN3 = [
   "kanji": "付",
   "level": "N3",
   "meanings": [
-   "Adhere",
-   "Attach",
-   "Refer To",
-   "Append"
+   "Mengikuti",
+   "Menempel",
+   "Lihat",
+   "Menambahkan"
   ],
   "kunyomi": [
    "つ.ける",
@@ -1281,11 +1281,11 @@ export const kanjiN3 = [
   "kanji": "失",
   "level": "N3",
   "meanings": [
-   "Lose",
-   "Error",
-   "Fault",
-   "Disadvantage",
-   "Loss"
+   "Kehilangan",
+   "Kesalahan",
+   "Kesalahan",
+   "Kerugian",
+   "Kehilangan"
   ],
   "kunyomi": [
    "うしな.う",
@@ -1317,9 +1317,9 @@ export const kanjiN3 = [
   "kanji": "必",
   "level": "N3",
   "meanings": [
-   "Invariably",
-   "Certain",
-   "Inevitable"
+   "Selalu",
+   "Yakin",
+   "Tidak bisa dihindari"
   ],
   "kunyomi": [
    "かなら.ず"
@@ -1350,14 +1350,14 @@ export const kanjiN3 = [
   "kanji": "未",
   "level": "N3",
   "meanings": [
-   "Un-",
-   "Not Yet",
-   "Hitherto",
-   "Still",
-   "Even Now",
-   "Sign Of The Ram",
-   "1-3pm",
-   "Eighth Sign Of Chinese Zodiac"
+   "Tidak-",
+   "Belum",
+   "Sampai sekarang",
+   "Tetap",
+   "Bahkan Sekarang",
+   "Tanda Domba Jantan",
+   "1-3 sore",
+   "Tanda Kedelapan Zodiak Cina"
   ],
   "kunyomi": [
    "いま.だ",
@@ -1386,11 +1386,11 @@ export const kanjiN3 = [
   "kanji": "末",
   "level": "N3",
   "meanings": [
-   "End",
-   "Close",
+   "Akhir",
+   "Menutup",
    "Tip",
-   "Powder",
-   "Posterity"
+   "Bubuk",
+   "Anak cucu"
   ],
   "kunyomi": [
    "すえ"
@@ -1412,9 +1412,9 @@ export const kanjiN3 = [
   "kanji": "記",
   "level": "N3",
   "meanings": [
-   "Scribe",
-   "Account",
-   "Narrative"
+   "Penulis",
+   "Akun",
+   "Cerita"
   ],
   "kunyomi": [
    "しる.す"
@@ -1445,14 +1445,14 @@ export const kanjiN3 = [
   "kanji": "組",
   "level": "N3",
   "meanings": [
-   "Association",
-   "Braid",
-   "Plait",
-   "Construct",
-   "Assemble",
-   "Unite",
-   "Cooperate",
-   "Grapple"
+   "Asosiasi",
+   "Menjalin",
+   "Anyaman",
+   "Membangun",
+   "Berkumpul",
+   "Bersatu",
+   "Bekerja sama",
+   "Bergulat"
   ],
   "kunyomi": [
    "く.む",
@@ -1485,8 +1485,8 @@ export const kanjiN3 = [
   "kanji": "船",
   "level": "N3",
   "meanings": [
-   "Ship",
-   "Boat"
+   "Mengirimkan",
+   "Kapal"
   ],
   "kunyomi": [
    "ふね",
@@ -1508,7 +1508,7 @@ export const kanjiN3 = [
   "kanji": "雪",
   "level": "N3",
   "meanings": [
-   "Snow"
+   "Salju"
   ],
   "kunyomi": [
    "ゆき"
@@ -1529,10 +1529,10 @@ export const kanjiN3 = [
   "kanji": "支",
   "level": "N3",
   "meanings": [
-   "Branch",
-   "Support",
-   "Sustain",
-   "Branch Radical (no. 65)"
+   "Cabang",
+   "Mendukung",
+   "Mempertahankan",
+   "Cabang Radikal (no. 65)"
   ],
   "kunyomi": [
    "ささ.える",
@@ -1565,9 +1565,9 @@ export const kanjiN3 = [
   "kanji": "助",
   "level": "N3",
   "meanings": [
-   "Help",
-   "Rescue",
-   "Assist"
+   "Membantu",
+   "Menyelamatkan",
+   "Membantu"
   ],
   "kunyomi": [
    "たす.ける",
@@ -1601,10 +1601,10 @@ export const kanjiN3 = [
   "kanji": "君",
   "level": "N3",
   "meanings": [
-   "Mister",
-   "You",
-   "Ruler",
-   "Male Name Suffix"
+   "Tuan",
+   "Anda",
+   "Penggaris",
+   "Akhiran Nama Laki-Laki"
   ],
   "kunyomi": [
    "きみ",
@@ -1626,13 +1626,13 @@ export const kanjiN3 = [
   "kanji": "対",
   "level": "N3",
   "meanings": [
-   "Vis-a-vis",
-   "Opposite",
-   "Even",
-   "Equal",
-   "Versus",
+   "Berhadapan dengan",
+   "Di depan",
+   "Bahkan",
+   "Setara",
+   "Melawan",
    "Anti-",
-   "Compare"
+   "Membandingkan"
   ],
   "kunyomi": [
    "あいて",
@@ -1669,14 +1669,14 @@ export const kanjiN3 = [
   "kanji": "局",
   "level": "N3",
   "meanings": [
-   "Bureau",
-   "Board",
-   "Office",
-   "Affair",
-   "Conclusion",
-   "Court Lady",
-   "Lady-in-waiting",
-   "Her Apartment"
+   "Biro",
+   "Papan",
+   "Kantor",
+   "Perselingkuhan",
+   "Kesimpulan",
+   "Nyonya Pengadilan",
+   "Nyonya yang sedang menunggu",
+   "Apartemennya"
   ],
   "kunyomi": [
    "つぼね"
@@ -1702,13 +1702,13 @@ export const kanjiN3 = [
   "kanji": "役",
   "level": "N3",
   "meanings": [
-   "Duty",
-   "War",
-   "Campaign",
-   "Drafted Labor",
-   "Office",
-   "Service",
-   "Role"
+   "Tugas",
+   "Perang",
+   "Kampanye",
+   "Draf Tenaga Kerja",
+   "Kantor",
+   "Melayani",
+   "Peran"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1733,15 +1733,15 @@ export const kanjiN3 = [
   "kanji": "投",
   "level": "N3",
   "meanings": [
-   "Throw",
-   "Discard",
-   "Abandon",
-   "Launch Into",
-   "Join",
-   "Invest In",
-   "Hurl",
-   "Give Up",
-   "Sell At A Loss"
+   "Melemparkan",
+   "Membuang",
+   "Meninggalkan",
+   "Luncurkan Ke",
+   "Bergabung",
+   "Berinvestasilah",
+   "Melemparkan",
+   "Menyerah",
+   "Jual Dengan Kerugian"
   ],
   "kunyomi": [
    "な.げる",
@@ -1773,10 +1773,10 @@ export const kanjiN3 = [
   "kanji": "決",
   "level": "N3",
   "meanings": [
-   "Decide",
-   "Fix",
-   "Agree Upon",
-   "Appoint"
+   "Memutuskan",
+   "Memperbaiki",
+   "Setuju",
+   "Menunjuk"
   ],
   "kunyomi": [
    "き.める",
@@ -1810,7 +1810,7 @@ export const kanjiN3 = [
   "kanji": "馬",
   "level": "N3",
   "meanings": [
-   "Horse"
+   "Kuda"
   ],
   "kunyomi": [
    "うま",
@@ -1833,8 +1833,8 @@ export const kanjiN3 = [
   "kanji": "番",
   "level": "N3",
   "meanings": [
-   "Turn",
-   "Number In A Series"
+   "Berbelok",
+   "Nomor Dalam Seri A"
   ],
   "kunyomi": [
    "つが.い"
@@ -1865,10 +1865,10 @@ export const kanjiN3 = [
   "kanji": "絵",
   "level": "N3",
   "meanings": [
-   "Picture",
-   "Drawing",
-   "Painting",
-   "Sketch"
+   "Gambar",
+   "Menggambar",
+   "Lukisan",
+   "Sketsa"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -1888,11 +1888,11 @@ export const kanjiN3 = [
   "kanji": "数",
   "level": "N3",
   "meanings": [
-   "Number",
-   "Strength",
-   "Fate",
-   "Law",
-   "Figures"
+   "Nomor",
+   "Kekuatan",
+   "Takdir",
+   "Hukum",
+   "Angka"
   ],
   "kunyomi": [
    "かず",
@@ -1931,8 +1931,8 @@ export const kanjiN3 = [
   "kanji": "所",
   "level": "N3",
   "meanings": [
-   "Place",
-   "Extent"
+   "Tempat",
+   "Cakupan"
   ],
   "kunyomi": [
    "ところ",
@@ -1966,12 +1966,12 @@ export const kanjiN3 = [
   "kanji": "具",
   "level": "N3",
   "meanings": [
-   "Tool",
-   "Utensil",
-   "Means",
-   "Possess",
-   "Ingredients",
-   "Counter For Armor, Suits, Sets Of Furniture"
+   "Alat",
+   "Perkakas",
+   "Cara",
+   "Memiliki",
+   "Bahan-bahan",
+   "Counter Untuk Armor, Jas, Set Furnitur"
   ],
   "kunyomi": [
    "そな.える",
@@ -2003,13 +2003,13 @@ export const kanjiN3 = [
   "kanji": "受",
   "level": "N3",
   "meanings": [
-   "Accept",
-   "Undergo",
-   "Answer (phone)",
-   "Take",
-   "Get",
-   "Catch",
-   "Receive"
+   "Menerima",
+   "Menjalani",
+   "Jawaban (telepon)",
+   "Mengambil",
+   "Mendapatkan",
+   "Menangkap",
+   "Menerima"
   ],
   "kunyomi": [
    "う.ける",
@@ -2042,11 +2042,11 @@ export const kanjiN3 = [
   "kanji": "和",
   "level": "N3",
   "meanings": [
-   "Harmony",
-   "Japanese Style",
-   "Peace",
-   "Soften",
-   "Japan"
+   "Harmoni",
+   "Gaya Jepang",
+   "Perdamaian",
+   "Melunakkan",
+   "Jepang"
   ],
   "kunyomi": [
    "やわ.らぐ",
@@ -2073,10 +2073,10 @@ export const kanjiN3 = [
   "kanji": "定",
   "level": "N3",
   "meanings": [
-   "Determine",
-   "Fix",
-   "Establish",
-   "Decide"
+   "Menentukan",
+   "Memperbaiki",
+   "Mendirikan",
+   "Memutuskan"
   ],
   "kunyomi": [
    "さだ.める",
@@ -2110,8 +2110,8 @@ export const kanjiN3 = [
   "kanji": "実",
   "level": "N3",
   "meanings": [
-   "Reality",
-   "Truth"
+   "Realitas",
+   "Kebenaran"
   ],
   "kunyomi": [
    "み",
@@ -2147,7 +2147,7 @@ export const kanjiN3 = [
   "kanji": "泳",
   "level": "N3",
   "meanings": [
-   "Swim"
+   "Berenang"
   ],
   "kunyomi": [
    "およ.ぐ"
@@ -2178,12 +2178,12 @@ export const kanjiN3 = [
   "kanji": "苦",
   "level": "N3",
   "meanings": [
-   "Suffering",
-   "Trial",
-   "Worry",
-   "Hardship",
-   "Feel Bitter",
-   "Scowl"
+   "Menderita",
+   "Uji coba",
+   "Khawatir",
+   "Kesulitan",
+   "Bersengit",
+   "cemberut"
   ],
   "kunyomi": [
    "くる.しい",
@@ -2219,9 +2219,9 @@ export const kanjiN3 = [
   "kanji": "表",
   "level": "N3",
   "meanings": [
-   "Surface",
-   "Table",
-   "Chart",
+   "Permukaan",
+   "Meja",
+   "Bagan",
    "Diagram"
   ],
   "kunyomi": [
@@ -2257,14 +2257,14 @@ export const kanjiN3 = [
   "kanji": "部",
   "level": "N3",
   "meanings": [
-   "Section",
-   "Bureau",
-   "Dept",
-   "Class",
-   "Copy",
-   "Part",
-   "Portion",
-   "Counter For Copies Of A Newspaper Or Magazine"
+   "Bagian",
+   "Biro",
+   "Departemen",
+   "Kelas",
+   "Menyalin",
+   "Bagian",
+   "Bagian",
+   "Counter Untuk Salinan Koran Atau Majalah"
   ],
   "kunyomi": [
    "-べ"
@@ -2295,14 +2295,14 @@ export const kanjiN3 = [
   "kanji": "乗",
   "level": "N3",
   "meanings": [
-   "Ride",
-   "Power",
-   "Multiplication",
-   "Record",
-   "Counter For Vehicles",
-   "Board",
-   "Mount",
-   "Join"
+   "Mengendarai",
+   "Kekuatan",
+   "Perkalian",
+   "Catatan",
+   "Konter Untuk Kendaraan",
+   "Papan",
+   "Gunung",
+   "Bergabung"
   ],
   "kunyomi": [
    "の.る",
@@ -2336,10 +2336,10 @@ export const kanjiN3 = [
   "kanji": "客",
   "level": "N3",
   "meanings": [
-   "Guest",
-   "Visitor",
-   "Customer",
-   "Client"
+   "Tamu",
+   "Pengunjung",
+   "Pelanggan",
+   "Klien"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2364,15 +2364,15 @@ export const kanjiN3 = [
   "kanji": "相",
   "level": "N3",
   "meanings": [
-   "Inter-",
-   "Mutual",
-   "Together",
-   "Each Other",
-   "Minister Of State",
-   "Councillor",
-   "Aspect",
-   "Phase",
-   "Physiognomy"
+   "Antar-",
+   "Saling",
+   "Bersama",
+   "Satu sama lain",
+   "Menteri Negara",
+   "Penasihat",
+   "Aspek",
+   "Fase",
+   "Wajah"
   ],
   "kunyomi": [
    "あい-"
@@ -2404,8 +2404,8 @@ export const kanjiN3 = [
   "kanji": "美",
   "level": "N3",
   "meanings": [
-   "Beauty",
-   "Beautiful"
+   "Kecantikan",
+   "Cantik"
   ],
   "kunyomi": [
    "うつく.しい"
@@ -2437,13 +2437,13 @@ export const kanjiN3 = [
   "kanji": "負",
   "level": "N3",
   "meanings": [
-   "Defeat",
-   "Negative",
+   "Mengalahkan",
+   "Negatif",
    "-",
-   "Minus",
-   "Bear",
-   "Owe",
-   "Assume A Responsibility"
+   "dikurangi",
+   "Beruang",
+   "Utang",
+   "Asumsikan Tanggung Jawab"
   ],
   "kunyomi": [
    "ま.ける",
@@ -2476,8 +2476,8 @@ export const kanjiN3 = [
   "kanji": "談",
   "level": "N3",
   "meanings": [
-   "Discuss",
-   "Talk"
+   "Membahas",
+   "Bicara"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -2506,11 +2506,11 @@ export const kanjiN3 = [
   "kanji": "要",
   "level": "N3",
   "meanings": [
-   "Need",
-   "Main Point",
-   "Essence",
-   "Pivot",
-   "Key To"
+   "Membutuhkan",
+   "Poin Utama",
+   "Esensi",
+   "Poros",
+   "Kunci Untuk"
   ],
   "kunyomi": [
    "い.る",
@@ -2542,10 +2542,10 @@ export const kanjiN3 = [
   "kanji": "勝",
   "level": "N3",
   "meanings": [
-   "Victory",
-   "Win",
-   "Prevail",
-   "Excel"
+   "Kemenangan",
+   "Menang",
+   "Bertahan",
+   "Unggul"
   ],
   "kunyomi": [
    "か.つ",
@@ -2580,8 +2580,8 @@ export const kanjiN3 = [
   "kanji": "速",
   "level": "N3",
   "meanings": [
-   "Quick",
-   "Fast"
+   "Cepat",
+   "Cepat"
   ],
   "kunyomi": [
    "はや.い",
@@ -2615,10 +2615,10 @@ export const kanjiN3 = [
   "kanji": "配",
   "level": "N3",
   "meanings": [
-   "Distribute",
-   "Spouse",
-   "Exile",
-   "Rationing"
+   "Mendistribusikan",
+   "Pasangan",
+   "Mengasingkan",
+   "Pendistribusian"
   ],
   "kunyomi": [
    "くば.る"
@@ -2649,8 +2649,8 @@ export const kanjiN3 = [
   "kanji": "酒",
   "level": "N3",
   "meanings": [
-   "Sake",
-   "Alcohol"
+   "Demi",
+   "Alkohol"
   ],
   "kunyomi": [
    "さけ",
@@ -2672,10 +2672,10 @@ export const kanjiN3 = [
   "kanji": "進",
   "level": "N3",
   "meanings": [
-   "Advance",
-   "Proceed",
-   "Progress",
-   "Promote"
+   "Maju",
+   "Melanjutkan",
+   "Kemajuan",
+   "Mendorong"
   ],
   "kunyomi": [
    "すす.む",
@@ -2707,11 +2707,11 @@ export const kanjiN3 = [
   "kanji": "落",
   "level": "N3",
   "meanings": [
-   "Fall",
-   "Drop",
-   "Come Down",
-   "Village",
-   "Hamlet"
+   "Jatuh",
+   "Menjatuhkan",
+   "Datang",
+   "Desa",
+   "Dukuh"
   ],
   "kunyomi": [
    "お.ちる",
@@ -2744,15 +2744,15 @@ export const kanjiN3 = [
   "kanji": "葉",
   "level": "N3",
   "meanings": [
-   "Leaf",
-   "Plane",
-   "Lobe",
-   "Needle",
-   "Blade",
-   "Spear",
-   "Counter For Flat Things",
-   "Fragment",
-   "Piece"
+   "Daun",
+   "Pesawat",
+   "Cuping",
+   "Jarum",
+   "Bilah",
+   "Tombak",
+   "Penghitung Untuk Benda Datar",
+   "Fragmen",
+   "Bagian"
   ],
   "kunyomi": [
    "は"
@@ -2778,10 +2778,10 @@ export const kanjiN3 = [
   "kanji": "路",
   "level": "N3",
   "meanings": [
-   "Path",
-   "Route",
-   "Road",
-   "Distance"
+   "Jalur",
+   "Rute",
+   "Jalan",
+   "Jarak"
   ],
   "kunyomi": [
    "-じ",
@@ -2804,13 +2804,13 @@ export const kanjiN3 = [
   "kanji": "鳴",
   "level": "N3",
   "meanings": [
-   "Chirp",
-   "Cry",
-   "Bark",
-   "Sound",
-   "Ring",
-   "Echo",
-   "Honk"
+   "Kicauan",
+   "Menangis",
+   "Kulit pohon",
+   "Suara",
+   "Cincin",
+   "Gema",
+   "Membunyikan"
   ],
   "kunyomi": [
    "な.く",
@@ -2843,13 +2843,13 @@ export const kanjiN3 = [
   "kanji": "横",
   "level": "N3",
   "meanings": [
-   "Sideways",
-   "Side",
-   "Horizontal",
-   "Width",
-   "Woof",
-   "Unreasonable",
-   "Perverse"
+   "Ke samping",
+   "Samping",
+   "Horisontal",
+   "Lebar",
+   "Pakan",
+   "Tidak masuk akal",
+   "Jahat"
   ],
   "kunyomi": [
    "よこ"
@@ -2880,16 +2880,16 @@ export const kanjiN3 = [
   "kanji": "調",
   "level": "N3",
   "meanings": [
-   "Tune",
-   "Tone",
+   "Lagu",
+   "Nada",
    "Meter",
-   "Key (music)",
-   "Writing Style",
-   "Prepare",
-   "Exorcise",
-   "Investigate",
-   "Harmonize",
-   "Mediate"
+   "Kunci (musik)",
+   "Gaya Penulisan",
+   "Mempersiapkan",
+   "Mengusir setan",
+   "Menyelidiki",
+   "Menyelaraskan",
+   "Menengahi"
   ],
   "kunyomi": [
    "しら.べる",
@@ -2923,8 +2923,8 @@ export const kanjiN3 = [
   "kanji": "頭",
   "level": "N3",
   "meanings": [
-   "Head",
-   "Counter For Large Animals"
+   "Kepala",
+   "Konter Untuk Hewan Besar"
   ],
   "kunyomi": [
    "あたま",
@@ -2950,8 +2950,8 @@ export const kanjiN3 = [
   "kanji": "顔",
   "level": "N3",
   "meanings": [
-   "Face",
-   "Expression"
+   "Menghadapi",
+   "Ekspresi"
   ],
   "kunyomi": [
    "かお"
@@ -2972,9 +2972,9 @@ export const kanjiN3 = [
   "kanji": "最",
   "level": "N3",
   "meanings": [
-   "Utmost",
-   "Most",
-   "Extreme"
+   "Sepenuhnya",
+   "Paling",
+   "Ekstrim"
   ],
   "kunyomi": [
    "もっと.も",
@@ -3007,9 +3007,9 @@ export const kanjiN3 = [
   "kanji": "争",
   "level": "N3",
   "meanings": [
-   "Contend",
-   "Dispute",
-   "Argue"
+   "Bersaing",
+   "Sengketa",
+   "Membantah"
   ],
   "kunyomi": [
    "あらそ.う",
@@ -3041,14 +3041,14 @@ export const kanjiN3 = [
   "kanji": "伝",
   "level": "N3",
   "meanings": [
-   "Transmit",
-   "Go Along",
-   "Walk Along",
-   "Follow",
-   "Report",
-   "Communicate",
-   "Legend",
-   "Tradition"
+   "Mengirimkan",
+   "Ikut",
+   "Berjalan Bersama",
+   "Mengikuti",
+   "Laporan",
+   "Menyampaikan",
+   "Legenda",
+   "Tradisi"
   ],
   "kunyomi": [
    "つた.わる",
@@ -3085,13 +3085,13 @@ export const kanjiN3 = [
   "kanji": "共",
   "level": "N3",
   "meanings": [
-   "Together",
-   "Both",
-   "Neither",
-   "All",
-   "And",
-   "Alike",
-   "With"
+   "Bersama",
+   "Keduanya",
+   "Juga tidak",
+   "Semua",
+   "Dan",
+   "Sama",
+   "Dengan"
   ],
   "kunyomi": [
    "とも",
@@ -3124,9 +3124,9 @@ export const kanjiN3 = [
   "kanji": "好",
   "level": "N3",
   "meanings": [
-   "Fond",
-   "Pleasing",
-   "Like Something"
+   "Suka",
+   "Menyenangkan",
+   "Seperti Sesuatu"
   ],
   "kunyomi": [
    "この.む",
@@ -3160,12 +3160,12 @@ export const kanjiN3 = [
   "kanji": "成",
   "level": "N3",
   "meanings": [
-   "Turn Into",
-   "Become",
-   "Get",
-   "Grow",
-   "Elapse",
-   "Reach"
+   "Berubah menjadi",
+   "Menjadi",
+   "Mendapatkan",
+   "Tumbuh",
+   "Berlalu",
+   "Mencapai"
   ],
   "kunyomi": [
    "な.る",
@@ -3199,9 +3199,9 @@ export const kanjiN3 = [
   "kanji": "老",
   "level": "N3",
   "meanings": [
-   "Old Man",
-   "Old Age",
-   "Grow Old"
+   "Pak Tua",
+   "Usia Tua",
+   "Menjadi tua"
   ],
   "kunyomi": [
    "お.いる",
@@ -3228,12 +3228,12 @@ export const kanjiN3 = [
   "kanji": "位",
   "level": "N3",
   "meanings": [
-   "Rank",
-   "Grade",
-   "Throne",
-   "Crown",
-   "About",
-   "Some"
+   "Pangkat",
+   "Nilai",
+   "Takhta",
+   "Mahkota",
+   "Tentang",
+   "Beberapa"
   ],
   "kunyomi": [
    "くらい",
@@ -3265,8 +3265,8 @@ export const kanjiN3 = [
   "kanji": "初",
   "level": "N3",
   "meanings": [
-   "First Time",
-   "Beginning"
+   "Pertama kali",
+   "Awal"
   ],
   "kunyomi": [
    "はじ.め",
@@ -3303,9 +3303,9 @@ export const kanjiN3 = [
   "kanji": "利",
   "level": "N3",
   "meanings": [
-   "Profit",
-   "Advantage",
-   "Benefit"
+   "Laba",
+   "Keuntungan",
+   "Keuntungan"
   ],
   "kunyomi": [
    "き.く"
@@ -3336,9 +3336,9 @@ export const kanjiN3 = [
   "kanji": "努",
   "level": "N3",
   "meanings": [
-   "Toil",
-   "Diligent",
-   "As Much As Possible"
+   "Bekerja keras",
+   "Rajin",
+   "Sebisa Mungkin"
   ],
   "kunyomi": [
    "つと.める"
@@ -3359,11 +3359,11 @@ export const kanjiN3 = [
   "kanji": "労",
   "level": "N3",
   "meanings": [
-   "Labor",
-   "Thank For",
-   "Reward For",
-   "Toil",
-   "Trouble"
+   "Tenaga kerja",
+   "Terima kasih untuk",
+   "Hadiah Untuk",
+   "Bekerja keras",
+   "Masalah"
   ],
   "kunyomi": [
    "ろう.する",
@@ -3394,12 +3394,12 @@ export const kanjiN3 = [
   "kanji": "命",
   "level": "N3",
   "meanings": [
-   "Fate",
-   "Command",
-   "Decree",
-   "Destiny",
-   "Life",
-   "Appoint"
+   "Takdir",
+   "Memerintah",
+   "Dekrit",
+   "Takdir",
+   "Kehidupan",
+   "Menunjuk"
   ],
   "kunyomi": [
    "いのち"
@@ -3431,13 +3431,13 @@ export const kanjiN3 = [
   "kanji": "放",
   "level": "N3",
   "meanings": [
-   "Set Free",
-   "Release",
-   "Fire",
-   "Shoot",
-   "Emit",
-   "Banish",
-   "Liberate"
+   "Membebaskan",
+   "Melepaskan",
+   "Api",
+   "Menembak",
+   "Memancarkan",
+   "Membuang",
+   "Membebaskan"
   ],
   "kunyomi": [
    "はな.す",
@@ -3473,9 +3473,9 @@ export const kanjiN3 = [
   "kanji": "昔",
   "level": "N3",
   "meanings": [
-   "Once Upon A Time",
-   "Antiquity",
-   "Old Times"
+   "Pada suatu ketika",
+   "Jaman dahulu",
+   "Zaman Lama"
   ],
   "kunyomi": [
    "むかし"
@@ -3497,10 +3497,10 @@ export const kanjiN3 = [
   "kanji": "育",
   "level": "N3",
   "meanings": [
-   "Bring Up",
-   "Grow Up",
-   "Raise",
-   "Rear"
+   "Membesarkan",
+   "Tumbuh dewasa",
+   "Mengangkat",
+   "Belakang"
   ],
   "kunyomi": [
    "そだ.つ",
@@ -3534,12 +3534,12 @@ export const kanjiN3 = [
   "kanji": "指",
   "level": "N3",
   "meanings": [
-   "Finger",
-   "Point To",
-   "Indicate",
-   "Put Into",
-   "Play (chess)",
-   "Measure (ruler)"
+   "Jari",
+   "Tunjuk Ke",
+   "Menunjukkan",
+   "Masukkan ke dalam",
+   "Bermain (catur)",
+   "Ukur (penggaris)"
   ],
   "kunyomi": [
    "ゆび",
@@ -3572,9 +3572,9 @@ export const kanjiN3 = [
   "kanji": "神",
   "level": "N3",
   "meanings": [
-   "Gods",
-   "Mind",
-   "Soul"
+   "Dewa",
+   "Pikiran",
+   "Jiwa"
   ],
   "kunyomi": [
    "かみ",
@@ -3608,11 +3608,11 @@ export const kanjiN3 = [
   "kanji": "追",
   "level": "N3",
   "meanings": [
-   "Chase",
-   "Drive Away",
-   "Follow",
-   "Pursue",
-   "Meanwhile"
+   "Mengejar",
+   "Mengusir",
+   "Mengikuti",
+   "Mengejar",
+   "Sementara itu"
   ],
   "kunyomi": [
    "お.う"
@@ -3638,9 +3638,9 @@ export const kanjiN3 = [
   "kanji": "戦",
   "level": "N3",
   "meanings": [
-   "War",
-   "Battle",
-   "Match"
+   "Perang",
+   "Pertempuran",
+   "Cocok"
   ],
   "kunyomi": [
    "いくさ",
@@ -3675,9 +3675,9 @@ export const kanjiN3 = [
   "kanji": "良",
   "level": "N3",
   "meanings": [
-   "Good",
-   "Pleasing",
-   "Skilled"
+   "Bagus",
+   "Menyenangkan",
+   "Terampil"
   ],
   "kunyomi": [
    "よ.い",
@@ -3701,12 +3701,12 @@ export const kanjiN3 = [
   "kanji": "便",
   "level": "N3",
   "meanings": [
-   "Convenience",
-   "Facility",
-   "Excrement",
-   "Feces",
-   "Letter",
-   "Chance"
+   "Kenyamanan",
+   "Fasilitas",
+   "Kotoran",
+   "Kotoran",
+   "Surat",
+   "Peluang"
   ],
   "kunyomi": [
    "たよ.り"
@@ -3738,7 +3738,7 @@ export const kanjiN3 = [
   "kanji": "働",
   "level": "N3",
   "meanings": [
-   "Work",
+   "Bekerja",
    "(kokuji)"
   ],
   "kunyomi": [
@@ -3770,9 +3770,9 @@ export const kanjiN3 = [
   "kanji": "庭",
   "level": "N3",
   "meanings": [
-   "Courtyard",
-   "Garden",
-   "Yard"
+   "Halaman",
+   "Kebun",
+   "Halaman"
   ],
   "kunyomi": [
    "にわ"
@@ -3798,10 +3798,10 @@ export const kanjiN3 = [
   "kanji": "息",
   "level": "N3",
   "meanings": [
-   "Breath",
-   "Respiration",
-   "Son",
-   "Interest (on Money)"
+   "Napas",
+   "Pernafasan",
+   "Putra",
+   "Bunga (atas Uang)"
   ],
   "kunyomi": [
    "いき"
@@ -3822,10 +3822,10 @@ export const kanjiN3 = [
   "kanji": "流",
   "level": "N3",
   "meanings": [
-   "Current",
-   "A Sink",
-   "Flow",
-   "Forfeit"
+   "Saat ini",
+   "Sebuah Wastafel",
+   "Mengalir",
+   "Kehilangan"
   ],
   "kunyomi": [
    "なが.れる",
@@ -3860,11 +3860,11 @@ export const kanjiN3 = [
   "kanji": "消",
   "level": "N3",
   "meanings": [
-   "Extinguish",
-   "Blow Out",
-   "Turn Off",
-   "Neutralize",
-   "Cancel"
+   "Memadamkan",
+   "Meniup",
+   "Mematikan",
+   "Menetralkan",
+   "Membatalkan"
   ],
   "kunyomi": [
    "き.える",
@@ -3897,9 +3897,9 @@ export const kanjiN3 = [
   "level": "N3",
   "meanings": [
    "Metropolis",
-   "Capital",
-   "All",
-   "Everything"
+   "Modal",
+   "Semua",
+   "Semuanya"
   ],
   "kunyomi": [
    "みやこ"
@@ -3931,10 +3931,10 @@ export const kanjiN3 = [
   "kanji": "商",
   "level": "N3",
   "meanings": [
-   "Make A Deal",
-   "Selling",
-   "Dealing In",
-   "Merchant"
+   "Buat Kesepakatan",
+   "Penjualan",
+   "Berurusan",
+   "Pedagang"
   ],
   "kunyomi": [
    "あきな.う"
@@ -3965,10 +3965,10 @@ export const kanjiN3 = [
   "kanji": "深",
   "level": "N3",
   "meanings": [
-   "Deep",
-   "Heighten",
-   "Intensify",
-   "Strengthen"
+   "Dalam",
+   "Mempertinggi",
+   "Mengintensifkan",
+   "Memperkuat"
   ],
   "kunyomi": [
    "ふか.い",
@@ -3998,8 +3998,8 @@ export const kanjiN3 = [
   "kanji": "球",
   "level": "N3",
   "meanings": [
-   "Ball",
-   "Sphere"
+   "Bola",
+   "Bola"
   ],
   "kunyomi": [
    "たま"
@@ -4020,12 +4020,12 @@ export const kanjiN3 = [
   "kanji": "陽",
   "level": "N3",
   "meanings": [
-   "Sunshine",
-   "Yang Principle",
-   "Positive",
-   "Male",
-   "Heaven",
-   "Daytime"
+   "Cahaya matahari",
+   "Prinsip Yang",
+   "Positif",
+   "Pria",
+   "Surga",
+   "Siang hari"
   ],
   "kunyomi": [
    "ひ"
@@ -4051,7 +4051,7 @@ export const kanjiN3 = [
   "kanji": "寒",
   "level": "N3",
   "meanings": [
-   "Cold"
+   "Dingin"
   ],
   "kunyomi": [
    "さむ.い"
@@ -4072,10 +4072,10 @@ export const kanjiN3 = [
   "kanji": "悲",
   "level": "N3",
   "meanings": [
-   "Grieve",
-   "Sad",
-   "Deplore",
-   "Regret"
+   "Bersedih",
+   "Sedih",
+   "Menyayangkan",
+   "Menyesali"
   ],
   "kunyomi": [
    "かな.しい",
@@ -4107,10 +4107,10 @@ export const kanjiN3 = [
   "kanji": "期",
   "level": "N3",
   "meanings": [
-   "Period",
-   "Time",
-   "Date",
-   "Term"
+   "Periode",
+   "Waktu",
+   "Tanggal",
+   "Ketentuan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -4140,8 +4140,8 @@ export const kanjiN3 = [
   "kanji": "歯",
   "level": "N3",
   "meanings": [
-   "Tooth",
-   "Cog"
+   "Gigi",
+   "Gigi"
   ],
   "kunyomi": [
    "よわい",
@@ -4170,7 +4170,7 @@ export const kanjiN3 = [
   "kanji": "港",
   "level": "N3",
   "meanings": [
-   "Harbor"
+   "Pelabuhan"
   ],
   "kunyomi": [
    "みなと"
@@ -4191,8 +4191,8 @@ export const kanjiN3 = [
   "kanji": "登",
   "level": "N3",
   "meanings": [
-   "Ascend",
-   "Climb Up"
+   "Naik",
+   "Naik"
   ],
   "kunyomi": [
    "のぼ.る",
@@ -4228,10 +4228,10 @@ export const kanjiN3 = [
   "kanji": "亡",
   "level": "N3",
   "meanings": [
-   "Deceased",
-   "The Late",
-   "Dying",
-   "Perish"
+   "Almarhum",
+   "Yang Terlambat",
+   "Sekarat",
+   "Tewas"
   ],
   "kunyomi": [
    "な.い",
@@ -4262,10 +4262,10 @@ export const kanjiN3 = [
   "kanji": "合",
   "level": "N3",
   "meanings": [
-   "Fit",
-   "Suit",
-   "Join",
-   "0.1"
+   "Bugar",
+   "Setelan",
+   "Bergabung",
+   "0,1"
   ],
   "kunyomi": [
    "あ.う",
@@ -4306,10 +4306,10 @@ export const kanjiN3 = [
   "kanji": "予",
   "level": "N3",
   "meanings": [
-   "Beforehand",
-   "Previous",
-   "Myself",
-   "I"
+   "Sebelumnya",
+   "Sebelumnya",
+   "Saya sendiri",
+   "SAYA"
   ],
   "kunyomi": [
    "あらかじ.め"
@@ -4379,10 +4379,10 @@ export const kanjiN3 = [
   "kanji": "返",
   "level": "N3",
   "meanings": [
-   "Return",
-   "Answer",
-   "Fade",
-   "Repay"
+   "Kembali",
+   "Menjawab",
+   "Memudar",
+   "Membayar kembali"
   ],
   "kunyomi": [
    "かえ.す",
@@ -4416,14 +4416,14 @@ export const kanjiN3 = [
   "kanji": "宿",
   "level": "N3",
   "meanings": [
-   "Inn",
-   "Lodging",
-   "Relay Station",
-   "Dwell",
-   "Lodge",
-   "Be Pregnant",
-   "Home",
-   "Dwelling"
+   "Losmen",
+   "Penginapan",
+   "Stasiun Relai",
+   "Tinggal",
+   "Mengajukan",
+   "Hamil",
+   "Rumah",
+   "Tempat tinggal"
   ],
   "kunyomi": [
    "やど",
@@ -4456,10 +4456,10 @@ export const kanjiN3 = [
   "kanji": "想",
   "level": "N3",
   "meanings": [
-   "Concept",
-   "Think",
-   "Idea",
-   "Thought"
+   "Konsep",
+   "Memikirkan",
+   "Ide",
+   "Pikiran"
   ],
   "kunyomi": [
    "おも.う"
@@ -4491,9 +4491,9 @@ export const kanjiN3 = [
   "kanji": "感",
   "level": "N3",
   "meanings": [
-   "Emotion",
-   "Feeling",
-   "Sensation"
+   "Emosi",
+   "Merasa",
+   "Sensasi"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -4522,12 +4522,12 @@ export const kanjiN3 = [
   "kanji": "暗",
   "level": "N3",
   "meanings": [
-   "Darkness",
-   "Disappear",
-   "Shade",
-   "Informal",
-   "Grow Dark",
-   "Be Blinded"
+   "Kegelapan",
+   "Menghilang",
+   "Naungan",
+   "tidak resmi",
+   "Menjadi Gelap",
+   "Menjadi buta"
   ],
   "kunyomi": [
    "くら.い",
@@ -4561,10 +4561,10 @@ export const kanjiN3 = [
   "level": "N3",
   "meanings": [
    "Esq.",
-   "Way",
-   "Manner",
-   "Situation",
-   "Polite Suffix"
+   "Jalan",
+   "Tata krama",
+   "Situasi",
+   "Akhiran Sopan"
   ],
   "kunyomi": [
    "さま",
@@ -4597,10 +4597,10 @@ export const kanjiN3 = [
   "kanji": "福",
   "level": "N3",
   "meanings": [
-   "Blessing",
-   "Fortune",
-   "Luck",
-   "Wealth"
+   "Anugerah",
+   "Harta benda",
+   "Keberuntungan",
+   "Kekayaan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -4619,14 +4619,14 @@ export const kanjiN3 = [
   "kanji": "殺",
   "level": "N3",
   "meanings": [
-   "Kill",
-   "Murder",
-   "Butcher",
-   "Slice Off",
-   "Split",
-   "Diminish",
-   "Reduce",
-   "Spoil"
+   "Membunuh",
+   "Pembunuhan",
+   "Tukang daging",
+   "Potong",
+   "Membelah",
+   "Mengurangi",
+   "Mengurangi",
+   "Memanjakan"
   ],
   "kunyomi": [
    "ころ.す",
@@ -4656,11 +4656,11 @@ export const kanjiN3 = [
   "kanji": "然",
   "level": "N3",
   "meanings": [
-   "Sort Of Thing",
-   "So",
-   "If So",
-   "In That Case",
-   "Well"
+   "Semacam Hal",
+   "Jadi",
+   "Jika demikian",
+   "Dalam hal ini",
+   "Dengan baik"
   ],
   "kunyomi": [
    "しか",
@@ -4695,11 +4695,11 @@ export const kanjiN3 = [
   "kanji": "熱",
   "level": "N3",
   "meanings": [
-   "Heat",
-   "Temperature",
-   "Fever",
-   "Mania",
-   "Passion"
+   "Panas",
+   "Suhu",
+   "Demam",
+   "Kegilaan",
+   "Gairah"
   ],
   "kunyomi": [
    "あつ.い"
@@ -4730,10 +4730,10 @@ export const kanjiN3 = [
   "kanji": "選",
   "level": "N3",
   "meanings": [
-   "Elect",
-   "Select",
-   "Choose",
-   "Prefer"
+   "Memilih",
+   "Memilih",
+   "Memilih",
+   "Lebih menyukai"
   ],
   "kunyomi": [
    "えら.ぶ"
@@ -4764,11 +4764,11 @@ export const kanjiN3 = [
   "kanji": "願",
   "level": "N3",
   "meanings": [
-   "Petition",
-   "Request",
-   "Vow",
-   "Wish",
-   "Hope"
+   "Permohonan",
+   "Meminta",
+   "Sumpah",
+   "Mengharapkan",
+   "Harapan"
   ],
   "kunyomi": [
    "ねが.う",
@@ -4795,12 +4795,12 @@ export const kanjiN3 = [
   "kanji": "情",
   "level": "N3",
   "meanings": [
-   "Feelings",
-   "Emotion",
-   "Passion",
-   "Sympathy",
-   "Circumstances",
-   "Facts"
+   "Perasaan",
+   "Emosi",
+   "Gairah",
+   "Simpati",
+   "Keadaan",
+   "Fakta"
   ],
   "kunyomi": [
    "なさ.け"
@@ -4832,10 +4832,10 @@ export const kanjiN3 = [
   "kanji": "疑",
   "level": "N3",
   "meanings": [
-   "Doubt",
-   "Distrust",
-   "Be Suspicious",
-   "Question"
+   "Ragu",
+   "Ketidakpercayaan",
+   "Curiga",
+   "Pertanyaan"
   ],
   "kunyomi": [
    "うたが.う"
@@ -4861,8 +4861,8 @@ export const kanjiN3 = [
   "kanji": "皆",
   "level": "N3",
   "meanings": [
-   "All",
-   "Everything"
+   "Semua",
+   "Semuanya"
   ],
   "kunyomi": [
    "みな",
@@ -4884,10 +4884,10 @@ export const kanjiN3 = [
   "kanji": "例",
   "level": "N3",
   "meanings": [
-   "Example",
-   "Custom",
-   "Usage",
-   "Precedent"
+   "Contoh",
+   "Kebiasaan",
+   "Penggunaan",
+   "Preseden"
   ],
   "kunyomi": [
    "たと.える"
@@ -4908,17 +4908,17 @@ export const kanjiN3 = [
   "kanji": "参",
   "level": "N3",
   "meanings": [
-   "Nonplussed",
-   "Three (in Documents)",
-   "Going",
-   "Coming",
-   "Visiting",
-   "Visit",
-   "Be Defeated",
-   "Die",
-   "Be Madly In Love",
-   "Participate",
-   "Take Part In"
+   "Bingung",
+   "Tiga (dalam Dokumen)",
+   "Pergi",
+   "Yang akan datang",
+   "Mengunjungi",
+   "Mengunjungi",
+   "Digagalkan",
+   "Mati",
+   "Jatuh Cinta",
+   "Ikut",
+   "Ikut serta"
   ],
   "kunyomi": [
    "まい.る",
@@ -4953,9 +4953,9 @@ export const kanjiN3 = [
   "kanji": "完",
   "level": "N3",
   "meanings": [
-   "Perfect",
-   "Completion",
-   "End"
+   "Sempurna",
+   "Penyelesaian",
+   "Akhir"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -4984,13 +4984,13 @@ export const kanjiN3 = [
   "kanji": "念",
   "level": "N3",
   "meanings": [
-   "Wish",
-   "Sense",
-   "Idea",
-   "Thought",
-   "Feeling",
-   "Desire",
-   "Attention"
+   "Mengharapkan",
+   "Nalar",
+   "Ide",
+   "Pikiran",
+   "Merasa",
+   "Menginginkan",
+   "Perhatian"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5014,12 +5014,12 @@ export const kanjiN3 = [
   "kanji": "折",
   "level": "N3",
   "meanings": [
-   "Fold",
-   "Break",
-   "Fracture",
-   "Bend",
-   "Yield",
-   "Submit"
+   "Melipat",
+   "Merusak",
+   "Patah",
+   "Membengkokkan",
+   "Menghasilkan",
+   "Kirim"
   ],
   "kunyomi": [
    "お.る",
@@ -5055,12 +5055,12 @@ export const kanjiN3 = [
   "kanji": "望",
   "level": "N3",
   "meanings": [
-   "Ambition",
-   "Full Moon",
-   "Hope",
-   "Desire",
-   "Aspire To",
-   "Expect"
+   "Ambisi",
+   "Bulan purnama",
+   "Harapan",
+   "Menginginkan",
+   "Bercita-cita Untuk",
+   "Mengharapkan"
   ],
   "kunyomi": [
    "のぞ.む",
@@ -5093,13 +5093,13 @@ export const kanjiN3 = [
   "kanji": "束",
   "level": "N3",
   "meanings": [
-   "Bundle",
-   "Sheaf",
-   "Ream",
-   "Tie In Bundles",
-   "Govern",
-   "Manage",
-   "Control"
+   "Bundel",
+   "Gabung",
+   "Rim",
+   "Ikat Dalam Bundel",
+   "Memerintah",
+   "Mengelola",
+   "Kontrol"
   ],
   "kunyomi": [
    "たば",
@@ -5123,9 +5123,9 @@ export const kanjiN3 = [
   "kanji": "残",
   "level": "N3",
   "meanings": [
-   "Remainder",
-   "Leftover",
-   "Balance"
+   "Sisa",
+   "Sisa",
+   "Keseimbangan"
   ],
   "kunyomi": [
    "のこ.る",
@@ -5160,11 +5160,11 @@ export const kanjiN3 = [
   "kanji": "求",
   "level": "N3",
   "meanings": [
-   "Request",
-   "Want",
-   "Wish For",
-   "Require",
-   "Demand"
+   "Meminta",
+   "Ingin",
+   "Berharap Untuk",
+   "Memerlukan",
+   "Tuntutan"
   ],
   "kunyomi": [
    "もと.める"
@@ -5196,9 +5196,9 @@ export const kanjiN3 = [
   "kanji": "約",
   "level": "N3",
   "meanings": [
-   "Promise",
-   "Approximately",
-   "Shrink"
+   "Janji",
+   "Sekitar",
+   "Menyusut"
   ],
   "kunyomi": [
    "つづ.まる",
@@ -5231,9 +5231,9 @@ export const kanjiN3 = [
   "kanji": "性",
   "level": "N3",
   "meanings": [
-   "Sex",
-   "Gender",
-   "Nature"
+   "Seks",
+   "Jenis kelamin",
+   "Alam"
   ],
   "kunyomi": [
    "さが"
@@ -5266,10 +5266,10 @@ export const kanjiN3 = [
   "level": "N3",
   "meanings": [
    "Status",
-   "Rank",
-   "Capacity",
-   "Character",
-   "Case (law, Grammar)"
+   "Pangkat",
+   "Kapasitas",
+   "Karakter",
+   "Kasus (hukum, Tata Bahasa)"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5301,10 +5301,10 @@ export const kanjiN3 = [
   "kanji": "能",
   "level": "N3",
   "meanings": [
-   "Ability",
-   "Talent",
-   "Skill",
-   "Capacity"
+   "Kemampuan",
+   "Bakat",
+   "Keahlian",
+   "Kapasitas"
   ],
   "kunyomi": [
    "よ.く"
@@ -5335,13 +5335,13 @@ export const kanjiN3 = [
   "kanji": "術",
   "level": "N3",
   "meanings": [
-   "Art",
-   "Technique",
-   "Skill",
-   "Means",
-   "Trick",
-   "Resources",
-   "Magic"
+   "Seni",
+   "Teknik",
+   "Keahlian",
+   "Cara",
+   "Menipu",
+   "Sumber daya",
+   "Sihir"
   ],
   "kunyomi": [
    "すべ"
@@ -5372,7 +5372,7 @@ export const kanjiN3 = [
   "kanji": "晴",
   "level": "N3",
   "meanings": [
-   "Clear Up"
+   "Membersihkan"
   ],
   "kunyomi": [
    "は.れる",
@@ -5407,11 +5407,11 @@ export const kanjiN3 = [
   "kanji": "列",
   "level": "N3",
   "meanings": [
-   "File",
-   "Row",
-   "Rank",
-   "Tier",
-   "Column"
+   "Mengajukan",
+   "Baris",
+   "Pangkat",
+   "Tingkat",
+   "Kolom"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5436,14 +5436,14 @@ export const kanjiN3 = [
   "kanji": "式",
   "level": "N3",
   "meanings": [
-   "Style",
-   "Ceremony",
-   "Rite",
-   "Function",
-   "Method",
-   "System",
-   "Form",
-   "Expression"
+   "Gaya",
+   "Upacara",
+   "Upacara",
+   "Fungsi",
+   "Metode",
+   "Sistem",
+   "Membentuk",
+   "Ekspresi"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5462,10 +5462,10 @@ export const kanjiN3 = [
   "kanji": "信",
   "level": "N3",
   "meanings": [
-   "Faith",
-   "Truth",
-   "Fidelity",
-   "Trust"
+   "Keyakinan",
+   "Kebenaran",
+   "Kesetiaan",
+   "Memercayai"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5494,10 +5494,10 @@ export const kanjiN3 = [
   "kanji": "単",
   "level": "N3",
   "meanings": [
-   "Simple",
-   "One",
-   "Single",
-   "Merely"
+   "Sederhana",
+   "Satu",
+   "Lajang",
+   "Hanya"
   ],
   "kunyomi": [
    "ひとえ"
@@ -5528,9 +5528,9 @@ export const kanjiN3 = [
   "kanji": "変",
   "level": "N3",
   "meanings": [
-   "Unusual",
-   "Change",
-   "Strange"
+   "Tidak biasa",
+   "Mengubah",
+   "Aneh"
   ],
   "kunyomi": [
    "か.わる",
@@ -5563,8 +5563,8 @@ export const kanjiN3 = [
   "kanji": "夫",
   "level": "N3",
   "meanings": [
-   "Husband",
-   "Man"
+   "Suami",
+   "Pria"
   ],
   "kunyomi": [
    "おっと",
@@ -5598,8 +5598,8 @@ export const kanjiN3 = [
   "kanji": "昨",
   "level": "N3",
   "meanings": [
-   "Yesterday",
-   "Previous"
+   "Kemarin",
+   "Sebelumnya"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5628,12 +5628,12 @@ export const kanjiN3 = [
   "kanji": "法",
   "level": "N3",
   "meanings": [
-   "Method",
-   "Law",
-   "Rule",
-   "Principle",
+   "Metode",
+   "Hukum",
+   "Aturan",
+   "Prinsip",
    "Model",
-   "System"
+   "Sistem"
   ],
   "kunyomi": [
    "のり"
@@ -5667,8 +5667,8 @@ export const kanjiN3 = [
   "kanji": "晩",
   "level": "N3",
   "meanings": [
-   "Nightfall",
-   "Night"
+   "Senja",
+   "Malam"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -5697,7 +5697,7 @@ export const kanjiN3 = [
   "kanji": "猫",
   "level": "N3",
   "meanings": [
-   "Cat"
+   "Kucing"
   ],
   "kunyomi": [
    "ねこ"
@@ -5718,10 +5718,10 @@ export const kanjiN3 = [
   "kanji": "園",
   "level": "N3",
   "meanings": [
-   "Park",
-   "Garden",
-   "Yard",
-   "Farm"
+   "Taman",
+   "Kebun",
+   "Halaman",
+   "Peternakan"
   ],
   "kunyomi": [
    "その"
@@ -5747,8 +5747,8 @@ export const kanjiN3 = [
   "kanji": "遠",
   "level": "N3",
   "meanings": [
-   "Distant",
-   "Far"
+   "Jauh",
+   "Jauh"
   ],
   "kunyomi": [
    "とお.い"
@@ -5780,10 +5780,10 @@ export const kanjiN3 = [
   "kanji": "係",
   "level": "N3",
   "meanings": [
-   "Person In Charge",
-   "Connection",
-   "Duty",
-   "Concern Oneself"
+   "Penanggung Jawab",
+   "Koneksi",
+   "Tugas",
+   "Berminat"
   ],
   "kunyomi": [
    "かか.る",
@@ -5807,9 +5807,9 @@ export const kanjiN3 = [
   "kanji": "取",
   "level": "N3",
   "meanings": [
-   "Take",
-   "Fetch",
-   "Take Up"
+   "Mengambil",
+   "Mengambil",
+   "Mengambil"
   ],
   "kunyomi": [
    "と.る",
@@ -5844,10 +5844,10 @@ export const kanjiN3 = [
   "kanji": "守",
   "level": "N3",
   "meanings": [
-   "Guard",
-   "Protect",
-   "Defend",
-   "Obey"
+   "Penjaga",
+   "Melindungi",
+   "Membela",
+   "Mematuhi"
   ],
   "kunyomi": [
    "まも.る",
@@ -5883,9 +5883,9 @@ export const kanjiN3 = [
   "kanji": "幸",
   "level": "N3",
   "meanings": [
-   "Happiness",
-   "Blessing",
-   "Fortune"
+   "Kebahagiaan",
+   "Anugerah",
+   "Harta benda"
   ],
   "kunyomi": [
    "さいわ.い",
@@ -5918,11 +5918,11 @@ export const kanjiN3 = [
   "kanji": "箱",
   "level": "N3",
   "meanings": [
-   "Box",
-   "Chest",
-   "Case",
-   "Bin",
-   "Railway Car"
+   "Kotak",
+   "Dada",
+   "Kasus",
+   "Tempat sampah",
+   "Gerbong Kereta Api"
   ],
   "kunyomi": [
    "はこ"
@@ -5943,10 +5943,10 @@ export const kanjiN3 = [
   "kanji": "面",
   "level": "N3",
   "meanings": [
-   "Mask",
-   "Face",
-   "Features",
-   "Surface"
+   "Masker",
+   "Menghadapi",
+   "Fitur",
+   "Permukaan"
   ],
   "kunyomi": [
    "おも",
@@ -5980,8 +5980,8 @@ export const kanjiN3 = [
   "kanji": "喜",
   "level": "N3",
   "meanings": [
-   "Rejoice",
-   "Take Pleasure In"
+   "Bersuka cita",
+   "Nikmati Kesenangan"
   ],
   "kunyomi": [
    "よろこ.ぶ",
@@ -6008,16 +6008,16 @@ export const kanjiN3 = [
   "kanji": "治",
   "level": "N3",
   "meanings": [
-   "Reign",
-   "Be At Peace",
-   "Calm Down",
-   "Subdue",
-   "Quell",
-   "Govt",
-   "Cure",
-   "Heal",
-   "Rule",
-   "Conserve"
+   "Memerintah",
+   "Berdamai",
+   "Tenang",
+   "Menundukkan",
+   "Menumpas",
+   "Pemerintah",
+   "Menyembuhkan",
+   "Sembuh",
+   "Aturan",
+   "Melestarikan"
   ],
   "kunyomi": [
    "おさ.める",
@@ -6047,7 +6047,7 @@ export const kanjiN3 = [
   "kanji": "笑",
   "level": "N3",
   "meanings": [
-   "Laugh"
+   "Tertawa"
   ],
   "kunyomi": [
    "わら.う",
@@ -6079,10 +6079,10 @@ export const kanjiN3 = [
   "kanji": "辞",
   "level": "N3",
   "meanings": [
-   "Resign",
-   "Word",
-   "Term",
-   "Expression"
+   "Berhenti",
+   "Kata",
+   "Ketentuan",
+   "Ekspresi"
   ],
   "kunyomi": [
    "や.める",
@@ -6114,11 +6114,11 @@ export const kanjiN3 = [
   "kanji": "関",
   "level": "N3",
   "meanings": [
-   "Connection",
-   "Barrier",
-   "Gateway",
-   "Involve",
-   "Concerning"
+   "Koneksi",
+   "Penghalang",
+   "Gerbang",
+   "Melibatkan",
+   "Tentang"
   ],
   "kunyomi": [
    "せき",
@@ -6153,8 +6153,8 @@ export const kanjiN3 = [
   "kanji": "政",
   "level": "N3",
   "meanings": [
-   "Politics",
-   "Government"
+   "Politik",
+   "Pemerintah"
   ],
   "kunyomi": [
    "まつりごと",
@@ -6182,10 +6182,10 @@ export const kanjiN3 = [
   "kanji": "留",
   "level": "N3",
   "meanings": [
-   "Detain",
-   "Fasten",
-   "Halt",
-   "Stop"
+   "Menahan",
+   "Kencangkan",
+   "Berhenti",
+   "Berhenti"
   ],
   "kunyomi": [
    "と.める",
@@ -6221,11 +6221,11 @@ export const kanjiN3 = [
   "kanji": "険",
   "level": "N3",
   "meanings": [
-   "Precipitous",
-   "Inaccessible Place",
-   "Impregnable Position",
-   "Steep Place",
-   "Sharp Eyes"
+   "Terjal",
+   "Tempat yang Tidak Dapat Diakses",
+   "Posisi yang Tidak Dapat Ditembus",
+   "Tempat yang curam",
+   "Mata Tajam"
   ],
   "kunyomi": [
    "けわ.しい"
@@ -6251,9 +6251,9 @@ export const kanjiN3 = [
   "kanji": "危",
   "level": "N3",
   "meanings": [
-   "Dangerous",
-   "Fear",
-   "Uneasy"
+   "Berbahaya",
+   "Takut",
+   "Gelisah"
   ],
   "kunyomi": [
    "あぶ.ない",
@@ -6286,11 +6286,11 @@ export const kanjiN3 = [
   "kanji": "存",
   "level": "N3",
   "meanings": [
-   "Exist",
-   "Suppose",
-   "Be Aware Of",
-   "Believe",
-   "Feel"
+   "Ada",
+   "Memperkirakan",
+   "Waspadai",
+   "Meyakini",
+   "Merasa"
   ],
   "kunyomi": [
    "ながら.える",
@@ -6325,14 +6325,14 @@ export const kanjiN3 = [
   "kanji": "原",
   "level": "N3",
   "meanings": [
-   "Meadow",
-   "Original",
-   "Primitive",
-   "Field",
-   "Plain",
-   "Prairie",
+   "Padang rumput",
+   "Asli",
+   "Primitif",
+   "Bidang",
+   "Polos",
+   "Padang rumput",
    "Tundra",
-   "Wilderness"
+   "Gurun"
   ],
   "kunyomi": [
    "はら"
@@ -6353,11 +6353,11 @@ export const kanjiN3 = [
   "kanji": "薬",
   "level": "N3",
   "meanings": [
-   "Medicine",
-   "Chemical",
-   "Enamel",
-   "Gunpowder",
-   "Benefit"
+   "Obat",
+   "Kimia",
+   "Email",
+   "Bubuk mesiu",
+   "Keuntungan"
   ],
   "kunyomi": [
    "くすり"
@@ -6378,10 +6378,10 @@ export const kanjiN3 = [
   "kanji": "側",
   "level": "N3",
   "meanings": [
-   "Side",
-   "Lean",
-   "Oppose",
-   "Regret"
+   "Samping",
+   "Bersandar",
+   "Menolak",
+   "Menyesali"
   ],
   "kunyomi": [
    "かわ",
@@ -6404,10 +6404,10 @@ export const kanjiN3 = [
   "kanji": "席",
   "level": "N3",
   "meanings": [
-   "Seat",
-   "Mat",
-   "Occasion",
-   "Place"
+   "Kursi",
+   "Tikar",
+   "Kesempatan",
+   "Tempat"
   ],
   "kunyomi": [
    "むしろ"
@@ -6438,9 +6438,9 @@ export const kanjiN3 = [
   "kanji": "敗",
   "level": "N3",
   "meanings": [
-   "Failure",
-   "Defeat",
-   "Reversal"
+   "Kegagalan",
+   "Mengalahkan",
+   "Kemunduran"
   ],
   "kunyomi": [
    "やぶ.れる"
@@ -6461,14 +6461,14 @@ export const kanjiN3 = [
   "kanji": "果",
   "level": "N3",
   "meanings": [
-   "Fruit",
-   "Reward",
-   "Carry Out",
-   "Achieve",
-   "Complete",
-   "End",
-   "Finish",
-   "Succeed"
+   "Buah",
+   "Hadiah",
+   "Melaksanakan",
+   "Meraih",
+   "Menyelesaikan",
+   "Akhir",
+   "Menyelesaikan",
+   "Berhasil"
   ],
   "kunyomi": [
    "は.たす",
@@ -6504,11 +6504,11 @@ export const kanjiN3 = [
   "kanji": "因",
   "level": "N3",
   "meanings": [
-   "Cause",
-   "Factor",
-   "Be Associated With",
-   "Depend On",
-   "Be Limited To"
+   "Menyebabkan",
+   "Faktor",
+   "Berhubungan Dengan",
+   "Tergantung Pada",
+   "Dibatasi Pada"
   ],
   "kunyomi": [
    "よ.る",
@@ -6530,14 +6530,14 @@ export const kanjiN3 = [
   "kanji": "常",
   "level": "N3",
   "meanings": [
-   "Usual",
-   "Ordinary",
+   "Biasa",
+   "Biasa",
    "Normal",
-   "Common",
-   "Regular",
-   "Continually",
-   "Always",
-   "Long-lasting"
+   "Umum",
+   "Biasa",
+   "Terus menerus",
+   "Selalu",
+   "Tahan lama"
   ],
   "kunyomi": [
    "つね",
@@ -6569,9 +6569,9 @@ export const kanjiN3 = [
   "kanji": "識",
   "level": "N3",
   "meanings": [
-   "Discriminating",
-   "Know",
-   "Write"
+   "Mendiskriminasi",
+   "Tahu",
+   "Menulis"
   ],
   "kunyomi": [
    "し.る",
@@ -6603,10 +6603,10 @@ export const kanjiN3 = [
   "kanji": "非",
   "level": "N3",
   "meanings": [
-   "Un-",
-   "Mistake",
-   "Negative",
-   "Injustice",
+   "Tidak-",
+   "Kesalahan",
+   "Negatif",
+   "Ketidakadilan",
    "Non-"
   ],
   "kunyomi": [
@@ -6638,8 +6638,8 @@ export const kanjiN3 = [
   "kanji": "官",
   "level": "N3",
   "meanings": [
-   "Bureaucrat",
-   "The Government",
+   "Birokrat",
+   "Pemerintah",
    "Organ"
   ],
   "kunyomi": [],
@@ -6659,11 +6659,11 @@ export const kanjiN3 = [
   "kanji": "察",
   "level": "N3",
   "meanings": [
-   "Guess",
-   "Presume",
-   "Surmise",
-   "Judge",
-   "Understand"
+   "Tebakan",
+   "Menganggap",
+   "Menduga",
+   "Hakim",
+   "Memahami"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -6692,9 +6692,9 @@ export const kanjiN3 = [
   "kanji": "愛",
   "level": "N3",
   "meanings": [
-   "Love",
-   "Affection",
-   "Favourite"
+   "Cinta",
+   "Kasih sayang",
+   "Favorit"
   ],
   "kunyomi": [
    "いと.しい",
@@ -6729,8 +6729,8 @@ export const kanjiN3 = [
   "kanji": "警",
   "level": "N3",
   "meanings": [
-   "Admonish",
-   "Commandment"
+   "Menegur",
+   "Firman"
   ],
   "kunyomi": [
    "いまし.める"
@@ -6761,11 +6761,11 @@ export const kanjiN3 = [
   "kanji": "覚",
   "level": "N3",
   "meanings": [
-   "Memorize",
-   "Learn",
-   "Remember",
-   "Awake",
-   "Sober Up"
+   "Menghafal",
+   "Mempelajari",
+   "Ingat",
+   "Bangun",
+   "Sadarlah"
   ],
   "kunyomi": [
    "おぼ.える",
@@ -6799,10 +6799,10 @@ export const kanjiN3 = [
   "kanji": "説",
   "level": "N3",
   "meanings": [
-   "Opinion",
-   "Theory",
-   "Explanation",
-   "Rumor"
+   "Pendapat",
+   "Teori",
+   "Penjelasan",
+   "Isu"
   ],
   "kunyomi": [
    "と.く"
@@ -6834,10 +6834,10 @@ export const kanjiN3 = [
   "kanji": "告",
   "level": "N3",
   "meanings": [
-   "Revelation",
-   "Tell",
-   "Inform",
-   "Announce"
+   "Wahyu",
+   "Memberi tahu",
+   "Memberitahukan",
+   "Mengumumkan"
   ],
   "kunyomi": [
    "つ.げる"
@@ -6868,11 +6868,11 @@ export const kanjiN3 = [
   "kanji": "種",
   "level": "N3",
   "meanings": [
-   "Species",
-   "Kind",
-   "Class",
-   "Variety",
-   "Seed"
+   "Jenis",
+   "Baik",
+   "Kelas",
+   "Variasi",
+   "Benih"
   ],
   "kunyomi": [
    "たね",
@@ -6904,10 +6904,10 @@ export const kanjiN3 = [
   "kanji": "達",
   "level": "N3",
   "meanings": [
-   "Accomplished",
-   "Reach",
-   "Arrive",
-   "Attain"
+   "Ahli",
+   "Mencapai",
+   "Tiba",
+   "Mencapai"
   ],
   "kunyomi": [
    "-たち"
@@ -6939,11 +6939,11 @@ export const kanjiN3 = [
   "kanji": "類",
   "level": "N3",
   "meanings": [
-   "Sort",
-   "Kind",
-   "Variety",
-   "Class",
-   "Genus"
+   "Menyortir",
+   "Baik",
+   "Variasi",
+   "Kelas",
+   "Marga"
   ],
   "kunyomi": [
    "たぐ.い"
@@ -6974,10 +6974,10 @@ export const kanjiN3 = [
   "kanji": "報",
   "level": "N3",
   "meanings": [
-   "Report",
-   "News",
-   "Reward",
-   "Retribution"
+   "Laporan",
+   "Berita",
+   "Hadiah",
+   "Retribusi"
   ],
   "kunyomi": [
    "むく.いる"
@@ -7008,12 +7008,12 @@ export const kanjiN3 = [
   "kanji": "等",
   "level": "N3",
   "meanings": [
-   "Etc.",
-   "And So Forth",
-   "Class (first)",
-   "Quality",
-   "Equal",
-   "Similar"
+   "Dll.",
+   "Dan sebagainya",
+   "Kelas (pertama)",
+   "Kualitas",
+   "Setara",
+   "Serupa"
   ],
   "kunyomi": [
    "ひと.しい",
@@ -7046,11 +7046,11 @@ export const kanjiN3 = [
   "kanji": "座",
   "level": "N3",
   "meanings": [
-   "Squat",
-   "Seat",
-   "Cushion",
-   "Gathering",
-   "Sit"
+   "Berjongkok",
+   "Kursi",
+   "Bantalan",
+   "Mengumpulkan",
+   "Duduk"
   ],
   "kunyomi": [
    "すわ.る"
@@ -7076,7 +7076,7 @@ export const kanjiN3 = [
   "kanji": "忘",
   "level": "N3",
   "meanings": [
-   "Forget"
+   "Lupa"
   ],
   "kunyomi": [
    "わす.れる"
@@ -7107,9 +7107,9 @@ export const kanjiN3 = [
   "kanji": "洗",
   "level": "N3",
   "meanings": [
-   "Wash",
-   "Inquire Into",
-   "Probe"
+   "Mencuci",
+   "Tanyakan Ke",
+   "Menguji"
   ],
   "kunyomi": [
    "あら.う"
@@ -7140,8 +7140,8 @@ export const kanjiN3 = [
   "kanji": "許",
   "level": "N3",
   "meanings": [
-   "Permit",
-   "Approve"
+   "Izin",
+   "Menyetujui"
   ],
   "kunyomi": [
    "ゆる.す",
@@ -7173,7 +7173,7 @@ export const kanjiN3 = [
   "kanji": "静",
   "level": "N3",
   "meanings": [
-   "Quiet"
+   "Diam"
   ],
   "kunyomi": [
    "しず-",
@@ -7203,7 +7203,7 @@ export const kanjiN3 = [
   "kanji": "煙",
   "level": "N3",
   "meanings": [
-   "Smoke"
+   "Merokok"
   ],
   "kunyomi": [
    "けむ.る",
@@ -7226,12 +7226,12 @@ export const kanjiN3 = [
   "kanji": "加",
   "level": "N3",
   "meanings": [
-   "Add",
-   "Addition",
-   "Increase",
-   "Join",
-   "Include",
-   "Canada"
+   "Menambahkan",
+   "Tambahan",
+   "Meningkatkan",
+   "Bergabung",
+   "Termasuk",
+   "Kanada"
   ],
   "kunyomi": [
    "くわ.える",
@@ -7263,9 +7263,9 @@ export const kanjiN3 = [
   "kanji": "容",
   "level": "N3",
   "meanings": [
-   "Contain",
-   "Form",
-   "Looks"
+   "Berisi",
+   "Membentuk",
+   "Terlihat"
   ],
   "kunyomi": [
    "い.れる"
@@ -7296,11 +7296,11 @@ export const kanjiN3 = [
   "kanji": "易",
   "level": "N3",
   "meanings": [
-   "Easy",
-   "Ready To",
-   "Simple",
-   "Fortune-telling",
-   "Divination"
+   "Mudah",
+   "Siap untuk",
+   "Sederhana",
+   "Meramal",
+   "Ramalan"
   ],
   "kunyomi": [
    "やさ.しい",
@@ -7333,10 +7333,10 @@ export const kanjiN3 = [
   "kanji": "財",
   "level": "N3",
   "meanings": [
-   "Property",
-   "Money",
-   "Wealth",
-   "Assets"
+   "Milik",
+   "Uang",
+   "Kekayaan",
+   "Aktiva"
   ],
   "kunyomi": [
    "たから"
@@ -7364,12 +7364,12 @@ export const kanjiN3 = [
   "kanji": "若",
   "level": "N3",
   "meanings": [
-   "Young",
-   "If",
-   "Perhaps",
-   "Possibly",
-   "Low Number",
-   "Immature"
+   "Muda",
+   "Jika",
+   "Mungkin",
+   "Mungkin",
+   "Angka Rendah",
+   "Belum dewasa"
   ],
   "kunyomi": [
    "わか.い",
@@ -7407,9 +7407,9 @@ export const kanjiN3 = [
   "kanji": "忙",
   "level": "N3",
   "meanings": [
-   "Busy",
-   "Occupied",
-   "Restless"
+   "Sibuk",
+   "Sibuk",
+   "Gelisah"
   ],
   "kunyomi": [
    "いそが.しい",
@@ -7434,17 +7434,17 @@ export const kanjiN3 = [
   "kanji": "徒",
   "level": "N3",
   "meanings": [
-   "On Foot",
-   "Junior",
-   "Emptiness",
-   "Vanity",
-   "Futility",
-   "Uselessness",
-   "Ephemeral Thing",
+   "Berjalan Kaki",
+   "Muda",
+   "Kekosongan",
+   "Kesombongan",
+   "Kegagalan",
+   "Ketidakgunaan",
+   "Hal yang Singkat",
    "Gang",
-   "Set",
-   "Party",
-   "People"
+   "Mengatur",
+   "Berpesta",
+   "Rakyat"
   ],
   "kunyomi": [
    "いたずら",
@@ -7471,17 +7471,17 @@ export const kanjiN3 = [
   "kanji": "得",
   "level": "N3",
   "meanings": [
-   "Gain",
-   "Get",
-   "Find",
-   "Earn",
-   "Acquire",
-   "Can",
-   "May",
-   "Able To",
-   "Profit",
-   "Advantage",
-   "Benefit"
+   "Memperoleh",
+   "Mendapatkan",
+   "Menemukan",
+   "Menghasilkan",
+   "Mendapatkan",
+   "Bisa",
+   "Mungkin",
+   "Sudah bisa",
+   "Laba",
+   "Keuntungan",
+   "Keuntungan"
   ],
   "kunyomi": [
    "え.る",
@@ -7513,9 +7513,9 @@ export const kanjiN3 = [
   "kanji": "続",
   "level": "N3",
   "meanings": [
-   "Continue",
-   "Series",
-   "Sequel"
+   "Melanjutkan",
+   "Seri",
+   "Sekuel"
   ],
   "kunyomi": [
    "つづ.く",
@@ -7551,13 +7551,13 @@ export const kanjiN3 = [
   "kanji": "連",
   "level": "N3",
   "meanings": [
-   "Take Along",
-   "Lead",
-   "Join",
-   "Connect",
-   "Party",
+   "Bawa serta",
+   "Memimpin",
+   "Bergabung",
+   "Menghubungkan",
+   "Berpesta",
    "Gang",
-   "Clique"
+   "Klik"
   ],
   "kunyomi": [
    "つら.なる",
@@ -7591,9 +7591,9 @@ export const kanjiN3 = [
   "kanji": "困",
   "level": "N3",
   "meanings": [
-   "Quandary",
-   "Become Distressed",
-   "Annoyed"
+   "Kebingungan",
+   "Menjadi Tertekan",
+   "Terganggu"
   ],
   "kunyomi": [
    "こま.る"
@@ -7619,14 +7619,14 @@ export const kanjiN3 = [
   "kanji": "機",
   "level": "N3",
   "meanings": [
-   "Loom",
-   "Mechanism",
-   "Machine",
-   "Airplane",
-   "Opportunity",
-   "Potency",
-   "Efficacy",
-   "Occasion"
+   "Mesin tenun",
+   "Mekanisme",
+   "Mesin",
+   "Pesawat terbang",
+   "Peluang",
+   "Potensi",
+   "Kemanjuran",
+   "Kesempatan"
   ],
   "kunyomi": [
    "はた"
@@ -7657,9 +7657,9 @@ export const kanjiN3 = [
   "kanji": "飛",
   "level": "N3",
   "meanings": [
-   "Fly",
-   "Skip (pages)",
-   "Scatter"
+   "Terbang",
+   "Lewati (halaman)",
+   "Menyebarkan"
   ],
   "kunyomi": [
    "と.ぶ",
@@ -7692,8 +7692,8 @@ export const kanjiN3 = [
   "kanji": "害",
   "level": "N3",
   "meanings": [
-   "Harm",
-   "Injury"
+   "Menyakiti",
+   "Cedera"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -7722,11 +7722,11 @@ export const kanjiN3 = [
   "kanji": "余",
   "level": "N3",
   "meanings": [
-   "Too Much",
-   "Myself",
-   "Surplus",
-   "Other",
-   "Remainder"
+   "Terlalu banyak",
+   "Saya sendiri",
+   "Kelebihan",
+   "Lainnya",
+   "Sisa"
   ],
   "kunyomi": [
    "あま.る",
@@ -7760,11 +7760,11 @@ export const kanjiN3 = [
   "kanji": "難",
   "level": "N3",
   "meanings": [
-   "Difficult",
-   "Impossible",
-   "Trouble",
-   "Accident",
-   "Defect"
+   "Sulit",
+   "Mustahil",
+   "Masalah",
+   "Kecelakaan",
+   "Cacat"
   ],
   "kunyomi": [
    "かた.い",
@@ -7800,14 +7800,14 @@ export const kanjiN3 = [
   "kanji": "確",
   "level": "N3",
   "meanings": [
-   "Assurance",
-   "Firm",
-   "Tight",
-   "Hard",
-   "Solid",
-   "Confirm",
-   "Clear",
-   "Evident"
+   "Jaminan",
+   "Tegas",
+   "Ketat",
+   "Keras",
+   "Padat",
+   "Mengonfirmasi",
+   "Jernih",
+   "Jelas"
   ],
   "kunyomi": [
    "たし.か",
@@ -7840,10 +7840,10 @@ export const kanjiN3 = [
   "kanji": "在",
   "level": "N3",
   "meanings": [
-   "Exist",
-   "Outskirts",
-   "Suburbs",
-   "Located In"
+   "Ada",
+   "Pinggiran",
+   "Pinggiran kota",
+   "Terletak di"
   ],
   "kunyomi": [
    "あ.る"
@@ -7874,9 +7874,9 @@ export const kanjiN3 = [
   "kanji": "夢",
   "level": "N3",
   "meanings": [
-   "Dream",
-   "Vision",
-   "Illusion"
+   "Mimpi",
+   "Penglihatan",
+   "Ilusi"
   ],
   "kunyomi": [
    "ゆめ",
@@ -7900,13 +7900,13 @@ export const kanjiN3 = [
   "kanji": "産",
   "level": "N3",
   "meanings": [
-   "Products",
-   "Bear",
-   "Give Birth",
-   "Yield",
-   "Childbirth",
-   "Native",
-   "Property"
+   "Produk",
+   "Beruang",
+   "Melahirkan",
+   "Menghasilkan",
+   "Persalinan",
+   "Warga asli",
+   "Milik"
   ],
   "kunyomi": [
    "う.む",
@@ -7940,11 +7940,11 @@ export const kanjiN3 = [
   "kanji": "倒",
   "level": "N3",
   "meanings": [
-   "Overthrow",
-   "Fall",
-   "Collapse",
-   "Drop",
-   "Break Down"
+   "Menggulingkan",
+   "Jatuh",
+   "Runtuh",
+   "Menjatuhkan",
+   "Perincian"
   ],
   "kunyomi": [
    "たお.れる",
@@ -7980,8 +7980,8 @@ export const kanjiN3 = [
   "kanji": "妻",
   "level": "N3",
   "meanings": [
-   "Wife",
-   "Spouse"
+   "Istri",
+   "Pasangan"
   ],
   "kunyomi": [
    "つま"
@@ -8002,10 +8002,10 @@ export const kanjiN3 = [
   "kanji": "議",
   "level": "N3",
   "meanings": [
-   "Deliberation",
-   "Consultation",
-   "Debate",
-   "Consideration"
+   "Pertimbangan",
+   "Konsultasi",
+   "Perdebatan",
+   "Pertimbangan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -8034,9 +8034,9 @@ export const kanjiN3 = [
   "kanji": "犯",
   "level": "N3",
   "meanings": [
-   "Crime",
-   "Sin",
-   "Offense"
+   "Kejahatan",
+   "Dosa",
+   "Pelanggaran"
   ],
   "kunyomi": [
    "おか.す"
@@ -8063,12 +8063,12 @@ export const kanjiN3 = [
   "kanji": "罪",
   "level": "N3",
   "meanings": [
-   "Guilt",
-   "Sin",
-   "Crime",
-   "Fault",
-   "Blame",
-   "Offense"
+   "Kesalahan",
+   "Dosa",
+   "Kejahatan",
+   "Kesalahan",
+   "Menyalahkan",
+   "Pelanggaran"
   ],
   "kunyomi": [
    "つみ"
@@ -8089,8 +8089,8 @@ export const kanjiN3 = [
   "kanji": "論",
   "level": "N3",
   "meanings": [
-   "Argument",
-   "Discourse"
+   "Argumen",
+   "Ceramah"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -8120,10 +8120,10 @@ export const kanjiN3 = [
   "level": "N3",
   "meanings": [
    "Sutra",
-   "Longitude",
-   "Pass Thru",
-   "Expire",
-   "Warp"
+   "Garis bujur",
+   "Lewati",
+   "Berakhir",
+   "Melengkung"
   ],
   "kunyomi": [
    "へ.る",
@@ -8160,12 +8160,12 @@ export const kanjiN3 = [
   "kanji": "済",
   "level": "N3",
   "meanings": [
-   "Settle (debt, Etc.)",
-   "Relieve (burden)",
-   "Finish",
-   "Come To An End",
-   "Excusable",
-   "Need Not"
+   "Pelunasan (hutang, Dll)",
+   "Meringankan (beban)",
+   "Menyelesaikan",
+   "Berakhir",
+   "Dapat dimaafkan",
+   "Tak perlu"
   ],
   "kunyomi": [
    "す.む",
@@ -8206,10 +8206,10 @@ export const kanjiN3 = [
   "kanji": "判",
   "level": "N3",
   "meanings": [
-   "Judgement",
-   "Signature",
-   "Stamp",
-   "Seal"
+   "Keputusan",
+   "Tanda tangan",
+   "Perangko",
+   "Segel"
   ],
   "kunyomi": [
    "わか.る"
@@ -8241,9 +8241,9 @@ export const kanjiN3 = [
   "kanji": "制",
   "level": "N3",
   "meanings": [
-   "System",
-   "Law",
-   "Rule"
+   "Sistem",
+   "Hukum",
+   "Aturan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -8272,8 +8272,8 @@ export const kanjiN3 = [
   "kanji": "務",
   "level": "N3",
   "meanings": [
-   "Task",
-   "Duties"
+   "Tugas",
+   "Tugas"
   ],
   "kunyomi": [
    "つと.める"
@@ -8304,13 +8304,13 @@ export const kanjiN3 = [
   "kanji": "資",
   "level": "N3",
   "meanings": [
-   "Assets",
-   "Resources",
-   "Capital",
-   "Funds",
+   "Aktiva",
+   "Sumber daya",
+   "Modal",
+   "Dana",
    "Data",
-   "Be Conducive To",
-   "Contribute To"
+   "Bersikap Kondusif Untuk",
+   "Berkontribusi Untuk"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -8334,9 +8334,9 @@ export const kanjiN3 = [
   "kanji": "権",
   "level": "N3",
   "meanings": [
-   "Authority",
-   "Power",
-   "Rights"
+   "Otoritas",
+   "Kekuatan",
+   "Hak"
   ],
   "kunyomi": [
    "おもり",
@@ -8360,10 +8360,10 @@ export const kanjiN3 = [
   "kanji": "件",
   "level": "N3",
   "meanings": [
-   "Affair",
-   "Case",
-   "Matter",
-   "Item"
+   "Perselingkuhan",
+   "Kasus",
+   "Urusan",
+   "Barang"
   ],
   "kunyomi": [
    "くだん"
@@ -8389,16 +8389,16 @@ export const kanjiN3 = [
   "kanji": "断",
   "level": "N3",
   "meanings": [
-   "Severance",
-   "Decline",
-   "Refuse",
-   "Apologize",
-   "Warn",
-   "Dismiss",
-   "Prohibit",
-   "Decision",
-   "Judgement",
-   "Cutting"
+   "Pemutusan",
+   "Menolak",
+   "Menolak",
+   "Meminta maaf",
+   "Memperingatkan",
+   "Membubarkan",
+   "Melarang",
+   "Keputusan",
+   "Keputusan",
+   "Pemotongan"
   ],
   "kunyomi": [
    "た.つ",
@@ -8431,11 +8431,11 @@ export const kanjiN3 = [
   "kanji": "任",
   "level": "N3",
   "meanings": [
-   "Responsibility",
-   "Duty",
-   "Term",
-   "Entrust To",
-   "Appoint"
+   "Tanggung jawab",
+   "Tugas",
+   "Ketentuan",
+   "Percayakan Kepada",
+   "Menunjuk"
   ],
   "kunyomi": [
    "まか.せる",
@@ -8467,9 +8467,9 @@ export const kanjiN3 = [
   "kanji": "責",
   "level": "N3",
   "meanings": [
-   "Blame",
-   "Condemn",
-   "Censure"
+   "Menyalahkan",
+   "Memvonis",
+   "Mengecam"
   ],
   "kunyomi": [
    "せ.める"
@@ -8495,11 +8495,11 @@ export const kanjiN3 = [
   "kanji": "増",
   "level": "N3",
   "meanings": [
-   "Increase",
-   "Add",
-   "Augment",
-   "Gain",
-   "Promote"
+   "Meningkatkan",
+   "Menambahkan",
+   "Menambah",
+   "Memperoleh",
+   "Mendorong"
   ],
   "kunyomi": [
    "ま.す",
@@ -8533,19 +8533,19 @@ export const kanjiN3 = [
   "kanji": "解",
   "level": "N3",
   "meanings": [
-   "Unravel",
-   "Notes",
-   "Key",
-   "Explanation",
-   "Understanding",
-   "Untie",
-   "Undo",
-   "Solve",
-   "Answer",
-   "Cancel",
-   "Absolve",
-   "Explain",
-   "Minute"
+   "Terurai",
+   "Catatan",
+   "Kunci",
+   "Penjelasan",
+   "Memahami",
+   "Membuka",
+   "Membuka",
+   "Menyelesaikan",
+   "Menjawab",
+   "Membatalkan",
+   "Membebaskan",
+   "Menjelaskan",
+   "Menit"
   ],
   "kunyomi": [
    "と.く",
@@ -8583,15 +8583,15 @@ export const kanjiN3 = [
   "kanji": "際",
   "level": "N3",
   "meanings": [
-   "Occasion",
-   "Side",
-   "Edge",
-   "Verge",
-   "Dangerous",
-   "Adventurous",
-   "Indecent",
-   "Time",
-   "When"
+   "Kesempatan",
+   "Samping",
+   "Tepian",
+   "Ambang",
+   "Berbahaya",
+   "Petualang",
+   "Tidak senonoh",
+   "Waktu",
+   "Kapan"
   ],
   "kunyomi": [
    "きわ",
@@ -8623,12 +8623,12 @@ export const kanjiN3 = [
   "kanji": "認",
   "level": "N3",
   "meanings": [
-   "Acknowledge",
-   "Witness",
-   "Discern",
-   "Recognize",
-   "Appreciate",
-   "Believe"
+   "Mengakui",
+   "Saksi",
+   "Melihat",
+   "Mengenali",
+   "Menghargai",
+   "Meyakini"
   ],
   "kunyomi": [
    "みと.める",
@@ -8660,10 +8660,10 @@ export const kanjiN3 = [
   "kanji": "過",
   "level": "N3",
   "meanings": [
-   "Overdo",
-   "Exceed",
-   "Go Beyond",
-   "Error"
+   "Kadung",
+   "Melampaui",
+   "Melampauinya",
+   "Kesalahan"
   ],
   "kunyomi": [
    "す.ぎる",
@@ -8700,11 +8700,11 @@ export const kanjiN3 = [
   "kanji": "寝",
   "level": "N3",
   "meanings": [
-   "Lie Down",
-   "Sleep",
-   "Rest",
-   "Bed",
-   "Remain Unsold"
+   "Berbaring",
+   "Tidur",
+   "Istirahat",
+   "Tempat tidur",
+   "Tetap Tidak Terjual"
   ],
   "kunyomi": [
    "ね.る",
@@ -8734,14 +8734,14 @@ export const kanjiN3 = [
   "kanji": "置",
   "level": "N3",
   "meanings": [
-   "Placement",
-   "Put",
-   "Set",
-   "Deposit",
-   "Leave Behind",
-   "Keep",
-   "Employ",
-   "Pawn"
+   "Penempatan",
+   "Meletakkan",
+   "Mengatur",
+   "Deposito",
+   "Meninggalkan",
+   "Menyimpan",
+   "Mempekerjakan",
+   "Bidak"
   ],
   "kunyomi": [
    "お.く",
@@ -8773,11 +8773,11 @@ export const kanjiN3 = [
   "kanji": "費",
   "level": "N3",
   "meanings": [
-   "Expense",
-   "Cost",
-   "Spend",
-   "Consume",
-   "Waste"
+   "Pengeluaran",
+   "Biaya",
+   "Membelanjakan",
+   "Mengkonsumsi",
+   "Limbah"
   ],
   "kunyomi": [
    "つい.やす",
@@ -8804,11 +8804,11 @@ export const kanjiN3 = [
   "kanji": "示",
   "level": "N3",
   "meanings": [
-   "Show",
-   "Indicate",
-   "Point Out",
-   "Express",
-   "Display"
+   "Menunjukkan",
+   "Menunjukkan",
+   "Tunjukkan",
+   "Cepat",
+   "Menampilkan"
   ],
   "kunyomi": [
    "しめ.す"
@@ -8835,11 +8835,11 @@ export const kanjiN3 = [
   "kanji": "観",
   "level": "N3",
   "meanings": [
-   "Outlook",
-   "Look",
-   "Appearance",
-   "Condition",
-   "View"
+   "Pandangan",
+   "Lihat",
+   "Penampilan",
+   "Kondisi",
+   "Melihat"
   ],
   "kunyomi": [
    "み.る",
@@ -8871,9 +8871,9 @@ export const kanjiN3 = [
   "kanji": "値",
   "level": "N3",
   "meanings": [
-   "Price",
-   "Cost",
-   "Value"
+   "Harga",
+   "Biaya",
+   "Nilai"
   ],
   "kunyomi": [
    "ね",
@@ -8900,10 +8900,10 @@ export const kanjiN3 = [
   "kanji": "吸",
   "level": "N3",
   "meanings": [
-   "Suck",
-   "Imbibe",
-   "Inhale",
-   "Sip"
+   "Mengisap",
+   "Menyerap",
+   "Menghirup",
+   "Menyesap"
   ],
   "kunyomi": [
    "す.う"
@@ -8935,10 +8935,10 @@ export const kanjiN3 = [
   "level": "N3",
   "meanings": [
    "Status Quo",
-   "Conditions",
-   "Circumstances",
-   "Form",
-   "Appearance"
+   "Kondisi",
+   "Keadaan",
+   "Membentuk",
+   "Penampilan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -8967,12 +8967,12 @@ export const kanjiN3 = [
   "kanji": "収",
   "level": "N3",
   "meanings": [
-   "Income",
-   "Obtain",
-   "Reap",
-   "Pay",
-   "Supply",
-   "Store"
+   "Penghasilan",
+   "Memperoleh",
+   "Menuai",
+   "Membayar",
+   "Memasok",
+   "Toko"
   ],
   "kunyomi": [
    "おさ.める",
@@ -9004,9 +9004,9 @@ export const kanjiN3 = [
   "kanji": "職",
   "level": "N3",
   "meanings": [
-   "Post",
-   "Employment",
-   "Work"
+   "Pos",
+   "Pekerjaan",
+   "Bekerja"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -9036,8 +9036,8 @@ export const kanjiN3 = [
   "kanji": "規",
   "level": "N3",
   "meanings": [
-   "Standard",
-   "Measure"
+   "Standar",
+   "Ukuran"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -9061,12 +9061,12 @@ export const kanjiN3 = [
   "kanji": "割",
   "level": "N3",
   "meanings": [
-   "Proportion",
-   "Comparatively",
-   "Divide",
-   "Cut",
-   "Separate",
-   "Split"
+   "Proporsi",
+   "Relatif",
+   "Membagi",
+   "Memotong",
+   "Memisahkan",
+   "Membelah"
   ],
   "kunyomi": [
    "わ.る",
@@ -9101,11 +9101,11 @@ export const kanjiN3 = [
   "kanji": "演",
   "level": "N3",
   "meanings": [
-   "Performance",
-   "Act",
-   "Play",
-   "Render",
-   "Stage"
+   "Pertunjukan",
+   "Bertindak",
+   "Bermain",
+   "Memberikan",
+   "Panggung"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -9134,13 +9134,13 @@ export const kanjiN3 = [
   "kanji": "師",
   "level": "N3",
   "meanings": [
-   "Expert",
-   "Teacher",
-   "Master",
+   "Pakar",
+   "Guru",
+   "Menguasai",
    "Model",
-   "Exemplar",
-   "Army (incl. Counter)",
-   "War"
+   "Contoh",
+   "Tentara (termasuk Counter)",
+   "Perang"
   ],
   "kunyomi": [
    "いくさ"
@@ -9171,9 +9171,9 @@ export const kanjiN3 = [
   "kanji": "備",
   "level": "N3",
   "meanings": [
-   "Equip",
-   "Provision",
-   "Preparation"
+   "Melengkapi",
+   "Persediaan",
+   "Persiapan"
   ],
   "kunyomi": [
    "そな.える",
@@ -9206,12 +9206,12 @@ export const kanjiN3 = [
   "kanji": "優",
   "level": "N3",
   "meanings": [
-   "Tenderness",
-   "Excel",
-   "Surpass",
-   "Actor",
-   "Superiority",
-   "Gentleness"
+   "Kelembutan",
+   "Unggul",
+   "Melampaui",
+   "Aktor",
+   "Keunggulan",
+   "Kelemah-lembutan"
   ],
   "kunyomi": [
    "やさ.しい",
@@ -9245,11 +9245,11 @@ export const kanjiN3 = [
   "kanji": "宅",
   "level": "N3",
   "meanings": [
-   "Home",
-   "House",
-   "Residence",
-   "Our House",
-   "My Husband"
+   "Rumah",
+   "Rumah",
+   "Tempat tinggal",
+   "Rumah kami",
+   "Suamiku"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -9278,9 +9278,9 @@ export const kanjiN3 = [
   "kanji": "現",
   "level": "N3",
   "meanings": [
-   "Present",
-   "Existing",
-   "Actual"
+   "Hadiah",
+   "Yang ada",
+   "Sebenarnya"
   ],
   "kunyomi": [
    "あらわ.れる",
@@ -9314,9 +9314,9 @@ export const kanjiN3 = [
   "kanji": "呼",
   "level": "N3",
   "meanings": [
-   "Call",
-   "Call Out To",
-   "Invite"
+   "Panggilan",
+   "Hubungi",
+   "Mengundang"
   ],
   "kunyomi": [
    "よ.ぶ"
@@ -9347,8 +9347,8 @@ export const kanjiN3 = [
   "kanji": "違",
   "level": "N3",
   "meanings": [
-   "Difference",
-   "Differ"
+   "Perbedaan",
+   "Berbeda"
   ],
   "kunyomi": [
    "ちが.う",
@@ -9384,12 +9384,12 @@ export const kanjiN3 = [
   "kanji": "差",
   "level": "N3",
   "meanings": [
-   "Distinction",
-   "Difference",
-   "Variation",
-   "Discrepancy",
-   "Margin",
-   "Balance"
+   "Perbedaan",
+   "Perbedaan",
+   "Variasi",
+   "Perbedaan",
+   "Batas",
+   "Keseimbangan"
   ],
   "kunyomi": [
    "さ.す",
@@ -9421,11 +9421,11 @@ export const kanjiN3 = [
   "kanji": "供",
   "level": "N3",
   "meanings": [
-   "Submit",
-   "Offer",
-   "Present",
-   "Serve (meal)",
-   "Accompany"
+   "Kirim",
+   "Menawarkan",
+   "Hadiah",
+   "Sajikan (makan)",
+   "Menemani"
   ],
   "kunyomi": [
    "そな.える",
@@ -9456,9 +9456,9 @@ export const kanjiN3 = [
   "kanji": "限",
   "level": "N3",
   "meanings": [
-   "Limit",
-   "Restrict",
-   "To Best Of Ability"
+   "Membatasi",
+   "Membatasi",
+   "Untuk Kemampuan Terbaik"
   ],
   "kunyomi": [
    "かぎ.る",
@@ -9491,15 +9491,15 @@ export const kanjiN3 = [
   "kanji": "与",
   "level": "N3",
   "meanings": [
-   "Bestow",
-   "Participate In",
-   "Give",
-   "Award",
-   "Impart",
-   "Provide",
-   "Cause",
-   "Gift",
-   "Godsend"
+   "Memberikan",
+   "Berpartisipasilah",
+   "Memberi",
+   "Menghadiahkan",
+   "Memberi",
+   "Menyediakan",
+   "Menyebabkan",
+   "Hadiah",
+   "Rahmat"
   ],
   "kunyomi": [
    "あた.える",
@@ -9524,13 +9524,13 @@ export const kanjiN3 = [
   "level": "N3",
   "meanings": [
    "Transit",
-   "Ford",
-   "Ferry",
-   "Cross",
-   "Import",
-   "Deliver",
+   "Mengarungi",
+   "Feri",
+   "Menyeberang",
+   "Impor",
+   "Mengantarkan",
    "Diameter",
-   "Migrate"
+   "Bermigrasi"
   ],
   "kunyomi": [
    "わた.る",
@@ -9558,8 +9558,8 @@ export const kanjiN3 = [
   "kanji": "景",
   "level": "N3",
   "meanings": [
-   "Scenery",
-   "View"
+   "Pemandangan",
+   "Melihat"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -9588,13 +9588,13 @@ export const kanjiN3 = [
   "kanji": "抜",
   "level": "N3",
   "meanings": [
-   "Slip Out",
-   "Extract",
-   "Pull Out",
-   "Pilfer",
-   "Quote",
-   "Remove",
-   "Omit"
+   "Keluar",
+   "Ekstrak",
+   "Mengeluarkan",
+   "Mencuri",
+   "Mengutip",
+   "Menghapus",
+   "Menghilangkan"
   ],
   "kunyomi": [
    "ぬ.く",
@@ -9627,11 +9627,11 @@ export const kanjiN3 = [
   "kanji": "候",
   "level": "N3",
   "meanings": [
-   "Climate",
-   "Season",
-   "Weather",
-   "Wait For",
-   "Expect"
+   "Iklim",
+   "Musim",
+   "Cuaca",
+   "Tunggu",
+   "Mengharapkan"
   ],
   "kunyomi": [
    "そうろう"
@@ -9662,9 +9662,9 @@ export const kanjiN3 = [
   "kanji": "構",
   "level": "N3",
   "meanings": [
-   "Posture",
-   "Build",
-   "Pretend"
+   "Sikap",
+   "Membangun",
+   "Berpura-pura"
   ],
   "kunyomi": [
    "かま.える",
@@ -9696,8 +9696,8 @@ export const kanjiN3 = [
   "kanji": "捕",
   "level": "N3",
   "meanings": [
-   "Catch",
-   "Capture"
+   "Menangkap",
+   "Menangkap"
   ],
   "kunyomi": [
    "と.らえる",
@@ -9734,9 +9734,9 @@ export const kanjiN3 = [
   "kanji": "慣",
   "level": "N3",
   "meanings": [
-   "Accustomed",
-   "Get Used To",
-   "Become Experienced"
+   "Biasa",
+   "Biasakan",
+   "Menjadi Berpengalaman"
   ],
   "kunyomi": [
    "な.れる",
@@ -9763,10 +9763,10 @@ export const kanjiN3 = [
   "kanji": "満",
   "level": "N3",
   "meanings": [
-   "Full",
-   "Fullness",
-   "Enough",
-   "Satisfy"
+   "Penuh",
+   "Kesempurnaan",
+   "Cukup",
+   "Memuaskan"
   ],
   "kunyomi": [
    "み.ちる",
@@ -9800,12 +9800,12 @@ export const kanjiN3 = [
   "kanji": "掛",
   "level": "N3",
   "meanings": [
-   "Hang",
-   "Suspend",
-   "Depend",
-   "Arrive At",
-   "Tax",
-   "Pour"
+   "Menggantung",
+   "Menskors",
+   "Bergantung",
+   "Tiba di",
+   "Pajak",
+   "Menuangkan"
   ],
   "kunyomi": [
    "か.ける",
@@ -9848,10 +9848,10 @@ export const kanjiN3 = [
   "kanji": "居",
   "level": "N3",
   "meanings": [
-   "Reside",
-   "To Be",
-   "Exist",
-   "Live With"
+   "Tinggal",
+   "Menjadi",
+   "Ada",
+   "Hidup Bersama"
   ],
   "kunyomi": [
    "い.る",
@@ -9885,13 +9885,13 @@ export const kanjiN3 = [
   "kanji": "突",
   "level": "N3",
   "meanings": [
-   "Stab",
-   "Protruding",
-   "Thrust",
-   "Pierce",
-   "Prick",
-   "Collision",
-   "Sudden"
+   "Menusuk",
+   "Menonjol",
+   "Dorongan",
+   "Menembus",
+   "Tusukan",
+   "Tabrakan",
+   "Tiba-tiba"
   ],
   "kunyomi": [
    "つ.く"
@@ -9918,10 +9918,10 @@ export const kanjiN3 = [
   "kanji": "招",
   "level": "N3",
   "meanings": [
-   "Beckon",
-   "Invite",
-   "Summon",
-   "Engage"
+   "Mengisyaratkan",
+   "Mengundang",
+   "Memanggil",
+   "Melibatkan"
   ],
   "kunyomi": [
    "まね.く"
@@ -9952,9 +9952,9 @@ export const kanjiN3 = [
   "kanji": "段",
   "level": "N3",
   "meanings": [
-   "Grade",
-   "Steps",
-   "Stairs"
+   "Nilai",
+   "Tangga",
+   "Tangga"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -9984,9 +9984,9 @@ export const kanjiN3 = [
   "kanji": "腹",
   "level": "N3",
   "meanings": [
-   "Abdomen",
-   "Belly",
-   "Stomach"
+   "Perut",
+   "Perut",
+   "Perut"
   ],
   "kunyomi": [
    "はら"
@@ -10007,10 +10007,10 @@ export const kanjiN3 = [
   "kanji": "痛",
   "level": "N3",
   "meanings": [
-   "Pain",
-   "Hurt",
-   "Damage",
-   "Bruise"
+   "Nyeri",
+   "Terluka",
+   "Kerusakan",
+   "Memar"
   ],
   "kunyomi": [
    "いた.い",
@@ -10044,13 +10044,13 @@ export const kanjiN3 = [
   "kanji": "退",
   "level": "N3",
   "meanings": [
-   "Retreat",
-   "Withdraw",
-   "Retire",
-   "Resign",
-   "Repel",
-   "Expel",
-   "Reject"
+   "Mundur",
+   "Menarik",
+   "Pensiun",
+   "Berhenti",
+   "Mengusir",
+   "Mengeluarkan",
+   "Menolak"
   ],
   "kunyomi": [
    "しりぞ.く",
@@ -10086,12 +10086,12 @@ export const kanjiN3 = [
   "kanji": "迷",
   "level": "N3",
   "meanings": [
-   "Astray",
-   "Be Perplexed",
-   "In Doubt",
-   "Lost",
-   "Err",
-   "Illusion"
+   "Sesat",
+   "Menjadi Bingung",
+   "Dalam keraguan",
+   "Hilang",
+   "Berbuat salah",
+   "Ilusi"
   ],
   "kunyomi": [
    "まよ.う"
@@ -10117,10 +10117,10 @@ export const kanjiN3 = [
   "kanji": "訪",
   "level": "N3",
   "meanings": [
-   "Call On",
-   "Visit",
-   "Look Up",
-   "Offer Sympathy"
+   "Telepon Aktif",
+   "Mengunjungi",
+   "Menengadah",
+   "Tawarkan Simpati"
   ],
   "kunyomi": [
    "おとず.れる",
@@ -10148,8 +10148,8 @@ export const kanjiN3 = [
   "kanji": "怒",
   "level": "N3",
   "meanings": [
-   "Angry",
-   "Be Offended"
+   "Marah",
+   "Tersinggung"
   ],
   "kunyomi": [
    "いか.る",
@@ -10172,9 +10172,9 @@ export const kanjiN3 = [
   "kanji": "眠",
   "level": "N3",
   "meanings": [
-   "Sleep",
-   "Die",
-   "Sleepy"
+   "Tidur",
+   "Mati",
+   "Mengantuk"
   ],
   "kunyomi": [
    "ねむ.る",
@@ -10206,7 +10206,7 @@ export const kanjiN3 = [
   "kanji": "靴",
   "level": "N3",
   "meanings": [
-   "Shoes"
+   "Sepatu"
   ],
   "kunyomi": [
    "くつ"
@@ -10227,9 +10227,9 @@ export const kanjiN3 = [
   "kanji": "途",
   "level": "N3",
   "meanings": [
-   "Route",
-   "Way",
-   "Road"
+   "Rute",
+   "Jalan",
+   "Jalan"
   ],
   "kunyomi": [
    "みち"
@@ -10260,12 +10260,12 @@ export const kanjiN3 = [
   "kanji": "給",
   "level": "N3",
   "meanings": [
-   "Salary",
-   "Wage",
-   "Gift",
-   "Allow",
-   "Grant",
-   "Bestow On"
+   "Gaji",
+   "Gaji",
+   "Hadiah",
+   "Mengizinkan",
+   "Menganugerahkan",
+   "Berikan"
   ],
   "kunyomi": [
    "たま.う",
@@ -10298,9 +10298,9 @@ export const kanjiN3 = [
   "kanji": "冷",
   "level": "N3",
   "meanings": [
-   "Cool",
-   "Cold (beer, Person)",
-   "Chill"
+   "Dingin",
+   "Dingin (bir, Orang)",
+   "Santai"
   ],
   "kunyomi": [
    "つめ.たい",
@@ -10338,14 +10338,14 @@ export const kanjiN3 = [
   "kanji": "処",
   "level": "N3",
   "meanings": [
-   "Dispose",
-   "Manage",
-   "Deal With",
-   "Sentence",
-   "Condemn",
-   "Act",
-   "Behave",
-   "Place"
+   "Membuang",
+   "Mengelola",
+   "Menghadapi",
+   "Kalimat",
+   "Memvonis",
+   "Bertindak",
+   "Berperilaku baik",
+   "Tempat"
   ],
   "kunyomi": [
    "ところ",
@@ -10378,10 +10378,10 @@ export const kanjiN3 = [
   "kanji": "婦",
   "level": "N3",
   "meanings": [
-   "Lady",
-   "Woman",
-   "Wife",
-   "Bride"
+   "Wanita",
+   "Wanita",
+   "Istri",
+   "Pengantin perempuan"
   ],
   "kunyomi": [
    "よめ"
@@ -10412,13 +10412,13 @@ export const kanjiN3 = [
   "kanji": "程",
   "level": "N3",
   "meanings": [
-   "Extent",
-   "Degree",
-   "Law",
-   "Formula",
-   "Distance",
-   "Limits",
-   "Amount"
+   "Cakupan",
+   "Derajat",
+   "Hukum",
+   "Rumus",
+   "Jarak",
+   "Batasan",
+   "Jumlah"
   ],
   "kunyomi": [
    "ほど",
@@ -10445,15 +10445,15 @@ export const kanjiN3 = [
   "kanji": "精",
   "level": "N3",
   "meanings": [
-   "Refined",
-   "Ghost",
-   "Fairy",
-   "Energy",
-   "Vitality",
-   "Semen",
-   "Excellence",
-   "Purity",
-   "Skill"
+   "Halus",
+   "Hantu",
+   "Peri",
+   "Energi",
+   "Daya hidup",
+   "Air mani",
+   "Keunggulan",
+   "Kemurnian",
+   "Keahlian"
   ],
   "kunyomi": [
    "しら.げる",
@@ -10481,16 +10481,16 @@ export const kanjiN3 = [
   "kanji": "絶",
   "level": "N3",
   "meanings": [
-   "Discontinue",
-   "Sever",
-   "Cut Off",
-   "Abstain",
-   "Interrupt",
-   "Suppress",
-   "Be Beyond",
-   "Without Match",
-   "Peerless",
-   "Unparalleled"
+   "Menghentikan",
+   "Memutuskan",
+   "Memotong",
+   "Menjauhkan diri",
+   "Mengganggu",
+   "Menekan",
+   "Jadilah Melampaui",
+   "Tanpa Pertandingan",
+   "Tak ada taranya",
+   "Tak tertandingi"
   ],
   "kunyomi": [
    "た.える",
@@ -10518,10 +10518,10 @@ export const kanjiN3 = [
   "kanji": "杯",
   "level": "N3",
   "meanings": [
-   "Counter For Cupfuls",
-   "Wine Glass",
-   "Glass",
-   "Toast"
+   "Penghitung Untuk Secangkir Penuh",
+   "Gelas Anggur",
+   "Kaca",
+   "Roti panggang"
   ],
   "kunyomi": [
    "さかずき"
@@ -10543,13 +10543,13 @@ export const kanjiN3 = [
   "level": "N3",
   "meanings": [
    "Volume",
-   "Product (x*y)",
-   "Acreage",
-   "Contents",
-   "Pile Up",
-   "Stack",
-   "Load",
-   "Amass"
+   "Produk (x*y)",
+   "areal",
+   "Isi",
+   "Menumpuk",
+   "Tumpukan",
+   "Memuat",
+   "Mengumpulkan"
   ],
   "kunyomi": [
    "つ.む",
@@ -10578,13 +10578,13 @@ export const kanjiN3 = [
   "kanji": "寄",
   "level": "N3",
   "meanings": [
-   "Draw Near",
-   "Stop In",
-   "Bring Near",
-   "Gather",
-   "Collect",
-   "Send",
-   "Forward"
+   "Mendekatlah",
+   "Berhenti",
+   "Dekatkan",
+   "Mengumpulkan",
+   "Mengumpulkan",
+   "Mengirim",
+   "Maju"
   ],
   "kunyomi": [
    "よ.る",
@@ -10617,8 +10617,8 @@ export const kanjiN3 = [
   "kanji": "娘",
   "level": "N3",
   "meanings": [
-   "Daughter",
-   "Girl"
+   "Anak perempuan",
+   "Gadis"
   ],
   "kunyomi": [
    "むすめ",
@@ -10640,9 +10640,9 @@ export const kanjiN3 = [
   "kanji": "怖",
   "level": "N3",
   "meanings": [
-   "Dreadful",
-   "Be Frightened",
-   "Fearful"
+   "Mengerikan",
+   "Takut",
+   "Takut"
   ],
   "kunyomi": [
    "こわ.い",
@@ -10672,9 +10672,9 @@ export const kanjiN3 = [
   "kanji": "恐",
   "level": "N3",
   "meanings": [
-   "Fear",
-   "Dread",
-   "Awe"
+   "Takut",
+   "Rasa takut",
+   "Kagum"
   ],
   "kunyomi": [
    "おそ.れる",
@@ -10709,7 +10709,7 @@ export const kanjiN3 = [
   "kanji": "婚",
   "level": "N3",
   "meanings": [
-   "Marriage"
+   "Pernikahan"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -10738,7 +10738,7 @@ export const kanjiN3 = [
   "kanji": "遊",
   "level": "N3",
   "meanings": [
-   "Play"
+   "Bermain"
   ],
   "kunyomi": [
    "あそ.ぶ",
@@ -10766,8 +10766,8 @@ export const kanjiN3 = [
   "kanji": "貧",
   "level": "N3",
   "meanings": [
-   "Poverty",
-   "Poor"
+   "Kemiskinan",
+   "Miskin"
   ],
   "kunyomi": [
    "まず.しい"
@@ -10789,11 +10789,11 @@ export const kanjiN3 = [
   "kanji": "適",
   "level": "N3",
   "meanings": [
-   "Suitable",
-   "Occasional",
-   "Rare",
-   "Qualified",
-   "Capable"
+   "Sesuai",
+   "Sesekali",
+   "Langka",
+   "Berkualitas",
+   "Mampu"
   ],
   "kunyomi": [
    "かな.う"
@@ -10824,17 +10824,17 @@ export const kanjiN3 = [
   "kanji": "押",
   "level": "N3",
   "meanings": [
-   "Push",
-   "Stop",
-   "Check",
-   "Subdue",
-   "Attach",
-   "Seize",
-   "Weight",
-   "Shove",
-   "Press",
-   "Seal",
-   "Do In Spite Of"
+   "Dorongan",
+   "Berhenti",
+   "Memeriksa",
+   "Menundukkan",
+   "Menempel",
+   "Menangkap",
+   "Berat",
+   "Mendorong",
+   "Tekan",
+   "Segel",
+   "Lakukan Meskipun"
   ],
   "kunyomi": [
    "お.す",
@@ -10864,15 +10864,15 @@ export const kanjiN3 = [
   "kanji": "更",
   "level": "N3",
   "meanings": [
-   "Grow Late",
-   "Night Watch",
-   "Sit Up Late",
-   "Of Course",
-   "Renew",
-   "Renovate",
-   "Again",
-   "More And More",
-   "Further"
+   "Tumbuh Terlambat",
+   "Jaga malam",
+   "Duduk Terlambat",
+   "Tentu saja",
+   "Memperbarui",
+   "Merenovasi",
+   "Lagi",
+   "Semakin",
+   "Lebih jauh"
   ],
   "kunyomi": [
    "さら",
@@ -10901,9 +10901,9 @@ export const kanjiN3 = [
   "kanji": "浮",
   "level": "N3",
   "meanings": [
-   "Floating",
-   "Float",
-   "Rise To Surface"
+   "Mengapung",
+   "Mengambang",
+   "Naik Ke Permukaan"
   ],
   "kunyomi": [
    "う.く",
@@ -10928,10 +10928,10 @@ export const kanjiN3 = [
   "kanji": "越",
   "level": "N3",
   "meanings": [
-   "Surpass",
-   "Cross Over",
-   "Move To",
-   "Exceed",
+   "Melampaui",
+   "Menyeberang",
+   "Pindah Ke",
+   "Melampaui",
    "Vietnam"
   ],
   "kunyomi": [
@@ -10968,14 +10968,14 @@ export const kanjiN3 = [
   "kanji": "背",
   "level": "N3",
   "meanings": [
-   "Stature",
-   "Height",
-   "Back",
-   "Behind",
-   "Disobey",
-   "Defy",
-   "Go Back On",
-   "Rebel"
+   "Perawakan",
+   "Tinggi",
+   "Kembali",
+   "Di belakang",
+   "Tidak patuh",
+   "Menentang",
+   "Kembali",
+   "Pemberontak"
   ],
   "kunyomi": [
    "せ",
@@ -11009,9 +11009,9 @@ export const kanjiN3 = [
   "kanji": "盗",
   "level": "N3",
   "meanings": [
-   "Steal",
-   "Rob",
-   "Pilfer"
+   "Mencuri",
+   "Merampok",
+   "Mencuri"
   ],
   "kunyomi": [
    "ぬす.む",
@@ -11043,12 +11043,12 @@ export const kanjiN3 = [
   "kanji": "除",
   "level": "N3",
   "meanings": [
-   "Exclude",
-   "Division (x/3)",
-   "Remove",
-   "Abolish",
-   "Cancel",
-   "Except"
+   "Mengecualikan",
+   "Pembagian (x/3)",
+   "Menghapus",
+   "Menghapuskan",
+   "Membatalkan",
+   "Kecuali"
   ],
   "kunyomi": [
    "のぞ.く",
@@ -11081,12 +11081,12 @@ export const kanjiN3 = [
   "kanji": "幾",
   "level": "N3",
   "meanings": [
-   "How Many",
-   "How Much",
-   "How Far",
-   "How Long",
-   "Some",
-   "Several"
+   "Berapa banyak",
+   "Berapa harganya",
+   "Berapa jauh",
+   "Berapa lama",
+   "Beberapa",
+   "Beberapa"
   ],
   "kunyomi": [
    "いく-",
@@ -11114,10 +11114,10 @@ export const kanjiN3 = [
   "kanji": "散",
   "level": "N3",
   "meanings": [
-   "Scatter",
-   "Disperse",
-   "Spend",
-   "Squander"
+   "Menyebarkan",
+   "Membubarkan",
+   "Membelanjakan",
+   "Mengembara"
   ],
   "kunyomi": [
    "ち.る",
@@ -11150,11 +11150,11 @@ export const kanjiN3 = [
   "kanji": "似",
   "level": "N3",
   "meanings": [
-   "Becoming",
-   "Resemble",
-   "Counterfeit",
-   "Imitate",
-   "Suitable"
+   "Menjadi",
+   "Mirip",
+   "Palsu",
+   "Meniru",
+   "Sesuai"
   ],
   "kunyomi": [
    "に.る",
@@ -11186,9 +11186,9 @@ export const kanjiN3 = [
   "kanji": "富",
   "level": "N3",
   "meanings": [
-   "Wealth",
-   "Enrich",
-   "Abundant"
+   "Kekayaan",
+   "Memperkaya",
+   "Melimpah"
   ],
   "kunyomi": [
    "と.む",
@@ -11211,9 +11211,9 @@ export const kanjiN3 = [
   "kanji": "探",
   "level": "N3",
   "meanings": [
-   "Grope",
-   "Search",
-   "Look For"
+   "Merogoh",
+   "Mencari",
+   "Mencari"
   ],
   "kunyomi": [
    "さぐ.る",
@@ -11235,9 +11235,9 @@ export const kanjiN3 = [
   "kanji": "迎",
   "level": "N3",
   "meanings": [
-   "Welcome",
-   "Meet",
-   "Greet"
+   "Selamat datang",
+   "Bertemu",
+   "Menyapa"
   ],
   "kunyomi": [
    "むか.える"
@@ -11268,9 +11268,9 @@ export const kanjiN3 = [
   "kanji": "祖",
   "level": "N3",
   "meanings": [
-   "Ancestor",
-   "Pioneer",
-   "Founder"
+   "Leluhur",
+   "Pelopor",
+   "Pendiri"
   ],
   "kunyomi": [],
   "onyomi": [
@@ -11294,7 +11294,7 @@ export const kanjiN3 = [
   "kanji": "雑",
   "level": "N3",
   "meanings": [
-   "Miscellaneous"
+   "Aneka ragam"
   ],
   "kunyomi": [
    "まじ.える",
@@ -11327,11 +11327,11 @@ export const kanjiN3 = [
   "kanji": "賛",
   "level": "N3",
   "meanings": [
-   "Approve",
-   "Praise",
-   "Title Or Inscription On Picture",
-   "Assist",
-   "Agree With"
+   "Menyetujui",
+   "Memuji",
+   "Judul Atau Prasasti Pada Gambar",
+   "Membantu",
+   "Setuju Dengan"
   ],
   "kunyomi": [
    "たす.ける",
@@ -11353,10 +11353,10 @@ export const kanjiN3 = [
   "kanji": "込",
   "level": "N3",
   "meanings": [
-   "Crowded",
-   "Mixture",
-   "In Bulk",
-   "Included",
+   "Penuh sesak",
+   "Campuran",
+   "Secara Massal",
+   "Termasuk",
    "(kokuji)"
   ],
   "kunyomi": [
@@ -11390,12 +11390,12 @@ export const kanjiN3 = [
   "kanji": "欲",
   "level": "N3",
   "meanings": [
-   "Longing",
-   "Covetousness",
-   "Greed",
-   "Passion",
-   "Desire",
-   "Craving"
+   "Kerinduan",
+   "Ketamakan",
+   "Ketamakan",
+   "Gairah",
+   "Menginginkan",
+   "Keinginan"
   ],
   "kunyomi": [
    "ほっ.する",
@@ -11422,8 +11422,8 @@ export const kanjiN3 = [
   "kanji": "閉",
   "level": "N3",
   "meanings": [
-   "Closed",
-   "Shut"
+   "Tertutup",
+   "Ditutup"
   ],
   "kunyomi": [
    "と.じる",
@@ -11458,8 +11458,8 @@ export const kanjiN3 = [
   "kanji": "窓",
   "level": "N3",
   "meanings": [
-   "Window",
-   "Pane"
+   "Jendela",
+   "panel"
   ],
   "kunyomi": [
    "まど",
@@ -11483,12 +11483,12 @@ export const kanjiN3 = [
   "kanji": "否",
   "level": "N3",
   "meanings": [
-   "Negate",
-   "No",
-   "Noes",
-   "Refuse",
-   "Decline",
-   "Deny"
+   "Meniadakan",
+   "TIDAK",
+   "Tidak",
+   "Menolak",
+   "Menolak",
+   "Membantah"
   ],
   "kunyomi": [
    "いな",
@@ -11510,12 +11510,12 @@ export const kanjiN3 = [
   "kanji": "暮",
   "level": "N3",
   "meanings": [
-   "Evening",
-   "Twilight",
-   "Season's End",
-   "Livelihood",
-   "Make A Living",
-   "Spend Time"
+   "Malam",
+   "Senja",
+   "Akhir Musim",
+   "Mata pencaharian",
+   "Mencari Penghidupan",
+   "Habiskan Waktu"
   ],
   "kunyomi": [
    "く.れる",
@@ -11547,10 +11547,10 @@ export const kanjiN3 = [
   "kanji": "誤",
   "level": "N3",
   "meanings": [
-   "Mistake",
-   "Err",
-   "Do Wrong",
-   "Mislead"
+   "Kesalahan",
+   "Berbuat salah",
+   "Berbuat salah",
+   "Menyesatkan"
   ],
   "kunyomi": [
    "あやま.る",
@@ -11577,10 +11577,10 @@ export const kanjiN3 = [
   "kanji": "降",
   "level": "N3",
   "meanings": [
-   "Descend",
-   "Precipitate",
-   "Fall",
-   "Surrender"
+   "Turun",
+   "Mengendapkan",
+   "Jatuh",
+   "Menyerah"
   ],
   "kunyomi": [
    "お.りる",
@@ -11617,9 +11617,9 @@ export const kanjiN3 = [
   "kanji": "勤",
   "level": "N3",
   "meanings": [
-   "Diligence",
-   "Become Employed",
-   "Serve"
+   "Ketekunan",
+   "Menjadi Pekerjaan",
+   "Melayani"
   ],
   "kunyomi": [
    "つと.める",
@@ -11649,13 +11649,13 @@ export const kanjiN3 = [
   "kanji": "刻",
   "level": "N3",
   "meanings": [
-   "Engrave",
-   "Cut Fine",
-   "Chop",
-   "Hash",
-   "Mince",
-   "Time",
-   "Carving"
+   "Mengukir",
+   "Potong Halus",
+   "Mencacah",
+   "hash",
+   "Cincang",
+   "Waktu",
+   "Ukiran"
   ],
   "kunyomi": [
    "きざ.む",
@@ -11687,10 +11687,10 @@ export const kanjiN3 = [
   "kanji": "遅",
   "level": "N3",
   "meanings": [
-   "Slow",
-   "Late",
-   "Back",
-   "Later"
+   "Lambat",
+   "Terlambat",
+   "Kembali",
+   "Nanti"
   ],
   "kunyomi": [
    "おく.れる",
@@ -11723,13 +11723,13 @@ export const kanjiN3 = [
   "kanji": "破",
   "level": "N3",
   "meanings": [
-   "Rend",
-   "Rip",
-   "Tear",
-   "Break",
-   "Destroy",
-   "Defeat",
-   "Frustrate"
+   "Membelah",
+   "Merobek",
+   "Merobek",
+   "Merusak",
+   "Menghancurkan",
+   "Mengalahkan",
+   "Menggagalkan"
   ],
   "kunyomi": [
    "やぶ.る",
@@ -11757,9 +11757,9 @@ export const kanjiN3 = [
   "kanji": "互",
   "level": "N3",
   "meanings": [
-   "Mutually",
-   "Reciprocally",
-   "Together"
+   "Saling membantu",
+   "Saling",
+   "Bersama"
   ],
   "kunyomi": [
    "たが.い",
@@ -11786,9 +11786,9 @@ export const kanjiN3 = [
   "kanji": "彼",
   "level": "N3",
   "meanings": [
-   "He",
-   "That",
-   "The"
+   "Dia",
+   "Itu",
+   "Itu"
   ],
   "kunyomi": [
    "かれ",
@@ -11821,8 +11821,8 @@ export const kanjiN3 = [
   "kanji": "恥",
   "level": "N3",
   "meanings": [
-   "Shame",
-   "Dishonor"
+   "Malu",
+   "Aib"
   ],
   "kunyomi": [
    "は.じる",
@@ -11846,11 +11846,11 @@ export const kanjiN3 = [
   "kanji": "払",
   "level": "N3",
   "meanings": [
-   "Pay",
-   "Clear Out",
-   "Prune",
-   "Banish",
-   "Dispose Of"
+   "Membayar",
+   "Mengosongkan",
+   "Memangkas",
+   "Membuang",
+   "Buang"
   ],
   "kunyomi": [
    "はら.う",
@@ -11885,10 +11885,10 @@ export const kanjiN3 = [
   "kanji": "舞",
   "level": "N3",
   "meanings": [
-   "Dance",
-   "Flit",
-   "Circle",
-   "Wheel"
+   "Menari",
+   "Terbang",
+   "Lingkaran",
+   "Roda"
   ],
   "kunyomi": [
    "ま.う",
@@ -11921,8 +11921,8 @@ export const kanjiN3 = [
   "kanji": "頼",
   "level": "N3",
   "meanings": [
-   "Trust",
-   "Request"
+   "Memercayai",
+   "Meminta"
   ],
   "kunyomi": [
    "たの.む",
@@ -11955,12 +11955,12 @@ export const kanjiN3 = [
   "kanji": "戻",
   "level": "N3",
   "meanings": [
-   "Re-",
-   "Return",
-   "Revert",
-   "Resume",
-   "Restore",
-   "Go Backwards"
+   "Ulang-",
+   "Kembali",
+   "Kembali",
+   "Melanjutkan",
+   "Memulihkan",
+   "Mundur"
   ],
   "kunyomi": [
    "もど.す",
@@ -11987,9 +11987,9 @@ export const kanjiN3 = [
   "kanji": "抱",
   "level": "N3",
   "meanings": [
-   "Embrace",
-   "Hug",
-   "Hold In Arms"
+   "Merangkul",
+   "Memeluk",
+   "Pegang Senjata"
   ],
   "kunyomi": [
    "だ.く",
@@ -12017,13 +12017,13 @@ export const kanjiN3 = [
   "kanji": "緒",
   "level": "N3",
   "meanings": [
-   "Thong",
-   "Beginning",
-   "Inception",
-   "End",
-   "Cord",
-   "Strap",
-   "Mental Or Emotional State"
+   "tali",
+   "Awal",
+   "Lahirnya",
+   "Akhir",
+   "Tali",
+   "Mengikat",
+   "Keadaan Mental Atau Emosional"
   ],
   "kunyomi": [
    "お",
@@ -12046,11 +12046,11 @@ export const kanjiN3 = [
   "kanji": "逃",
   "level": "N3",
   "meanings": [
-   "Escape",
-   "Flee",
-   "Shirk",
-   "Evade",
-   "Set Free"
+   "Melarikan diri",
+   "Kabur",
+   "Melalaikan",
+   "Menghindari",
+   "Membebaskan"
   ],
   "kunyomi": [
    "に.げる",
@@ -12074,9 +12074,9 @@ export const kanjiN3 = [
   "kanji": "御",
   "level": "N3",
   "meanings": [
-   "Honorable",
-   "Manipulate",
-   "Govern"
+   "Terhormat",
+   "Memanipulasi",
+   "Memerintah"
   ],
   "kunyomi": [
    "おん-",
@@ -12110,11 +12110,11 @@ export const kanjiN3 = [
   "kanji": "吹",
   "level": "N3",
   "meanings": [
-   "Blow",
-   "Breathe",
-   "Puff",
-   "Emit",
-   "Smoke"
+   "Meniup",
+   "Bernapas",
+   "Engah",
+   "Memancarkan",
+   "Merokok"
   ],
   "kunyomi": [
    "ふ.く"
@@ -12135,11 +12135,11 @@ export const kanjiN3 = [
   "kanji": "到",
   "level": "N3",
   "meanings": [
-   "Arrival",
-   "Proceed",
-   "Reach",
-   "Attain",
-   "Result In"
+   "Kedatangan",
+   "Melanjutkan",
+   "Mencapai",
+   "Mencapai",
+   "Hasil Dalam"
   ],
   "kunyomi": [
    "いた.る"
@@ -12160,7 +12160,7 @@ export const kanjiN3 = [
   "kanji": "髪",
   "level": "N3",
   "meanings": [
-   "Hair Of The Head"
+   "Rambut Kepala"
   ],
   "kunyomi": [
    "かみ"
@@ -12181,9 +12181,9 @@ export const kanjiN3 = [
   "kanji": "疲",
   "level": "N3",
   "meanings": [
-   "Exhausted",
-   "Tire",
-   "Weary"
+   "Lelah",
+   "Ban",
+   "Lelah"
   ],
   "kunyomi": [
    "つか.れる",
@@ -12211,10 +12211,10 @@ export const kanjiN3 = [
   "kanji": "歳",
   "level": "N3",
   "meanings": [
-   "Year-end",
-   "Age",
-   "Occasion",
-   "Opportunity"
+   "Akhir tahun",
+   "Usia",
+   "Kesempatan",
+   "Peluang"
   ],
   "kunyomi": [
    "とし",
@@ -12238,11 +12238,11 @@ export const kanjiN3 = [
   "kanji": "偶",
   "level": "N3",
   "meanings": [
-   "Accidentally",
-   "Even Number",
-   "Couple",
-   "Man & Wife",
-   "Same Kind"
+   "Secara tidak sengaja",
+   "Bilangan Genap",
+   "Pasangan",
+   "Pria & Istri",
+   "Jenis yang Sama"
   ],
   "kunyomi": [
    "たま"
@@ -12268,12 +12268,12 @@ export const kanjiN3 = [
   "kanji": "偉",
   "level": "N3",
   "meanings": [
-   "Admirable",
-   "Greatness",
-   "Remarkable",
-   "Conceited",
-   "Famous",
-   "Excellent"
+   "Terpuji",
+   "Kebesaran",
+   "Luar biasa",
+   "Sombong",
+   "Terkenal",
+   "Bagus sekali"
   ],
   "kunyomi": [
    "えら.い"
@@ -12294,12 +12294,12 @@ export const kanjiN3 = [
   "kanji": "頂",
   "level": "N3",
   "meanings": [
-   "Place On The Head",
-   "Receive",
-   "Top Of Head",
-   "Top",
-   "Summit",
-   "Peak"
+   "Tempatkan Di Kepala",
+   "Menerima",
+   "Bagian Atas Kepala",
+   "Atas",
+   "Puncak",
+   "Puncak"
   ],
   "kunyomi": [
    "いただ.く",
