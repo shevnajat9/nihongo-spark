@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { vocabData } from '../data/vocab';
+import { useLevelData } from '../data/loader';
 import { loadProgress, saveProgress, reviewItem, isDue, getMasteryStatus, MASTERY_LABELS } from '../utils/srs';
 import { markChecklistDone } from '../utils/checklist';
 
@@ -8,6 +8,8 @@ const DAILY_GOAL = 5;
 const getVocabId = (item) => `${item.level}__${item.word}`;
 
 export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) {
+  const { data, loading } = useLevelData(currentLevel);
+  const vocabData = data ? data.vocab : []; // array level aktif (lazy-load)
   const [searchQuery, setSearchQuery] = useState('');
   const [filterMode, setFilterMode] = useState('all'); // 'all', 'bookmarked', or 'due'
   const [bookmarks, setBookmarks] = useState([]);
@@ -208,6 +210,16 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
       speak(filteredVocab[0].word);
     }
   };
+
+  if (loading) {
+    return (
+      <div className="vocab-view">
+        <div className="glass-panel" style={{ textAlign: 'center', padding: '2.5rem' }}>
+          <p style={{ color: 'var(--text-muted)' }}>⏳ Memuat kosakata level {currentLevel}…</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="vocab-view">

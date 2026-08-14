@@ -1,15 +1,11 @@
 // Generator soal bergaya JLPT (Japanese-Language Proficiency Test).
-// Meniru format soal asli dari data aplikasi:
+// Data-driven: semua gen* menerima `levelData = { vocab, kanji, grammar }`
+// (sudah difilter per level oleh src/data/loader.js) — tidak ada import global.
 //   文字・語彙 (Mojigoi): 問題1 漢字読み, 問題2 表記, 問題3 文脈規定, 問題4 語義選択
 //   文法 (Bunpō):        文法1 partikel, 文法2 pola tata bahasa, 文法3 並べ替え
 //   読解 (Dokkai):        短文読解 (memahami arti kalimat)
 //   聴解 (Chōkai):        問題1 語彙 (dengar kata → kanji), 問題2 文意 (dengar kalimat → arti),
 //                         問題3 即時応答 (dengar ungkapan → respons tepat)
-// Setiap fungsi mengembalikan array soal; soal kosong diskip secara aman.
-
-import { vocabData } from '../data/vocab';
-import { kanjiData } from '../data/kanji';
-import { grammarData } from '../data/grammar';
 import { quickResponseData } from '../data/chokai';
 
 const HAN = /\p{Script=Han}/u;          // karakter kanji
@@ -77,8 +73,7 @@ function pickDistinct(values, n, exclude) {
   return out;
 }
 
-// Posisi kemunculan `word` dalam `sentence` yang TIDAK menempel pada kanji lain
-// (mis. kata "本" tidak ikut ter-blank saat ada di dalam "日本語").
+// Posisi kemunculan `word` dalam `sentence` yang TIDAK menempel pada kanji lain.
 function findStandaloneIndex(sentence, word) {
   const first = sentence.indexOf(word);
   if (first === -1) return -1;
@@ -100,8 +95,6 @@ function replaceFirst(sentence, needle, replacement) {
 function dedupeByJp(items) {
   const seen = new Set();
   return items.filter((q) => {
-    // REORDER & soal 聴解 tidak punya jp (teks disembunyikan saat ujian) —
-    // pakai transkrip/kalimat asli sebagai key.
     let key;
     if (q.type === 'REORDER') key = `${q.type}__${q.order.join('')}`;
     else if (q.section === 'chokai') key = `${q.type}__${q.transcript}`;
@@ -115,13 +108,11 @@ function dedupeByJp(items) {
 // ---------- 文字・語彙 ----------
 
 // 問題1 漢字読み: kata kanji → pilih cara baca (hiragana) yang benar.
-// `exclude` = Set kata yang sudah dipakai di seksi ini (biar tidak ada kata
-// yang muncul dua kali dalam satu ujian).
-export function genKanjiReading(level, n, exclude = new Set()) {
-  const pool = vocabData.filter(
-    (v) => v.level === level && HAN.test(v.word) && v.reading && v.reading !== v.word && !exclude.has(v.word)
+export function genKanjiReading(levelData, n, exclude = new Set()) {
+  const pool = levelData.vocab.filter(
+    (v) => HAN.test(v.word) && v.reading && v.reading !== v.word && !exclude.has(v.word)
   );
-  const allReadings = vocabData.filter((v) => v.level === level && v.reading).map((v) => v.reading);
+  const allReadings = levelData.vocab.filter((v) => v.reading).map((v) => v.reading);
 
   return shuffle(pool).slice(0, n).map((item) => {
     exclude.add(item.word);
@@ -145,11 +136,11 @@ export function genKanjiReading(level, n, exclude = new Set()) {
 }
 
 // 問題2 表記: bacaan (hiragana) → pilih penulisan kanji yang benar.
-export function genOrthography(level, n, exclude = new Set()) {
-  const pool = vocabData.filter(
-    (v) => v.level === level && HAN.test(v.word) && v.reading && v.reading !== v.word && !exclude.has(v.word)
+export function genOrthography(levelData, n, exclude = new Set()) {
+  const pool = levelData.vocab.filter(
+    (v) => HAN.test(v.word) && v.reading && v.reading !== v.word && !exclude.has(v.word)
   );
-  const allWords = vocabData.filter((v) => v.level === level && HAN.test(v.word)).map((v) => v.word);
+  const allWords = levelData.vocab.filter((v) => HAN.test(v.word)).map((v) => v.word);
 
   return shuffle(pool).slice(0, n).map((item) => {
     exclude.add(item.word);
@@ -173,9 +164,9 @@ export function genOrthography(level, n, exclude = new Set()) {
 }
 
 // 問題3 文脈規定: kalimat dengan kata yang dikosongkan → pilih kata yang tepat.
-export function genContextual(level, n, exclude = new Set()) {
-  const pool = vocabData.filter(
-    (v) => v.level === level && v.example && v.example.includes(v.word) && v.word.length >= 1 && !exclude.has(v.word)
+export function genContextual(levelData, n, exclude = new Set()) {
+  const pool = levelData.vocab.filter(
+    (v) => v.example && v.example.includes(v.word) && v.word.length >= 1 && !exclude.has(v.word)
   );
 
   return shuffle(pool).slice(0, n).map((item) => {
@@ -183,17 +174,16 @@ export function genContextual(level, n, exclude = new Set()) {
     if (blanked === null) return null;
     exclude.add(item.word);
 
-    // Distractor: utamakan kata dengan jenis yang sama (supaya tidak ketebak dari posisi).
     let distractors = pickDistinct(
-      vocabData
-        .filter((v) => v.level === level && v.word !== item.word && v.partOfSpeech === item.partOfSpeech)
+      levelData.vocab
+        .filter((v) => v.word !== item.word && v.partOfSpeech === item.partOfSpeech)
         .map((v) => v.word),
       3,
       item.word
     );
     if (distractors.length < 3) {
       const fallback = pickDistinct(
-        vocabData.filter((v) => v.level === level && v.word !== item.word).map((v) => v.word),
+        levelData.vocab.filter((v) => v.word !== item.word).map((v) => v.word),
         3 - distractors.length,
         item.word
       );
@@ -219,12 +209,10 @@ export function genContextual(level, n, exclude = new Set()) {
   }).filter(Boolean);
 }
 
-// 問題4 語義選択: arti (bahasa Indonesia) → pilih kata yang tepat (kebalikan 文脈規定).
-export function genWordMeaning(level, n, exclude = new Set()) {
-  const pool = vocabData.filter(
-    (v) => v.level === level && v.meaning && !exclude.has(v.word)
-  );
-  const allWords = vocabData.filter((v) => v.level === level).map((v) => v.word);
+// 問題4 語義選択: arti → pilih kata yang tepat.
+export function genWordMeaning(levelData, n, exclude = new Set()) {
+  const pool = levelData.vocab.filter((v) => v.meaning && !exclude.has(v.word));
+  const allWords = levelData.vocab.map((v) => v.word);
 
   return shuffle(pool).slice(0, n).map((item) => {
     exclude.add(item.word);
@@ -247,24 +235,23 @@ export function genWordMeaning(level, n, exclude = new Set()) {
   });
 }
 
-export function genMojigoi(level, count = 10, exclude = new Set()) {
-  const c = MJ_COMP[level] || MJ_COMP.N5;
+export function genMojigoi(levelData, n, exclude = new Set()) {
+  const c = MJ_COMP[levelData.level] || MJ_COMP.N5;
   const qs = [
-    ...genKanjiReading(level, c.reading, exclude),
-    ...genOrthography(level, c.ortho, exclude),
-    ...genContextual(level, c.contextual, exclude),
-    ...genWordMeaning(level, c.meaning, exclude),
+    ...genKanjiReading(levelData, c.reading, exclude),
+    ...genOrthography(levelData, c.ortho, exclude),
+    ...genContextual(levelData, c.contextual, exclude),
+    ...genWordMeaning(levelData, c.meaning, exclude),
   ];
-  // Jika ada tipe yang kekurangan (data terbatas), top-up dari 漢字読み.
-  const short = count - qs.length;
-  if (short > 0) qs.push(...genKanjiReading(level, short + 4, exclude));
-  return dedupeByJp(qs).slice(0, count);
+  const short = n - qs.length;
+  if (short > 0) qs.push(...genKanjiReading(levelData, short + 4, exclude));
+  return dedupeByJp(qs).slice(0, n);
 }
 
 // ---------- 文法 ----------
 
 // 文法1: partikel yang hilang dalam kalimat contoh (grammar + vocab).
-export function genParticle(level, n) {
+export function genParticle(levelData, n) {
   const pool = [];
 
   const scan = (sentence, reading, meaning) => {
@@ -281,13 +268,8 @@ export function genParticle(level, n) {
     }
   };
 
-  grammarData
-    .filter((g) => g.level === level)
-    .forEach((g) => g.examples.forEach((ex) => scan(ex.sentence, ex.reading, ex.meaning)));
-
-  vocabData
-    .filter((v) => v.level === level && v.example)
-    .forEach((v) => scan(v.example, v.exampleReading, v.exampleMeaning));
+  levelData.grammar.forEach((g) => g.examples.forEach((ex) => scan(ex.sentence, ex.reading, ex.meaning)));
+  levelData.vocab.filter((v) => v.example).forEach((v) => scan(v.example, v.exampleReading, v.exampleMeaning));
 
   return shuffle(pool).slice(0, n).map((item) => ({
     type: 'PARTICLE',
@@ -308,12 +290,11 @@ export function genParticle(level, n) {
 }
 
 // 文法2: pola tata bahasa yang hilang dalam kalimat contoh grammar.
-export function genPattern(level, n) {
-  const patterns = grammarData.filter((g) => g.level === level);
+export function genPattern(levelData, n) {
+  const patterns = levelData.grammar;
   const pool = [];
 
   patterns.forEach((g) => {
-    // Fragmen pola yang bisa dicocokkan dengan kalimat (buang 〜 dan pemisah).
     const frags = g.pattern.replace(/〜/g, ' ').split(/[、/・\s]+/).filter((f) => f.length >= 2);
     if (!frags.length) return;
     g.examples.forEach((ex) => {
@@ -352,15 +333,11 @@ export function genPattern(level, n) {
   }));
 }
 
-// 文法3 並べ替え: potong kalimat menjadi 3–4 bagian di batas partikel,
-// lalu peserta menyusunnya kembali (klik urutan).
+// 文法3 並べ替え: potong kalimat di batas partikel, peserta menyusun kembali.
 export function splitSentence(sentence) {
   const s = sentence.trim();
   if (s.length < 8 || s.length > 45) return null;
 
-  // Partikel dianggap batas HANYA jika karakter setelahnya bukan kana
-  // (kanji/katakana = awal kata baru). Partikel di dalam kata (はず, つもり,
-  // いかない, です…) tidak boleh memotong kata.
   const candidates = [];
   for (let i = 1; i < s.length - 1; i++) {
     if (!PARTICLES.includes(s[i])) continue;
@@ -368,15 +345,13 @@ export function splitSentence(sentence) {
     const next = s[i + 1];
     if (PARTICLES.includes(prev)) continue;
     if (KANA.test(next) || next === '。' || next === '、') continue;
-    candidates.push(i + 1); // batas potong SETELAH partikel
+    candidates.push(i + 1);
   }
 
-  // Batas setelah koma: "来年、日本へ…" → "来年、" + "日本へ…"
   for (let i = 2; i < s.length - 1; i++) {
     if (s[i] === '、' || s[i] === '，') candidates.push(i + 1);
   }
 
-  // Batas sebelum ekor です/ます/でした…: "…学生です。" → "…学生" + "です。"
   for (const tail of ['ませんでした。', 'ましょうか。', 'でしょう。', 'でした。', 'ません。', 'ましょう。', 'ますか。', 'です。', 'ます。']) {
     if (s.endsWith(tail) && s.length - tail.length >= 2) {
       candidates.push(s.length - tail.length);
@@ -387,7 +362,6 @@ export function splitSentence(sentence) {
   const trySplits = (k) => {
     const unique = [...new Set(candidates)].filter((c) => c > 0 && c < s.length);
     if (unique.length < k) return null;
-    // coba beberapa kombinasi acak; ambil yang valid
     for (let attempt = 0; attempt < 15; attempt++) {
       const combos = shuffle(unique).slice(0, k).sort((a, b) => a - b);
       const boundaries = [0, ...combos, s.length];
@@ -404,25 +378,23 @@ export function splitSentence(sentence) {
   return trySplits(3) || trySplits(2);
 }
 
-export function genReorder(level, n) {
+export function genReorder(levelData, n) {
   const seen = new Set();
   const pool = [];
 
-  grammarData
-    .filter((g) => g.level === level)
-    .forEach((g) =>
-      g.examples.forEach((ex) => {
-        if (seen.has(ex.sentence)) return;
-        const chunks = splitSentence(ex.sentence);
-        if (chunks) {
-          seen.add(ex.sentence);
-          pool.push({ sentence: ex.sentence, chunks, reading: ex.reading, meaning: ex.meaning });
-        }
-      })
-    );
+  levelData.grammar.forEach((g) =>
+    g.examples.forEach((ex) => {
+      if (seen.has(ex.sentence)) return;
+      const chunks = splitSentence(ex.sentence);
+      if (chunks) {
+        seen.add(ex.sentence);
+        pool.push({ sentence: ex.sentence, chunks, reading: ex.reading, meaning: ex.meaning });
+      }
+    })
+  );
 
-  vocabData
-    .filter((v) => v.level === level && v.example)
+  levelData.vocab
+    .filter((v) => v.example)
     .forEach((v) => {
       if (seen.has(v.example)) return;
       const chunks = splitSentence(v.example);
@@ -437,7 +409,7 @@ export function genReorder(level, n) {
     badge: '文法3 並べ替え',
     section: 'bunpo',
     question: 'Susunlah bagian-bagian berikut menjadi kalimat yang benar (klik untuk memilih urutan):',
-    jp: null, // jangan tampilkan kalimat utuh — itu kuncinya!
+    jp: null,
     options: shuffle(item.chunks),
     order: item.chunks,
     correct: item.chunks.join(''),
@@ -451,27 +423,27 @@ export function genReorder(level, n) {
   }));
 }
 
-export function genBunpo(level, count = 10) {
-  const c = BP_COMP[level] || BP_COMP.N5;
+export function genBunpo(levelData, n) {
+  const c = BP_COMP[levelData.level] || BP_COMP.N5;
   const qs = [
-    ...genParticle(level, c.particle),
-    ...genPattern(level, c.pattern),
-    ...genReorder(level, c.reorder),
+    ...genParticle(levelData, c.particle),
+    ...genPattern(levelData, c.pattern),
+    ...genReorder(levelData, c.reorder),
   ];
-  const short = count - qs.length;
-  if (short > 0) qs.push(...genParticle(level, short + 4));
-  return dedupeByJp(qs).slice(0, count);
+  const short = n - qs.length;
+  if (short > 0) qs.push(...genParticle(levelData, short + 4));
+  return dedupeByJp(qs).slice(0, n);
 }
 
 // ---------- 読解 ----------
 
 // 短文読解: kalimat singkat → pilih arti yang paling tepat.
-export function genShortReading(level, n) {
-  const pool = vocabData.filter(
-    (v) => v.level === level && v.example && v.exampleMeaning && KANA.test(v.example)
+export function genShortReading(levelData, n) {
+  const pool = levelData.vocab.filter(
+    (v) => v.example && v.exampleMeaning && KANA.test(v.example)
   );
-  const allMeanings = vocabData
-    .filter((v) => v.level === level && v.exampleMeaning)
+  const allMeanings = levelData.vocab
+    .filter((v) => v.exampleMeaning)
     .map((v) => v.exampleMeaning);
 
   return shuffle(pool).slice(0, n).map((item) => ({
@@ -495,13 +467,12 @@ export function genShortReading(level, n) {
 
 // ---------- 聴解 (listening — audio via SpeechSynthesis) ----------
 
-// 問題1 語彙: dengar kata (audio) → pilih penulisan kanji yang benar.
-// Teks tidak ditampilkan saat ujian; `transcript` muncul di pembahasan.
-export function genListenWord(level, n) {
-  const pool = vocabData.filter(
-    (v) => v.level === level && HAN.test(v.word) && v.reading && v.reading !== v.word
+// 問題1 語彙: dengar kata → pilih penulisan kanji yang benar.
+export function genListenWord(levelData, n) {
+  const pool = levelData.vocab.filter(
+    (v) => HAN.test(v.word) && v.reading && v.reading !== v.word
   );
-  const allWords = vocabData.filter((v) => v.level === level && HAN.test(v.word)).map((v) => v.word);
+  const allWords = levelData.vocab.filter((v) => HAN.test(v.word)).map((v) => v.word);
 
   return shuffle(pool).slice(0, n).map((item) => ({
     type: 'LISTEN_WORD',
@@ -509,7 +480,7 @@ export function genListenWord(level, n) {
     section: 'chokai',
     question: 'Dengarkan kata berikut, lalu pilih penulisan kanji yang benar:',
     audio: item.word,
-    jp: null, // disembunyikan saat ujian
+    jp: null,
     transcript: item.word,
     options: shuffle([item.word, ...pickDistinct(allWords, 3, item.word)]),
     correct: item.word,
@@ -523,13 +494,13 @@ export function genListenWord(level, n) {
   }));
 }
 
-// 問題2 文意: dengar kalimat (audio) → pilih arti yang paling tepat.
-export function genListenSentence(level, n) {
-  const pool = vocabData.filter(
-    (v) => v.level === level && v.example && v.exampleMeaning
+// 問題2 文意: dengar kalimat → pilih arti yang paling tepat.
+export function genListenSentence(levelData, n) {
+  const pool = levelData.vocab.filter(
+    (v) => v.example && v.exampleMeaning
   );
-  const allMeanings = vocabData
-    .filter((v) => v.level === level && v.exampleMeaning)
+  const allMeanings = levelData.vocab
+    .filter((v) => v.exampleMeaning)
     .map((v) => v.exampleMeaning);
 
   return shuffle(pool).slice(0, n).map((item) => ({
@@ -579,30 +550,27 @@ export function genQuickResponse(level, n) {
   }));
 }
 
-export function genChokai(level, count = 12) {
+export function genChokai(level, levelData, n) {
   const c = CK_COMP[level] || CK_COMP.N5;
   const qs = [
-    ...genListenWord(level, c.word),
-    ...genListenSentence(level, c.sentence),
+    ...genListenWord(levelData, c.word),
+    ...genListenSentence(levelData, c.sentence),
     ...genQuickResponse(level, c.response),
   ];
-  const short = count - qs.length;
-  if (short > 0) qs.push(...genListenSentence(level, short + 4));
-  return dedupeByJp(qs).slice(0, count);
+  const short = n - qs.length;
+  if (short > 0) qs.push(...genListenSentence(levelData, short + 4));
+  return dedupeByJp(qs).slice(0, n);
 }
 
 // ---------- paket ujian ----------
 
-export function buildJLPTTest(level) {
+export function buildJLPTTest(level, levelData) {
   const counts = LEVEL_COUNTS[level] || LEVEL_COUNTS.N5;
-  const usedWords = new Set(); // satu kata hanya muncul sekali di seksi 文字・語彙
+  const usedWords = new Set();
   return {
-    mojigoi: genMojigoi(level, counts.mojigoi, usedWords),
-    bunpo: genBunpo(level, counts.bunpo),
-    dokkai: genShortReading(level, counts.dokkai),
-    chokai: genChokai(level, counts.chokai),
+    mojigoi: genMojigoi(levelData, counts.mojigoi, usedWords),
+    bunpo: genBunpo(levelData, counts.bunpo),
+    dokkai: genShortReading(levelData, counts.dokkai),
+    chokai: genChokai(level, levelData, counts.chokai),
   };
 }
-
-// Untuk import tambahan bila komponen butuh (mis. statistik).
-export { kanjiData };

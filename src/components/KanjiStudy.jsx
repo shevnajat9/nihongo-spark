@@ -1,11 +1,13 @@
 import React, { useState, useRef, useEffect, useCallback } from 'react';
-import { kanjiData } from '../data/kanji';
+import { useLevelData } from '../data/loader';
 import { loadProgress, saveProgress, reviewItem, isDue, getMasteryStatus, MASTERY_LABELS } from '../utils/srs';
 
 const PROGRESS_KEY = 'nihongo_spark_kanji_progress';
 const getKanjiId = (item) => `${item.level}__${item.kanji}`;
 
 export default function KanjiStudy({ currentLevel }) {
+  const { data, loading } = useLevelData(currentLevel);
+  const kanjiData = data ? data.kanji : []; // array level aktif (lazy-load)
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedKanji, setSelectedKanji] = useState(null);
   const [progress, setProgress] = useState({});
@@ -182,6 +184,16 @@ export default function KanjiStudy({ currentLevel }) {
   const stopDrawing = () => { isDrawingRef.current = false; };
 
   const currentItem = filteredKanji[currentSlideIdx];
+
+  if (loading) {
+    return (
+      <div className="kanji-view">
+        <div className="glass-panel" style={{ textAlign: 'center', padding: '2.5rem' }}>
+          <p style={{ color: 'var(--text-muted)' }}>⏳ Memuat kanji level {currentLevel}…</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="kanji-view">

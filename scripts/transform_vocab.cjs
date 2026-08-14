@@ -41,7 +41,6 @@ async function buildLevel(lv) {
   const hiraMap = new Map(parseTab(path.join(RAW, `vocab-${lv}-hiragana.tab`)).map((x) => [x.q, x.a]));
 
   const oldLv = loadOldVocab().filter((v) => v.level === LEVEL);
-  const oldWords = new Set(oldLv.map((v) => v.word));
 
   const result = [];
   const used = new Set();
@@ -54,7 +53,6 @@ async function buildLevel(lv) {
 
   // 2) entri baru dari tabs
   let readingFallback = 0;
-  let posUnknown = 0;
   for (const x of eng) {
     if (used.has(x.q)) continue;
     used.add(x.q);

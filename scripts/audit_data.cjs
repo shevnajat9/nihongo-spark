@@ -33,7 +33,6 @@ for (const lv of ['n5', 'n4', 'n3']) {
   const hira = parseTab(path.join(RAW, `vocab-${lv}-hiragana.tab`));
   const hiraMap = new Map(hira.map((x) => [x.q, x.a]));
 
-  const engWords = new Set(eng.map((x) => x.q));
   const oldLv = oldVocab.filter((v) => v.level === lv.toUpperCase());
   const oldWords = new Set(oldLv.map((v) => v.word));
   const oldKanaOnly = oldLv.filter((v) => !hasKanji(v.word));

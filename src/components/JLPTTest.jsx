@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { buildJLPTTest, LEVEL_COUNTS } from '../utils/jlptGen';
+import { useLevelData } from '../data/loader';
 import { markChecklistDone } from '../utils/checklist';
 import '../jlpt.css';
 
@@ -53,6 +54,7 @@ export default function JLPTTest({ currentLevel, studyStats, setStudyStats }) {
   const [results, setResults] = useState(null);
   const finishingRef = useRef(false);
 
+  const { data: levelData, loading: dataLoading } = useLevelData(level);
   const activeSection = sections[sectionIdx] || null;
 
   // ⏱️ Hitung mundur per seksi
@@ -101,7 +103,8 @@ export default function JLPTTest({ currentLevel, studyStats, setStudyStats }) {
   // ── Alur ujian ──
 
   const startTest = () => {
-    const built = buildJLPTTest(level);
+    if (!levelData) return;
+    const built = buildJLPTTest(level, levelData);
     const times = LEVEL_TIMES[level] || LEVEL_TIMES.N5;
     const secs = SECTIONS.map((meta) => ({
       ...meta,
@@ -345,8 +348,13 @@ export default function JLPTTest({ currentLevel, studyStats, setStudyStats }) {
             {Math.round(Object.values(LEVEL_TIMES[level]).reduce((a, b) => a + b, 0) / 60)} menit
           </div>
 
-          <button className="start-quiz-btn jlpt-start-btn" onClick={startTest}>
-            🎌 Mulai Ujian
+          <button
+            className="start-quiz-btn jlpt-start-btn"
+            onClick={startTest}
+            disabled={dataLoading}
+            style={{ opacity: dataLoading ? 0.6 : 1, cursor: dataLoading ? 'wait' : 'pointer' }}
+          >
+            {dataLoading ? '⏳ Memuat data level…' : '🎌 Mulai Ujian'}
           </button>
           <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '1rem' }}>
             Nilai lulus simulasi: ≥ {PASS_PCT}% keseluruhan. Waktu habis = seksi dikumpulkan otomatis.

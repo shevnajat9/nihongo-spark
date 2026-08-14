@@ -6,7 +6,7 @@ const path = require('path');
 const RAW = path.join(__dirname, 'raw');
 const DATA = path.join(__dirname, '..', 'src', 'data');
 
-function loadJsArray(file, exportName) {
+function loadJsArray(file) {
   const raw = fs.readFileSync(file, 'utf-8');
   const start = raw.indexOf('[');
   const end = raw.lastIndexOf(']');

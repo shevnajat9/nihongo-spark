@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import { grammarData } from '../data/grammar';
+import { useLevelData } from '../data/loader';
 import { markChecklistDone, getTodayChecklist } from '../utils/checklist';
 
 const PROGRESS_KEY = 'nihongo_spark_grammar_progress';
 
 export default function GrammarStudy({ currentLevel, studyStats, setStudyStats }) {
+  const { data, loading } = useLevelData(currentLevel);
+  const grammarData = data ? data.grammar : []; // array level aktif (lazy-load)
   const [searchQuery, setSearchQuery] = useState('');
   const [filterMode, setFilterMode] = useState('all'); // 'all' | 'unstudied' | 'studied' | 'bookmarked'
   const [progress, setProgress] = useState({});
@@ -117,6 +119,16 @@ export default function GrammarStudy({ currentLevel, studyStats, setStudyStats }
       window.speechSynthesis.speak(utterance);
     }
   };
+
+  if (loading) {
+    return (
+      <div className="grammar-view">
+        <div className="glass-panel" style={{ textAlign: 'center', padding: '2.5rem' }}>
+          <p style={{ color: 'var(--text-muted)' }}>⏳ Memuat tata bahasa level {currentLevel}…</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="grammar-view">

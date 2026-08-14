@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
-import { vocabData } from '../data/vocab';
-import { kanjiData } from '../data/kanji';
-import { grammarData } from '../data/grammar';
+import { useLevelData } from '../data/loader';
 import { markChecklistDone } from '../utils/checklist';
 import { loadProgress, saveProgress, reviewItem, isDue } from '../utils/srs';
 
 export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
+  const { data, loading } = useLevelData(currentLevel);
+  const vocabData = data ? data.vocab : [];
+  const kanjiData = data ? data.kanji : [];
+  const grammarData = data ? data.grammar : [];
   const [isPlaying, setIsPlaying] = useState(false);
   const [questions, setQuestions] = useState([]);
   const [currentIdx, setCurrentIdx] = useState(0);
@@ -175,6 +177,7 @@ export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
   };
 
   const generateQuiz = (mode = 'normal') => {
+    if (!data) return;
     setQuizMode(mode);
     const pool = buildPool(mode);
     const selected = pool.sort(() => 0.5 - Math.random()).slice(0, 5);
@@ -242,6 +245,16 @@ export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
   const totalDue = dueVocabCount + dueKanjiCount;
 
   const currentQ = questions[currentIdx];
+
+  if (loading) {
+    return (
+      <div className="quiz-view">
+        <div className="glass-panel" style={{ textAlign: 'center', padding: '2.5rem' }}>
+          <p style={{ color: 'var(--text-muted)' }}>⏳ Memuat soal level {currentLevel}…</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="quiz-view">

@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { vocabData } from '../data/vocab';
-import { kanjiData } from '../data/kanji';
+import { loadLevel } from '../data/loader';
 import { loadProgress, isDue, getMasteryStatus } from '../utils/srs';
 import { getTodayChecklist } from '../utils/checklist';
 
@@ -17,26 +16,36 @@ export default function Dashboard({
   const [levelMastery, setLevelMastery] = useState({});
 
   useEffect(() => {
-    const vocabProgress = loadProgress('nihongo_spark_vocab_progress');
-    const kanjiProgress = loadProgress('nihongo_spark_kanji_progress');
-    setDueVocab(vocabData.filter(v => isDue(vocabProgress, `${v.level}__${v.word}`)).length);
-    setDueKanji(kanjiData.filter(k => isDue(kanjiProgress, `${k.level}__${k.kanji}`)).length);
+    let alive = true;
+    // Muat data semua level via loader (cache setelah pertama kali).
+    Promise.all(LEVELS.map(loadLevel)).then((datas) => {
+      if (!alive) return;
+      const allVocab = datas.flatMap((d) => d.vocab);
+      const allKanji = datas.flatMap((d) => d.kanji);
+      const vocabProgress = loadProgress('nihongo_spark_vocab_progress');
+      const kanjiProgress = loadProgress('nihongo_spark_kanji_progress');
+      setDueVocab(allVocab.filter((v) => isDue(vocabProgress, `${v.level}__${v.word}`)).length);
+      setDueKanji(allKanji.filter((k) => isDue(kanjiProgress, `${k.level}__${k.kanji}`)).length);
 
-    // Hitung persentase penguasaan (mastered) per level JLPT, gabungan vocab + kanji.
-    const mastery = {};
-    LEVELS.forEach(level => {
-      const levelVocab = vocabData.filter(v => v.level === level);
-      const levelKanji = kanjiData.filter(k => k.level === level);
-      const total = levelVocab.length + levelKanji.length;
-      if (total === 0) {
-        mastery[level] = 0;
-        return;
-      }
-      const masteredVocab = levelVocab.filter(v => getMasteryStatus(vocabProgress, `${v.level}__${v.word}`) === 'mastered').length;
-      const masteredKanji = levelKanji.filter(k => getMasteryStatus(kanjiProgress, `${k.level}__${k.kanji}`) === 'mastered').length;
-      mastery[level] = Math.round(((masteredVocab + masteredKanji) / total) * 100);
+      // Hitung persentase penguasaan (mastered) per level JLPT, gabungan vocab + kanji.
+      const mastery = {};
+      LEVELS.forEach((level, i) => {
+        const levelVocab = datas[i].vocab;
+        const levelKanji = datas[i].kanji;
+        const total = levelVocab.length + levelKanji.length;
+        if (total === 0) {
+          mastery[level] = 0;
+          return;
+        }
+        const masteredVocab = levelVocab.filter((v) => getMasteryStatus(vocabProgress, `${v.level}__${v.word}`) === 'mastered').length;
+        const masteredKanji = levelKanji.filter((k) => getMasteryStatus(kanjiProgress, `${k.level}__${k.kanji}`) === 'mastered').length;
+        mastery[level] = Math.round(((masteredVocab + masteredKanji) / total) * 100);
+      });
+      setLevelMastery(mastery);
     });
-    setLevelMastery(mastery);
+    return () => {
+      alive = false;
+    };
   }, []);
 
   // Checklist harian bersifat otomatis (dipicu dari aktivitas nyata di Vocab/Grammar/Quiz),
