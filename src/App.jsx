@@ -5,6 +5,7 @@ import VocabStudy from './components/VocabStudy';
 import KanjiStudy from './components/KanjiStudy';
 import GrammarStudy from './components/GrammarStudy';
 import Quiz from './components/Quiz';
+import JLPTTest from './components/JLPTTest';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -74,6 +75,14 @@ export default function App() {
       case 'quiz':
         return (
           <Quiz 
+            currentLevel={currentLevel} 
+            studyStats={studyStats}
+            setStudyStats={setStudyStats}
+          />
+        );
+      case 'jlpt':
+        return (
+          <JLPTTest 
             currentLevel={currentLevel} 
             studyStats={studyStats}
             setStudyStats={setStudyStats}
@@ -182,6 +191,19 @@ export default function App() {
                 Latihan Kuis
               </button>
             </li>
+            <li>
+              <button 
+                className={`nav-item ${activeTab === 'jlpt' ? 'active' : ''}`}
+                onClick={() => setActiveTab('jlpt')}
+                style={{ background: 'transparent', border: 'none', width: '100%', textAlign: 'left' }}
+                aria-current={activeTab === 'jlpt' ? 'page' : undefined}
+              >
+                <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                  <path d="M5 21V3m0 2h14l-3 4 3 4H5" />
+                </svg>
+                Latihan JLPT
+              </button>
+            </li>
           </ul>
         </nav>
 
@@ -252,6 +274,16 @@ export default function App() {
             <path d="M12 8v13m0-13V6a2 2 0 112 2h-2zm0 0V5a2 2 0 10-2 2h2zm0 13a4 4 0 100-8 4 4 0 000 8z" />
           </svg>
           Quiz
+        </button>
+        <button 
+          className={`mobile-nav-item ${activeTab === 'jlpt' ? 'active' : ''}`}
+          onClick={() => setActiveTab('jlpt')}
+          aria-current={activeTab === 'jlpt' ? 'page' : undefined}
+        >
+          <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+            <path d="M5 21V3m0 2h14l-3 4 3 4H5" />
+          </svg>
+          JLPT
         </button>
       </nav>
 

@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+# Arsip materi belajar (PDF/MP3 besar, bukan source code)
+MATERI JLPT/
+
+# Artefak Windows (redirect NUL di bash)
+nul
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

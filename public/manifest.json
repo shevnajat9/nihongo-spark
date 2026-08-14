@@ -1,0 +1,20 @@
+{
+  "name": "Nihongo Spark - Belajar Bahasa Jepang Mandiri",
+  "short_name": "Nihongo Spark",
+  "description": "Aplikasi belajar bahasa Jepang mandiri interaktif untuk tingkat JLPT N5-N1.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080b11",
+  "theme_color": "#0f172a",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -423,6 +423,27 @@ body {
   overflow: hidden;
 }
 
+/* Visual feedback flash after clicking Sudah Hafal / Belum Hafal */
+.vocab-card-container.review-flash-yes {
+  animation: flashGreen 0.7s ease-out;
+}
+
+.vocab-card-container.review-flash-no {
+  animation: flashRed 0.7s ease-out;
+}
+
+@keyframes flashGreen {
+  0%   { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); border-radius: var(--border-radius); }
+  30%  { box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.7); }
+  100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+}
+
+@keyframes flashRed {
+  0%   { box-shadow: 0 0 0 0 rgba(244, 63, 94, 0); border-radius: var(--border-radius); }
+  30%  { box-shadow: 0 0 0 3px rgba(244, 63, 94, 0.7); }
+  100% { box-shadow: 0 0 0 0 rgba(244, 63, 94, 0); }
+}
+
 .vocab-card {
   position: relative;
   width: 100%;
@@ -1064,6 +1085,51 @@ body {
   background: #7c3aed;
 }
 
+/* Quiz Feedback Box */
+.quiz-feedback-box {
+  margin-top: 1.5rem;
+  padding: 1.25rem;
+  border-radius: 12px;
+  animation: slideDownFade 0.3s ease-out;
+}
+
+.feedback-correct {
+  background: rgba(16, 185, 129, 0.1);
+  border: 1px solid rgba(16, 185, 129, 0.25);
+  color: #a7f3d0;
+}
+
+.feedback-wrong {
+  background: rgba(244, 63, 94, 0.1);
+  border: 1px solid rgba(244, 63, 94, 0.25);
+  color: #fca5a5;
+}
+
+.quiz-feedback-header {
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+}
+
+.quiz-feedback-example {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+@keyframes slideDownFade {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
 /* Quiz Finished View */
 .quiz-finished {
   text-align: center;
@@ -1180,4 +1246,166 @@ body {
     width: 18px;
     height: 18px;
   }
+}
+
+/* Custom styles for GrammarStudy premium accordion and components */
+.grammar-tabs {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.grammar-tab-count {
+  font-size: 0.75rem;
+  opacity: 0.7;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 1px 6px;
+  border-radius: 10px;
+  margin-left: 0.35rem;
+}
+
+.grammar-tab-btn {
+  padding: 0.6rem 1.25rem;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--glass-border);
+  color: var(--text-secondary);
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+}
+
+.grammar-tab-btn:hover {
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text-primary);
+}
+
+.grammar-tab-btn.active {
+  background: var(--accent-primary);
+  color: white;
+  box-shadow: 0 4px 12px var(--accent-primary-glow);
+}
+
+.grammar-tab-btn.active .grammar-tab-count {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.grammar-accordion-card {
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+
+.grammar-accordion-card:hover {
+  border-color: rgba(139, 92, 246, 0.25);
+  box-shadow: 0 4px 20px -5px rgba(0, 0, 0, 0.3);
+}
+
+.grammar-accordion-header {
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+}
+
+.grammar-header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.grammar-header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.grammar-chevron {
+  transition: transform 0.3s ease;
+  color: var(--text-secondary);
+}
+
+.grammar-chevron.expanded {
+  transform: rotate(180deg);
+  color: var(--accent-primary);
+}
+
+.grammar-pattern-title {
+  font-family: var(--font-jp);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.grammar-accordion-body {
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 1.5rem;
+  background: rgba(15, 23, 42, 0.3);
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  animation: slide-down 0.25s ease-out;
+}
+
+@keyframes slide-down {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.grammar-btn-studied {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.grammar-btn-studied.active {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--accent-emerald);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.grammar-btn-studied:not(.active) {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-secondary);
+  border: 1px solid var(--glass-border);
+}
+
+.grammar-btn-studied:not(.active):hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.grammar-bookmark-star {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.grammar-bookmark-star:hover {
+  transform: scale(1.15);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.grammar-bookmark-star.active {
+  color: #fbbf24;
+  filter: drop-shadow(0 0 4px rgba(251, 191, 36, 0.4));
 }

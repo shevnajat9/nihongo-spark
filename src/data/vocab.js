@@ -7156,9 +7156,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "sikap diam",
-    "example": "無口を使う例文です。",
-    "exampleReading": "むくちをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"sikap diam\"."
+    "example": "彼は普段は無口だが、お酒が入るとよく喋る。",
+    "exampleReading": "かれはふだんはむくちだが、おさけがはいるとよくしゃべる。",
+    "exampleMeaning": "Dia biasanya pendiam, tetapi ketika minum alkohol dia menjadi cerewet."
   },
   {
     "word": "ご馳走",
@@ -7167,9 +7167,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pesta;",
-    "example": "ご馳走を使う例文です。",
-    "exampleReading": "ごちそうをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pesta;\"."
+    "example": "昨夜は先輩に美味しいご馳走をしていただいた。",
+    "exampleReading": "さくやはせんぱいにおいしいごちそうをしていただいた。",
+    "exampleMeaning": "Tadi malam saya ditraktir makanan lezat oleh senior saya."
   },
   {
     "word": "ポット",
@@ -7178,9 +7178,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "pot",
-    "example": "ポットを使う例文です。",
-    "exampleReading": "ポットをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"pot\"."
+    "example": "ポットのボタンを押すと、温かいお湯が出てきます。",
+    "exampleReading": "ポットのボタンをおすと、あたたかいおゆがでてきます。",
+    "exampleMeaning": "Jika Anda menekan tombol pada termos, air panas akan keluar."
   },
   {
     "word": "閲覧",
@@ -7189,9 +7189,9 @@ export const vocabData = [
     "level": "N1",
     "partOfSpeech": "Kata Benda",
     "meaning": "inspeksi;",
-    "example": "閲覧を使う例文です。",
-    "exampleReading": "えつらんをつかうれいぶんです。",
-    "exampleMeaning": "Ini adalah contoh kalimat menggunakan \"inspeksi;\"."
+    "example": "図書館の貴重な資料は、館内でのみ閲覧できます。",
+    "exampleReading": "としょかんのきちょうなしりょうは、かんないでのみえつらんできます。",
+    "exampleMeaning": "Dokumen berharga di perpustakaan hanya dapat dibaca di dalam ruangan."
   },
   {
     "word": "阻む",
