@@ -1656,9 +1656,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pengantin, menantu perempuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お前は俺の嫁です。",
+  "exampleReading": "おまえはおれのよめです。",
+  "exampleMeaning": "Kamu adalah istriku."
  },
  {
   "word": "次々",
@@ -1667,9 +1667,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berturut-turut, satu demi satu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "次々に亡くなった。",
+  "exampleReading": "つぎつぎになくなった。",
+  "exampleMeaning": "Mereka mati satu demi satu."
  },
  {
   "word": "スター",
@@ -1678,9 +1678,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bintang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "好きな映画スターは誰？",
+  "exampleReading": "すきなえいがすたーはだれ？",
+  "exampleMeaning": "Siapa bintang film favoritmu?"
  },
  {
   "word": "順",
@@ -1689,9 +1689,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pesan, putar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "経営は順調だよ。",
+  "exampleReading": "けいえいはじゅんちょうだよ。",
+  "exampleMeaning": "Segalanya berjalan lancar."
  },
  {
   "word": "承認",
@@ -1700,9 +1700,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengakuan, pengakuan, persetujuan, persetujuan, persetujuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは承認した。",
+  "exampleReading": "とむはしょうにんした。",
+  "exampleMeaning": "Tom menyetujuinya."
  },
  {
   "word": "向ける",
@@ -1711,9 +1711,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berbalik ke arah, untuk menunjuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "銃を私に向けるな。",
+  "exampleReading": "じゅうをわたしにむけるな。",
+  "exampleMeaning": "Jangan arahkan senjatamu padaku."
  },
  {
   "word": "豆",
@@ -1722,9 +1722,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buncis, kacang polong",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "豆が大好きです。",
+  "exampleReading": "まめがだいすきです。",
+  "exampleMeaning": "Saya suka kacang."
  },
  {
   "word": "スケート",
@@ -1733,9 +1733,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "skate, skating",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "スケートってできる？",
+  "exampleReading": "すけーとってできる？",
+  "exampleMeaning": "Bisakah kamu berseluncur?"
  },
  {
   "word": "留める",
@@ -1744,9 +1744,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengencangkan, mematikan, menahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女はいつも先生の言う事を一言一句書き留める。",
+  "exampleReading": "かのじょはいつもせんせいのいうことをひとこといちくかきとめる。",
+  "exampleMeaning": "Dia selalu menuliskan setiap kata yang diucapkan gurunya."
  },
  {
   "word": "合格",
@@ -1755,9 +1755,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keberhasilan, kelulusan (misalnya ujian), kelayakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "試験に合格しました。",
+  "exampleReading": "しけんにごうかくしました。",
+  "exampleMeaning": "Kami lulus ujian."
  },
  {
   "word": "以前",
@@ -1766,9 +1766,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lalu, sejak, sebelumnya, sebelumnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は以前とは違う。",
+  "exampleReading": "かれはいぜんとはちがう。",
+  "exampleMeaning": "Dia tidak seperti dulu lagi."
  },
  {
   "word": "筋肉",
@@ -1777,9 +1777,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "otot, otot",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "体中筋肉痛だよ。",
+  "exampleReading": "からだちゅうきんにくつうだよ。",
+  "exampleMeaning": "Semua ototku terasa sakit."
  },
  {
   "word": "下",
@@ -1788,9 +1788,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di bawah, di bawah, di bawah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "土下座しろ！",
+  "exampleReading": "どげざしろ！",
+  "exampleMeaning": "Berlutut!"
  },
  {
   "word": "暮らし",
@@ -1799,9 +1799,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penghidupan, penghidupan, penghidupan, keadaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "暮らしやすそう。",
+  "exampleReading": "くらしやすそう。",
+  "exampleMeaning": "Kedengarannya seperti tempat yang bagus untuk ditinggali."
  },
  {
   "word": "パスポート",
@@ -1810,9 +1810,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "paspor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "パスポートは持った？",
+  "exampleReading": "ぱすぽーとはもった？",
+  "exampleMeaning": "Apakah Anda memiliki paspor Anda?"
  },
  {
   "word": "いらいら",
@@ -1821,9 +1821,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menjadi gugup, iritasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "本当にいらいらします。",
+  "exampleReading": "ほんとうにいらいらします。",
+  "exampleMeaning": "Itu benar-benar membuatku gelisah."
  },
  {
   "word": "方法",
@@ -1832,9 +1832,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "metode,cara,cara,cara,teknik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "連絡方法教えて。",
+  "exampleReading": "れんらくほうほうおしえて。",
+  "exampleMeaning": "Bagaimana saya bisa menghubungi Anda?"
  },
  {
   "word": "生産",
@@ -1843,9 +1843,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "produksi, manufaktur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "７月の工業生産は急増した。",
+  "exampleReading": "しちがつのこうぎょうせいさんはきゅうぞうした。",
+  "exampleMeaning": "Produksi industri meningkat tajam pada bulan Juli."
  },
  {
   "word": "居る",
@@ -1854,9 +1854,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi (bernyawa),menjadi,ada",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "奴ら、中に居るの？",
+  "exampleReading": "やつら、なかにいるの？",
+  "exampleMeaning": "Apakah mereka ada di dalam?"
  },
  {
   "word": "次第",
@@ -1865,9 +1865,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) urutan, prioritas, (2) keadaan, (3) segera",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あなた次第です。",
+  "exampleReading": "あなたしだいです。",
+  "exampleMeaning": "Terserah Anda."
  },
  {
   "word": "チーム",
@@ -1876,9 +1876,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tim",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何人チームですか？",
+  "exampleReading": "なんにんちーむですか？",
+  "exampleMeaning": "Berapa banyak orang di tim Anda?"
  },
  {
   "word": "通す",
@@ -1887,9 +1887,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membiarkan berlalu, untuk mengabaikan, untuk melanjutkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私はいつも朝食前に新聞に目を通す。",
+  "exampleReading": "わたしはいつもちょうしょくまえにしんぶんにめをとおす。",
+  "exampleMeaning": "Saya selalu membaca koran sebelum sarapan."
  },
  {
   "word": "ワイン",
@@ -1898,9 +1898,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ワインはいかが？",
+  "exampleReading": "わいんはいかが？",
+  "exampleMeaning": "Apakah Anda ingin anggur?"
  },
  {
   "word": "家事",
@@ -1909,9 +1909,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekerjaan rumah tangga, pekerjaan rumah tangga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "家事も大切な仕事です。",
+  "exampleReading": "かじもたいせつなしごとです。",
+  "exampleMeaning": "Pekerjaan rumah tangga juga merupakan pekerjaan yang penting."
  },
  {
   "word": "結局",
@@ -1920,9 +1920,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pada akhirnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は結局失敗した。",
+  "exampleReading": "わたしはけっきょくしっぱいした。",
+  "exampleMeaning": "Bagaimanapun juga, aku gagal."
  },
  {
   "word": "身長",
@@ -1931,9 +1931,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tinggi (tubuh), perawakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今、身長何センチ？",
+  "exampleReading": "いま、しんちょうなんせんち？",
+  "exampleMeaning": "Berapa tinggi badanmu sekarang?"
  },
  {
   "word": "流れる",
@@ -1942,9 +1942,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mengalir, mengalir, mengalir (tinta), terhanyut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "流れる水は腐らず。",
+  "exampleReading": "ながれるみずはくさらず。",
+  "exampleMeaning": "Air yang mengalir tidak menggenang."
  },
  {
   "word": "計画",
@@ -1953,9 +1953,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rencana, proyek, jadwal, skema, program",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "計画を立てました。",
+  "exampleReading": "けいかくをたてました。",
+  "exampleMeaning": "Saya membuat rencana."
  },
  {
   "word": "物理",
@@ -1964,9 +1964,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "fisika",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は物理学者だ。",
+  "exampleReading": "かれはぶつりがくしゃだ。",
+  "exampleMeaning": "Dia adalah seorang fisikawan."
  },
  {
   "word": "ヨーロッパ",
@@ -1975,9 +1975,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Eropa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ヨーロッパから来たの？",
+  "exampleReading": "よーろっぱからきたの？",
+  "exampleMeaning": "Apakah Anda dari Eropa?"
  },
  {
   "word": "教授",
@@ -1986,9 +1986,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pengajaran, instruksi, profesor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は私の教授だ。",
+  "exampleReading": "かのじょはわたしのきょうじゅだ。",
+  "exampleMeaning": "Dia profesor saya."
  },
  {
   "word": "書斎",
@@ -1997,9 +1997,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "belajar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は書斎にいる。",
+  "exampleReading": "かれはしょさいにいる。",
+  "exampleMeaning": "Dia ada di perpustakaannya."
  },
  {
   "word": "避ける",
@@ -2008,9 +2008,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) menghindari (kontak fisik), (2) menangkal, menghindari",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ストレスを避けることが必要です。",
+  "exampleReading": "すとれすをさけることがひつようです。",
+  "exampleMeaning": "Penting untuk menghindari stres."
  },
  {
   "word": "飛行",
@@ -2019,9 +2019,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penerbangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "飛行機に遅れた。",
+  "exampleReading": "ひこうきにおくれた。",
+  "exampleMeaning": "Saya ketinggalan pesawat."
  },
  {
   "word": "必死",
@@ -2030,9 +2030,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kematian yang tak terelakkan, keputusasaan, kepanikan, akibat yang tak terelakkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは必死に逃げた。",
+  "exampleReading": "とむはひっしににげた。",
+  "exampleMeaning": "Tom berlari menyelamatkan nyawanya."
  },
  {
   "word": "カード",
@@ -2041,9 +2041,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kartu, dadih",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "俺のカード使った？",
+  "exampleReading": "おれのかーどつかった？",
+  "exampleMeaning": "Apakah Anda membeli sesuatu dengan kartu kredit saya?"
  },
  {
   "word": "満足",
@@ -2052,9 +2052,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kepuasan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "満足しています。",
+  "exampleReading": "まんぞくしています。",
+  "exampleMeaning": "saya puas."
  },
  {
   "word": "誤り",
@@ -2063,9 +2063,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesalahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "弘法も筆の誤り。",
+  "exampleReading": "こうぼうもふでのあやまり。",
+  "exampleMeaning": "Bahkan Homer yang terhormat pun terkadang mengangguk."
  },
  {
   "word": "奥",
@@ -2074,9 +2074,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "interior, bagian dalam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "奥さんはお元気？",
+  "exampleReading": "おくさんはおげんき？",
+  "exampleMeaning": "Bagaimana kabar istrinya?"
  },
  {
   "word": "地下",
@@ -2085,9 +2085,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ruang bawah tanah, bawah tanah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "地下鉄に乗ろう。",
+  "exampleReading": "ちかてつにのろう。",
+  "exampleMeaning": "Ayo naik kereta bawah tanah."
  },
  {
   "word": "文句",
@@ -2096,9 +2096,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "frase, keluhan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "文句が言いたい。",
+  "exampleReading": "もんくがいいたい。",
+  "exampleMeaning": "Saya ingin mengajukan keluhan."
  },
  {
   "word": "食卓",
@@ -2107,9 +2107,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "meja makan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "本は、食卓の上よ。",
+  "exampleReading": "ほんは、しょくたくのうえよ。",
+  "exampleMeaning": "Bukumu ada di atas meja."
  },
  {
   "word": "情報",
@@ -2118,9 +2118,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "informasi, intelijen (militer).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この情報は正しいか。",
+  "exampleReading": "このじょうほうはただしいか。",
+  "exampleMeaning": "Apakah informasi ini benar?"
  },
  {
   "word": "泳ぎ",
@@ -2129,9 +2129,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "renang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "泳ぎに行きたい？",
+  "exampleReading": "およぎにいきたい？",
+  "exampleMeaning": "Apakah Anda ingin pergi berenang?"
  },
  {
   "word": "泉",
@@ -2140,9 +2140,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "musim semi, air mancur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この温泉は穴場だね。",
+  "exampleReading": "このおんせんはあなばだね。",
+  "exampleMeaning": "Pemandian air panas ini adalah penemuan yang bagus."
  },
  {
   "word": "観光",
@@ -2151,9 +2151,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tamasya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私も観光客です。",
+  "exampleReading": "わたしもかんこうきゃくです。",
+  "exampleMeaning": "Saya seorang turis juga."
  },
  {
   "word": "航空",
@@ -2162,9 +2162,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penerbangan, terbang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "航空便で小包を送ったよ。",
+  "exampleReading": "こうくうびんでこづつみをおくったよ。",
+  "exampleMeaning": "Saya mengirim paket melalui pos udara."
  },
  {
   "word": "嘘",
@@ -2173,9 +2173,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebohongan, kepalsuan, fakta yang salah, tidak pantas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "嘘だろ...",
+  "exampleReading": "うそだろ...",
+  "exampleMeaning": "Anda bercanda..."
  },
  {
   "word": "日付",
@@ -2184,9 +2184,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kencan, berkencan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "イベントの日付は未定です。",
+  "exampleReading": "いべんとのひづけはみていです。",
+  "exampleMeaning": "Tanggal acaranya akan ditentukan."
  },
  {
   "word": "物語",
@@ -2195,9 +2195,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dongeng, cerita, legenda",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは古い物語です。",
+  "exampleReading": "それはふるいものがたりです。",
+  "exampleMeaning": "Itu adalah kisah lama."
  },
  {
   "word": "食品",
@@ -2206,9 +2206,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "komoditas, bahan makanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あの食品はいいです。",
+  "exampleReading": "あのしょくひんはいいです。",
+  "exampleMeaning": "Makanannya enak."
  },
  {
   "word": "結果",
@@ -2217,9 +2217,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akibat, konsekuensi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "結果は意外だった？",
+  "exampleReading": "けっかはいがいだった？",
+  "exampleMeaning": "Apakah hasilnya mengejutkan?"
  },
  {
   "word": "騒ぎ",
@@ -2228,9 +2228,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keributan, gangguan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "一体何の騒ぎなの？",
+  "exampleReading": "いったいなにのさわぎなの？",
+  "exampleMeaning": "Apa yang diributkan?"
  },
  {
   "word": "取れる",
@@ -2239,9 +2239,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk lepas, untuk dilepas, untuk disingkirkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムと連絡が取れる？",
+  "exampleReading": "とむとれんらくがとれる？",
+  "exampleMeaning": "Bisakah Anda menghubungi Tom?"
  },
  {
   "word": "語学",
@@ -2250,9 +2250,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "studi bahasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "語学は得意だよ。",
+  "exampleReading": "ごがくはとくいだよ。",
+  "exampleMeaning": "Saya pandai dalam bahasa."
  },
  {
   "word": "申し訳",
@@ -2261,9 +2261,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "maaf, permisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "申し訳ありません。",
+  "exampleReading": "もうしわけありません。",
+  "exampleMeaning": "Mohon maafkan saya."
  },
  {
   "word": "孫",
@@ -2272,9 +2272,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cucu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "孫は8人いるよ。",
+  "exampleReading": "まごは8にんいるよ。",
+  "exampleMeaning": "Kami memiliki delapan cucu."
  },
  {
   "word": "肌",
@@ -2283,9 +2283,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kulit",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "肌がつるつるだね。",
+  "exampleReading": "はだがつるつるだね。",
+  "exampleMeaning": "Kulitnya halus kan?"
  },
  {
   "word": "尤も",
@@ -2305,9 +2305,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "guru (kelas)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "教師なんですか？",
+  "exampleReading": "きょうしなんですか？",
+  "exampleMeaning": "Apakah Anda seorang guru?"
  },
  {
   "word": "裁判",
@@ -2316,9 +2316,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persidangan, penghakiman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "裁判所にいたの？",
+  "exampleReading": "さいばんしょにいたの？",
+  "exampleMeaning": "Apakah kamu ada di gedung pengadilan?"
  },
  {
   "word": "心配",
@@ -2327,9 +2327,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "khawatir, khawatir, cemas, peduli",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "心配ご無用！",
+  "exampleReading": "しんぱいごむよう！",
+  "exampleMeaning": "Jangan khawatir!"
  },
  {
   "word": "小麦",
@@ -2338,9 +2338,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gandum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ここで小麦を作る。",
+  "exampleReading": "ここでこむぎをつくる。",
+  "exampleMeaning": "Kami menanam gandum di sini."
  },
  {
   "word": "混雑",
@@ -2349,9 +2349,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kebingungan, kemacetan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "食堂は混雑していた。",
+  "exampleReading": "しょくどうはこんざつしていた。",
+  "exampleMeaning": "Kantin itu penuh sesak."
  },
  {
   "word": "余り",
@@ -2360,9 +2360,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak terlalu (digunakan sebagai kata keterangan), tidak banyak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "余り楽しくなかったな。",
+  "exampleReading": "あまりたのしくなかったな。",
+  "exampleMeaning": "Saya tidak terlalu menikmatinya."
  },
  {
   "word": "岩",
@@ -2371,9 +2371,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batu, karang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "岩の下に隠れたい。",
+  "exampleReading": "いわのしたにかくれたい。",
+  "exampleMeaning": "Saya ingin bersembunyi di bawah batu."
  },
  {
   "word": "月曜",
@@ -2382,9 +2382,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Senin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日って月曜日？",
+  "exampleReading": "あしたってげつようび？",
+  "exampleMeaning": "Apakah besok Senin?"
  },
  {
   "word": "述べる",
@@ -2393,9 +2393,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menyatakan, mengungkapkan, menyebutkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は率直に意見を述べる人を尊敬します。",
+  "exampleReading": "わたしはそっちょくにいけんをのべるひとをそんけいします。",
+  "exampleMeaning": "Saya mengagumi seseorang yang mengungkapkan pendapat jujur."
  },
  {
   "word": "前進",
@@ -2404,9 +2404,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "maju, berkendara, maju",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼らは川まで前進した。",
+  "exampleReading": "かれらはかわまでぜんしんした。",
+  "exampleMeaning": "Mereka maju ke sungai."
  },
  {
   "word": "資本",
@@ -2415,9 +2415,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dana, modal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "資本、土地、労働は生産の三大要素である。",
+  "exampleReading": "しほん、とち、ろうどうはせいさんのさんだいようそである。",
+  "exampleMeaning": "Modal, tanah dan tenaga kerja adalah tiga faktor utama produksi."
  },
  {
   "word": "演説",
@@ -2426,9 +2426,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pidato, alamat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは演説した。",
+  "exampleReading": "とむはえんぜつした。",
+  "exampleMeaning": "Tom memberikan pidato."
  },
  {
   "word": "見事",
@@ -2437,9 +2437,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "indah, megah, indah, mengagumkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "見事な作品ですね。",
+  "exampleReading": "みごとなさくひんですね。",
+  "exampleMeaning": "Ini adalah komposisi yang luar biasa."
  },
  {
   "word": "論じる",
@@ -2448,9 +2448,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "berdebat, berdiskusi, berdebat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は単に議論のために論じる。",
+  "exampleReading": "かのじょはたんにぎろんのためにろんじる。",
+  "exampleMeaning": "Dia berdebat hanya demi berdebat."
  },
  {
   "word": "再び",
@@ -2459,9 +2459,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lagi, sekali lagi, untuk kedua kalinya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "再び沈黙があった。",
+  "exampleReading": "ふたたびちんもくがあった。",
+  "exampleMeaning": "Terjadi keheningan lagi."
  },
  {
   "word": "万一",
@@ -2470,9 +2470,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "secara kebetulan, dengan kemungkinan tertentu, jika kebetulan, peluang 10E4:1",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "万一病気になったらどうする？",
+  "exampleReading": "まんいちびょうきになったらどうする？",
+  "exampleMeaning": "Apa yang akan Anda lakukan jika Anda jatuh sakit?"
  },
  {
   "word": "常に",
@@ -2481,9 +2481,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selalu, terus-menerus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "火は常に危険だ。",
+  "exampleReading": "ひはつねにきけんだ。",
+  "exampleMeaning": "Kebakaran selalu berbahaya."
  },
  {
   "word": "プロ",
@@ -2492,9 +2492,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "profesional",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はプログラマーだ。",
+  "exampleReading": "かれはぷろぐらまーだ。",
+  "exampleMeaning": "Dia seorang pemrogram."
  },
  {
   "word": "飼う",
@@ -2503,9 +2503,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memelihara, membesarkan, memberi makan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "がちょうを飼う。",
+  "exampleReading": "がちょうをかう。",
+  "exampleMeaning": "Saya memelihara seekor angsa."
  },
  {
   "word": "狂う",
@@ -2514,9 +2514,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi gila, menjadi tidak teratur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ゲームで怒り狂う人と一緒にプレイすると大変です。",
+  "exampleReading": "げーむでいかりくるうひとといっしょにプレイするとたいへんです。",
+  "exampleMeaning": "Sulit bermain dengan gamer yang sering mengamuk."
  },
  {
   "word": "地平線",
@@ -2525,9 +2525,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "horison",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "遠い地平線を見て！",
+  "exampleReading": "とおいちへいせんをみて！",
+  "exampleMeaning": "Lihatlah cakrawala yang jauh!"
  },
  {
   "word": "この",
@@ -2536,9 +2536,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この鍵ある？",
+  "exampleReading": "このかぎある？",
+  "exampleMeaning": "Apakah kamu punya kuncinya?"
  },
  {
   "word": "医師",
@@ -2547,9 +2547,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dokter, tabib",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "家内は医師です。",
+  "exampleReading": "かないはいしです。",
+  "exampleMeaning": "Istri saya adalah seorang dokter."
  },
  {
   "word": "身体",
@@ -2558,9 +2558,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tubuh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "身体を洗いたい。",
+  "exampleReading": "しんたいをあらいたい。",
+  "exampleMeaning": "Saya ingin mencuci diri."
  },
  {
   "word": "出版",
@@ -2569,9 +2569,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "publikasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その小説はいつ出版されるの？",
+  "exampleReading": "そのしょうせつはいつしゅっぱんされるの？",
+  "exampleMeaning": "Kapan novel itu akan diterbitkan?"
  },
  {
   "word": "技師",
@@ -2580,9 +2580,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "insinyur, teknisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは電気技師です。",
+  "exampleReading": "とむはでんきぎしです。",
+  "exampleMeaning": "Tom adalah seorang insinyur listrik."
  },
  {
   "word": "精々",
@@ -2602,9 +2602,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jadi, oleh karena itu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "だから、どうした？",
+  "exampleReading": "だから、どうした？",
+  "exampleMeaning": "Jadi, apa masalahnya?"
  },
  {
   "word": "大抵",
@@ -2613,9 +2613,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biasanya, secara umum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大抵１０時には寝るよ。",
+  "exampleReading": "たいていいちぜろじにはねるよ。",
+  "exampleMeaning": "Saya biasanya tidur jam sepuluh."
  },
  {
   "word": "区別",
@@ -2624,9 +2624,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pembedaan, diferensiasi, klasifikasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それとこれを区別できない。",
+  "exampleReading": "それとこれをくべつできない。",
+  "exampleMeaning": "Saya tidak bisa membedakannya."
  },
  {
   "word": "博物館",
@@ -2635,9 +2635,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "museum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "博物館にいるんだ。",
+  "exampleReading": "はくぶつかんにいるんだ。",
+  "exampleMeaning": "Kami berada di museum."
  },
  {
   "word": "目的",
@@ -2646,9 +2646,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "maksud, sasaran, sasaran, sasaran, niat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "目的地はどこなの？",
+  "exampleReading": "もくてきちはどこなの？",
+  "exampleMeaning": "Apa tujuanmu?"
  },
  {
   "word": "予算",
@@ -2657,9 +2657,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perkiraan, anggaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "予算から2千円足が出た。",
+  "exampleReading": "よさんから2せんえんあしがでた。",
+  "exampleMeaning": "Kami melebihi anggaran sebesar dua ribu yen."
  },
  {
   "word": "我慢",
@@ -2668,9 +2668,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kesabaran, daya tahan, ketekunan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "我慢できません。",
+  "exampleReading": "がまんできません。",
+  "exampleMeaning": "Saya tidak tahan dengan mereka."
  },
  {
   "word": "底",
@@ -2679,9 +2679,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bawah, sol",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "心底、言いたい。",
+  "exampleReading": "しんそこ、いいたい。",
+  "exampleMeaning": "Saya ingin mengatakan sesuatu dari lubuk hati saya yang paling dalam."
  },
  {
   "word": "あと",
@@ -2690,9 +2690,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) jejak,jejak,(2) sisa-sisa,reruntuhan,(3) bekas luka",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あと一日だ。",
+  "exampleReading": "あといちにちだ。",
+  "exampleMeaning": "Tinggal satu hari lagi."
  },
  {
   "word": "気候",
@@ -2701,9 +2701,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "iklim",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "気候が変わります。",
+  "exampleReading": "きこうがかわります。",
+  "exampleMeaning": "Iklim sedang berubah."
  },
  {
   "word": "恐ろしい",
@@ -2712,9 +2712,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "mengerikan, mengerikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ああ、何て恐ろしい。",
+  "exampleReading": "ああ、なにておそろしい。",
+  "exampleMeaning": "Oh, betapa buruknya!"
  },
  {
   "word": "風呂",
@@ -2723,9 +2723,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mandi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お風呂沸いてる？",
+  "exampleReading": "おふろわいてる？",
+  "exampleMeaning": "Apakah kamar mandinya sudah siap?"
  },
  {
   "word": "今日",
@@ -2734,9 +2734,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hari ini, hari ini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は仕事？",
+  "exampleReading": "きょうはしごと？",
+  "exampleMeaning": "Apakah kamu bekerja hari ini?"
  },
  {
   "word": "制度",
@@ -2745,9 +2745,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sistem, institusi, organisasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "教育制度は過渡期にある。",
+  "exampleReading": "きょういくせいどはかときにある。",
+  "exampleMeaning": "Sistem pendidikan sedang dalam masa transisi."
  },
  {
   "word": "牛",
@@ -2756,9 +2756,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sapi, sapi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これって、牛乳？",
+  "exampleReading": "これって、ぎゅうにゅう？",
+  "exampleMeaning": "Apakah ini susu?"
  },
  {
   "word": "栄養",
@@ -2767,9 +2767,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nutrisi, nutrisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "安いけど栄養豊富です。",
+  "exampleReading": "やすいけどえいようほうふです。",
+  "exampleMeaning": "Itu murah tapi sangat bergizi."
  },
  {
   "word": "尻",
@@ -2778,9 +2778,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bokong, bawah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "牛の尻尾は長い。",
+  "exampleReading": "うしのしっぽはながい。",
+  "exampleMeaning": "Seekor sapi memiliki ekor yang panjang."
  },
  {
   "word": "跡",
@@ -2789,9 +2789,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) jejak, jejak, tandai, tanda, (2) sisa-sisa, reruntuhan, (3) bekas luka",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "足跡があったの。",
+  "exampleReading": "あしあとがあったの。",
+  "exampleMeaning": "Saya menemukan beberapa jejak kaki."
  },
  {
   "word": "入場",
@@ -2800,9 +2800,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "masuk, masuk, masuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "入場料は無料です。",
+  "exampleReading": "にゅうじょうりょうはむりょうです。",
+  "exampleMeaning": "Tiket masuknya gratis."
  },
  {
   "word": "唯一",
@@ -2811,9 +2811,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hanya, satu-satunya, unik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼が唯一の容疑者だ。",
+  "exampleReading": "かれがゆいいつのようぎしゃだ。",
+  "exampleMeaning": "Dia satu-satunya tersangka kami."
  },
  {
   "word": "幸せ",
@@ -2822,9 +2822,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebahagiaan, nasib baik, keberuntungan, berkah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "幸せだった？",
+  "exampleReading": "しあわせだった？",
+  "exampleMeaning": "Apakah kamu bahagia?"
  },
  {
   "word": "書類",
@@ -2833,9 +2833,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dokumen, surat resmi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は書類に署名した。",
+  "exampleReading": "わたしはしょるいにしょめいした。",
+  "exampleMeaning": "Saya melampirkan tanda tangan saya pada dokumen itu."
  },
  {
   "word": "だって",
@@ -2844,9 +2844,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tapi, karena, bahkan, juga, juga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "医者は何だって？",
+  "exampleReading": "いしゃはなにだって？",
+  "exampleMeaning": "Apa kata dokter?"
  },
  {
   "word": "喧嘩",
@@ -2855,9 +2855,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertengkaran, tawuran (mabuk), kegagalan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "喧嘩があったの？",
+  "exampleReading": "けんかがあったの？",
+  "exampleMeaning": "Apakah terjadi perkelahian?"
  },
  {
   "word": "成る",
@@ -2866,9 +2866,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは7語から成る文です。",
+  "exampleReading": "これは7ごからなるぶんです。",
+  "exampleMeaning": "Kalimat ini memiliki tujuh kata di dalamnya."
  },
  {
   "word": "骨折",
@@ -2877,9 +2877,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "patah tulang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "骨折はしてない。",
+  "exampleReading": "こっせつはしてない。",
+  "exampleMeaning": "Tidak ada tulang yang patah."
  },
  {
   "word": "オーバー",
@@ -2888,9 +2888,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) mantel, (2) selesai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女、オーバーだよね？",
+  "exampleReading": "かのじょ、おーばーだよね？",
+  "exampleMeaning": "Dia bereaksi berlebihan, bukan?"
  },
  {
   "word": "教科書",
@@ -2899,9 +2899,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buku teks",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "教科書は、高い。",
+  "exampleReading": "きょうかしょは、たかい。",
+  "exampleMeaning": "Buku teks itu mahal."
  },
  {
   "word": "説",
@@ -2910,9 +2910,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teori",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "全部説明したの？",
+  "exampleReading": "ぜんぶせつめいしたの？",
+  "exampleMeaning": "Sudahkah kamu menjelaskan semuanya padanya?"
  },
  {
   "word": "相当",
@@ -2921,9 +2921,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cocok, adil, dapat ditoleransi, tepat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "相当痛みますか？",
+  "exampleReading": "そうとういたみますか？",
+  "exampleMeaning": "Apakah itu akan sangat menyakitkan?"
  },
  {
   "word": "全員",
@@ -2932,9 +2932,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semua anggota (kebulatan suara), semua tangan, seluruh kru",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "全員ここにいる？",
+  "exampleReading": "ぜんいんここにいる？",
+  "exampleMeaning": "Apakah semuanya ada di sini?"
  },
  {
   "word": "比較",
@@ -2943,9 +2943,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perbandingan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は比較的早口だ。",
+  "exampleReading": "かのじょはひかくてきはやくちだ。",
+  "exampleMeaning": "Dia berbicara relatif cepat."
  },
  {
   "word": "契約",
@@ -2954,9 +2954,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontrak, kompak, perjanjian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "契約はお済みですか？",
+  "exampleReading": "けいやくはおすみですか？",
+  "exampleMeaning": "Apakah Anda menandatangani kontrak?"
  },
  {
   "word": "より",
@@ -2965,9 +2965,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "memutar, melapisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私より5つ上よ。",
+  "exampleReading": "わたしより5つうえよ。",
+  "exampleMeaning": "Dia lima tahun lebih tua dariku."
  },
  {
   "word": "気付く",
@@ -2976,9 +2976,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memperhatikan, mengenali, menyadari",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "販売価格が赤で書いてあることに気付く。",
+  "exampleReading": "はんばいかかくがあかでかいてあることにきづく。",
+  "exampleMeaning": "Saya perhatikan harga jualnya ditulis dengan warna merah."
  },
  {
   "word": "鍵",
@@ -2987,9 +2987,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kunci",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "また、鍵忘れた！",
+  "exampleReading": "また、かぎわすれた！",
+  "exampleMeaning": "Aku lupa kunciku lagi!"
  },
  {
   "word": "しかも",
@@ -2998,9 +2998,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terlebih lagi, lebih jauh lagi, namun demikian, namun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "しかも初陣があのドラゴン退治！",
+  "exampleReading": "しかもういじんがあのどらごんたいじ！",
+  "exampleMeaning": "Terlebih lagi, pertarungan pertama kita adalah mengalahkan naga itu!"
  },
  {
   "word": "解く",
@@ -3009,9 +3009,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melepaskan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これが謎の全てを解く鍵だ。",
+  "exampleReading": "これがなぞのすべてをとくかぎだ。",
+  "exampleMeaning": "Inilah kunci dari keseluruhan misteri."
  },
  {
   "word": "境",
@@ -3020,9 +3020,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perbatasan, batas, keadaan mental",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "音楽に国境なし。",
+  "exampleReading": "おんがくにこっきょうなし。",
+  "exampleMeaning": "Musik bersifat universal."
  },
  {
   "word": "場面",
@@ -3031,9 +3031,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "adegan, latar (misalnya novel)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "特にこの場面が好きですねえ。",
+  "exampleReading": "とくにこのばめんがすきですねえ。",
+  "exampleMeaning": "Saya menyukai adegan ini khususnya."
  },
  {
   "word": "環境",
@@ -3042,9 +3042,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lingkungan, keadaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は環境に順応した。",
+  "exampleReading": "かれはかんきょうにじゅんのうした。",
+  "exampleMeaning": "Dia menyesuaikan diri dengan keadaan."
  },
  {
   "word": "気温",
@@ -3053,9 +3053,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suhu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "気温が急に下がった。",
+  "exampleReading": "きおんがきゅうにさがった。",
+  "exampleMeaning": "Suhu tiba-tiba turun."
  },
  {
   "word": "実は",
@@ -3064,9 +3064,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebenarnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "実は、姉なんです。",
+  "exampleReading": "じつは、あねなんです。",
+  "exampleMeaning": "Sebenarnya, dia adalah kakak perempuanku."
  },
  {
   "word": "物質",
@@ -3075,9 +3075,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "materi, substansi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "抗生物質を処方しましょう。",
+  "exampleReading": "こうせいぶっしつをしょほうしましょう。",
+  "exampleMeaning": "Saya akan meresepkan beberapa antibiotik."
  },
  {
   "word": "家賃",
@@ -3086,9 +3086,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menyewa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "家賃は前払いです。",
+  "exampleReading": "やちんはまえばらいです。",
+  "exampleMeaning": "Bayar sewa Anda di muka."
  },
  {
   "word": "おや",
@@ -3097,9 +3097,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang tua",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "パパ、おやすみ。",
+  "exampleReading": "ぱぱ、おやすみ。",
+  "exampleMeaning": "Selamat malam, Ayah."
  },
  {
   "word": "回り",
@@ -3108,9 +3108,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keliling, lingkungan sekitar, sirkulasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "車輪が回りだした。",
+  "exampleReading": "しゃりんがまわりだした。",
+  "exampleMeaning": "Roda mulai berputar."
  },
  {
   "word": "全て",
@@ -3119,9 +3119,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semua, keseluruhan, seluruhnya, secara umum, seluruhnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼の全てが好き。",
+  "exampleReading": "かれのすべてがすき。",
+  "exampleMeaning": "Saya menyukai segalanya tentang dia."
  },
  {
   "word": "不平",
@@ -3130,9 +3130,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keluhan, ketidakpuasan, ketidakpuasan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "不平はまったくない。",
+  "exampleReading": "ふへいはまったくない。",
+  "exampleMeaning": "Kami tidak perlu mengeluh."
  },
  {
   "word": "硬貨",
@@ -3141,9 +3141,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "koin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は硬貨で払った。",
+  "exampleReading": "わたしはこうかではらった。",
+  "exampleMeaning": "Saya membayar dengan koin."
  },
  {
   "word": "援助",
@@ -3152,9 +3152,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bantuan, bantuan, dukungan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼らは援助を申し出た。",
+  "exampleReading": "かれらはえんじょをもうしでた。",
+  "exampleMeaning": "Mereka menawarkan bantuan."
  },
  {
   "word": "工場",
@@ -3163,9 +3163,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pabrik, pabrik, pabrik, bengkel",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "工場で働きたいんだ。",
+  "exampleReading": "こうじょうではたらきたいんだ。",
+  "exampleMeaning": "Saya ingin bekerja di pabrik."
  },
  {
   "word": "偶々",
@@ -3185,9 +3185,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keabadian, keabadian, keabadian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は永久にアフリカを去った。",
+  "exampleReading": "かれはえいきゅうにあふりかをさった。",
+  "exampleMeaning": "Dia meninggalkan Afrika selamanya."
  },
  {
   "word": "需要",
@@ -3196,9 +3196,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "permintaan, permintaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "輸入車の需要は強い。",
+  "exampleReading": "ゆにゅうしゃのじゅようはつよい。",
+  "exampleMeaning": "Mobil impor banyak diminati."
  },
  {
   "word": "デート",
@@ -3207,9 +3207,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kencan, pergi berkencan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "デートしませんか？",
+  "exampleReading": "でーとしませんか？",
+  "exampleMeaning": "Maukah kamu berkencan denganku?"
  },
  {
   "word": "あらゆる",
@@ -3218,9 +3218,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semua, setiap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あらゆる機会を利用せよ。",
+  "exampleReading": "あらゆるきかいをりようせよ。",
+  "exampleMeaning": "Anda harus memanfaatkan setiap peluang."
  },
  {
   "word": "立派",
@@ -3229,9 +3229,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "indah, bagus, tampan, anggun, mengesankan, menonjol, sah, sah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は立派な青年だ。",
+  "exampleReading": "かれはりっぱなせいねんだ。",
+  "exampleMeaning": "Dia pemuda yang baik."
  },
  {
   "word": "発明",
@@ -3240,9 +3240,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penemuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "必要は発明の母。",
+  "exampleReading": "ひつようははつめいのはは。",
+  "exampleMeaning": "Kebutuhan adalah ibu dari penemuan."
  },
  {
   "word": "火災",
@@ -3251,9 +3251,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebakaran besar, kebakaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "火災警報が鳴った。",
+  "exampleReading": "かさいけいほうがなった。",
+  "exampleMeaning": "Alarm kebakaran berbunyi."
  },
  {
   "word": "酸素",
@@ -3262,9 +3262,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "oksigen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "月には酸素がない。",
+  "exampleReading": "つきにはさんそがない。",
+  "exampleMeaning": "Tidak ada oksigen di bulan."
  },
  {
   "word": "質",
@@ -3273,9 +3273,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kualitas, sifat (orang)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "他に質問はある？",
+  "exampleReading": "たにしつもんはある？",
+  "exampleMeaning": "Apakah Anda memiliki pertanyaan lebih lanjut?"
  },
  {
   "word": "どれ",
@@ -3284,9 +3284,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nah, sekarang, coba saya lihat, yang mana (dari tiga atau lebih)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どれがいい？",
+  "exampleReading": "どれがいい？",
+  "exampleMeaning": "Yang mana yang kamu inginkan?"
  },
  {
   "word": "諺",
@@ -3295,9 +3295,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pepatah, pepatah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "好きな諺は何ですか？",
+  "exampleReading": "すきなことわざはなにですか？",
+  "exampleMeaning": "Apa pepatah favoritmu?"
  },
  {
   "word": "責める",
@@ -3306,9 +3306,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengutuk, menyalahkan, mengkritik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "心の鬼が身を責める。",
+  "exampleReading": "こころのおにがみをせめる。",
+  "exampleMeaning": "Menderita kepedihan hati nurani."
  },
  {
   "word": "開始",
@@ -3317,9 +3317,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mulai, dimulainya, dimulai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "試験は何時開始ですか？",
+  "exampleReading": "しけんはなんじかいしですか？",
+  "exampleMeaning": "Jam berapa ujian dimulai?"
  },
  {
   "word": "幸い",
@@ -3328,9 +3328,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebahagiaan, berkah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "幸い天気は良かった。",
+  "exampleReading": "さいわいてんきはよかった。",
+  "exampleMeaning": "Untungnya, cuacanya bagus."
  },
  {
   "word": "老い",
@@ -3339,9 +3339,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "usia tua, orang tua, orang tua, orang lanjut usia",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はとても年老いていた。",
+  "exampleReading": "かれはとてもとしおいていた。",
+  "exampleMeaning": "Dia sudah sangat tua."
  },
  {
   "word": "招く",
@@ -3350,9 +3350,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengundang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誤解を招くような言い方するなよ。",
+  "exampleReading": "ごかいをまねくようないいかたするなよ。",
+  "exampleMeaning": "Jangan mengatakannya dengan cara yang menyebabkan kesalahpahaman."
  },
  {
   "word": "王",
@@ -3361,9 +3361,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "raja, penguasa, berdaulat, raja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "天王星は巨大だ。",
+  "exampleReading": "てんおうせいはきょだいだ。",
+  "exampleMeaning": "Uranus sangat besar."
  },
  {
   "word": "済ませる",
@@ -3372,9 +3372,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk diselesaikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は食事を済ませるとすぐに仕事に向かいました。",
+  "exampleReading": "かれはしょくじをすませるとすぐにしごとにむかいました。",
+  "exampleMeaning": "Dia berangkat kerja segera setelah selesai makan."
  },
  {
   "word": "田",
@@ -3383,9 +3383,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sawah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この田舎者めが。",
+  "exampleReading": "このいなかものめが。",
+  "exampleMeaning": "Kamu badut kamu."
  },
  {
   "word": "砂漠",
@@ -3394,9 +3394,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gurun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "砂漠に水をまくようなものだ。",
+  "exampleReading": "さばくにみずをまくようなものだ。",
+  "exampleMeaning": "Ini seperti memercikkan air ke gurun."
  },
  {
   "word": "支払",
@@ -3405,9 +3405,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pembayaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現金で支払います。",
+  "exampleReading": "げんきんでしはらいます。",
+  "exampleMeaning": "Saya akan membayar tunai."
  },
  {
   "word": "大した",
@@ -3416,9 +3416,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cukup besar, hebat, penting, signifikan, masalah besar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大したことないよ。",
+  "exampleReading": "たいしたことないよ。",
+  "exampleMeaning": "Itu hanya luka kecil."
  },
  {
   "word": "繰り返す",
@@ -3427,9 +3427,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengulangi, untuk melakukan sesuatu lagi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "歴史は繰り返す。",
+  "exampleReading": "れきしはくりかえす。",
+  "exampleMeaning": "Sejarah terulang kembali."
  },
  {
   "word": "どうしても",
@@ -3438,9 +3438,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan segala cara, dengan cara apa pun, apa pun yang terjadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どうしても欲しいんだ。",
+  "exampleReading": "どうしてもほしいんだ。",
+  "exampleMeaning": "Saya sangat menginginkan itu."
  },
  {
   "word": "エネルギー",
@@ -3449,9 +3449,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(n) energi (de: Energie)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "僕はエネルギーを使い果たした。",
+  "exampleReading": "ぼくはえねるぎーをつかいはたした。",
+  "exampleMeaning": "Aku sudah kehabisan tenaga."
  },
  {
   "word": "頭痛",
@@ -3460,9 +3460,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sakit kepala",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "頭痛いの治った？",
+  "exampleReading": "あたまいたいのなおった？",
+  "exampleMeaning": "Apakah sakit kepalamu sudah hilang?"
  },
  {
   "word": "どうか",
@@ -3471,9 +3471,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "koin tembaga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "野球はどうかな？",
+  "exampleReading": "やきゅうはどうかな？",
+  "exampleMeaning": "Bagaimana kalau bermain bisbol?"
  },
  {
   "word": "彼等",
@@ -3482,9 +3482,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mereka (biasanya laki-laki)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼等は授業中だ。",
+  "exampleReading": "かれらはじゅぎょうちゅうだ。",
+  "exampleMeaning": "Mereka ada di kelas."
  },
  {
   "word": "暮らす",
@@ -3493,9 +3493,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk hidup, untuk bergaul",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "魚は水の中で暮らす。",
+  "exampleReading": "さかなはみずのなかでくらす。",
+  "exampleMeaning": "Ikan hidup di air."
  },
  {
   "word": "真っ赤",
@@ -3504,9 +3504,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "merah tua, memerah (wajah)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は真っ赤になった。",
+  "exampleReading": "かれはまっかになった。",
+  "exampleMeaning": "Dia menjadi merah padam."
  },
  {
   "word": "体温",
@@ -3515,9 +3515,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suhu (tubuh)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "体温は正常です。",
+  "exampleReading": "たいおんはせいじょうです。",
+  "exampleMeaning": "Suhu tubuhmu normal."
  },
  {
   "word": "悪口",
@@ -3526,9 +3526,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pelecehan, penghinaan, fitnah, perkataan jahat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人の悪口を言うな。",
+  "exampleReading": "ひとのわるぐちをいうな。",
+  "exampleMeaning": "Jangan berbicara buruk tentang orang lain."
  },
  {
   "word": "通学",
@@ -3537,9 +3537,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "berangkat ke sekolah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は徒歩通学だ。",
+  "exampleReading": "かれはとほつうがくだ。",
+  "exampleMeaning": "Dia pergi ke sekolah dengan berjalan kaki."
  },
  {
   "word": "息",
@@ -3548,9 +3548,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "napas, nada",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あと一息だ。",
+  "exampleReading": "あとひといきだ。",
+  "exampleMeaning": "Kita hampir sampai."
  },
  {
   "word": "アイロン",
@@ -3559,9 +3559,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besi (listrik).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "アイロンがけ、大っ嫌い。",
+  "exampleReading": "あいろんがけ、だいっきらい。",
+  "exampleMeaning": "Saya benci menyetrika."
  },
  {
   "word": "降ろす",
@@ -3570,9 +3570,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencatat, meluncurkan, menjatuhkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "駅のところで降ろすよ。",
+  "exampleReading": "えきのところでおろすよ。",
+  "exampleMeaning": "Aku akan mengantarmu ke stasiun."
  },
  {
   "word": "抵抗",
@@ -3581,9 +3581,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "hambatan listrik, hambatan, perlawanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誰も抵抗できない。",
+  "exampleReading": "だれもていこうできない。",
+  "exampleMeaning": "Tidak ada yang bisa menolak."
  },
  {
   "word": "ハンサム",
@@ -3592,9 +3592,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tampan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はハンサムだ。",
+  "exampleReading": "かれははんさむだ。",
+  "exampleMeaning": "Dia tampan."
  },
  {
   "word": "台",
@@ -3603,9 +3603,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dudukan, rak, meja, penyangga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "台湾は国家です。",
+  "exampleReading": "たいわんはこっかです。",
+  "exampleMeaning": "Taiwan adalah sebuah negara."
  },
  {
   "word": "ゲーム",
@@ -3614,9 +3614,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "permainan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ゲームで負けた。",
+  "exampleReading": "げーむでまけた。",
+  "exampleMeaning": "Saya kalah dalam permainan."
  },
  {
   "word": "同一",
@@ -3625,9 +3625,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "identitas, kesamaan, kesamaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "意見と事実を同一視してはいけない。",
+  "exampleReading": "いけんとじじつをどういつししてはいけない。",
+  "exampleMeaning": "Jangan pernah mengacaukan opini dengan fakta."
  },
  {
   "word": "唯",
@@ -3636,9 +3636,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gratis, belaka, satu-satunya, saja, biasa, umum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼が唯一の容疑者だ。",
+  "exampleReading": "かれがゆいいつのようぎしゃだ。",
+  "exampleMeaning": "Dia satu-satunya tersangka kami."
  },
  {
   "word": "陸",
@@ -3647,9 +3647,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "enam (digunakan dalam dokumen hukum)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は陸軍士官だ。",
+  "exampleReading": "かれはりくぐんしかんだ。",
+  "exampleMeaning": "Dia adalah seorang perwira militer."
  },
  {
   "word": "青年",
@@ -3658,9 +3658,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemuda, anak muda",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "青年は失恋した。",
+  "exampleReading": "せいねんはしつれんした。",
+  "exampleMeaning": "Pemuda itu kecewa dengan cinta."
  },
  {
   "word": "流す",
@@ -3669,9 +3669,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mengalir, mengapung, menumpahkan (darah, air mata), berlayar (misalnya taksi)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "速報で流す必要あったか？",
+  "exampleReading": "そくほうでながすひつようあったか？",
+  "exampleMeaning": "Apakah ada kebutuhan untuk menyiarkan buletin berita itu?"
  },
  {
   "word": "誤解",
@@ -3680,9 +3680,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "salah paham",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは誤解した。",
+  "exampleReading": "とむはごかいした。",
+  "exampleMeaning": "Tom salah paham."
  },
  {
   "word": "換える",
@@ -3691,9 +3691,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menukar, menukar, mengganti, mengganti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "東京駅で乗り換えるんだよ。",
+  "exampleReading": "とうきょうえきでのりかえるんだよ。",
+  "exampleMeaning": "Ganti kereta di Stasiun Tokyo."
  },
  {
   "word": "代理",
@@ -3702,9 +3702,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perwakilan, lembaga, kuasa, wakil, agen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は父親の代理をした。",
+  "exampleReading": "かれはちちおやのだいりをした。",
+  "exampleMeaning": "Dia menggantikan ayahnya."
  },
  {
   "word": "川",
@@ -3713,9 +3713,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sungai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は川に落ちた。",
+  "exampleReading": "かれはかわにおちた。",
+  "exampleMeaning": "Dia jatuh ke sungai."
  },
  {
   "word": "出会い",
@@ -3724,9 +3724,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertemuan, pertemuan, pertemuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼らの出会いは必然だった。",
+  "exampleReading": "かれらのであいはひつぜんだった。",
+  "exampleMeaning": "Pertemuan mereka pun tidak terhindarkan."
  },
  {
   "word": "意外",
@@ -3735,9 +3735,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tak terduga, mengejutkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは意外だな。",
+  "exampleReading": "それはいがいだな。",
+  "exampleMeaning": "Itu mengejutkan."
  },
  {
   "word": "玉",
@@ -3746,9 +3746,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bola, bola, koin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "玉ねぎを切った。",
+  "exampleReading": "たまねぎをきった。",
+  "exampleMeaning": "Saya memotong beberapa bawang."
  },
  {
   "word": "愛",
@@ -3757,9 +3757,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Cinta",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "愛してます。",
+  "exampleReading": "あいしてます。",
+  "exampleMeaning": "Aku mencintaimu."
  },
  {
   "word": "状況",
@@ -3768,9 +3768,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keadaan, situasi, keadaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "状況は絶望的だ。",
+  "exampleReading": "じょうきょうはぜつぼうてきだ。",
+  "exampleMeaning": "Situasinya tidak ada harapan."
  },
  {
   "word": "風景",
@@ -3779,9 +3779,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemandangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はよく風景を描く。",
+  "exampleReading": "かれはよくふうけいをえがく。",
+  "exampleMeaning": "Dia sering melukis pemandangan."
  },
  {
   "word": "姉妹",
@@ -3790,9 +3790,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saudara perempuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "姉妹はいますか？",
+  "exampleReading": "しまいはいますか？",
+  "exampleMeaning": "Apakah kamu punya saudara perempuan?"
  },
  {
   "word": "年中",
@@ -3801,9 +3801,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sepanjang tahun, selalu, setiap hari",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "一年中雨が多い。",
+  "exampleReading": "いちねんじゅうあめがおおい。",
+  "exampleMeaning": "Mereka mengalami banyak hujan sepanjang tahun."
  },
  {
   "word": "学習",
@@ -3812,9 +3812,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "belajar, belajar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これが彼の英語学習法です。",
+  "exampleReading": "これがかれのえいごがくしゅうほうです。",
+  "exampleMeaning": "Ini adalah cara dia belajar bahasa Inggris."
  },
  {
   "word": "不満",
@@ -3823,9 +3823,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketidakpuasan, ketidaksenangan, ketidakpuasan, keluhan, ketidakbahagiaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は不満な様子だ。",
+  "exampleReading": "かのじょはふまんなようすだ。",
+  "exampleMeaning": "Dia terlihat tidak bahagia."
  },
  {
   "word": "暖かい",
@@ -3834,9 +3834,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "hangat, ringan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は暖かいな。",
+  "exampleReading": "きょうはあたたかいな。",
+  "exampleMeaning": "Hari ini hangat."
  },
  {
   "word": "勧める",
@@ -3845,9 +3845,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "merekomendasikan, menasihati, mendorong, menawarkan (anggur)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誰かに自殺を勧めることは犯罪ですか？",
+  "exampleReading": "だれかにじさつをすすめることははんざいですか？",
+  "exampleMeaning": "Apakah mendorong seseorang untuk bunuh diri merupakan suatu kejahatan?"
  },
  {
   "word": "閉じる",
@@ -3856,9 +3856,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menutup (misalnya buku, mata), untuk menutup",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その舞台は主人公の死で幕を閉じる。",
+  "exampleReading": "そのぶたいはしゅじんこうのしでまくをとじる。",
+  "exampleMeaning": "Drama ini diakhiri dengan kematian sang pahlawan."
  },
  {
   "word": "刑事",
@@ -3867,9 +3867,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kasus kriminal, detektif (polisi).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "刑事につけられてる。",
+  "exampleReading": "けいじにつけられてる。",
+  "exampleMeaning": "Polisi mengikuti kami."
  },
  {
   "word": "動かす",
@@ -3878,9 +3878,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bergerak, untuk bergeser",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "動かすの手伝ってよ。",
+  "exampleReading": "うごかすのてつだってよ。",
+  "exampleMeaning": "Bantu aku memindahkannya."
  },
  {
   "word": "哀れ",
@@ -3889,9 +3889,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tak berdaya, kasihan, duka, duka",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "哀れみと愛情は紙一重。",
+  "exampleReading": "あわれみとあいじょうはかみひとえ。",
+  "exampleMeaning": "Kasihan itu mirip dengan cinta."
  },
  {
   "word": "時",
@@ -3900,9 +3900,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) waktu, jam, (2) kejadian, momen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "3時はどう？",
+  "exampleReading": "3じはどう？",
+  "exampleMeaning": "Bagaimana kalau jam tiga?"
  },
  {
   "word": "夜中",
@@ -3911,9 +3911,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tengah malam, tengah malam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "夜中過ぎだったよ。",
+  "exampleReading": "やちゅうすぎだったよ。",
+  "exampleMeaning": "Saat itu sudah lewat tengah malam."
  },
  {
   "word": "当時",
@@ -3922,9 +3922,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pada saat itu, pada hari-hari itu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "当時私は学生だった。",
+  "exampleReading": "とうじわたしはがくせいだった。",
+  "exampleMeaning": "Saya adalah seorang pelajar pada waktu itu."
  },
  {
   "word": "面倒",
@@ -3933,9 +3933,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masalah, kesulitan, perhatian, perhatian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムの面倒をみる。",
+  "exampleReading": "とむのめんどうをみる。",
+  "exampleMeaning": "Saya merawat Tom."
  },
  {
   "word": "抜く",
@@ -3944,9 +3944,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengekstrak, menghilangkan, melampaui, menarik keluar, mencabut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムはよく食事を抜く。",
+  "exampleReading": "とむはよくしょくじをぬく。",
+  "exampleMeaning": "Tom sering melewatkan makan."
  },
  {
   "word": "基",
@@ -3955,9 +3955,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dasar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "まずは基本から。",
+  "exampleReading": "まずはきほんから。",
+  "exampleMeaning": "Mulailah dengan dasar-dasarnya."
  },
  {
   "word": "出会う",
@@ -3966,9 +3966,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "bertemu secara kebetulan, bertemu, kebetulan bertemu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私はほとんど毎日その犬に出会う。",
+  "exampleReading": "わたしはほとんどまいにちそのいぬにであう。",
+  "exampleMeaning": "Saya melihat anjing itu hampir setiap hari."
  },
  {
   "word": "明らか",
@@ -3977,9 +3977,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jelas, jelas, jelas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "証拠は明らかだ。",
+  "exampleReading": "しょうこはあきらかだ。",
+  "exampleMeaning": "Buktinya jelas."
  },
  {
   "word": "思い出",
@@ -3988,9 +3988,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kenangan, kenangan, kenangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "思い出せません。",
+  "exampleReading": "おもいだせません。",
+  "exampleMeaning": "Saya tidak ingat."
  },
  {
   "word": "来",
@@ -4010,9 +4010,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masa depan (hidup, tegang)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "未来から来ました。",
+  "exampleReading": "みらいからきました。",
+  "exampleMeaning": "Saya datang dari masa depan."
  },
  {
   "word": "邪魔",
@@ -4021,9 +4021,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hambatan, intrusi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "邪魔しないでよ。",
+  "exampleReading": "じゃましないでよ。",
+  "exampleMeaning": "Jangan ganggu aku."
  },
  {
   "word": "魚",
@@ -4032,9 +4032,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "魚も動物ですか？",
+  "exampleReading": "さかなもどうぶつですか？",
+  "exampleMeaning": "Apakah ikan juga binatang?"
  },
  {
   "word": "ケース",
@@ -4043,9 +4043,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kasus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そのスーツケース重い？",
+  "exampleReading": "そのすーつけーすおもい？",
+  "exampleMeaning": "Apakah koper Anda berat?"
  },
  {
   "word": "数える",
@@ -4054,9 +4054,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menghitung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "10数えるまで待ってて。",
+  "exampleReading": "10かぞえるまでまってて。",
+  "exampleMeaning": "Tunggu sampai saya menghitung sampai sepuluh."
  },
  {
   "word": "急激",
@@ -4065,9 +4065,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tiba-tiba, terjal, radikal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この街は急激な変化を遂げた。",
+  "exampleReading": "このまちはきゅうげきなへんかをとげた。",
+  "exampleMeaning": "Kota ini telah mengalami perubahan yang cepat."
  },
  {
   "word": "デモ",
@@ -4076,9 +4076,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(abbr) demo, demonstrasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "デモクラシーとは？",
+  "exampleReading": "でもくらしーとは？",
+  "exampleMeaning": "Apa itu demokrasi?"
  },
  {
   "word": "握る",
@@ -4087,9 +4087,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menggenggam, untuk merebut, untuk membentuk sushi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは、手に汗握る試合だった。",
+  "exampleReading": "それは、てにあせにぎるしあいだった。",
+  "exampleMeaning": "Itu adalah pertandingan yang mengasyikkan."
  },
  {
   "word": "出来事",
@@ -4098,9 +4098,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kejadian, perselingkuhan, terjadi, peristiwa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "10年前の出来事です。",
+  "exampleReading": "10ねんまえのできごとです。",
+  "exampleMeaning": "Itu terjadi sepuluh tahun yang lalu."
  },
  {
   "word": "結論",
@@ -4109,9 +4109,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kesimpulan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "会長は結論を下した。",
+  "exampleReading": "かいちょうはけつろんをくだした。",
+  "exampleMeaning": "Presiden perusahaan telah sampai pada suatu kesimpulan."
  },
  {
   "word": "ママ",
@@ -4120,9 +4120,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Mama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ママに電話した？",
+  "exampleReading": "ままにでんわした？",
+  "exampleMeaning": "Apakah kamu menelepon ibu?"
  },
  {
   "word": "土",
@@ -4131,9 +4131,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bumi, tanah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日は土曜日だ。",
+  "exampleReading": "あしたはどようびだ。",
+  "exampleMeaning": "Besok adalah hari Sabtu."
  },
  {
   "word": "独特",
@@ -4142,9 +4142,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekhasan, keunikan, ciri khas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "独特の詩を書く人だよね。",
+  "exampleReading": "どくとくのしをかくひとだよね。",
+  "exampleMeaning": "Dia menulis puisi yang unik, bukan?"
  },
  {
   "word": "丘",
@@ -4153,9 +4153,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bukit, tinggi, bukit kecil, dataran tinggi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "学校は丘の上だ。",
+  "exampleReading": "がっこうはおかのうえだ。",
+  "exampleMeaning": "Sekolahnya berada di atas bukit."
  },
  {
   "word": "小包",
@@ -4164,9 +4164,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "parsel, paket",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "航空便で小包を送ったよ。",
+  "exampleReading": "こうくうびんでこづつみをおくったよ。",
+  "exampleMeaning": "Saya mengirim paket melalui pos udara."
  },
  {
   "word": "重要",
@@ -4175,9 +4175,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penting, penting, penting, utama, utama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは重要ですか？",
+  "exampleReading": "それはじゅうようですか？",
+  "exampleMeaning": "Apakah itu penting?"
  },
  {
   "word": "表現",
@@ -4186,9 +4186,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ekspresi, presentasi, representasi (matematika)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何てあいまいな表現だ。",
+  "exampleReading": "なにてあいまいなひょうげんだ。",
+  "exampleMeaning": "Ekspresi yang ambigu!"
  },
  {
   "word": "世紀",
@@ -4197,9 +4197,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "abad, era",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "１世紀は１００年です。",
+  "exampleReading": "いちせいきはいちぜろぜろねんです。",
+  "exampleMeaning": "Satu abad adalah seratus tahun."
  },
  {
   "word": "値",
@@ -4208,9 +4208,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nilai, harga, biaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "直す価値がある？",
+  "exampleReading": "なおすかちがある？",
+  "exampleMeaning": "Apakah ini layak untuk diperbaiki?"
  },
  {
   "word": "オフィス",
@@ -4219,9 +4219,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kantor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女のオフィスはどこ？",
+  "exampleReading": "かのじょのおふぃすはどこ？",
+  "exampleMeaning": "Di mana kantornya?"
  },
  {
   "word": "喜び",
@@ -4230,9 +4230,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(a) kegembiraan, (a) kegembiraan, kegembiraan, kesenangan, kepuasan, kegembiraan, ucapan selamat, ucapan selamat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは大喜びでした。",
+  "exampleReading": "とむはだいよろこびでした。",
+  "exampleMeaning": "Tom tergelitik merah jambu."
  },
  {
   "word": "ジェット機",
@@ -4241,9 +4241,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pesawat jet",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ジェット機が次々に離陸した。",
+  "exampleReading": "じぇっときがつぎつぎにりりくした。",
+  "exampleMeaning": "Jet-jet itu lepas landas satu demi satu."
  },
  {
   "word": "梅雨",
@@ -4252,9 +4252,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "musim hujan, hujan di musim hujan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "梅雨が始まった。",
+  "exampleReading": "つゆがはじまった。",
+  "exampleMeaning": "Musim hujan telah tiba."
  },
  {
   "word": "首相",
@@ -4263,9 +4263,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Perdana Menteri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "首相は国会を解散した。",
+  "exampleReading": "しゅしょうはこっかいをかいさんした。",
+  "exampleMeaning": "Perdana Menteri membubarkan Diet."
  },
  {
   "word": "望み",
@@ -4274,9 +4274,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keinginan, keinginan, (a) harapan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "成功の望みはない。",
+  "exampleReading": "せいこうののぞみはない。",
+  "exampleMeaning": "Tidak ada harapan untuk sukses."
  },
  {
   "word": "木曜",
@@ -4285,9 +4285,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Kamis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は木曜日です。",
+  "exampleReading": "きょうはもくようびです。",
+  "exampleMeaning": "Hari ini Kamis."
  },
  {
   "word": "示す",
@@ -4296,9 +4296,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menunjukkan, untuk menunjukkan, untuk menunjukkan, untuk menunjukkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "コンパスは北を示す。",
+  "exampleReading": "こんぱすはきたをしめす。",
+  "exampleMeaning": "Kompas menunjuk ke utara."
  },
  {
   "word": "書物",
@@ -4307,9 +4307,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buku",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ヒトは書物を書く唯一の動物である。",
+  "exampleReading": "ひとはしょもつをかくゆいいつのどうぶつである。",
+  "exampleMeaning": "Manusia adalah satu-satunya hewan yang menulis buku."
  },
  {
   "word": "腹",
@@ -4318,9 +4318,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perut, perut, perut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "腹ぺこなの？",
+  "exampleReading": "はらぺこなの？",
+  "exampleMeaning": "Apakah kamu sangat lapar?"
  },
  {
   "word": "現れ",
@@ -4329,9 +4329,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perwujudan, perwujudan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "窓に顔が現れた。",
+  "exampleReading": "まどにかおがあらわれた。",
+  "exampleMeaning": "Sebuah wajah muncul di jendela."
  },
  {
   "word": "追う",
@@ -4340,9 +4340,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengejar, untuk mengejar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "流行を追うのはやめたわ。",
+  "exampleReading": "りゅうこうをおうのはやめたわ。",
+  "exampleMeaning": "Saya berhenti mengejar mode."
  },
  {
   "word": "定期",
@@ -4351,9 +4351,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jangka waktu tetap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "バスの定期券はお持ちですか？",
+  "exampleReading": "ばすのていきけんはおもちですか？",
+  "exampleMeaning": "Apakah Anda memiliki tiket bus?"
  },
  {
   "word": "都会",
@@ -4362,9 +4362,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kota",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "都会に住む予定です。",
+  "exampleReading": "とかいにすむよていです。",
+  "exampleMeaning": "Saya berencana untuk tinggal di kota."
  },
  {
   "word": "硬い",
@@ -4373,9 +4373,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "padat, keras (khususnya logam, batu), tulisan kasar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "鉄は金よりも硬い。",
+  "exampleReading": "てつはきんよりもかたい。",
+  "exampleMeaning": "Besi lebih keras dari emas."
  },
  {
   "word": "年代",
@@ -4384,9 +4384,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "usia, era, periode, tanggal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この列車は年代物だ。",
+  "exampleReading": "このれっしゃはねんだいぶつだ。",
+  "exampleMeaning": "Kereta ini sudah sangat tua."
  },
  {
   "word": "正",
@@ -4395,9 +4395,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(logis) benar, biasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私、正しい？",
+  "exampleReading": "わたし、ただしい？",
+  "exampleMeaning": "Apakah saya benar?"
  },
  {
   "word": "うるさい",
@@ -4406,9 +4406,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "berisik, keras, rewel",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "もううるさいな！",
+  "exampleReading": "もううるさいな！",
+  "exampleMeaning": "Diam!"
  },
  {
   "word": "表",
@@ -4417,9 +4417,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tabel (misalnya Tab 1), bagan, daftar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "酒は本心を表す。",
+  "exampleReading": "さけはほんしんをあらわす。",
+  "exampleMeaning": "Dalam anggur, ada kebenaran."
  },
  {
   "word": "被る",
@@ -4439,9 +4439,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "piknik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ピクニックに行かない？",
+  "exampleReading": "ぴくにっくにいかない？",
+  "exampleMeaning": "Bagaimana kalau piknik?"
  },
  {
   "word": "籠",
@@ -4450,9 +4450,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keranjang, kandang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "籠の中には何もない。",
+  "exampleReading": "かごのなかにはなにもない。",
+  "exampleMeaning": "Tidak ada apa pun di keranjang."
  },
  {
   "word": "ところで",
@@ -4461,9 +4461,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ngomong-ngomong, meskipun begitu, apa pun yang terjadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ところでトムって誰？",
+  "exampleReading": "ところでとむってだれ？",
+  "exampleMeaning": "Siapa sebenarnya Tom?"
  },
  {
   "word": "ざっと",
@@ -4472,9 +4472,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kira-kira, dalam angka bulat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は本にざっと目を通した。",
+  "exampleReading": "わたしはほんにざっとめをとおした。",
+  "exampleMeaning": "Aku membolak-balik buku itu."
  },
  {
   "word": "付き合い",
@@ -4483,9 +4483,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pergaulan, pergaulan, persekutuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は付き合いにくい。",
+  "exampleReading": "かれはつきあいにくい。",
+  "exampleMeaning": "Dia sulit untuk dihadapi."
  },
  {
   "word": "植物",
@@ -4494,9 +4494,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tanaman, tumbuh-tumbuhan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "植物と話しますか？",
+  "exampleReading": "しょくぶつとはなしますか？",
+  "exampleMeaning": "Apakah Anda berbicara dengan tanaman Anda?"
  },
  {
   "word": "学者",
@@ -4505,9 +4505,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sarjana",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は科学者です。",
+  "exampleReading": "かれはかがくしゃです。",
+  "exampleMeaning": "Dia adalah seorang ilmuwan."
  },
  {
   "word": "気味",
@@ -4516,9 +4516,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "-seperti,-tampak,-tampak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は風邪気味だ。",
+  "exampleReading": "きょうはかぜぎみだ。",
+  "exampleMeaning": "Aku sedikit kedinginan hari ini."
  },
  {
   "word": "性",
@@ -4527,9 +4527,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jenis kelamin, jenis kelamin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "可能性あるかな？",
+  "exampleReading": "かのうせいあるかな？",
+  "exampleMeaning": "Apakah mungkin?"
  },
  {
   "word": "役",
@@ -4538,9 +4538,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penggunaan, layanan, peran, posisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムの役立たず！",
+  "exampleReading": "とむのやくだたず！",
+  "exampleMeaning": "Tom tidak berguna!"
  },
  {
   "word": "幾ら",
@@ -4549,9 +4549,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berapa banyak?, berapa banyak?",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "幾らぐらいになる？",
+  "exampleReading": "いくらぐらいになる？",
+  "exampleMeaning": "Berapa biayanya?"
  },
  {
   "word": "渋滞",
@@ -4560,9 +4560,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kemacetan (misalnya lalu lintas), penundaan, stagnasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "渋滞はないです。",
+  "exampleReading": "じゅうたいはないです。",
+  "exampleMeaning": "Tidak ada kemacetan lalu lintas."
  },
  {
   "word": "無料",
@@ -4571,9 +4571,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gratis, tanpa biaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "無料だと思った。",
+  "exampleReading": "むりょうだとおもった。",
+  "exampleMeaning": "Saya berasumsi itu gratis."
  },
  {
   "word": "無し",
@@ -4582,9 +4582,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "tanpa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "冥土の道に王は無し。",
+  "exampleReading": "めいどのみちにおうはなし。",
+  "exampleMeaning": "Tidak ada Raja di Jalan Kematian."
  },
  {
   "word": "怠ける",
@@ -4593,9 +4593,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi menganggur, mengabaikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は怠ける傾向がある。",
+  "exampleReading": "かれはなまけるけいこうがある。",
+  "exampleMeaning": "Dia cenderung malas."
  },
  {
   "word": "随分",
@@ -4604,9 +4604,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sangat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "随分と大きいな。",
+  "exampleReading": "ずいぶんとおおきいな。",
+  "exampleMeaning": "Ini sangat besar!"
  },
  {
   "word": "離れる",
@@ -4615,9 +4615,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dipisahkan dari, untuk pergi, untuk pergi, menjadi jauh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今夜、東京を離れるよ。",
+  "exampleReading": "こんや、とうきょうをはなれるよ。",
+  "exampleMeaning": "Aku akan meninggalkan Tokyo malam ini."
  },
  {
   "word": "真剣",
@@ -4626,9 +4626,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keseriusan, kesungguhan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は仕事に真剣だ。",
+  "exampleReading": "わたしはしごとにしんけんだ。",
+  "exampleMeaning": "Aku serius dengan pekerjaanku."
  },
  {
   "word": "推薦",
@@ -4637,9 +4637,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rekomendasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "推薦とればよかった。",
+  "exampleReading": "すいせんとればよかった。",
+  "exampleMeaning": "Akan lebih baik jika saya mendapat rekomendasi."
  },
  {
   "word": "優秀",
@@ -4648,9 +4648,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keunggulan, keunggulan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は優秀な学生だ。",
+  "exampleReading": "かのじょはゆうしゅうながくせいだ。",
+  "exampleMeaning": "Dia adalah murid yang luar biasa."
  },
  {
   "word": "敬意",
@@ -4659,9 +4659,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "hormat, kehormatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "年上の人には敬意を払うべきだ。",
+  "exampleReading": "としうえのひとにはけいいをはらうべきだ。",
+  "exampleMeaning": "Rasa hormat diberikan kepada orang yang lebih tua."
  },
  {
   "word": "衣服",
@@ -4670,9 +4670,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pakaian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は衣服を紐で束ねた。",
+  "exampleReading": "かれはいふくをひもでたばねた。",
+  "exampleMeaning": "Dia mengikat pakaian itu dengan seutas tali."
  },
  {
   "word": "御",
@@ -4681,9 +4681,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terhormat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何か御用ですか。",
+  "exampleReading": "なにかごようですか。",
+  "exampleMeaning": "Apa yang kamu ingin aku lakukan?"
  },
  {
   "word": "処理",
@@ -4692,9 +4692,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemrosesan, penanganan, perawatan, disposisi, pembuangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現在、処理中です。",
+  "exampleReading": "げんざい、しょりちゅうです。",
+  "exampleMeaning": "Prosesnya sedang berlangsung."
  },
  {
   "word": "患者",
@@ -4703,9 +4703,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seorang pasien",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "患者は今や危機を脱した。",
+  "exampleReading": "かんじゃはいまやききをだっした。",
+  "exampleMeaning": "Pasien sudah keluar dari bahaya sekarang."
  },
  {
   "word": "順調",
@@ -4714,9 +4714,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menguntungkan, baik-baik saja, oke, baiklah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "経営は順調だよ。",
+  "exampleReading": "けいえいはじゅんちょうだよ。",
+  "exampleMeaning": "Segalanya berjalan lancar."
  },
  {
   "word": "行動",
@@ -4725,9 +4725,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tindakan, perilaku, perilaku, mobilisasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今が行動する時だ。",
+  "exampleReading": "いまがこうどうするときだ。",
+  "exampleMeaning": "Sekarang adalah waktunya untuk bertindak."
  },
  {
   "word": "演技",
@@ -4736,9 +4736,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "akting, pertunjukan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼の演技は完璧だった。",
+  "exampleReading": "かれのえんぎはかんぺきだった。",
+  "exampleMeaning": "Aktingnya tidak meninggalkan apa pun yang diinginkan."
  },
  {
   "word": "後",
@@ -4747,9 +4747,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "setelah itu, sejak saat itu, di masa depan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "後は任せた！",
+  "exampleReading": "ごはまかせた！",
+  "exampleMeaning": "Sisanya terserah Anda!"
  },
  {
   "word": "幅",
@@ -4758,9 +4758,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lebar, lebar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は肩幅が狭い。",
+  "exampleReading": "かれはかたはばがせまい。",
+  "exampleMeaning": "Dia memiliki bahu yang sempit."
  },
  {
   "word": "生",
@@ -4769,9 +4769,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) draft (bir), (2) mentah, belum diolah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "学生ですか？",
+  "exampleReading": "がくせいですか？",
+  "exampleMeaning": "Apakah kamu seorang pelajar?"
  },
  {
   "word": "過去",
@@ -4780,9 +4780,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masa lalu, masa lalu, masa lalu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "過去のことです。",
+  "exampleReading": "かこのことです。",
+  "exampleMeaning": "Itu di masa lalu."
  },
  {
   "word": "ソファー",
@@ -4791,9 +4791,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sofa, sofa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ソファーの上だよ。",
+  "exampleReading": "そふぁーのうえだよ。",
+  "exampleMeaning": "Letaknya di sofa."
  },
  {
   "word": "勢い",
@@ -4802,9 +4802,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekuatan, kekuatan, energi, semangat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "同僚なら大勢いるよ。",
+  "exampleReading": "どうりょうならたいせいいるよ。",
+  "exampleMeaning": "Saya punya banyak rekan."
  },
  {
   "word": "保証",
@@ -4813,9 +4813,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jaminan, keamanan, jaminan, jaminan, garansi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "俺が保証するよ。",
+  "exampleReading": "おれがほしょうするよ。",
+  "exampleMeaning": "Saya akan mendukungnya."
  },
  {
   "word": "用いる",
@@ -4824,9 +4824,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menggunakan, untuk memanfaatkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "知識を得るのと、その知識を用いるのとは全く別のことである。",
+  "exampleReading": "ちしきをえるのと、そのちしきをもちいるのとはまったくべつのことである。",
+  "exampleMeaning": "Memperoleh pengetahuan adalah satu hal;"
  },
  {
   "word": "通り過ぎる",
@@ -4835,9 +4835,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melewati, untuk melewati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は通り過ぎるときに必ず声をかけた。",
+  "exampleReading": "かのじょはとおりすぎるときにかならずこえをかけた。",
+  "exampleMeaning": "Dia tidak melewatiku tanpa berbicara kepadaku."
  },
  {
   "word": "居間",
@@ -4846,9 +4846,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ruang tamu (gaya barat)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "居間の電気は消したの？",
+  "exampleReading": "いまのでんきはけしたの？",
+  "exampleMeaning": "Apakah Anda mematikan lampu di ruang tamu?"
  },
  {
   "word": "全国",
@@ -4857,9 +4857,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seluruh negara, nasional, seluruh negara, nasional",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ロシア全国を旅した。",
+  "exampleReading": "ろしあぜんこくをたびした。",
+  "exampleMeaning": "Saya telah melakukan perjalanan ke seluruh Rusia."
  },
  {
   "word": "微妙",
@@ -4868,9 +4868,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "halus, halus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "なんか微妙でしょ？",
+  "exampleReading": "なんかびみょうでしょ？",
+  "exampleMeaning": "Agak meragukan, bukan begitu?"
  },
  {
   "word": "感じ",
@@ -4879,9 +4879,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perasaan, rasa, kesan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "就活どんな感じ？",
+  "exampleReading": "就かつどんなかんじ？",
+  "exampleMeaning": "Bagaimana perburuan kerjanya?"
  },
  {
   "word": "徹夜",
@@ -4890,9 +4890,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "sepanjang malam, berjaga sepanjang malam, malam tanpa tidur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "徹夜で勉強した。",
+  "exampleReading": "てつやでべんきょうした。",
+  "exampleMeaning": "Saya terjaga sepanjang malam untuk belajar."
  },
  {
   "word": "価格",
@@ -4901,9 +4901,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harga, nilai, biaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "妥当な価格だね。",
+  "exampleReading": "だとうなかかくだね。",
+  "exampleMeaning": "Itu harga yang wajar."
  },
  {
   "word": "軒",
@@ -4912,9 +4912,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "２０軒もの家が焼け落ちた。",
+  "exampleReading": "にぜろけんものいえがやけおちた。",
+  "exampleMeaning": "Tak kurang dari dua puluh rumah terbakar."
  },
  {
   "word": "グランド",
@@ -4923,9 +4923,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelenjar, agung, tanah (listrik).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "イングランド出身です。",
+  "exampleReading": "いんぐらんどしゅっしんです。",
+  "exampleMeaning": "Saya dari Inggris."
  },
  {
   "word": "恐れる",
@@ -4934,9 +4934,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk takut, untuk ditakuti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は死を恐れる。",
+  "exampleReading": "わたしはしをおそれる。",
+  "exampleMeaning": "Saya takut mati."
  },
  {
   "word": "熱帯",
@@ -4945,9 +4945,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "daerah tropis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは熱帯魚を飼っている。",
+  "exampleReading": "とむはねったいぎょをかっている。",
+  "exampleMeaning": "Tom memelihara ikan tropis."
  },
  {
   "word": "セット",
@@ -4956,9 +4956,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mengatur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "目覚ましはセットした？",
+  "exampleReading": "めざましはせっとした？",
+  "exampleMeaning": "Sudahkah Anda menyetel jam alarm?"
  },
  {
   "word": "隠れる",
@@ -4967,9 +4967,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bersembunyi, untuk disembunyikan, untuk menyembunyikan diri, untuk menghilang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "スタジオはとても狭くて、隠れる場所はない。",
+  "exampleReading": "すたじおはとてもせまくて、かくれるばしょはない。",
+  "exampleMeaning": "Studionya sangat kecil, tidak ada tempat untuk bersembunyi."
  },
  {
   "word": "自身",
@@ -4978,9 +4978,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "oleh diri sendiri, secara pribadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "自身の冒険を選択する話。",
+  "exampleReading": "じしんのぼうけんをせんたくするはなし。",
+  "exampleMeaning": "Pilih cerita petualangan Anda sendiri."
  },
  {
   "word": "対象",
@@ -4989,9 +4989,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sasaran, obyek (ibadah, belajar, dan lain-lain), subjek (pajak, dan lain-lain)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "幼稚園児は性欲の対象ではない。",
+  "exampleReading": "ようちえんじはせいよくのたいしょうではない。",
+  "exampleMeaning": "Anak-anak prasekolah bukanlah sasaran hasrat seksual."
  },
  {
   "word": "スープ",
@@ -5000,9 +5000,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sup (Barat).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "スープ美味しい？",
+  "exampleReading": "すーぷおいしい？",
+  "exampleMeaning": "Apakah kamu suka supnya?"
  },
  {
   "word": "二十",
@@ -5011,9 +5011,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "20 tahun, tahun ke 20",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "五の五倍は二十五。",
+  "exampleReading": "ごのごばいはにじゅうご。",
+  "exampleMeaning": "Lima kali lima sama dengan dua puluh lima."
  },
  {
   "word": "あんまり",
@@ -5022,9 +5022,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak terlalu, tidak banyak, sisa, istirahat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あんまり無理するなよ。",
+  "exampleReading": "あんまりむりするなよ。",
+  "exampleMeaning": "Jangan berlebihan."
  },
  {
   "word": "いち",
@@ -5044,9 +5044,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "senjata, senjata, peraturan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "武器は持ったか？",
+  "exampleReading": "ぶきはもったか？",
+  "exampleMeaning": "Apakah kamu bersenjata?"
  },
  {
   "word": "生じる",
@@ -5055,9 +5055,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menghasilkan, menghasilkan, menghasilkan, timbul, dihasilkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "事故は不注意から生じる。",
+  "exampleReading": "じこはふちゅういからしょうじる。",
+  "exampleMeaning": "Kecelakaan timbul karena kecerobohan."
  },
  {
   "word": "膝",
@@ -5066,9 +5066,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lutut, pangkuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "膝がまだ痛むの？",
+  "exampleReading": "ひざがまだいたむの？",
+  "exampleMeaning": "Apakah lututmu masih sakit?"
  },
  {
   "word": "入院",
@@ -5077,9 +5077,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rawat inap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "入院中なんです。",
+  "exampleReading": "にゅういんちゅうなんです。",
+  "exampleMeaning": "Saya di rumah sakit."
  },
  {
   "word": "農民",
@@ -5088,9 +5088,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "petani, petani",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は貧しい農民に過ぎない。",
+  "exampleReading": "わたしはまずしいのうみんにすぎない。",
+  "exampleMeaning": "Saya hanyalah seorang petani miskin."
  },
  {
   "word": "辺り",
@@ -5099,9 +5099,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekitar, dekat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この辺りに居座るな。",
+  "exampleReading": "このあたりにいすわるな。",
+  "exampleMeaning": "Jangan tinggal di sini."
  },
  {
   "word": "応じる",
@@ -5110,9 +5110,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menanggapi, untuk memuaskan, untuk menerima, untuk mematuhi, untuk mengajukan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君が応じる必要はない。",
+  "exampleReading": "きみがおうじるひつようはない。",
+  "exampleMeaning": "Anda tidak perlu merespons."
  },
  {
   "word": "パス",
@@ -5121,9 +5121,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jalan, lewati (dalam permainan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "パスタでもいい？",
+  "exampleReading": "ぱすたでもいい？",
+  "exampleMeaning": "Bolehkah saya pesan spageti?"
  },
  {
   "word": "宅",
@@ -5132,9 +5132,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rumah, rumah, suami",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は在宅です。",
+  "exampleReading": "きょうはざいたくです。",
+  "exampleMeaning": "Hari ini saya bekerja dari rumah."
  },
  {
   "word": "戦い",
@@ -5143,9 +5143,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertempuran, perkelahian, perjuangan, konflik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "戦いは終わった。",
+  "exampleReading": "たたかいはおわった。",
+  "exampleMeaning": "Pertarungan telah berakhir."
  },
  {
   "word": "ラケット",
@@ -5154,9 +5154,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dayung, raket",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ラケットは借りれますか。",
+  "exampleReading": "らけっとはかりれますか。",
+  "exampleMeaning": "Bisakah saya menyewa raket?"
  },
  {
   "word": "神経",
@@ -5165,9 +5165,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saraf, sensitivitas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは神経科医です。",
+  "exampleReading": "とむはしんけいかいです。",
+  "exampleMeaning": "Tom adalah seorang ahli saraf."
  },
  {
   "word": "エンジン",
@@ -5176,9 +5176,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mesin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "エンジンを止めろ！",
+  "exampleReading": "えんじんをとめろ！",
+  "exampleMeaning": "Hentikan mesinnya!"
  },
  {
   "word": "郵便",
@@ -5187,9 +5187,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "surat, layanan pos",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "郵便受け、見た？",
+  "exampleReading": "ゆうびんうけ、みた？",
+  "exampleMeaning": "Apakah Anda memeriksa kotak surat?"
  },
  {
   "word": "連れ",
@@ -5198,9 +5198,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teman, perusahaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "弟、連れて来いよ。",
+  "exampleReading": "おとうと、つれてこいよ。",
+  "exampleMeaning": "Bawa saudaramu."
  },
  {
   "word": "包み",
@@ -5209,9 +5209,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bundel, paket, parsel, bale",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "炎が森を包み込んだ。",
+  "exampleReading": "ほのおがもりをつつみこんだ。",
+  "exampleMeaning": "Api melahap hutan."
  },
  {
   "word": "納得",
@@ -5220,9 +5220,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persetujuan, persetujuan, pengertian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "納得いかないな。",
+  "exampleReading": "なっとくいかないな。",
+  "exampleMeaning": "Saya tidak setuju dengan Anda."
  },
  {
   "word": "豊富",
@@ -5231,9 +5231,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelimpahan, kekayaan, kelimpahan, karunia",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "安いけど栄養豊富です。",
+  "exampleReading": "やすいけどえいようほうふです。",
+  "exampleMeaning": "Itu murah tapi sangat bergizi."
  },
  {
   "word": "文",
@@ -5242,9 +5242,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kalimat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これ、注文した？",
+  "exampleReading": "これ、ちゅうもんした？",
+  "exampleMeaning": "Apakah kamu memesan ini?"
  },
  {
   "word": "何とか",
@@ -5253,9 +5253,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "entah bagaimana, bagaimanapun, dengan satu atau lain cara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何とかなるよね？",
+  "exampleReading": "なんとかなるよね？",
+  "exampleMeaning": "Ini akan baik-baik saja, bukan?"
  },
  {
   "word": "引っ張る",
@@ -5264,9 +5264,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) menarik, menarik, meregangkan, menyeret, (2) menarik bola (bisbol)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それに掴まって。引っ張るぞ。",
+  "exampleReading": "それにつかまって。ひっぱるぞ。",
+  "exampleMeaning": "Pegang itu."
  },
  {
   "word": "で",
@@ -5286,9 +5286,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lantai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "床の上に置いて。",
+  "exampleReading": "ゆかのうえにおいて。",
+  "exampleMeaning": "Letakkan di lantai."
  },
  {
   "word": "存在",
@@ -5297,9 +5297,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keberadaan, keberadaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "愛は存在しない。",
+  "exampleReading": "あいはそんざいしない。",
+  "exampleMeaning": "Cinta tidak ada."
  },
  {
   "word": "囲む",
@@ -5308,9 +5308,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengelilingi, untuk mengelilingi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は、卒業生を囲む会が行われました。",
+  "exampleReading": "きょうは、そつぎょうせいをかこむかいがおこなわれました。",
+  "exampleMeaning": "Hari ini diadakan pesta wisudawan."
  },
  {
   "word": "料金",
@@ -5319,9 +5319,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biaya, biaya, tarif",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "料金はいくらですか？",
+  "exampleReading": "りょうきんはいくらですか？",
+  "exampleMeaning": "Berapa tarifnya?"
  },
  {
   "word": "用心",
@@ -5330,9 +5330,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perawatan, pencegahan, penjagaan, kehati-hatian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "なんて不用心なんだ。",
+  "exampleReading": "なんてぶようじんなんだ。",
+  "exampleMeaning": "Bagaimana kamu bisa begitu ceroboh?"
  },
  {
   "word": "燃える",
@@ -5341,9 +5341,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membakar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "紙はすぐに燃える。",
+  "exampleReading": "かみはすぐにもえる。",
+  "exampleMeaning": "Kertas mudah terbakar."
  },
  {
   "word": "大統領",
@@ -5352,9 +5352,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "presiden, kepala eksekutif",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大統領には彼が適任だ。",
+  "exampleReading": "だいとうりょうにはかれがてきにんだ。",
+  "exampleMeaning": "Dia memenuhi syarat untuk menjadi presiden."
  },
  {
   "word": "適する",
@@ -5374,9 +5374,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akurat, ketepatan waktu, ketepatan, keaslian, kebenaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは正確ですか？",
+  "exampleReading": "これはせいかくですか？",
+  "exampleMeaning": "Apakah ini akurat?"
  },
  {
   "word": "注文",
@@ -5385,9 +5385,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pesanan, permintaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これ、注文した？",
+  "exampleReading": "これ、ちゅうもんした？",
+  "exampleMeaning": "Apakah kamu memesan ini?"
  },
  {
   "word": "夫婦",
@@ -5396,9 +5396,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pasangan suami istri, suami dan istri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私たちは夫婦だ。",
+  "exampleReading": "わたしたちはふうふだ。",
+  "exampleMeaning": "Kami sudah menikah."
  },
  {
   "word": "障害",
@@ -5407,9 +5407,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hambatan, halangan (kesalahan), kerusakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "12月3日は国際障害者デーです。",
+  "exampleReading": "12つき3にちはこくさいしょうがいしゃでーです。",
+  "exampleMeaning": "Tanggal 3 Desember adalah Hari Penyandang Disabilitas Internasional."
  },
  {
   "word": "演奏",
@@ -5418,9 +5418,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertunjukan musik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何か楽器を演奏するの？",
+  "exampleReading": "なにかがっきをえんそうするの？",
+  "exampleMeaning": "Apakah Anda memainkan alat musik?"
  },
  {
   "word": "一番",
@@ -5429,9 +5429,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terbaik, pertama, nomor satu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ボストンが一番！",
+  "exampleReading": "ぼすとんがいちばん！",
+  "exampleMeaning": "Tidak ada tempat seperti Boston."
  },
  {
   "word": "日本",
@@ -5440,9 +5440,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Jepang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "日本へようこそ！",
+  "exampleReading": "にっぽんへようこそ！",
+  "exampleMeaning": "Selamat datang di Jepang!"
  },
  {
   "word": "母親",
@@ -5451,9 +5451,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ibu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは母親似だ。",
+  "exampleReading": "とむはははおやにだ。",
+  "exampleMeaning": "Tom terlihat seperti ibunya."
  },
  {
   "word": "優勝",
@@ -5462,9 +5462,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kemenangan keseluruhan, kejuaraan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "優勝おめでとう。",
+  "exampleReading": "ゆうしょうおめでとう。",
+  "exampleMeaning": "Selamat atas kemenangannya!"
  },
  {
   "word": "誇り",
@@ -5473,9 +5473,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebanggaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は兄を誇りに思う。",
+  "exampleReading": "わたしはあにをほこりにおもう。",
+  "exampleMeaning": "Aku bangga dengan saudaraku."
  },
  {
   "word": "縦",
@@ -5484,9 +5484,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "panjang, tinggi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "縦列駐車が苦手なのよ。",
+  "exampleReading": "じゅうれつちゅうしゃがにがてなのよ。",
+  "exampleMeaning": "Saya tidak pandai parkir paralel."
  },
  {
   "word": "端",
@@ -5495,9 +5495,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ujung (misalnya jalan),tepi,ujung,margin,titik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "中途半端な文ね。",
+  "exampleReading": "ちゅうとはんぱなぶんね。",
+  "exampleMeaning": "Itu adalah kalimat yang tidak lengkap."
  },
  {
   "word": "一般",
@@ -5506,9 +5506,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "umum, liberal, universal, biasa, rata-rata",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は一般人です。",
+  "exampleReading": "わたしはいっぱんじんです。",
+  "exampleMeaning": "Saya warga sipil."
  },
  {
   "word": "費用",
@@ -5517,9 +5517,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biaya, biaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この費用は誰が出すの。",
+  "exampleReading": "このひようはだれがだすの。",
+  "exampleMeaning": "Siapa yang akan mengambil tanggung jawab untuk ini?"
  },
  {
   "word": "舞台",
@@ -5528,9 +5528,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "panggung (teater)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "最高の舞台だった。",
+  "exampleReading": "さいこうのぶたいだった。",
+  "exampleMeaning": "Itu adalah kinerja yang luar biasa."
  },
  {
   "word": "クリーム",
@@ -5539,9 +5539,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "krim",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "アイスクリームが好きだ。",
+  "exampleReading": "あいすくりーむがすきだ。",
+  "exampleMeaning": "Saya suka es krim."
  },
  {
   "word": "道路",
@@ -5550,9 +5550,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jalan raya, jalan raya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "道路を横切るな。",
+  "exampleReading": "どうろをよこぎるな。",
+  "exampleMeaning": "Jangan menyeberang jalan."
  },
  {
   "word": "就く",
@@ -5561,9 +5561,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menetap di (tempat), untuk mengambil (kursi, posisi), untuk belajar (di bawah guru)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この国で仕事に就くのは難しいよ。",
+  "exampleReading": "このくにでしごとにつくのはむずかしいよ。",
+  "exampleMeaning": "Sulitnya mendapatkan pekerjaan di negara ini."
  },
  {
   "word": "信頼",
@@ -5572,9 +5572,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ketergantungan, kepercayaan, keyakinan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は信頼できる。",
+  "exampleReading": "かれはしんらいできる。",
+  "exampleMeaning": "Dia bisa dipercaya."
  },
  {
   "word": "可能",
@@ -5583,9 +5583,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mungkin, dapat dipraktikkan, dapat dilaksanakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "可能性あるかな？",
+  "exampleReading": "かのうせいあるかな？",
+  "exampleMeaning": "Apakah mungkin?"
  },
  {
   "word": "日中",
@@ -5594,9 +5594,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "siang hari, siang hari bolong",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "一日中寝てました。",
+  "exampleReading": "いちにちちゅうねてました。",
+  "exampleMeaning": "Saya tetap di tempat tidur sepanjang hari."
  },
  {
   "word": "支える",
@@ -5605,9 +5605,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk diblokir, untuk tersedak, untuk dihalangi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どうにかしてトムを支える。",
+  "exampleReading": "どうにかしてとむをささえる。",
+  "exampleMeaning": "Saya akan mendukung Tom semampu saya."
  },
  {
   "word": "実施",
@@ -5616,9 +5616,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penegakan, memberlakukan, mengamalkan, melaksanakan, mengoperasikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その法律は４月１日から実施される。",
+  "exampleReading": "そのほうりつはしがついちにちからじっしされる。",
+  "exampleMeaning": "Undang-undang ini akan berlaku efektif mulai tanggal 1 April."
  },
  {
   "word": "年齢",
@@ -5627,9 +5627,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "umur, tahun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "年齢は関係ない。",
+  "exampleReading": "ねんれいはかんけいない。",
+  "exampleMeaning": "Usia hanyalah angka."
  },
  {
   "word": "評判",
@@ -5638,9 +5638,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketenaran, reputasi, popularitas, keterlaluan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は評判がよい。",
+  "exampleReading": "かれはひょうばんがよい。",
+  "exampleMeaning": "Dia memiliki reputasi yang baik."
  },
  {
   "word": "九",
@@ -5649,9 +5649,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sembilan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "九月の朝だった。",
+  "exampleReading": "くがつのあさだった。",
+  "exampleMeaning": "Saat itu pagi di bulan September."
  },
  {
   "word": "涙",
@@ -5660,9 +5660,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "merobek",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "女性は涙もろい。",
+  "exampleReading": "じょせいはなみだもろい。",
+  "exampleMeaning": "Wanita mudah sekali meneteskan air mata."
  },
  {
   "word": "迎え",
@@ -5671,9 +5671,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "pertemuan, orang dikirim untuk menjemput kedatangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お迎えが来たよ。",
+  "exampleReading": "おむかえがきたよ。",
+  "exampleMeaning": "Kendaraanmu sudah tiba."
  },
  {
   "word": "たまらない",
@@ -5682,9 +5682,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "tak tertahankan, tak tertahankan, tak tertahankan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "痛くてたまらない。",
+  "exampleReading": "いたくてたまらない。",
+  "exampleMeaning": "Saya tidak bisa menahan rasa sakitnya."
  },
  {
   "word": "記入",
@@ -5693,9 +5693,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "masuk, mengisi formulir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "生年月日をご記入ください。",
+  "exampleReading": "せいねんがっぴをごきにゅうください。",
+  "exampleMeaning": "Silakan tuliskan tanggal lahir Anda."
  },
  {
   "word": "欠点",
@@ -5704,9 +5704,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesalahan, cacat, kelemahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誰にでも欠点はある。",
+  "exampleReading": "だれにでもけってんはある。",
+  "exampleMeaning": "Setiap orang punya kesalahan."
  },
  {
   "word": "角",
@@ -5715,9 +5715,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "klakson",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "角に置いといて。",
+  "exampleReading": "かくにおいといて。",
+  "exampleMeaning": "Letakkan di sudut."
  },
  {
   "word": "本当",
@@ -5726,9 +5726,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebenaran, kenyataan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "本当？なぜ？",
+  "exampleReading": "ほんとう？なぜ？",
+  "exampleMeaning": "Apakah kamu?"
  },
  {
   "word": "遠慮",
@@ -5737,9 +5737,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rasa malu, menahan diri, menahan diri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ご遠慮願います。",
+  "exampleReading": "ごえんりょねがいます。",
+  "exampleMeaning": "Mohon menahan diri."
  },
  {
   "word": "積もる",
@@ -5748,9 +5748,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menumpuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "距離を見積もるのは難しいな。",
+  "exampleReading": "きょりをみつもるのはむずかしいな。",
+  "exampleMeaning": "Jaraknya sulit diperkirakan."
  },
  {
   "word": "全体",
@@ -5759,9 +5759,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keseluruhan, keseluruhan, apa pun (apa masalahnya)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "町全体が水没した。",
+  "exampleReading": "まちぜんたいがすいぼつした。",
+  "exampleMeaning": "Seluruh kota terendam air."
  },
  {
   "word": "キロ",
@@ -5770,9 +5770,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(abbr) kilo-,kilogram,kilometer,10^3",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何キロ減ったの？",
+  "exampleReading": "なんきろへったの？",
+  "exampleMeaning": "Berapa kilogram yang hilang?"
  },
  {
   "word": "迷惑",
@@ -5781,9 +5781,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masalah, gangguan, gangguan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "迷惑極まりない人ね。",
+  "exampleReading": "めいわくきわまりないひとね。",
+  "exampleMeaning": "Orang itu sangat menyebalkan, bukan."
  },
  {
   "word": "人類",
@@ -5792,9 +5792,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "umat manusia, kemanusiaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人類の未来が心配だ。",
+  "exampleReading": "じんるいのみらいがしんぱいだ。",
+  "exampleMeaning": "Saya khawatir akan masa depan umat manusia."
  },
  {
   "word": "独り",
@@ -5803,9 +5803,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sendirian, belum menikah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは独り身です。",
+  "exampleReading": "とむはひとりみです。",
+  "exampleMeaning": "Tom belum menikah."
  },
  {
   "word": "束",
@@ -5814,9 +5814,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lebar tangan, bundel",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "約束したよ。",
+  "exampleReading": "やくそくしたよ。",
+  "exampleMeaning": "Aku sudah berjanji padamu."
  },
  {
   "word": "具体",
@@ -5825,9 +5825,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "konkret, nyata, material",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "具体的に何を見たの？",
+  "exampleReading": "ぐたいてきになにをみたの？",
+  "exampleMeaning": "Apa sebenarnya yang kamu lihat?"
  },
  {
   "word": "額",
@@ -5836,9 +5836,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dahi, alis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは額をさすった。",
+  "exampleReading": "とむはがくをさすった。",
+  "exampleMeaning": "Tom mengusap keningnya."
  },
  {
   "word": "バン",
@@ -5847,9 +5847,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bun,van (karavan),VAN (jaringan bernilai tambah)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "好きなバンドは？",
+  "exampleReading": "すきなばんどは？",
+  "exampleMeaning": "Band apa yang kamu suka?"
  },
  {
   "word": "濃い",
@@ -5858,9 +5858,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "kental (seperti warna, cair), padat, kuat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "血は水より濃い。",
+  "exampleReading": "ちはみずよりこい。",
+  "exampleMeaning": "Darah lebih kental dari air."
  },
  {
   "word": "芸術",
@@ -5869,9 +5869,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seni (baik), seni",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは芸術なの？",
+  "exampleReading": "これはげいじゅつなの？",
+  "exampleMeaning": "Apakah ini seni?"
  },
  {
   "word": "市場",
@@ -5880,9 +5880,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "() pasar (sebagai sebuah konsep)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "市場は賑わっている。",
+  "exampleReading": "しじょうはにぎわっている。",
+  "exampleMeaning": "Pasar sedang ramai."
  },
  {
   "word": "トンネル",
@@ -5891,9 +5891,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terowongan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "汽車はトンネルを通り抜けた。",
+  "exampleReading": "きしゃはとんねるをとおりぬけた。",
+  "exampleMeaning": "Kereta melintasi terowongan."
  },
  {
   "word": "皮",
@@ -5902,9 +5902,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kulit, kulit, kulit, bulu, bulu, kulit kayu, cangkang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "捕らぬ狸の皮算用。",
+  "exampleReading": "とらぬたぬきのかわざんよう。",
+  "exampleMeaning": "Jangan hitung ayammu."
  },
  {
   "word": "滞在",
@@ -5913,9 +5913,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tinggal, singgah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大阪に滞在中です。",
+  "exampleReading": "おおさかにたいざいちゅうです。",
+  "exampleMeaning": "Saya tinggal di Osaka."
  },
  {
   "word": "じゃあ",
@@ -5924,9 +5924,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baiklah kalau begitu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "じゃあ、またね。",
+  "exampleReading": "じゃあ、またね。",
+  "exampleMeaning": "Sampai jumpa lagi."
  },
  {
   "word": "法",
@@ -5935,9 +5935,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "UU (hukum: UU X)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これって、違法？",
+  "exampleReading": "これって、いほう？",
+  "exampleMeaning": "Apakah ini ilegal?"
  },
  {
   "word": "不幸",
@@ -5946,9 +5946,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketidakbahagiaan, kesedihan, kemalangan, bencana, kecelakaan, kematian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は不幸らしい。",
+  "exampleReading": "かのじょはふこうらしい。",
+  "exampleMeaning": "Dia tampaknya tidak bahagia."
  },
  {
   "word": "愛する",
@@ -5957,9 +5957,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencintai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "愛は愛を愛する。",
+  "exampleReading": "あいはあいをあいする。",
+  "exampleMeaning": "Cinta mencintai cinta."
  },
  {
   "word": "悲しむ",
@@ -5979,9 +5979,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan pasti, tegas, sabar, diam-diam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ここでじっとしていろ。",
+  "exampleReading": "ここでじっとしていろ。",
+  "exampleMeaning": "Jangan beranjak dari sini."
  },
  {
   "word": "有能",
@@ -5990,9 +5990,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mampu, mampu, efisien, keterampilan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は有能な技師です。",
+  "exampleReading": "かれはゆうのうなぎしです。",
+  "exampleMeaning": "Dia adalah seorang insinyur yang cakap."
  },
  {
   "word": "拍手",
@@ -6001,9 +6001,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bertepuk tangan, tepuk tangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは拍手した。",
+  "exampleReading": "とむははくしゅした。",
+  "exampleMeaning": "Tom bertepuk tangan."
  },
  {
   "word": "立場",
@@ -6012,9 +6012,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sudut pandang, posisi, situasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私の立場をわかってくれ。",
+  "exampleReading": "わたしのたちばをわかってくれ。",
+  "exampleMeaning": "Tolong pahami posisi saya."
  },
  {
   "word": "無視",
@@ -6023,9 +6023,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "abaikan, abaikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どうして無視するの？",
+  "exampleReading": "どうしてむしするの？",
+  "exampleMeaning": "Mengapa kamu mengabaikanku?"
  },
  {
   "word": "立ち上がる",
@@ -6034,9 +6034,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berdiri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "立ち上がるの手伝って。",
+  "exampleReading": "たちあがるのてつだって。",
+  "exampleMeaning": "Bantu aku berdiri."
  },
  {
   "word": "半ば",
@@ -6045,9 +6045,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tengah, setengah, semi, setengah jalan, sebagian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは７０代半ばです。",
+  "exampleReading": "とむはななぜろだいなかばです。",
+  "exampleMeaning": "Tom berusia pertengahan tujuh puluhan."
  },
  {
   "word": "兎",
@@ -6056,9 +6056,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelinci, kelinci, kelinci",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "兎は耳が良いんだ。",
+  "exampleReading": "うさぎはみみがよいんだ。",
+  "exampleMeaning": "Kelinci mempunyai indera pendengaran yang baik."
  },
  {
   "word": "おしゃべり",
@@ -6067,9 +6067,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ngobrol, ngobrol, omong kosong",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムはおしゃべりだ。",
+  "exampleReading": "とむはおしゃべりだ。",
+  "exampleMeaning": "Tom banyak bicara."
  },
  {
   "word": "正午",
@@ -6078,9 +6078,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "siang, tengah hari",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは正午についた。",
+  "exampleReading": "とむはしょうごについた。",
+  "exampleMeaning": "Tom tiba pada siang hari."
  },
  {
   "word": "関する",
@@ -6089,9 +6089,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menjadi perhatian, untuk menjadi terkait",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは星に関する本です。",
+  "exampleReading": "これはほしにかんするほんです。",
+  "exampleMeaning": "Ini adalah buku tentang bintang."
  },
  {
   "word": "いつか",
@@ -6100,9 +6100,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suatu saat nanti, suatu hari nanti, suatu hari nanti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "旅行はいつから？",
+  "exampleReading": "りょこうはいつから？",
+  "exampleMeaning": "Kapan Anda memulai perjalanan Anda?"
  },
  {
   "word": "仲間",
@@ -6111,9 +6111,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perusahaan, rekan, kolega, rekanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私たちは仲間です。",
+  "exampleReading": "わたしたちはなかまです。",
+  "exampleMeaning": "Kami berteman."
  },
  {
   "word": "級",
@@ -6122,9 +6122,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelas, kelas, pangkat, kelas sekolah, kelas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "同級生なんです。",
+  "exampleReading": "どうきゅうせいなんです。",
+  "exampleMeaning": "Mereka teman sekelas."
  },
  {
   "word": "感心",
@@ -6133,9 +6133,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kekaguman,Bagus sekali!",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君の勇気には感心する。",
+  "exampleReading": "きみのゆうきにはかんしんする。",
+  "exampleMeaning": "Saya mengagumi keberanian Anda."
  },
  {
   "word": "穴",
@@ -6144,9 +6144,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lubang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は穴を掘った。",
+  "exampleReading": "かれはあなをほった。",
+  "exampleMeaning": "Dia menggali lubang."
  },
  {
   "word": "ドレス",
@@ -6155,9 +6155,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gaun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "メールアドレス何？",
+  "exampleReading": "めーるあどれすなに？",
+  "exampleMeaning": "Apa alamat email Anda?"
  },
  {
   "word": "便り",
@@ -6166,9 +6166,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berita, kabar, informasi, korespondensi, surat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "便りをください。",
+  "exampleReading": "たよりをください。",
+  "exampleMeaning": "Tetap berhubungan."
  },
  {
   "word": "求める",
@@ -6177,9 +6177,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mencari, meminta, menuntut, menginginkan, menginginkan, mencari, mengejar (kesenangan), berburu (pekerjaan),",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "死中に活を求める。",
+  "exampleReading": "しちゅうにかつをもとめる。",
+  "exampleMeaning": "Temukan kehidupan di antara kematian."
  },
  {
   "word": "裏切る",
@@ -6188,9 +6188,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengkhianati, untuk mengubah menjadi pengkhianat, untuk melakukan pengkhianatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ジョンはあなたを裏切るような人ではない。",
+  "exampleReading": "じょんはあなたをうらぎるようなひとではない。",
+  "exampleMeaning": "John bukanlah orang yang akan mengkhianatimu."
  },
  {
   "word": "日曜",
@@ -6199,9 +6199,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Minggu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "日曜まで雨です。",
+  "exampleReading": "にちようまであめです。",
+  "exampleMeaning": "Akan turun hujan sampai hari Minggu."
  },
  {
   "word": "相談",
@@ -6210,9 +6210,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konsultasi, diskusi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "医者に相談しなよ。",
+  "exampleReading": "いしゃにそうだんしなよ。",
+  "exampleMeaning": "Konsultasikan dengan dokter."
  },
  {
   "word": "生き物",
@@ -6221,9 +6221,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makhluk hidup, hewan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "火星に生き物はいるの？",
+  "exampleReading": "かせいにいきものはいるの？",
+  "exampleMeaning": "Apakah ada kehidupan di Mars?"
  },
  {
   "word": "助手",
@@ -6232,9 +6232,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pembantu, pembantu, asisten, tutor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは私の助手です。",
+  "exampleReading": "とむはわたしのじょしゅです。",
+  "exampleMeaning": "Tom adalah asisten saya."
  },
  {
   "word": "旧",
@@ -6243,9 +6243,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mantan-",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "奴は僕の旧友だ。",
+  "exampleReading": "やつはぼくのきゅうゆうだ。",
+  "exampleMeaning": "Dia adalah teman lama saya."
  },
  {
   "word": "叫ぶ",
@@ -6254,9 +6254,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "berteriak, menangis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女が叫ぶのを聞いた。",
+  "exampleReading": "かのじょがさけぶのをきいた。",
+  "exampleMeaning": "Kami mendengarnya menangis."
  },
  {
   "word": "なぜなら",
@@ -6265,9 +6265,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Karena",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "なぜならそこにあるからさ。",
+  "exampleReading": "なぜならそこにあるからさ。",
+  "exampleMeaning": "Karena itu ada di sana."
  },
  {
   "word": "金銭",
@@ -6276,9 +6276,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "uang, uang tunai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私たちは金銭的に彼を援助した。",
+  "exampleReading": "わたしたちはきんせんてきにかれをえんじょした。",
+  "exampleMeaning": "Kami membantunya dengan uang."
  },
  {
   "word": "合計",
@@ -6287,9 +6287,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jumlah total, jumlah total",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "合計は100だ。",
+  "exampleReading": "ごうけいは100だ。",
+  "exampleMeaning": "Totalnya seratus."
  },
  {
   "word": "うがい",
@@ -6298,9 +6298,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kumur, bilas mulut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "うがいはしたの？",
+  "exampleReading": "うがいはしたの？",
+  "exampleMeaning": "Sudahkah kamu berkumur?"
  },
  {
   "word": "ゆっくり",
@@ -6309,9 +6309,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perlahan, dengan tenang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ゆっくり見てね。",
+  "exampleReading": "ゆっくりみてね。",
+  "exampleMeaning": "Lihatlah pada waktu Anda sendiri."
  },
  {
   "word": "詩人",
@@ -6320,9 +6320,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penyair",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "アランは詩人です。",
+  "exampleReading": "あらんはしじんです。",
+  "exampleMeaning": "Alan adalah seorang penyair."
  },
  {
   "word": "機械",
@@ -6331,9 +6331,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mesin, mekanisme",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "機械は動いてる？",
+  "exampleReading": "きかいはうごいてる？",
+  "exampleMeaning": "Apakah mesinnya berjalan?"
  },
  {
   "word": "限界",
@@ -6342,9 +6342,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batas, terikat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "もう我慢の限界だ！",
+  "exampleReading": "もうがまんのげんかいだ！",
+  "exampleMeaning": "Ini adalah tantangan terakhir!"
  },
  {
   "word": "縄",
@@ -6353,9 +6353,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tali, rami",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "縄梯子、見っけ。",
+  "exampleReading": "なわばしご、みっけ。",
+  "exampleMeaning": "Saya telah menemukan tangga tali."
  },
  {
   "word": "金融",
@@ -6364,9 +6364,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sirkulasi moneter, situasi kredit",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "物価の上がり下がりが金融危機を引き起こした。",
+  "exampleReading": "ぶっかのあがりさがりがきんゆうききをひきおこした。",
+  "exampleMeaning": "Naik turunnya harga menyebabkan krisis keuangan."
  },
  {
   "word": "明かり",
@@ -6375,9 +6375,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cahaya lampu, cahaya (secara umum), kecerahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明かりを消して。",
+  "exampleReading": "あかりをけして。",
+  "exampleMeaning": "Matikan lampu."
  },
  {
   "word": "少しも",
@@ -6386,9 +6386,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "apa pun, tidak sedikit pun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "少しも疲れてないよ。",
+  "exampleReading": "すこしもつかれてないよ。",
+  "exampleMeaning": "Saya tidak sedikit lelah."
  },
  {
   "word": "終える",
@@ -6397,9 +6397,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyelesaikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "やり終えるのに３時間かかったよ。",
+  "exampleReading": "やりおえるのにさんじかんかかったよ。",
+  "exampleMeaning": "Butuh waktu tiga jam untuk menyelesaikannya."
  },
  {
   "word": "頃",
@@ -6408,9 +6408,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "waktu, tentang, menuju, kira-kira (waktu)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "近頃は就職難だ。",
+  "exampleReading": "ちかごろはしゅうしょくなんだ。",
+  "exampleMeaning": "Saat ini pekerjaan sulit didapat."
  },
  {
   "word": "冗談",
@@ -6419,9 +6419,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bercanda, bercanda",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "冗談キツっ！",
+  "exampleReading": "じょうだんきつっ！",
+  "exampleMeaning": "Lelucon itu sangat mengerikan!"
  },
  {
   "word": "正式",
@@ -6430,9 +6430,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bentuk hak, resmi, formalitas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ここの正式名称は何ですか？",
+  "exampleReading": "ここのせいしきめいしょうはなにですか？",
+  "exampleMeaning": "Apa nama resmi tempat ini?"
  },
  {
   "word": "式",
@@ -6441,9 +6441,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persamaan, rumus, upacara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "結婚式はいつなの？",
+  "exampleReading": "けっこんしきはいつなの？",
+  "exampleMeaning": "Kapan pernikahannya?"
  },
  {
   "word": "濠",
@@ -6463,9 +6463,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "kekerasan, keras, intens",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "激しい抵抗があった。",
+  "exampleReading": "はげしいていこうがあった。",
+  "exampleMeaning": "Terjadi pertentangan yang kuat."
  },
  {
   "word": "損",
@@ -6474,9 +6474,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerugian, kerugian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あせって損した。",
+  "exampleReading": "あせってそんした。",
+  "exampleMeaning": "Saya terburu-buru dan kehilangan uang."
  },
  {
   "word": "文字",
@@ -6485,9 +6485,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "huruf (abjad), karakter",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "文字が大きすぎ。",
+  "exampleReading": "もじがおおきすぎ。",
+  "exampleMeaning": "Fontnya terlalu besar."
  },
  {
   "word": "禁止",
@@ -6496,9 +6496,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "larangan, larangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "Ｕターン禁止よ。",
+  "exampleReading": "ゆーたーんきんしよ。",
+  "exampleMeaning": "Tidak ada putaran balik."
  },
  {
   "word": "きちんと",
@@ -6507,9 +6507,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tepatnya, secara akurat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "きちんと座りなさい。",
+  "exampleReading": "きちんとすわりなさい。",
+  "exampleMeaning": "Duduk tegak."
  },
  {
   "word": "茶",
@@ -6518,9 +6518,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お茶が冷めるよ。",
+  "exampleReading": "おちゃがさめるよ。",
+  "exampleMeaning": "Tehmu mulai dingin."
  },
  {
   "word": "幸運",
@@ -6529,9 +6529,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semoga beruntung, beruntung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "幸運を祈ります。",
+  "exampleReading": "こううんをいのります。",
+  "exampleMeaning": "Saya berharap yang terbaik untuk Anda."
  },
  {
   "word": "振る",
@@ -6540,9 +6540,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) melambai, menggoyang, mengayun, (2) memercikkan, (3) melemparkan (aktor), mengalokasikan (pekerjaan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "男らしく振る舞いなさい。",
+  "exampleReading": "おとこらしくふるまいなさい。",
+  "exampleMeaning": "Anda harus berperilaku seperti laki-laki."
  },
  {
   "word": "昨",
@@ -6551,9 +6551,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terakhir (tahun), kemarin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "昨日は暑かった？",
+  "exampleReading": "きのうはあつかった？",
+  "exampleMeaning": "Apakah kemarin panas?"
  },
  {
   "word": "注ぐ",
@@ -6562,9 +6562,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menuangkan (ke dalam), mengairi, membayar, mengisi, memberi makan (misalnya api)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "火に油を注ぐだけだ。",
+  "exampleReading": "ひにあぶらをそそぐだけだ。",
+  "exampleMeaning": "Itu hanya menambah bahan bakar ke dalam api."
  },
  {
   "word": "会計",
@@ -6573,9 +6573,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "akun, keuangan, akuntan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "会計監査があった。",
+  "exampleReading": "かいけいかんさがあった。",
+  "exampleMeaning": "Akun-akun tersebut telah diaudit."
  },
  {
   "word": "根",
@@ -6584,9 +6584,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "精根尽きました。",
+  "exampleReading": "せいこんつきました。",
+  "exampleMeaning": "Saya benar-benar kelelahan."
  },
  {
   "word": "温暖",
@@ -6595,9 +6595,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kehangatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これも温暖化の影響か？",
+  "exampleReading": "これもおんだんかのえいきょうか？",
+  "exampleMeaning": "Apakah ini dampak lain dari pemanasan global?"
  },
  {
   "word": "計",
@@ -6606,9 +6606,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rencana",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "合計は100だ。",
+  "exampleReading": "ごうけいは100だ。",
+  "exampleMeaning": "Totalnya seratus."
  },
  {
   "word": "確実",
@@ -6617,9 +6617,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kepastian, keandalan, kesehatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この方法は確実だ。",
+  "exampleReading": "このほうほうはかくじつだ。",
+  "exampleMeaning": "Cara ini pasti berhasil."
  },
  {
   "word": "胸",
@@ -6628,9 +6628,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "payudara, dada",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "胸触ってもいい？",
+  "exampleReading": "むねさわってもいい？",
+  "exampleMeaning": "Bolehkah aku menyentuh dadamu?"
  },
  {
   "word": "記憶",
@@ -6639,9 +6639,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ingatan, ingatan, ingatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "兄は記憶力がいい。",
+  "exampleReading": "あにはきおくりょくがいい。",
+  "exampleMeaning": "Adikku memiliki ingatan yang baik."
  },
  {
   "word": "建築",
@@ -6650,9 +6650,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konstruksi, arsitektur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "父親は建築家でした。",
+  "exampleReading": "ちちおやはけんちくかでした。",
+  "exampleMeaning": "Ayah saya adalah seorang arsitek."
  },
  {
   "word": "煙",
@@ -6661,9 +6661,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "asap, asap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "館内は禁煙です。",
+  "exampleReading": "かんないはきんえんです。",
+  "exampleMeaning": "Dilarang merokok di dalam ruangan."
  },
  {
   "word": "あるいは",
@@ -6672,9 +6672,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atau, mungkin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あるいはそれは本当かもしれない。",
+  "exampleReading": "あるいはそれはほんとうかもしれない。",
+  "exampleMeaning": "Mungkin itu benar."
  },
  {
   "word": "いつでも",
@@ -6683,9 +6683,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(pada) kapan saja, selalu, setiap saat, tidak pernah (neg)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "いつでも力になるよ。",
+  "exampleReading": "いつでもちからになるよ。",
+  "exampleMeaning": "Saya selalu siap membantu Anda."
  },
  {
   "word": "知らせ",
@@ -6694,9 +6694,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "melihat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼らに知らせる。",
+  "exampleReading": "かれらにしらせる。",
+  "exampleMeaning": "Saya akan memberitahu mereka."
  },
  {
   "word": "いつまでも",
@@ -6705,9 +6705,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selamanya, selamanya, selama-lamanya, selama yang diinginkan, tanpa batas waktu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "いつまでも元気でね！",
+  "exampleReading": "いつまでもげんきでね！",
+  "exampleMeaning": "Jaga dirimu!"
  },
  {
   "word": "掲示",
@@ -6716,9 +6716,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perhatikan, buletin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "掲示板を新しいサーバーに移転しました。",
+  "exampleReading": "けいじばんをあたらしいさーばーにいてんしました。",
+  "exampleMeaning": "Saya memindahkan forum ke server baru."
  },
  {
   "word": "刺激",
@@ -6727,9 +6727,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "stimulus, dorongan, insentif",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは好奇心が刺激されるよ。",
+  "exampleReading": "これはこうきしんがしげきされるよ。",
+  "exampleMeaning": "Hal ini membangkitkan rasa penasaran saya."
  },
  {
   "word": "診察",
@@ -6738,9 +6738,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemeriksaan kesehatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "診察しましょう。",
+  "exampleReading": "しんさつしましょう。",
+  "exampleMeaning": "Aku akan memberimu pemeriksaan."
  },
  {
   "word": "機関",
@@ -6749,9 +6749,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "organ, mekanisme, fasilitas, mesin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その町の交通機関は大変よい。",
+  "exampleReading": "そのまちのこうつうきかんはたいへんよい。",
+  "exampleMeaning": "Sistem transportasi di kota tersebut cukup baik."
  },
  {
   "word": "戻す",
@@ -6760,9 +6760,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memulihkan, untuk mengembalikan, untuk mengembalikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "戻す寸前だった。",
+  "exampleReading": "もどすすんぜんだった。",
+  "exampleMeaning": "Saya hampir muntah."
  },
  {
   "word": "石油",
@@ -6771,9 +6771,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "minyak, minyak bumi, minyak tanah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは石油で財を成した。",
+  "exampleReading": "とむはせきゆでざいをなした。",
+  "exampleMeaning": "Tom menghasilkan banyak uang dari minyak."
  },
  {
   "word": "駄目",
@@ -6782,9 +6782,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak berguna, tidak bagus, tidak ada harapan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "諦めちゃ駄目だ。",
+  "exampleReading": "あきらめちゃだめだ。",
+  "exampleMeaning": "Jangan menyerah!"
  },
  {
   "word": "食欲",
@@ -6793,9 +6793,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nafsu makan (untuk makanan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "最近食欲が無い。",
+  "exampleReading": "さいきんしょくよくがない。",
+  "exampleMeaning": "Nafsu makanku buruk akhir-akhir ini."
  },
  {
   "word": "抱える",
@@ -6804,9 +6804,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memegang atau membawa di bawah atau di lengan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "世界が抱える最も重大な問題は悪人の強さではなく善人の弱さである。",
+  "exampleReading": "せかいがかかえるもっともじゅうだいなもんだいはあくにんのつよさではなくぜんにんのよわさである。",
+  "exampleMeaning": "Masalah paling serius yang dihadapi dunia bukanlah kekuatan orang jahat, namun ketidakberdayaan orang baik."
  },
  {
   "word": "破産",
@@ -6815,9 +6815,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(pribadi) kebangkrutan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは破産申請をした。",
+  "exampleReading": "とむははさんしんせいをした。",
+  "exampleMeaning": "Tom telah mengajukan kebangkrutan."
  },
  {
   "word": "印刷",
@@ -6826,9 +6826,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pencetakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "すぐ印刷します。",
+  "exampleReading": "すぐいんさつします。",
+  "exampleMeaning": "Saya akan mencetaknya dengan cepat."
  },
  {
   "word": "対する",
@@ -6837,9 +6837,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menghadapi, menghadapi, menentang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは反対するかもよ。",
+  "exampleReading": "とむははんたいするかもよ。",
+  "exampleMeaning": "Tom mungkin keberatan."
  },
  {
   "word": "名",
@@ -6848,9 +6848,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nama, reputasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これが本名？",
+  "exampleReading": "これがほんみょう？",
+  "exampleMeaning": "Apakah ini nama aslimu?"
  },
  {
   "word": "見当",
@@ -6859,9 +6859,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ditemukan, membidik, memperkirakan, menebak, kira-kira",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "鍵が見当たらない。",
+  "exampleReading": "かぎがみあたらない。",
+  "exampleMeaning": "Saya tidak dapat menemukan kunci saya."
  },
  {
   "word": "すると",
@@ -6870,9 +6870,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "setelah itu, setelah itu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私がああすると痛い？",
+  "exampleReading": "わたしがああするといたい？",
+  "exampleMeaning": "Apakah sakit saat aku melakukan itu?"
  },
  {
   "word": "言わば",
@@ -6881,9 +6881,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bisa dikatakan begitu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は私の最も親しい友人で、言わば兄弟だ。",
+  "exampleReading": "かれはわたしのもっともしたしいゆうじんで、いわばきょうだいだ。",
+  "exampleMeaning": "Dia adalah teman terdekatku;"
  },
  {
   "word": "分ける",
@@ -6892,9 +6892,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membagi, untuk memisahkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "善悪を見分けることは簡単です。",
+  "exampleReading": "ぜんあくをみわけることはかんたんです。",
+  "exampleMeaning": "Sangat mudah untuk membedakan yang baik dari yang jahat."
  },
  {
   "word": "象",
@@ -6903,9 +6903,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gajah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "象は草を食べる。",
+  "exampleReading": "ぞうはくさをたべる。",
+  "exampleMeaning": "Gajah memakan rumput."
  },
  {
   "word": "陽気",
@@ -6914,9 +6914,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "musim, cuaca, keceriaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はいつも陽気だ。",
+  "exampleReading": "かれはいつもようきだ。",
+  "exampleMeaning": "Dia selalu ceria."
  },
  {
   "word": "許す",
@@ -6925,9 +6925,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengizinkan, mengizinkan, menyetujui",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼には気を許すな。",
+  "exampleReading": "かれにはきをゆるすな。",
+  "exampleMeaning": "Waspadalah terhadap dia."
  },
  {
   "word": "人種",
@@ -6936,9 +6936,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ras (orang)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は人種差別と戦った。",
+  "exampleReading": "かれはじんしゅさべつとたたかった。",
+  "exampleMeaning": "Dia berjuang melawan diskriminasi rasial."
  },
  {
   "word": "縁",
@@ -6947,9 +6947,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sarana, mis.",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "押し付けた縁は続かぬ。",
+  "exampleReading": "おしつけたえんはつづかぬ。",
+  "exampleMeaning": "Cinta tidak bisa dipaksakan."
  },
  {
   "word": "黙る",
@@ -6969,9 +6969,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rekan, mitra, perusahaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "話し相手が欲しい。",
+  "exampleReading": "はなしあいてがほしい。",
+  "exampleMeaning": "Aku butuh seseorang untuk diajak bicara."
  },
  {
   "word": "決心",
@@ -6980,9 +6980,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tekad, resolusi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは決心した。",
+  "exampleReading": "とむはけっしんした。",
+  "exampleMeaning": "Tom membuat keputusan."
  },
  {
   "word": "愛情",
@@ -6991,9 +6991,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cinta, kasih sayang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼の愛情が薄れてきた。",
+  "exampleReading": "かれのあいじょうがうすれてきた。",
+  "exampleMeaning": "Rasa sayang dia padaku semakin berkurang."
  },
  {
   "word": "幸福",
@@ -7002,9 +7002,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebahagiaan, berkah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "自由は幸福です。",
+  "exampleReading": "じゆうはこうふくです。",
+  "exampleMeaning": "Kebebasan adalah kebahagiaan."
  },
  {
   "word": "やがて",
@@ -7013,9 +7013,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tak lama lagi, segera, panjang lebar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "やがて静かになった。",
+  "exampleReading": "やがてしずかになった。",
+  "exampleMeaning": "Akhirnya suasana menjadi sunyi."
  },
  {
   "word": "量",
@@ -7024,9 +7024,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kuantitas, jumlah, volume, porsi (makanan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "馬の斤量を測る。",
+  "exampleReading": "うまのきんりょうをはかる。",
+  "exampleMeaning": "Saya akan mengukur berat kudanya."
  },
  {
   "word": "豪華",
@@ -7035,9 +7035,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "indah, cantik, kemegahan, kemegahan, pemborosan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "豪華客船が港に入った。",
+  "exampleReading": "ごうかきゃくせんがみなとにはいった。",
+  "exampleMeaning": "Sebuah kapal mewah tiba di pelabuhan."
  },
  {
   "word": "有利",
@@ -7046,9 +7046,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menguntungkan, lebih baik, menguntungkan, menguntungkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は私より有利だ。",
+  "exampleReading": "かのじょはわたしよりゆうりだ。",
+  "exampleMeaning": "Dia memiliki keunggulan dibandingkan saya."
  },
  {
   "word": "引用",
@@ -7057,9 +7057,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kutipan, kutipan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "引用元はどこですか？",
+  "exampleReading": "いんようもとはどこですか？",
+  "exampleMeaning": "Dari mana kutipan itu?"
  },
  {
   "word": "チーズ",
@@ -7068,9 +7068,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keju",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "チーズ食べたの誰？",
+  "exampleReading": "ちーずたべたのだれ？",
+  "exampleMeaning": "Siapa yang makan kejunya?"
  },
  {
   "word": "桜",
@@ -7079,9 +7079,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bunga sakura, pohon ceri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "桜が大好きです。",
+  "exampleReading": "さくらがだいすきです。",
+  "exampleMeaning": "Saya suka bunga sakura."
  },
  {
   "word": "人込み",
@@ -7090,9 +7090,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerumunan orang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "２人なら仲間、３人は人込み。",
+  "exampleReading": "ににんならなかま、さんにんはひとごみ。",
+  "exampleMeaning": "Dua orang ditemani, tapi tiga orang adalah kerumunan."
  },
  {
   "word": "仲",
@@ -7101,9 +7101,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hubungan, hubungan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "仲直りしたいな。",
+  "exampleReading": "なかなおりしたいな。",
+  "exampleMeaning": "Aku ingin kita kembali bersama."
  },
  {
   "word": "論文",
@@ -7112,9 +7112,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tesis, esai, risalah, makalah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼の論文は申し分ない。",
+  "exampleReading": "かれのろんぶんはもうしぶんない。",
+  "exampleMeaning": "Tesisnya tidak meninggalkan apa pun yang diinginkan."
  },
  {
   "word": "約",
@@ -7123,9 +7123,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kira-kira, tentang, beberapa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "契約したの？",
+  "exampleReading": "けいやくしたの？",
+  "exampleMeaning": "Apakah Anda menandatangani kontrak?"
  },
  {
   "word": "防ぐ",
@@ -7134,9 +7134,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membela (melawan), untuk melindungi, untuk mencegah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "冷蔵庫は食品の腐敗を防ぐ。",
+  "exampleReading": "れいぞうこはしょくひんのふはいをふせぐ。",
+  "exampleMeaning": "Kulkas menjaga makanan dari pembusukan."
  },
  {
   "word": "美人",
@@ -7145,9 +7145,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang cantik (wanita)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女も美人です。",
+  "exampleReading": "かのじょもびじんです。",
+  "exampleMeaning": "Dia cantik juga."
  },
  {
   "word": "ミス",
@@ -7156,9 +7156,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rindu (kesalahan, kesalahan, kegagalan), Nona",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "すまんミスった。",
+  "exampleReading": "すまんみすった。",
+  "exampleMeaning": "Maaf, saya melakukan kesalahan."
  },
  {
   "word": "予報",
@@ -7167,9 +7167,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perkiraan, prediksi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "天気予報はどうですか？",
+  "exampleReading": "てんきよほうはどうですか？",
+  "exampleMeaning": "Bagaimana ramalan cuacanya?"
  },
  {
   "word": "毛布",
@@ -7178,9 +7178,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selimut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "毛布をください。",
+  "exampleReading": "もうふをください。",
+  "exampleMeaning": "Bisakah saya mendapatkan selimut?"
  },
  {
   "word": "賛成",
@@ -7189,9 +7189,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persetujuan, persetujuan, dukungan, bantuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "速攻で賛成した。",
+  "exampleReading": "そっこうでさんせいした。",
+  "exampleMeaning": "Saya langsung setuju."
  },
  {
   "word": "発見",
@@ -7200,9 +7200,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penemuan, deteksi, penemuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は発見をした。",
+  "exampleReading": "わたしははっけんをした。",
+  "exampleMeaning": "Saya telah menemukan sesuatu."
  },
  {
   "word": "素晴らしい",
@@ -7211,9 +7211,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "luar biasa, indah, luar biasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "素晴らしい話だ！",
+  "exampleReading": "すばらしいはなしだ！",
+  "exampleMeaning": "Sebuah cerita yang sangat indah!"
  },
  {
   "word": "輪",
@@ -7222,9 +7222,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cincin, lingkaran, lingkaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それって、指輪？",
+  "exampleReading": "それって、ゆびわ？",
+  "exampleMeaning": "Apakah itu sebuah cincin?"
  },
  {
   "word": "見舞い",
@@ -7233,9 +7233,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertanyaan, ekspresi simpati, ekspresi keprihatinan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お見舞いありがとう。",
+  "exampleReading": "おみまいありがとう。",
+  "exampleMeaning": "Terima kasih sudah datang."
  },
  {
   "word": "巨大",
@@ -7244,9 +7244,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besar, raksasa, dahsyat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "天王星は巨大だ。",
+  "exampleReading": "てんおうせいはきょだいだ。",
+  "exampleMeaning": "Uranus sangat besar."
  },
  {
   "word": "苦しい",
@@ -7255,9 +7255,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "menyakitkan, sulit",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "息苦しいんです。",
+  "exampleReading": "いきぐるしいんです。",
+  "exampleMeaning": "Saya kesulitan bernapas."
  },
  {
   "word": "物価",
@@ -7266,9 +7266,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harga komoditas, harga (secara umum)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "物価上がりすぎ。",
+  "exampleReading": "ぶっかあがりすぎ。",
+  "exampleMeaning": "Biaya hidup meningkat terlalu tinggi."
  },
  {
   "word": "語る",
@@ -7277,9 +7277,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berbicara, menceritakan, membaca",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "夢は真実を語る。",
+  "exampleReading": "ゆめはしんじつをかたる。",
+  "exampleMeaning": "Mimpi mengatakan kebenaran."
  },
  {
   "word": "沈む",
@@ -7288,9 +7288,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "tenggelam, merasa tertekan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "日が沈むと寒くなった。",
+  "exampleReading": "ひがしずむとさむくなった。",
+  "exampleMeaning": "Cuaca menjadi dingin setelah matahari terbenam."
  },
  {
   "word": "中学",
@@ -7299,9 +7299,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "SMP, SMP",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は中学生です。",
+  "exampleReading": "わたしはちゅうがくせいです。",
+  "exampleMeaning": "Saya seorang siswa sekolah menengah pertama."
  },
  {
   "word": "盛り",
@@ -7310,9 +7310,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "membantu, melayani",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は今男盛りだ。",
+  "exampleReading": "かれはいまおざかりだ。",
+  "exampleMeaning": "Dia sekarang berada di puncak kedewasaan."
  },
  {
   "word": "実際",
@@ -7321,9 +7321,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "praktis, kondisi aktual, status quo",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "実際は何があったの？",
+  "exampleReading": "じっさいはなにがあったの？",
+  "exampleMeaning": "Apa yang sebenarnya terjadi?"
  },
  {
   "word": "模様",
@@ -7332,9 +7332,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pola, gambar, desain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "空模様が怪しい。",
+  "exampleReading": "そらもようがあやしい。",
+  "exampleMeaning": "Langit tampak marah."
  },
  {
   "word": "触れる",
@@ -7343,9 +7343,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menyentuh, disentuh, menyentuh subjek, merasakan, melanggar (hukum, hak cipta, dll.), merasakan, t",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ボタンに触れるな！",
+  "exampleReading": "ぼたんにふれるな！",
+  "exampleMeaning": "Jangan sentuh tombol itu!"
  },
  {
   "word": "直ちに",
@@ -7354,9 +7354,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekaligus, segera, secara langsung, secara langsung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "直ちに中止してください。",
+  "exampleReading": "ただちにちゅうししてください。",
+  "exampleMeaning": "Segera hentikan."
  },
  {
   "word": "断る",
@@ -7365,9 +7365,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menolak, menolak, memberhentikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "僕だったら、断るな。",
+  "exampleReading": "ぼくだったら、ことわるな。",
+  "exampleMeaning": "Aku akan bilang tidak jika aku jadi kamu."
  },
  {
   "word": "何",
@@ -7387,9 +7387,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk lulus, untuk gagal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "時が経つのは早い。",
+  "exampleReading": "ときがたつのははやい。",
+  "exampleMeaning": "Waktu berlalu dengan cepat."
  },
  {
   "word": "張る",
@@ -7398,9 +7398,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menempel, untuk menempel",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "頑張る価値があるのか？",
+  "exampleReading": "がんばるかちがあるのか？",
+  "exampleMeaning": "Apakah itu sepadan dengan usahanya?"
  },
  {
   "word": "土曜",
@@ -7409,9 +7409,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Sabtu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日は土曜日だ。",
+  "exampleReading": "あしたはどようびだ。",
+  "exampleMeaning": "Besok adalah hari Sabtu."
  },
  {
   "word": "服装",
@@ -7420,9 +7420,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pakaian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は服装にうるさい。",
+  "exampleReading": "かのじょはふくそうにうるさい。",
+  "exampleMeaning": "Dia sangat memperhatikan apa yang dia kenakan."
  },
  {
   "word": "塵",
@@ -7431,9 +7431,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "debu, kotoran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "塵も積もれば山となる。",
+  "exampleReading": "ちりもつもればやまとなる。",
+  "exampleMeaning": "Banyak yang sedikit menghasilkan uang."
  },
  {
   "word": "河",
@@ -7442,9 +7442,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sungai, aliran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "陸に上がった河童。",
+  "exampleReading": "りくにあがったかっぱ。",
+  "exampleMeaning": "Seekor ikan keluar dari air."
  },
  {
   "word": "議会",
@@ -7453,9 +7453,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Diet, kongres, parlemen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "連邦予算はかろうじて議会の承認を得た。",
+  "exampleReading": "れんぽうよさんはかろうじてぎかいのしょうにんをえた。",
+  "exampleMeaning": "Anggaran federal disetujui secara tipis oleh Kongres."
  },
  {
   "word": "できる",
@@ -7464,9 +7464,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dapat, untuk bersiap, untuk terjadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "イメージできる？",
+  "exampleReading": "いめーじできる？",
+  "exampleMeaning": "Bisakah Anda membayangkannya?"
  },
  {
   "word": "発表",
@@ -7475,9 +7475,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengumuman, publikasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "２人は婚約を発表した。",
+  "exampleReading": "ににんはこんやくをはっぴょうした。",
+  "exampleMeaning": "Mereka telah mengumumkan pertunangan mereka."
  },
  {
   "word": "勤め",
@@ -7486,9 +7486,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pelayanan, tugas, bisnis, tanggung jawab, tugas, (2) layanan keagamaan Buddha",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どちらにお勤めですか。",
+  "exampleReading": "どちらにおつとめですか。",
+  "exampleMeaning": "Untuk siapa Anda bekerja?"
  },
  {
   "word": "影響",
@@ -7497,9 +7497,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengaruh, efek",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これも温暖化の影響か？",
+  "exampleReading": "これもおんだんかのえいきょうか？",
+  "exampleMeaning": "Apakah ini dampak lain dari pemanasan global?"
  },
  {
   "word": "実行",
@@ -7508,9 +7508,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "latihan, kinerja, eksekusi (misalnya program), realisasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "僕はすぐに実行した。",
+  "exampleReading": "ぼくはすぐにじっこうした。",
+  "exampleMeaning": "Saya tidak membuang waktu untuk melakukannya."
  },
  {
   "word": "素",
@@ -7519,9 +7519,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "utama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "１１は素数です。",
+  "exampleReading": "いちいちはそすうです。",
+  "exampleMeaning": "Sebelas adalah bilangan prima."
  },
  {
   "word": "髪の毛",
@@ -7530,9 +7530,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rambut (kepala)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "髪の毛が超ボサボサ！",
+  "exampleReading": "かみのけがちょうボサボサ！",
+  "exampleMeaning": "Rambutku berantakan sekali!"
  },
  {
   "word": "およそ",
@@ -7541,9 +7541,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tentang, kira-kira, sebagai suatu peraturan, kira-kira",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私はおよそ５０ドル払った。",
+  "exampleReading": "わたしはおよそごぜろどるはらった。",
+  "exampleMeaning": "Saya membayar sejumlah lima puluh dolar."
  },
  {
   "word": "宿",
@@ -7552,9 +7552,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penginapan, penginapan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "宿題は済んだの？",
+  "exampleReading": "しゅくだいはすんだの？",
+  "exampleMeaning": "Apakah kamu sudah selesai dengan pekerjaan rumahmu?"
  },
  {
   "word": "ずっと",
@@ -7563,9 +7563,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berturut-turut, secara keseluruhan, banyak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人生ずっと勉強。",
+  "exampleReading": "じんせいずっとべんきょう。",
+  "exampleMeaning": "Anda harus mempelajari seluruh hidup Anda."
  },
  {
   "word": "撃つ",
@@ -7574,9 +7574,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyerang, mengalahkan, menghancurkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "待て！まだ撃つな！",
+  "exampleReading": "まて！まだうつな！",
+  "exampleMeaning": "Tunggu!"
  },
  {
   "word": "食物",
@@ -7585,9 +7585,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makanan, bahan makanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "食物は生きるために必要だ。",
+  "exampleReading": "しょくもつはいきるためにひつようだ。",
+  "exampleMeaning": "Makanan sangat penting bagi kehidupan."
  },
  {
   "word": "期待",
@@ -7596,9 +7596,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "harapan, antisipasi, harapan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "期待しないでね。",
+  "exampleReading": "きたいしないでね。",
+  "exampleMeaning": "Jangan menahan nafasmu."
  },
  {
   "word": "健康",
@@ -7607,9 +7607,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesehatan, suara, sehat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は健康そうだ。",
+  "exampleReading": "かれはけんこうそうだ。",
+  "exampleMeaning": "Dia terlihat sehat."
  },
  {
   "word": "インク",
@@ -7618,9 +7618,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tinta",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は私にウインクした。",
+  "exampleReading": "かれはわたしにういんくした。",
+  "exampleMeaning": "Dia mengedipkan mata padaku."
  },
  {
   "word": "脇",
@@ -7629,9 +7629,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "samping",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "脇腹が痛みます。",
+  "exampleReading": "わきばらがいたみます。",
+  "exampleMeaning": "Saya merasakan sakit di sisi saya."
  },
  {
   "word": "務め",
@@ -7640,9 +7640,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pelayanan, tugas, (2) pelayanan keagamaan Budha",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は議長を務めた。",
+  "exampleReading": "かれはぎちょうをつとめた。",
+  "exampleMeaning": "Dia bertindak sebagai ketua."
  },
  {
   "word": "真似",
@@ -7651,9 +7651,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mimikri, peniruan, perilaku, kepura-puraan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "真似しないでよ。",
+  "exampleReading": "まねしないでよ。",
+  "exampleMeaning": "Jangan meniru saya."
  },
  {
   "word": "銃",
@@ -7662,9 +7662,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pistol",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "銃の音を聞いた。",
+  "exampleReading": "じゅうのおとをきいた。",
+  "exampleMeaning": "Saya mendengar suara tembakan pistol."
  },
  {
   "word": "心理",
@@ -7673,9 +7673,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mentalitas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は児童心理学専攻だ。",
+  "exampleReading": "かのじょはじどうしんりがくせんこうだ。",
+  "exampleMeaning": "Dia mengambil jurusan psikologi anak."
  },
  {
   "word": "代金",
@@ -7684,9 +7684,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harga, pembayaran, biaya, biaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あの靴の代金は払ったの？",
+  "exampleReading": "あのくつのだいきんははらったの？",
+  "exampleMeaning": "Apakah Anda membayar sepatu itu?"
  },
  {
   "word": "何で",
@@ -7695,9 +7695,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Mengapa?, Untuk apa?",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "名字は何ですか？",
+  "exampleReading": "みょうじはなにですか？",
+  "exampleMeaning": "Apa nama belakangmu?"
  },
  {
   "word": "札",
@@ -7706,9 +7706,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) token, label, (2) tiket, (3) pesona",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "札幌の出身です。",
+  "exampleReading": "さっぽろのしゅっしんです。",
+  "exampleMeaning": "Saya dari Sapporo."
  },
  {
   "word": "うん",
@@ -7717,9 +7717,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keberuntungan, keberuntungan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "うん、君は？",
+  "exampleReading": "うん、きみは？",
+  "exampleMeaning": "Bagus."
  },
  {
   "word": "座席",
@@ -7728,9 +7728,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kursi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "座席を予約しました。",
+  "exampleReading": "ざせきをよやくしました。",
+  "exampleMeaning": "Saya memesan tempat duduk."
  },
  {
   "word": "傷",
@@ -7739,9 +7739,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "luka, cedera, sakit, terpotong",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "火傷しなかった？",
+  "exampleReading": "かしょうしなかった？",
+  "exampleMeaning": "Bukankah kamu membakar dirimu sendiri?"
  },
  {
   "word": "重視",
@@ -7750,9 +7750,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kepentingan, stres, pertimbangan serius",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "高等学校では英語と数学が重視されている。",
+  "exampleReading": "こうとうがっこうではえいごとすうがくがじゅうしされている。",
+  "exampleMeaning": "Bahasa Inggris dan matematika banyak dipelajari di sekolah menengah atas."
  },
  {
   "word": "よい",
@@ -7761,9 +7761,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "bagus, bagus, menyenangkan, oke",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "よい週末を！",
+  "exampleReading": "よいしゅうまつを！",
+  "exampleMeaning": "Semoga akhir pekanmu menyenangkan!"
  },
  {
   "word": "販売",
@@ -7772,9 +7772,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penjualan, penjualan, pemasaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "灯油の販売車が来た。",
+  "exampleReading": "とうゆのはんばいしゃがきた。",
+  "exampleMeaning": "Sebuah truk penjual minyak tanah datang."
  },
  {
   "word": "プラス",
@@ -7783,9 +7783,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "plus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "プラスチックは割れにくい。",
+  "exampleReading": "ぷらすちっくはわれにくい。",
+  "exampleMeaning": "Plastik tidak mudah pecah."
  },
  {
   "word": "差",
@@ -7794,9 +7794,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perbedaan, variasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人差し指が痛い。",
+  "exampleReading": "ひとさしゆびがいたい。",
+  "exampleMeaning": "Jari telunjukku sakit."
  },
  {
   "word": "恋",
@@ -7805,9 +7805,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cinta, gairah lembut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "故郷が恋しいな。",
+  "exampleReading": "こきょうがこいしいな。",
+  "exampleMeaning": "Aku rindu kampung halamanku."
  },
  {
   "word": "筆",
@@ -7816,9 +7816,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kuas tulis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "鉛筆は持ってる？",
+  "exampleReading": "えんぴつはもってる？",
+  "exampleMeaning": "Apakah kamu punya pensil?"
  },
  {
   "word": "課",
@@ -7827,9 +7827,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "counter untuk bab (dari sebuah buku)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "課題は終わった？",
+  "exampleReading": "かだいはおわった？",
+  "exampleMeaning": "Sudahkah Anda menyelesaikan pekerjaan rumah Anda?"
  },
  {
   "word": "ボーイ",
@@ -7838,9 +7838,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anak laki-laki",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは本物のカウボーイだ。",
+  "exampleReading": "とむはほんもののかうぼーいだ。",
+  "exampleMeaning": "Tom adalah seorang koboi sejati."
  },
  {
   "word": "最も",
@@ -7849,9 +7849,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebagian besar, sangat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この科目が最も重要だ。",
+  "exampleReading": "このかもくがもっともじゅうようだ。",
+  "exampleMeaning": "Mata pelajaran ini adalah yang paling penting."
  },
  {
   "word": "態度",
@@ -7860,9 +7860,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sikap, cara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "態度に気を付けて。",
+  "exampleReading": "たいどにきをつけて。",
+  "exampleMeaning": "Berperilakulah sendiri."
  },
  {
   "word": "偉大",
@@ -7871,9 +7871,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebesaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は偉大な科学者だ。",
+  "exampleReading": "かれはいだいなかがくしゃだ。",
+  "exampleMeaning": "Dia adalah seorang ilmuwan hebat."
  },
  {
   "word": "雇う",
@@ -7882,9 +7882,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mempekerjakan, untuk mempekerjakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今は新しい人を雇うことが出来ない。",
+  "exampleReading": "いまはあたらしいひとをやとうことができない。",
+  "exampleMeaning": "Kami tidak dapat mempekerjakan orang baru saat ini."
  },
  {
   "word": "岸",
@@ -7893,9 +7893,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bank, pantai, pantai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "東海岸出身です。",
+  "exampleReading": "ひがしかいがんしゅっしんです。",
+  "exampleMeaning": "Saya dari Pantai Timur."
  },
  {
   "word": "途端",
@@ -7904,9 +7904,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hanya (sekarang, saat ini, dll.)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "座った途端、寝てしまった。",
+  "exampleReading": "すわったとたん、ねてしまった。",
+  "exampleMeaning": "Saat saya duduk, saya tertidur."
  },
  {
   "word": "覚悟",
@@ -7915,9 +7915,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "resolusi, pengunduran diri, kesiapan, kesiapsiagaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "死ぬ覚悟でやれ。",
+  "exampleReading": "しぬかくごでやれ。",
+  "exampleMeaning": "Lakukan atau mati."
  },
  {
   "word": "出発",
@@ -7926,9 +7926,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keberangkatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日出発するの？",
+  "exampleReading": "あしたしゅっぱつするの？",
+  "exampleMeaning": "Apakah kamu akan berangkat besok?"
  },
  {
   "word": "誘う",
@@ -7937,9 +7937,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) mengajak, meminta, (2) menggoda, memikat, membujuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムを誘うの忘れたでしょう？",
+  "exampleReading": "とむをさそうのわすれたでしょう？",
+  "exampleMeaning": "Anda lupa mengundang Tom, bukan?"
  },
  {
   "word": "紐",
@@ -7948,9 +7948,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) tali, tali, (2) germo",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "靴の紐を結びなさい。",
+  "exampleReading": "くつのひもをむすびなさい。",
+  "exampleMeaning": "Ikat tali sepatu Anda."
  },
  {
   "word": "泡",
@@ -7959,9 +7959,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gelembung, busa, buih, minum bir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "長年の苦労が水の泡だ。",
+  "exampleReading": "ながねんのくろうがみずのあわだ。",
+  "exampleMeaning": "Upaya bertahun-tahun tidak membuahkan hasil."
  },
  {
   "word": "丸",
@@ -7970,9 +7970,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lingkaran, penuh (bulan), kesempurnaan, kemurnian, akhiran nama kapal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は丸顔です。",
+  "exampleReading": "かのじょはまるがおです。",
+  "exampleMeaning": "Dia memiliki wajah bulat."
  },
  {
   "word": "加わる",
@@ -7981,9 +7981,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bergabung, untuk mengaksesi, untuk meningkatkan, untuk mendapatkan (pengaruh)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私たちは彼が加わるのを当然だと思った。",
+  "exampleReading": "わたしたちはかれがくわわるのをとうぜんだとおもった。",
+  "exampleMeaning": "Kami menerima begitu saja bahwa dia akan bergabung dengan kami."
  },
  {
   "word": "実現",
@@ -7992,9 +7992,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pelaksanaan, perwujudan, realisasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "神託は実現した。",
+  "exampleReading": "しんたくはじつげんした。",
+  "exampleMeaning": "Ramalan itu terpenuhi."
  },
  {
   "word": "日光",
@@ -8003,9 +8003,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sinar matahari",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私、日光アレルギーなの。",
+  "exampleReading": "わたし、にっこうあれるぎーなの。",
+  "exampleMeaning": "Saya alergi terhadap sinar matahari."
  },
  {
   "word": "信仰",
@@ -8014,9 +8014,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(agama) iman, keyakinan, keyakinan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "信仰は山をも動かす。",
+  "exampleReading": "しんこうはやまをもうごかす。",
+  "exampleMeaning": "Iman dapat memindahkan gunung."
  },
  {
   "word": "印象",
@@ -8025,9 +8025,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "第一印象は大切だ。",
+  "exampleReading": "だいいちいんしょうはたいせつだ。",
+  "exampleMeaning": "Kesan pertama itu penting."
  },
  {
   "word": "眺め",
@@ -8036,9 +8036,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemandangan, pemandangan, prospek, pandangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "外を眺めていた。",
+  "exampleReading": "そとをながめていた。",
+  "exampleMeaning": "Saya sedang melihat ke luar."
  },
  {
   "word": "まるで",
@@ -8047,9 +8047,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cukup, seluruhnya, seluruhnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "湖面はまるで鏡のようだ。",
+  "exampleReading": "こめんはまるでかがみのようだ。",
+  "exampleMeaning": "Permukaan danau ini hampir seperti cermin."
  },
  {
   "word": "生まれ",
@@ -8058,9 +8058,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelahiran, tempat lahir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "京都生まれです。",
+  "exampleReading": "きょうとうまれです。",
+  "exampleMeaning": "Saya lahir di Kyoto."
  },
  {
   "word": "極",
@@ -8069,9 +8069,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cukup, sangat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "見て、北極星よ。",
+  "exampleReading": "みて、ほっきょくせいよ。",
+  "exampleMeaning": "Lihat, itu Bintang Utara."
  },
  {
   "word": "単なる",
@@ -8080,9 +8080,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "belaka, sederhana, belaka",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "単なる推測だろ。",
+  "exampleReading": "たんなるすいそくだろ。",
+  "exampleMeaning": "Anda hanya menebak."
  },
  {
   "word": "筋",
@@ -8091,9 +8091,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "otot, tali, garis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "体中筋肉痛だよ。",
+  "exampleReading": "からだちゅうきんにくつうだよ。",
+  "exampleMeaning": "Semua ototku terasa sakit."
  },
  {
   "word": "種類",
@@ -8102,9 +8102,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "variasi, jenis, tipe",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "パンの種類を3つ挙げてみて。",
+  "exampleReading": "ぱんのしゅるいを3つあげてみて。",
+  "exampleMeaning": "Sebutkan tiga jenis roti."
  },
  {
   "word": "打つ",
@@ -8113,9 +8113,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memukul, untuk menyerang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "牡丹餅で腰打つ。",
+  "exampleReading": "ぼたもちでこしうつ。",
+  "exampleMeaning": "Rotinya diolesi mentega di kedua sisinya."
  },
  {
   "word": "しまい",
@@ -8124,9 +8124,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "saudara perempuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "死んでしまいたい！",
+  "exampleReading": "しんでしまいたい！",
+  "exampleMeaning": "Saya berharap saya sudah mati."
  },
  {
   "word": "球",
@@ -8135,9 +8135,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bola dunia, bola, bola",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "野球はどうかな？",
+  "exampleReading": "やきゅうはどうかな？",
+  "exampleMeaning": "Bagaimana kalau bermain bisbol?"
  },
  {
   "word": "石炭",
@@ -8146,9 +8146,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batu bara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "石炭は化石燃料だ。",
+  "exampleReading": "せきたんはかせきねんりょうだ。",
+  "exampleMeaning": "Batubara merupakan bahan bakar fosil."
  },
  {
   "word": "今回",
@@ -8157,9 +8157,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekarang, kali ini, akhir-akhir ini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今回はしないよ。",
+  "exampleReading": "こんかいはしないよ。",
+  "exampleMeaning": "Saya tidak akan melakukannya kali ini."
  },
  {
   "word": "しまった",
@@ -8168,9 +8168,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "Brengsek!",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "うわ、しまった！",
+  "exampleReading": "うわ、しまった！",
+  "exampleMeaning": "Oh tidak!"
  },
  {
   "word": "不正",
@@ -8179,9 +8179,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketidakadilan, ketidakadilan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は不正行為をした。",
+  "exampleReading": "かれはふせいこういをした。",
+  "exampleMeaning": "Dia curang."
  },
  {
   "word": "全然",
@@ -8190,9 +8190,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) seluruhnya, seluruhnya, seluruhnya, (2) tidak sama sekali (dengan kata kerja neg.)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "全然問題ないよ！",
+  "exampleReading": "ぜんぜんもんだいないよ！",
+  "exampleMeaning": "Tidak ada masalah sama sekali!"
  },
  {
   "word": "切れ",
@@ -8201,9 +8201,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kain, potong, potong, potong",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "時間切れですか？",
+  "exampleReading": "じかんぎれですか？",
+  "exampleMeaning": "Apakah waktuku sudah habis?"
  },
  {
   "word": "こんなに",
@@ -8212,9 +8212,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jadi, seperti ini, dengan cara ini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "なんでこんなに安いの？",
+  "exampleReading": "なんでこんなにやすいの？",
+  "exampleMeaning": "Kenapa murah sekali?"
  },
  {
   "word": "可",
@@ -8223,9 +8223,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mendingan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "可能性あるかな？",
+  "exampleReading": "かのうせいあるかな？",
+  "exampleMeaning": "Apakah mungkin?"
  },
  {
   "word": "改善",
@@ -8234,9 +8234,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perbaikan, perbaikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "状況は改善の余地がある。",
+  "exampleReading": "じょうきょうはかいぜんのよちがある。",
+  "exampleMeaning": "Situasinya bisa diperbaiki."
  },
  {
   "word": "野",
@@ -8245,9 +8245,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bidang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "なんだこの野郎！",
+  "exampleReading": "なんだこのやろう！",
+  "exampleMeaning": "Dasar bajingan!"
  },
  {
   "word": "ドラマ",
@@ -8256,9 +8256,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "drama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "韓国ドラマを見る？",
+  "exampleReading": "かんこくどらまをみる？",
+  "exampleMeaning": "Apakah Anda menonton drama Korea?"
  },
  {
   "word": "捕まる",
@@ -8267,9 +8267,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk ditangkap, untuk ditangkap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "警察に捕まるかと思った。",
+  "exampleReading": "けいさつにつかまるかとおもった。",
+  "exampleMeaning": "Saya pikir saya akan ditangkap oleh polisi."
  },
  {
   "word": "等",
@@ -8278,9 +8278,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dan lain-lain, dsb., dan sejenisnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "上等じゃないか！",
+  "exampleReading": "じょうとうじゃないか！",
+  "exampleMeaning": "Ayo!"
  },
  {
   "word": "通じる",
@@ -8289,9 +8289,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berlari ke, untuk memimpin, untuk berkomunikasi, untuk memahami",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "落石で村へ通じる唯一の道が通れなくなった。",
+  "exampleReading": "らくせきでむらへつうじるゆいいつのみちがとおれなくなった。",
+  "exampleMeaning": "Batuan yang berjatuhan memutus satu-satunya akses ke desa tersebut."
  },
  {
   "word": "似合う",
@@ -8300,9 +8300,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menyesuaikan, mencocokkan, menjadi, menjadi seperti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "本当によく似合う。",
+  "exampleReading": "ほんとうによくにあう。",
+  "exampleMeaning": "Itu sangat cocok untukmu."
  },
  {
   "word": "松",
@@ -8311,9 +8311,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pohon pinus, (2) tertinggi (dari sistem peringkat tiga tingkat)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは松の木です。",
+  "exampleReading": "それはまつのきです。",
+  "exampleMeaning": "Itu pohon pinus."
  },
  {
   "word": "噂",
@@ -8322,9 +8322,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rumor, laporan, gosip, pembicaraan umum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "噂話が好きでね。",
+  "exampleReading": "うわさばなしがすきでね。",
+  "exampleMeaning": "Saya suka bergosip."
  },
  {
   "word": "鍋",
@@ -8333,9 +8333,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "panci, panci",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "鍋の水は満杯だった。",
+  "exampleReading": "なべのみずはまんぱいだった。",
+  "exampleMeaning": "Panci itu berisi air."
  },
  {
   "word": "克服",
@@ -8344,9 +8344,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penaklukan, penaklukan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人類は多くの困難を克服してきた。",
+  "exampleReading": "じんるいはおおくのこんなんをこくふくしてきた。",
+  "exampleMeaning": "Manusia telah mengatasi banyak kesulitan."
  },
  {
   "word": "意識",
@@ -8355,9 +8355,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kesadaran, indera",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "意識がありません。",
+  "exampleReading": "いしきがありません。",
+  "exampleMeaning": "Dia tidak sadarkan diri."
  },
  {
   "word": "善",
@@ -8366,9 +8366,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baik, baik, benar, kebajikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "善処いたします。",
+  "exampleReading": "ぜんしょいたします。",
+  "exampleMeaning": "Saya harus pergi dan melihat apa yang bisa saya lakukan."
  },
  {
   "word": "熱中",
@@ -8377,9 +8377,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "gila!,antusiasme,semangat,mania",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は野球に熱中している。",
+  "exampleReading": "かれはやきゅうにねっちゅうしている。",
+  "exampleMeaning": "Dia tergila-gila pada bisbol."
  },
  {
   "word": "劣る",
@@ -8399,9 +8399,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemuda, anak muda",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "男子トイレは2階です。",
+  "exampleReading": "だんしといれは2かいです。",
+  "exampleMeaning": "Kamar kecil pria ada di lantai dua."
  },
  {
   "word": "恐怖",
@@ -8410,9 +8410,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "takut, takut, cemas, teror",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "恐怖におののいた。",
+  "exampleReading": "きょうふにおののいた。",
+  "exampleMeaning": "saya ngeri."
  },
  {
   "word": "そこで",
@@ -8421,9 +8421,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jadi (konj), oleh karena itu, sekarang, nanti, setelahnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そこで待ってて。",
+  "exampleReading": "そこでまってて。",
+  "exampleMeaning": "Tunggu di sana."
  },
  {
   "word": "いらっしゃい",
@@ -8432,9 +8432,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selamat datang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "いらっしゃいませ！",
+  "exampleReading": "いらっしゃいませ！",
+  "exampleMeaning": "Selamat datang!"
  },
  {
   "word": "終",
@@ -8443,9 +8443,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akhir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "終わったよ！",
+  "exampleReading": "おわったよ！",
+  "exampleMeaning": "Selesai!"
  },
  {
   "word": "主義",
@@ -8454,9 +8454,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "doktrin, aturan, prinsip",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "民主主義って何？",
+  "exampleReading": "みんしゅしゅぎってなに？",
+  "exampleMeaning": "Apa itu demokrasi?"
  },
  {
   "word": "叩く",
@@ -8465,9 +8465,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memukul, bertepuk tangan, memukul, memukul",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "戸を叩く音がした。",
+  "exampleReading": "とをたたくおとがした。",
+  "exampleMeaning": "Saya mendengar ketukan di pintu."
  },
  {
   "word": "準備",
@@ -8476,9 +8476,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persiapan, pengaturan, penyediaan, cadangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "みんな準備完了？",
+  "exampleReading": "みんなじゅんびかんりょう？",
+  "exampleMeaning": "Apakah semuanya siap?"
  },
  {
   "word": "軍",
@@ -8487,9 +8487,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tentara, kekuatan, pasukan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は陸軍士官だ。",
+  "exampleReading": "かれはりくぐんしかんだ。",
+  "exampleMeaning": "Dia adalah seorang perwira militer."
  },
  {
   "word": "苦労",
@@ -8498,9 +8498,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "masalah, kesulitan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ご苦労様でした。",
+  "exampleReading": "ごくろうさまでした。",
+  "exampleMeaning": "Terima kasih atas masalah Anda."
  },
  {
   "word": "高価",
@@ -8509,9 +8509,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harga tinggi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "絹は高価なんだよ。",
+  "exampleReading": "きぬはこうかなんだよ。",
+  "exampleMeaning": "Sutra itu mahal."
  },
  {
   "word": "逆",
@@ -8520,9 +8520,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terbalik, berlawanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私に逆らうのか？",
+  "exampleReading": "わたしにさからうのか？",
+  "exampleMeaning": "Apakah kamu tidak menaatiku?"
  },
  {
   "word": "旗",
@@ -8531,9 +8531,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bendera",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は旗をかかげた。",
+  "exampleReading": "かれははたをかかげた。",
+  "exampleMeaning": "Dia memasang bendera."
  },
  {
   "word": "不",
@@ -8542,9 +8542,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "un,non, awalan negatif",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "不眠症なの？",
+  "exampleReading": "ふみんしょうなの？",
+  "exampleMeaning": "Apakah Anda menderita susah tidur?"
  },
  {
   "word": "仏",
@@ -8553,9 +8553,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Buddha, orang yang penyayang, gambar Buddha, orang mati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "仏の顔も三度まで。",
+  "exampleReading": "ふつのかおもさんどまで。",
+  "exampleMeaning": "Anda hanya bisa melangkah sejauh ini."
  },
  {
   "word": "側",
@@ -8564,9 +8564,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "samping, tepi, orang ketiga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "窓は外側に開いた。",
+  "exampleReading": "まどはそとがわにひらいた。",
+  "exampleMeaning": "Jendela terbuka ke luar."
  },
  {
   "word": "運動",
@@ -8575,9 +8575,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "gerak, latihan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは運動した。",
+  "exampleReading": "とむはうんどうした。",
+  "exampleMeaning": "Tom berolahraga."
  },
  {
   "word": "先ず",
@@ -8586,9 +8586,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertama (dari semuanya),untuk memulai dengan,tentang,hampir,hampir (dengan kata kerja neg.)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "先ずは、名前を決めないとね。",
+  "exampleReading": "まずは、なまえをきめないとね。",
+  "exampleMeaning": "Pertama-tama, kita harus memutuskan namanya."
  },
  {
   "word": "面",
@@ -8597,9 +8597,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wajah, mug, permukaan, fitur wajah, topeng, pelindung wajah, samping atau segi, sudut, halaman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "面白そうね！",
+  "exampleReading": "おもしろそうね！",
+  "exampleMeaning": "Kedengarannya seperti sebuah rencana!"
  },
  {
   "word": "見る",
@@ -8608,9 +8608,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melihat, untuk menonton",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "テレビって見る？",
+  "exampleReading": "てれびってみる？",
+  "exampleMeaning": "Apakah Anda menonton televisi?"
  },
  {
   "word": "トップ",
@@ -8619,9 +8619,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ストップって言ってね。",
+  "exampleReading": "すとっぷっていってね。",
+  "exampleMeaning": "Katakan kapan."
  },
  {
   "word": "出来るだけ",
@@ -8630,9 +8630,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "jika memungkinkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "出来るだけ早く来て。",
+  "exampleReading": "できるだけはやくきて。",
+  "exampleMeaning": "Datanglah sesegera mungkin."
  },
  {
   "word": "船",
@@ -8641,9 +8641,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapal, perahu, perahu, pelayaran, kapal, kapal uap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "船が沈んでいく。",
+  "exampleReading": "ふねがしずんでいく。",
+  "exampleMeaning": "Kapal itu tenggelam."
  },
  {
   "word": "中心",
@@ -8652,9 +8652,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pusat, inti, jantung, poros, penekanan, keseimbangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は自己中心です。",
+  "exampleReading": "かれはじこちゅうしんです。",
+  "exampleMeaning": "Dia egois."
  },
  {
   "word": "鬼",
@@ -8663,9 +8663,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ogre,demon,it (yaitu, dalam permainan kejar-kejaran)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "鬼ごっこしよう。",
+  "exampleReading": "おにごっこしよう。",
+  "exampleMeaning": "Ayo bermain kejar-kejaran."
  },
  {
   "word": "原",
@@ -8674,9 +8674,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lapangan, dataran, padang rumput, tundra, tegalan, hutan belantara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何がその原因だ？",
+  "exampleReading": "なにがそのげんいんだ？",
+  "exampleMeaning": "Apa penyebabnya?"
  },
  {
   "word": "見解",
@@ -8685,9 +8685,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pendapat, sudut pandang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それが私の見解だ。",
+  "exampleReading": "それがわたしのけんかいだ。",
+  "exampleMeaning": "Itu sudut pandang saya."
  },
  {
   "word": "監督",
@@ -8696,9 +8696,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengawasan, pengendalian, pengawasan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムの監督です。",
+  "exampleReading": "とむのかんとくです。",
+  "exampleMeaning": "Saya pelatih Tom."
  },
  {
   "word": "得る",
@@ -8707,9 +8707,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mendapatkan, untuk mendapatkan, untuk menang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それもあり得る。",
+  "exampleReading": "それもありえる。",
+  "exampleMeaning": "Itu mungkin."
  },
  {
   "word": "達する",
@@ -8718,9 +8718,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencapai, untuk mencapai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "練習すれば上達するよ。",
+  "exampleReading": "れんしゅうすればじょうたつするよ。",
+  "exampleMeaning": "Anda akan meningkat dengan latihan."
  },
  {
   "word": "本人",
@@ -8729,9 +8729,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang itu sendiri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は日本人です。",
+  "exampleReading": "かれはにっぽんじんです。",
+  "exampleMeaning": "Dia orang Jepang."
  },
  {
   "word": "品",
@@ -8740,9 +8740,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benda,barang,barang,martabat,barang (barang),konter untuk kursus makan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは不良品だ。",
+  "exampleReading": "これはふりょうひんだ。",
+  "exampleMeaning": "Ini cacat."
  },
  {
   "word": "故郷",
@@ -8751,9 +8751,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kota asal, tempat lahir, desa tua, desa bersejarah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "故郷が恋しいな。",
+  "exampleReading": "こきょうがこいしいな。",
+  "exampleMeaning": "Aku rindu kampung halamanku."
  },
  {
   "word": "困難",
@@ -8762,9 +8762,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesulitan, kesusahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "とても困難だった。",
+  "exampleReading": "とてもこんなんだった。",
+  "exampleMeaning": "Itu sangat sulit."
  },
  {
   "word": "調査",
@@ -8773,9 +8773,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyelidikan, pemeriksaan, penyelidikan, survei",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "国勢調査ってなに？",
+  "exampleReading": "こくせいちょうさってなに？",
+  "exampleMeaning": "Apa itu sensus?"
  },
  {
   "word": "我々",
@@ -8784,9 +8784,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Kami",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "我々は辞任します。",
+  "exampleReading": "われわれはじにんします。",
+  "exampleMeaning": "Kami mengundurkan diri."
  },
  {
   "word": "疲れ",
@@ -8795,9 +8795,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelelahan, kelelahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "疲れてきた？",
+  "exampleReading": "つかれてきた？",
+  "exampleMeaning": "Apakah kamu mulai lelah?"
  },
  {
   "word": "しゃべる",
@@ -8806,9 +8806,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk ngobrol, ngobrol, ngobrol",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今はしゃべるな。",
+  "exampleReading": "いまはしゃべるな。",
+  "exampleMeaning": "Jangan bicara sekarang."
  },
  {
   "word": "注",
@@ -8817,9 +8817,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anotasi, catatan penjelasan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これ、注文した？",
+  "exampleReading": "これ、ちゅうもんした？",
+  "exampleMeaning": "Apakah kamu memesan ini?"
  },
  {
   "word": "委員",
@@ -8828,9 +8828,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggota komite",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は委員会の委員だ。",
+  "exampleReading": "かれはいいんかいのいいんだ。",
+  "exampleMeaning": "Dia adalah anggota komite."
  },
  {
   "word": "輸入",
@@ -8839,9 +8839,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "impor, impor, pengenalan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "輸入車の需要は強い。",
+  "exampleReading": "ゆにゅうしゃのじゅようはつよい。",
+  "exampleMeaning": "Mobil impor banyak diminati."
  },
  {
   "word": "現代",
@@ -8850,9 +8850,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saat ini, zaman modern, masa kini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現代美術に興味はある？",
+  "exampleReading": "げんだいびじゅつにきょうみはある？",
+  "exampleMeaning": "Apakah Anda tertarik dengan seni modern?"
  },
  {
   "word": "金額",
@@ -8861,9 +8861,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sejumlah uang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "金額はいくらでもいいんです。",
+  "exampleReading": "きんがくはいくらでもいいんです。",
+  "exampleMeaning": "Jumlah uang berapa pun bisa digunakan."
  },
  {
   "word": "祝う",
@@ -8872,9 +8872,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengucapkan selamat, untuk merayakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "七夕は七月に祝う。",
+  "exampleReading": "たなばたはしちがつにいわう。",
+  "exampleMeaning": "Kami merayakan Tanabata pada bulan Juli."
  },
  {
   "word": "願う",
@@ -8883,9 +8883,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menginginkan, berharap, meminta",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "願うなら全ては君のもの。",
+  "exampleReading": "ねがうならすべてはきみのもの。",
+  "exampleMeaning": "Jika Anda mau, semuanya milik Anda."
  },
  {
   "word": "転ぶ",
@@ -8894,9 +8894,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "terjatuh, terjatuh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "赤ん坊はよく転ぶ。",
+  "exampleReading": "あかんぼうはよくころぶ。",
+  "exampleMeaning": "Bayi sering terjatuh."
  },
  {
   "word": "友人",
@@ -8905,9 +8905,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "友人たちが恋しい。",
+  "exampleReading": "ゆうじんたちがこいしい。",
+  "exampleMeaning": "Aku rindu teman-temanku."
  },
  {
   "word": "履く",
@@ -8916,9 +8916,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memakai, memakai (tubuh bagian bawah)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "木靴を履くのが好きだ。",
+  "exampleReading": "きぐつをはくのがすきだ。",
+  "exampleMeaning": "Saya suka memakai bakiak."
  },
  {
   "word": "作品",
@@ -8927,9 +8927,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekerjaan, karya, pertunjukan, produksi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "見事な作品ですね。",
+  "exampleReading": "みごとなさくひんですね。",
+  "exampleMeaning": "Ini adalah komposisi yang luar biasa."
  },
  {
   "word": "絶滅",
@@ -8938,9 +8938,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kehancuran, kepunahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "恐竜は大昔に絶滅した。",
+  "exampleReading": "きょうりゅうはおおむかしにぜつめつした。",
+  "exampleMeaning": "Dinosaurus sudah punah sejak lama."
  },
  {
   "word": "表情",
@@ -8949,9 +8949,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "raut wajah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は変な表情をしていた。",
+  "exampleReading": "かれはへんなひょうじょうをしていた。",
+  "exampleMeaning": "Dia mempunyai ekspresi aneh di wajahnya."
  },
  {
   "word": "言語",
@@ -8960,9 +8960,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "言語って難しい。",
+  "exampleReading": "げんごってむずかしい。",
+  "exampleMeaning": "Bahasa itu sulit."
  },
  {
   "word": "回",
@@ -8971,9 +8971,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "counter untuk kejadian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "発言を撤回しろ！",
+  "exampleReading": "はつげんをてっかいしろ！",
+  "exampleMeaning": "Tarik komentar Anda!"
  },
  {
   "word": "がっかり",
@@ -8982,9 +8982,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "merasa kecewa, sedih, putus asa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "がっかりしないで。",
+  "exampleReading": "がっかりしないで。",
+  "exampleMeaning": "Jangan berkecil hati."
  },
  {
   "word": "綿",
@@ -8993,9 +8993,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapas, bantalan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "見て、綿あめ売ってるよ。",
+  "exampleReading": "みて、めんあめうってるよ。",
+  "exampleMeaning": "Lihat!"
  },
  {
   "word": "大臣",
@@ -9004,9 +9004,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menteri kabinet",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "総理大臣が昨日辞職した。",
+  "exampleReading": "そうりだいじんがきのうじしょくした。",
+  "exampleMeaning": "Perdana Menteri mengundurkan diri kemarin."
  },
  {
   "word": "引退",
@@ -9015,9 +9015,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pensiun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは引退した。",
+  "exampleReading": "とむはいんたいした。",
+  "exampleMeaning": "Tom pensiun."
  },
  {
   "word": "女子",
@@ -9026,9 +9026,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wanita, gadis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は日本の女子高生です。",
+  "exampleReading": "わたしはにっぽんのじょしこうせいです。",
+  "exampleMeaning": "Saya seorang gadis SMA Jepang."
  },
  {
   "word": "褒める",
@@ -9037,9 +9037,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memuji, mengagumi, berbicara dengan baik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "国王はいつも自分を褒めるおべっか使いにうんざりしていたので彼らを遠くへ飛ばした。",
+  "exampleReading": "こくおうはいつもじぶんをほめるおべっかづかいにうんざりしていたのでかれらをとおくへとばした。",
+  "exampleMeaning": "Raja bosan dengan para penjilatnya yang selalu memujinya, jadi dia menyuruh mereka pergi."
  },
  {
   "word": "訓",
@@ -9048,9 +9048,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bacaan asli Jepang dari karakter Cina",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "５日間で地獄の特訓だ！",
+  "exampleReading": "ごにちかんでじごくのとっくんだ！",
+  "exampleMeaning": "Selama 5 hari kami akan berlatih sekuat tenaga!"
  },
  {
   "word": "少女",
@@ -9059,9 +9059,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "putri, nona muda, perawan, gadis, gadis kecil",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "アンは幼い少女です。",
+  "exampleReading": "あんはおさないしょうじょです。",
+  "exampleMeaning": "Ann adalah seorang gadis kecil."
  },
  {
   "word": "奪う",
@@ -9081,9 +9081,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lebih banyak lagi, lebih banyak lagi, lebih banyak lagi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "青年の顔は、一層あからんだ。",
+  "exampleReading": "せいねんのかおは、いっそうあからんだ。",
+  "exampleMeaning": "Wajah pemuda itu menjadi semakin merah."
  },
  {
   "word": "期間",
@@ -9092,9 +9092,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "periode, jangka waktu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "問題は期間だな。",
+  "exampleReading": "もんだいはきかんだな。",
+  "exampleMeaning": "Pertanyaannya adalah berapa lama."
  },
  {
   "word": "ロケット",
@@ -9103,9 +9103,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "liontin, roket",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ロケットで宇宙に行った。",
+  "exampleReading": "ろけっとでうちゅうにいった。",
+  "exampleMeaning": "Saya pergi ke luar angkasa dengan roket."
  },
  {
   "word": "掃除",
@@ -9114,9 +9114,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "membersihkan, menyapu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大掃除の時間よ。",
+  "exampleReading": "だいそうじのじかんよ。",
+  "exampleMeaning": "Saatnya untuk pembersihan musim semi."
  },
  {
   "word": "確認",
@@ -9125,9 +9125,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "afirmasi, konfirmasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ご確認ください。",
+  "exampleReading": "ごかくにんください。",
+  "exampleMeaning": "Mohon konfirmasi."
  },
  {
   "word": "向かい",
@@ -9136,9 +9136,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menghadap, di seberang, di seberang jalan, di sisi lain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "中心街に向かいます。",
+  "exampleReading": "ちゅうしんがいにむかいます。",
+  "exampleMeaning": "Aku akan pergi ke pusat kota."
  },
  {
   "word": "外す",
@@ -9147,9 +9147,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membuka, untuk menghapus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは値札を外すのを忘れていた。",
+  "exampleReading": "とむはねふだをはずすのをわすれていた。",
+  "exampleMeaning": "Tom lupa menghapus label harganya."
  },
  {
   "word": "問い",
@@ -9158,9 +9158,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertanyaan, pertanyaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "以下の問いに英語で答えよ。",
+  "exampleReading": "いかのといにえいごでこたえよ。",
+  "exampleMeaning": "Jawablah pertanyaan berikut dalam bahasa Inggris."
  },
  {
   "word": "伸ばす",
@@ -9169,9 +9169,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memanjangkan, merenggangkan, menjangkau, menumbuhkan (jenggot)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ビーチは子供が羽を伸ばすのに理想の場所だ。",
+  "exampleReading": "びーちはこどもがはねをのばすのにりそうのばしょだ。",
+  "exampleMeaning": "Pantai adalah tempat yang ideal bagi anak-anak untuk bersenang-senang."
  },
  {
   "word": "優れる",
@@ -9191,9 +9191,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "humor, emosi, suasana hati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "みんな不機嫌だ。",
+  "exampleReading": "みんなふきげんだ。",
+  "exampleMeaning": "Semua orang sedang dalam suasana hati yang buruk."
  },
  {
   "word": "予期",
@@ -9202,9 +9202,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "harapan, asumsikan akan terjadi, perkiraan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "予期せぬエラーが発生しました。",
+  "exampleReading": "よきせぬえらーがはっせいしました。",
+  "exampleMeaning": "Terjadi kesalahan yang tidak terduga."
  },
  {
   "word": "持ち上げる",
@@ -9213,9 +9213,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengangkat, untuk mengangkat, untuk menyanjung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私が持ち上げるには重すぎるよ。",
+  "exampleReading": "わたしがもちあげるにはおもすぎるよ。",
+  "exampleMeaning": "Terlalu berat untuk aku angkat."
  },
  {
   "word": "犯人",
@@ -9224,9 +9224,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pelaku, penjahat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "犯人はカナダ人でした。",
+  "exampleReading": "はんにんはかなだじんでした。",
+  "exampleMeaning": "Pelakunya adalah orang Kanada."
  },
  {
   "word": "資源",
@@ -9235,9 +9235,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sumber daya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "中国は天然資源が豊富だ。",
+  "exampleReading": "ちゅうごくはてんねんしげんがほうふだ。",
+  "exampleMeaning": "Tiongkok kaya akan sumber daya alam."
  },
  {
   "word": "乗せる",
@@ -9246,9 +9246,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menempatkan pada (sesuatu), untuk mengambil kapal, untuk memberi tumpangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "バスは乗客を乗せるために止まった。",
+  "exampleReading": "ばすはじょうきゃくをのせるためにとまった。",
+  "exampleMeaning": "Bus berhenti untuk mengambil penumpang."
  },
  {
   "word": "ベルト",
@@ -9257,9 +9257,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Sabuk untuk pakaian barat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "シートベルトはした？",
+  "exampleReading": "しーとべるとはした？",
+  "exampleMeaning": "Apakah Anda mengencangkan sabuk pengaman Anda?"
  },
  {
   "word": "過ごす",
@@ -9268,9 +9268,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melewati, untuk menghabiskan, untuk melewati, untuk mengatasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "連休は何して過ごす？",
+  "exampleReading": "れんきゅうはなにしてすごす？",
+  "exampleMeaning": "Apa yang akan kamu lakukan selama liburan?"
  },
  {
   "word": "対",
@@ -9279,9 +9279,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berpasangan, berpasangan, mengatur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "絶対に無理！",
+  "exampleReading": "ぜったいにむり！",
+  "exampleMeaning": "Saat babi terbang!"
  },
  {
   "word": "後者",
@@ -9290,9 +9290,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "yang terakhir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "後者より前者の方がいい。",
+  "exampleReading": "こうしゃよりぜんしゃのほうがいい。",
+  "exampleMeaning": "Yang pertama lebih baik dari yang kedua."
  },
  {
   "word": "姿",
@@ -9301,9 +9301,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sosok, bentuk, penampilan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "着物姿、素敵ね。",
+  "exampleReading": "きものすがた、すてきね。",
+  "exampleMeaning": "Kamu terlihat cantik dengan kimono."
  },
  {
   "word": "支出",
@@ -9312,9 +9312,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengeluaran, biaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "毎月の支出を減らす必要があります。",
+  "exampleReading": "まいつきのししゅつをへらすひつようがあります。",
+  "exampleMeaning": "Kita harus mengurangi pengeluaran bulanan kita."
  },
  {
   "word": "読書",
@@ -9323,9 +9323,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "membaca",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "趣味は読書です。",
+  "exampleReading": "しゅみはどくしょです。",
+  "exampleMeaning": "Membaca buku adalah hobi saya."
  },
  {
   "word": "霜",
@@ -9334,9 +9334,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "embun beku",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "霜で花が傷んだ。",
+  "exampleReading": "しもではながいたんだ。",
+  "exampleMeaning": "Frost menyentuh bunga-bunga itu."
  },
  {
   "word": "異なる",
@@ -9345,9 +9345,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "berbeda, berbeda, tidak setuju",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人の好みは異なる。",
+  "exampleReading": "ひとのこのみはことなる。",
+  "exampleMeaning": "Rasanya berbeda."
  },
  {
   "word": "例",
@@ -9356,9 +9356,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "misalnya, contoh, kasus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは例文です。",
+  "exampleReading": "これはれいぶんです。",
+  "exampleMeaning": "Ini adalah contoh kalimat."
  },
  {
   "word": "金",
@@ -9367,9 +9367,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) emas, (2) emas umum (shogi) (abbr)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お金はどこ？",
+  "exampleReading": "おかねはどこ？",
+  "exampleMeaning": "Dimana uangnya?"
  },
  {
   "word": "通信",
@@ -9378,9 +9378,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "korespondensi, komunikasi, berita, sinyal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "通信簿はもらってきたの？",
+  "exampleReading": "つうしんぼはもらってきたの？",
+  "exampleMeaning": "Apakah kamu sudah mendapatkan rapormu?"
  },
  {
   "word": "訓練",
@@ -9389,9 +9389,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "latihan, pelatihan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は避難訓練があった。",
+  "exampleReading": "きょうはひなんくんれんがあった。",
+  "exampleMeaning": "Ada latihan evakuasi hari ini."
  },
  {
   "word": "近頃",
@@ -9400,9 +9400,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akhir-akhir ini, baru-baru ini, saat ini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "近頃は就職難だ。",
+  "exampleReading": "ちかごろはしゅうしょくなんだ。",
+  "exampleMeaning": "Saat ini pekerjaan sulit didapat."
  },
  {
   "word": "プラン",
@@ -9411,9 +9411,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rencana",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "週末のプランは？",
+  "exampleReading": "しゅうまつのぷらんは？",
+  "exampleMeaning": "Apa yang akan kamu lakukan di akhir pekan?"
  },
  {
   "word": "登山",
@@ -9422,9 +9422,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pendakian gunung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "登山靴を買ったよ。",
+  "exampleReading": "とざんくつをかったよ。",
+  "exampleMeaning": "Saya membeli sepasang sepatu hiking."
  },
  {
   "word": "さっぱり",
@@ -9433,9 +9433,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "merasa segar, merasa lega, rapi, terpangkas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "さっぱりしたか？",
+  "exampleReading": "さっぱりしたか？",
+  "exampleMeaning": "Merasa segar?"
  },
  {
   "word": "タオル",
@@ -9444,9 +9444,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(tangan) handuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "タオルを絞ってよ。",
+  "exampleReading": "たおるをしぼってよ。",
+  "exampleMeaning": "Peras handuknya."
  },
  {
   "word": "国家",
@@ -9455,9 +9455,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "negara bagian, negara, bangsa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "台湾は国家です。",
+  "exampleReading": "たいわんはこっかです。",
+  "exampleMeaning": "Taiwan adalah sebuah negara."
  },
  {
   "word": "作家",
@@ -9466,9 +9466,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penulis, penulis, novelis, artis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は作家でもある。",
+  "exampleReading": "かれはさっかでもある。",
+  "exampleMeaning": "Dia juga seorang penulis."
  },
  {
   "word": "勿論",
@@ -9477,9 +9477,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tentu saja, tentu saja, tentu saja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "勿論最初の約束優先ということで謝ったわ。",
+  "exampleReading": "もちろんさいしょのやくそくゆうせんということであやまったわ。",
+  "exampleMeaning": "Tentu saja saya meminta maaf, mengatakan bahwa penunjukan pertama adalah prioritas."
  },
  {
   "word": "独身",
@@ -9488,9 +9488,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bujangan, lajang, belum menikah, selibat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "独身なんだよね？",
+  "exampleReading": "どくしんなんだよね？",
+  "exampleMeaning": "Anda lajang, bukan?"
  },
  {
   "word": "ですから",
@@ -9499,9 +9499,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Karena itu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "９時ですからもう失礼します。",
+  "exampleReading": "きゅうじですからもうしつれいします。",
+  "exampleMeaning": "Sekarang jam sembilan."
  },
  {
   "word": "休憩",
@@ -9510,9 +9510,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "istirahat, istirahat, istirahat, istirahat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "十分休憩しよう。",
+  "exampleReading": "じゅうぶんきゅうけいしよう。",
+  "exampleMeaning": "Mari kita istirahat 10 menit."
  },
  {
   "word": "ホーム",
@@ -9521,9 +9521,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) peron, (2) rumah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ホームシックなの？",
+  "exampleReading": "ほーむしっくなの？",
+  "exampleMeaning": "Apakah kamu rindu kampung halaman?"
  },
  {
   "word": "成人",
@@ -9532,9 +9532,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "dewasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "成人した娘がいるよ。",
+  "exampleReading": "せいじんしたむすめがいるよ。",
+  "exampleMeaning": "Saya memiliki seorang putri yang sudah dewasa."
  },
  {
   "word": "作業",
@@ -9543,9 +9543,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pekerjaan, operasi, manufaktur, tugas kelelahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "時間のかかる作業だよ。",
+  "exampleReading": "じかんのかかるさぎょうだよ。",
+  "exampleMeaning": "Ini adalah tugas yang memakan waktu."
  },
  {
   "word": "投票",
@@ -9554,9 +9554,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemungutan suara, jajak pendapat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "俺に投票してくれ！",
+  "exampleReading": "おれにとうひょうしてくれ！",
+  "exampleMeaning": "Pilih saya!"
  },
  {
   "word": "会",
@@ -9565,9 +9565,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertemuan, majelis, pesta, asosiasi, klub",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "会いたいよ！",
+  "exampleReading": "あいたいよ！",
+  "exampleMeaning": "Aku merindukanmu!"
  },
  {
   "word": "世間",
@@ -9576,9 +9576,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dunia, masyarakat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は世間知らずだ。",
+  "exampleReading": "かれはせけんしらずだ。",
+  "exampleMeaning": "Dia tidak tahu apa-apa tentang dunia."
  },
  {
   "word": "末",
@@ -9587,9 +9587,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akhir, bubuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今週末空いてる？",
+  "exampleReading": "こんしゅうまつあいてる？",
+  "exampleMeaning": "Apakah kamu ada waktu luang akhir pekan ini?"
  },
  {
   "word": "輝く",
@@ -9598,9 +9598,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "bersinar, berkilau, berkilau",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "水は日の光を受けて輝く。",
+  "exampleReading": "みずはひのひかりをうけてかがやく。",
+  "exampleMeaning": "Air berkilauan di bawah sinar matahari."
  },
  {
   "word": "活気",
@@ -9609,9 +9609,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "energi, keaktifan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この町は活気がない。",
+  "exampleReading": "このまちはかっきがない。",
+  "exampleMeaning": "Kota ini tidak ramai."
  },
  {
   "word": "金庫",
@@ -9620,9 +9620,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "brankas, brankas, perbendaharaan, penyedia dana",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "金庫は開いていた。",
+  "exampleReading": "きんこはひらいていた。",
+  "exampleMeaning": "Brankasnya terbuka."
  },
  {
   "word": "世話",
@@ -9631,9 +9631,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menjaga, membantu, membantu, membantu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "余計なお世話だ。",
+  "exampleReading": "よけいなおせわだ。",
+  "exampleMeaning": "Itu bukan urusanmu."
  },
  {
   "word": "旅",
@@ -9642,9 +9642,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perjalanan, perjalanan, perjalanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "旅行はいつから？",
+  "exampleReading": "りょこうはいつから？",
+  "exampleMeaning": "Kapan Anda memulai perjalanan Anda?"
  },
  {
   "word": "制限",
@@ -9653,9 +9653,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pembatasan, pengekangan, pembatasan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "制限速度ってある？",
+  "exampleReading": "せいげんそくどってある？",
+  "exampleMeaning": "Apakah ada batas kecepatan?"
  },
  {
   "word": "昇る",
@@ -9664,9 +9664,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bangkit, untuk naik, untuk naik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "毎日、日は昇る。",
+  "exampleReading": "まいにち、ひはのぼる。",
+  "exampleMeaning": "Matahari terbit setiap hari."
  },
  {
   "word": "王様",
@@ -9675,9 +9675,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "raja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "俺は世界の王様だよ！",
+  "exampleReading": "おれはせかいのおうさまだよ！",
+  "exampleMeaning": "Aku adalah raja dunia!"
  },
  {
   "word": "未だ",
@@ -9686,9 +9686,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "namun, masih, lebih dari itu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "戦争は未だに続いている。",
+  "exampleReading": "せんそうはいまだにつづいている。",
+  "exampleMeaning": "Perang masih berlangsung."
  },
  {
   "word": "記事",
@@ -9697,9 +9697,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "artikel, berita, laporan, akun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この記事、嘘だらけ。",
+  "exampleReading": "このきじ、うそだらけ。",
+  "exampleMeaning": "Artikel ini penuh dengan kebohongan."
  },
  {
   "word": "混乱",
@@ -9708,9 +9708,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kekacauan, kekacauan, kebingungan, kekacauan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムも混乱してた。",
+  "exampleReading": "とむもこんらんしてた。",
+  "exampleMeaning": "Tom juga bingung."
  },
  {
   "word": "給料",
@@ -9719,9 +9719,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gaji, upah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日は給料日だ。",
+  "exampleReading": "あしたはきゅうりょうびだ。",
+  "exampleMeaning": "Besok adalah hari gajian."
  },
  {
   "word": "男の人",
@@ -9730,9 +9730,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pria",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この男の人、誰？",
+  "exampleReading": "このおとこのひと、だれ？",
+  "exampleMeaning": "Siapa pria ini?"
  },
  {
   "word": "練習",
@@ -9741,9 +9741,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "praktik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "練習は熟達の道。",
+  "exampleReading": "れんしゅうはじゅくたつのみち。",
+  "exampleMeaning": "Latihan menjadi sempurna."
  },
  {
   "word": "アイスクリーム",
@@ -9752,9 +9752,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "es krim",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "アイスクリームが好きだ。",
+  "exampleReading": "あいすくりーむがすきだ。",
+  "exampleMeaning": "Saya suka es krim."
  },
  {
   "word": "一方",
@@ -9763,9 +9763,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) sebaliknya, (2) sementara itu, (3) hanya, sederhana, pada gilirannya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "謎は深くなる一方だ。",
+  "exampleReading": "なぞはふかくなるいっぽうだ。",
+  "exampleMeaning": "Misterinya semakin dalam."
  },
  {
   "word": "修理",
@@ -9774,9 +9774,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "memperbaiki, memperbaiki",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "修理してみるよ。",
+  "exampleReading": "しゅうりしてみるよ。",
+  "exampleMeaning": "Saya akan mencoba memperbaikinya."
  },
  {
   "word": "地",
@@ -9785,9 +9785,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bumi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "座り心地はいい？",
+  "exampleReading": "すわりごこちはいい？",
+  "exampleMeaning": "Apakah Anda duduk dengan nyaman?"
  },
  {
   "word": "クリスマス",
@@ -9796,9 +9796,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Natal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "メリークリスマス！",
+  "exampleReading": "めりーくりすます！",
+  "exampleMeaning": "Selamat natal!"
  },
  {
   "word": "では",
@@ -9807,9 +9807,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesempatan untuk keluar,kesempatan (untuk sukses),saat keberangkatan,mulai bekerja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "猫は人ではない！",
+  "exampleReading": "ねこはひとではない！",
+  "exampleMeaning": "Kucing bukan manusia!"
  },
  {
   "word": "表す",
@@ -9818,9 +9818,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengungkapkan, untuk menunjukkan, untuk mengungkapkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "酒は本心を表す。",
+  "exampleReading": "さけはほんしんをあらわす。",
+  "exampleMeaning": "Dalam anggur, ada kebenaran."
  },
  {
   "word": "ドライブ",
@@ -9829,9 +9829,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mengemudi, perjalanan dengan mobil, mengemudi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ドライブとかどう？",
+  "exampleReading": "どらいぶとかどう？",
+  "exampleMeaning": "Apa yang Anda katakan tentang pergi jalan-jalan?"
  },
  {
   "word": "好む",
@@ -9840,9 +9840,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyukai, untuk memilih",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "猫は肉より魚を好む。",
+  "exampleReading": "ねこはにくよりさかなをこのむ。",
+  "exampleMeaning": "Kucing lebih suka ikan daripada daging."
  },
  {
   "word": "助ける",
@@ -9851,9 +9851,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membantu, untuk menyelamatkan, untuk menyelamatkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ワインは消化を助ける。",
+  "exampleReading": "わいんはしょうかをたすける。",
+  "exampleMeaning": "Anggur membantu mencerna makanan."
  },
  {
   "word": "感情",
@@ -9862,9 +9862,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "emosi, perasaan, sentimen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そう感情的にならないで。",
+  "exampleReading": "そうかんじょうてきにならないで。",
+  "exampleMeaning": "Jangan terlalu emosional."
  },
  {
   "word": "溺れる",
@@ -9873,9 +9873,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk ditenggelamkan, untuk dinikmati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "溺れる者は藁をも掴む。",
+  "exampleReading": "おぼれるものはわらをもつかむ。",
+  "exampleMeaning": "Orang-orang yang tenggelam memegangi sedotan."
  },
  {
   "word": "抱く",
@@ -9884,9 +9884,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(sl) memeluk, memeluk, berlabuh, menghibur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "不満を抱く部下も多かった。",
+  "exampleReading": "ふまんをいだくぶかもおおかった。",
+  "exampleMeaning": "Banyak bawahan yang memendam keluhan."
  },
  {
   "word": "おまえ",
@@ -9895,9 +9895,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(fam) kamu (bernyanyi), kehadiran (tokoh tinggi)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "おまえの勝ちだ。",
+  "exampleReading": "おまえのかちだ。",
+  "exampleMeaning": "Anda menang."
  },
  {
   "word": "知識",
@@ -9906,9 +9906,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pengetahuan, informasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は知識欲旺盛だ。",
+  "exampleReading": "かれはちしきよくおうせいだ。",
+  "exampleMeaning": "Dia rakus akan pengetahuan."
  },
  {
   "word": "組合",
@@ -9917,9 +9917,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "asosiasi, serikat pekerja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "労働組合はストを呼びかけた。",
+  "exampleReading": "ろうどうくみあいはすとをよびかけた。",
+  "exampleMeaning": "Serikat buruh menyerukan pemogokan."
  },
  {
   "word": "首都",
@@ -9928,9 +9928,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ibu kota",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "東京は日本の首都だ。",
+  "exampleReading": "とうきょうはにっぽんのしゅとだ。",
+  "exampleMeaning": "Tokyo adalah ibu kota Jepang."
  },
  {
   "word": "党",
@@ -9939,9 +9939,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "partai (politik)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "卑怯者は悪党です。",
+  "exampleReading": "ひきょうしゃはあくとうです。",
+  "exampleMeaning": "Pengecut adalah bajingan."
  },
  {
   "word": "講演",
@@ -9950,9 +9950,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kuliah, alamat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "面白い講演だった？",
+  "exampleReading": "おもしろいこうえんだった？",
+  "exampleMeaning": "Apakah pidatonya menarik?"
  },
  {
   "word": "直接",
@@ -9961,9 +9961,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "langsung, segera, pribadi, langsung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムに直接言えよ。",
+  "exampleReading": "とむにちょくせついえよ。",
+  "exampleMeaning": "Beritahu Tom secara langsung."
  },
  {
   "word": "吐く",
@@ -9972,9 +9972,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) bernapas, (2) berbohong, (3) muntah, memuntahkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どうして貴方は嘘を吐くの？",
+  "exampleReading": "どうしてあなたはうそをはくの？",
+  "exampleMeaning": "Mengapa kamu berbohong?"
  },
  {
   "word": "雷",
@@ -9983,9 +9983,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "guruh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "雷鳴がとどろいた。",
+  "exampleReading": "らいめいがとどろいた。",
+  "exampleMeaning": "Guntur menderu."
  },
  {
   "word": "恩",
@@ -9994,9 +9994,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bantuan, kewajiban, hutang budi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "恩を仇で返すな。",
+  "exampleReading": "おんをきゅうでかえすな。",
+  "exampleMeaning": "Jangan gigit tangan yang memberimu makan."
  },
  {
   "word": "位置",
@@ -10005,9 +10005,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tempat, situasi, posisi, lokasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼の正位置はサードだ。",
+  "exampleReading": "かれのせいいちはさーどだ。",
+  "exampleMeaning": "Posisi normalnya adalah baseman ketiga."
  },
  {
   "word": "余裕",
@@ -10016,9 +10016,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "surplus, ketenangan, margin, ruangan, waktu, tunjangan, ruang lingkup, tali",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そんな余裕あるの？",
+  "exampleReading": "そんなよゆうあるの？",
+  "exampleMeaning": "Bisakah Anda membelinya?"
  },
  {
   "word": "覆う",
@@ -10027,9 +10027,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menutupi, untuk menyembunyikan, untuk menyembunyikan, untuk membungkus, untuk menyamarkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "富はあまたの苦痛を覆う。",
+  "exampleReading": "とみはあまたのくつうをおおう。",
+  "exampleMeaning": "Kekayaan menutupi banyak kesengsaraan."
  },
  {
   "word": "率",
@@ -10038,9 +10038,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tarif, rasio, proporsi, persentase",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は打率が高い。",
+  "exampleReading": "かれはだりつがたかい。",
+  "exampleMeaning": "Dia memiliki rata-rata pukulan yang tinggi."
  },
  {
   "word": "消費",
@@ -10049,9 +10049,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konsumsi, pengeluaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "価格は消費税込みです。",
+  "exampleReading": "かかくはしょうひぜいこみです。",
+  "exampleMeaning": "Harga tersebut sudah termasuk pajak konsumsi."
  },
  {
   "word": "精神",
@@ -10060,9 +10060,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pikiran, jiwa, hati, semangat, niat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "精神分析って何ですか？",
+  "exampleReading": "せいしんぶんせきってなにですか？",
+  "exampleMeaning": "Apa itu psikoanalisis?"
  },
  {
   "word": "いたずら",
@@ -10071,9 +10071,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menggoda, lelucon, trik, lelucon praktis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "またいたずらしたな！",
+  "exampleReading": "またいたずらしたな！",
+  "exampleMeaning": "Kamu melakukan kenakalan lagi!"
  },
  {
   "word": "吠える",
@@ -10082,9 +10082,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menggonggong, untuk teluk, untuk melolong, untuk melenguh, untuk mengaum, untuk menangis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムの犬は誰にも吠える。",
+  "exampleReading": "とむのいぬはだれにもほえる。",
+  "exampleMeaning": "Anjing Tom menggonggong pada semua orang."
  },
  {
   "word": "それとも",
@@ -10093,9 +10093,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atau, atau yang lain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "朝型？それとも夜型？",
+  "exampleReading": "ちょうがた？それともよるがた？",
+  "exampleMeaning": "Apakah Anda orang pagi atau orang malam?"
  },
  {
   "word": "手伝い",
@@ -10104,9 +10104,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bantuan, pembantu, asisten",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お手伝いします。",
+  "exampleReading": "おてつだいします。",
+  "exampleMeaning": "Kami akan membantu Anda."
  },
  {
   "word": "今後",
@@ -10115,9 +10115,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mulai sekarang, akhirat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今後話をしよう。",
+  "exampleReading": "こんごばなしをしよう。",
+  "exampleMeaning": "Mari kita bicara nanti."
  },
  {
   "word": "大気",
@@ -10126,9 +10126,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suasana",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "月に大気はない。",
+  "exampleReading": "つきにたいきはない。",
+  "exampleMeaning": "Tidak ada udara di bulan."
  },
  {
   "word": "全",
@@ -10137,9 +10137,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semua, keseluruhan, keseluruhan, lengkap, keseluruhan, panci",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "窓は全部閉めた？",
+  "exampleReading": "まどはぜんぶしめた？",
+  "exampleMeaning": "Sudahkah Anda menutup semua jendela?"
  },
  {
   "word": "下り",
@@ -10148,9 +10148,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "down-train (berangkat dari Tokyo)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は屋根から下りた。",
+  "exampleReading": "かのじょはやねからおりた。",
+  "exampleMeaning": "Dia turun dari atap."
  },
  {
   "word": "柄",
@@ -10159,9 +10159,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pegangan, pegangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お二人の間柄は？",
+  "exampleReading": "おににんのあいだがらは？",
+  "exampleMeaning": "Bagaimana hubungan Anda?"
  },
  {
   "word": "収穫",
@@ -10170,9 +10170,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "memanen, memanen, mengumpulkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日はブドウを収穫するんだ。",
+  "exampleReading": "あしたはぶどうをしゅうかくするんだ。",
+  "exampleMeaning": "Besok saya akan memanen anggur."
  },
  {
   "word": "反抗",
@@ -10181,9 +10181,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "oposisi, perlawanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "学生たちは権威に反抗した。",
+  "exampleReading": "がくせいたちはけんいにはんこうした。",
+  "exampleMeaning": "Para siswa memberontak melawan otoritas."
  },
  {
   "word": "参考",
@@ -10192,9 +10192,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "referensi, konsultasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "とても参考になります。",
+  "exampleReading": "とてもさんこうになります。",
+  "exampleMeaning": "Itu sangat membantu."
  },
  {
   "word": "あっ",
@@ -10203,9 +10203,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Ah!,Oh!",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あっ！あれ見て！",
+  "exampleReading": "あっ！あれみて！",
+  "exampleMeaning": "Oh, lihat itu."
  },
  {
   "word": "含む",
@@ -10214,9 +10214,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dipegang di mulut, untuk diingat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "霊長類は尾の無いサルだけでなく人間も含む。",
+  "exampleReading": "れいちょうるいはおのないさるだけでなくにんげんもふくむ。",
+  "exampleMeaning": "Primata tidak hanya mencakup kera, tetapi juga manusia."
  },
  {
   "word": "食糧",
@@ -10225,9 +10225,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketentuan, ransum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "食糧が不足している。",
+  "exampleReading": "しょくりょうがふそくしている。",
+  "exampleMeaning": "Persediaan makanan sudah menipis."
  },
  {
   "word": "範囲",
@@ -10236,9 +10236,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "luas, ruang lingkup, bola, jangkauan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "想定の範囲外だ。",
+  "exampleReading": "そうていのはんいがいだ。",
+  "exampleMeaning": "Saya tidak pernah membayangkan hal seperti ini."
  },
  {
   "word": "止す",
@@ -10247,9 +10247,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berhenti, untuk menghapuskan, untuk mengundurkan diri, untuk menyerah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "こんな規制は廃止すべきです。",
+  "exampleReading": "こんなきせいははいしすべきです。",
+  "exampleMeaning": "Peraturan ini harus kita hapus."
  },
  {
   "word": "妙",
@@ -10258,9 +10258,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aneh, tidak biasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "奇妙な話だった。",
+  "exampleReading": "きみょうなはなしだった。",
+  "exampleMeaning": "Itu adalah cerita yang aneh."
  },
  {
   "word": "センター",
@@ -10269,9 +10269,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebuah pusat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "コールセンターで働いてます。",
+  "exampleReading": "こーるせんたーではたらいてます。",
+  "exampleMeaning": "Saya bekerja di pusat panggilan."
  },
  {
   "word": "いつも",
@@ -10280,9 +10280,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "selalu, biasanya, setiap saat, tidak pernah (dengan kata kerja neg.)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "いつもこうなの？",
+  "exampleReading": "いつもこうなの？",
+  "exampleMeaning": "Apakah selalu seperti ini?"
  },
  {
   "word": "羽",
@@ -10291,9 +10291,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "counter untuk burung, counter untuk kelinci",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "１羽の鳥が空を飛んでいた。",
+  "exampleReading": "いちわのとりがそらをとんでいた。",
+  "exampleMeaning": "Seekor burung sedang terbang di langit."
  },
  {
   "word": "及ぼす",
@@ -10302,9 +10302,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengerahkan, menyebabkan, untuk berolahraga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "二酸化炭素は人に害を及ぼすこともあります。",
+  "exampleReading": "にさんかたんそはひとにがいをおよぼすこともあります。",
+  "exampleMeaning": "Karbon dioksida terkadang membahayakan manusia."
  },
  {
   "word": "減らす",
@@ -10313,9 +10313,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mereda, untuk mengurangi, untuk mengurangi, untuk memperpendek",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "体重を減らすのは簡単じゃないよ。",
+  "exampleReading": "たいじゅうをへらすのはかんたんじゃないよ。",
+  "exampleMeaning": "Memang tidak mudah untuk menurunkan berat badan."
  },
  {
   "word": "親しい",
@@ -10324,9 +10324,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "intim, dekat (misalnya teman)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は親しい友人だ。",
+  "exampleReading": "かれはしたしいゆうじんだ。",
+  "exampleMeaning": "Dia adalah teman dekat saya."
  },
  {
   "word": "笑顔",
@@ -10335,9 +10335,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wajah tersenyum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その笑顔いいね！",
+  "exampleReading": "そのえがおいいね！",
+  "exampleMeaning": "Saya suka senyuman itu!"
  },
  {
   "word": "知能",
@@ -10346,9 +10346,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecerdasan, otak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "類人猿は知能が高い。",
+  "exampleReading": "るいじんえんはちのうがたかい。",
+  "exampleMeaning": "Kera itu cerdas."
  },
  {
   "word": "辞める",
@@ -10357,9 +10357,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk pensiun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "辞めるべきだよ。",
+  "exampleReading": "やめるべきだよ。",
+  "exampleMeaning": "Anda harus berhenti."
  },
  {
   "word": "協力",
@@ -10368,9 +10368,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerjasama, kolaborasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ご協力に感謝します。",
+  "exampleReading": "ごきょうりょくにかんしゃします。",
+  "exampleMeaning": "Saya menghargai kerja sama Anda."
  },
  {
   "word": "キャンプ",
@@ -10379,9 +10379,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kamp",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "一緒にキャンプに行かない？",
+  "exampleReading": "いっしょにキャンプにいかない？",
+  "exampleMeaning": "Apakah Anda ingin pergi berkemah bersama kami?"
  },
  {
   "word": "章",
@@ -10390,9 +10390,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) bab, bagian, (2) medali",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "興味深い文章だね。",
+  "exampleReading": "きょうみぶかいぶんしょうだね。",
+  "exampleMeaning": "Itu kalimat yang menarik."
  },
  {
   "word": "ビデオ",
@@ -10401,9 +10401,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "video",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ビデオ見たい人いるの？",
+  "exampleReading": "びでおみたいひといるの？",
+  "exampleMeaning": "Siapa yang ingin menonton videonya?"
  },
  {
   "word": "集団",
@@ -10412,9 +10412,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelompok, massal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムがカルト集団に入ったって、本当？",
+  "exampleReading": "とむがかるとしゅうだんにはいったって、ほんとう？",
+  "exampleMeaning": "Benarkah Tom bergabung dengan aliran sesat?"
  },
  {
   "word": "明後日",
@@ -10423,9 +10423,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besok lusa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明後日は月曜日です。",
+  "exampleReading": "みょうごにちはげつようびです。",
+  "exampleMeaning": "Lusa adalah hari Senin."
  },
  {
   "word": "一言",
@@ -10434,9 +10434,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "satu kata",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "一言いいかしら？",
+  "exampleReading": "ひとこといいかしら？",
+  "exampleMeaning": "Bisakah saya mengatakan satu hal?"
  },
  {
   "word": "虫歯",
@@ -10445,9 +10445,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gigi berlubang, kerusakan gigi, gigi busuk, karies",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どうも虫歯のようです。",
+  "exampleReading": "どうもむしばのようです。",
+  "exampleMeaning": "Saya pikir saya memiliki gigi yang rusak."
  },
  {
   "word": "解決",
@@ -10456,9 +10456,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyelesaian, solusi, resolusi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何か解決策はあるの？",
+  "exampleReading": "なにかかいけつさくはあるの？",
+  "exampleMeaning": "Apakah ada solusi?"
  },
  {
   "word": "猿",
@@ -10467,9 +10467,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "monyet",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "猿まねはやめろ。",
+  "exampleReading": "さるまねはやめろ。",
+  "exampleMeaning": "Jangan menjadi peniru."
  },
  {
   "word": "塔",
@@ -10478,9 +10478,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menara, pagoda",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "遠くに塔が見えた。",
+  "exampleReading": "とおくにとうがみえた。",
+  "exampleMeaning": "Kami melihat menara di kejauhan."
  },
  {
   "word": "描く",
@@ -10489,9 +10489,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menggambar, melukis, membuat sketsa, menggambarkan, mendeskripsikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "絵を描くの好き？",
+  "exampleReading": "えをえがくのすき？",
+  "exampleMeaning": "Apakah kamu suka melukis?"
  },
  {
   "word": "そこ",
@@ -10500,9 +10500,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bawah, sol",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そこに行ったの？",
+  "exampleReading": "そこにいったの？",
+  "exampleMeaning": "Apakah kamu pergi ke sana?"
  },
  {
   "word": "お腹",
@@ -10511,9 +10511,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お腹へってるの？",
+  "exampleReading": "おなかへってるの？",
+  "exampleMeaning": "Apakah kamu lapar?"
  },
  {
   "word": "不可",
@@ -10522,9 +10522,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "salah, buruk, tidak pantas, tidak dapat dibenarkan, tidak disarankan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは不可欠です。",
+  "exampleReading": "それはふかけつです。",
+  "exampleMeaning": "Itu penting."
  },
  {
   "word": "議長",
@@ -10533,9 +10533,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketua",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "議長は辞職します。",
+  "exampleReading": "ぎちょうはじしょくします。",
+  "exampleMeaning": "Ketua akan mengundurkan diri."
  },
  {
   "word": "放送",
@@ -10544,9 +10544,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "siaran, penyiaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これ、生放送なの？",
+  "exampleReading": "これ、なまほうそうなの？",
+  "exampleMeaning": "Apakah ini siaran langsung?"
  },
  {
   "word": "支度",
@@ -10555,9 +10555,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persiapan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "冬支度は万端です！",
+  "exampleReading": "ふゆじたくはばんたんです！",
+  "exampleMeaning": "Persiapan musim dingin sudah selesai."
  },
  {
   "word": "作法",
@@ -10566,9 +10566,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sopan santun, etiket, kesopanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は全く作法を心得ていない。",
+  "exampleReading": "かれはまったくさほうをこころえていない。",
+  "exampleMeaning": "Dia sama sekali tidak memahami sopan santun."
  },
  {
   "word": "双子",
@@ -10577,9 +10577,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kembar, kembar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "本当に双子なの？",
+  "exampleReading": "ほんとうにふたごなの？",
+  "exampleMeaning": "Apakah kamu benar-benar kembar?"
  },
  {
   "word": "ジーンズ",
@@ -10588,9 +10588,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jeans",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ジーンズは完売しました。",
+  "exampleReading": "じーんずはかんばいしました。",
+  "exampleMeaning": "Kami kehabisan jeans."
  },
  {
   "word": "熱心",
@@ -10599,9 +10599,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semangat, antusiasme",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は勉強熱心だ。",
+  "exampleReading": "かれはべんきょうねっしんだ。",
+  "exampleMeaning": "Dia rajin dalam studinya."
  },
  {
   "word": "稼ぐ",
@@ -10610,9 +10610,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memperoleh penghasilan, untuk bekerja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はおおいに稼ぐ。",
+  "exampleReading": "かれはおおいにかせぐ。",
+  "exampleMeaning": "Dia menghasilkan banyak uang."
  },
  {
   "word": "景気",
@@ -10621,9 +10621,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kondisi, negara bagian, bisnis (kondisi)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "景気はどうですか？",
+  "exampleReading": "けいきはどうですか？",
+  "exampleMeaning": "Bagaimana kabarnya?"
  },
  {
   "word": "多少",
@@ -10632,9 +10632,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kurang lebih,agak,sedikit,beberapa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "多少のお金はあるよ。",
+  "exampleReading": "たしょうのおかねはあるよ。",
+  "exampleMeaning": "Saya punya sedikit uang."
  },
  {
   "word": "失う",
@@ -10643,9 +10643,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk kalah, untuk berpisah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "冷静さを失うな。",
+  "exampleReading": "れいせいさをうしなうな。",
+  "exampleMeaning": "Jangan kehilangan ketenanganmu."
  },
  {
   "word": "氷",
@@ -10654,9 +10654,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "es, hujan es",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "氷が溶けている。",
+  "exampleReading": "こおりがとけている。",
+  "exampleMeaning": "Esnya mencair."
  },
  {
   "word": "生物",
@@ -10665,9 +10665,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makanan mentah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は生物学者だ。",
+  "exampleReading": "かれはせいぶつがくしゃだ。",
+  "exampleMeaning": "Dia adalah seorang ahli biologi."
  },
  {
   "word": "死亡",
@@ -10676,9 +10676,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kematian, kematian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "交通事故で２人が死亡。",
+  "exampleReading": "こうつうじこでににんがしぼう。",
+  "exampleMeaning": "Dua orang tewas dalam kecelakaan lalu lintas."
  },
  {
   "word": "レポート",
@@ -10687,9 +10687,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "laporan, kertas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はレポートを書いた。",
+  "exampleReading": "かれはれぽーとをかいた。",
+  "exampleMeaning": "Dia menulis laporannya."
  },
  {
   "word": "贈る",
@@ -10698,9 +10698,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengirim, memberi, memberi penghargaan, berunding",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "妻に贈るバッグをさがしているんですが。",
+  "exampleReading": "つまにおくるばっぐをさがしているんですが。",
+  "exampleMeaning": "Saya sedang mencari tas untuk istri saya."
  },
  {
   "word": "商品",
@@ -10709,9 +10709,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "komoditas, barang dagangan, barang, stok, barang dagangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは人気商品だ。",
+  "exampleReading": "それはにんきしょうひんだ。",
+  "exampleMeaning": "Ini adalah barang yang sangat populer."
  },
  {
   "word": "したがって",
@@ -10720,9 +10720,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "oleh karena itu, sebagai konsekuensinya, sesuai dengan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは自殺したがっていた。",
+  "exampleReading": "とむはじさつしたがっていた。",
+  "exampleMeaning": "Tom ingin bunuh diri."
  },
  {
   "word": "なにも",
@@ -10742,9 +10742,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecenderungan, kecenderungan, kecenderungan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は怠ける傾向がある。",
+  "exampleReading": "かれはなまけるけいこうがある。",
+  "exampleMeaning": "Dia cenderung malas."
  },
  {
   "word": "計算",
@@ -10753,9 +10753,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perhitungan, perhitungan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "計算機を使えよ。",
+  "exampleReading": "けいさんきをつかえよ。",
+  "exampleMeaning": "Gunakan kalkulator."
  },
  {
   "word": "土産",
@@ -10764,9 +10764,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hadiah, suvenir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お土産何買ったの？",
+  "exampleReading": "おみやげなんかったの？",
+  "exampleMeaning": "Suvenir apa yang kamu beli?"
  },
  {
   "word": "内容",
@@ -10775,9 +10775,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "subjek,isi,materi,substansi,detail,impor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "結構内容が濃かった。",
+  "exampleReading": "けっこうないようがこかった。",
+  "exampleMeaning": "Isinya cukup kental."
  },
  {
   "word": "虎",
@@ -10786,9 +10786,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harimau",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは虎じゃない。",
+  "exampleReading": "これはとらじゃない。",
+  "exampleMeaning": "Ini bukan harimau."
  },
  {
   "word": "通り",
@@ -10797,9 +10797,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sesuai dengan ~,mengikuti ~,~ Jalan,~ Jalan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そう！その通り。",
+  "exampleReading": "そう！そのとおり。",
+  "exampleMeaning": "Anda mengatakannya!"
  },
  {
   "word": "大変",
@@ -10808,9 +10808,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mengerikan, mengerikan, mengerikan, sangat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大変な日だった。",
+  "exampleReading": "たいへんなひだった。",
+  "exampleMeaning": "Itu adalah hari yang sulit."
  },
  {
   "word": "月",
@@ -10819,9 +10819,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bulan, bulan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "もう10月？",
+  "exampleReading": "もう10つき？",
+  "exampleMeaning": "Apakah sudah bulan Oktober?"
  },
  {
   "word": "悪魔",
@@ -10830,9 +10830,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "setan, setan, roh jahat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は小悪魔なんだ。",
+  "exampleReading": "かのじょはしょうあくまなんだ。",
+  "exampleMeaning": "Dia setan kecil."
  },
  {
   "word": "それでも",
@@ -10841,9 +10841,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "namun (masih), namun, meskipun demikian, meskipun demikian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それでもよかった。",
+  "exampleReading": "それでもよかった。",
+  "exampleMeaning": "Meski begitu, itu bagus."
  },
  {
   "word": "鉄道",
@@ -10852,9 +10852,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jalan kereta api",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは鉄道オタクだ。",
+  "exampleReading": "とむはてつどうおたくだ。",
+  "exampleMeaning": "Tom adalah seorang kutu buku kereta api."
  },
  {
   "word": "もしも",
@@ -10863,9 +10863,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jika",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "もしもし。小川ですが。",
+  "exampleReading": "もしもし。おがわですが。",
+  "exampleMeaning": "Halo."
  },
  {
   "word": "ちゃんと",
@@ -10874,9 +10874,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan sempurna, benar, tepat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ちゃんとやって。",
+  "exampleReading": "ちゃんとやって。",
+  "exampleMeaning": "Lakukan dengan benar."
  },
  {
   "word": "日",
@@ -10885,9 +10885,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "matahari, sinar matahari, siang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日も来る？",
+  "exampleReading": "あしたもくる？",
+  "exampleMeaning": "Apakah kamu akan datang ke sini besok juga?"
  },
  {
   "word": "貢献",
@@ -10896,9 +10896,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontribusi, layanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "もっと貢献したい。",
+  "exampleReading": "もっとこうけんしたい。",
+  "exampleMeaning": "Saya ingin berkontribusi lebih banyak."
  },
  {
   "word": "吸収",
@@ -10907,9 +10907,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyerapan, hisapan, tarikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "黒は光を吸収します。",
+  "exampleReading": "くろはひかりをきゅうしゅうします。",
+  "exampleMeaning": "Hitam menyerap cahaya."
  },
  {
   "word": "騒音",
@@ -10918,9 +10918,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebisingan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "騒音にはすぐ慣れるよ。",
+  "exampleReading": "そうおんにはすぐなれるよ。",
+  "exampleMeaning": "Anda akan segera terbiasa dengan kebisingan."
  },
  {
   "word": "伝統",
@@ -10929,9 +10929,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tradisi, konvensi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは家族の伝統です。",
+  "exampleReading": "これはかぞくのでんとうです。",
+  "exampleMeaning": "Ini adalah tradisi keluarga."
  },
  {
   "word": "化粧",
@@ -10940,9 +10940,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tata rias (kosmetik)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は化粧が濃い。",
+  "exampleReading": "かのじょはけしょうがこい。",
+  "exampleMeaning": "Dia memakai banyak riasan."
  },
  {
   "word": "よろしく",
@@ -10951,9 +10951,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baik, benar, pantas, salam, harap ingat saya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "台所をよろしく。",
+  "exampleReading": "だいどころをよろしく。",
+  "exampleMeaning": "Anda mengerjakan dapur."
  },
  {
   "word": "何でも",
@@ -10962,9 +10962,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tentu saja, segalanya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何でもできるぜ。",
+  "exampleReading": "なにでもできるぜ。",
+  "exampleMeaning": "Saya bisa melakukan apa saja."
  },
  {
   "word": "割る",
@@ -10973,9 +10973,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membagi, untuk memotong, untuk istirahat, untuk membagi dua",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "６割る２は３です。",
+  "exampleReading": "ろくわれるにはさんです。",
+  "exampleMeaning": "Enam dibagi dua adalah tiga."
  },
  {
   "word": "ますます",
@@ -10984,9 +10984,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semakin, semakin banyak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "空はますます暗くなった。",
+  "exampleReading": "そらはますますくらくなった。",
+  "exampleMeaning": "Langit menjadi semakin gelap."
  },
  {
   "word": "本物",
@@ -10995,9 +10995,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "artikel asli",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これ、マジで本物？",
+  "exampleReading": "これ、まじでほんもの？",
+  "exampleMeaning": "Apakah ini benar-benar nyata?"
  },
  {
   "word": "始まり",
@@ -11006,9 +11006,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "asal, permulaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "陣痛が始まりました。",
+  "exampleReading": "じんつうがはじまりました。",
+  "exampleMeaning": "Persalinan saya telah dimulai."
  },
  {
   "word": "増加",
@@ -11017,9 +11017,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "peningkatan, penambahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "犯罪が増加している。",
+  "exampleReading": "はんざいがぞうかしている。",
+  "exampleMeaning": "Kejahatan semakin meningkat."
  },
  {
   "word": "事務",
@@ -11028,9 +11028,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Bisnis, pekerjaan kantor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "事務所にいます。",
+  "exampleReading": "じむしょにいます。",
+  "exampleMeaning": "Saya di kantor saya."
  },
  {
   "word": "菓子",
@@ -11039,9 +11039,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kue kering",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お菓子買ってよ。",
+  "exampleReading": "おかしかってよ。",
+  "exampleMeaning": "Belikan aku camilan."
  },
  {
   "word": "今にも",
@@ -11050,9 +11050,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapan saja, segera",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今にも一雨きそうだ。",
+  "exampleReading": "いまにもひとあめきそうだ。",
+  "exampleMeaning": "Ini mengancam akan turun hujan."
  },
  {
   "word": "老人",
@@ -11061,9 +11061,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang tua, orang tua",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "老人が近づいてきた。",
+  "exampleReading": "ろうじんがちかづいてきた。",
+  "exampleMeaning": "Orang tua itu mendekat."
  },
  {
   "word": "運転",
@@ -11072,9 +11072,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "operasi, gerak, mengemudi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "運転したいです。",
+  "exampleReading": "うんてんしたいです。",
+  "exampleMeaning": "Saya ingin mengemudi."
  },
  {
   "word": "非常",
@@ -11083,9 +11083,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "darurat, luar biasa, tidak biasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は非常に親切だ。",
+  "exampleReading": "かれはひじょうにしんせつだ。",
+  "exampleMeaning": "Dia adalah orang yang sangat baik."
  },
  {
   "word": "丸い",
@@ -11094,9 +11094,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "bulat, melingkar, bulat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "林檎の形は丸い。",
+  "exampleReading": "りんごのかたちはまるい。",
+  "exampleMeaning": "Sebuah apel berbentuk bulat."
  },
  {
   "word": "掛かる",
@@ -11105,9 +11105,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengambil (misalnya waktu, uang, dll), untuk digantung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "壁により掛かるな。",
+  "exampleReading": "かべによりかかるな。",
+  "exampleMeaning": "Jangan bersandar ke dinding."
  },
  {
   "word": "他",
@@ -11116,9 +11116,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lainnya (khususnya tempat dan benda)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "他に何か見える？",
+  "exampleReading": "たになにかみえる？",
+  "exampleMeaning": "Apakah Anda melihat hal lain?"
  },
  {
   "word": "表面",
@@ -11127,9 +11127,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "permukaan, luar, wajah, penampilan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "月の表面はでこぼこだ。",
+  "exampleReading": "つきのひょうめんはでこぼこだ。",
+  "exampleMeaning": "Permukaan bulan tidak beraturan."
  },
  {
   "word": "自動",
@@ -11138,9 +11138,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "otomatis, gerak sendiri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "自動車は左折した。",
+  "exampleReading": "じどうしゃはさせつした。",
+  "exampleMeaning": "Mobil berbelok ke kiri."
  },
  {
   "word": "谷",
@@ -11149,9 +11149,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lembah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人生山あり谷あり。",
+  "exampleReading": "じんせいやまありたにあり。",
+  "exampleMeaning": "Kehidupan seorang pria ada pasang surutnya."
  },
  {
   "word": "汗",
@@ -11160,9 +11160,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keringat, keringat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は汗かきです。",
+  "exampleReading": "わたしはあせかきです。",
+  "exampleMeaning": "Saya banyak berkeringat."
  },
  {
   "word": "スタンド",
@@ -11171,9 +11171,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berdiri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "次のガソリンスタンドに寄ろう。",
+  "exampleReading": "つぎのがそりんすたんどによろう。",
+  "exampleMeaning": "Mari kita berhenti di bengkel berikutnya."
  },
  {
   "word": "報告",
@@ -11182,9 +11182,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "laporan, informasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "報告書は提出したの？",
+  "exampleReading": "ほうこくしょはていしゅつしたの？",
+  "exampleMeaning": "Sudahkah Anda menyerahkan laporan Anda?"
  },
  {
   "word": "目標",
@@ -11193,9 +11193,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tandai, tujuan, target",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "本当の目標は何？",
+  "exampleReading": "ほんとうのもくひょうはなに？",
+  "exampleMeaning": "Apa tujuan sebenarnya?"
  },
  {
   "word": "繋ぐ",
@@ -11204,9 +11204,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengikat, mengencangkan, menyambung, mentransfer (panggilan telepon)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "フォークダンスで男子と手を繋ぐのがやだ。",
+  "exampleReading": "ふぉーくだんすでだんしとてをつなぐのがやだ。",
+  "exampleMeaning": "Saya tidak ingin berpegangan tangan dengan anak laki-laki dalam tarian rakyat."
  },
  {
   "word": "楽",
@@ -11215,9 +11215,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kenyamanan, kemudahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "楽しかった？",
+  "exampleReading": "たのしかった？",
+  "exampleMeaning": "Apakah Anda menikmati diri Anda sendiri?"
  },
  {
   "word": "コピー",
@@ -11226,9 +11226,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) salinan (foto), (2) uraian singkat pada jaket buku",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "コピーをもらえますか？",
+  "exampleReading": "こぴーをもらえますか？",
+  "exampleMeaning": "Bisakah saya mendapatkan salinannya?"
  },
  {
   "word": "飛び出す",
@@ -11237,9 +11237,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melompat keluar, bergegas keluar, terbang keluar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "椎間板ヘルニアは背骨の間にある椎間板という軟骨が飛び出すものです。",
+  "exampleReading": "ついかんばんへるにあはせぼねのまにあるついかんばんというなんこつがとびだすものです。",
+  "exampleMeaning": "Herniasi diskus adalah ketika tulang rawan, yang disebut 'disk intervertebralis' dan ditemukan di antara setiap tulang belakang, terlepas."
  },
  {
   "word": "うまい",
@@ -11248,9 +11248,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "lezat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "うまい事言うね。",
+  "exampleReading": "うまいこというね。",
+  "exampleMeaning": "Anda menyelesaikan semuanya dengan baik."
  },
  {
   "word": "手術",
@@ -11259,9 +11259,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "operasi bedah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "手術が必要ですか？",
+  "exampleReading": "しゅじゅつがひつようですか？",
+  "exampleMeaning": "Apakah saya perlu dioperasi?"
  },
  {
   "word": "有る",
@@ -11270,9 +11270,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi, memiliki",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "奇麗な花には刺が有る。",
+  "exampleReading": "きれいなはなにはとげがある。",
+  "exampleMeaning": "Bunga yang indah mempunyai duri."
  },
  {
   "word": "世の中",
@@ -11281,9 +11281,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masyarakat, dunia, waktu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "厳しい世の中だなあ。",
+  "exampleReading": "きびしいよのなかだなあ。",
+  "exampleMeaning": "Ini adalah dunia yang suram."
  },
  {
   "word": "故障",
@@ -11292,9 +11292,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerusakan, kegagalan, kecelakaan, rusak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その車は故障した。",
+  "exampleReading": "そのくるまはこしょうした。",
+  "exampleMeaning": "Mobilnya mogok."
  },
  {
   "word": "急速",
@@ -11303,9 +11303,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cepat (misalnya kemajuan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "北京は急速に変わっている。",
+  "exampleReading": "ぺきんはきゅうそくにかわっている。",
+  "exampleMeaning": "Beijing berubah begitu cepat."
  },
  {
   "word": "読み",
@@ -11314,9 +11314,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "membaca",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "本を読みました。",
+  "exampleReading": "ほんをよみました。",
+  "exampleMeaning": "Saya membaca buku."
  },
  {
   "word": "絵画",
@@ -11325,9 +11325,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gambar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この絵画は十五世紀のものだ。",
+  "exampleReading": "このかいがはじゅうごせいきのものだ。",
+  "exampleMeaning": "Gambar ini berasal dari abad kelima belas."
  },
  {
   "word": "波",
@@ -11336,9 +11336,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "melambai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は波が高い。",
+  "exampleReading": "きょうはなみがたかい。",
+  "exampleMeaning": "Ombaknya tinggi hari ini."
  },
  {
   "word": "損害",
@@ -11347,9 +11347,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerusakan, cedera, kehilangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "損害は百万ドルにのぼる。",
+  "exampleReading": "そんがいはひゃくまんどるにのぼる。",
+  "exampleMeaning": "Kerugiannya mencapai satu juta dolar."
  },
  {
   "word": "かわいらしい",
@@ -11358,9 +11358,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "indah, manis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "メアリーはかわいらしい女の子ですか？",
+  "exampleReading": "めありーはかわいらしいおんなのこですか？",
+  "exampleMeaning": "Apakah Maria gadis yang cantik?"
  },
  {
   "word": "快適",
@@ -11369,9 +11369,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menyenangkan, menyenangkan, nyaman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "快適な空の旅を。",
+  "exampleReading": "かいてきなそらのたびを。",
+  "exampleMeaning": "Nikmati penerbangannya."
  },
  {
   "word": "単位",
@@ -11380,9 +11380,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "satuan, denominasi, kredit (di sekolah)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "授業は５０分単位です。",
+  "exampleReading": "じゅぎょうはごぜろふんたんいです。",
+  "exampleMeaning": "Kursus ini dikreditkan selama 50 menit."
  },
  {
   "word": "決まり",
@@ -11391,9 +11391,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "penyelesaian, kesimpulan, peraturan, aturan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これで決まりだ。",
+  "exampleReading": "これできまりだ。",
+  "exampleMeaning": "Ini dia."
  },
  {
   "word": "所為",
@@ -11413,9 +11413,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gandum, sereal, jagung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ライ麦は貧困の穀物と称されていた。",
+  "exampleReading": "らいむぎはひんこんのこくもつとしょうされていた。",
+  "exampleMeaning": "Rye disebut sebagai benih kemiskinan."
  },
  {
   "word": "常識",
@@ -11424,9 +11424,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kewajaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は常識がない。",
+  "exampleReading": "かれはじょうしきがない。",
+  "exampleMeaning": "Dia tidak punya akal sehat."
  },
  {
   "word": "指導",
@@ -11435,9 +11435,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kepemimpinan, bimbingan, pembinaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は明らかに有能な指導者だ。",
+  "exampleReading": "かれはあきらかにゆうのうなしどうしゃだ。",
+  "exampleMeaning": "Diakui dia adalah pemimpin yang cakap."
  },
  {
   "word": "語",
@@ -11446,9 +11446,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahasa, kata",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それって、何語？",
+  "exampleReading": "それって、なにご？",
+  "exampleMeaning": "Itu bahasa apa?"
  },
  {
   "word": "中",
@@ -11457,9 +11457,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di dalam, di tengah, di antara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "絶賛放送中！",
+  "exampleReading": "ぜっさんほうそうちゅう！",
+  "exampleMeaning": "Saat ini sedang mengudara!"
  },
  {
   "word": "間違い",
@@ -11468,9 +11468,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesalahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは間違いだ。",
+  "exampleReading": "これはまちがいだ。",
+  "exampleMeaning": "Ini adalah sebuah kesalahan."
  },
  {
   "word": "望む",
@@ -11479,9 +11479,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menginginkan, mengharapkan, melihat, memerintahkan (pandangan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼が望むもの全てを手に入れた。",
+  "exampleReading": "かれがのぞむものすべてをてにいれた。",
+  "exampleMeaning": "Dia mendapatkan semua yang dia inginkan."
  },
  {
   "word": "利益",
@@ -11490,9 +11490,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keuntungan, keuntungan, kepentingan (politik, ekonomi).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は自分の利益に敏感だ。",
+  "exampleReading": "かれはじぶんのりえきにびんかんだ。",
+  "exampleMeaning": "Dia hidup untuk kepentingannya sendiri."
  },
  {
   "word": "どんなに",
@@ -11501,9 +11501,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bagaimana, berapa banyak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どんなに愛してるか、分かってる？",
+  "exampleReading": "どんなにあいしてるか、わかってる？",
+  "exampleMeaning": "Tahukah kamu betapa aku mencintaimu?"
  },
  {
   "word": "腰",
@@ -11512,9 +11512,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "panggul",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "腰に手をおいて。",
+  "exampleReading": "こしにてをおいて。",
+  "exampleMeaning": "Letakkan tangan Anda di pinggul."
  },
  {
   "word": "訴える",
@@ -11523,9 +11523,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menuntut (seseorang), untuk menggunakan, untuk mengajukan banding",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は訴えるような目で私を見た。",
+  "exampleReading": "かのじょはうったえるようなめでわたしをみた。",
+  "exampleMeaning": "Dia memberiku tatapan yang menarik."
  },
  {
   "word": "又",
@@ -11534,9 +11534,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lagi, dan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "必ず又の機会が来る。",
+  "exampleReading": "かならずまたのきかいがくる。",
+  "exampleMeaning": "Selalu ada waktu berikutnya."
  },
  {
   "word": "食う",
@@ -11545,9 +11545,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(laki-laki) (vulg) untuk makan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この事業は金を食う。",
+  "exampleReading": "このじぎょうはきんをくう。",
+  "exampleMeaning": "Pekerjaan ini memakan uang."
  },
  {
   "word": "ユーモア",
@@ -11556,9 +11556,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "humor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はユーモアが分かる。",
+  "exampleReading": "かれはゆーもあがわかる。",
+  "exampleMeaning": "Dia memiliki selera humor."
  },
  {
   "word": "そっくり",
@@ -11567,9 +11567,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semuanya, secara keseluruhan, seluruhnya, menjadi seperti, gambaran yang membelah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "父親にそっくりだ。",
+  "exampleReading": "ちちおやにそっくりだ。",
+  "exampleMeaning": "Dia adalah gambaran ayahnya."
  },
  {
   "word": "発行",
@@ -11578,9 +11578,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "terbitan (publikasi)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この新聞は発行部数が多い。",
+  "exampleReading": "このしんぶんははっこうぶすうがおおい。",
+  "exampleMeaning": "Makalah ini mempunyai peredaran yang besar."
  },
  {
   "word": "成功",
@@ -11589,9 +11589,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "sukses, pukul",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "勤勉は成功の母。",
+  "exampleReading": "きんべんはせいこうのはは。",
+  "exampleMeaning": "Ketekunan adalah ibu dari keberuntungan."
  },
  {
   "word": "現状",
@@ -11600,9 +11600,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kondisi sekarang, keadaan saat ini, status quo",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは現状維持を望んでいる。",
+  "exampleReading": "とむはげんじょういじをのぞんでいる。",
+  "exampleMeaning": "Tom ingin mempertahankan keadaan sebagaimana adanya."
  },
  {
   "word": "従兄弟",
@@ -11611,9 +11611,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sepupu (laki-laki)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "従兄弟が３人います。",
+  "exampleReading": "いとこがさんにんいます。",
+  "exampleMeaning": "Saya punya tiga sepupu."
  },
  {
   "word": "ぐっすり",
@@ -11622,9 +11622,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tertidur lelap, tertidur pulas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ぐっすり寝たよ。",
+  "exampleReading": "ぐっすりねたよ。",
+  "exampleMeaning": "Saya tidur nyenyak."
  },
  {
   "word": "ブレーキ",
@@ -11633,9 +11633,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebuah rem",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ブレーキをかけろ！",
+  "exampleReading": "ぶれーきをかけろ！",
+  "exampleMeaning": "Injak rem!"
  },
  {
   "word": "だけど",
@@ -11644,9 +11644,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Namun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ものは相談だけど。",
+  "exampleReading": "ものはそうだんだけど。",
+  "exampleMeaning": "Ada yang ingin kutanyakan padamu."
  },
  {
   "word": "勉強",
@@ -11655,9 +11655,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "belajar, ketekunan, diskon, pengurangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "勉強は難しいの？",
+  "exampleReading": "べんきょうはむずかしいの？",
+  "exampleMeaning": "Apakah sekolah bekerja keras?"
  },
  {
   "word": "人間",
@@ -11666,9 +11666,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "manusia, manusia, pribadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人間は２本足だ。",
+  "exampleReading": "にんげんはにほんあしだ。",
+  "exampleMeaning": "Manusia mempunyai dua kaki."
  },
  {
   "word": "腐る",
@@ -11677,9 +11677,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "membusuk, menjadi buruk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "夏には、卵がすぐ腐る。",
+  "exampleReading": "なつには、たまごがすぐくさる。",
+  "exampleMeaning": "Di musim panas, telur cepat rusak."
  },
  {
   "word": "女優",
@@ -11688,9 +11688,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aktris",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は女優と結婚した。",
+  "exampleReading": "かれはじょゆうとけっこんした。",
+  "exampleMeaning": "Dia menikah dengan seorang aktris."
  },
  {
   "word": "キャプテン",
@@ -11699,9 +11699,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapten",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私がキャプテンです。",
+  "exampleReading": "わたしがきゃぷてんです。",
+  "exampleMeaning": "Saya kaptennya."
  },
  {
   "word": "パイプ",
@@ -11710,9 +11710,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pipa, tabung, (2) saluran, resmi atau lainnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "葉巻パイプはありましたか。",
+  "exampleReading": "はまきぱいぷはありましたか。",
+  "exampleMeaning": "Apakah Anda punya cerutu?"
  },
  {
   "word": "天然",
@@ -11721,9 +11721,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "alam, spontanitas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この車は天然ガスで動く。",
+  "exampleReading": "このくるまはてんねんがすでうごく。",
+  "exampleMeaning": "Mobil ini menggunakan bahan bakar gas alam."
  },
  {
   "word": "七",
@@ -11732,9 +11732,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tujuh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "七時に家を出ます。",
+  "exampleReading": "ななじにいえをでます。",
+  "exampleMeaning": "Saya berangkat dari rumah pada pukul tujuh."
  },
  {
   "word": "警告",
@@ -11743,9 +11743,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "peringatan, saran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムに警告する。",
+  "exampleReading": "とむにけいこくする。",
+  "exampleMeaning": "Peringatkan Tom."
  },
  {
   "word": "信じる",
@@ -11754,9 +11754,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk percaya, untuk menaruh kepercayaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "幽霊って信じる？",
+  "exampleReading": "ゆうれいってしんじる？",
+  "exampleMeaning": "Apakah Anda percaya pada hantu?"
  },
  {
   "word": "連続",
@@ -11765,9 +11765,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "serial, berturut-turut, kontinuitas, berkelanjutan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "３日連続して雨が降った。",
+  "exampleReading": "さんにちれんぞくしてあめがふった。",
+  "exampleMeaning": "Hujan turun selama tiga hari berturut-turut."
  },
  {
   "word": "とん",
@@ -11776,9 +11776,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "ton",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ほとんど終わった？",
+  "exampleReading": "ほとんどおわった？",
+  "exampleMeaning": "Apakah kamu hampir selesai?"
  },
  {
   "word": "現実",
@@ -11787,9 +11787,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "realitas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現実へようこそ！",
+  "exampleReading": "げんじつへようこそ！",
+  "exampleMeaning": "Selamat datang di dunia nyata!"
  },
  {
   "word": "農業",
@@ -11798,9 +11798,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertanian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は農業の研究をしている。",
+  "exampleReading": "かれはのうぎょうのけんきゅうをしている。",
+  "exampleMeaning": "Dia sedang belajar pertanian."
  },
  {
   "word": "現金",
@@ -11809,9 +11809,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "uang tunai, uang siap pakai, tentara bayaran, kepentingan pribadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現金を盗まれた。",
+  "exampleReading": "げんきんをぬすまれた。",
+  "exampleMeaning": "Seseorang mencuri uang saya."
  },
  {
   "word": "変更",
@@ -11820,9 +11820,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perubahan, modifikasi, pengubahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "文を変更しました。",
+  "exampleReading": "ぶんをへんこうしました。",
+  "exampleMeaning": "Saya mengubah kalimatnya."
  },
  {
   "word": "流行",
@@ -11831,9 +11831,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "modis, iseng, sedang digemari, berlaku",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これが最新の流行です。",
+  "exampleReading": "これがさいしんのりゅうこうです。",
+  "exampleMeaning": "Ini adalah mode terkini."
  },
  {
   "word": "図書",
@@ -11842,9 +11842,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buku",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "図書館にいるの？",
+  "exampleReading": "としょかんにいるの？",
+  "exampleMeaning": "Apakah kamu di perpustakaan?"
  },
  {
   "word": "経営",
@@ -11853,9 +11853,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "manajemen, administrasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "経営は順調だよ。",
+  "exampleReading": "けいえいはじゅんちょうだよ。",
+  "exampleMeaning": "Segalanya berjalan lancar."
  },
  {
   "word": "代表",
@@ -11864,9 +11864,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perwakilan, representasi, delegasi, jenis, contoh, model",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "両国の代表団はジュネーブで会見した。",
+  "exampleReading": "りょうこくのだいひょうだんはじゅねーぶでかいけんした。",
+  "exampleMeaning": "Delegasi kedua negara bertemu di Jenewa."
  },
  {
   "word": "明ける",
@@ -11875,9 +11875,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "hingga fajar, menjadi siang hari",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "梅雨はいつ明けるの？",
+  "exampleReading": "つゆはいつあけるの？",
+  "exampleMeaning": "Kapan musim hujan akan berakhir?"
  },
  {
   "word": "散歩",
@@ -11886,9 +11886,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "berjalan, berjalan-jalan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "散歩に行こうか？",
+  "exampleReading": "さんぽにいこうか？",
+  "exampleMeaning": "Bagaimana kalau kita jalan-jalan?"
  },
  {
   "word": "深刻",
@@ -11897,9 +11897,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "serius",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "深刻な問題だな。",
+  "exampleReading": "しんこくなもんだいだな。",
+  "exampleMeaning": "Ini adalah masalah yang serius."
  },
  {
   "word": "眺める",
@@ -11908,9 +11908,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melihat, untuk menatap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人のことをじろじろ眺めるのは失礼だ。",
+  "exampleReading": "ひとのことをじろじろながめるのはしつれいだ。",
+  "exampleMeaning": "Tidak sopan menatap orang."
  },
  {
   "word": "親戚",
@@ -11919,9 +11919,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "relatif",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "外国に親戚はいますか？",
+  "exampleReading": "がいこくにしんせきはいますか？",
+  "exampleMeaning": "Apakah Anda memiliki saudara di luar negeri?"
  },
  {
   "word": "国会",
@@ -11930,9 +11930,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Diet Nasional, parlemen, kongres",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "国会は開会中だ。",
+  "exampleReading": "こっかいはかいかいちゅうだ。",
+  "exampleMeaning": "Diet sekarang sedang berlangsung."
  },
  {
   "word": "帯",
@@ -11941,9 +11941,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pita (misalnya konduksi, valensi)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今携帯持ってる？",
+  "exampleReading": "こんけいたいもってる？",
+  "exampleMeaning": "Apakah Anda membawa ponsel?"
  },
  {
   "word": "誕生",
@@ -11952,9 +11952,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kelahiran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誕生日、いつなの？",
+  "exampleReading": "たんじょうび、いつなの？",
+  "exampleMeaning": "Kapan ulang tahunmu?"
  },
  {
   "word": "参加",
@@ -11963,9 +11963,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "partisipasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ぜひご参加ください。",
+  "exampleReading": "ぜひごさんかください。",
+  "exampleMeaning": "Kami mendorong partisipasi Anda."
  },
  {
   "word": "加える",
@@ -11974,9 +11974,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menambahkan, untuk menyimpulkan, untuk menambahkan (up)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "仕上げの筆を少し加える。",
+  "exampleReading": "しあげのふでをすこしくわえる。",
+  "exampleMeaning": "Saya menambahkan beberapa sentuhan akhir."
  },
  {
   "word": "学ぶ",
@@ -11985,9 +11985,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk belajar (secara mendalam), untuk belajar, untuk mengambil pelajaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人は経験から学ぶ。",
+  "exampleReading": "ひとはけいけんからまなぶ。",
+  "exampleMeaning": "Orang belajar dari pengalaman."
  },
  {
   "word": "まさか",
@@ -11996,9 +11996,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sama sekali tidak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "まさか。冗談言うなよ！",
+  "exampleReading": "まさか。じょうだんいうなよ！",
+  "exampleMeaning": "Kau pasti bercanda!"
  },
  {
   "word": "追い付く",
@@ -12007,9 +12007,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyalip, untuk mengejar (dengan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "すぐにそっちに追い付くよ。",
+  "exampleReading": "すぐにそっちにおいつくよ。",
+  "exampleMeaning": "Aku akan segera menyusulmu."
  },
  {
   "word": "当たる",
@@ -12018,9 +12018,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dipukul, untuk menjadi sukses, untuk menjadi setara dengan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "思い当たる節はない。",
+  "exampleReading": "おもいあたるふしはない。",
+  "exampleMeaning": "Itu tidak berarti apa-apa."
  },
  {
   "word": "夜明け",
@@ -12029,9 +12029,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "fajar, fajar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "夜明け前が一番暗い。",
+  "exampleReading": "よあけまえがいちばんくらい。",
+  "exampleMeaning": "Saat paling gelap adalah sebelum fajar."
  },
  {
   "word": "関連",
@@ -12040,9 +12040,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "hubungan, koneksi, relevansi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "喫煙と肺がんには関連性がある。",
+  "exampleReading": "きつえんとはいがんにはかんれんせいがある。",
+  "exampleMeaning": "Ada hubungan antara merokok dan kanker paru-paru."
  },
  {
   "word": "順番",
@@ -12051,9 +12051,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "belok (berbaris),urutan hal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "順番待ちしてます。",
+  "exampleReading": "じゅんばんまちしてます。",
+  "exampleMeaning": "Aku sedang menunggu giliranku."
  },
  {
   "word": "叱る",
@@ -12062,9 +12062,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memarahi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お母さんが馬を叱るの？",
+  "exampleReading": "おかあさんがうまをしかるの？",
+  "exampleMeaning": "Apakah Ibu memarahi kudanya?"
  },
  {
   "word": "穏やか",
@@ -12073,9 +12073,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tenang, lembut, tenang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "海は穏やかだった。",
+  "exampleReading": "うみはおだやかだった。",
+  "exampleMeaning": "Lautnya tenang."
  },
  {
   "word": "弾",
@@ -12084,9 +12084,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "peluru, tembakan, cangkang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君はギター弾く？",
+  "exampleReading": "きみはぎたーひく？",
+  "exampleMeaning": "Apakah kamu bermain gitar?"
  },
  {
   "word": "宗教",
@@ -12095,9 +12095,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "agama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "宗教は信じない。",
+  "exampleReading": "しゅうきょうはしんじない。",
+  "exampleMeaning": "Saya tidak percaya pada agama."
  },
  {
   "word": "完成",
@@ -12106,9 +12106,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) lengkap, penyelesaian, (2) kesempurnaan, pencapaian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "やっと絵が完成したよ。",
+  "exampleReading": "やっとえがかんせいしたよ。",
+  "exampleMeaning": "Akhirnya, saya menyelesaikan sebuah lukisan."
  },
  {
   "word": "お互い",
@@ -12117,9 +12117,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saling, timbal balik, satu sama lain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お互いさまだろ。",
+  "exampleReading": "おたがいさまだろ。",
+  "exampleMeaning": "Sepertinya kita berada di perahu yang sama."
  },
  {
   "word": "等しい",
@@ -12128,9 +12128,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "setara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "AはBと大きさが等しい。",
+  "exampleReading": "AはBとおおきさがひとしい。",
+  "exampleMeaning": "A sama besarnya dengan B."
  },
  {
   "word": "芝生",
@@ -12139,9 +12139,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "halaman rumput",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "隣の芝生は青い。",
+  "exampleReading": "となりのしばふはあおい。",
+  "exampleMeaning": "Rumput tetangga selalu lebih hijau."
  },
  {
   "word": "程度",
@@ -12150,9 +12150,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "derajat, jumlah, kelas, standar, urutan (mengikuti angka)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "一週間程度で治りますよ。",
+  "exampleReading": "いちしゅうかんていどでなおりますよ。",
+  "exampleMeaning": "Anda akan sembuh dalam seminggu atau lebih."
  },
  {
   "word": "以来",
@@ -12161,9 +12161,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sejak itu, untuk selanjutnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "以来ずっと友人です。",
+  "exampleReading": "いらいずっとゆうじんです。",
+  "exampleMeaning": "Kami berteman sejak saat itu."
  },
  {
   "word": "あした",
@@ -12183,9 +12183,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "toko cabang (kantor)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "支店は全国にまたがっている。",
+  "exampleReading": "してんはぜんこくにまたがっている。",
+  "exampleMeaning": "Cabang kami tersebar di seluruh pelosok negeri."
  },
  {
   "word": "尊重",
@@ -12194,9 +12194,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rasa hormat, harga diri, rasa hormat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あなたの意見を尊重します。",
+  "exampleReading": "あなたのいけんをそんちょうします。",
+  "exampleMeaning": "Saya menghormati pendapat Anda."
  },
  {
   "word": "段",
@@ -12205,9 +12205,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "langkah, tangga, tangga, kelas, pangkat, level",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "値段が高すぎる！",
+  "exampleReading": "ねだんがたかすぎる！",
+  "exampleMeaning": "Itu terlalu mahal!"
  },
  {
   "word": "政府",
@@ -12216,9 +12216,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemerintahan, administrasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "新しい政府が選挙された。",
+  "exampleReading": "あたらしいせいふがせんきょされた。",
+  "exampleMeaning": "Mereka telah memilih pemerintahan baru."
  },
  {
   "word": "配達",
@@ -12227,9 +12227,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengiriman, distribusi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "配達は有料ですか。",
+  "exampleReading": "はいたつはゆうりょうですか。",
+  "exampleMeaning": "Apakah Anda mengenakan biaya untuk pengiriman?"
  },
  {
   "word": "強盗",
@@ -12238,9 +12238,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perampokan, perampokan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "強盗は縛られていた。",
+  "exampleReading": "ごうとうはしばられていた。",
+  "exampleMeaning": "Perampok itu diikat."
  },
  {
   "word": "駐車",
@@ -12249,9 +12249,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "parkir (misalnya mobil)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "駐車場は満車です。",
+  "exampleReading": "ちゅうしゃじょうはまんしゃです。",
+  "exampleMeaning": "Tidak ada tempat parkir yang tersisa."
  },
  {
   "word": "梅",
@@ -12260,9 +12260,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "plum,pohon plum,terendah (dari sistem peringkat tiga tingkat)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "梅雨が始まった。",
+  "exampleReading": "つゆがはじまった。",
+  "exampleMeaning": "Musim hujan telah tiba."
  },
  {
   "word": "否",
@@ -12271,9 +12271,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak, tidak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "否定はしません。",
+  "exampleReading": "ひていはしません。",
+  "exampleMeaning": "Saya tidak menyangkalnya."
  },
  {
   "word": "アウト",
@@ -12282,9 +12282,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keluar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "テイクアウトしよう。",
+  "exampleReading": "テイクアウトしよう。",
+  "exampleMeaning": "Mari kita bawa pulang."
  },
  {
   "word": "厄介",
@@ -12293,9 +12293,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masalah, beban, perhatian, repot",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この、厄介者め。",
+  "exampleReading": "この、やっかいしゃめ。",
+  "exampleMeaning": "Kamu mengganggu."
  },
  {
   "word": "咳",
@@ -12304,9 +12304,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "batuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は咳払いをした。",
+  "exampleReading": "かれはせきばらいをした。",
+  "exampleMeaning": "Dia berdeham."
  },
  {
   "word": "者",
@@ -12315,9 +12315,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は医者だ。",
+  "exampleReading": "かれはいしゃだ。",
+  "exampleMeaning": "Dia adalah seorang dokter."
  },
  {
   "word": "方々",
@@ -12326,9 +12326,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang, ini dan itu, di sini dan di sana, dimana saja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "多くの方々に届けることができた。",
+  "exampleReading": "おおくのかたがたにとどけることができた。",
+  "exampleMeaning": "Saya bisa menjangkau banyak orang."
  },
  {
   "word": "国語",
@@ -12337,9 +12337,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahasa nasional",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何か国語話せるの？",
+  "exampleReading": "なにかこくごはなせるの？",
+  "exampleMeaning": "Berapa banyak bahasa yang bisa Anda kuasai?"
  },
  {
   "word": "能力",
@@ -12348,9 +12348,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kemampuan, fakultas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "給料は君の能力次第だ。",
+  "exampleReading": "きゅうりょうはきみののうりょくしだいだ。",
+  "exampleMeaning": "Anda akan dibayar sesuai dengan kemampuan Anda."
  },
  {
   "word": "都",
@@ -12359,9 +12359,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "modal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "京都生まれです。",
+  "exampleReading": "きょうとうまれです。",
+  "exampleMeaning": "Saya lahir di Kyoto."
  },
  {
   "word": "支配",
@@ -12370,9 +12370,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "aturan, kendali, arah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "支配人はいい人なんだ。",
+  "exampleReading": "しはいにんはいいひとなんだ。",
+  "exampleMeaning": "Manajernya baik."
  },
  {
   "word": "材料",
@@ -12381,9 +12381,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahan, bahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "材料は何ですか？",
+  "exampleReading": "ざいりょうはなにですか？",
+  "exampleMeaning": "Terbuat dari apa?"
  },
  {
   "word": "覚める",
@@ -12392,9 +12392,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bangun, untuk bangun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "目覚めるまで長かった。",
+  "exampleReading": "めざめるまでながかった。",
+  "exampleMeaning": "Butuh waktu lama bagi saya untuk bangun."
  },
  {
   "word": "なかなか",
@@ -12403,9 +12403,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan sangat, sangat, mudah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "なかなかやるなあ。",
+  "exampleReading": "なかなかやるなあ。",
+  "exampleMeaning": "Itu cukup bagus."
  },
  {
   "word": "名人",
@@ -12414,9 +12414,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tuan, ahli",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はうそつきの名人だ。",
+  "exampleReading": "かれはうそつきのめいじんだ。",
+  "exampleMeaning": "Dia mahir berbohong."
  },
  {
   "word": "空",
@@ -12425,9 +12425,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "langit",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "冷蔵庫、空っぽ！",
+  "exampleReading": "れいぞうこ、からっぽ！",
+  "exampleMeaning": "Kulkasnya kosong!"
  },
  {
   "word": "僅か",
@@ -12436,9 +12436,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hanya, sekedar, sedikit, jumlah kecil",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その列車の乗客はほんの僅かしかいない。",
+  "exampleReading": "そのれっしゃのじょうきゃくはほんのわずかしかいない。",
+  "exampleMeaning": "Penumpang di kereta sangat sedikit."
  },
  {
   "word": "賢い",
@@ -12447,9 +12447,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "bijaksana, pintar, pintar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは賢い子だ。",
+  "exampleReading": "とむはかしこいこだ。",
+  "exampleMeaning": "Tom adalah anak yang cerdas."
  },
  {
   "word": "画家",
@@ -12458,9 +12458,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pelukis, artis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は漫画家です。",
+  "exampleReading": "わたしはまんがかです。",
+  "exampleMeaning": "Saya seorang kartunis."
  },
  {
   "word": "掴む",
@@ -12469,9 +12469,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk merebut, untuk menangkap, untuk memahami",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "溺れる者は藁をも掴む。",
+  "exampleReading": "おぼれるものはわらをもつかむ。",
+  "exampleMeaning": "Orang-orang yang tenggelam memegangi sedotan."
  },
  {
   "word": "皆",
@@ -12480,9 +12480,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "semuanya, semuanya, semuanya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "皆さんはお元気？",
+  "exampleReading": "みなさんはおげんき？",
+  "exampleMeaning": "Apa kabar semuanya?"
  },
  {
   "word": "影",
@@ -12491,9 +12491,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "naungan, bayangan, sisi lain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人生は幻影だよ。",
+  "exampleReading": "じんせいはげんえいだよ。",
+  "exampleMeaning": "Hidup adalah ilusi."
  },
  {
   "word": "ばったり",
@@ -12502,9 +12502,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan benturan (bunyi), dengan keras, montok, gagal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ばったり昔の友達に会った。",
+  "exampleReading": "ばったりむかしのともだちにあった。",
+  "exampleMeaning": "Saya bertemu dengan seorang teman lama."
  },
  {
   "word": "ありがとう",
@@ -12513,9 +12513,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(konj,exp,int) Terima kasih",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "説明ありがとう。",
+  "exampleReading": "せつめいありがとう。",
+  "exampleMeaning": "Terima kasih telah menjelaskannya."
  },
  {
   "word": "感動",
@@ -12524,9 +12524,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menjadi sangat tersentuh, kegembiraan, kesan, emosi yang mendalam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "感動をありがとう！",
+  "exampleReading": "かんどうをありがとう！",
+  "exampleMeaning": "Terima kasih, itu sangat mengharukan."
  },
  {
   "word": "現在",
@@ -12535,9 +12535,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekarang, hingga saat ini, saat ini, zaman modern, terkini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現在－１０℃です。",
+  "exampleReading": "げんざい－いちぜろ℃です。",
+  "exampleMeaning": "Saat ini suhunya -10°C."
  },
  {
   "word": "屋根",
@@ -12546,9 +12546,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "屋根に穴が空いてる。",
+  "exampleReading": "やねにあながあいてる。",
+  "exampleMeaning": "Ada lubang di atap."
  },
  {
   "word": "譲る",
@@ -12557,9 +12557,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyerahkan, untuk menugaskan, untuk menyerahkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "若者は老人に席を譲るべきだ。",
+  "exampleReading": "わかものはろうじんにせきをゆずるべきだ。",
+  "exampleMeaning": "Yang muda harus memberi ruang bagi yang tua."
  },
  {
   "word": "天候",
@@ -12568,9 +12568,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cuaca",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "天候が急に変化した。",
+  "exampleReading": "てんこうがきゅうにへんかした。",
+  "exampleMeaning": "Tiba-tiba terjadi perubahan cuaca."
  },
  {
   "word": "自慢",
@@ -12579,9 +12579,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kebanggaan, menyombongkan diri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "少々自慢なのです。",
+  "exampleReading": "しょうしょうじまんなのです。",
+  "exampleMeaning": "Saya agak bangga akan hal itu."
  },
  {
   "word": "失業",
@@ -12590,9 +12590,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengangguran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "失業率は高いです。",
+  "exampleReading": "しつぎょうりつはたかいです。",
+  "exampleMeaning": "Tingkat pengangguran tergolong tinggi."
  },
  {
   "word": "大戦",
@@ -12601,9 +12601,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perang hebat, pertempuran hebat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "映画は第二次世界大戦に遡る。",
+  "exampleReading": "えいがはだいにじせかいたいせんにさかのぼる。",
+  "exampleMeaning": "Film ini membawa kita kembali ke Perang Dunia II."
  },
  {
   "word": "守る",
@@ -12612,9 +12612,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melindungi, untuk mematuhi, untuk menjaga, untuk mematuhi (dengan aturan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "約束は守るべきだよ。",
+  "exampleReading": "やくそくはまもるべきだよ。",
+  "exampleMeaning": "Anda harus menepati janji Anda."
  },
  {
   "word": "価値",
@@ -12623,9 +12623,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nilai, nilai, pahala",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "直す価値がある？",
+  "exampleReading": "なおすかちがある？",
+  "exampleMeaning": "Apakah ini layak untuk diperbaiki?"
  },
  {
   "word": "集まり",
@@ -12634,9 +12634,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pengumpulan, pertemuan, perakitan, koleksi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "仕事の後集まりたい？",
+  "exampleReading": "しごとののちあつまりたい？",
+  "exampleMeaning": "Apakah Anda ingin berkumpul setelah bekerja?"
  },
  {
   "word": "これら",
@@ -12645,9 +12645,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これらは鳥です。",
+  "exampleReading": "これらはとりです。",
+  "exampleMeaning": "Ini adalah burung."
  },
  {
   "word": "すごい",
@@ -12656,9 +12656,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "mengerikan, mengerikan, hebat, menakjubkan, hebat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お前、すごいな！",
+  "exampleReading": "おまえ、すごいな！",
+  "exampleMeaning": "Kamu hebat!"
  },
  {
   "word": "大使",
@@ -12667,9 +12667,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "duta besar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大使は戻りました。",
+  "exampleReading": "たいしはもどりました。",
+  "exampleMeaning": "Duta Besar kembali."
  },
  {
   "word": "分析",
@@ -12678,9 +12678,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "analisa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "精神分析って何ですか？",
+  "exampleReading": "せいしんぶんせきってなにですか？",
+  "exampleMeaning": "Apa itu psikoanalisis?"
  },
  {
   "word": "先日",
@@ -12689,9 +12689,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tempo hari, beberapa hari yang lalu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "先日彼に会った。",
+  "exampleReading": "せんじつかれにあった。",
+  "exampleMeaning": "Saya bertemu dengannya beberapa hari yang lalu."
  },
  {
   "word": "悲劇",
@@ -12700,9 +12700,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tragedi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "悲劇は突然起こった。",
+  "exampleReading": "ひげきはとつぜんおこった。",
+  "exampleMeaning": "Tragedi itu terjadi secara tiba-tiba."
  },
  {
   "word": "現れる",
@@ -12711,9 +12711,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) tampil, terlihat, terlihat, (2) mengekspresikan diri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "きっと彼女はもうすぐ現れるよ。",
+  "exampleReading": "きっとかのじょはもうすぐあらわれるよ。",
+  "exampleMeaning": "Saya yakin dia akan segera muncul."
  },
  {
   "word": "アルバム",
@@ -12722,9 +12722,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "album",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はアルバムを見せてくれた。",
+  "exampleReading": "かれはあるばむをみせてくれた。",
+  "exampleMeaning": "Dia menunjukkan padaku albumnya."
  },
  {
   "word": "友情",
@@ -12733,9 +12733,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persahabatan, persahabatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "真の友情はお金より尊い。",
+  "exampleReading": "しんのゆうじょうはおかねよりとうとい。",
+  "exampleMeaning": "Persahabatan sejati lebih berharga daripada uang."
  },
  {
   "word": "泥",
@@ -12744,9 +12744,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lumpur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "泥棒じゃないよ。",
+  "exampleReading": "どろぼうじゃないよ。",
+  "exampleMeaning": "Saya bukan pencuri."
  },
  {
   "word": "刀",
@@ -12755,9 +12755,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pedang, pedang, pisau, alat ukiran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "俺の刀はどこだ？",
+  "exampleReading": "おれのかたなはどこだ？",
+  "exampleMeaning": "Dimana pedangku?"
  },
  {
   "word": "話題",
@@ -12766,9 +12766,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "topik, subjek",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は話題を変えた。",
+  "exampleReading": "かのじょはわだいをかえた。",
+  "exampleMeaning": "Dia mengubah topik pembicaraan."
  },
  {
   "word": "通過",
@@ -12777,9 +12777,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "melewati, melewati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "車は門を通過した。",
+  "exampleReading": "くるまはもんをつうかした。",
+  "exampleMeaning": "Mobil melewati sebuah gerbang."
  },
  {
   "word": "滅多に",
@@ -12788,9 +12788,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jarang (dengan kata kerja neg.),jarang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "滅多に会わない。",
+  "exampleReading": "めったにあわない。",
+  "exampleMeaning": "Saya jarang melihat mereka."
  },
  {
   "word": "度",
@@ -12799,9 +12799,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "counter untuk kejadian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "もう一度言って！",
+  "exampleReading": "もういちどいって！",
+  "exampleMeaning": "Katakan itu lagi!"
  },
  {
   "word": "希望",
@@ -12810,9 +12810,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "harapan, keinginan, aspirasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あまり希望がない。",
+  "exampleReading": "あまりきぼうがない。",
+  "exampleMeaning": "Tidak banyak harapan."
  },
  {
   "word": "様子",
@@ -12821,9 +12821,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aspek, keadaan, penampilan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "様子を見て来て。",
+  "exampleReading": "ようすをみてきて。",
+  "exampleMeaning": "Periksa semuanya."
  },
  {
   "word": "越す",
@@ -12832,9 +12832,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk pergi (misalnya dengan penonton)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どこに引っ越すの？",
+  "exampleReading": "どこにひっこすの？",
+  "exampleMeaning": "Kemana kamu akan pindah?"
  },
  {
   "word": "チャンス",
@@ -12843,9 +12843,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesempatan, peluang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "最後のチャンス！",
+  "exampleReading": "さいごのちゃんす！",
+  "exampleMeaning": "Panggilan terakhir!"
  },
  {
   "word": "交際",
@@ -12854,9 +12854,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perusahaan, persahabatan, asosiasi, masyarakat, kenalan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "3年間交際していた彼氏と先日別れました。",
+  "exampleReading": "3ねんかんこうさいしていたかれしとせんじつわかれました。",
+  "exampleMeaning": "Saya baru saja putus dengan pacar saya selama tiga tahun."
  },
  {
   "word": "申し込む",
@@ -12865,9 +12865,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melamar, untuk membuat aplikasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "奨学金を申し込むつもりだよ。",
+  "exampleReading": "しょうがくきんをもうしこむつもりだよ。",
+  "exampleMeaning": "Saya akan mengajukan permohonan beasiswa."
  },
  {
   "word": "程",
@@ -12876,9 +12876,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "derajat, luas, batas, batas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "過程が大切です。",
+  "exampleReading": "かていがたいせつです。",
+  "exampleMeaning": "Prosesnya penting."
  },
  {
   "word": "救助",
@@ -12887,9 +12887,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bantuan, bantuan, penyelamatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "乗組員全員が救助された。",
+  "exampleReading": "のりくみいんぜんいんがきゅうじょされた。",
+  "exampleMeaning": "Seluruh kru diselamatkan."
  },
  {
   "word": "新た",
@@ -12898,9 +12898,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baru, segar, baru",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "新たな事実が発覚した。",
+  "exampleReading": "あらたなじじつがはっかくした。",
+  "exampleMeaning": "Fakta-fakta baru terungkap."
  },
  {
   "word": "列車",
@@ -12909,9 +12909,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kereta api (biasa)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "列車に乗ってた？",
+  "exampleReading": "れっしゃにのってた？",
+  "exampleMeaning": "Apakah kamu di kereta?"
  },
  {
   "word": "一種",
@@ -12920,9 +12920,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suatu spesies, suatu jenis, suatu keanekaragaman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "蚊は昆虫の一種です。",
+  "exampleReading": "かはこんちゅうのいちしゅです。",
+  "exampleMeaning": "Nyamuk adalah serangga."
  },
  {
   "word": "考え",
@@ -12931,9 +12931,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berpikir,pikiran,ide,niat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "考えすぎよ。",
+  "exampleReading": "かんがえすぎよ。",
+  "exampleMeaning": "Anda terlalu memikirkan banyak hal."
  },
  {
   "word": "商売",
@@ -12942,9 +12942,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perdagangan, bisnis, perdagangan, transaksi, pekerjaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君は商売熱心だね。",
+  "exampleReading": "きみはしょうばいねっしんだね。",
+  "exampleMeaning": "Anda bekerja keras."
  },
  {
   "word": "欠席",
@@ -12953,9 +12953,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ketidakhadiran, ketidakhadiran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは欠席です。",
+  "exampleReading": "とむはけっせきです。",
+  "exampleMeaning": "Tom tidak hadir."
  },
  {
   "word": "絶対",
@@ -12964,9 +12964,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mutlak, tanpa syarat, kemutlakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "絶対に無理！",
+  "exampleReading": "ぜったいにむり！",
+  "exampleMeaning": "Saat babi terbang!"
  },
  {
   "word": "農家",
@@ -12975,9 +12975,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "petani, keluarga petani",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私って、農家の人に見える？",
+  "exampleReading": "わたしって、のうかのひとにみえる？",
+  "exampleMeaning": "Apakah saya terlihat seperti seorang petani?"
  },
  {
   "word": "幾つ",
@@ -12986,9 +12986,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berapa banyak?, berapa umurnya?",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "林檎は幾つですか？",
+  "exampleReading": "りんごはいくつですか？",
+  "exampleMeaning": "Berapa banyak apel yang ada di sana?"
  },
  {
   "word": "信号",
@@ -12997,9 +12997,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lampu lalu lintas, sinyal, semaphore",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "信号待ってます。",
+  "exampleReading": "しんごうまってます。",
+  "exampleMeaning": "Aku menunggu di lampu lalu lintas."
  },
  {
   "word": "付ける",
@@ -13008,9 +13008,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melampirkan, untuk bergabung, untuk menambahkan, untuk menambahkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "僕は奴らを引き付ける。",
+  "exampleReading": "ぼくはやつらをひきつける。",
+  "exampleMeaning": "Saya akan menarik orang-orang itu."
  },
  {
   "word": "そして",
@@ -13019,9 +13019,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Dan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そして愛が好き。",
+  "exampleReading": "そしてあいがすき。",
+  "exampleMeaning": "Dan aku suka cinta."
  },
  {
   "word": "ぼんやり",
@@ -13030,9 +13030,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "linglung, bodoh, redup, pingsan, tidak jelas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女はぼんやりして頼りない者だ。",
+  "exampleReading": "かのじょはぼんやりしてたよりないものだ。",
+  "exampleMeaning": "Dia adalah orang yang linglung dan tidak bisa diandalkan."
  },
  {
   "word": "スキー",
@@ -13041,9 +13041,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bermain ski",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "スキーに行かない？",
+  "exampleReading": "すきーにいかない？",
+  "exampleMeaning": "Bagaimana menurutmu kita bermain ski?"
  },
  {
   "word": "辛い",
@@ -13052,9 +13052,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "menyakitkan, menyayat hati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人気者は辛いね。",
+  "exampleReading": "にんきしゃはつらいね。",
+  "exampleMeaning": "Tidak mudah menjadi populer."
  },
  {
   "word": "生命",
@@ -13063,9 +13063,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hidup, keberadaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "生命は神秘に満ちている。",
+  "exampleReading": "せいめいはしんぴにみちている。",
+  "exampleMeaning": "Hidup ini penuh misteri."
  },
  {
   "word": "構う",
@@ -13074,9 +13074,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk dipikirkan, untuk dipedulikan, untuk dikhawatirkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "もう構うのはやめてくれよ。",
+  "exampleReading": "もうかまうのはやめてくれよ。",
+  "exampleMeaning": "Hentikan anjing Anda."
  },
  {
   "word": "交換",
@@ -13085,9 +13085,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertukaran, pertukaran, timbal balik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誰と誰を交換する？",
+  "exampleReading": "だれとだれをこうかんする？",
+  "exampleMeaning": "Siapa yang ditukar dengan siapa?"
  },
  {
   "word": "知事",
@@ -13096,9 +13096,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gubernur prefektur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "知事に立候補するおつもりですか？",
+  "exampleReading": "ちじにりっこうほするおつもりですか？",
+  "exampleMeaning": "Apakah Anda akan mencalonkan diri sebagai gubernur?"
  },
  {
   "word": "やはり",
@@ -13107,9 +13107,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "juga, seperti dugaanku, tetap saja, meskipun, tentu saja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は頭がよいがやはり嫌いだ。",
+  "exampleReading": "かれはあたまがよいがやはりきらいだ。",
+  "exampleMeaning": "Dia cerdas, tapi aku tetap tidak menyukainya."
  },
  {
   "word": "進める",
@@ -13118,9 +13118,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memajukan, untuk mempromosikan, untuk mempercepat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "阿吽の呼吸で事を進める彼らが羨ましい。",
+  "exampleReading": "あうんのこきゅうでことをすすめるかれらがうらやましい。",
+  "exampleMeaning": "Saya merasa iri karena mereka bisa maju dalam harmoni seperti itu."
  },
  {
   "word": "爆発",
@@ -13129,9 +13129,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ledakan, detonasi, letusan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "爆発の原因は何だったの？",
+  "exampleReading": "ばくはつのげんいんはなにだったの？",
+  "exampleMeaning": "Apa penyebab ledakan tersebut?"
  },
  {
   "word": "かわいそう",
@@ -13140,9 +13140,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "miskin, menyedihkan, menyedihkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女がかわいそうだよ。",
+  "exampleReading": "かのじょがかわいそうだよ。",
+  "exampleMeaning": "Saya merasa kasihan padanya."
  },
  {
   "word": "横切る",
@@ -13151,9 +13151,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyilangkan (misalnya lengan), untuk melintasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "道路を横切るな。",
+  "exampleReading": "どうろをよこぎるな。",
+  "exampleMeaning": "Jangan menyeberang jalan."
  },
  {
   "word": "害",
@@ -13162,9 +13162,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cedera, bahaya, pengaruh jahat, kerusakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "害になる薬もある。",
+  "exampleReading": "がいになるくすりもある。",
+  "exampleMeaning": "Beberapa obat membahayakan kita."
  },
  {
   "word": "自殺",
@@ -13173,9 +13173,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bunuh diri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは自殺した。",
+  "exampleReading": "とむはじさつした。",
+  "exampleMeaning": "Tom bunuh diri."
  },
  {
   "word": "トラック",
@@ -13184,9 +13184,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) truk, (2) lintasan (berlari).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トラックに荷物を積んだ。",
+  "exampleReading": "とらっくににもつをつんだ。",
+  "exampleMeaning": "Bagasinya ditumpuk di dalam truk."
  },
  {
   "word": "承知",
@@ -13195,9 +13195,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persetujuan, penerimaan, persetujuan, pengakuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "みんな承知の上さ。",
+  "exampleReading": "みんなしょうちのうえさ。",
+  "exampleMeaning": "Semua orang mengetahuinya."
  },
  {
   "word": "宇宙",
@@ -13206,9 +13206,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "alam semesta, kosmos, ruang angkasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "宇宙人に会った。",
+  "exampleReading": "うちゅうじんにあった。",
+  "exampleMeaning": "Saya melihat alien."
  },
  {
   "word": "適切",
@@ -13217,9 +13217,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "relevan, sesuai, memadai, relevansi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼の意見は適切だと思った。",
+  "exampleReading": "かれのいけんはてきせつだとおもった。",
+  "exampleMeaning": "Saya pikir ucapannya sangat tepat."
  },
  {
   "word": "ダイヤ",
@@ -13228,9 +13228,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pewarna, (2) diagram, (3) jadwal (kereta api), (4) berlian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ダイヤが乱れていた。",
+  "exampleReading": "だいやがみだれていた。",
+  "exampleMeaning": "Jadwalnya terganggu."
  },
  {
   "word": "管理",
@@ -13239,9 +13239,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontrol, manajemen (misalnya bisnis)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "管理者さんですよね？",
+  "exampleReading": "かんりしゃさんですよね？",
+  "exampleMeaning": "Andalah orang yang bertanggung jawab, bukan?"
  },
  {
   "word": "豊か",
@@ -13250,9 +13250,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berlimpah, kaya, berlimpah, kaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "創造性豊かな奴だな。",
+  "exampleReading": "そうぞうせいゆたかなやっこだな。",
+  "exampleMeaning": "Anda orang yang cukup kreatif."
  },
  {
   "word": "競技",
@@ -13261,9 +13261,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "permainan, pertandingan, kontes",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ラグビーは屋外競技である。",
+  "exampleReading": "らぐびーはおくがいきょうぎである。",
+  "exampleMeaning": "Rugby adalah permainan luar ruangan."
  },
  {
   "word": "設計",
@@ -13272,9 +13272,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "rencana, desain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼がその車を設計した。",
+  "exampleReading": "かれがそのくるまをせっけいした。",
+  "exampleMeaning": "Dia merancang mobil itu."
  },
  {
   "word": "汚染",
@@ -13283,9 +13283,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "polusi, kontaminasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "汚染は抑えられます。",
+  "exampleReading": "おせんはおさえられます。",
+  "exampleMeaning": "Polusi dapat dikendalikan."
  },
  {
   "word": "調子",
@@ -13294,9 +13294,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nada, nada, kunci",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は調子どう？",
+  "exampleReading": "きょうはちょうしどう？",
+  "exampleMeaning": "Bagaimana perasaanmu hari ini?"
  },
  {
   "word": "かなり",
@@ -13305,9 +13305,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cukup, cukup, cukup",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "かなり野性的ね。",
+  "exampleReading": "かなりやせいてきね。",
+  "exampleMeaning": "Ini sangat liar."
  },
  {
   "word": "海外",
@@ -13316,9 +13316,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "asing, luar negeri, luar negeri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "海外へ行きます。",
+  "exampleReading": "かいがいへいきます。",
+  "exampleMeaning": "Saya akan pergi ke luar negeri."
  },
  {
   "word": "安定",
@@ -13327,9 +13327,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "stabilitas, keseimbangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "生活を安定させたい。",
+  "exampleReading": "せいかつをあんていさせたい。",
+  "exampleMeaning": "Saya ingin stabilitas dalam hidup saya."
  },
  {
   "word": "それ",
@@ -13338,9 +13338,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "itu, itu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それ解ける？",
+  "exampleReading": "それとける？",
+  "exampleMeaning": "Apakah Anda mampu menyelesaikannya?"
  },
  {
   "word": "きつい",
@@ -13349,9 +13349,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "ketat, dekat, intens",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この仕事はきつい？",
+  "exampleReading": "このしごとはきつい？",
+  "exampleMeaning": "Apakah pekerjaan itu terlalu berat bagi Anda?"
  },
  {
   "word": "記者",
@@ -13360,9 +13360,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "reporter",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "新聞記者になりたい。",
+  "exampleReading": "しんぶんきしゃになりたい。",
+  "exampleMeaning": "Saya ingin menjadi jurnalis."
  },
  {
   "word": "負け",
@@ -13371,9 +13371,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekalahan, kekalahan, kekalahan (permainan)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私の負けだ。",
+  "exampleReading": "わたしのまけだ。",
+  "exampleMeaning": "saya menyerah."
  },
  {
   "word": "流れ",
@@ -13382,9 +13382,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aliran, arus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "雲が流れていく。",
+  "exampleReading": "くもがながれていく。",
+  "exampleMeaning": "Awan mulai menghilang."
  },
  {
   "word": "評価",
@@ -13393,9 +13393,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penilaian, estimasi, penilaian, evaluasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "全ての評価がいつも五だ。",
+  "exampleReading": "すべてのひょうかがいつもごだ。",
+  "exampleMeaning": "Setiap peringkat selalu lima."
  },
  {
   "word": "憲法",
@@ -13404,9 +13404,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "konstitusi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "憲法を侵してはならない。",
+  "exampleReading": "けんぽうをおかしてはならない。",
+  "exampleMeaning": "Kita tidak boleh melanggar Konstitusi."
  },
  {
   "word": "劇場",
@@ -13415,9 +13415,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teater, rumah bermain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は劇場にいました。",
+  "exampleReading": "わたしはげきじょうにいました。",
+  "exampleMeaning": "Saya berada di teater."
  },
  {
   "word": "働き",
@@ -13426,9 +13426,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerja, buruh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は働き続けた。",
+  "exampleReading": "かれははたらきつづけた。",
+  "exampleMeaning": "Dia terus bekerja."
  },
  {
   "word": "停留所",
@@ -13437,9 +13437,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "halte bus atau trem",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "次の停留所で降ります。",
+  "exampleReading": "つぎのていりゅうじょでおります。",
+  "exampleMeaning": "Saya akan turun di pemberhentian berikutnya."
  },
  {
   "word": "骨",
@@ -13448,9 +13448,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tulang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "骨折はしてない。",
+  "exampleReading": "こっせつはしてない。",
+  "exampleMeaning": "Tidak ada tulang yang patah."
  },
  {
   "word": "おめでとう",
@@ -13459,9 +13459,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Selamat!, kesempatan yang baik!",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "結婚おめでとう。",
+  "exampleReading": "けっこんおめでとう。",
+  "exampleMeaning": "Izinkan saya mengucapkan selamat atas pernikahan Anda."
  },
  {
   "word": "空く",
@@ -13470,9 +13470,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) terbuka, menjadi kosong, (2) menjadi kurang ramai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ただいま満席です。席が空くまでこちらでお待ちください。",
+  "exampleReading": "ただいままんせきです。せきがすくまでこちらでおまちください。",
+  "exampleMeaning": "Kami sudah kenyang sekarang."
  },
  {
   "word": "メンバー",
@@ -13481,9 +13481,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggota",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムはメンバーですか？",
+  "exampleReading": "とむはめんばーですか？",
+  "exampleMeaning": "Apakah Tom anggota?"
  },
  {
   "word": "癖",
@@ -13492,9 +13492,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebuah kebiasaan (seringkali merupakan kebiasaan buruk),kekhasan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "癖になったんだ。",
+  "exampleReading": "くせになったんだ。",
+  "exampleMeaning": "Itu menjadi kebiasaan."
  },
  {
   "word": "詩",
@@ -13503,9 +13503,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "puisi, sajak puisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この詩、いいね。",
+  "exampleReading": "このし、いいね。",
+  "exampleMeaning": "Saya suka puisi ini."
  },
  {
   "word": "感じる",
@@ -13514,9 +13514,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "merasakan, merasakan, mengalami",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "すごく年を感じる。",
+  "exampleReading": "すごくとしをかんじる。",
+  "exampleMeaning": "Saya merasa sangat tua."
  },
  {
   "word": "上",
@@ -13525,9 +13525,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "atas, luar, permukaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "立ち上がれ！",
+  "exampleReading": "たちあがれ！",
+  "exampleMeaning": "Bangun!"
  },
  {
   "word": "いずれ",
@@ -13536,9 +13536,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dimana, yang mana, siapa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "いずれは死ぬんだよ。",
+  "exampleReading": "いずれはしぬんだよ。",
+  "exampleMeaning": "Kita akan mati cepat atau lambat."
  },
  {
   "word": "保存",
@@ -13547,9 +13547,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pelestarian, konservasi, penyimpanan, pemeliharaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "-18℃以下で保存してください。",
+  "exampleReading": "-18℃いかでほぞんしてください。",
+  "exampleMeaning": "Harap simpan pada suhu -18°C atau lebih rendah."
  },
  {
   "word": "あちこち",
@@ -13558,9 +13558,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di sana-sini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あちこち痒いよ。",
+  "exampleReading": "あちこちかゆいよ。",
+  "exampleMeaning": "Saya merasa gatal dimana-mana."
  },
  {
   "word": "適度",
@@ -13569,9 +13569,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sedang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "適度の運動は体に良い。",
+  "exampleReading": "てきどのうんどうはからだによい。",
+  "exampleMeaning": "Olahraga ringan akan bermanfaat bagi Anda."
  },
  {
   "word": "横断",
@@ -13580,9 +13580,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "persimpangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は道路を横断した。",
+  "exampleReading": "かれはどうろをおうだんした。",
+  "exampleMeaning": "Dia menyeberang jalan."
  },
  {
   "word": "いけない",
@@ -13591,9 +13591,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "tidak boleh melakukan, buruk, salah, tidak baik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "なぜいけないの？",
+  "exampleReading": "なぜいけないの？",
+  "exampleMeaning": "Mengapa tidak?"
  },
  {
   "word": "布",
@@ -13602,9 +13602,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "布団干しといて。",
+  "exampleReading": "ふとんほしといて。",
+  "exampleMeaning": "Beri udara pada futon."
  },
  {
   "word": "夕べ",
@@ -13613,9 +13613,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "malam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "夕べ大雪が降った。",
+  "exampleReading": "ゆうべおおゆきがふった。",
+  "exampleMeaning": "Tadi malam turun salju lebat."
  },
  {
   "word": "専攻",
@@ -13624,9 +13624,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mata pelajaran utama, studi khusus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何を専攻するの？",
+  "exampleReading": "なにをせんこうするの？",
+  "exampleMeaning": "Kamu akan mengambil jurusan apa?"
  },
  {
   "word": "答案",
@@ -13635,9 +13635,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kertas ujian, naskah ujian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "答案を出して下さい。",
+  "exampleReading": "とうあんをだしてください。",
+  "exampleMeaning": "Serahkan surat-surat Anda."
  },
  {
   "word": "寄付",
@@ -13646,9 +13646,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontribusi, sumbangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は大金を寄付した。",
+  "exampleReading": "かれはたいきんをきふした。",
+  "exampleMeaning": "Dia menghasilkan banyak uang."
  },
  {
   "word": "円",
@@ -13657,9 +13657,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lingkaran, uang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "見て、円盤だよ！",
+  "exampleReading": "みて、えんばんだよ！",
+  "exampleMeaning": "Lihat!"
  },
  {
   "word": "罹る",
@@ -13679,9 +13679,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pilot",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "将来はパイロットになりたいです。",
+  "exampleReading": "しょうらいはぱいろっとになりたいです。",
+  "exampleMeaning": "Saya ingin menjadi pilot di masa depan."
  },
  {
   "word": "係",
@@ -13690,9 +13690,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pejabat, tugas, penanggung jawab",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私には関係ない！",
+  "exampleReading": "わたしにはかんけいない！",
+  "exampleMeaning": "Itu bukan urusanku!"
  },
  {
   "word": "偶",
@@ -13701,9 +13701,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bilangan genap,pasangan,pria dan istri,teman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "１２は偶数である。",
+  "exampleReading": "いちにはぐうすうである。",
+  "exampleMeaning": "Dua belas adalah bilangan genap."
  },
  {
   "word": "コーチ",
@@ -13712,9 +13712,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pelatih",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムのコーチです。",
+  "exampleReading": "とむのコーチです。",
+  "exampleMeaning": "Saya pelatih Tom."
  },
  {
   "word": "検査",
@@ -13723,9 +13723,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "inspeksi (misalnya bea cukai, pabrik), pemeriksaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "目の検査を受けた。",
+  "exampleReading": "めのけんさをうけた。",
+  "exampleMeaning": "Mataku diuji."
  },
  {
   "word": "位",
@@ -13734,9 +13734,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelas, pangkat, tentang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は三位に入賞した。",
+  "exampleReading": "かれはさんいににゅうしょうした。",
+  "exampleMeaning": "Dia memenangkan hadiah ketiga."
  },
  {
   "word": "従う",
@@ -13745,9 +13745,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mematuhi (menurut aturan), untuk mematuhi, untuk mengikuti, untuk menemani",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "両親には従うべきだ。",
+  "exampleReading": "りょうしんにはしたがうべきだ。",
+  "exampleMeaning": "Kamu harus mematuhi orang tuamu."
  },
  {
   "word": "維持",
@@ -13756,9 +13756,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemeliharaan, pelestarian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "維持費もバカにならない。",
+  "exampleReading": "いじひもばかにならない。",
+  "exampleMeaning": "Pemeliharaannya saja memerlukan biaya yang tidak sedikit."
  },
  {
   "word": "陰",
@@ -13767,9 +13767,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "naungan, bayangan, sisi lain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "日陰にいなさい。",
+  "exampleReading": "ひかげにいなさい。",
+  "exampleMeaning": "Simpan di tempat teduh."
  },
  {
   "word": "節約",
@@ -13778,9 +13778,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menghemat, menabung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "もっと節約したいな。",
+  "exampleReading": "もっとせつやくしたいな。",
+  "exampleMeaning": "Saya ingin menghemat lebih banyak uang."
  },
  {
   "word": "光景",
@@ -13789,9 +13789,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "adegan, tontonan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "感動的な光景だった。",
+  "exampleReading": "かんどうてきなこうけいだった。",
+  "exampleMeaning": "Itu adalah pemandangan yang mengharukan."
  },
  {
   "word": "他人",
@@ -13800,9 +13800,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang lain, orang yang tidak berhubungan, orang luar, orang asing",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "自分は他人である。",
+  "exampleReading": "じぶんはたにんである。",
+  "exampleMeaning": "Saya adalah orang lain."
  },
  {
   "word": "祝い",
@@ -13811,9 +13811,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perayaan, festival",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私の結婚祝いに何くれる？",
+  "exampleReading": "わたしのけっこんいわいになにくれる？",
+  "exampleMeaning": "Apa yang akan kamu berikan padaku di pernikahanku?"
  },
  {
   "word": "主婦",
@@ -13822,9 +13822,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ibu rumah tangga, nyonya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "３０歳、専業主婦です。",
+  "exampleReading": "さんぜろさい、せんぎょうしゅふです。",
+  "exampleMeaning": "Saya seorang ibu rumah tangga berusia tiga puluh tahun."
  },
  {
   "word": "思わず",
@@ -13833,9 +13833,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak disengaja, spontan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は思わず泣いた。",
+  "exampleReading": "わたしはおもわずないた。",
+  "exampleMeaning": "Aku menangis sendiri."
  },
  {
   "word": "移す",
@@ -13844,9 +13844,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menghapus, untuk mentransfer, untuk menginfeksi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "風邪を人に移すと治るって本当？",
+  "exampleReading": "かぜをひとにうつすとなおるってほんとう？",
+  "exampleMeaning": "Benarkah pilek bisa sembuh jika menularkannya ke orang lain?"
  },
  {
   "word": "団体",
@@ -13855,9 +13855,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "organisasi, asosiasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "団体旅行は楽しめないんだ。",
+  "exampleReading": "だんたいりょこうはたのしめないんだ。",
+  "exampleMeaning": "Saya tidak suka bepergian dalam kelompok besar."
  },
  {
   "word": "日常",
@@ -13866,9 +13866,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biasa, biasa, sehari-hari, biasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "こういう事は、日常茶飯事だ。",
+  "exampleReading": "こういうことは、にちじょうさはんじだ。",
+  "exampleMeaning": "Hal seperti ini terjadi setiap saat."
  },
  {
   "word": "基本",
@@ -13877,9 +13877,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "landasan, dasar, standar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "まずは基本から。",
+  "exampleReading": "まずはきほんから。",
+  "exampleMeaning": "Mulailah dengan dasar-dasarnya."
  },
  {
   "word": "敵",
@@ -13888,9 +13888,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "musuh, saingan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "着物姿、素敵ね。",
+  "exampleReading": "きものすがた、すてきね。",
+  "exampleMeaning": "Kamu terlihat cantik dengan kimono."
  },
  {
   "word": "しまう",
@@ -13899,9 +13899,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyelesaikan, menutup, melakukan sesuatu sepenuhnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "可愛すぎて溶けてしまう。",
+  "exampleReading": "かわいすぎてとけてしまう。",
+  "exampleMeaning": "Lucu sekali, aku akan meleleh."
  },
  {
   "word": "こんにちは",
@@ -13910,9 +13910,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "halo, selamat siang (sapaan siang hari, id)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "こんにちは、リサ！",
+  "exampleReading": "こんにちは、りさ！",
+  "exampleMeaning": "Halo Lisa."
  },
  {
   "word": "つまり",
@@ -13921,9 +13921,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "singkatnya, singkatnya, dengan kata lain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "つまりどういうこと？",
+  "exampleReading": "つまりどういうこと？",
+  "exampleMeaning": "Maksudnya itu apa?"
  },
  {
   "word": "ゴール",
@@ -13932,9 +13932,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sasaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誰がゴールキーパー？",
+  "exampleReading": "だれがごーるきーぱー？",
+  "exampleMeaning": "Siapa kipernya?"
  },
  {
   "word": "製品",
@@ -13943,9 +13943,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "barang jadi, barang jadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "製品コードは何ですか？",
+  "exampleReading": "せいひんこーどはなにですか？",
+  "exampleMeaning": "Apa kode produknya?"
  },
  {
   "word": "案内",
@@ -13954,9 +13954,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "informasi, bimbingan, memimpin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "町を案内しましょう。",
+  "exampleReading": "まちをあんないしましょう。",
+  "exampleMeaning": "Aku akan mengajakmu berkeliling kota."
  },
  {
   "word": "電子",
@@ -13965,9 +13965,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "elektron",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "電子レンジ使える？",
+  "exampleReading": "でんしれんじつかえる？",
+  "exampleMeaning": "Bisakah Anda menggunakan microwave?"
  },
  {
   "word": "それぞれ",
@@ -13976,9 +13976,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "masing-masing, setiap, masing-masing, beberapa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人それぞれです。",
+  "exampleReading": "ひとそれぞれです。",
+  "exampleMeaning": "Setiap orang berbeda."
  },
  {
   "word": "拡大",
@@ -13987,9 +13987,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pembesaran, pembesaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "拡大ボタンはこれね。",
+  "exampleReading": "かくだいぼたんはこれね。",
+  "exampleMeaning": "Ini adalah tombol zoom."
  },
  {
   "word": "とにかく",
@@ -13998,9 +13998,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bagaimanapun juga, bagaimanapun juga, bagaimanapun juga, entah bagaimana atau lainnya, secara umum, dalam hal apapun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "とにかく起きろ。",
+  "exampleReading": "とにかくおきろ。",
+  "exampleMeaning": "Bangun saja."
  },
  {
   "word": "一致",
@@ -14009,9 +14009,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) kebetulan, kesepakatan, (2) kesesuaian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君は言行不一致だ。",
+  "exampleReading": "きみはげんこうふいっちだ。",
+  "exampleMeaning": "Kata-katamu tidak sesuai dengan tindakanmu."
  },
  {
   "word": "どこか",
@@ -14020,9 +14020,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di suatu tempat, di mana saja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "我が子はどこかな？",
+  "exampleReading": "わがこはどこかな？",
+  "exampleMeaning": "Dimana anakku?"
  },
  {
   "word": "ノック",
@@ -14031,9 +14031,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) ketukan, (2) fungo (bisbol)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ノックの音がした？",
+  "exampleReading": "のっくのおとがした？",
+  "exampleMeaning": "Apakah Anda mendengar ketukan?"
  },
  {
   "word": "鉄",
@@ -14042,9 +14042,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "besi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "金は鉄より重い。",
+  "exampleReading": "きんはてつよりおもい。",
+  "exampleMeaning": "Emas lebih berat dari besi."
  },
  {
   "word": "税金",
@@ -14053,9 +14053,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pajak, bea",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "税金をお支払いください。",
+  "exampleReading": "ぜいきんをおしはらいください。",
+  "exampleMeaning": "Silakan membayar pajak."
  },
  {
   "word": "四",
@@ -14064,9 +14064,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "empat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は四十歳です。",
+  "exampleReading": "わたしはよんじゅうさいです。",
+  "exampleMeaning": "Saya berumur empat puluh tahun."
  },
  {
   "word": "強力",
@@ -14075,9 +14075,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekuatan raksasa, pemandu pembawa gunung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ゴキブリを殺すにはデコピンが一番強力な武器だ。",
+  "exampleReading": "ごきぶりをころすにはデコピンがいちばんきょうりょくなぶきだ。",
+  "exampleMeaning": "Jentik jari merupakan senjata terkuat untuk membunuh kecoa."
  },
  {
   "word": "現象",
@@ -14086,9 +14086,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gejala",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "見たことない現象だ。",
+  "exampleReading": "みたことないげんしょうだ。",
+  "exampleMeaning": "Ini adalah fenomena yang belum pernah saya lihat sebelumnya."
  },
  {
   "word": "罰する",
@@ -14097,9 +14097,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menghukum, untuk menghukum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君が彼を罰するのは筋違いだと思った。",
+  "exampleReading": "きみがかれをばっするのはすじちがいだとおもった。",
+  "exampleMeaning": "Kami pikir itu salah jika Anda harus menghukumnya."
  },
  {
   "word": "主張",
@@ -14108,9 +14108,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "klaim, permintaan, desakan, penegasan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "サミは主張した。",
+  "exampleReading": "サミはしゅちょうした。",
+  "exampleMeaning": "Sami bersikeras."
  },
  {
   "word": "音",
@@ -14119,9 +14119,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suara, catatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これ何の音？",
+  "exampleReading": "これなにのおと？",
+  "exampleMeaning": "Suara apa ini?"
  },
  {
   "word": "轢く",
@@ -14141,9 +14141,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gubuk, kabin, gudang, kandang (hewan).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "豚は小屋にいない。",
+  "exampleReading": "ぶたはこやにいない。",
+  "exampleMeaning": "Babi-babi itu tidak ada di dalam kandang."
  },
  {
   "word": "個人",
@@ -14152,9 +14152,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "individu, orang pribadi, pribadi, pribadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それって、個人的意見？",
+  "exampleReading": "それって、こじんてきいけん？",
+  "exampleMeaning": "Apakah itu pendapat pribadi?"
  },
  {
   "word": "苦手",
@@ -14163,9 +14163,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "miskin (pada), lemah (dalam), tidak suka (dari)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "沈黙は苦手でね。",
+  "exampleReading": "ちんもくはにがてでね。",
+  "exampleMeaning": "Saya tidak suka keheningan."
  },
  {
   "word": "通行",
@@ -14174,9 +14174,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "lewat, lewat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その橋は通行禁止だ。",
+  "exampleReading": "そのはしはつうこうきんしだ。",
+  "exampleMeaning": "Jembatan ditutup untuk lalu lintas."
  },
  {
   "word": "宝",
@@ -14185,9 +14185,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "harta karun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは家宝です。",
+  "exampleReading": "これはかほうです。",
+  "exampleMeaning": "Ini adalah pusaka keluarga."
  },
  {
   "word": "与える",
@@ -14196,9 +14196,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "memberi, mempersembahkan, memberi penghargaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君に温もりを与えるよ。",
+  "exampleReading": "きみにぬくもりをあたえるよ。",
+  "exampleMeaning": "Aku akan membuatmu tetap hangat."
  },
  {
   "word": "知恵",
@@ -14207,9 +14207,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebijaksanaan, kecerdasan, kebijaksanaan, akal, kecerdasan, nasihat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は知恵のある人だ。",
+  "exampleReading": "かれはちえのあるひとだ。",
+  "exampleMeaning": "Dia adalah orang yang bijaksana."
  },
  {
   "word": "宝石",
@@ -14218,9 +14218,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "permata, permata",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は宝石で身を飾った。",
+  "exampleReading": "かのじょはほうせきでみをかざった。",
+  "exampleMeaning": "Dia menghiasi dirinya dengan permata."
  },
  {
   "word": "婚約",
@@ -14229,9 +14229,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertunangan, pertunangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "御婚約おめでとう。",
+  "exampleReading": "ごこんやくおめでとう。",
+  "exampleMeaning": "Izinkan saya mengucapkan selamat atas pertunangan Anda."
  },
  {
   "word": "嬉しい",
@@ -14240,9 +14240,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "senang, senang, menyenangkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は嬉しいです。",
+  "exampleReading": "かれはうれしいです。",
+  "exampleMeaning": "Dia bahagia."
  },
  {
   "word": "城",
@@ -14251,9 +14251,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kastil",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お城は木造です。",
+  "exampleReading": "おしろはもくぞうです。",
+  "exampleMeaning": "Kastil itu terbuat dari kayu."
  },
  {
   "word": "年寄",
@@ -14262,9 +14262,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang tua, orang lanjut usia",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "年寄りを優先しろ。",
+  "exampleReading": "としよりをゆうせんしろ。",
+  "exampleMeaning": "Jadikan orang tua sebagai prioritas!"
  },
  {
   "word": "マーケット",
@@ -14273,9 +14273,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pasar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日フリーマーケットに行こうよ！",
+  "exampleReading": "あしたふりーまーけっとにいこうよ！",
+  "exampleMeaning": "Ayo pergi ke pasar loak besok."
  },
  {
   "word": "外交",
@@ -14284,9 +14284,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "diplomasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は外交官になりたい。",
+  "exampleReading": "わたしはがいこうかんになりたい。",
+  "exampleMeaning": "Saya ingin menjadi diplomat."
  },
  {
   "word": "観客",
@@ -14295,9 +14295,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penonton, penonton",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "観客はすごく多かったよ。",
+  "exampleReading": "かんきゃくはすごくおおかったよ。",
+  "exampleMeaning": "Penontonnya sangat banyak."
  },
  {
   "word": "衛星",
@@ -14306,9 +14306,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "satelit",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "月は地球の衛星だ。",
+  "exampleReading": "つきはちきゅうのえいせいだ。",
+  "exampleMeaning": "Bulan adalah satelit bumi."
  },
  {
   "word": "取り上げる",
@@ -14317,9 +14317,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mengambil, mengambil, mendiskualifikasi, menyita, merampas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムからそれを取り上げる権利は、あなたにはありませんよ。",
+  "exampleReading": "とむからそれをとりあげるけんりは、あなたにはありませんよ。",
+  "exampleMeaning": "Anda tidak berhak mengambilnya dari Tom."
  },
  {
   "word": "義務",
@@ -14328,9 +14328,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tugas, kewajiban, tanggung jawab",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は義務を怠った。",
+  "exampleReading": "かれはぎむをおこたった。",
+  "exampleMeaning": "Dia mengabaikan tugasnya."
  },
  {
   "word": "至る",
@@ -14339,9 +14339,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk datang, untuk tiba",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は至る所で歓迎された。",
+  "exampleReading": "かれはいたるところでかんげいされた。",
+  "exampleMeaning": "Dia disambut di mana-mana."
  },
  {
   "word": "候補",
@@ -14350,9 +14350,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pencalonan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "后の候補は6名いた。",
+  "exampleReading": "きさきのこうほは6めいいた。",
+  "exampleMeaning": "Ada enam calon ratu."
  },
  {
   "word": "バッグ",
@@ -14361,9 +14361,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tas, serangga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "バッグが開いてるよ。",
+  "exampleReading": "ばっぐがひらいてるよ。",
+  "exampleMeaning": "Tasmu terbuka."
  },
  {
   "word": "水準",
@@ -14372,9 +14372,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) ketinggian air, (2) ketinggian, standar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "川は水準が高まっていた。",
+  "exampleReading": "かわはすいじゅんがたかまっていた。",
+  "exampleMeaning": "Ketinggian air sungai meningkat."
  },
  {
   "word": "平ら",
@@ -14383,9 +14383,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerataan, rata, halus, tenang, polos",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は全部平らげた。",
+  "exampleReading": "かれはぜんぶたいらげた。",
+  "exampleMeaning": "Dia memakan semuanya."
  },
  {
   "word": "作物",
@@ -14394,9 +14394,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hasil bumi (misalnya pertanian), tanaman pangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "作物は洪水の被害を受けた。",
+  "exampleReading": "さくもつはこうずいのひがいをうけた。",
+  "exampleMeaning": "Tanaman rusak akibat banjir."
  },
  {
   "word": "支払う",
@@ -14405,9 +14405,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membayar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現金で支払うつもりなの？",
+  "exampleReading": "げんきんでしはらうつもりなの？",
+  "exampleMeaning": "Apakah Anda akan membayar tunai?"
  },
  {
   "word": "飯",
@@ -14416,9 +14416,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(sl) makanan,makanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ご飯にする？",
+  "exampleReading": "ごはんにする？",
+  "exampleMeaning": "Apakah kamu ingin nasi?"
  },
  {
   "word": "型",
@@ -14427,9 +14427,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cetakan, model, gaya, bentuk, tipe data",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "歯型を取ります。",
+  "exampleReading": "はがたをとります。",
+  "exampleMeaning": "Aku akan mengambil cetakan gigimu."
  },
  {
   "word": "収入",
@@ -14438,9 +14438,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pendapatan, penerimaan, pendapatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "収入が１０％減った。",
+  "exampleReading": "しゅうにゅうがいちぜろぱーせんとへった。",
+  "exampleMeaning": "Penghasilan saya turun 10 persen."
  },
  {
   "word": "広告",
@@ -14449,9 +14449,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "iklan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "広告は入れないで？",
+  "exampleReading": "こうこくはいれないで？",
+  "exampleMeaning": "Bisakah Anda tidak menyertakan iklan?"
  },
  {
   "word": "おじいさん",
@@ -14460,9 +14460,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kakek, warga negara senior laki-laki",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "おじいさんの世話をする。",
+  "exampleReading": "おじいさんのせわをする。",
+  "exampleMeaning": "Saya merawat kakek saya."
  },
  {
   "word": "帰宅",
@@ -14471,9 +14471,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kembali ke rumah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は帰宅した。",
+  "exampleReading": "かのじょはきたくした。",
+  "exampleMeaning": "Dia pulang ke rumah."
  },
  {
   "word": "暮れ",
@@ -14482,9 +14482,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "akhir tahun, matahari terbenam, malam tiba, akhir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は途方に暮れた。",
+  "exampleReading": "わたしはとほうにくれた。",
+  "exampleMeaning": "Aku sudah kehabisan akal."
  },
  {
   "word": "禁煙",
@@ -14493,9 +14493,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "DILARANG MEROKOK!",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "館内は禁煙です。",
+  "exampleReading": "かんないはきんえんです。",
+  "exampleMeaning": "Dilarang merokok di dalam ruangan."
  },
  {
   "word": "宜しい",
@@ -14504,9 +14504,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "(sayang) bagus, oke, baiklah, baik, baiklah, bisa, boleh, bisa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ナイフを借りても宜しいでしょうか。",
+  "exampleReading": "ないふをかりてもよろしいでしょうか。",
+  "exampleMeaning": "Bolehkah aku meminjam pisaumu?"
  },
  {
   "word": "替える",
@@ -14515,9 +14515,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menukar, menukar, mengganti, mengganti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "体操服に着替えるのやだな。",
+  "exampleReading": "たいそうふくにきがえるのやだな。",
+  "exampleMeaning": "Saya tidak suka mengganti pakaian olahraga saya."
  },
  {
   "word": "寧ろ",
@@ -14537,9 +14537,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ビールって好き？",
+  "exampleReading": "びーるってすき？",
+  "exampleMeaning": "Apakah kamu suka bir?"
  },
  {
   "word": "疑問",
@@ -14548,9 +14548,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pertanyaan, masalah, keraguan, tebakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は疑問に思った。",
+  "exampleReading": "わたしはぎもんにおもった。",
+  "exampleMeaning": "Saya ragu."
  },
  {
   "word": "供給",
@@ -14559,9 +14559,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pasokan, penyediaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "牛は我々に牛乳を供給する。",
+  "exampleReading": "うしはわれわれにぎゅうにゅうをきょうきゅうする。",
+  "exampleMeaning": "Sapi memberi kita susu."
  },
  {
   "word": "スタイル",
@@ -14570,9 +14570,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はスタイルがいい。",
+  "exampleReading": "かれはすたいるがいい。",
+  "exampleMeaning": "Dia memiliki tubuh yang bagus."
  },
  {
   "word": "議員",
@@ -14581,9 +14581,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggota Diet, kongres atau parlemen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "首相は議員の処分を棚上げにしました。",
+  "exampleReading": "しゅしょうはぎいんのしょぶんをたなあげにしました。",
+  "exampleMeaning": "Perdana Menteri menunda hukuman legislator."
  },
  {
   "word": "スイッチ",
@@ -14592,9 +14592,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mengalihkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "スイッチは切れている。",
+  "exampleReading": "すいっちはきれている。",
+  "exampleMeaning": "Saklarnya mati."
  },
  {
   "word": "認める",
@@ -14603,9 +14603,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mengenali, mengapresiasi, menyetujui, mengakui, memperhatikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "認めるけど、条件が一つ。",
+  "exampleReading": "みとめるけど、じょうけんがひとつ。",
+  "exampleMeaning": "Aku akan menerimanya, tapi dengan satu syarat."
  },
  {
   "word": "最低",
@@ -14614,9 +14614,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "paling tidak, terendah, terburuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あの映画、最低！",
+  "exampleReading": "あのえいが、さいてい！",
+  "exampleMeaning": "Film itu bau!"
  },
  {
   "word": "でも",
@@ -14625,9 +14625,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tapi, bagaimanapun juga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何が何でも！",
+  "exampleReading": "なにがなにでも！",
+  "exampleMeaning": "Apa pun yang diperlukan!"
  },
  {
   "word": "科目",
@@ -14636,9 +14636,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(sekolah) mata pelajaran, kurikulum, kursus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "英語は必修科目です。",
+  "exampleReading": "えいごはひっしゅうかもくです。",
+  "exampleMeaning": "Bahasa Inggris adalah mata pelajaran wajib."
  },
  {
   "word": "ほぼ",
@@ -14647,9 +14647,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hampir, kira-kira, kira-kira",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "蜂蜜はほぼ糖分です。",
+  "exampleReading": "はちみつはほぼとうぶんです。",
+  "exampleMeaning": "Madu sebagian besar adalah gula."
  },
  {
   "word": "ただ",
@@ -14658,9 +14658,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gratis, belaka, saja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "言っただろ！",
+  "exampleReading": "いっただろ！",
+  "exampleMeaning": "Sudah kubilang sebelumnya!"
  },
  {
   "word": "長期",
@@ -14669,9 +14669,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jangka waktu yang lama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "長期休暇に何をしますか？",
+  "exampleReading": "ちょうききゅうかになにをしますか？",
+  "exampleMeaning": "Apa yang Anda lakukan selama cuti panjang?"
  },
  {
   "word": "空き",
@@ -14680,9 +14680,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ruangan, waktu luang, kekosongan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "空き箱あったよ。",
+  "exampleReading": "あきばこあったよ。",
+  "exampleMeaning": "Saya menemukan sebuah kotak kosong."
  },
  {
   "word": "限る",
@@ -14691,9 +14691,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membatasi, membatasi, membatasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "夏はスイカに限る！",
+  "exampleReading": "なつはすいかにかぎる！",
+  "exampleMeaning": "Di musim panas itu semangka atau tidak sama sekali!"
  },
  {
   "word": "芝居",
@@ -14702,9 +14702,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bermain, drama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "芝居は面白かったですか。",
+  "exampleReading": "しばいはおもしろかったですか。",
+  "exampleMeaning": "Apakah Anda bersenang-senang di teater?"
  },
  {
   "word": "土地",
@@ -14713,9 +14713,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebidang tanah, kavling, tanah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "石の多い土地ですね。",
+  "exampleReading": "いしのおおいとちですね。",
+  "exampleMeaning": "Itu tanah yang sangat berbatu, bukan?"
  },
  {
   "word": "塀",
@@ -14724,9 +14724,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dinding, pagar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は塀を乗り越えた。",
+  "exampleReading": "かれはへいをのりこえた。",
+  "exampleMeaning": "Dia memanjat pagar."
  },
  {
   "word": "離婚",
@@ -14735,9 +14735,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perceraian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "離婚したいんだ。",
+  "exampleReading": "りこんしたいんだ。",
+  "exampleMeaning": "Saya ingin bercerai."
  },
  {
   "word": "共同",
@@ -14746,9 +14746,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerjasama, asosiasi, kolaborasi, bersama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私たちは運命共同体だ。",
+  "exampleReading": "わたしたちはうんめいきょうどうたいだ。",
+  "exampleMeaning": "Kita berada di perahu yang sama."
  },
  {
   "word": "住民",
@@ -14757,9 +14757,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "warga negara, penduduk, penduduk, populasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その島の住民は友好的だ。",
+  "exampleReading": "そのしまのじゅうみんはゆうこうてきだ。",
+  "exampleMeaning": "Penduduk pulau ini ramah."
  },
  {
   "word": "街",
@@ -14768,9 +14768,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) kota, (2) jalan, jalan raya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "街に繰り出そう。",
+  "exampleReading": "まちにくりだそう。",
+  "exampleMeaning": "Ayo pergi ke kota."
  },
  {
   "word": "感覚",
@@ -14779,9 +14779,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rasa, sensasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "足の感覚がない。",
+  "exampleReading": "あしのかんかくがない。",
+  "exampleMeaning": "Aku tidak bisa merasakan kakiku."
  },
  {
   "word": "居眠り",
@@ -14790,9 +14790,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tertidur, tertidur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は居眠りをした。",
+  "exampleReading": "かれはいねむりをした。",
+  "exampleMeaning": "Dia tertidur."
  },
  {
   "word": "緊張",
@@ -14801,9 +14801,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ketegangan, ketegangan mental, kegelisahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "まだ緊張してる？",
+  "exampleReading": "まだきんちょうしてる？",
+  "exampleMeaning": "Apakah kamu masih gugup?"
  },
  {
   "word": "物音",
@@ -14812,9 +14812,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terdengar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "寝室で物音がした。",
+  "exampleReading": "しんしつでものおとがした。",
+  "exampleMeaning": "Saya mendengar sesuatu di kamar tidur."
  },
  {
   "word": "変化",
@@ -14823,9 +14823,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "goblin, hantu, penampakan, bugbear",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "変化の時でした。",
+  "exampleReading": "へんかのときでした。",
+  "exampleMeaning": "Sudah waktunya untuk perubahan."
  },
  {
   "word": "節",
@@ -14834,9 +14834,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nada, nada, simpul, kenop, titik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "余計なお節介だ。",
+  "exampleReading": "よけいなおせっかいだ。",
+  "exampleMeaning": "Jalani urusanmu."
  },
  {
   "word": "検討",
@@ -14845,9 +14845,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertimbangan, pemeriksaan, penyelidikan, pengkajian, penyelidikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その件は検討中だ。",
+  "exampleReading": "そのけんはけんとうちゅうだ。",
+  "exampleMeaning": "Masalah ini sekarang sedang dipertimbangkan."
  },
  {
   "word": "合わせる",
@@ -14856,9 +14856,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bergabung bersama, menjadi berlawanan, untuk menghadapi, untuk bersatu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "２．身頃の肩を縫い合わせる。",
+  "exampleReading": "に．みごろのかたをぬいあわせる。",
+  "exampleMeaning": "2. Jahit bagian bahu badan pakaian."
  },
  {
   "word": "別に",
@@ -14867,9 +14867,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(tidak) khususnya, tidak ada",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "別にいいじゃんかよ。",
+  "exampleReading": "べつにいいじゃんかよ。",
+  "exampleMeaning": "Tidak apa-apa bukan?"
  },
  {
   "word": "財産",
@@ -14878,9 +14878,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "properti, kekayaan, aset",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は全財産を失った。",
+  "exampleReading": "かれはぜんざいさんをうしなった。",
+  "exampleMeaning": "Dia kehilangan segalanya."
  },
  {
   "word": "飛ばす",
@@ -14889,9 +14889,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melewatkan, untuk menghilangkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "テストで解らないところは飛ばす。",
+  "exampleReading": "てすとでわからないところはとばす。",
+  "exampleMeaning": "Lewati bagian yang tidak Anda pahami dalam ujian."
  },
  {
   "word": "炎",
@@ -14900,9 +14900,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "api",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "炎を弱くしなさい。",
+  "exampleReading": "ほのおをよわくしなさい。",
+  "exampleMeaning": "Kecilkan apinya."
  },
  {
   "word": "発展",
@@ -14911,9 +14911,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perkembangan, pertumbuhan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ボストンはここ１０年間で急速に発展した。",
+  "exampleReading": "ぼすとんはここいちぜろねんかんできゅうそくにはってんした。",
+  "exampleMeaning": "Boston telah berkembang pesat dalam sepuluh tahun terakhir."
  },
  {
   "word": "越える",
@@ -14922,9 +14922,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melampaui, untuk menyeberang, untuk menyeberang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どうにか乗り越えるよ。",
+  "exampleReading": "どうにかのりこえるよ。",
+  "exampleMeaning": "Aku akan mengatasinya, entah bagaimana caranya."
  },
  {
   "word": "不安",
@@ -14933,9 +14933,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecemasan, kegelisahan, ketidakamanan, ketegangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は不安になった。",
+  "exampleReading": "かれはふあんになった。",
+  "exampleMeaning": "Dia merasa tidak nyaman."
  },
  {
   "word": "抜ける",
@@ -14944,9 +14944,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk keluar, rontok, dihilangkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "国境の長いトンネルを抜けると雪国であった。",
+  "exampleReading": "こっきょうのながいとんねるをぬけるとゆきぐにであった。",
+  "exampleMeaning": "Kereta keluar dari terowongan panjang yang membentuk perbatasan, dan disanalah negeri salju."
  },
  {
   "word": "下さる",
@@ -14955,9 +14955,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(hon) untuk memberi, untuk berunding",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "約束を守って下さるわね。",
+  "exampleReading": "やくそくをまもってくださるわね。",
+  "exampleMeaning": "Anda akan menepati janji Anda, bukan?"
  },
  {
   "word": "減る",
@@ -14966,9 +14966,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengurangi (dalam ukuran atau jumlah), untuk mengurangi, untuk mereda",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "列車の旅は減る傾向にある。",
+  "exampleReading": "れっしゃのたびはへるけいこうにある。",
+  "exampleMeaning": "Perjalanan dengan kereta api mengalami penurunan."
  },
  {
   "word": "粉",
@@ -14977,9 +14977,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tepung, tepung, bubuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼、花粉症なのよ。",
+  "exampleReading": "かれ、かふんしょうなのよ。",
+  "exampleMeaning": "Dia alergi terhadap serbuk sari."
  },
  {
   "word": "ごめんなさい",
@@ -14988,9 +14988,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Saya mohon maaf, permisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あっ、ごめんなさい。",
+  "exampleReading": "あっ、ごめんなさい。",
+  "exampleMeaning": "Maafkan aku."
  },
  {
   "word": "ピン",
@@ -14999,9 +14999,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今月はピンチだ。",
+  "exampleReading": "こんげつはぴんちだ。",
+  "exampleMeaning": "Uang sangat terbatas bagi saya bulan ini."
  },
  {
   "word": "必ずしも",
@@ -15010,9 +15010,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(tidak) selalu, (tidak) harus, (tidak) semua, (tidak) seluruhnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "逆は必ずしも真ならず。",
+  "exampleReading": "ぎゃくはかならずしもしんならず。",
+  "exampleMeaning": "Hal sebaliknya tidak selalu benar."
  },
  {
   "word": "左右",
@@ -15021,9 +15021,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) kiri dan kanan, (2) pengaruh, kendali, dominasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は左右を見た。",
+  "exampleReading": "かれはさゆうをみた。",
+  "exampleMeaning": "Dia melihat ke kiri dan ke kanan."
  },
  {
   "word": "速度",
@@ -15032,9 +15032,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecepatan, kecepatan, laju",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "制限速度ってある？",
+  "exampleReading": "せいげんそくどってある？",
+  "exampleMeaning": "Apakah ada batas kecepatan?"
  },
  {
   "word": "印",
@@ -15043,9 +15043,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) tanda, (2) lambang, (3) bukti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "すぐ印刷します。",
+  "exampleReading": "すぐいんさつします。",
+  "exampleMeaning": "Saya akan mencetaknya dengan cepat."
  },
  {
   "word": "移動",
@@ -15054,9 +15054,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemindahan, migrasi, perpindahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "車の移動をお願いします。",
+  "exampleReading": "くるまのいどうをおねがいします。",
+  "exampleMeaning": "Tolong pindahkan mobilmu keluar dari sini."
  },
  {
   "word": "友",
@@ -15065,9 +15065,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teman, sahabat, sahabat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムの友達なの？",
+  "exampleReading": "とむのともだちなの？",
+  "exampleMeaning": "Apakah kamu teman Tom?"
  },
  {
   "word": "命",
@@ -15076,9 +15076,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perintah, keputusan, kehidupan, takdir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "運命って信じる？",
+  "exampleReading": "うんめいってしんじる？",
+  "exampleMeaning": "Apakah Anda percaya pada takdir?"
  },
  {
   "word": "ふと",
@@ -15098,9 +15098,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "papan tulis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "黒板を見なさい。",
+  "exampleReading": "こくばんをみなさい。",
+  "exampleMeaning": "Lihatlah papan tulis."
  },
  {
   "word": "著者",
@@ -15109,9 +15109,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penulis, penulis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この本の著者は誰ですか。",
+  "exampleReading": "このほんのちょしゃはだれですか。",
+  "exampleMeaning": "Siapa penulis buku ini?"
  },
  {
   "word": "審判",
@@ -15120,9 +15120,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "wasit, percobaan, penilaian, wasit, wasit",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "審判の判定は覆らない。",
+  "exampleReading": "しんぱんのはんていはくつがえらない。",
+  "exampleMeaning": "Keputusan hakim bersifat final."
  },
  {
   "word": "休暇",
@@ -15131,9 +15131,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hari libur, hari libur, cuti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "まだ休暇中なの？",
+  "exampleReading": "まだきゅうかちゅうなの？",
+  "exampleMeaning": "Apakah kamu masih berlibur?"
  },
  {
   "word": "増す",
@@ -15142,9 +15142,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk meningkat, untuk tumbuh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は日に日に美しさを増す。",
+  "exampleReading": "かのじょはひにひにうつくしさをます。",
+  "exampleMeaning": "Dia semakin cantik dari hari ke hari."
  },
  {
   "word": "共に",
@@ -15153,9 +15153,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berbagi dengan, berpartisipasi dalam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あの人と一夜を共にしたの？",
+  "exampleReading": "あのひとといちやをともにしたの？",
+  "exampleMeaning": "Apakah kamu menghabiskan malam dengan pria itu?"
  },
  {
   "word": "少々",
@@ -15164,9 +15164,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tunggu sebentar, dalam jumlah kecil",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "少々お待ち下さい。",
+  "exampleReading": "しょうしょうおまちください。",
+  "exampleMeaning": "Tunggu sebentar."
  },
  {
   "word": "苦痛",
@@ -15175,9 +15175,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rasa sakit, penderitaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "富はあまたの苦痛を覆う。",
+  "exampleReading": "とみはあまたのくつうをおおう。",
+  "exampleMeaning": "Kekayaan menutupi banyak kesengsaraan."
  },
  {
   "word": "免許",
@@ -15186,9 +15186,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "lisensi, izin, lisensi, sertifikat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "免許証は持ってます。",
+  "exampleReading": "めんきょしょうはもってます。",
+  "exampleMeaning": "Saya punya SIM."
  },
  {
   "word": "受け取る",
@@ -15197,9 +15197,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menerima, mendapatkan, menerima, mengambil",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どこで荷物を受け取るのですか。",
+  "exampleReading": "どこでにもつをうけとるのですか。",
+  "exampleMeaning": "Di mana saya dapat mengambil bagasi saya?"
  },
  {
   "word": "収める",
@@ -15219,9 +15219,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) permintaan, komisi, pengiriman, (2) ketergantungan, kepercayaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は私の依頼を断った。",
+  "exampleReading": "かのじょはわたしのいらいをことわった。",
+  "exampleMeaning": "Dia menolak permintaanku."
  },
  {
   "word": "完了",
@@ -15230,9 +15230,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyelesaian, kesimpulan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "よし！掃討完了！",
+  "exampleReading": "よし！そうとうかんりょう！",
+  "exampleMeaning": "Baiklah!"
  },
  {
   "word": "鼠",
@@ -15241,9 +15241,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) tikus, tikus, (2) abu-abu tua, warna batu tulis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "猫は鼠を食べる。",
+  "exampleReading": "ねこはねずみをたべる。",
+  "exampleMeaning": "Kucing itu memakan tikus."
  },
  {
   "word": "上達",
@@ -15252,9 +15252,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perbaikan, kemajuan, kemajuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "練習すれば上達するよ。",
+  "exampleReading": "れんしゅうすればじょうたつするよ。",
+  "exampleMeaning": "Anda akan meningkat dengan latihan."
  },
  {
   "word": "考慮",
@@ -15263,9 +15263,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertimbangan, dengan mempertimbangkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "解決法を目下考慮中です。",
+  "exampleReading": "かいけつほうをもっかこうりょちゅうです。",
+  "exampleMeaning": "Saya sedang mempertimbangkan bagaimana menyelesaikan masalah ini."
  },
  {
   "word": "酔う",
@@ -15274,9 +15274,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "mabuk, mabuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムが車に酔うことってあるの？",
+  "exampleReading": "とむがくるまにようことってあるの？",
+  "exampleMeaning": "Apakah Tom pernah mabuk darat?"
  },
  {
   "word": "その",
@@ -15285,9 +15285,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "itu, itu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その本が要るの？",
+  "exampleReading": "そのほんがいるの？",
+  "exampleMeaning": "Apakah Anda membutuhkan buku itu?"
  },
  {
   "word": "あいにく",
@@ -15296,9 +15296,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sayangnya, Maaf, tapi....",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あいにく雨が降った。",
+  "exampleReading": "あいにくあめがふった。",
+  "exampleMeaning": "Sayangnya, hujan turun."
  },
  {
   "word": "近代",
@@ -15307,9 +15307,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hari ini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼はフランス近代史に詳しい。",
+  "exampleReading": "かれはふらんすきんだいしにくわしい。",
+  "exampleMeaning": "Dia berkenalan dengan sejarah modern Perancis."
  },
  {
   "word": "許可",
@@ -15318,9 +15318,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "izin, persetujuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "許可が必要ですか？",
+  "exampleReading": "きょかがひつようですか？",
+  "exampleMeaning": "Apakah saya memerlukan izin?"
  },
  {
   "word": "解ける",
@@ -15329,9 +15329,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk melepaskan ikatan, untuk melepaskan diri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "雪はすぐに解けると思いますよ。",
+  "exampleReading": "ゆきはすぐにとけるとおもいますよ。",
+  "exampleMeaning": "Saya pikir salju akan segera mencair."
  },
  {
   "word": "活用",
@@ -15340,9 +15340,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konjugasi, penggunaan praktis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この動詞の活用は難しいです。",
+  "exampleReading": "このどうしのかつようはむずかしいです。",
+  "exampleMeaning": "Kata kerja ini sulit untuk dikonjugasikan."
  },
  {
   "word": "実",
@@ -15351,9 +15351,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "buah,kacang,biji,isi,hasil bagus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現実へようこそ！",
+  "exampleReading": "げんじつへようこそ！",
+  "exampleMeaning": "Selamat datang di dunia nyata!"
  },
  {
   "word": "睡眠",
@@ -15362,9 +15362,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tidur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "睡眠は大切だよ。",
+  "exampleReading": "すいみんはたいせつだよ。",
+  "exampleMeaning": "Tidur itu penting."
  },
  {
   "word": "労働",
@@ -15373,9 +15373,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kerja manual, kerja keras, kerja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "労働者は祖国をもたない。",
+  "exampleReading": "ろうどうしゃはそこくをもたない。",
+  "exampleMeaning": "Para pekerja tidak memiliki tanah air."
  },
  {
   "word": "巣",
@@ -15384,9 +15384,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sarang, heboh, tempat berkembang biak, sarang lebah, sarang laba-laba",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "鳥は巣をつくる。",
+  "exampleReading": "とりはすをつくる。",
+  "exampleMeaning": "Burung membangun sarang."
  },
  {
   "word": "トランプ",
@@ -15395,9 +15395,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bermain kartu (lit: truf)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トランプは面白い。",
+  "exampleReading": "とらんぷはおもしろい。",
+  "exampleMeaning": "Bermain kartu itu menyenangkan."
  },
  {
   "word": "マスター",
@@ -15406,9 +15406,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pemilik, manajer, pemilik bar, master (misalnya seni, sains)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "英語をマスターしたいな。",
+  "exampleReading": "えいごをますたーしたいな。",
+  "exampleMeaning": "Saya ingin menguasai bahasa Inggris."
  },
  {
   "word": "直に",
@@ -15417,9 +15417,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "segera, dengan mudah, secara langsung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "素直になりなよ。",
+  "exampleReading": "すなおになりなよ。",
+  "exampleMeaning": "Jujurlah pada diri sendiri."
  },
  {
   "word": "出席",
@@ -15428,9 +15428,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kehadiran, kehadiran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "出席率はどうでした？",
+  "exampleReading": "しゅっせきりつはどうでした？",
+  "exampleMeaning": "Bagaimana kehadirannya?"
  },
  {
   "word": "匂い",
@@ -15439,9 +15439,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bau, aroma, bau, bau busuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "雨の匂いがする。",
+  "exampleReading": "あめのにおいがする。",
+  "exampleMeaning": "Baunya seperti hujan."
  },
  {
   "word": "離す",
@@ -15450,9 +15450,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berpisah, membagi, memisahkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私はトムから目を離すことができなかった。",
+  "exampleReading": "わたしはとむからめをはなすことができなかった。",
+  "exampleMeaning": "Aku tidak bisa mengalihkan pandanganku dari Tom."
  },
  {
   "word": "大半",
@@ -15461,9 +15461,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mayoritas, sebagian besar, umumnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "日本の寺院の大半は木造だ。",
+  "exampleReading": "にっぽんのじいんのたいはんはもくぞうだ。",
+  "exampleMeaning": "Mayoritas kuil Jepang terbuat dari kayu."
  },
  {
   "word": "単語",
@@ -15472,9 +15472,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kata, kosakata, (biasanya) kata berkarakter tunggal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "難しい単語です。",
+  "exampleReading": "むずかしいたんごです。",
+  "exampleMeaning": "Itu kata yang sulit."
  },
  {
   "word": "一度に",
@@ -15483,9 +15483,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sekaligus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "両方一度にはできんよ。",
+  "exampleReading": "りょうほういちどにはできんよ。",
+  "exampleMeaning": "Anda tidak dapat memiliki kue dan memakannya juga."
  },
  {
   "word": "わざと",
@@ -15494,9 +15494,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "dengan sengaja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "わざと間違えたの？",
+  "exampleReading": "わざとまちがえたの？",
+  "exampleMeaning": "Apakah Anda sengaja melakukan kesalahan?"
  },
  {
   "word": "余分",
@@ -15505,9 +15505,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ekstra, kelebihan, kelebihan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "余分な金はない。",
+  "exampleReading": "よぶんなきんはない。",
+  "exampleMeaning": "Kami tidak punya uang cadangan."
  },
  {
   "word": "地方",
@@ -15516,9 +15516,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "daerah, lokalitas, distrik, wilayah, pantai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は地方公務員だ。",
+  "exampleReading": "かのじょはちほうこうむいんだ。",
+  "exampleMeaning": "Dia adalah pejabat pemerintah daerah."
  },
  {
   "word": "呼吸",
@@ -15527,9 +15527,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "nafas, pernafasan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "普通に呼吸して。",
+  "exampleReading": "ふつうにこきゅうして。",
+  "exampleMeaning": "Bernapaslah dengan normal."
  },
  {
   "word": "高速",
@@ -15538,9 +15538,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kecepatan tinggi, gigi tinggi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "高速道路が渋滞している。",
+  "exampleReading": "こうそくどうろがじゅうたいしている。",
+  "exampleMeaning": "Jalan raya menjadi geram."
  },
  {
   "word": "礼",
@@ -15549,9 +15549,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ungkapan rasa terima kasih",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "では失礼します。",
+  "exampleReading": "ではしつれいします。",
+  "exampleMeaning": "Permisi."
  },
  {
   "word": "まあ",
@@ -15560,9 +15560,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(perempuan) mungkin Anda berkata",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ざまあみやがれ。",
+  "exampleReading": "ざまあみやがれ。",
+  "exampleMeaning": "Itu bermanfaat bagi Anda."
  },
  {
   "word": "普段",
@@ -15571,9 +15571,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biasanya, biasanya, biasanya, selalu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "普段どう言ってる？",
+  "exampleReading": "ふだんどういってる？",
+  "exampleMeaning": "Bagaimana biasanya Anda mengatakannya?"
  },
  {
   "word": "格好",
@@ -15582,9 +15582,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bentuk, bentuk, postur, kesesuaian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは格好いい。",
+  "exampleReading": "とむはかっこういい。",
+  "exampleMeaning": "Tom itu keren."
  },
  {
   "word": "永遠",
@@ -15593,9 +15593,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keabadian, keabadian, keabadian, kekekalan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "永遠に続くかと思ったよ。",
+  "exampleReading": "えいえんにつづくかとおもったよ。",
+  "exampleMeaning": "Rasanya seperti selamanya."
  },
  {
   "word": "頂上",
@@ -15604,9 +15604,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "puncak, puncak, puncak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "頂上まで登ったよ。",
+  "exampleReading": "ちょうじょうまでのぼったよ。",
+  "exampleMeaning": "Kami naik ke puncak."
  },
  {
   "word": "握手",
@@ -15615,9 +15615,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jabat tangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "握手しましょう。",
+  "exampleReading": "あくしゅしましょう。",
+  "exampleMeaning": "Silakan berjabat tangan."
  },
  {
   "word": "今に",
@@ -15626,9 +15626,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tak lama lagi, bahkan sekarang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今にバチがあたるぞ。",
+  "exampleReading": "いまにバチがあたるぞ。",
+  "exampleMeaning": "Anda akan mendapatkannya suatu hari nanti."
  },
  {
   "word": "女王",
@@ -15637,9 +15637,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ratu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "エリザベス２世は、英国の女王です。",
+  "exampleReading": "えりざべすにせいは、えいこくのじょおうです。",
+  "exampleMeaning": "Elizabeth II adalah Ratu Inggris."
  },
  {
   "word": "下す",
@@ -15648,9 +15648,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menurunkan, untuk melepaskan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は決断を下すことができない。",
+  "exampleReading": "かれはけつだんをくだすことができない。",
+  "exampleMeaning": "Dia tidak bisa mengambil keputusan."
  },
  {
   "word": "夜",
@@ -15659,9 +15659,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sore, malam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今夜会える？",
+  "exampleReading": "こんやあえる？",
+  "exampleMeaning": "Bisakah kamu bertemu malam ini?"
  },
  {
   "word": "コンピューター",
@@ -15670,9 +15670,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "komputer",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "コンピューターが落ちた。",
+  "exampleReading": "こんぴゅーたーがおちた。",
+  "exampleMeaning": "Komputer jatuh."
  },
  {
   "word": "背",
@@ -15681,9 +15681,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tinggi, perawakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君って背が高いの？",
+  "exampleReading": "きみってせがたかいの？",
+  "exampleMeaning": "Apakah kamu tinggi?"
  },
  {
   "word": "平等",
@@ -15692,9 +15692,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesetaraan (a), ketidakberpihakan, pemerataan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人間は全て平等である。",
+  "exampleReading": "にんげんはすべてびょうどうである。",
+  "exampleMeaning": "Semua pria setara."
  },
  {
   "word": "感謝",
@@ -15703,9 +15703,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "terima kasih, terima kasih",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私に感謝してね。",
+  "exampleReading": "わたしにかんしゃしてね。",
+  "exampleMeaning": "Anda harus berterima kasih kepada saya."
  },
  {
   "word": "部分",
@@ -15714,9 +15714,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "porsi, bagian, bagian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "部分的には賛成だよ。",
+  "exampleReading": "ぶぶんてきにはさんせいだよ。",
+  "exampleMeaning": "Saya sebagian setuju dengan Anda."
  },
  {
   "word": "性格",
@@ -15725,9 +15725,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "karakter, kepribadian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は性格がよい。",
+  "exampleReading": "かれはせいかくがよい。",
+  "exampleMeaning": "Dia memiliki kepribadian yang baik."
  },
  {
   "word": "劇",
@@ -15736,9 +15736,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "drama, bermain",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "演劇部所属です。",
+  "exampleReading": "えんげきぶしょぞくです。",
+  "exampleMeaning": "Saya anggota klub drama."
  },
  {
   "word": "被害",
@@ -15747,9 +15747,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerusakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "被害妄想に囚われるな。",
+  "exampleReading": "ひがいもうそうにとらわれるな。",
+  "exampleMeaning": "Jangan paranoid."
  },
  {
   "word": "瞬間",
@@ -15758,9 +15758,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "momen, detik, instan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この瞬間を楽しみたい。",
+  "exampleReading": "このしゅんかんをたのしみたい。",
+  "exampleMeaning": "Saya ingin menikmati momen ini."
  },
  {
   "word": "ミルク",
@@ -15769,9 +15769,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "susu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ミルクは買った？",
+  "exampleReading": "みるくはかった？",
+  "exampleMeaning": "Apakah kamu membeli susu?"
  },
  {
   "word": "哲学",
@@ -15780,9 +15780,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "filsafat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムの専攻は哲学だ。",
+  "exampleReading": "とむのせんこうはてつがくだ。",
+  "exampleMeaning": "Jurusan Tom adalah filsafat."
  },
  {
   "word": "かもしれない",
@@ -15791,9 +15791,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mungkin, mungkin, mungkin, mungkin, mungkin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "気のせいかもしれない。",
+  "exampleReading": "きのせいかもしれない。",
+  "exampleMeaning": "Mungkin itu hanya imajinasiku saja."
  },
  {
   "word": "訪問",
@@ -15802,9 +15802,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "telepon, kunjungi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日彼を訪問します。",
+  "exampleReading": "あしたかれをほうもんします。",
+  "exampleMeaning": "Aku akan meneleponnya besok."
  },
  {
   "word": "会合",
@@ -15813,9 +15813,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertemuan, perakitan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "会合は先月行われた。",
+  "exampleReading": "かいごうはせんげつおこなわれた。",
+  "exampleMeaning": "Pertemuan tersebut telah dilaksanakan bulan lalu."
  },
  {
   "word": "おそらく",
@@ -15824,9 +15824,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mungkin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "おそらく遅れる。",
+  "exampleReading": "おそらくおくれる。",
+  "exampleMeaning": "Saya mungkin akan terlambat."
  },
  {
   "word": "針",
@@ -15835,9 +15835,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jarum, tangan (misalnya jam)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "針のように鋭い。",
+  "exampleReading": "はりのようにするどい。",
+  "exampleMeaning": "Mereka setajam jarum."
  },
  {
   "word": "招待",
@@ -15846,9 +15846,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "undangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼を招待したの？",
+  "exampleReading": "かれをしょうたいしたの？",
+  "exampleMeaning": "Apakah Anda mengundangnya?"
  },
  {
   "word": "数字",
@@ -15857,9 +15857,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "angka, gambar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "3桁の数字です。",
+  "exampleReading": "3けたのすうじです。",
+  "exampleMeaning": "Itu angka tiga digit."
  },
  {
   "word": "数",
@@ -15868,9 +15868,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nomor, gambar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "１１は素数です。",
+  "exampleReading": "いちいちはそすうです。",
+  "exampleMeaning": "Sebelas adalah bilangan prima."
  },
  {
   "word": "元",
@@ -15879,9 +15879,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) asal,asli,(2) bekas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "やあ！元気？",
+  "exampleReading": "やあ！げんき？",
+  "exampleMeaning": "Hai!"
  },
  {
   "word": "行儀",
@@ -15890,9 +15890,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tata krama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "行儀よくしなさい。",
+  "exampleReading": "ぎょうぎよくしなさい。",
+  "exampleMeaning": "Berperilakulah sendiri."
  },
  {
   "word": "署名",
@@ -15901,9 +15901,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tanda tangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は書類に署名した。",
+  "exampleReading": "わたしはしょるいにしょめいした。",
+  "exampleMeaning": "Saya melampirkan tanda tangan saya pada dokumen itu."
  },
  {
   "word": "微笑む",
@@ -15912,9 +15912,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk tersenyum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "運命は大胆な者に微笑む。",
+  "exampleReading": "うんめいはだいたんなものにほほえむ。",
+  "exampleMeaning": "Keberuntungan berpihak pada mereka yang berani."
  },
  {
   "word": "中止",
@@ -15923,9 +15923,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penangguhan, penghentian, penghentian, interupsi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "試合は中止になった。",
+  "exampleReading": "しあいはちゅうしになった。",
+  "exampleMeaning": "Pertandingan dibatalkan."
  },
  {
   "word": "向く",
@@ -15934,9 +15934,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menghadapi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "足の向くままに歩いた。",
+  "exampleReading": "あしのむくままにあるいた。",
+  "exampleMeaning": "Kita membiarkan kaki kita yang memimpin."
  },
  {
   "word": "幼い",
@@ -15945,9 +15945,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "sangat muda, kekanak-kanakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "アンは幼い少女です。",
+  "exampleReading": "あんはおさないしょうじょです。",
+  "exampleMeaning": "Ann adalah seorang gadis kecil."
  },
  {
   "word": "沖",
@@ -15956,9 +15956,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "laut terbuka",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "沖縄県民斯く戦えり。",
+  "exampleReading": "おきなわけんみんかくたたかえり。",
+  "exampleMeaning": "Demikianlah perjuangan rakyat Okinawa."
  },
  {
   "word": "観察",
@@ -15967,9 +15967,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "observasi, survei",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "趣味は人間観察です。",
+  "exampleReading": "しゅみはにんげんかんさつです。",
+  "exampleMeaning": "Minat saya adalah orang-orang menonton."
  },
  {
   "word": "バイオリン",
@@ -15978,9 +15978,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "biola",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "バイオリンが弾けるの？",
+  "exampleReading": "ばいおりんがはじけるの？",
+  "exampleMeaning": "Bisakah kamu bermain biola?"
  },
  {
   "word": "最中",
@@ -15989,9 +15989,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "di tengah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "だが私の心はまだ混沌の最中にある。",
+  "exampleReading": "だがわたしのこころはまだこんとんのさいちゅうにある。",
+  "exampleMeaning": "Tapi pikiranku masih kacau."
  },
  {
   "word": "成長",
@@ -16000,9 +16000,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pertumbuhan, tumbuh hingga dewasa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "子供は成長が早い。",
+  "exampleReading": "こどもはせいちょうがはやい。",
+  "exampleMeaning": "Anak-anak tumbuh dengan sangat cepat."
  },
  {
   "word": "集中",
@@ -16011,9 +16011,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "konsentrasi, memfokuskan pikiran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "集中してないと。",
+  "exampleReading": "しゅうちゅうしてないと。",
+  "exampleMeaning": "Saya harus tetap fokus."
  },
  {
   "word": "切れる",
@@ -16022,9 +16022,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "(1) memotong dengan baik, tajam, (2) mematahkan (memotong)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は頭が切れる。",
+  "exampleReading": "かれはあたまがきれる。",
+  "exampleMeaning": "Dia cerdas."
  },
  {
   "word": "企業",
@@ -16033,9 +16033,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perusahaan, usaha",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ここは企業城下町です。",
+  "exampleReading": "ここはきぎょうじょうかまちです。",
+  "exampleMeaning": "Ini adalah kota perusahaan."
  },
  {
   "word": "すなわち",
@@ -16044,9 +16044,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "yaitu, yaitu, yaitu.",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼の提案とは要するにすなわち命令だった。",
+  "exampleReading": "かれのていあんとはようするにすなわちめいれいだった。",
+  "exampleMeaning": "Usulannya pada dasarnya adalah sebuah perintah."
  },
  {
   "word": "明確",
@@ -16055,9 +16055,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menjernihkan, memperjelas, mendefinisikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明確な返事が欲しい。",
+  "exampleReading": "めいかくなへんじがほしい。",
+  "exampleMeaning": "Beri aku jawaban yang pasti."
  },
  {
   "word": "機能",
@@ -16066,9 +16066,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "fungsi, fakultas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "タイマー機能は使わない。",
+  "exampleReading": "たいまーきのうはつかわない。",
+  "exampleMeaning": "Saya tidak menggunakan fungsi pengatur waktu."
  },
  {
   "word": "句",
@@ -16077,9 +16077,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kalimat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "句読点がないよ。",
+  "exampleReading": "くとうてんがないよ。",
+  "exampleMeaning": "Tanda bacanya hilang."
  },
  {
   "word": "十",
@@ -16088,9 +16088,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "10,sepuluh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あれで十分よね？",
+  "exampleReading": "あれでじゅうぶんよね？",
+  "exampleMeaning": "Itu cukup bagus, bukan?"
  },
  {
   "word": "様",
@@ -16099,9 +16099,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cara, cara, baik hati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "王様は裸だ！",
+  "exampleReading": "おうさまははだかだ！",
+  "exampleMeaning": "Raja telanjang!"
  },
  {
   "word": "確かめる",
@@ -16110,9 +16110,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memastikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "地図は自分の位置を確かめるのに役立った。",
+  "exampleReading": "ちずはじぶんのいちをたしかめるのにやくだった。",
+  "exampleMeaning": "Peta membantu saya mengorientasikan diri."
  },
  {
   "word": "請求",
@@ -16121,9 +16121,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "klaim, permintaan, permohonan, permintaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これ全部、請求書。",
+  "exampleReading": "これぜんぶ、せいきゅうしょ。",
+  "exampleMeaning": "Ini adalah keseluruhan faktur."
  },
  {
   "word": "笛",
@@ -16132,9 +16132,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seruling, pipa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誰かの口笛が聞こえた。",
+  "exampleReading": "だれかのくちぶえがきこえた。",
+  "exampleMeaning": "Saya mendengar seseorang bersiul."
  },
  {
   "word": "けち",
@@ -16143,9 +16143,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kekikiran, kikir, kikir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "歯が欠けちゃった。",
+  "exampleReading": "はがかけちゃった。",
+  "exampleMeaning": "Saya telah mematahkan gigi."
  },
  {
   "word": "しばしば",
@@ -16154,9 +16154,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sering, lagi dan lagi, sering",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人生はしばしば旅に例えられる。",
+  "exampleReading": "じんせいはしばしばたびにたとえられる。",
+  "exampleMeaning": "Hidup sering disamakan dengan sebuah perjalanan."
  },
  {
   "word": "道徳",
@@ -16165,9 +16165,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "moral",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは反道徳的だ。",
+  "exampleReading": "それははんどうとくてきだ。",
+  "exampleMeaning": "Itu masih tidak bermoral."
  },
  {
   "word": "権利",
@@ -16176,9 +16176,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benar, hak istimewa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムには知る権利がある。",
+  "exampleReading": "とむにはしるけんりがある。",
+  "exampleMeaning": "Tom berhak tahu."
  },
  {
   "word": "話し合う",
@@ -16187,9 +16187,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berdiskusi, untuk berbicara bersama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "明日トムと話し合うよ。",
+  "exampleReading": "あしたとむとはなしあうよ。",
+  "exampleMeaning": "Saya akan berbicara dengan Tom besok."
  },
  {
   "word": "発達",
@@ -16198,9 +16198,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perkembangan, pertumbuhan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "水泳は筋肉を発達させる。",
+  "exampleReading": "すいえいはきんにくをはったつさせる。",
+  "exampleMeaning": "Berenang mengembangkan otot kita."
  },
  {
   "word": "症状",
@@ -16209,9 +16209,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gejala, kondisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "よくある症状です。",
+  "exampleReading": "よくあるしょうじょうです。",
+  "exampleMeaning": "Itu adalah gejala yang umum."
  },
  {
   "word": "金属",
@@ -16220,9 +16220,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "logam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "鉛は金属である。",
+  "exampleReading": "なまりはきんぞくである。",
+  "exampleMeaning": "Timbal adalah logam."
  },
  {
   "word": "同様",
@@ -16231,9 +16231,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "identik, sama dengan, sama (jenis), serupa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あなたと同様に彼も大変親切だ。",
+  "exampleReading": "あなたとどうようにかれもたいへんしんせつだ。",
+  "exampleMeaning": "Anda dan dia sama-sama sangat baik."
  },
  {
   "word": "残す",
@@ -16242,9 +16242,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk meninggalkan (di belakang, di atas), untuk mewariskan, untuk menyimpan, untuk memesan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "仕事はやり残すなよ。",
+  "exampleReading": "しごとはやりのこすなよ。",
+  "exampleMeaning": "Jangan biarkan pekerjaan Anda belum selesai."
  },
  {
   "word": "詰める",
@@ -16253,9 +16253,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berkemas, untuk mempersingkat, untuk berolahraga (detail)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あまり根を詰めるのは体に良くないよ。",
+  "exampleReading": "あまりねをつめるのはからだによくないよ。",
+  "exampleMeaning": "Jika Anda memaksakan diri terlalu keras, Anda akan membuat diri Anda sakit."
  },
  {
   "word": "製造",
@@ -16264,9 +16264,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "manufaktur, produksi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その工場は玩具を製造している。",
+  "exampleReading": "そのこうじょうはおもちゃをせいぞうしている。",
+  "exampleMeaning": "Pabrik tersebut memproduksi mainan."
  },
  {
   "word": "破る",
@@ -16275,9 +16275,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "merobek, melanggar, mengalahkan, menghancurkan, menghancurkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ルールは破るためにあるんだ。",
+  "exampleReading": "るーるはやぶるためにあるんだ。",
+  "exampleMeaning": "Aturan dibuat untuk dilanggar."
  },
  {
   "word": "正直",
@@ -16286,9 +16286,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kejujuran, integritas, kejujuran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは正直者だ。",
+  "exampleReading": "とむはしょうじきしゃだ。",
+  "exampleMeaning": "Tom jujur."
  },
  {
   "word": "論争",
@@ -16297,9 +16297,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kontroversi, perselisihan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "論争にやっとけりが付いた。",
+  "exampleReading": "ろんそうにやっとけりがついた。",
+  "exampleMeaning": "Perselisihan itu akhirnya diselesaikan."
  },
  {
   "word": "灯",
@@ -16308,9 +16308,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lampu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "がは灯に集まる。",
+  "exampleReading": "がはあかりにあつまる。",
+  "exampleMeaning": "Ngengat tertarik pada cahaya."
  },
  {
   "word": "不自由",
@@ -16319,9 +16319,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketidaknyamanan, kecacatan, ketidaknyamanan, kemiskinan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "妻がいないと何かと不自由だ。",
+  "exampleReading": "つまがいないとなにかとふじゆうだ。",
+  "exampleMeaning": "Saya merasa tidak nyaman ketika istri saya pergi."
  },
  {
   "word": "地位",
@@ -16330,9 +16330,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "posisi (sosial), status",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "高級車は地位の象徴である。",
+  "exampleReading": "こうきゅうしゃはちいのしょうちょうである。",
+  "exampleMeaning": "Mobil mahal adalah simbol status."
  },
  {
   "word": "毒",
@@ -16341,9 +16341,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "racun, racun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "甲の薬は乙の毒。",
+  "exampleReading": "かぶとのくすりはおつのどく。",
+  "exampleMeaning": "Obat bagi satu orang adalah racun bagi orang lain."
  },
  {
   "word": "提出",
@@ -16352,9 +16352,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "presentasi, penyerahan, pengarsipan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "報告書は提出したの？",
+  "exampleReading": "ほうこくしょはていしゅつしたの？",
+  "exampleMeaning": "Sudahkah Anda menyerahkan laporan Anda?"
  },
  {
   "word": "当てる",
@@ -16363,9 +16363,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memukul, untuk menerapkan tambalan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼らは石油を掘り当てる思惑だった。",
+  "exampleReading": "かれらはせきゆをほりあてるおもわくだった。",
+  "exampleMeaning": "Mereka bermaksud mengebor minyak."
  },
  {
   "word": "ハイキング",
@@ -16374,9 +16374,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "lintas alam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ハイキングは秋に限る。",
+  "exampleReading": "はいきんぐはあきにかぎる。",
+  "exampleMeaning": "Musim gugur adalah musim terbaik untuk melakukan pendakian."
  },
  {
   "word": "外",
@@ -16385,9 +16385,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tempat lain, sisanya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "外に行くの？",
+  "exampleReading": "そとにいくの？",
+  "exampleMeaning": "Apakah kamu akan keluar?"
  },
  {
   "word": "隠す",
@@ -16396,9 +16396,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyembunyikan, untuk menyembunyikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "能ある鷹は爪を隠す。",
+  "exampleReading": "のうあるたかはつめをかくす。",
+  "exampleMeaning": "Elang yang pintar menyembunyikan cakarnya."
  },
  {
   "word": "氏",
@@ -16407,9 +16407,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nama keluarga, garis keturunan, kelahiran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼氏はいますか？",
+  "exampleReading": "かれしはいますか？",
+  "exampleMeaning": "Apakah kamu punya pacar?"
  },
  {
   "word": "鋭い",
@@ -16418,9 +16418,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "runcing, tajam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "針のように鋭い。",
+  "exampleReading": "はりのようにするどい。",
+  "exampleMeaning": "Mereka setajam jarum."
  },
  {
   "word": "学",
@@ -16429,9 +16429,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pembelajaran, beasiswa, pengetahuan, pengetahuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "学生ですか？",
+  "exampleReading": "がくせいですか？",
+  "exampleMeaning": "Apakah kamu seorang pelajar?"
  },
  {
   "word": "構成",
@@ -16440,9 +16440,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "organisasi, komposisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この小説は三部構成だ。",
+  "exampleReading": "このしょうせつはさんぶこうせいだ。",
+  "exampleMeaning": "Novel ini terdiri dari tiga bagian."
  },
  {
   "word": "欠陥",
@@ -16451,9 +16451,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cacat, kesalahan, kekurangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この携帯は欠陥品だ。",
+  "exampleReading": "このけいたいはけっかんひんだ。",
+  "exampleMeaning": "Ponsel ini rusak."
  },
  {
   "word": "分",
@@ -16462,9 +16462,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "membagi, bagian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それで十分？",
+  "exampleReading": "それでじゅうふん？",
+  "exampleMeaning": "Apakah itu cukup?"
  },
  {
   "word": "努力",
@@ -16473,9 +16473,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "usaha besar, pengerahan tenaga, usaha keras, usaha",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君も努力してよ。",
+  "exampleReading": "きみもどりょくしてよ。",
+  "exampleMeaning": "Anda juga berusaha!"
  },
  {
   "word": "食事",
@@ -16484,9 +16484,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "makanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "軽い食事をとった。",
+  "exampleReading": "かるいしょくじをとった。",
+  "exampleMeaning": "Saya makan malam ringan."
  },
  {
   "word": "使用",
@@ -16495,9 +16495,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penggunaan, aplikasi, pekerjaan, pemanfaatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "試着室は今使用中だ。",
+  "exampleReading": "試ぎしつはこんしようちゅうだ。",
+  "exampleMeaning": "Ruang pas sedang digunakan sekarang."
  },
  {
   "word": "宿泊",
@@ -16506,9 +16506,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penginapan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "宿泊したいのですが。",
+  "exampleReading": "しゅくはくしたいのですが。",
+  "exampleMeaning": "Saya ingin menginap di hotel Anda."
  },
  {
   "word": "勘定",
@@ -16517,9 +16517,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perhitungan, penghitungan, pertimbangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "勘定書を頼むよ。",
+  "exampleReading": "かんじょうしょをたのむよ。",
+  "exampleMeaning": "Tolong periksa."
  },
  {
   "word": "サイン",
@@ -16528,9 +16528,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) tanda tangan,(2) tanda tangan,(3) sinus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ここでサインして。",
+  "exampleReading": "ここでさいんして。",
+  "exampleMeaning": "Tanda tangan di sini."
  },
  {
   "word": "分野",
@@ -16539,9 +16539,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bidang, bola, alam, divisi, cabang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "医療の分野で働きたいです。",
+  "exampleReading": "いりょうのぶんやではたらきたいです。",
+  "exampleMeaning": "Saya ingin bekerja di bidang medis."
  },
  {
   "word": "好み",
@@ -16550,9 +16550,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesukaan, rasa, pilihan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人の好みは異なる。",
+  "exampleReading": "ひとのこのみはことなる。",
+  "exampleMeaning": "Rasanya berbeda."
  },
  {
   "word": "整理",
@@ -16561,9 +16561,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penyortiran, penataan, penyesuaian, pengaturan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "荷物を整理したいのですが。",
+  "exampleReading": "にもつをせいりしたいのですが。",
+  "exampleMeaning": "Aku ingin menyimpan barang-barangku."
  },
  {
   "word": "酒",
@@ -16572,9 +16572,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "alkohol, demi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お酒飲んでるの？",
+  "exampleReading": "おさけのんでるの？",
+  "exampleMeaning": "Apakah kamu sedang minum?"
  },
  {
   "word": "広がる",
@@ -16583,9 +16583,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyebarkan (keluar), untuk memperluas, untuk meregangkan, untuk mencapai, untuk berkeliling",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "夢は広がるばかりです！",
+  "exampleReading": "ゆめはひろがるばかりです！",
+  "exampleMeaning": "Mimpiku semakin besar!"
  },
  {
   "word": "学問",
@@ -16594,9 +16594,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "beasiswa, belajar, belajar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "哲学は興味深い学問です。",
+  "exampleReading": "てつがくはきょうみぶかいがくもんです。",
+  "exampleMeaning": "Filsafat adalah bidang studi yang menarik."
  },
  {
   "word": "曇",
@@ -16605,9 +16605,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keadaan mendung, cuaca mendung, bayangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "空が曇ってきた。",
+  "exampleReading": "そらがくもってきた。",
+  "exampleMeaning": "Langit mulai mendung."
  },
  {
   "word": "無駄",
@@ -16616,9 +16616,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesia-siaan, ketidakbergunaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "無駄足だったよ。",
+  "exampleReading": "むだあしだったよ。",
+  "exampleMeaning": "Itu adalah pengejaran yang liar."
  },
  {
   "word": "大陸",
@@ -16627,9 +16627,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benua",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ヨーロッパは大陸です。",
+  "exampleReading": "よーろっぱはたいりくです。",
+  "exampleMeaning": "Eropa adalah sebuah benua."
  },
  {
   "word": "灰",
@@ -16638,9 +16638,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "abu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "その猫は灰色ですか？",
+  "exampleReading": "そのねこははいいろですか？",
+  "exampleMeaning": "Apakah kucing itu berwarna abu-abu?"
  },
  {
   "word": "真面目",
@@ -16649,9 +16649,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rajin, serius, jujur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "真面目におやり。",
+  "exampleReading": "まじめにおやり。",
+  "exampleMeaning": "Seriuslah."
  },
  {
   "word": "大いに",
@@ -16660,9 +16660,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sangat, sangat, sangat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大いに召し上がれ。",
+  "exampleReading": "おおいにめしあがれ。",
+  "exampleMeaning": "Makan dan minum."
  },
  {
   "word": "鎖",
@@ -16671,9 +16671,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rantai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "5時半に閉鎖します。",
+  "exampleReading": "5じはんにへいさします。",
+  "exampleMeaning": "Tutupnya pukul 5.30."
  },
  {
   "word": "真っ直ぐ",
@@ -16682,9 +16682,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lurus (depan), lurus, tegak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "真っ直ぐ行きなさい。",
+  "exampleReading": "まっすぐいきなさい。",
+  "exampleMeaning": "Jalan lurus ke depan."
  },
  {
   "word": "身",
@@ -16693,9 +16693,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tubuh, bagian utama, diri sendiri, pedang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "自由の身ね。",
+  "exampleReading": "じゆうのみね。",
+  "exampleMeaning": "Anda orang bebas."
  },
  {
   "word": "不思議",
@@ -16704,9 +16704,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "misteri, rasa ingin tahu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "不思議な夜でした。",
+  "exampleReading": "ふしぎなよるでした。",
+  "exampleMeaning": "Itu adalah malam yang aneh."
  },
  {
   "word": "国民",
@@ -16715,9 +16715,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "nasional, rakyat, warga negara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "国民は重税に苦しんだ。",
+  "exampleReading": "こくみんはじゅうぜいにくるしんだ。",
+  "exampleMeaning": "Rakyat mengerang karena beban pajak yang berat."
  },
  {
   "word": "勘",
@@ -16726,9 +16726,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persepsi, intuisi, indra keenam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "割り勘にしよう。",
+  "exampleReading": "わりかんにしよう。",
+  "exampleMeaning": "Mari kita bagi tagihannya."
  },
  {
   "word": "計る",
@@ -16737,9 +16737,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengukur, menimbang, mensurvei",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "事を計るは人、事を成すは神。",
+  "exampleReading": "ことをはかるはひと、ことをなすはかみ。",
+  "exampleMeaning": "Manusia merencanakan segala sesuatunya, tetapi para dewalah yang memutuskan."
  },
  {
   "word": "テント",
@@ -16748,9 +16748,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tenda",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "テントの中は暑かった。",
+  "exampleReading": "てんとのなかはあつかった。",
+  "exampleMeaning": "Di dalam tenda panas sekali."
  },
  {
   "word": "主要",
@@ -16759,9 +16759,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketua, utama, kepala sekolah, mayor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "コーヒーはブラジルの主要産物である。",
+  "exampleReading": "こーひーはぶらじるのしゅようさんぶつである。",
+  "exampleMeaning": "Kopi adalah produk utama Brazil."
  },
  {
   "word": "典型",
@@ -16770,9 +16770,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jenis, pola, pola dasar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼らは典型的な若者だ。",
+  "exampleReading": "かれらはてんけいてきなわかものだ。",
+  "exampleMeaning": "Mereka adalah tipikal anak muda."
  },
  {
   "word": "袋",
@@ -16781,9 +16781,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tas, karung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "袋は要らないよ。",
+  "exampleReading": "ふくろはいらないよ。",
+  "exampleMeaning": "Saya tidak butuh tas."
  },
  {
   "word": "はい",
@@ -16792,9 +16792,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pakai, pakai (pedang)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "天気はいい？",
+  "exampleReading": "てんきはいい？",
+  "exampleMeaning": "Apakah cuacanya bagus?"
  },
  {
   "word": "秘密",
@@ -16803,9 +16803,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rahasia, kerahasiaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私たちの秘密ね。",
+  "exampleReading": "わたしたちのひみつね。",
+  "exampleMeaning": "Itu rahasia kami."
  },
  {
   "word": "苦しむ",
@@ -16814,9 +16814,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menderita, mengerang, khawatir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "理由なく苦しむのは嫌だ。",
+  "exampleReading": "りゆうなくくるしむのはいやだ。",
+  "exampleMeaning": "Saya tidak ingin menderita tanpa alasan."
  },
  {
   "word": "物事",
@@ -16825,9 +16825,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "banyak hal, segalanya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "物事には限度がある。",
+  "exampleReading": "ものごとにはげんどがある。",
+  "exampleMeaning": "Segala sesuatunya ada batasnya."
  },
  {
   "word": "要求",
@@ -16836,9 +16836,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "permintaan, permintaan, permintaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は金を要求した。",
+  "exampleReading": "かれはきんをようきゅうした。",
+  "exampleMeaning": "Dia meminta uang."
  },
  {
   "word": "同時",
@@ -16847,9 +16847,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "simultan(ly), bersamaan, waktu yang sama, sinkron",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私が同時通訳を務めた。",
+  "exampleReading": "わたしがどうじつうやくをつとめた。",
+  "exampleMeaning": "Saya bertindak sebagai penerjemah simultan."
  },
  {
   "word": "時刻",
@@ -16858,9 +16858,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seketika, waktu, momen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "時刻表はありますか？",
+  "exampleReading": "じこくひょうはありますか？",
+  "exampleMeaning": "Apakah ada jadwalnya?"
  },
  {
   "word": "悩む",
@@ -16869,9 +16869,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi khawatir, menjadi bermasalah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "大画面のモニタか中型を二枚買うか悩むな。",
+  "exampleReading": "だいがめんのもにたかちゅうがたをにまいかうかなやむな。",
+  "exampleMeaning": "Saya tidak dapat memutuskan apakah saya akan membeli satu monitor besar atau dua monitor berukuran normal."
  },
  {
   "word": "食料",
@@ -16880,9 +16880,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは食料を買った。",
+  "exampleReading": "とむはしょくりょうをかった。",
+  "exampleMeaning": "Tom membeli makanan."
  },
  {
   "word": "疑う",
@@ -16902,9 +16902,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "konvensi, turnamen, pertemuan massal, rapat umum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは大会社で働く。",
+  "exampleReading": "とむはたいかいしゃではたらく。",
+  "exampleMeaning": "Tom bekerja di sebuah perusahaan besar."
  },
  {
   "word": "ところが",
@@ -16913,9 +16913,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Namun, meskipun demikian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "高いところが怖いの？",
+  "exampleReading": "たかいところがこわいの？",
+  "exampleMeaning": "Apakah Anda takut ketinggian?"
  },
  {
   "word": "理想",
@@ -16924,9 +16924,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ideal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ここが理想の場所だ。",
+  "exampleReading": "ここがりそうのばしょだ。",
+  "exampleMeaning": "Ini adalah tempat yang tepat."
  },
  {
   "word": "意志",
@@ -16935,9 +16935,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kemauan, kemauan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は意志が弱い。",
+  "exampleReading": "かれはいしがよわい。",
+  "exampleMeaning": "Dia tidak punya pikiran sendiri."
  },
  {
   "word": "罪",
@@ -16946,9 +16946,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kejahatan, kesalahan, kecerobohan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "罪悪感を感じた。",
+  "exampleReading": "ざいあくかんをかんじた。",
+  "exampleMeaning": "Saya merasa bersalah."
  },
  {
   "word": "要素",
@@ -16957,9 +16957,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "elemen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "教育は重大な要素である。",
+  "exampleReading": "きょういくはじゅうだいなようそである。",
+  "exampleMeaning": "Pendidikan adalah elemen penting."
  },
  {
   "word": "現す",
@@ -16968,9 +16968,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menunjukkan, untuk menunjukkan, untuk menampilkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私の夢はもうすぐ実現する。",
+  "exampleReading": "わたしのゆめはもうすぐじつげんする。",
+  "exampleMeaning": "Mimpiku segera terwujud."
  },
  {
   "word": "奨学金",
@@ -16979,9 +16979,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "beasiswa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "奨学金をもらいました。",
+  "exampleReading": "しょうがくきんをもらいました。",
+  "exampleMeaning": "Saya mendapat beasiswa."
  },
  {
   "word": "時期",
@@ -16990,9 +16990,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "waktu, musim, periode",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今話すのは時期尚早だ。",
+  "exampleReading": "いまはなすのはじきしょうそうだ。",
+  "exampleMeaning": "Masih terlalu dini untuk mengatakannya."
  },
  {
   "word": "愉快",
@@ -17001,9 +17001,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "menyenangkan, bahagia",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は非常に不愉快だ。",
+  "exampleReading": "わたしはひじょうにふゆかいだ。",
+  "exampleMeaning": "Saya sungguh tidak senang dengan hal ini."
  },
  {
   "word": "回復",
@@ -17012,9 +17012,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemulihan (dari penyakit),perbaikan,rehabilitasi,restorasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは回復した。",
+  "exampleReading": "とむはかいふくした。",
+  "exampleMeaning": "Tom pulih."
  },
  {
   "word": "慎重",
@@ -17023,9 +17023,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebijaksanaan, kehati-hatian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "慎重に選びなさい。",
+  "exampleReading": "しんちょうにえらびなさい。",
+  "exampleMeaning": "Pilih dengan hati-hati."
  },
  {
   "word": "信用",
@@ -17034,9 +17034,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kepercayaan diri, ketergantungan, kredit, iman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼を信用するな。",
+  "exampleReading": "かれをしんようするな。",
+  "exampleMeaning": "Jangan percaya padanya."
  },
  {
   "word": "出身",
@@ -17045,9 +17045,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lulus dari, berasal dari",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ここら辺の出身？",
+  "exampleReading": "ここらへんのしゅっしん？",
+  "exampleMeaning": "Apakah kamu dari sekitar sini?"
  },
  {
   "word": "救う",
@@ -17056,9 +17056,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menyelamatkan, untuk membantu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は彼を救うために命をかけました。",
+  "exampleReading": "かのじょはかれをすくうためにいのちをかけました。",
+  "exampleMeaning": "Dia mempertaruhkan nyawanya untuk menyelamatkannya."
  },
  {
   "word": "金曜",
@@ -17067,9 +17067,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(abbr) Jumat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "やっと金曜日だ！",
+  "exampleReading": "やっときんようびだ！",
+  "exampleMeaning": "Akhirnya, ini hari Jumat!"
  },
  {
   "word": "贅沢",
@@ -17078,9 +17078,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kemewahan, pemborosan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは贅沢三昧だ。",
+  "exampleReading": "とむはぜいたくさんまいだ。",
+  "exampleMeaning": "Tom hidup dalam kemewahan."
  },
  {
   "word": "入学",
@@ -17089,9 +17089,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "masuk ke sekolah atau universitas, matrikulasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は裏口入学した。",
+  "exampleReading": "かれはうらぐちにゅうがくした。",
+  "exampleMeaning": "Dia membeli jalannya ke perguruan tinggi."
  },
  {
   "word": "袖",
@@ -17100,9 +17100,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lengan baju",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼の袖を掴んだ。",
+  "exampleReading": "かれのそでをつかんだ。",
+  "exampleMeaning": "Aku mencengkeram lengan bajunya."
  },
  {
   "word": "皿",
@@ -17111,9 +17111,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "piring, piring",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "皿洗い手伝うよ。",
+  "exampleReading": "さらあらいてつだうよ。",
+  "exampleMeaning": "Biarkan saya membantu Anda mencuci piring."
  },
  {
   "word": "貴重",
@@ -17122,9 +17122,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "berharga, berharga",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "時間は貴重です。",
+  "exampleReading": "じかんはきちょうです。",
+  "exampleMeaning": "Waktu sangat berharga."
  },
  {
   "word": "判断",
@@ -17133,9 +17133,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penilaian, keputusan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は判断が正確だ。",
+  "exampleReading": "かれははんだんがせいかくだ。",
+  "exampleMeaning": "Dia akurat dalam penilaiannya."
  },
  {
   "word": "成績",
@@ -17144,9 +17144,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hasil, catat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "成績のことが心配なの？",
+  "exampleReading": "せいせきのことがしんぱいなの？",
+  "exampleMeaning": "Apakah Anda khawatir dengan nilai Anda?"
  },
  {
   "word": "神",
@@ -17155,9 +17155,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "Tuhan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "細部に神は宿る。",
+  "exampleReading": "さいぶにかみはやどる。",
+  "exampleMeaning": "Tuhan ada dalam detailnya."
  },
  {
   "word": "実に",
@@ -17166,9 +17166,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "memang, sungguh, pasti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "実に目障りだな。",
+  "exampleReading": "じつにめざわりだな。",
+  "exampleMeaning": "Benar-benar merusak pemandangan."
  },
  {
   "word": "埃",
@@ -17177,9 +17177,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "debu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "机は埃まみれだ。",
+  "exampleReading": "つくえはほこりまみれだ。",
+  "exampleMeaning": "Debu menutupi meja."
  },
  {
   "word": "奇妙",
@@ -17188,9 +17188,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "aneh, aneh, penasaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "奇妙な話だった。",
+  "exampleReading": "きみょうなはなしだった。",
+  "exampleMeaning": "Itu adalah cerita yang aneh."
  },
  {
   "word": "嵐",
@@ -17199,9 +17199,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "badai, prahara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "嵐になるだろう。",
+  "exampleReading": "あらしになるだろう。",
+  "exampleMeaning": "Kita akan mengalami badai."
  },
  {
   "word": "能",
@@ -17210,9 +17210,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terampil dalam, dengan baik, dengan benar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "可能性あるかな？",
+  "exampleReading": "かのうせいあるかな？",
+  "exampleMeaning": "Apakah mungkin?"
  },
  {
   "word": "到着",
@@ -17221,9 +17221,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kedatangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今、到着しました。",
+  "exampleReading": "いま、とうちゃくしました。",
+  "exampleMeaning": "Mereka baru saja tiba."
  },
  {
   "word": "既に",
@@ -17232,9 +17232,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sudah terlambat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あ、既にあった！",
+  "exampleReading": "あ、すでにあった！",
+  "exampleMeaning": "Oh!"
  },
  {
   "word": "異常",
@@ -17243,9 +17243,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keanehan, kelainan, kelainan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "やっぱり異常だよ。",
+  "exampleReading": "やっぱりいじょうだよ。",
+  "exampleMeaning": "Seperti yang diharapkan, ini tidak biasa."
  },
  {
   "word": "畑",
@@ -17254,9 +17254,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bidang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ここは昔、畑だった。",
+  "exampleReading": "ここはむかし、はたけだった。",
+  "exampleMeaning": "Tempat ini dulunya adalah sebuah lapangan."
  },
  {
   "word": "都市",
@@ -17265,9 +17265,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kota, kota, kotamadya, perkotaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "東京は巨大都市だ。",
+  "exampleReading": "とうきょうはきょだいとしだ。",
+  "exampleMeaning": "Tokyo adalah kota yang sangat besar."
  },
  {
   "word": "無",
@@ -17276,9 +17276,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak ada, tidak ada, nihil, nol",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "絶対に無理！",
+  "exampleReading": "ぜったいにむり！",
+  "exampleMeaning": "Saat babi terbang!"
  },
  {
   "word": "提案",
@@ -17287,9 +17287,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "usulan, proposisi, saran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "提案があります。",
+  "exampleReading": "ていあんがあります。",
+  "exampleMeaning": "Saya punya saran."
  },
  {
   "word": "延期",
@@ -17298,9 +17298,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penundaan, penundaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "決定は延期された。",
+  "exampleReading": "けっていはえんきされた。",
+  "exampleMeaning": "Keputusan itu ditunda."
  },
  {
   "word": "互い",
@@ -17309,9 +17309,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "saling, timbal balik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お互いさまだろ。",
+  "exampleReading": "おたがいさまだろ。",
+  "exampleMeaning": "Sepertinya kita berada di perahu yang sama."
  },
  {
   "word": "設備",
@@ -17320,9 +17320,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "peralatan, perangkat, fasilitas, instalasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この学校は暖房設備がない。",
+  "exampleReading": "このがっこうはだんぼうせつびがない。",
+  "exampleMeaning": "Sekolah ini tidak memiliki pemanas."
  },
  {
   "word": "解釈",
@@ -17331,9 +17331,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penjelasan, interpretasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは拡大解釈だね。",
+  "exampleReading": "それはかくだいかいしゃくだね。",
+  "exampleMeaning": "Itu memperluas inti permasalahannya."
  },
  {
   "word": "外出",
@@ -17342,9 +17342,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "jalan-jalan, keluar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "外出は自由です。",
+  "exampleReading": "がいしゅつはじゆうです。",
+  "exampleMeaning": "Anda bebas untuk keluar."
  },
  {
   "word": "よると",
@@ -17353,9 +17353,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menurut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "天気予報によると明日は晴れです。",
+  "exampleReading": "てんきよほうによるとあしたははれです。",
+  "exampleMeaning": "Ramalan cuaca mengatakan besok akan baik-baik saja."
  },
  {
   "word": "大部分",
@@ -17364,9 +17364,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sebagian besar, sebagian besar, mayoritas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "参加者の大部分は女性だった。",
+  "exampleReading": "さんかしゃのだいぶぶんはじょせいだった。",
+  "exampleMeaning": "Pesertanya sebagian besar adalah perempuan."
  },
  {
   "word": "際",
@@ -17375,9 +17375,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pada kesempatan, keadaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "実際は何があったの？",
+  "exampleReading": "じっさいはなにがあったの？",
+  "exampleMeaning": "Apa yang sebenarnya terjadi?"
  },
  {
   "word": "予測",
@@ -17386,9 +17386,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "prediksi, estimasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "１９９８年の需要予測です。",
+  "exampleReading": "いちきゅうきゅうはちねんのじゅようよそくです。",
+  "exampleMeaning": "Berikut adalah perkiraan permintaan untuk tahun 1998."
  },
  {
   "word": "人物",
@@ -17397,9 +17397,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "karakter, kepribadian, orang, pria, tokoh, pria berbakat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムって危険人物だよ。",
+  "exampleReading": "とむってきけんじんぶつだよ。",
+  "exampleMeaning": "Tom adalah pria yang berbahaya."
  },
  {
   "word": "湾",
@@ -17408,9 +17408,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teluk, teluk, saluran masuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "台湾は国家です。",
+  "exampleReading": "たいわんはこっかです。",
+  "exampleMeaning": "Taiwan adalah sebuah negara."
  },
  {
   "word": "週間",
@@ -17419,9 +17419,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "minggu, mingguan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "２週間が過ぎた。",
+  "exampleReading": "にしゅうかんがすぎた。",
+  "exampleMeaning": "Dua minggu berlalu."
  },
  {
   "word": "多分",
@@ -17430,9 +17430,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mungkin, mungkin",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "多分、本当だよ。",
+  "exampleReading": "たぶん、ほんとうだよ。",
+  "exampleMeaning": "Mungkin itu benar."
  },
  {
   "word": "徐々に",
@@ -17441,9 +17441,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perlahan, sedikit demi sedikit, bertahap, mantap, diam-diam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は徐々に回復してるよ。",
+  "exampleReading": "かのじょはじょじょにかいふくしてるよ。",
+  "exampleMeaning": "Dia berangsur pulih."
  },
  {
   "word": "謎",
@@ -17452,9 +17452,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teka-teki, teka-teki, teka-teki",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "謎は深まるばかり。",
+  "exampleReading": "なぞはふかまるばかり。",
+  "exampleMeaning": "Misterinya terus bertambah dalam."
  },
  {
   "word": "親友",
@@ -17463,9 +17463,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "teman dekat, sobat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "親友は何人いる？",
+  "exampleReading": "しんゆうはなんにんいる？",
+  "exampleMeaning": "Berapa banyak teman dekat yang kamu punya?"
  },
  {
   "word": "支給",
@@ -17474,9 +17474,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pembayaran, tunjangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "市は困窮者に毛布を支給した。",
+  "exampleReading": "しはこんきゅうしゃにもうふをしきゅうした。",
+  "exampleMeaning": "Kota menyediakan selimut bagi yang membutuhkan."
  },
  {
   "word": "住宅",
@@ -17485,9 +17485,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penduduk, perumahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この家は耐火住宅だ。",
+  "exampleReading": "このいえはたいかじゅうたくだ。",
+  "exampleMeaning": "Rumah ini tahan api."
  },
  {
   "word": "図",
@@ -17496,9 +17496,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gambar (misalnya Gambar 1), gambar, gambar, ilustrasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "図書館にいるの？",
+  "exampleReading": "としょかんにいるの？",
+  "exampleMeaning": "Apakah kamu di perpustakaan?"
  },
  {
   "word": "見送り",
@@ -17507,9 +17507,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mengantar satu, perpisahan, pendamping",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "２時に空港に見送りに行きます。",
+  "exampleReading": "にじにくうこうにみおくりにいきます。",
+  "exampleMeaning": "Aku akan mengantarnya ke bandara pada jam 2:00."
  },
  {
   "word": "上京",
@@ -17518,9 +17518,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "melanjutkan ke ibukota (Tokyo)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は１年に１度上京する。",
+  "exampleReading": "かれはいちねんにいちどじょうきょうする。",
+  "exampleMeaning": "Dia datang ke Tokyo setahun sekali."
  },
  {
   "word": "さて",
@@ -17529,9 +17529,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "baiklah, sekarang, kalau begitu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "さて、何しようか？",
+  "exampleReading": "さて、なにしようか？",
+  "exampleMeaning": "Nah, apa yang harus kita lakukan?"
  },
  {
   "word": "たとえ",
@@ -17540,9 +17540,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perumpamaan, metafora, alegori",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "死はよく眠りにたとえられる。",
+  "exampleReading": "しはよくねむりにたとえられる。",
+  "exampleMeaning": "Kematian sering disamakan dengan tidur."
  },
  {
   "word": "ぴったり",
@@ -17551,9 +17551,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persis, rapi, tajam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それはぴったりの番号だ。",
+  "exampleReading": "それはぴったりのばんごうだ。",
+  "exampleMeaning": "Angka itu sempurna."
  },
  {
   "word": "商人",
@@ -17573,9 +17573,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pesona, daya tarik, glamor",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "魅力ないもんね。",
+  "exampleReading": "みりょくないもんね。",
+  "exampleMeaning": "Itu karena aku tidak menawan."
  },
  {
   "word": "退屈",
@@ -17584,9 +17584,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kebosanan, kebosanan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "退屈で死にそう。",
+  "exampleReading": "たいくつでしにそう。",
+  "exampleMeaning": "Aku bosan setengah mati."
  },
  {
   "word": "否定",
@@ -17595,9 +17595,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "negasi, penolakan, penolakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "否定はしません。",
+  "exampleReading": "ひていはしません。",
+  "exampleMeaning": "Saya tidak menyangkalnya."
  },
  {
   "word": "父親",
@@ -17606,9 +17606,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ayah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は父親似です。",
+  "exampleReading": "わたしはちちおやにです。",
+  "exampleMeaning": "Saya seperti ayah saya."
  },
  {
   "word": "命令",
@@ -17617,9 +17617,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "perintah, perintah, keputusan, arahan, instruksi (perangkat lunak).",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私の命令は絶対だ。",
+  "exampleReading": "わたしのめいれいはぜったいだ。",
+  "exampleMeaning": "Perintahku mutlak."
  },
  {
   "word": "理解",
@@ -17628,9 +17628,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pemahaman, pemahaman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "理解できません。",
+  "exampleReading": "りかいできません。",
+  "exampleMeaning": "Saya tidak mengerti."
  },
  {
   "word": "どんな",
@@ -17639,9 +17639,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "apa, jenis apa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どんな遊びなの？",
+  "exampleReading": "どんなあそびなの？",
+  "exampleMeaning": "Jenis permainan apa itu?"
  },
  {
   "word": "独立",
@@ -17650,9 +17650,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kemerdekaan (misalnya Hari Ind.), swasembada",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は独立記念日です。",
+  "exampleReading": "きょうはどくりつきねんびです。",
+  "exampleMeaning": "Hari ini adalah Hari Kemerdekaan."
  },
  {
   "word": "痛み",
@@ -17661,9 +17661,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sakit, sakit, perih, duka, kesusahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "相当痛みますか？",
+  "exampleReading": "そうとういたみますか？",
+  "exampleMeaning": "Apakah itu akan sangat menyakitkan?"
  },
  {
   "word": "一生",
@@ -17672,9 +17672,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seumur hidup, seumur hidup, sepanjang hidup",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "蝶の一生は短い。",
+  "exampleReading": "ちょうのいっしょうはみじかい。",
+  "exampleMeaning": "Umur kupu-kupu pendek."
  },
  {
   "word": "予防",
@@ -17683,9 +17683,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pencegahan, pencegahan, perlindungan terhadap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "予防接種をするの？",
+  "exampleReading": "よぼうせっしゅをするの？",
+  "exampleMeaning": "Apakah Anda akan mendapatkan vaksinasi?"
  },
  {
   "word": "会員",
@@ -17694,9 +17694,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "anggota, keanggotaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は会員でした。",
+  "exampleReading": "わたしはかいいんでした。",
+  "exampleMeaning": "Saya adalah anggota."
  },
  {
   "word": "器用",
@@ -17705,9 +17705,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terampil, berguna",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は不器用です。",
+  "exampleReading": "わたしはぶきようです。",
+  "exampleMeaning": "Saya jempolan."
  },
  {
   "word": "満ちる",
@@ -17727,9 +17727,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekerjaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "就職活動はどう？",
+  "exampleReading": "しゅうしょくかつどうはどう？",
+  "exampleMeaning": "Bagaimana perburuan kerjanya?"
  },
  {
   "word": "差別",
@@ -17738,9 +17738,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "diskriminasi, pembedaan, diferensiasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は人種差別と戦った。",
+  "exampleReading": "かれはじんしゅさべつとたたかった。",
+  "exampleMeaning": "Dia berjuang melawan diskriminasi rasial."
  },
  {
   "word": "行き",
@@ -17749,9 +17749,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "pergi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "どっか行きたい？",
+  "exampleReading": "どっかいきたい？",
+  "exampleMeaning": "Apakah Anda ingin pergi ke suatu tempat?"
  },
  {
   "word": "証明",
@@ -17760,9 +17760,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bukti, verifikasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それ、証明できるの？",
+  "exampleReading": "それ、しょうめいできるの？",
+  "exampleMeaning": "Bisakah Anda membuktikannya?"
  },
  {
   "word": "にっこり",
@@ -17771,9 +17771,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tersenyum manis, tersenyum, nyengir",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "にっこり笑って。",
+  "exampleReading": "にっこりわらって。",
+  "exampleMeaning": "Senyum."
  },
  {
   "word": "体育",
@@ -17782,9 +17782,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pendidikan jasmani,senam,atletik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは体育の先生だ。",
+  "exampleReading": "とむはたいいくのせんせいだ。",
+  "exampleMeaning": "Tom adalah seorang guru olahraga."
  },
  {
   "word": "失望",
@@ -17793,9 +17793,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kekecewaan, keputusasaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "失望してないの？",
+  "exampleReading": "しつぼうしてないの？",
+  "exampleMeaning": "Anda tidak kecewa, bukan?"
  },
  {
   "word": "貯金",
@@ -17804,9 +17804,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(bank) tabungan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "僕の貯金箱、どこ？",
+  "exampleReading": "ぼくのちょきんばこ、どこ？",
+  "exampleMeaning": "Dimana celenganku?"
  },
  {
   "word": "気に入る",
@@ -17815,9 +17815,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk disenangi, untuk disesuaikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女、きっと気に入るよ。",
+  "exampleReading": "かのじょ、きっときにいるよ。",
+  "exampleMeaning": "Saya yakin dia akan menyukainya."
  },
  {
   "word": "暗記",
@@ -17826,9 +17826,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "menghafal, belajar dengan hati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は詩を暗記した。",
+  "exampleReading": "かれはしをあんきした。",
+  "exampleMeaning": "Dia menghafal puisi itu."
  },
  {
   "word": "夫人",
@@ -17837,9 +17837,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "istri, Nyonya, Nyonya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "武田夫人は近所の噂には耳が早い。",
+  "exampleReading": "たけだふじんはきんじょのうわさにはみみがはやい。",
+  "exampleMeaning": "Nyonya Takeda dengan cepat menangkap rumor lokal."
  },
  {
   "word": "共通",
@@ -17848,9 +17848,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kesamaan, komunitas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "音楽は、世界共通語です。",
+  "exampleReading": "おんがくは、せかいきょうつうごです。",
+  "exampleMeaning": "Musik adalah bahasa universal."
  },
  {
   "word": "新鮮",
@@ -17859,9 +17859,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "segar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "朝は空気が新鮮だ。",
+  "exampleReading": "あさはくうきがしんせんだ。",
+  "exampleMeaning": "Udaranya segar di pagi hari."
  },
  {
   "word": "別れ",
@@ -17870,9 +17870,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perpisahan, perpisahan, perpisahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムと別れるの？",
+  "exampleReading": "とむとわかれるの？",
+  "exampleMeaning": "Apakah kamu putus dengan Tom?"
  },
  {
   "word": "思想",
@@ -17881,9 +17881,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pikiran, ide",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "思想は言葉で表現される。",
+  "exampleReading": "しそうはことばでひょうげんされる。",
+  "exampleMeaning": "Pikiran diungkapkan melalui kata-kata."
  },
  {
   "word": "或",
@@ -17892,9 +17892,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tertentu...,beberapa...",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君に或る物を見せましょう。",
+  "exampleReading": "きみにあるるものをみせましょう。",
+  "exampleMeaning": "Aku akan menunjukkan sesuatu padamu."
  },
  {
   "word": "婦人",
@@ -17903,9 +17903,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wanita, perempuan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あの老婦人は誰ですか？",
+  "exampleReading": "あのろうふじんはだれですか？",
+  "exampleMeaning": "Siapa wanita tua itu?"
  },
  {
   "word": "マイク",
@@ -17914,9 +17914,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "mikropon",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "おはよう、マイク。",
+  "exampleReading": "おはよう、まいく。",
+  "exampleMeaning": "Selamat pagi, Mike."
  },
  {
   "word": "博士",
@@ -17925,9 +17925,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "doktor, PhD",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ジャクソン博士は我慢強いです。",
+  "exampleReading": "じゃくそんはかせはがまんづよいです。",
+  "exampleMeaning": "Dr Jackson memiliki banyak kesabaran."
  },
  {
   "word": "はさみ",
@@ -17936,9 +17936,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "gunting",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "はさみを取って下さい。",
+  "exampleReading": "はさみをとってください。",
+  "exampleMeaning": "Tolong ambilkan aku guntingnya."
  },
  {
   "word": "案",
@@ -17947,9 +17947,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rencana, akhiran yang berarti rancangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "名案ですよ。",
+  "exampleReading": "めいあんですよ。",
+  "exampleMeaning": "Itu rencana yang bagus."
  },
  {
   "word": "舌",
@@ -17958,9 +17958,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "lidah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "駟も舌に及ばず。",
+  "exampleReading": "しもしたにおよばず。",
+  "exampleMeaning": "Sebuah kata yang diucapkan sudah tidak dapat diingat lagi."
  },
  {
   "word": "人生",
@@ -17969,9 +17969,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kehidupan (manusia) (yaitu pembuahan sampai kematian)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人生は夢の如し。",
+  "exampleReading": "じんせいはゆめのごとし。",
+  "exampleMeaning": "Hidup itu seperti mimpi."
  },
  {
   "word": "たっぷり",
@@ -17980,9 +17980,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "penuh, banyak, banyak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "時間はたっぷりある。",
+  "exampleReading": "じかんはたっぷりある。",
+  "exampleMeaning": "Kita punya banyak waktu."
  },
  {
   "word": "中古",
@@ -17991,9 +17991,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) bekas, bekas, lama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この中古車は売り物です。",
+  "exampleReading": "このちゅうこしゃはうりものです。",
+  "exampleMeaning": "Mobil bekas ini dijual."
  },
  {
   "word": "条件",
@@ -18002,9 +18002,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "syarat, syarat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "認めるけど、条件が一つ。",
+  "exampleReading": "みとめるけど、じょうけんがひとつ。",
+  "exampleMeaning": "Aku akan menerimanya, tapi dengan satu syarat."
  },
  {
   "word": "役割",
@@ -18013,9 +18013,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bagian, menugaskan (menjatah) bagian, peran, tugas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は婦人解放運動で積極的な役割をした。",
+  "exampleReading": "かのじょはふじんかいほううんどうでせっきょくてきなやくわりをした。",
+  "exampleMeaning": "Dia berperan dalam gerakan lib perempuan."
  },
  {
   "word": "びっくり",
@@ -18024,9 +18024,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "kaget, takjub, takut, takjub",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それはびっくり！",
+  "exampleReading": "それはびっくり！",
+  "exampleMeaning": "Itu adalah sebuah kejutan!"
  },
  {
   "word": "油",
@@ -18035,9 +18035,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "minyak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "油を少し加えて。",
+  "exampleReading": "あぶらをすこしくわえて。",
+  "exampleMeaning": "Tambahkan sedikit minyak."
  },
  {
   "word": "メモ",
@@ -18046,9 +18046,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "nota",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "メモ、取ってるの？",
+  "exampleReading": "めも、とってるの？",
+  "exampleMeaning": "Apakah Anda mencatat?"
  },
  {
   "word": "不利",
@@ -18057,9 +18057,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kerugian, cacat, tidak menguntungkan, kelemahan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そのうわさは彼に不利に働いた。",
+  "exampleReading": "そのうわさはかれにふりにはたらいた。",
+  "exampleMeaning": "Rumor itu merugikannya."
  },
  {
   "word": "訳",
@@ -18068,9 +18068,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "makna, alasan, keadaan, dapat disimpulkan, situasi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この翻訳はどう？",
+  "exampleReading": "このほんやくはどう？",
+  "exampleMeaning": "Bagaimana terjemahannya?"
  },
  {
   "word": "いい",
@@ -18090,9 +18090,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(secara) kebetulan, tanpa diduga, tiba-tiba",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は彼に偶然会った。",
+  "exampleReading": "わたしはかれにぐうぜんあった。",
+  "exampleMeaning": "Saya bertemu dengannya secara kebetulan."
  },
  {
   "word": "芽",
@@ -18101,9 +18101,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tumbuh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "木々は芽を出し始めた。",
+  "exampleReading": "きぎはめをだしはじめた。",
+  "exampleMeaning": "Pohon-pohon mulai bertunas."
  },
  {
   "word": "不足",
@@ -18112,9 +18112,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "ketidakcukupan, kekurangan, kekurangan, kekurangan, kelangkaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "寝不足で、眠い。",
+  "exampleReading": "ねぶそくで、ねむい。",
+  "exampleMeaning": "Aku lelah karena kurang tidur."
  },
  {
   "word": "グラス",
@@ -18123,9 +18123,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) gelas, (2) rumput",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "サングラスしよっと。",
+  "exampleReading": "さんぐらすしよっと。",
+  "exampleMeaning": "Saya akan memakai kacamata hitam."
  },
  {
   "word": "戦う",
@@ -18134,9 +18134,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk bertarung, bertarung, bertarung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "生きることは戦うことだ。",
+  "exampleReading": "いきることはたたかうことだ。",
+  "exampleMeaning": "Hidup berarti berjuang."
  },
  {
   "word": "方向",
@@ -18145,9 +18145,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "arah, tentu saja, cara",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は方向音痴だ。",
+  "exampleReading": "かれはほうこうおんちだ。",
+  "exampleMeaning": "Dia tidak tahu arah."
  },
  {
   "word": "強調",
@@ -18156,9 +18156,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penekanan, tekanan, titik yang ditekankan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この点を強調したいんだ。",
+  "exampleReading": "このてんをきょうちょうしたいんだ。",
+  "exampleMeaning": "Saya ingin menekankan hal ini."
  },
  {
   "word": "自然",
@@ -18167,9 +18167,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "alam, spontan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "自然って凄いなぁ。",
+  "exampleReading": "しぜんってすごいなぁ。",
+  "exampleMeaning": "Alam sungguh menakjubkan."
  },
  {
   "word": "ジュース",
@@ -18178,9 +18178,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jus, minuman ringan, jus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ジュースが欲しい。",
+  "exampleReading": "じゅーすがほしい。",
+  "exampleMeaning": "Saya ingin jus."
  },
  {
   "word": "記録",
@@ -18189,9 +18189,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "catatan, menit, dokumen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は記録を破った。",
+  "exampleReading": "かれはきろくをやぶった。",
+  "exampleMeaning": "Dia telah memecahkan rekor."
  },
  {
   "word": "操作",
@@ -18200,9 +18200,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "operasi, manajemen, pemrosesan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この機械は操作しにくいよ。",
+  "exampleReading": "このきかいはそうさしにくいよ。",
+  "exampleMeaning": "Mesin ini sulit dioperasikan."
  },
  {
   "word": "莫大",
@@ -18211,9 +18211,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sangat besar, luas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は莫大な財産を築いた。",
+  "exampleReading": "かれはばくだいなざいさんをきずいた。",
+  "exampleMeaning": "Dia mengumpulkan kekayaan yang besar."
  },
  {
   "word": "重大",
@@ -18222,9 +18222,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "serius, penting, serius, berbobot",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは重大な決断だ。",
+  "exampleReading": "これはじゅうだいなけつだんだ。",
+  "exampleMeaning": "Ini adalah keputusan besar."
  },
  {
   "word": "株",
@@ -18233,9 +18233,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bagian, stok, tunggul (dari pohon)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "株価が下がった。",
+  "exampleReading": "かぶかがさがった。",
+  "exampleMeaning": "Harga saham turun."
  },
  {
   "word": "無事",
@@ -18244,9 +18244,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keamanan, kedamaian, ketenangan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "無事でよかった。",
+  "exampleReading": "ぶじでよかった。",
+  "exampleMeaning": "Saya sangat senang Anda baik-baik saja."
  },
  {
   "word": "違反",
@@ -18255,9 +18255,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pelanggaran (hukum), pelanggaran, pelanggaran, pelanggaran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ルール違反だぞ。",
+  "exampleReading": "るーるいはんだぞ。",
+  "exampleMeaning": "Itu melanggar aturan."
  },
  {
   "word": "列",
@@ -18266,9 +18266,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "antrian, baris, baris",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "列車に乗ってた？",
+  "exampleReading": "れっしゃにのってた？",
+  "exampleMeaning": "Apakah kamu di kereta?"
  },
  {
   "word": "ベンチ",
@@ -18277,9 +18277,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bangku",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ベンチに座って。",
+  "exampleReading": "べんちにすわって。",
+  "exampleMeaning": "Duduklah di bangku."
  },
  {
   "word": "事",
@@ -18288,9 +18288,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "benda, materi, fakta, keadaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日は仕事？",
+  "exampleReading": "きょうはしごと？",
+  "exampleMeaning": "Apakah kamu bekerja hari ini?"
  },
  {
   "word": "残り",
@@ -18299,9 +18299,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sisa, sisa, sisa, sisa",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "残りは僕がやるよ。",
+  "exampleReading": "のこりはぼくがやるよ。",
+  "exampleMeaning": "Saya akan melakukan sisanya."
  },
  {
   "word": "年月",
@@ -18310,9 +18310,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bulan dan tahun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "生年月日はいつ？",
+  "exampleReading": "せいねんがっぴはいつ？",
+  "exampleMeaning": "Berapa tanggal lahirmu?"
  },
  {
   "word": "怪我",
@@ -18321,9 +18321,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "cedera (untuk menghidupkan objek), sakit",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あなた、怪我は？",
+  "exampleReading": "あなた、けがは？",
+  "exampleMeaning": "Sayang, apakah kamu terluka?"
  },
  {
   "word": "議論",
@@ -18332,9 +18332,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "argumen, diskusi, perselisihan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "議論は継続中だ。",
+  "exampleReading": "ぎろんはけいぞくちゅうだ。",
+  "exampleMeaning": "Perdebatan terus berlanjut."
  },
  {
   "word": "事態",
@@ -18343,9 +18343,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "situasi, keadaan saat ini",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "事態は急変した。",
+  "exampleReading": "じたいはきゅうへんした。",
+  "exampleMeaning": "Tiba-tiba terjadi perubahan situasi."
  },
  {
   "word": "缶",
@@ -18354,9 +18354,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bisa, timah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "空き缶、見っけ。",
+  "exampleReading": "あきかん、みっけ。",
+  "exampleMeaning": "Saya menemukan kaleng kosong."
  },
  {
   "word": "粗末",
@@ -18365,9 +18365,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kasar, kasar, polos, rendah hati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "道具を粗末に使うな。",
+  "exampleReading": "どうぐをそまつにつかうな。",
+  "exampleMeaning": "Jangan menangani alat-alat ini dengan kasar."
  },
  {
   "word": "組む",
@@ -18376,9 +18376,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk disatukan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "過去ではなく、未来に向けて取り組むのが当社の方針です。",
+  "exampleReading": "かこではなく、みらいにむけてとりくむのがとうしゃのほうしんです。",
+  "exampleMeaning": "Kebijakan kami adalah membangun masa depan, bukan masa lalu."
  },
  {
   "word": "倒す",
@@ -18387,9 +18387,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menjatuhkan, untuk memukul, untuk menjatuhkan, untuk meledakkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "お前、ぶっ倒すぞ！",
+  "exampleReading": "おまえ、ぶったおすぞ！",
+  "exampleMeaning": "Aku akan menjatuhkanmu!"
  },
  {
   "word": "進学",
@@ -18398,9 +18398,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "melanjutkan ke universitas",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは大学進学を決意した。",
+  "exampleReading": "とむはだいがくしんがくをけついした。",
+  "exampleMeaning": "Tom telah memutuskan untuk kuliah."
  },
  {
   "word": "加減",
@@ -18409,9 +18409,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "penjumlahan dan pengurangan, penyisihan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "いい加減にして！",
+  "exampleReading": "いいかげんにして！",
+  "exampleMeaning": "Itu sudah cukup!"
  },
  {
   "word": "前者",
@@ -18420,9 +18420,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "yang pertama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "後者より前者の方がいい。",
+  "exampleReading": "こうしゃよりぜんしゃのほうがいい。",
+  "exampleMeaning": "Yang pertama lebih baik dari yang kedua."
  },
  {
   "word": "主に",
@@ -18431,9 +18431,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terutama, terutama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは主に女性の肖像画を描いました。",
+  "exampleReading": "とむはおもにじょせいのしょうぞうがをえがいました。",
+  "exampleMeaning": "Tom kebanyakan melukis potret wanita."
  },
  {
   "word": "就職",
@@ -18442,9 +18442,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "mencari pekerjaan, pelantikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "就職活動はどう？",
+  "exampleReading": "しゅうしょくかつどうはどう？",
+  "exampleMeaning": "Bagaimana perburuan kerjanya?"
  },
  {
   "word": "覚ます",
@@ -18453,9 +18453,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membangunkan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私はたいてい六時に目を覚ます。",
+  "exampleReading": "わたしはたいていろくじにめをさます。",
+  "exampleMeaning": "Saya biasanya bangun jam enam."
  },
  {
   "word": "すみません",
@@ -18464,9 +18464,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "maaf, permisi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "すみません...",
+  "exampleReading": "すみません...",
+  "exampleMeaning": "Maaf..."
  },
  {
   "word": "状態",
@@ -18475,9 +18475,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kondisi, situasi, keadaan, keadaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "幸せは心の状態だ。",
+  "exampleReading": "しあわせはこころのじょうたいだ。",
+  "exampleMeaning": "Kebahagiaan adalah keadaan pikiran."
  },
  {
   "word": "秒",
@@ -18486,9 +18486,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kedua (menit ke-60)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "1分は60秒です。",
+  "exampleReading": "1ふんは60びょうです。",
+  "exampleMeaning": "Satu menit memiliki enam puluh detik."
  },
  {
   "word": "翼",
@@ -18497,9 +18497,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sayap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "鳥には翼がある。",
+  "exampleReading": "とりにはつばさがある。",
+  "exampleMeaning": "Seekor burung mempunyai sayap."
  },
  {
   "word": "殺す",
@@ -18508,9 +18508,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membunuh",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私たちを殺すの？",
+  "exampleReading": "わたしたちをころすの？",
+  "exampleMeaning": "Apakah kamu akan membunuh kami?"
  },
  {
   "word": "馬鹿",
@@ -18519,9 +18519,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bodoh, idiot, hal sepele, kebodohan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "馬鹿とは何だ？！",
+  "exampleReading": "ばかとはなにだ？！",
+  "exampleMeaning": "Siapa yang kamu sebut bodoh?!"
  },
  {
   "word": "裸",
@@ -18530,9 +18530,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "telanjang, telanjang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "裸のまま寝ます。",
+  "exampleReading": "はだかのままねます。",
+  "exampleMeaning": "Saya tidur telanjang."
  },
  {
   "word": "あんなに",
@@ -18541,9 +18541,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sejauh itu, sampai pada tingkat itu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あんなに食べなきゃよかった。",
+  "exampleReading": "あんなにたべなきゃよかった。",
+  "exampleMeaning": "Seharusnya aku tidak makan terlalu banyak."
  },
  {
   "word": "県",
@@ -18552,9 +18552,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "prefektur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "沖縄県民斯く戦えり。",
+  "exampleReading": "おきなわけんみんかくたたかえり。",
+  "exampleMeaning": "Demikianlah perjuangan rakyat Okinawa."
  },
  {
   "word": "続き",
@@ -18563,9 +18563,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "lanjutan, lanjutan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "雨が続きそうね。",
+  "exampleReading": "あめがつづきそうね。",
+  "exampleMeaning": "Kemungkinan besar hujan akan terus berlanjut."
  },
  {
   "word": "題",
@@ -18574,9 +18574,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "judul, pokok bahasan, tema, topik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "宿題は完璧？",
+  "exampleReading": "しゅくだいはかんぺき？",
+  "exampleMeaning": "Sudahkah Anda menyelesaikan pekerjaan rumah Anda?"
  },
  {
   "word": "一体",
@@ -18585,9 +18585,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) satu benda, satu benda, (2) apa sebenarnya?, (3) secara umum",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "一体何の騒ぎなの？",
+  "exampleReading": "いったいなにのさわぎなの？",
+  "exampleMeaning": "Apa yang diributkan?"
  },
  {
   "word": "賞",
@@ -18596,9 +18596,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "hadiah, penghargaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "目標は一等賞です。",
+  "exampleReading": "もくひょうはいっとうしょうです。",
+  "exampleMeaning": "Tujuannya adalah hadiah pertama."
  },
  {
   "word": "ヨット",
@@ -18607,9 +18607,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kapal pesiar",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ヨットは風を受けて進んだ。",
+  "exampleReading": "よっとはかぜをうけてすすんだ。",
+  "exampleMeaning": "Kapal pesiar itu berlayar sebelum angin."
  },
  {
   "word": "最終",
@@ -18618,9 +18618,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "terakhir, terakhir, penutup",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これが最終電車です。",
+  "exampleReading": "これがさいしゅうでんしゃです。",
+  "exampleMeaning": "Ini adalah kereta terakhir."
  },
  {
   "word": "ウイスキー",
@@ -18629,9 +18629,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "wiski",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "このウイスキーはどう。",
+  "exampleReading": "このういすきーはどう。",
+  "exampleMeaning": "Bagaimana Anda menyukai wiski ini?"
  },
  {
   "word": "誰か",
@@ -18640,9 +18640,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "seseorang, seseorang",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "誰か驚いた？",
+  "exampleReading": "だれかおどろいた？",
+  "exampleMeaning": "Apakah ada yang terkejut?"
  },
  {
   "word": "借金",
@@ -18651,9 +18651,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "hutang, pinjaman, kewajiban",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "借金してるんだよ。",
+  "exampleReading": "しゃっきんしてるんだよ。",
+  "exampleMeaning": "Saya meminjam uang."
  },
  {
   "word": "胃",
@@ -18662,9 +18662,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "胃が痛いんです。",
+  "exampleReading": "いがいたいんです。",
+  "exampleMeaning": "Aku sakit perut."
  },
  {
   "word": "積極的",
@@ -18673,9 +18673,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "positif, aktif, proaktif",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現場は開発に積極的だった。",
+  "exampleReading": "げんばはかいはつにせっきょくてきだった。",
+  "exampleMeaning": "Dari segi pengembangan, situs ini produktif."
  },
  {
   "word": "装置",
@@ -18684,9 +18684,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "peralatan, instalasi, peralatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この装置で人間が水中で呼吸できます。",
+  "exampleReading": "このそうちでにんげんがすいちゅうでこきゅうできます。",
+  "exampleMeaning": "Perangkat ini memungkinkan manusia bernapas di bawah air."
  },
  {
   "word": "違いない",
@@ -18695,9 +18695,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(frasa) tentu, tidak salah lagi, pasti",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "間違いないって。",
+  "exampleReading": "まちがいないって。",
+  "exampleMeaning": "Anda sebaiknya mempercayainya."
  },
  {
   "word": "州",
@@ -18706,9 +18706,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "beting",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は杭州の出身だ。",
+  "exampleReading": "かれはこうしゅうのしゅっしんだ。",
+  "exampleMeaning": "Dia berasal dari Hangzhou."
  },
  {
   "word": "肩",
@@ -18717,9 +18717,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "bahu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "肩が凝っている。",
+  "exampleReading": "かたがこっている。",
+  "exampleMeaning": "Bahuku kaku."
  },
  {
   "word": "そっと",
@@ -18728,9 +18728,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "muka bumi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そっとしといてやれよ。",
+  "exampleReading": "そっとしといてやれよ。",
+  "exampleMeaning": "Tinggalkan dia sendiri."
  },
  {
   "word": "為る",
@@ -18739,9 +18739,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk berubah, untuk berguna, untuk mencapai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "今日、東京はとても寒く為るでしょう。",
+  "exampleReading": "きょう、とうきょうはとてもさむくなるでしょう。",
+  "exampleMeaning": "Hari ini, Tokyo akan menjadi sangat dingin."
  },
  {
   "word": "公平",
@@ -18750,9 +18750,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keadilan, tidak memihak, keadilan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "不公平しないで。",
+  "exampleReading": "ふこうへいしないで。",
+  "exampleMeaning": "Jangan bersikap tidak adil!"
  },
  {
   "word": "温度",
@@ -18761,9 +18761,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "suhu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "温度は七十度です。",
+  "exampleReading": "おんどはななじゅうどです。",
+  "exampleMeaning": "Termometernya menunjukkan angka 70."
  },
  {
   "word": "稲",
@@ -18772,9 +18772,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tanaman padi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "空に稲妻が走った。",
+  "exampleReading": "そらにいなづまがはしった。",
+  "exampleMeaning": "Petir menyambar di langit."
  },
  {
   "word": "挨拶",
@@ -18783,9 +18783,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "salam, salam",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "挨拶をしなさい。",
+  "exampleReading": "あいさつをしなさい。",
+  "exampleMeaning": "Katakan halo."
  },
  {
   "word": "効果",
@@ -18794,9 +18794,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "efek, efektivitas, kemanjuran, hasil",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "効果は同じです。",
+  "exampleReading": "こうかはおなじです。",
+  "exampleMeaning": "Efeknya sama."
  },
  {
   "word": "瓶",
@@ -18805,9 +18805,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "botol",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "花瓶割ったの誰？",
+  "exampleReading": "かびんわったのだれ？",
+  "exampleMeaning": "Siapa yang memecahkan vas itu?"
  },
  {
   "word": "留学",
@@ -18816,9 +18816,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "belajar di luar negeri",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は留学したい。",
+  "exampleReading": "わたしはりゅうがくしたい。",
+  "exampleMeaning": "Saya ingin belajar di luar negeri."
  },
  {
   "word": "命じる",
@@ -18849,9 +18849,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "rekan kerja, kolega, rekan kerja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼女は同僚だよ。",
+  "exampleReading": "かのじょはどうりょうだよ。",
+  "exampleMeaning": "Dia adalah salah satu rekan saya."
  },
  {
   "word": "連想",
@@ -18860,9 +18860,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "asosiasi (ide), saran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "緑は草を連想させる。",
+  "exampleReading": "みどりはくさをれんそうさせる。",
+  "exampleMeaning": "Hijau diasosiasikan dengan rumput."
  },
  {
   "word": "攻撃",
@@ -18871,9 +18871,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "serangan, pemogokan, ofensif, kritik, kecaman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "攻撃されている。",
+  "exampleReading": "こうげきされている。",
+  "exampleMeaning": "Kami sedang diserang."
  },
  {
   "word": "是非",
@@ -18882,9 +18882,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tentu saja, tanpa gagal",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "是非、彼に会いたいわ。",
+  "exampleReading": "ぜひ、かれにあいたいわ。",
+  "exampleMeaning": "Saya ingin bertemu dengannya bagaimanapun caranya."
  },
  {
   "word": "上等",
@@ -18893,9 +18893,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keunggulan, kelas satu, sangat bagus",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "上等じゃないか！",
+  "exampleReading": "じょうとうじゃないか！",
+  "exampleMeaning": "Ayo!"
  },
  {
   "word": "届く",
@@ -18904,9 +18904,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencapai",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "天井に手が届くんだよ。",
+  "exampleReading": "てんじょうにてがとどくんだよ。",
+  "exampleMeaning": "Saya bisa menyentuh langit-langit."
  },
  {
   "word": "事件",
@@ -18915,9 +18915,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "peristiwa, perselingkuhan, insiden",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "事件は幕を閉じた。",
+  "exampleReading": "じけんはまくをとじた。",
+  "exampleMeaning": "Kasus ini hampir berakhir."
  },
  {
   "word": "そのまま",
@@ -18926,9 +18926,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tanpa perubahan, sebagaimana adanya (yaitu sekarang)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そのまま続けて。",
+  "exampleReading": "そのままつづけて。",
+  "exampleMeaning": "Terus berlanjut."
  },
  {
   "word": "要点",
@@ -18937,9 +18937,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "intinya, poin utama",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "話の要点を書き留めなさい。",
+  "exampleReading": "はなしのようてんをかきとめなさい。",
+  "exampleMeaning": "Catatlah poin-poin utama pidato tersebut."
  },
  {
   "word": "得意",
@@ -18948,9 +18948,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kebanggaan, kemenangan, kemakmuran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "書道って、得意？",
+  "exampleReading": "しょどうって、とくい？",
+  "exampleMeaning": "Apakah kamu pandai kaligrafi?"
  },
  {
   "word": "王子",
@@ -18959,9 +18959,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pangeran",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "王子本人に会ったんだよ。",
+  "exampleReading": "おうじほんにんにあったんだよ。",
+  "exampleMeaning": "Saya bertemu sang pangeran sendiri."
  },
  {
   "word": "凍る",
@@ -18970,9 +18970,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membekukan, untuk dibekukan, untuk membekukan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "水は摂氏０度で凍る。",
+  "exampleReading": "みずはせっしぜろどでこおる。",
+  "exampleMeaning": "Air membeku pada suhu 0 derajat Celcius."
  },
  {
   "word": "単純",
@@ -18981,9 +18981,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kesederhanaan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それはとても単純です。",
+  "exampleReading": "それはとてもたんじゅんです。",
+  "exampleMeaning": "Ini sangat sederhana."
  },
  {
   "word": "衝突",
@@ -18992,9 +18992,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "tabrakan, konflik",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "正面衝突だった。",
+  "exampleReading": "しょうめんしょうとつだった。",
+  "exampleMeaning": "Kedua mobil itu bertabrakan."
  },
  {
   "word": "勇気",
@@ -19003,9 +19003,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "keberanian, keberanian, keberanian, keberanian, keberanian",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは勇気がない。",
+  "exampleReading": "とむはゆうきがない。",
+  "exampleMeaning": "Tom kurang berani."
  },
  {
   "word": "詳しい",
@@ -19014,9 +19014,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "mengetahui dengan baik, detail, lengkap, akurat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "C++に詳しい？",
+  "exampleReading": "C++にくわしい？",
+  "exampleMeaning": "Apakah Anda kenal dengan C++?"
  },
  {
   "word": "スピーチ",
@@ -19025,9 +19025,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pidato",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "いいスピーチでしたね。",
+  "exampleReading": "いいすぴーちでしたね。",
+  "exampleMeaning": "Itu pidato yang bagus."
  },
  {
   "word": "相続",
@@ -19036,9 +19036,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "suksesi, warisan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は莫大な遺産を相続した。",
+  "exampleReading": "わたしはばくだいないさんをそうぞくした。",
+  "exampleMeaning": "Saya mendapat kekayaan besar."
  },
  {
   "word": "選手",
@@ -19047,9 +19047,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) pemain (dalam permainan), (2) tim",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は野球選手だ。",
+  "exampleReading": "かれはやきゅうせんしゅだ。",
+  "exampleMeaning": "Dia adalah pemain bisbol."
  },
  {
   "word": "育つ",
@@ -19058,9 +19058,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk membesarkan (anak), untuk dibesarkan, untuk tumbuh (tumbuh)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "親は無くとも子は育つ。",
+  "exampleReading": "おやはなくともこはそだつ。",
+  "exampleMeaning": "Alam adalah ibu yang baik."
  },
  {
   "word": "年間",
@@ -19069,9 +19069,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tahun",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "保証は一年間です。",
+  "exampleReading": "ほしょうはいちねんかんです。",
+  "exampleMeaning": "Kami menjamin produk kami selama satu tahun."
  },
  {
   "word": "しきりに",
@@ -19080,9 +19080,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sering, berulang-ulang, tanpa henti, dengan penuh semangat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムはしきりに謝った。",
+  "exampleReading": "とむはしきりにあやまった。",
+  "exampleMeaning": "Tom meminta maaf sebesar-besarnya."
  },
  {
   "word": "言う",
@@ -19091,9 +19091,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengatakan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "よう言うわ。",
+  "exampleReading": "よういうわ。",
+  "exampleMeaning": "Anda tidak bisa serius."
  },
  {
   "word": "冷静",
@@ -19102,9 +19102,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "ketenangan, ketentraman, kesejukan, ketentraman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "冷静さを失うな。",
+  "exampleReading": "れいせいさをうしなうな。",
+  "exampleMeaning": "Jangan kehilangan ketenanganmu."
  },
  {
   "word": "組織",
@@ -19113,9 +19113,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "(1) organisasi, (2) struktur, konstruksi, (3) jaringan, (4) sistem",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムはこの組織の一員です。",
+  "exampleReading": "とむはこのそしきのいちいんです。",
+  "exampleMeaning": "Tom adalah anggota organisasi ini."
  },
  {
   "word": "起こる",
@@ -19124,9 +19124,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "terjadi, terjadi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "何が起こるだろう。",
+  "exampleReading": "なにがおこるだろう。",
+  "exampleMeaning": "Apa yang akan terjadi?"
  },
  {
   "word": "犯罪",
@@ -19135,9 +19135,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kejahatan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これは戦争犯罪だ。",
+  "exampleReading": "これはせんそうはんざいだ。",
+  "exampleMeaning": "Ini adalah kejahatan perang."
  },
  {
   "word": "嫌う",
@@ -19146,9 +19146,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "membenci, tidak menyukai, membenci",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は自分を嫌う。",
+  "exampleReading": "わたしはじぶんをきらう。",
+  "exampleMeaning": "Aku benci diriku sendiri."
  },
  {
   "word": "決定",
@@ -19157,9 +19157,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keputusan, tekad",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "決定は延期された。",
+  "exampleReading": "けっていはえんきされた。",
+  "exampleMeaning": "Keputusan itu ditunda."
  },
  {
   "word": "放す",
@@ -19168,9 +19168,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk memisahkan, untuk membebaskan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ロープを放すな。",
+  "exampleReading": "ろーぷをほかすな。",
+  "exampleMeaning": "Jangan lepaskan talinya."
  },
  {
   "word": "どう",
@@ -19190,9 +19190,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menangani, untuk menangani, untuk mengobati",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "歴史は過去を扱う。",
+  "exampleReading": "れきしはかこをあつかう。",
+  "exampleMeaning": "Sejarah berhubungan dengan masa lalu."
  },
  {
   "word": "遅刻",
@@ -19201,9 +19201,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keterlambatan, datang terlambat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "仕事に遅刻した。",
+  "exampleReading": "しごとにちこくした。",
+  "exampleMeaning": "Saya terlambat bekerja."
  },
  {
   "word": "省く",
@@ -19212,9 +19212,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menghilangkan, menghilangkan, membatasi, menghemat",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "機械は多くの人手を省く。",
+  "exampleReading": "きかいはおおくのひとでをはぶく。",
+  "exampleMeaning": "Mesin tidak memerlukan banyak tenaga kerja."
  },
  {
   "word": "試す",
@@ -19223,9 +19223,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mencoba, untuk menguji",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "人を試すようなことをしないで。",
+  "exampleReading": "ひとをためすようなことをしないで。",
+  "exampleMeaning": "Jangan uji aku."
  },
  {
   "word": "霧",
@@ -19234,9 +19234,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kabut, kabut",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "道路に霧がある。",
+  "exampleReading": "どうろにきりがある。",
+  "exampleMeaning": "Ada kabut di jalan."
  },
  {
   "word": "ペンキ",
@@ -19245,9 +19245,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(n) cat (nl: pek)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ペンキ塗りたて注意",
+  "exampleReading": "ぺんきぬりたてちゅうい",
+  "exampleMeaning": "Peringatan!"
  },
  {
   "word": "手段",
@@ -19256,9 +19256,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "artinya, cara, mengukur",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "手段を択ばないよね。",
+  "exampleReading": "しゅだんをえらばないよね。",
+  "exampleMeaning": "Tidak ada artinya Anda tidak akan membungkuk, bukan begitu."
  },
  {
   "word": "粗",
@@ -19267,9 +19267,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "cacat, cacat, cacat, titik lemah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "道具を粗末に使うな。",
+  "exampleReading": "どうぐをそまつにつかうな。",
+  "exampleMeaning": "Jangan menangani alat-alat ini dengan kasar."
  },
  {
   "word": "化学",
@@ -19278,9 +19278,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kimia",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は化学に熱心だ。",
+  "exampleReading": "かれはかがくにねっしんだ。",
+  "exampleMeaning": "Dia sangat menyukai kimia."
  },
  {
   "word": "作曲",
@@ -19289,9 +19289,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "komposisi, setting (musik)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "作曲をしています。",
+  "exampleReading": "さっきょくをしています。",
+  "exampleMeaning": "Saya menulis lagu."
  },
  {
   "word": "貰う",
@@ -19300,9 +19300,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk menerima",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "薬はどこで貰うんですか。",
+  "exampleReading": "くすりはどこでもらうんですか。",
+  "exampleMeaning": "Dimana saya bisa mendapatkan obatnya?"
  },
  {
   "word": "現場",
@@ -19311,9 +19311,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tempat sebenarnya, TKP, TKP",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "現場へと走った。",
+  "exampleReading": "げんばへとはしった。",
+  "exampleMeaning": "Mereka berlari ke tempat kejadian."
  },
  {
   "word": "営業",
@@ -19322,9 +19322,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "bisnis, perdagangan, manajemen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私は営業部です。",
+  "exampleReading": "わたしはえいぎょうぶです。",
+  "exampleMeaning": "Saya adalah anggota departemen penjualan."
  },
  {
   "word": "太陽",
@@ -19333,9 +19333,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "matahari, tenaga surya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "太陽がまぶしい。",
+  "exampleReading": "たいようがまぶしい。",
+  "exampleMeaning": "Mataku silau karena sinar matahari."
  },
  {
   "word": "一瞬",
@@ -19344,9 +19344,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "sesaat, sekejap",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "一瞬目を閉じた。",
+  "exampleReading": "いっしゅんめをとじた。",
+  "exampleMeaning": "Aku memejamkan mata sejenak."
  },
  {
   "word": "地域",
@@ -19355,9 +19355,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "daerah, wilayah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "地域で差がありすぎる。",
+  "exampleReading": "ちいきでさがありすぎる。",
+  "exampleMeaning": "Ada terlalu banyak perbedaan regional."
  },
  {
   "word": "種",
@@ -19366,9 +19366,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "(1) benih, (2) bahan, (3) sebab, sumber",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは種牛です。",
+  "exampleReading": "それはたねうしです。",
+  "exampleMeaning": "Itu seekor banteng."
  },
  {
   "word": "濡れる",
@@ -19377,9 +19377,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "menjadi basah",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "猫は濡れるのを嫌がる。",
+  "exampleReading": "ねこはぬれるのをいやがる。",
+  "exampleMeaning": "Kucing tidak suka basah."
  },
  {
   "word": "臭い",
@@ -19388,9 +19388,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Sifat I",
   "meaning": "bau, aroma, bau, bau busuk",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "タバコ臭いわよ。",
+  "exampleReading": "たばこくさいわよ。",
+  "exampleMeaning": "Kamu berbau seperti asap."
  },
  {
   "word": "ボート",
@@ -19399,9 +19399,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perahu dayung",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "私はボートが欲しい。",
+  "exampleReading": "わたしはぼーとがほしい。",
+  "exampleMeaning": "Saya ingin perahu."
  },
  {
   "word": "医療",
@@ -19410,9 +19410,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "perawatan medis, perawatan medis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼は医療に一生を捧げた。",
+  "exampleReading": "かれはいりょうにいっしょうをささげた。",
+  "exampleMeaning": "Dia mendedikasikan hidupnya untuk pekerjaan medis."
  },
  {
   "word": "夢中",
@@ -19421,9 +19421,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "linglung,(dalam) kesurupan, ekstasi, delirium, keasyikan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "トムは君に夢中さ。",
+  "exampleReading": "とむはきみにむちゅうさ。",
+  "exampleMeaning": "Tom naksir kamu."
  },
  {
   "word": "一人一人",
@@ -19432,9 +19432,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "satu demi satu, masing-masing, satu demi satu",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "選手一人一人が最善を尽くした。",
+  "exampleReading": "せんしゅいちにんいちにんがさいぜんをつくした。",
+  "exampleMeaning": "Setiap pemain melakukan yang terbaik."
  },
  {
   "word": "いただきます",
@@ -19443,9 +19443,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "ungkapan terima kasih sebelum makan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "これをいただきます。",
+  "exampleReading": "これをいただきます。",
+  "exampleMeaning": "Aku akan mengambil ini."
  },
  {
   "word": "動詞",
@@ -19454,9 +19454,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kata kerja",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "それは、他動詞です。",
+  "exampleReading": "それは、たどうしです。",
+  "exampleMeaning": "Itu adalah kata kerja transitif."
  },
  {
   "word": "最高",
@@ -19465,9 +19465,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tertinggi, tertinggi, terbanyak",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君は最高だリサ！",
+  "exampleReading": "きみはさいこうだりさ！",
+  "exampleMeaning": "Kamu yang terbaik, Lisa!"
  },
  {
   "word": "事実",
@@ -19476,9 +19476,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "fakta, kebenaran, kenyataan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "事実が知りたい。",
+  "exampleReading": "じじつがしりたい。",
+  "exampleMeaning": "Saya ingin fakta."
  },
  {
   "word": "手品",
@@ -19487,9 +19487,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "sulap, sulap, sulap, juggling",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "手品が大好きなんだ。",
+  "exampleReading": "てじながだいすきなんだ。",
+  "exampleMeaning": "Saya suka trik sulap."
  },
  {
   "word": "学期",
@@ -19498,9 +19498,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "jangka waktu (sekolah)",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "二学期は終わった。",
+  "exampleReading": "にがっきはおわった。",
+  "exampleMeaning": "Masa jabatan kedua telah berakhir."
  },
  {
   "word": "椅子",
@@ -19509,9 +19509,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kursi",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "この椅子大好き。",
+  "exampleReading": "このいすだいすき。",
+  "exampleMeaning": "Saya suka kursi ini."
  },
  {
   "word": "とんでもない",
@@ -19520,9 +19520,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "tidak terduga, menyinggung, Kata-kata yang luar biasa!, Tidak mungkin!",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "彼が完璧だなんてとんでもない。",
+  "exampleReading": "かれがかんぺきだなんてとんでもない。",
+  "exampleMeaning": "Dia jauh dari sempurna."
  },
  {
   "word": "頼る",
@@ -19531,9 +19531,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja",
   "meaning": "untuk mengandalkan, untuk meminta bantuan, untuk bergantung pada",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "あまり人に頼るな。",
+  "exampleReading": "あまりじんにたよるな。",
+  "exampleMeaning": "Jangan terlalu bergantung pada orang lain."
  },
  {
   "word": "そのうち",
@@ -19542,9 +19542,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pada akhirnya, cepat atau lambat, dari hal yang disebutkan sebelumnya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "そのうち分かるよ。",
+  "exampleReading": "そのうちわかるよ。",
+  "exampleMeaning": "Kita lihat saja nanti."
  },
  {
   "word": "金持ち",
@@ -19553,9 +19553,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "orang kaya",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "金持ちになった。",
+  "exampleReading": "かねもちになった。",
+  "exampleMeaning": "Dia menjadi kaya."
  },
  {
   "word": "経験",
@@ -19564,9 +19564,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "pengalaman",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "凄い経験でした。",
+  "exampleReading": "すごいけいけんでした。",
+  "exampleMeaning": "Itu adalah pengalaman yang luar biasa."
  },
  {
   "word": "祭",
@@ -19575,9 +19575,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "festival, pesta",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "学祭っていつなの？",
+  "exampleReading": "がくまつっていつなの？",
+  "exampleMeaning": "Kapan festival sekolahmu?"
  },
  {
   "word": "グループ",
@@ -19586,9 +19586,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "kelompok",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "君の好きな音楽グループは何？",
+  "exampleReading": "きみのすきなおんがくぐるーぷはなに？",
+  "exampleMeaning": "Apa grup musik favoritmu?"
  },
  {
   "word": "職業",
@@ -19597,9 +19597,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pekerjaan, bisnis",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "ご職業は何ですか。",
+  "exampleReading": "ごしょくぎょうはなにですか。",
+  "exampleMeaning": "Apa pekerjaanmu?"
  },
  {
   "word": "餌",
@@ -19608,9 +19608,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "pakan, umpan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "犬に餌はあげた？",
+  "exampleReading": "いぬにえさはあげた？",
+  "exampleMeaning": "Sudahkah Anda memberi makan anjing itu?"
  },
  {
   "word": "発車",
@@ -19619,9 +19619,9 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Kerja (V3)",
   "meaning": "keberangkatan kendaraan",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "電車は時間通りに発車した。",
+  "exampleReading": "でんしゃはじかんどおりにはっしゃした。",
+  "exampleMeaning": "Kereta berangkat tepat waktu."
  },
  {
   "word": "パーセント",
@@ -19630,8 +19630,8 @@ export const vocabN3 = [
   "level": "N3",
   "partOfSpeech": "Kata Benda",
   "meaning": "persen",
-  "example": null,
-  "exampleReading": null,
-  "exampleMeaning": null
+  "example": "米の値段が３パーセント上がった。",
+  "exampleReading": "べいのねだんがさんぱーせんとあがった。",
+  "exampleMeaning": "Harga beras naik tiga persen."
  }
 ];

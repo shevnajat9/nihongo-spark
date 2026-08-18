@@ -12,6 +12,19 @@ Aplikasi web untuk belajar bahasa Jepang, dibangun dengan **React + Vite**.
 - **Latihan Kuis** — kuis interaktif dengan pelacakan statistik
 - **Latihan JLPT** — simulasi ujian ala JLPT asli: 4 seksi (文字・語彙, 文法, 読解, 聴解) dengan jumlah soal & durasi mengikuti ujian asli (N5: 52 soal · N1: 134 soal), timer per seksi, listening via audio, & pembahasan lengkap
 
+## Dataset
+
+| Level | Kosakata | Kanji | Tata Bahasa |
+|-------|----------|-------|-------------|
+| N5    | 663      | 79    | 77          |
+| N4    | 632      | 166   | 89          |
+| N3    | 1.785    | 367   | 130         |
+| N2    | 1.799    | 367   | 149         |
+| N1    | 3.463    | 1.232 | 150         |
+| Total | 8.342    | 2.211 | 595         |
+
+Semua entri punya reading hiragana (kuromoji), romaji, dan arti bahasa Indonesia. Data dimuat per level (lazy-load) saat level dipilih.
+
 Progres penyimpanan lokal via `localStorage` (level & statistik belajar).
 
 ## Teknologi
