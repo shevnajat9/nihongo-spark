@@ -1370,10 +1370,10 @@ export default function RPGDungeonGame({ onBack }) {
         style={{
           position: 'relative',
           width: '100%',
-          height: '350px',
-          minHeight: '330px',
+          height: 'clamp(310px, 45vh, 360px)',
+          minHeight: '300px',
           maxHeight: '380px',
-          borderRadius: '24px',
+          borderRadius: 'clamp(14px, 3vw, 24px)',
           overflow: 'hidden',
           boxShadow: '0 20px 50px rgba(0,0,0,0.6)',
           border: '2px solid rgba(99, 102, 241, 0.4)',
@@ -1470,7 +1470,7 @@ export default function RPGDungeonGame({ onBack }) {
             position: 'relative',
             zIndex: 10,
             flex: 1,
-            padding: '0.5rem 1.5rem 1rem 1.5rem',
+            padding: '0.5rem clamp(0.4rem, 2vw, 1.25rem) 0.75rem clamp(0.4rem, 2vw, 1.25rem)',
             display: 'flex',
             alignItems: 'flex-end',
             justifyContent: 'space-between'
@@ -1479,7 +1479,7 @@ export default function RPGDungeonGame({ onBack }) {
           {/* =====================================
               LEFT SIDE: PLAYER HERO (TAMER)
              ===================================== */}
-          <div className="flex flex-col items-center" style={{ width: '190px' }}>
+          <div className="flex flex-col items-center" style={{ width: 'clamp(120px, 28vw, 185px)' }}>
             {/* Player Floating Status Plate (Above Hero) */}
             <div className="w-full bg-black/80 backdrop-blur-md rounded-xl p-2.5 border border-indigo-400/70 shadow-xl mb-2 text-left">
               <div className="flex items-center justify-between text-[11px] mb-1">
@@ -1606,7 +1606,7 @@ export default function RPGDungeonGame({ onBack }) {
           {/* =====================================
               RIGHT SIDE: MONSTER (Facing Left ⬅️)
              ===================================== */}
-          <div className="flex flex-col items-center" style={{ width: '190px' }}>
+          <div className="flex flex-col items-center" style={{ width: 'clamp(120px, 28vw, 185px)' }}>
             {/* Monster Floating Status Plate (Above Monster) */}
             <div className="w-full bg-black/80 backdrop-blur-md rounded-xl p-2.5 border border-red-500/70 shadow-xl mb-2 text-left">
               <div className="flex items-center justify-between text-[11px] mb-1">
