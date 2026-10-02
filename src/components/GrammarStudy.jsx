@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useLevelData } from '../data/loader';
 import { markChecklistDone, getTodayChecklist } from '../utils/checklist';
+import { RubyText, FuriganaModeSelector } from '../utils/furigana';
+import { playJapaneseSpeech } from '../utils/audioPlayer';
 
 const PROGRESS_KEY = 'nihongo_spark_grammar_progress';
 
@@ -111,13 +113,7 @@ export default function GrammarStudy({ currentLevel, studyStats, setStudyStats }
 
   const speak = (text, e) => {
     if (e) e.stopPropagation();
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'ja-JP';
-      utterance.rate = 0.85;
-      window.speechSynthesis.speak(utterance);
-    }
+    playJapaneseSpeech(text, { rate: 0.85 });
   };
 
   if (loading) {
@@ -132,18 +128,21 @@ export default function GrammarStudy({ currentLevel, studyStats, setStudyStats }
 
   return (
     <div className="grammar-view">
-      <div style={{ marginBottom: '1.5rem' }}>
-        <h1 style={{ fontSize: '1.8rem', fontWeight: '700', marginBottom: '0.5rem' }}>
-          Tata Bahasa <span className="text-gradient">Grammar</span> ({currentLevel}) 📝
-        </h1>
-        <p style={{ color: 'var(--text-secondary)' }}>
-          Pelajari struktur kalimat bahasa Jepang tingkat {currentLevel}. Klik pola kalimat untuk melihat detail, penjelasan rumus, dan contoh interaktif.
-        </p>
-        {studyStats && (
-          <p style={{ fontSize: '0.85rem', color: grammarDoneToday ? 'var(--accent-emerald)' : 'var(--accent-cyan)', marginTop: '0.5rem' }}>
-            {grammarDoneToday ? '✓ Target belajar grammar hari ini sudah selesai' : 'Pelajari pola tata bahasa baru dan tandai sebagai "Sudah Dipelajari" untuk menyelesaikan target harian.'}
+      <div style={{ marginBottom: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '1rem' }}>
+        <div>
+          <h1 style={{ fontSize: '1.8rem', fontWeight: '700', marginBottom: '0.5rem' }}>
+            Tata Bahasa <span className="text-gradient">Grammar</span> ({currentLevel}) 📝
+          </h1>
+          <p style={{ color: 'var(--text-secondary)' }}>
+            Pelajari struktur kalimat bahasa Jepang tingkat {currentLevel}. Klik pola kalimat untuk melihat detail, penjelasan rumus, dan contoh interaktif.
           </p>
-        )}
+          {studyStats && (
+            <p style={{ fontSize: '0.85rem', color: grammarDoneToday ? 'var(--accent-emerald)' : 'var(--accent-cyan)', marginTop: '0.5rem' }}>
+              {grammarDoneToday ? '✓ Target belajar grammar hari ini sudah selesai' : 'Pelajari pola tata bahasa baru dan tandai sebagai "Sudah Dipelajari" untuk menyelesaikan target harian.'}
+            </p>
+          )}
+        </div>
+        <FuriganaModeSelector compact />
       </div>
 
       {/* Tabs Filter */}
@@ -291,7 +290,9 @@ export default function GrammarStudy({ currentLevel, studyStats, setStudyStats }
                         {item.examples.map((ex, exIdx) => (
                           <div key={exIdx} className="ex-sentence-item">
                             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                              <div className="ex-jp">{ex.sentence}</div>
+                              <div className="ex-jp">
+                                <RubyText text={ex.sentence} reading={ex.reading} />
+                              </div>
                               <button
                                 className="audio-btn"
                                 onClick={(e) => speak(ex.sentence, e)}

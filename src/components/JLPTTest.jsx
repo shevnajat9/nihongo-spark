@@ -2,6 +2,9 @@ import React, { useState, useEffect, useRef } from 'react';
 import { buildJLPTTest, LEVEL_COUNTS } from '../utils/jlptGen';
 import { useLevelData } from '../data/loader';
 import { markChecklistDone } from '../utils/checklist';
+import { calculateJLPTScore } from '../utils/jlptScoring';
+import { playJapaneseSpeech, stopJapaneseSpeech } from '../utils/audioPlayer';
+import VirtualLJK from './VirtualLJK';
 import '../jlpt.css';
 
 // Struktur ujian meniru JLPT asli: 4 seksi, masing-masing dengan waktu sendiri.
@@ -52,6 +55,7 @@ export default function JLPTTest({ currentLevel, studyStats, setStudyStats }) {
   const [currentQ, setCurrentQ] = useState(0);
   const [timeLeft, setTimeLeft] = useState(0);
   const [results, setResults] = useState(null);
+  const [showLJK, setShowLJK] = useState(false);
   const finishingRef = useRef(false);
 
   const { data: levelData, loading: dataLoading } = useLevelData(level);
@@ -74,21 +78,19 @@ export default function JLPTTest({ currentLevel, studyStats, setStudyStats }) {
 
   const speak = (text, e) => {
     if (e) e.stopPropagation();
-    if (!text || !('speechSynthesis' in window)) return;
-    window.speechSynthesis.cancel();
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = 'ja-JP';
-    utterance.rate = 0.85;
-    window.speechSynthesis.speak(utterance);
+    playJapaneseSpeech(text, { rate: 0.85 });
   };
 
   // 🔊 Putar audio otomatis saat soal listening tampil (dan saat pindah soal).
   useEffect(() => {
     if (screen !== 'section' || !activeSection) return undefined;
     const q = activeSection.questions[currentQ];
-    if (q && q.audio && 'speechSynthesis' in window) {
+    if (q && q.audio) {
       const t = setTimeout(() => speak(q.audio), 400);
-      return () => clearTimeout(t);
+      return () => {
+        clearTimeout(t);
+        stopJapaneseSpeech();
+      };
     }
     return undefined;
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -164,7 +166,8 @@ export default function JLPTTest({ currentLevel, studyStats, setStudyStats }) {
     const totalCorrect = secResults.reduce((s, r) => s + r.correct, 0);
     const totalQ = secResults.reduce((s, r) => s + r.total, 0);
     const overall = totalQ ? Math.round((totalCorrect / totalQ) * 100) : 0;
-    setResults({ sections: secResults, totalCorrect, totalQ, overall });
+    const scaledResult = calculateJLPTScore(level, secResults);
+    setResults({ sections: secResults, scaledResult, totalCorrect, totalQ, overall });
     setScreen('result');
 
     // Tandai checklist harian (quiz) — ujian selesai dihitung 1 kuis
@@ -399,8 +402,29 @@ export default function JLPTTest({ currentLevel, studyStats, setStudyStats }) {
               Soal {currentQ + 1} dari {qs.length}
             </div>
           </div>
-          <div className={`jlpt-timer ${lowTime ? 'jlpt-timer-low' : ''}`}>
-            ⏱ {formatTime(timeLeft)}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+            <button
+              onClick={() => setShowLJK(true)}
+              style={{
+                background: 'rgba(99, 102, 241, 0.2)',
+                color: '#a5b4fc',
+                border: '1px solid rgba(99, 102, 241, 0.4)',
+                borderRadius: '8px',
+                padding: '0.5rem 0.85rem',
+                fontSize: '0.85rem',
+                fontWeight: 700,
+                cursor: 'pointer',
+                display: 'flex',
+                alignItems: 'center',
+                gap: '0.35rem'
+              }}
+            >
+              <span>📝</span>
+              <span>Lembar LJK</span>
+            </button>
+            <div className={`jlpt-timer ${lowTime ? 'jlpt-timer-low' : ''}`}>
+              ⏱ {formatTime(timeLeft)}
+            </div>
           </div>
         </div>
 
@@ -450,28 +474,176 @@ export default function JLPTTest({ currentLevel, studyStats, setStudyStats }) {
         >
           ✕ Batalkan ujian
         </button>
+
+        {/* VIRTUAL LJK (LEMBAR JAWABAN KOMPUTER) MODAL */}
+        <VirtualLJK
+          questions={qs}
+          answers={answers[sectionIdx]}
+          currentQIndex={currentQ}
+          onSelectQuestion={setCurrentQ}
+          onSelectOption={(idx, opt) => selectOption(idx, opt)}
+          isOpen={showLJK}
+          onClose={() => setShowLJK(false)}
+        />
       </div>
     );
   }
 
   // ── LAYAR: hasil ──
   if (screen === 'result' && results) {
-    const passed = results.overall >= PASS_PCT;
+    const scaled = results.scaledResult;
+    const passed = scaled ? scaled.passed : results.overall >= PASS_PCT;
     const allWrong = results.sections.flatMap((s) => s.wrong.map((w) => ({ ...w, sec: s })));
 
     return (
       <div className="jlpt-view">
-        <div className={`glass-panel jlpt-result-verdict ${passed ? 'pass' : 'fail'}`}>
-          <div style={{ fontSize: '3.5rem' }}>{passed ? '🎉' : '📚'}</div>
-          <h1 style={{ fontSize: '1.7rem', fontWeight: '700' }}>
-            {passed ? '合格 — Lulus!' : '不合格 — Belum Lulus'}
-          </h1>
-          <p style={{ color: 'var(--text-secondary)', marginTop: '0.4rem' }}>
-            Skor Anda: <strong style={{ fontSize: '1.4rem', color: 'var(--accent-cyan)' }}>{results.totalCorrect}</strong> dari {results.totalQ} soal ({results.overall}%)
-          </p>
-          <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.3rem' }}>
-            Ambang lulus simulasi: {PASS_PCT}%
-          </p>
+        {/* OFFICIAL JLPT CERTIFICATE CARD */}
+        <div style={{
+          background: 'linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(30, 41, 59, 0.9))',
+          border: `2px solid ${passed ? '#10b981' : '#ef4444'}`,
+          borderRadius: '16px',
+          padding: '2rem',
+          boxShadow: passed ? '0 10px 30px rgba(16, 185, 129, 0.2)' : '0 10px 30px rgba(239, 68, 68, 0.2)',
+          marginBottom: '1.5rem',
+          position: 'relative',
+          overflow: 'hidden'
+        }}>
+          {/* Header */}
+          <div style={{ textAlign: 'center', borderBottom: '1px solid rgba(255, 255, 255, 0.1)', paddingBottom: '1.25rem', marginBottom: '1.25rem' }}>
+            <div style={{ fontSize: '0.85rem', color: '#94a3b8', letterSpacing: '2px', textTransform: 'uppercase' }}>
+              JAPANESE-LANGUAGE PROFICIENCY TEST • OFFICIAL SIMULATION
+            </div>
+            <h1 style={{ margin: '0.4rem 0', fontSize: '1.75rem', fontWeight: 800, color: '#f8fafc' }}>
+              日本語能力試験 合格判定書
+            </h1>
+            <div style={{ fontSize: '1rem', color: '#38bdf8', fontWeight: 600 }}>
+              Tingkat Ujian: JLPT {level}
+            </div>
+          </div>
+
+          {/* Verdict Badge */}
+          <div style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            background: passed ? 'rgba(16, 185, 129, 0.15)' : 'rgba(239, 68, 68, 0.15)',
+            border: `1.5px solid ${passed ? '#10b981' : '#ef4444'}`,
+            borderRadius: '12px',
+            padding: '1.25rem',
+            marginBottom: '1.5rem'
+          }}>
+            <span style={{ fontSize: '3rem', marginBottom: '0.2rem' }}>{passed ? '🎖️' : '📑'}</span>
+            <div style={{ fontSize: '2rem', fontWeight: 900, color: passed ? '#34d399' : '#f87171', letterSpacing: '1px' }}>
+              {passed ? '合 格 (PASSED)' : '不 合 格 (FAILED)'}
+            </div>
+            <p style={{ margin: '0.5rem 0 0', fontSize: '0.9rem', color: '#cbd5e1', textAlign: 'center', maxWidth: '560px' }}>
+              {scaled ? scaled.reason : (passed ? 'Selamat atas kelulusan Anda!' : 'Tetap semangat, perbaiki kelemahan pada seksi di bawah.')}
+            </p>
+          </div>
+
+          {/* Scaled Score Breakdown Table */}
+          {scaled && (
+            <div style={{ marginBottom: '1.5rem', overflowX: 'auto' }}>
+              <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.88rem' }}>
+                <thead>
+                  <tr style={{ background: 'rgba(0, 0, 0, 0.3)', borderBottom: '1px solid rgba(255, 255, 255, 0.1)', color: '#94a3b8' }}>
+                    <th style={{ padding: '0.75rem 1rem', textAlign: 'left' }}>Seksi Ujian (得点区分)</th>
+                    <th style={{ padding: '0.75rem 0.75rem', textAlign: 'center' }}>Skor Skala</th>
+                    <th style={{ padding: '0.75rem 0.75rem', textAlign: 'center' }}>Ambang Minimal</th>
+                    <th style={{ padding: '0.75rem 0.75rem', textAlign: 'center' }}>Status Seksi</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {scaled.sections.map((sec, idx) => (
+                    <tr key={idx} style={{ borderBottom: '1px solid rgba(255, 255, 255, 0.04)' }}>
+                      <td style={{ padding: '0.75rem 1rem', fontWeight: 600, color: '#f8fafc' }}>
+                        {sec.label}
+                        <div style={{ fontSize: '0.75rem', color: '#94a3b8', fontWeight: 400 }}>
+                          Akurasi Benar: {sec.totalCorrect}/{sec.totalQuestions} ({sec.accuracyPct}%)
+                        </div>
+                      </td>
+                      <td style={{ padding: '0.75rem', textAlign: 'center', fontWeight: 700, color: '#38bdf8', fontSize: '1.05rem' }}>
+                        {sec.scaledScore} / {sec.maxScore}
+                      </td>
+                      <td style={{ padding: '0.75rem', textAlign: 'center', color: '#94a3b8' }}>
+                        ≥ {sec.minPass}
+                      </td>
+                      <td style={{ padding: '0.75rem', textAlign: 'center' }}>
+                        <span style={{
+                          background: sec.passed ? 'rgba(16, 185, 129, 0.2)' : 'rgba(239, 68, 68, 0.2)',
+                          color: sec.passed ? '#34d399' : '#f87171',
+                          padding: '0.2rem 0.6rem',
+                          borderRadius: '6px',
+                          fontSize: '0.75rem',
+                          fontWeight: 700
+                        }}>
+                          {sec.passed ? '✓ Lulus' : '✗ Gagal'}
+                        </span>
+                      </td>
+                    </tr>
+                  ))}
+                  {/* Total Row */}
+                  <tr style={{ background: 'rgba(255, 255, 255, 0.03)', borderTop: '2px solid rgba(255, 255, 255, 0.1)', fontWeight: 700 }}>
+                    <td style={{ padding: '0.9rem 1rem', color: '#f8fafc', fontSize: '0.95rem' }}>
+                      TOTAL SKOR AKHIR (総合得点)
+                    </td>
+                    <td style={{ padding: '0.9rem', textAlign: 'center', color: '#fbbf24', fontSize: '1.25rem' }}>
+                      {scaled.totalScaledScore} / {scaled.totalMax}
+                    </td>
+                    <td style={{ padding: '0.9rem', textAlign: 'center', color: '#94a3b8' }}>
+                      ≥ {scaled.totalPass}
+                    </td>
+                    <td style={{ padding: '0.9rem', textAlign: 'center' }}>
+                      <span style={{
+                        background: passed ? 'rgba(16, 185, 129, 0.25)' : 'rgba(239, 68, 68, 0.25)',
+                        color: passed ? '#34d399' : '#f87171',
+                        padding: '0.25rem 0.75rem',
+                        borderRadius: '6px',
+                        fontSize: '0.8rem',
+                        fontWeight: 800
+                      }}>
+                        {passed ? '合格' : '不合格'}
+                      </span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          )}
+
+          {/* Action buttons */}
+          <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', marginTop: '1rem' }}>
+            <button
+              onClick={() => startTest()}
+              style={{
+                background: 'var(--primary, #6366f1)',
+                color: 'white',
+                border: 'none',
+                borderRadius: '8px',
+                padding: '0.65rem 1.5rem',
+                fontSize: '0.9rem',
+                fontWeight: 700,
+                cursor: 'pointer'
+              }}
+            >
+              🔄 Ulangi Ujian Ini
+            </button>
+            <button
+              onClick={() => setScreen('start')}
+              style={{
+                background: 'rgba(255, 255, 255, 0.08)',
+                color: '#cbd5e1',
+                border: '1px solid rgba(255, 255, 255, 0.15)',
+                borderRadius: '8px',
+                padding: '0.65rem 1.5rem',
+                fontSize: '0.9rem',
+                fontWeight: 600,
+                cursor: 'pointer'
+              }}
+            >
+              Ganti Level / Menu Utama
+            </button>
+          </div>
         </div>
 
         <div className="jlpt-result-sections">

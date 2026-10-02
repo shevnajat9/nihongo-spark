@@ -1,7 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useLevelData } from '../data/loader';
 import { loadProgress, saveProgress, reviewItem, isDue, getMasteryStatus, MASTERY_LABELS } from '../utils/srs';
 import { markChecklistDone } from '../utils/checklist';
+import { RubyText, FuriganaModeSelector } from '../utils/furigana';
+import { playJapaneseSpeech } from '../utils/audioPlayer';
+import ConjugationModal from './ConjugationModal';
 
 const PROGRESS_KEY = 'nihongo_spark_vocab_progress';
 const DAILY_GOAL = 5;
@@ -17,6 +20,7 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
   const [progress, setProgress] = useState({});
   const [autoSpeak, setAutoSpeak] = useState(false);
   const [reviewFeedback, setReviewFeedback] = useState({}); // { [index]: 'yes' | 'no' | null }
+  const [conjugatingItem, setConjugatingItem] = useState(null);
 
   // Slideshow (Flashcard) Mode states
   const [viewMode, setViewMode] = useState('grid'); // 'grid' | 'slideshow'
@@ -94,6 +98,9 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
     }, 300);
   };
 
+  const handleSlideshowReviewRef = useRef(handleSlideshowReview);
+  handleSlideshowReviewRef.current = handleSlideshowReview;
+
   const dueCount = vocabData.filter(v => isDue(progress, getVocabId(v))).length;
 
   const toggleBookmark = (wordObj, e) => {
@@ -113,13 +120,7 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
 
   const speak = (text, e) => {
     if (e) e.stopPropagation(); // prevent card flip
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'ja-JP';
-      utterance.rate = 0.85;
-      window.speechSynthesis.speak(utterance);
-    }
+    playJapaneseSpeech(text, { rate: 0.85 });
   };
 
   const handleCardFlip = (index) => {
@@ -173,22 +174,49 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
 
       if (e.code === 'Space' || e.code === 'Enter') {
         e.preventDefault();
-        setIsSlideFlipped(prev => {
-          const nextState = !prev;
+        if (!isSlideFlipped) {
+          setIsSlideFlipped(true);
           if (autoSpeak) {
-            speak(nextState ? (activeItem.example || activeItem.word) : activeItem.word);
+            speak(activeItem.example || activeItem.word);
           }
-          return nextState;
-        });
-      } else if (e.code === 'ArrowLeft' || e.code === 'Digit1') {
-        e.preventDefault();
-        if (isSlideFlipped) {
-          handleSlideshowReview(activeItem, false);
+        } else {
+          // If already flipped, Space/Enter logs 'Hafal / Good'
+          handleSlideshowReviewRef.current(activeItem, true);
         }
-      } else if (e.code === 'ArrowRight' || e.code === 'Digit2') {
+      } else if (e.code === 'Digit1') {
         e.preventDefault();
         if (isSlideFlipped) {
-          handleSlideshowReview(activeItem, true);
+          handleSlideshowReviewRef.current(activeItem, false);
+        }
+      } else if (e.code === 'Digit2') {
+        e.preventDefault();
+        if (isSlideFlipped) {
+          handleSlideshowReviewRef.current(activeItem, false);
+        }
+      } else if (e.code === 'Digit3' || e.code === 'Numpad3') {
+        e.preventDefault();
+        if (isSlideFlipped) {
+          handleSlideshowReviewRef.current(activeItem, true);
+        }
+      } else if (e.code === 'Digit4' || e.code === 'Numpad4') {
+        e.preventDefault();
+        if (isSlideFlipped) {
+          handleSlideshowReviewRef.current(activeItem, true);
+        }
+      } else if (e.code === 'KeyJ') {
+        e.preventDefault();
+        speak(isSlideFlipped ? (activeItem.example || activeItem.word) : activeItem.word);
+      } else if (e.code === 'ArrowLeft') {
+        e.preventDefault();
+        if (currentSlideIdx > 0) {
+          setIsSlideFlipped(false);
+          setCurrentSlideIdx(prev => prev - 1);
+        }
+      } else if (e.code === 'ArrowRight') {
+        e.preventDefault();
+        if (currentSlideIdx < filteredVocab.length - 1) {
+          setIsSlideFlipped(false);
+          setCurrentSlideIdx(prev => prev + 1);
         }
       } else if (e.code === 'Escape') {
         e.preventDefault();
@@ -198,7 +226,7 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [viewMode, currentSlideIdx, isSlideFlipped, autoSpeak, filteredVocab, handleSlideshowReview]);
+  }, [viewMode, currentSlideIdx, isSlideFlipped, autoSpeak, filteredVocab]);
 
   const handleStartSlideshow = () => {
     if (filteredVocab.length === 0) return;
@@ -243,6 +271,7 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
 
         {viewMode === 'grid' && (
           <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap', alignItems: 'center' }}>
+            <FuriganaModeSelector compact />
             <label style={{ 
               display: 'flex', 
               alignItems: 'center', 
@@ -342,7 +371,7 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
                 </div>
 
                 <div className="jp-word text-gradient" style={{ fontSize: '3.5rem', margin: '1.5rem 0 0.5rem 0' }}>
-                  {filteredVocab[currentSlideIdx].word}
+                  <RubyText text={filteredVocab[currentSlideIdx].word} reading={filteredVocab[currentSlideIdx].reading} />
                 </div>
                 <div className="word-reading" style={{ fontSize: '1.3rem' }}>
                   {filteredVocab[currentSlideIdx].reading} ({filteredVocab[currentSlideIdx].romaji})
@@ -374,16 +403,27 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
                   {filteredVocab[currentSlideIdx].example && (
                     <div style={{ borderTop: '1px solid rgba(255, 255, 255, 0.05)', paddingTop: '0.75rem', textAlign: 'left' }}>
                       <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '0.2rem' }}>Contoh Kalimat</div>
-                      <div style={{ fontFamily: 'var(--font-jp)', fontSize: '1.05rem', fontWeight: '500', color: 'var(--accent-cyan)' }}>
-                        {filteredVocab[currentSlideIdx].example}
-                      </div>
-                      <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', fontStyle: 'italic' }}>
-                        {filteredVocab[currentSlideIdx].exampleReading}
+                      <div style={{ fontSize: '1.05rem', fontWeight: '500', color: 'var(--accent-cyan)' }}>
+                        <RubyText text={filteredVocab[currentSlideIdx].example} reading={filteredVocab[currentSlideIdx].exampleReading} />
                       </div>
                       <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.2rem' }}>
                         {filteredVocab[currentSlideIdx].exampleMeaning}
                       </div>
                     </div>
+                  )}
+
+                  {filteredVocab[currentSlideIdx].partOfSpeech && (filteredVocab[currentSlideIdx].partOfSpeech.toLowerCase().includes('kerja') || filteredVocab[currentSlideIdx].partOfSpeech.toLowerCase().includes('verb')) && (
+                    <button
+                      type="button"
+                      className="conjugate-trigger-btn"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        setConjugatingItem(filteredVocab[currentSlideIdx]);
+                      }}
+                      style={{ marginTop: '0.5rem', alignSelf: 'flex-start', padding: '5px 12px', fontSize: '0.82rem' }}
+                    >
+                      ⚡ Konjugasi Kata Kerja (11 Bentuk)
+                    </button>
                   )}
                 </div>
 
@@ -391,7 +431,7 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
                   <button
                     className="audio-btn"
                     onClick={(e) => speak(filteredVocab[currentSlideIdx].example || filteredVocab[currentSlideIdx].word, e)}
-                    title="Dengarkan contoh"
+                    title="Dengarkan contoh (Pintasan: J)"
                   >
                     <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                       <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
@@ -408,35 +448,50 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
           {/* Action buttons or keyboard help */}
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '1rem', width: '100%' }}>
             {isSlideFlipped ? (
-              <div style={{ display: 'flex', gap: '1rem', width: '100%' }}>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '0.5rem', width: '100%' }}>
                 <button 
                   className="review-btn review-btn-no" 
                   onClick={() => handleSlideshowReview(filteredVocab[currentSlideIdx], false)}
-                  style={{ flex: 1, padding: '0.8rem', borderRadius: '10px', fontSize: '0.95rem' }}
+                  style={{ padding: '0.75rem 0.25rem', borderRadius: '10px', fontSize: '0.85rem' }}
                 >
-                  Belum Hafal (1)
+                  Lagi <kbd className="kbd-badge">1</kbd>
+                </button>
+                <button 
+                  className="review-btn review-btn-no" 
+                  onClick={() => handleSlideshowReview(filteredVocab[currentSlideIdx], false)}
+                  style={{ padding: '0.75rem 0.25rem', borderRadius: '10px', fontSize: '0.85rem', background: 'rgba(245, 158, 11, 0.15)', borderColor: 'rgba(245, 158, 11, 0.4)', color: '#fbbf24' }}
+                >
+                  Sulit <kbd className="kbd-badge">2</kbd>
                 </button>
                 <button 
                   className="review-btn review-btn-yes" 
                   onClick={() => handleSlideshowReview(filteredVocab[currentSlideIdx], true)}
-                  style={{ flex: 1, padding: '0.8rem', borderRadius: '10px', fontSize: '0.95rem' }}
+                  style={{ padding: '0.75rem 0.25rem', borderRadius: '10px', fontSize: '0.85rem' }}
                 >
-                  Sudah Hafal (2)
+                  Hafal <kbd className="kbd-badge">3</kbd>
+                </button>
+                <button 
+                  className="review-btn review-btn-yes" 
+                  onClick={() => handleSlideshowReview(filteredVocab[currentSlideIdx], true)}
+                  style={{ padding: '0.75rem 0.25rem', borderRadius: '10px', fontSize: '0.85rem', background: 'rgba(6, 182, 212, 0.15)', borderColor: 'rgba(6, 182, 212, 0.4)', color: 'var(--accent-cyan)' }}
+                >
+                  Mudah <kbd className="kbd-badge">4</kbd>
                 </button>
               </div>
             ) : (
               <button 
                 className="start-quiz-btn" 
                 onClick={() => setIsSlideFlipped(true)}
-                style={{ width: '100%', margin: 0 }}
+                style={{ width: '100%', margin: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem' }}
               >
-                Balik Kartu (Spasi)
+                <span>Balik Kartu</span>
+                <kbd className="kbd-badge" style={{ color: 'white', background: 'rgba(255,255,255,0.2)' }}>Spasi</kbd>
               </button>
             )}
 
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.78rem', color: 'var(--text-muted)', marginTop: '0.5rem', borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '0.5rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.76rem', color: 'var(--text-muted)', marginTop: '0.5rem', borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '0.5rem', flexWrap: 'wrap', gap: '0.3rem' }}>
               <span>Pintasan Keyboard:</span>
-              <span>[Spasi] Balik · [1] Belum Hafal · [2] Sudah Hafal · [Esc] Keluar</span>
+              <span>[Spasi] Balik · [1-4] Tingkat Ingat · [J] Audio · [←/→] Slide · [Esc] Keluar</span>
             </div>
           </div>
 
@@ -525,6 +580,19 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
                               {item.partOfSpeech}
                             </span>
                             <span className={`mastery-badge ${mastery}`}>{MASTERY_LABELS[mastery]}</span>
+                            {(item.partOfSpeech && (item.partOfSpeech.toLowerCase().includes('kerja') || item.partOfSpeech.toLowerCase().includes('verb'))) && (
+                              <button
+                                type="button"
+                                className="conjugate-trigger-btn"
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  setConjugatingItem(item);
+                                }}
+                                title="Lihat konjugasi kata kerja lengkap"
+                              >
+                                ⚡ 活用
+                              </button>
+                            )}
                           </div>
                           <button
                             className={`bookmark-btn ${isBookmarked ? 'active' : ''}`}
@@ -539,7 +607,9 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
                           </button>
                         </div>
 
-                        <div className="jp-word text-gradient">{item.word}</div>
+                        <div className="jp-word text-gradient">
+                          <RubyText text={item.word} reading={item.reading} />
+                        </div>
                         <div className="word-reading">{item.reading} ({item.romaji})</div>
 
                         <div className="card-actions">
@@ -567,11 +637,8 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
                           {item.example && (
                             <div style={{ borderTop: '1px solid rgba(255, 255, 255, 0.05)', paddingTop: '0.5rem', textAlign: 'left' }}>
                               <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '0.2rem' }}>Contoh Kalimat</div>
-                              <div style={{ fontFamily: 'var(--font-jp)', fontSize: '0.95rem', fontWeight: '500', color: 'var(--accent-cyan)' }}>
-                                {item.example}
-                              </div>
-                              <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', fontStyle: 'italic' }}>
-                                {item.exampleReading}
+                              <div style={{ fontSize: '0.98rem', fontWeight: '500', color: 'var(--accent-cyan)' }}>
+                                <RubyText text={item.example} reading={item.exampleReading} />
                               </div>
                               <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.2rem' }}>
                                 {item.exampleMeaning}
@@ -618,6 +685,13 @@ export default function VocabStudy({ currentLevel, studyStats, setStudyStats }) 
             </div>
           )}
         </>
+      )}
+
+      {conjugatingItem && (
+        <ConjugationModal
+          verbItem={conjugatingItem}
+          onClose={() => setConjugatingItem(null)}
+        />
       )}
     </div>
   );

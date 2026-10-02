@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useLevelData } from '../data/loader';
 import { markChecklistDone } from '../utils/checklist';
 import { loadProgress, saveProgress, reviewItem, isDue } from '../utils/srs';
+import { playJapaneseSpeech } from '../utils/audioPlayer';
 
 export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
   const { data, loading } = useLevelData(currentLevel);
@@ -51,15 +52,10 @@ export default function Quiz({ currentLevel, studyStats, setStudyStats }) {
     }
   };
 
-  // Speak text in Japanese using Web Speech API
+  // Speak text in Japanese using universal audio player
   const speak = (text, e) => {
     if (e) e.stopPropagation();
-    if (!text || !('speechSynthesis' in window)) return;
-    window.speechSynthesis.cancel();
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = 'ja-JP';
-    utterance.rate = 0.85;
-    window.speechSynthesis.speak(utterance);
+    playJapaneseSpeech(text, { rate: 0.85 });
   };
 
   // Build question pool — mode 'due' fokus ke item yang waktunya diulang per srs.js

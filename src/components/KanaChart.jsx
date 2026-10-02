@@ -1,20 +1,12 @@
 import React, { useState } from 'react';
 import { hiragana, katakana } from '../data/kana';
+import { playJapaneseSpeech } from '../utils/audioPlayer';
 
 export default function KanaChart() {
   const [activeTab, setActiveTab] = useState('hiragana');
 
   const speak = (text) => {
-    if ('speechSynthesis' in window) {
-      // Cancel ongoing speech
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'ja-JP';
-      utterance.rate = 0.8; // slightly slower for beginners
-      window.speechSynthesis.speak(utterance);
-    } else {
-      console.warn('Speech synthesis not supported in this browser.');
-    }
+    playJapaneseSpeech(text, { rate: 0.85 });
   };
 
   const currentChart = activeTab === 'hiragana' ? hiragana : katakana;

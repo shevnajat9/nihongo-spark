@@ -1,6 +1,9 @@
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import { useLevelData } from '../data/loader';
 import { loadProgress, saveProgress, reviewItem, isDue, getMasteryStatus, MASTERY_LABELS } from '../utils/srs';
+import KanjiStrokeViewer from './KanjiStrokeViewer';
+import { RubyText } from '../utils/furigana';
+import { playJapaneseSpeech } from '../utils/audioPlayer';
 
 const PROGRESS_KEY = 'nihongo_spark_kanji_progress';
 const getKanjiId = (item) => `${item.level}__${item.kanji}`;
@@ -10,6 +13,7 @@ export default function KanjiStudy({ currentLevel }) {
   const kanjiData = data ? data.kanji : []; // array level aktif (lazy-load)
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedKanji, setSelectedKanji] = useState(null);
+  const [modalTab, setModalTab] = useState('strokes'); // 'strokes' | 'canvas'
   const [progress, setProgress] = useState({});
   const [reviewFeedback, setReviewFeedback] = useState(null); // 'yes' | 'no' | null
   const canvasRef = useRef(null);
@@ -26,37 +30,16 @@ export default function KanjiStudy({ currentLevel }) {
     setProgress(loadProgress(PROGRESS_KEY));
   }, []);
 
-  const handleReview = (item, remembered) => {
+  const handleReview = (item, ratingOrRemembered) => {
     const id = getKanjiId(item);
-    const updated = reviewItem(progress, id, remembered);
+    const updated = reviewItem(progress, id, ratingOrRemembered);
     setProgress(updated);
     saveProgress(PROGRESS_KEY, updated);
     // Flash feedback in modal
-    setReviewFeedback(remembered ? 'yes' : 'no');
+    const isGood = typeof ratingOrRemembered === 'number' ? ratingOrRemembered >= 3 : !!ratingOrRemembered;
+    setReviewFeedback(isGood ? 'yes' : 'no');
     setTimeout(() => setReviewFeedback(null), 700);
   };
-
-  const handleSlideshowReview = useCallback((item, remembered) => {
-    const id = getKanjiId(item);
-    const updated = reviewItem(progress, id, remembered);
-    setProgress(updated);
-    saveProgress(PROGRESS_KEY, updated);
-
-    // Flash feedback
-    setSlideReviewFeedback(remembered ? 'yes' : 'no');
-    setTimeout(() => {
-      setSlideReviewFeedback(null);
-      setIsSlideFlipped(false);
-      setCurrentSlideIdx(prev => {
-        if (prev < filteredKanji.length - 1) return prev + 1;
-        // End of deck
-        alert('🎉 Luar biasa! Anda telah menyelesaikan semua kartu kanji di sesi ini!');
-        setViewMode('grid');
-        return 0;
-      });
-    }, 400);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [progress]);
 
   // Filter Kanji by level, search query, and filter mode
   const filteredKanji = kanjiData.filter(item => {
@@ -76,16 +59,33 @@ export default function KanjiStudy({ currentLevel }) {
     return true;
   });
 
+  const handleSlideshowReview = useCallback((item, ratingOrRemembered) => {
+    const id = getKanjiId(item);
+    const updated = reviewItem(progress, id, ratingOrRemembered);
+    setProgress(updated);
+    saveProgress(PROGRESS_KEY, updated);
+
+    // Flash feedback
+    const isGood = typeof ratingOrRemembered === 'number' ? ratingOrRemembered >= 3 : !!ratingOrRemembered;
+    setSlideReviewFeedback(isGood ? 'yes' : 'no');
+    setTimeout(() => {
+      setSlideReviewFeedback(null);
+      setIsSlideFlipped(false);
+      setCurrentSlideIdx(prev => {
+        if (prev < filteredKanji.length - 1) return prev + 1;
+        // End of deck
+        alert('🎉 Luar biasa! Anda telah menyelesaikan semua kartu kanji di sesi ini!');
+        setViewMode('grid');
+        return 0;
+      });
+    }, 400);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [progress, filteredKanji.length]);
+
   const dueCount = kanjiData.filter(v => v.level === currentLevel && isDue(progress, getKanjiId(v))).length;
 
   const speak = (text) => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'ja-JP';
-      utterance.rate = 0.8;
-      window.speechSynthesis.speak(utterance);
-    }
+    playJapaneseSpeech(text, { rate: 0.85 });
   };
 
   // Canvas drawing logic
@@ -128,13 +128,38 @@ export default function KanjiStudy({ currentLevel }) {
       if (!activeItem) return;
       if (e.code === 'Space' || e.code === 'Enter') {
         e.preventDefault();
-        setIsSlideFlipped(prev => !prev);
-      } else if ((e.code === 'ArrowLeft' || e.code === 'Digit1') && isSlideFlipped) {
+        if (!isSlideFlipped) {
+          setIsSlideFlipped(true);
+        } else {
+          handleSlideshowReview(activeItem, 3);
+        }
+      } else if (e.code === 'Digit1') {
         e.preventDefault();
-        handleSlideshowReview(activeItem, false);
-      } else if ((e.code === 'ArrowRight' || e.code === 'Digit2') && isSlideFlipped) {
+        if (isSlideFlipped) handleSlideshowReview(activeItem, 1);
+      } else if (e.code === 'Digit2') {
         e.preventDefault();
-        handleSlideshowReview(activeItem, true);
+        if (isSlideFlipped) handleSlideshowReview(activeItem, 2);
+      } else if (e.code === 'Digit3' || e.code === 'Numpad3') {
+        e.preventDefault();
+        if (isSlideFlipped) handleSlideshowReview(activeItem, 3);
+      } else if (e.code === 'Digit4' || e.code === 'Numpad4') {
+        e.preventDefault();
+        if (isSlideFlipped) handleSlideshowReview(activeItem, 4);
+      } else if (e.code === 'KeyJ') {
+        e.preventDefault();
+        speak(activeItem.kanji);
+      } else if (e.code === 'ArrowLeft') {
+        e.preventDefault();
+        if (currentSlideIdx > 0) {
+          setIsSlideFlipped(false);
+          setCurrentSlideIdx(prev => prev - 1);
+        }
+      } else if (e.code === 'ArrowRight') {
+        e.preventDefault();
+        if (currentSlideIdx < filteredKanji.length - 1) {
+          setIsSlideFlipped(false);
+          setCurrentSlideIdx(prev => prev + 1);
+        }
       } else if (e.code === 'Escape') {
         e.preventDefault();
         setViewMode('grid');
@@ -368,34 +393,49 @@ export default function KanjiStudy({ currentLevel }) {
           {/* Action buttons */}
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', width: '100%' }}>
             {isSlideFlipped ? (
-              <div style={{ display: 'flex', gap: '1rem', width: '100%' }}>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '0.5rem', width: '100%' }}>
                 <button
                   className="review-btn review-btn-no"
-                  onClick={() => handleSlideshowReview(currentItem, false)}
-                  style={{ flex: 1, padding: '0.8rem', borderRadius: '10px', fontSize: '0.95rem' }}
+                  onClick={() => handleSlideshowReview(currentItem, 1)}
+                  style={{ padding: '0.75rem 0.25rem', borderRadius: '10px', fontSize: '0.85rem' }}
                 >
-                  Belum Hafal (1)
+                  Lagi <kbd className="kbd-badge">1</kbd>
+                </button>
+                <button
+                  className="review-btn review-btn-no"
+                  onClick={() => handleSlideshowReview(currentItem, 2)}
+                  style={{ padding: '0.75rem 0.25rem', borderRadius: '10px', fontSize: '0.85rem', background: 'rgba(245, 158, 11, 0.15)', borderColor: 'rgba(245, 158, 11, 0.4)', color: '#fbbf24' }}
+                >
+                  Sulit <kbd className="kbd-badge">2</kbd>
                 </button>
                 <button
                   className="review-btn review-btn-yes"
-                  onClick={() => handleSlideshowReview(currentItem, true)}
-                  style={{ flex: 1, padding: '0.8rem', borderRadius: '10px', fontSize: '0.95rem' }}
+                  onClick={() => handleSlideshowReview(currentItem, 3)}
+                  style={{ padding: '0.75rem 0.25rem', borderRadius: '10px', fontSize: '0.85rem' }}
                 >
-                  Sudah Hafal (2)
+                  Hafal <kbd className="kbd-badge">3</kbd>
+                </button>
+                <button
+                  className="review-btn review-btn-yes"
+                  onClick={() => handleSlideshowReview(currentItem, 4)}
+                  style={{ padding: '0.75rem 0.25rem', borderRadius: '10px', fontSize: '0.85rem', background: 'rgba(6, 182, 212, 0.15)', borderColor: 'rgba(6, 182, 212, 0.4)', color: 'var(--accent-cyan)' }}
+                >
+                  Mudah <kbd className="kbd-badge">4</kbd>
                 </button>
               </div>
             ) : (
               <button
                 className="start-quiz-btn"
                 onClick={() => setIsSlideFlipped(true)}
-                style={{ width: '100%', margin: 0 }}
+                style={{ width: '100%', margin: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem' }}
               >
-                Balik Kartu (Spasi)
+                <span>Balik Kartu</span>
+                <kbd className="kbd-badge" style={{ color: 'white', background: 'rgba(255,255,255,0.2)' }}>Spasi</kbd>
               </button>
             )}
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.78rem', color: 'var(--text-muted)', borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '0.5rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.76rem', color: 'var(--text-muted)', borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '0.5rem', flexWrap: 'wrap', gap: '0.3rem' }}>
               <span>Pintasan Keyboard:</span>
-              <span>[Spasi] Balik · [1] Belum Hafal · [2] Sudah Hafal · [Esc] Keluar</span>
+              <span>[Spasi] Balik · [1-4] Tingkat Ingat · [J] Audio · [←/→] Slide · [Esc] Keluar</span>
             </div>
           </div>
         </div>
@@ -491,54 +531,131 @@ export default function KanjiStudy({ currentLevel }) {
               <h2 style={{ fontSize: '1.6rem', fontWeight: '700', marginTop: '0.5rem' }}>Detail Kanji</h2>
             </div>
 
+            {/* TAB SELECTOR: STROKES vs CANVAS */}
+            <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.25rem', flexWrap: 'wrap' }}>
+              <button
+                type="button"
+                className={`filter-btn ${modalTab === 'strokes' ? 'active' : ''}`}
+                onClick={() => setModalTab('strokes')}
+                style={{ padding: '6px 14px', borderRadius: '10px' }}
+              >
+                ⚡ Urutan Coretan & Radikal
+              </button>
+              <button
+                type="button"
+                className={`filter-btn ${modalTab === 'canvas' ? 'active' : ''}`}
+                onClick={() => setModalTab('canvas')}
+                style={{ padding: '6px 14px', borderRadius: '10px' }}
+              >
+                🖌️ Latihan Menulis (Canvas)
+              </button>
+            </div>
+
             <div className="modal-layout">
-              {/* Practice Writing Pad (Canvas) */}
-              <div className="canvas-container">
-                <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', fontWeight: '600' }}>Gambarkan Kanji Pada Kotak</div>
-                <canvas
-                  ref={canvasRef}
-                  width="260"
-                  height="260"
-                  className="drawing-canvas"
-                  onMouseDown={startDrawing}
-                  onMouseMove={draw}
-                  onMouseUp={stopDrawing}
-                  onMouseLeave={stopDrawing}
-                  onTouchStart={startDrawing}
-                  onTouchMove={draw}
-                  onTouchEnd={stopDrawing}
-                />
-                <div
-                  className="review-buttons"
-                  style={{ width: '100%' }}
-                >
-                  <button
-                    className={`review-btn review-btn-no${reviewFeedback === 'no' ? ' review-active-no' : ''}`}
-                    onClick={() => handleReview(selectedKanji, false)}
-                  >
-                    Belum Hafal
-                  </button>
-                  <button
-                    className={`review-btn review-btn-yes${reviewFeedback === 'yes' ? ' review-active-yes' : ''}`}
-                    onClick={() => handleReview(selectedKanji, true)}
-                  >
-                    Sudah Hafal
-                  </button>
+              {/* Left Column: KanjiStrokeViewer OR Canvas Pad */}
+              {modalTab === 'strokes' ? (
+                <div style={{ flex: 1, minWidth: '280px', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                  <KanjiStrokeViewer
+                    kanjiChar={selectedKanji.kanji}
+                    strokeCount={selectedKanji.strokes}
+                    meanings={selectedKanji.meanings}
+                  />
+
+                  {/* SM-2 Review Rating Buttons */}
+                  <div style={{
+                    background: 'rgba(15, 23, 42, 0.65)',
+                    padding: '1rem',
+                    borderRadius: '14px',
+                    border: '1px solid var(--glass-border)'
+                  }}>
+                    <div style={{ fontSize: '0.78rem', color: 'var(--text-muted)', marginBottom: '0.5rem', fontWeight: '600' }}>
+                      Nilai Penguasaan Kanji (SM-2):
+                    </div>
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '0.4rem' }}>
+                      <button
+                        type="button"
+                        className="review-btn review-btn-no"
+                        onClick={() => handleReview(selectedKanji, 1)}
+                        style={{ padding: '8px 2px', fontSize: '0.8rem' }}
+                      >
+                        Lagi 1
+                      </button>
+                      <button
+                        type="button"
+                        className="review-btn review-btn-no"
+                        onClick={() => handleReview(selectedKanji, 2)}
+                        style={{ padding: '8px 2px', fontSize: '0.8rem', background: 'rgba(245, 158, 11, 0.15)', borderColor: 'rgba(245, 158, 11, 0.4)', color: '#fbbf24' }}
+                      >
+                        Sulit 2
+                      </button>
+                      <button
+                        type="button"
+                        className="review-btn review-btn-yes"
+                        onClick={() => handleReview(selectedKanji, 3)}
+                        style={{ padding: '8px 2px', fontSize: '0.8rem' }}
+                      >
+                        Hafal 3
+                      </button>
+                      <button
+                        type="button"
+                        className="review-btn review-btn-yes"
+                        onClick={() => handleReview(selectedKanji, 4)}
+                        style={{ padding: '8px 2px', fontSize: '0.8rem', background: 'rgba(6, 182, 212, 0.15)', borderColor: 'rgba(6, 182, 212, 0.4)', color: 'var(--accent-cyan)' }}
+                      >
+                        Mudah 4
+                      </button>
+                    </div>
+                  </div>
                 </div>
-                <div className="canvas-buttons">
-                  <button className="canvas-btn canvas-btn-clear" onClick={initCanvas}>
-                    Hapus Coretan
-                  </button>
-                  <button
-                    className="canvas-btn"
-                    style={{ background: 'rgba(139, 92, 246, 0.15)', color: '#c084fc', border: '1px solid rgba(139, 92, 246, 0.3)' }}
-                    onClick={() => speak(selectedKanji.kanji)}
-                    aria-label={`Dengarkan pelafalan kanji ${selectedKanji.kanji}`}
+              ) : (
+                /* Practice Writing Pad (Canvas) */
+                <div className="canvas-container">
+                  <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', fontWeight: '600' }}>Gambarkan Kanji Pada Kotak</div>
+                  <canvas
+                    ref={canvasRef}
+                    width="260"
+                    height="260"
+                    className="drawing-canvas"
+                    onMouseDown={startDrawing}
+                    onMouseMove={draw}
+                    onMouseUp={stopDrawing}
+                    onMouseLeave={stopDrawing}
+                    onTouchStart={startDrawing}
+                    onTouchMove={draw}
+                    onTouchEnd={stopDrawing}
+                  />
+                  <div
+                    className="review-buttons"
+                    style={{ width: '100%' }}
                   >
-                    🔊 Pelafalan
-                  </button>
+                    <button
+                      className={`review-btn review-btn-no${reviewFeedback === 'no' ? ' review-active-no' : ''}`}
+                      onClick={() => handleReview(selectedKanji, 1)}
+                    >
+                      Belum Hafal
+                    </button>
+                    <button
+                      className={`review-btn review-btn-yes${reviewFeedback === 'yes' ? ' review-active-yes' : ''}`}
+                      onClick={() => handleReview(selectedKanji, 3)}
+                    >
+                      Sudah Hafal
+                    </button>
+                  </div>
+                  <div className="canvas-buttons">
+                    <button className="canvas-btn canvas-btn-clear" onClick={initCanvas}>
+                      Hapus Coretan
+                    </button>
+                    <button
+                      className="canvas-btn"
+                      style={{ background: 'rgba(139, 92, 246, 0.15)', color: '#c084fc', border: '1px solid rgba(139, 92, 246, 0.3)' }}
+                      onClick={() => speak(selectedKanji.kanji)}
+                      aria-label={`Dengarkan pelafalan kanji ${selectedKanji.kanji}`}
+                    >
+                      🔊 Pelafalan
+                    </button>
+                  </div>
                 </div>
-              </div>
+              )}
 
               {/* Kanji Details */}
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
@@ -584,7 +701,7 @@ export default function KanjiStudy({ currentLevel }) {
                           tabIndex={0}
                           aria-label={`Dengarkan pelafalan ${ex.word}`}
                         >
-                          {ex.word} <span style={{ fontSize: '0.8rem', fontWeight: 'normal', color: 'var(--text-secondary)' }}>({ex.reading})</span>
+                          <RubyText text={ex.word} reading={ex.reading} />
                         </span>
                         <span style={{ fontSize: '0.85rem', color: 'var(--accent-cyan)' }}>{ex.meaning}</span>
                       </div>
