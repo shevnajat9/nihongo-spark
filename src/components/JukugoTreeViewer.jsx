@@ -110,7 +110,7 @@ export default function JukugoTreeViewer() {
       </div>
 
       {/* MAIN TWO-COLUMN VIEW (MINDMAP + INSPECTOR) */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'minmax(320px, 1.4fr) minmax(300px, 1fr)', gap: '1.5rem' }}>
+      <div className="jukugo-tree-grid">
         
         {/* LEFT COLUMN: INTERACTIVE VISUAL NODE NETWORK */}
         <div style={{
@@ -187,7 +187,7 @@ export default function JukugoTreeViewer() {
               Cabang Senyawa Kata ({currentTree.compounds.length} Kosakata):
             </div>
 
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '0.75rem' }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(135px, 1fr))', gap: '0.75rem' }}>
               {currentTree.compounds.map((comp, idx) => {
                 const isSelected = selectedCompound?.word === comp.word;
                 const colors = getLevelColor(comp.level);

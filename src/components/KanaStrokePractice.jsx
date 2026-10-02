@@ -578,7 +578,7 @@ export default function KanaStrokePractice({ initialKana = 'あ', initialType = 
       </div>
 
       {/* MAIN TWO-COLUMN STUDIO: STROKE VIEWER & DRAWING CANVAS */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'minmax(320px, 1fr) minmax(320px, 1.1fr)', gap: '1.5rem', alignItems: 'start' }}>
+      <div className="kana-stroke-grid">
         
         {/* KOLOM KIRI: STROKE ORDER VIEWER & CALLIGRAPHY TIPS */}
         <div className="glass-panel" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>

@@ -339,7 +339,7 @@ export default function App() {
           onClick={() => { setActiveTab('dashboard'); setIsMobileDrawerOpen(false); }}
         >
           <div className="logo-icon-sm">Spark</div>
-          <span className="font-extrabold text-sm sm:text-base text-gradient tracking-wide">
+          <span className="font-extrabold text-sm sm:text-base text-gradient tracking-wide whitespace-nowrap">
             Nihongo Spark
           </span>
         </div>
@@ -364,8 +364,9 @@ export default function App() {
             onClick={() => setIsMobileDrawerOpen((prev) => !prev)}
             className="w-9 h-9 rounded-xl bg-white/10 hover:bg-white/15 active:bg-white/20 flex items-center justify-center text-white border border-white/10 transition"
             aria-label="Buka menu navigasi"
+            style={{ width: '36px', height: '36px', minWidth: '36px', minHeight: '36px' }}
           >
-            <svg fill="none" stroke="currentColor" strokeWidth="2.2" viewBox="0 0 24 24" className="w-5 h-5">
+            <svg fill="none" stroke="currentColor" strokeWidth="2.2" viewBox="0 0 24 24" width="20" height="20" style={{ width: '20px', height: '20px' }}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
             </svg>
           </button>
@@ -533,7 +534,7 @@ export default function App() {
           onClick={() => { setActiveTab('dashboard'); setIsMobileDrawerOpen(false); }}
           aria-label="Dashboard"
         >
-          <svg fill="none" stroke="currentColor" strokeWidth="2.2" viewBox="0 0 24 24" className="w-5 h-5">
+          <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" width="20" height="20" style={{ width: '20px', height: '20px', minWidth: '20px', minHeight: '20px' }}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
           </svg>
           <span>Home</span>
@@ -544,7 +545,7 @@ export default function App() {
           onClick={() => { setActiveTab('kana'); setIsMobileDrawerOpen(false); }}
           aria-label="Huruf Kana"
         >
-          <svg fill="none" stroke="currentColor" strokeWidth="2.2" viewBox="0 0 24 24" className="w-5 h-5">
+          <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" width="20" height="20" style={{ width: '20px', height: '20px', minWidth: '20px', minHeight: '20px' }}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
           </svg>
           <span>Kana</span>
@@ -555,7 +556,7 @@ export default function App() {
           onClick={() => { setActiveTab('vocab'); setIsMobileDrawerOpen(false); }}
           aria-label="Kosakata"
         >
-          <svg fill="none" stroke="currentColor" strokeWidth="2.2" viewBox="0 0 24 24" className="w-5 h-5">
+          <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" width="20" height="20" style={{ width: '20px', height: '20px', minWidth: '20px', minHeight: '20px' }}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
           </svg>
           <span>Kosakata</span>
@@ -566,7 +567,7 @@ export default function App() {
           onClick={() => { setActiveTab('kanji'); setIsMobileDrawerOpen(false); }}
           aria-label="Kanji"
         >
-          <svg fill="none" stroke="currentColor" strokeWidth="2.2" viewBox="0 0 24 24" className="w-5 h-5">
+          <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" width="20" height="20" style={{ width: '20px', height: '20px', minWidth: '20px', minHeight: '20px' }}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z" />
           </svg>
           <span>Kanji</span>
@@ -577,7 +578,7 @@ export default function App() {
           onClick={() => setIsMobileDrawerOpen((prev) => !prev)}
           aria-label="Semua Menu"
         >
-          <svg fill="none" stroke="currentColor" strokeWidth="2.2" viewBox="0 0 24 24" className="w-5 h-5">
+          <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" width="20" height="20" style={{ width: '20px', height: '20px', minWidth: '20px', minHeight: '20px' }}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
           </svg>
           <span>Menu</span>

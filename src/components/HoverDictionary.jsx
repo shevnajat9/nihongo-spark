@@ -111,19 +111,11 @@ export default function HoverDictionary({ currentLevel = 'N5' }) {
   return (
     <>
       {/* FLOATING ACTION BUTTON & QUICK SEARCH DOCK */}
-      <div style={{
-        position: 'fixed',
-        bottom: '5.5rem',
-        right: '1.25rem',
-        zIndex: 9990,
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'flex-end',
-        gap: '0.5rem'
-      }}>
+      <div className="yomitan-floating-dock">
         {/* Quick Search Button */}
         <button
           onClick={() => setShowManualSearch(true)}
+          className="yomitan-quick-btn"
           title="Buka Kamus Pop-up Cepat (Yomitan Look-up)"
           style={{
             background: 'linear-gradient(135deg, #6366f1, #8b5cf6)',
@@ -143,12 +135,13 @@ export default function HoverDictionary({ currentLevel = 'N5' }) {
           }}
         >
           <span>🔍</span>
-          <span>Kamus Cepat</span>
+          <span className="yomitan-btn-text">Kamus Cepat</span>
         </button>
 
         {/* Hover Mode Status Badge */}
         <button
           onClick={toggleEnabled}
+          className="yomitan-toggle-btn"
           title={isEnabled ? 'Klik untuk nonaktifkan tooltip Yomitan saat seleksi teks' : 'Klik untuk aktifkan tooltip Yomitan saat seleksi teks'}
           style={{
             background: isEnabled ? 'rgba(16, 185, 129, 0.2)' : 'rgba(100, 116, 139, 0.3)',
@@ -165,7 +158,7 @@ export default function HoverDictionary({ currentLevel = 'N5' }) {
           }}
         >
           <span style={{ fontSize: '0.65rem' }}>{isEnabled ? '●' : '○'}</span>
-          <span>Yomitan: {isEnabled ? 'Aktif' : 'Nonaktif'}</span>
+          <span className="yomitan-btn-text">Yomitan: {isEnabled ? 'Aktif' : 'Nonaktif'}</span>
         </button>
       </div>
 

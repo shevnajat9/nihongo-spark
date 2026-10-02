@@ -1139,16 +1139,18 @@ body {
 /* Small Logo Icon */
 .logo-icon-sm {
   background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-cyan) 100%);
-  width: 30px;
-  height: 30px;
+  height: 28px;
+  padding: 0 8px;
   border-radius: 8px;
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
-  font-weight: bold;
-  font-size: 0.95rem;
+  font-weight: 800;
+  font-size: 0.72rem;
+  letter-spacing: 0.5px;
   box-shadow: 0 2px 10px var(--accent-primary-glow);
+  flex-shrink: 0;
 }
 
 /* Mobile & Tablet Header Bar */
@@ -1172,6 +1174,12 @@ body {
 
 /* Responsive Breakpoints & Device Adaptation */
 @media (max-width: 1023px) {
+  .app-container {
+    flex-direction: column !important;
+    width: 100% !important;
+    min-height: 100vh;
+  }
+
   .sidebar {
     display: none !important;
   }
@@ -1180,16 +1188,19 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: sticky;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 80;
-    padding: 0.75rem 1rem;
-    background: rgba(8, 11, 17, 0.94);
+    width: 100%;
+    height: 56px;
+    z-index: 100;
+    padding: 0 1rem;
+    background: rgba(8, 11, 17, 0.96);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--glass-border);
+    box-sizing: border-box;
   }
 
   .mobile-drawer-backdrop {
@@ -1232,9 +1243,11 @@ body {
 
   .main-content {
     margin-left: 0 !important;
+    margin-top: 56px !important;
     width: 100% !important;
     max-width: 100% !important;
     padding: 1.25rem 1rem 6.5rem 1rem !important;
+    box-sizing: border-box;
   }
 
   .dashboard-grid {
@@ -1251,12 +1264,13 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
+    height: 56px;
     z-index: 85;
     background: rgba(8, 11, 17, 0.96);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border-top: 1px solid var(--glass-border);
-    padding: 0.35rem 0.2rem calc(0.35rem + env(safe-area-inset-bottom, 0px)) 0.2rem;
+    padding: 0.25rem 0.2rem calc(0.25rem + env(safe-area-inset-bottom, 0px)) 0.2rem;
     box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.5);
   }
 
@@ -1271,10 +1285,20 @@ body {
     font-weight: 600;
     background: transparent;
     border: none;
-    padding: 0.35rem 0;
+    padding: 0.25rem 0;
     cursor: pointer;
     transition: color 0.15s ease, transform 0.1s ease;
     touch-action: manipulation;
+  }
+
+  .bottom-nav-item svg {
+    width: 20px !important;
+    height: 20px !important;
+    max-width: 20px !important;
+    max-height: 20px !important;
+    min-width: 20px !important;
+    min-height: 20px !important;
+    flex-shrink: 0;
   }
 
   .bottom-nav-item:active {
@@ -1916,11 +1940,46 @@ body {
 .max-w-2xl { max-width: 42rem; }
 .max-w-3xl { max-width: 48rem; }
 .max-w-4xl { max-width: 56rem; }
-.max-w-5xl { max-width: 64rem; }
 .w-full { width: 100%; }
 .h-full { height: 100%; }
+.w-3 { width: 0.75rem !important; }
+.h-3 { height: 0.75rem !important; }
+.w-3\.5 { width: 0.875rem !important; }
+.h-3\.5 { height: 0.875rem !important; }
+.w-4 { width: 1rem !important; }
+.h-4 { height: 1rem !important; }
+.w-5 { width: 1.25rem !important; }
+.h-5 { height: 1.25rem !important; }
+.w-6 { width: 1.5rem !important; }
+.h-6 { height: 1.5rem !important; }
+.w-7 { width: 1.75rem !important; }
+.h-7 { height: 1.75rem !important; }
+.w-8 { width: 2rem !important; }
+.h-8 { height: 2rem !important; }
+.w-10 { width: 2.5rem !important; }
+.h-10 { height: 2.5rem !important; }
+.w-12 { width: 3rem !important; }
+.h-12 { height: 3rem !important; }
+.w-14 { width: 3.5rem !important; }
+.h-14 { height: 3.5rem !important; }
+.w-16 { width: 4rem !important; }
+.h-16 { height: 4rem !important; }
 
-/* Borders & Radii */
+/* SVG specific sizing fallbacks */
+svg.w-3 { width: 0.75rem !important; }
+svg.h-3 { height: 0.75rem !important; }
+svg.w-3\.5 { width: 0.875rem !important; }
+svg.h-3\.5 { height: 0.875rem !important; }
+svg.w-4 { width: 1rem !important; }
+svg.h-4 { height: 1rem !important; }
+svg.w-5 { width: 1.25rem !important; }
+svg.h-5 { height: 1.25rem !important; }
+svg.w-6 { width: 1.5rem !important; }
+svg.h-6 { height: 1.5rem !important; }
+svg.w-7 { width: 1.75rem !important; }
+svg.h-7 { height: 1.75rem !important; }
+svg.w-8 { width: 2rem !important; }
+svg.h-8 { height: 2rem !important; }
 .rounded-lg { border-radius: 8px; }
 .rounded-xl { border-radius: 12px; }
 .rounded-2xl { border-radius: 16px; }
@@ -2028,3 +2087,73 @@ select:focus {
   border-color: var(--accent-primary) !important;
   box-shadow: 0 0 0 2px var(--accent-primary-glow) !important;
 }
+
+/* Responsive Grids & Floating Docks */
+.jukugo-tree-grid {
+  display: grid;
+  grid-template-columns: minmax(320px, 1.4fr) minmax(300px, 1fr);
+  gap: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .jukugo-tree-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+}
+
+.kana-stroke-grid {
+  display: grid;
+  grid-template-columns: minmax(320px, 1fr) minmax(320px, 1.1fr);
+  gap: 1.5rem;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .kana-stroke-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+}
+
+/* Yomitan Floating Action Dock */
+.yomitan-floating-dock {
+  position: fixed;
+  bottom: 2rem;
+  right: 1.5rem;
+  z-index: 9990;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
+  transition: all 0.25s ease;
+}
+
+@media (max-width: 767px) {
+  .yomitan-floating-dock {
+    bottom: calc(58px + env(safe-area-inset-bottom, 0px) + 0.75rem) !important;
+    right: 0.75rem !important;
+  }
+  .yomitan-floating-dock .yomitan-btn-text {
+    display: none !important;
+  }
+  .yomitan-floating-dock .yomitan-quick-btn {
+    padding: 0.5rem !important;
+    border-radius: 50% !important;
+    width: 42px !important;
+    height: 42px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    box-shadow: 0 4px 14px rgba(99, 102, 241, 0.4) !important;
+  }
+  .yomitan-floating-dock .yomitan-quick-btn span:first-child {
+    font-size: 1.15rem !important;
+    margin: 0 !important;
+    line-height: 1 !important;
+  }
+  .yomitan-floating-dock .yomitan-toggle-btn {
+    display: none !important;
+  }
+}
+
