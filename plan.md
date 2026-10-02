@@ -92,6 +92,14 @@ quadrantChart
 - **Kontrol:** `Space` (Reveal), `1` (Again), `2` (Hard), `3` (Good), `4` (Easy), `J` (Play Audio).
 - **Status:** Selesai (100%) ✅
 
+### 5b. Studio Animasi Urutan Coretan & Kanvas Menulis Kana (*Kakushun & Tracing Studio*)
+- **Solusi:**
+  - Animasi urutan coretan resmi (*kakushun*) berbasis data vektor KanjiVG untuk seluruh 46 Hiragana & 46 Katakana.
+  - Kanvas digital interaktif dengan grid kotak buku tulis Jepang (*Genkouyoushi*), panduan watermark bayangan tipis untuk menjiplak (*tracing*), pilihan kuas & tinta (*Sumi, Ai, Akane, Midori*).
+  - Algoritma penilaian akurasi coretan (0-100%) & rating bintang dengan umpan balik motivasi pedagogis.
+  - Tips kaligrafi lekukan (membedakan シ vs ツ, ソ vs ン, さ vs き), contoh kosakata, dan tombol audio pengucapan.
+- **Status:** Selesai (100%) ✅
+
 ---
 
 ## 🧠 FASE 2: Retensi Memori, Kanji Mastery, & Audio Native (Selesai ✅)

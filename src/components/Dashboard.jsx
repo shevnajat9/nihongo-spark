@@ -555,6 +555,28 @@ export default function Dashboard({
               </button>
             </div>
 
+            {/* Coretan & Menulis Kana */}
+            <div className="glass-panel" style={{ padding: '1.25rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', gap: '0.8rem', border: '1px solid rgba(236, 72, 153, 0.25)', background: 'linear-gradient(135deg, rgba(236, 72, 153, 0.08), rgba(99, 102, 241, 0.05))' }}>
+              <div>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.3rem' }}>
+                  <span style={{ fontSize: '0.7rem', fontWeight: 800, color: '#f472b6', background: 'rgba(236, 72, 153, 0.2)', padding: '2px 6px', borderRadius: '8px' }}>PONDASI DASAR</span>
+                  <span style={{ fontSize: '1.2rem' }}>✒️</span>
+                </div>
+                <h3 style={{ margin: '0.2rem 0', fontSize: '1.1rem', color: '#f8fafc', fontWeight: 700 }}>
+                  Latihan Coretan Kana
+                </h3>
+                <p style={{ margin: 0, fontSize: '0.82rem', color: '#94a3b8', lineHeight: 1.5 }}>
+                  Animasi urutan coretan resmi (*kakushun*) vektor KanjiVG dan kanvas jiplak tulisan tangan Hiragana & Katakana.
+                </p>
+              </div>
+              <button
+                onClick={() => setActiveTab('kana-practice')}
+                style={{ background: 'linear-gradient(135deg, #ec4899, #db2777)', color: 'white', border: 'none', borderRadius: '8px', padding: '0.5rem 1rem', fontSize: '0.82rem', fontWeight: 700, cursor: 'pointer' }}
+              >
+                Latih Coretan ➔
+              </button>
+            </div>
+
             {/* FASE 4: Kanji Handwriting Recognition Canvas */}
             <div className="glass-panel" style={{ padding: '1.25rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', gap: '0.8rem', border: '1px solid rgba(244, 63, 94, 0.25)', background: 'linear-gradient(135deg, rgba(244, 63, 94, 0.08), rgba(236, 72, 153, 0.05))' }}>
               <div>
